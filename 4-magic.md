@@ -71,16 +71,16 @@ score on 2D6. If he fails, he may not cast a spell that turn. If
 the test is passed the spell may be used as described overleaf.
 A wizard may cast one spell per turn and may not use missile
 weapons if he wants to cast a spell. He can however run!
-A wizard may not use magic if he is wearing armour or has a
+A wizard may not use magic if he is wearing armor or has a
 shield or buckler. The only exception is the Prayers of
 Sigmar. Sisters of Sigmar and Warrior-Priests may wear
-armour and use their prayers.
+armor and use their prayers.
 #### Damage
 
 Some spells cause direct damage, and are resolved the same
 way as damage from shooting or blows in hand-to-hand
 combat. Spells do not cause critical hits. Models always
-receive armour saves against wounds caused by spells unless
+receive armor saves against wounds caused by spells unless
 noted otherwise.
 
 
@@ -91,7 +91,7 @@ noted otherwise.
 Those with great faith in the gods can call upon their divine power. The priests of Sigmar can pray for many miracles:
 healing of wounds, strengthening the resolve of their comrades or the banishment of Daemonic creatures and the Undead.
 The Prayers of Sigmar can be used by Witch Hunter Warrior Priests and Sigmarite Matriarchs. A warrior may use the divine
-power of Sigmar while wearing armour. Prayers of Sigmar are not regarded as spells, so any special protection against spells
+power of Sigmar while wearing armor. Prayers of Sigmar are not regarded as spells, so any special protection against spells
 does not affect them.
 D6 Result
 1 The Hammer of Sigmar Difficulty 7
@@ -108,7 +108,7 @@ stunned or put out of action. If cast again the effects are not cumulative, i.e.
 3 Soulfire Difficulty 9
 The wrath of Sigmar comes to earth. Purifying flames surround the Priest and wipe out those who resist the righteous
 fury of the God-Emperor!
-All enemy models within 4" of the servant of Sigmar suffer a Strength 3 hit. No armour saves are allowed. The servants
+All enemy models within 4" of the servant of Sigmar suffer a Strength 3 hit. No armor saves are allowed. The servants
 of darkness and Chaos are especially susceptible to Sigmar’s holy power.
 Undead and Possessed models in range suffer a Strength 5 hit instead.
 4 Shield of Faith Difficulty 6
@@ -120,11 +120,11 @@ Laying hands upon a wounded comrade, the servant of Sigmar calls upon his Lord t
 Any one model within 2" of the Priest (including himself) may be healed. The warrior is restored to his full quota of
 Wounds. In addition, if any friendly models within 2" are stunned or knocked down, they immediately come to their
 senses, stand up, and continue fighting as normal.
-6 Armour of Righteousness Difficulty 9
-Impenetrable armour covers the Priest and the fiery image of a twin-tailed comet burns above his head.
-The Priest has an armour save of 2+ which replaces his normal armour save. In addition, he causes fear in his enemies
+6 Armor of Righteousness Difficulty 9
+Impenetrable armor covers the Priest and the fiery image of a twin-tailed comet burns above his head.
+The Priest has an armor save of 2+ which replaces his normal armor save. In addition, he causes fear in his enemies
 and is therefore immune to fear himself.
-The power of the Armour of Righteousness lasts until the beginning of the Priest’s next Shooting phase.
+The power of the Armor of Righteousness lasts until the beginning of the Priest’s next Shooting phase.
 
 
 
@@ -159,7 +159,7 @@ Taal is the God of Nature and demands the respect of all those who enter the wil
 portrayed as a tall, broad-shouldered man with long wild hair and a thick beard. He wears a stag skull as a helm and is
 clothed in bison and bear skins. He is often called the Lord of Beasts. His followers include rangers, trappers and those
 who live in the wilds of the Empire.
-Prayers of Taal work like the Prayers of Sigmar although the Taal Priest never wears armour.
+Prayers of Taal work like the Prayers of Sigmar although the Taal Priest never wears armor.
 D6 Result
 1 Stag’s Leap Difficulty 7
 Many of Taal’s priests wear a stag skull as a symbol of their devotion and the Forest Lord’s power can be used to
@@ -175,7 +175,7 @@ model within 2" of the Priest (including himself). The warrior is restored to hi
 living enemy models (not Undead or Possessed) within 2" of the Priest will be lose 1 Attack during the next round of
 combat due to the potent fumes of the ale.
 3 Bear’s Paw Difficulty 7
-Many an armoured knight has been knocked to the ground by the surprising Strength of the followers of Taal. Although
+Many an armored knight has been knocked to the ground by the surprising Strength of the followers of Taal. Although
 traditionally called ‘Bear’s Paw’ this spell is sometimes referred to as ‘Moose’s Breath’ by those Ostlander’s who have
 felt its power.
 The Priest invokes the blessing of Taal on himself or a single friendly model within 6". The target receives a bonus of
@@ -199,8 +199,8 @@ Taal is the master of all beasts both great and small. Those who anger him may b
 drowned in a flood caused by an angry beaver.
 With this spell the Priest invokes the wrath of the Lord of Beasts, summoning forth dozens upon dozens of enraged
 squirrels. The furious rodents assault one enemy within 12" of the Priest, crawling inside the warrior’s clothing and
-armour, pelting him with nuts and causing numerous tiny bites and welts. The target suffers 2D6 Strength 1 hits. No
-armour saves allowed.
+armor, pelting him with nuts and causing numerous tiny bites and welts. The target suffers 2D6 Strength 1 hits. No
+armor saves allowed.
 
 
 
@@ -251,7 +251,7 @@ By Todd Estabrook (legion@ennui.net)
 Priests of Morr use Funerary rites to insure that the dead remain dead, that their body is sanctified and sealed and
 their soul departed to pass on to Morr. They are prayers, not spells, and thus any special protection against spells does
 not affect them.
-Funerary rites work like the Prayers of Sigmar although the Priest of Morr never wears armour.
+Funerary rites work like the Prayers of Sigmar although the Priest of Morr never wears armor.
 D6 Result
 1 Morr's Protection Difficulty 6
 The priest of Morr calls out to his god when confronted by an abomination - and asks that he be shielded from the
@@ -281,7 +281,7 @@ that model is immediately Stunned. If the model cannot be Stunned, then it is Kn
 I am a priest of Morr, god of death!
 It is a well known fact that the priests of Morr are not martially inclined. Their divine duties involved the dead, not the
 taking of life. However, there are times when a priest of Morr will be called to engage in combat and who would be
-more feared than a representative of the god of Death? This spell gives the priest of Morr a 6+ armour save and
+more feared than a representative of the god of Death? This spell gives the priest of Morr a 6+ armor save and
 increases their WS by either +1 or makes it 4, whichever is greater.
 
 
@@ -314,7 +314,7 @@ The priest may not be charged. If in combat, move him 1" apart.
 ##### Norse Runes
 
 The Norse Shaman starts with two ‘Runes’ from the following chart. These are treated in the same way as Sigmarite Prayers
-and can be cast whilst wearing armour. Abilities that give saves against spells, give saves against runes.
+and can be cast whilst wearing armor. Abilities that give saves against spells, give saves against runes.
 D6 Result
 1 Howl of the North Difficulty 9
 Icy winds sweep before the Shaman knocking missiles from their path.
@@ -327,7 +327,7 @@ lasts till the start of the Norse players next turn.
 3 Elvek’s Cold Spear Difficulty 7
 A razor sharp icicle flies at the Shaman’s foe.
 The icicle has a range of 18" and causes one S4 hit. It strikes the first model in its path.
-Normal armour saves applies.
+Normal armor saves applies.
 4 Gift of the Fates Difficulty 7
 The Shaman calls on the three Wyrd Sisters of Norse legend for a glimpse of the future.
 The Shaman may adjust one die roll by +/-1 between a successful casting of this rune & his next recovery phase. A to
@@ -361,7 +361,7 @@ Weaver’s next turn.
 2 The Living Shadows Difficulty 7
 Shadows around the target suddenly writhe as if alive and move to strike the victim.
 The Shadow Weaver may cast this spell at any enemy model within 12" of him and within 2" of a wall. The target
-suffers a single Strength 4 hit with no armour saves.
+suffers a single Strength 4 hit with no armor saves.
 3 Wings of Night Difficulty 6
 Wings of darkness unfurl from the Shadow Weaver’s back and engulf him. He disappears, only to reappear in nearby
 shadow.
@@ -386,7 +386,7 @@ the target exactly as if he were Stunned.
 Shadows congeal and become a solid barrier in front of the Shadow Weaver or one of his comrades, protecting the
 target from enemy attacks.
 The Shadow Weaver may cast this spell on himself or a member of his warband within 12". The target receives an
-armour save of 5+ that is not modified by the attacker’s Strength. The spell lasts until the start of the Shadow Weaver’s
+armor save of 5+ that is not modified by the attacker’s Strength. The spell lasts until the start of the Shadow Weaver’s
 next turn.
 
 
@@ -410,7 +410,7 @@ The wizard projects a bolt of mystic green energy 18" long and 1" wide that igno
     model who’s base is even partially under this line must roll under their Initiative or suffer d3 S4 hits. Range: 18
 3 Hunting Spear Difficulty 9
 The wizard hurls a mystical spear at any enemy model within LOS not fighting in Hand to Hand, rolling to hit using his
-    BS. Any model struck by the spell suffers a single S6 hit that causes d3 Wounds. Normal Armour saves do not apply.
+    BS. Any model struck by the spell suffers a single S6 hit that causes d3 Wounds. Normal Armor saves do not apply.
     Range: 24"
 4 Thorn Call Difficulty 8
 Thick Vines sprout out of the ground tearing and ensnaring its victim.
@@ -478,7 +478,7 @@ and Chaos Mages, but it is still dangerous.
 D6 Result
 1 Fires of U’Zhul Difficulty 7
 The wizard summons a fiery ball of flames and hurls it upon his enemies.
-The fireball has a range of 18" and causes one Strength 4 hit. It strikes the first model in its path. Armour saves are
+The fireball has a range of 18" and causes one Strength 4 hit. It strikes the first model in its path. Armor saves are
 taken as normal (i.e., with -1 modifier).
 2 Flight of Zimmeran Difficulty 7
 Calling upon the power of the winds of magic, the wizard walks on air.
@@ -555,7 +555,7 @@ outstretched hand.
 The bolt of doom may be targeted at any enemy model in line of sight. The Doombolt has an 18" range and causes a
 Strength 5 hit. If the target model is wounded, then the next closest model within 6" is also hit on a 4+, at -1 Strength
 than the previous hit. The bolt will keep leaping until there are no more targets within range or until its Strength drops
-to a one. Each model can only be hit by a bolt once per turn. Take armour saves as normal.
+to a one. Each model can only be hit by a bolt once per turn. Take armor saves as normal.
 2 Word of Pain Difficulty 8
 The Sorceress calls the curse of the Witch King down on his enemy reducing their willingness to fight.
 The spell may be cast at an enemy model within 12". The victim must re-roll all successful hand to hand or missile
@@ -565,14 +565,14 @@ the beginning of the next Dark Elf turn.
 At the Sorceress’s touch, the essence of life is drained from her enemy and absorbed into her body giving him renewed
 strength and vigour.
 Once successfully cast, the Sorceress has to make a to hit roll against a model in base contact. If the attack is successful
-and her opponent is struck, he suffers a wound with no armour save possible. The Sorceress feeds on this life-force and
+and her opponent is struck, he suffers a wound with no armor save possible. The Sorceress feeds on this life-force and
 adds one wound to her profile. Note: the Sorceress can never have more then one extra wound from the use of this spell
 and the extra wound is lost at the end of the battle.
 4 Flamesword Difficulty 8
 Summoning Dark Magic the Sorceress engulfs a weapon in twisted black flames.
 The Sorceress may choose the hand-to-hand combat weapon of a member of her warband within 6" to be engulfed in
 flames. A weapon with these flames acts as a normal weapon of its type, but also adds a +2 bonus to the users Strength.
-Hits inflicted from the weapon ignore armour saves. Lasts until the Sorceress’ next shooting phase.
+Hits inflicted from the weapon ignore armor saves. Lasts until the Sorceress’ next shooting phase.
 5 Deathspasm Difficulty 10
 The Sorceress channels Dark Magic into her enemy, causing him to writhe in excruciating pain.
 The Deathspasm has a range of 6" and must be cast on the closest enemy model. The affected model must roll on the
@@ -616,10 +616,10 @@ they count as charging.
 The Necromancer calls the soul of a slain Hero back to his body and enslaves him with corrupt magic.
 If an enemy Hero is killed (i.e., your opponent rolls 11-16 on the Serious Injury chart after the battle) then the
 Necromancer may raise him to fight as a Zombie in his servitude.
-The dead Hero retains his characteristics and all his weapons and armour but may not use any other equipment or skills.
+The dead Hero retains his characteristics and all his weapons and armor but may not use any other equipment or skills.
 He may no longer run, counts as a Henchman group on his own, and may not gain additional experience. This spell
 always succeeds (rules for Henchmen and experience are described later). The new Zombie follows all the normal
-Zombie rules (immune to poison, causes fear) except for retaining his profile, weapons and armour.
+Zombie rules (immune to poison, causes fear) except for retaining his profile, weapons and armor.
 
 
 
@@ -644,7 +644,7 @@ roll on the Serious Injury chart after the battle though.
 2-5 The model gains +1 to any one of his characteristics during this battle (chosen by the player who cast the spell).
 6 The model gains +1 to all of its characteristics for the duration of the battle.
 3 Dark Blood Difficulty 8
-The Chaos Mage cuts his palm and his blood spurts out, burning flesh and armour.
+The Chaos Mage cuts his palm and his blood spurts out, burning flesh and armor.
 This attack has a range of 8" and causes D3 S5 hits. It hits the first model in its path. After using this spell the Chaos
 Mage must roll on the Injury table for himself to see how dangerous the wound is, though treat the out of action result
 as stunned instead.
@@ -663,7 +663,7 @@ case he counts as charging. If he engages a fleeing enemy, in the close combat p
 then his opponent will flee again (if he survives).
 6 Word of Pain Difficulty 7
 Speaking the forbidden name of his dark god, the Chaos Mage causes indescribable pain to all who hear it.
-All models within 3" of the Chaos Mage, friend or foe, suffer one S3 hit. No armour saves are allowed.
+All models within 3" of the Chaos Mage, friend or foe, suffer one S3 hit. No armor saves are allowed.
 
 
 
@@ -679,17 +679,17 @@ beginning of their next turn.
 2 Buboes Difficulty 7
 The Master bestows the gift of pus-filled buboes upon his enemies.
 This spell has a range of 8" and affects a single enemy warrior. The warrior must pass a Toughness test or lose a
-Wound. No Armour saves are allowed.
+Wound. No Armor saves are allowed.
 3 Stench of Nurgle Difficulty 8
 The Master spews forth a foul, stinking mist that chokes his foes.
 This spell has a range of 6" and affects all living creatures – friend or foe. Each enemy warrior in range must pass a
 Toughness test or lose an Attack until their next turn.
 4 Pestilence Difficulty 10
 The Master inflicts horrible diseases upon the unbelievers.
-All enemy models within 12" of the Master suffer a Strength 3 hit. No Armour saves are allowed.
+All enemy models within 12" of the Master suffer a Strength 3 hit. No Armor saves are allowed.
 5 Scabrous Hide Difficulty 8
 The Master’s skin becomes tough and leathery like that of his patron god.
-The Master has an armour save of 2+ which replaces any normal Armour save. The Scabrous Hide lasts until the
+The Master has an armor save of 2+ which replaces any normal Armor save. The Scabrous Hide lasts until the
 beginning of his next Shooting phase.
 6 Nurgle’s Rot Difficulty 9
 The Master bestows the blessing of the Plague God upon his foe.
@@ -726,7 +726,7 @@ suffer a Strength 3 hit and must run 2D6" directly away from the Sorcerer, exact
 fighting against more than one opponent.
 6 Sorcerer’s Curse Difficulty 6
 The Sorcerer points a claw towards one of his enemies and curses him in the name of the Horned One.
-The spell has a range of 12" and affects a single model within range. The target must re-roll any successful armour
+The spell has a range of 12" and affects a single model within range. The target must re-roll any successful armor
 saves and to hit rolls during the Skaven hand-to-hand phase and his own next shooting and hand-to-hand combat
 phases.
 
@@ -774,7 +774,7 @@ deity, a loathsome daemonic god known as the Horned Rat.
 D6 Result
 1 Wither Difficulty 7
 The power of pestilence suffuses the hands of the Chanter, bringing contagion and suffering to the touch.
-The Chanter selects one model in base contact. This model suffers D3 Strength 6 hits, with no armour save possible.
+The Chanter selects one model in base contact. This model suffers D3 Strength 6 hits, with no armor save possible.
 2 Children of the Horned Rat Difficulty Auto
 The Sorcerer raises his paws and calls upon the Father of the Skaven to send forth his servants.
 This spell must be used before the game, and may only be used once. When cast, the spell summons D3 Giant Rats,
@@ -783,7 +783,7 @@ rats disappear after the battle. They do not count toward the maximum size of th
 3 Pestilent Breath Difficulty 7
 A wave of foul disease is coughed forth from the mouth of the faithful.
 The Chanter places the Breath Weapon template (see White Dwarf #242) with the tip touching the model. Any model
-touched by the template takes a single Strength 4 hit on a roll of 4+. Due to the nature of this attack, no armour saves
+touched by the template takes a single Strength 4 hit on a roll of 4+. Due to the nature of this attack, no armor saves
 are possible.
 4 Black Fury Difficulty 8
 With a chittering incantation the Sorcerer turns into a monstrous rat-like creature, which attacks with an insane fury.
@@ -796,7 +796,7 @@ he will flee in the direction opposite the caster at his full movement rate. If 
 effects last until the next shooting phase.
 6 Sorcerer’s Curse Difficulty 6
 The Chanter points a claw towards one of his enemies and curses him in the name of the Horned One.
-The spell has a range of 12” and affects a single model within range. The target must re-roll any successful armour
+The spell has a range of 12” and affects a single model within range. The target must re-roll any successful armor
 saves and to hit rolls during the Skaven hand-to-hand phase and his own next shooting and hand-to-hand combat
 phases.
 
@@ -822,11 +822,11 @@ they wished to charge a fear-causing enemy.
 3 Warp Lightning Difficulty: 8
 The power of the storms itself suffuses the Warlock, who unleashes the energy with devastating effects.
 This spell has a range of 24”, and the caster must have the target in line of site. When cast, this spell causes D3 Strength
-5 hits, with no armour save. Cover saves do apply as normal.
+5 hits, with no armor save. Cover saves do apply as normal.
 4 Poisoned Wind Difficulty: 9
 The Warlock expels an acidic cloud that coats his enemies, melting them into nothing.
 The Warlock places the Breath Weapon template with the tip touching the model. Any model touched by the template
-takes D3 wounds on a roll of 5+, with no armour save possible.
+takes D3 wounds on a roll of 5+, with no armor save possible.
 5 Eye of the Warp Difficulty: 8
 Gaze into the eye of the warp and despair!
 All standing models in base contact with the Warlock must take an immediate Leadership test. If they fail, they each
@@ -834,7 +834,7 @@ suffer a Strength 3 hit and must run 2D6” directly away from the Warlock, exac
 fighting against more than one opponent.
 6 Sorcerer’s Curse Difficulty: 6
 The Chanter points a claw towards one of his enemies and curses him in the name of the Horned One.
-The spell has a range of 12” and affects a single model within range. The target must re-roll any successful armour
+The spell has a range of 12” and affects a single model within range. The target must re-roll any successful armor
 saves and to hit rolls during the Skaven hand-to-hand phase and his own next shooting and hand-to-hand combat
 phases.
 
@@ -857,7 +857,7 @@ cast on models in hand-to-hand combat.
 3 Zzap! Difficulty: 9
 A crackling green bolt of WAAAGH! energy erupts from the Shaman’s forehead to strike the skull of the closest foe.
 This energy easily overloads the brain of a weak-willed opponent.
-Range 12". Causes D3 S4 hits on the closest enemy target, with no armour saves allowed.
+Range 12". Causes D3 S4 hits on the closest enemy target, with no armor saves allowed.
 4 Fooled Ya! Difficulty: 6
 The Shaman disappears in a green mist, confusing his enemies.
 No enemy may charge the Shaman during their next turn. If the Shaman is engaged in hand-to-hand combat he may

@@ -47,7 +47,7 @@ The following modifiers apply:
 - Routing is determined by the % lost of your warband's unit strength.
 - Characters may only wield equipment they come with and this equipment may not be sold or transferred. Different equipment can be used only if the Weapon Master skill is taken.
 - Models that come with a "Hand Weapon" must choose between Sword, Dagger, Mace, or Axe at the time of purchase. 
-- Common items (heavy armour, Hand Weapon etc) bought from the Warhammer book may not be transferred or sold.
+- Common items (heavy armor, Hand Weapon etc) bought from the Warhammer book may not be transferred or sold.
 - Weapons behave according to Mordheim rules, not Warhammer rules (particularly looking at spears).
 - Models of same type (eg, Infantry) that move into base contact may be considered a unit for the purposes of spells/effects that target units (such as buffing banners, or spells). 
 - Magic Items are unique to your warband. If you purchase a magic item and it is subsequently lost, stolen, or destroyed you may not purchase it again.

@@ -1,16 +1,17 @@
 Optional Rules
-Optional rules ..................................................................... pg 289
-Mounted Warriors ............................................................... pg 291
-Vehicles of the Empire ....................................................... pg 293
-Blackpowder weapons ........................................................ pg 297
-Fighting individual battles .................................................. pg 297
-Night Fights ........................................................................ pg 298
-The Catacombs ................................................................... pg 298
-Sewer Fighting .................................................................... pg 300
-Fire ..................................................................................... pg 302
-Random Happenings ........................................................... pg 303
-Power in the Stones ............................................................ pg 308
-Encampments ..................................................................... pg 312
+
+Including: 
+- Mounted Warriors
+- Vehicles of the Empire
+- Blackpowder weapons
+- Fighting individual battles
+- Night Fights
+- The Catacombs
+- Sewer Fighting
+- Fire
+- Random Happenings
+- Power in the Stones
+- Encampments
 
 
 ### Optional Rules
@@ -42,82 +43,6 @@ Some of these additional rules alter the game quite
 dramatically, and you are under no obligation to use any of
 them. They have simply been included for players who want
 to explore different aspects of the game.
-#### New critical hit charts
-
-Depending on what weapon your warrior is using, you may roll on one of the following Critical Hit charts. For example, if
-your warrior is using a sword, roll on the Bladed Weapons chart. All the rules governing critical hits given in the main rules
-also apply to these tables.
-
-##### Missile weapons
-
-(Bows, crossbows, blackpowder weapons, throwing knives etc.)
-1-2 Hits a Weak Spot. The missile penetrates its target’s armour.
-Ignore all armour saves.
-3-4 Ricochet. If there are any other models within 6", the closest
-enemy model is also hit. Roll to wound and take any saves as
-normal for both targets.
-5-6 Master Shot. The missile hits an eye, the throat, or some other
-vulnerable part. The target suffers 2 wounds instead of 1. There is
-no armour save.
-
-##### Bludgeoning weapons
-
-(Clubs, maces, hammers, flails, double-handed hammers etc.)
-1-2 Hammered. The target is knocked off balance. Your opponent
-may not fight this turn if he hasn’t already fought.
-3-4 Clubbed. The hit ignores armour saves and saves from helmets.
-5 Wild Sweep. Your opponent’s weapon is knocked from his hand.
-If he is carrying two weapons, roll to see which one he loses. He
-must fight with whatever back-up weapon he has in his equipment
-for the rest of this combat (or fight unarmed if he has no other
-weapons). Roll to wound and take armour saves as normal.
-6 Bludgeoned. The victim automatically goes out of action if he fails
-his armour save. Even if he has several wounds remaining, he will
-be taken out of action by this attack.
-
-##### Bladed weapons
-
-(Swords, axes, double-handed swords etc.)
-1-2 Flesh Wound. This attack hits an unprotected area, so there is no
-armour save.
-3-4 Bladestorm. The warrior unleashes a virtual hail of blows. The
-attack causes 2 wounds instead of 1. Take armour saves separately
-for each wound. Remember that, as with other critical hits, if an
-attack causes multiple wounds for other reasons as well, you choose
-the highest number of wounds.
-5-6 Sliced! The strike ignores armour saves, causes 2 wounds, and
-your warrior gains +2 to any Injury rolls.
-
-##### Unarmed combat
-
-(War dogs, warhorses, Zombies, Possessed, animals etc.)
-1-2 Body Blow. Your opponent staggers, allowing you to seize the
-initiative and make an additional attack. Immediately roll to hit and
-to wound. Any saves are taken as normal.
-3-4 Crushing Blow. The blow lands with tremendous force. You
-gain +1 to the Injury roll if your opponent fails his save.
-5-6 Mighty Blow. With a mighty punch or flying kick, you send
-your opponent sprawling to the ground. The attack ignores armour
-saves and you gain +2 to any Injury rolls.
-##### Thrusting weapons
-
-(Spears, halberds, lances etc.)
-1-2 Stab. With a quick strike, you penetrate your opponent’s
-defences. You gain +1 to any Injury rolls. Armour saves are taken as
-normal.
-3-4 Thrust. The thrust lands with great force and the target is
-knocked down. Take armour saves as normal and see whether the
-model suffers a wound.
-5-6 Kebab! The thrust knocks the target back with titanic force,
-ripping apart armour and puncturing flesh. The attack ignores
-armour saves and you gain +2 to any Injury rolls. The victim is
-knocked backwards D6" and the attacker follows, staying in base
-contact. Any other models involved in the combat are separated and
-only the model which struck the blow and his target are still
-considered to be in combat. If the target collides with another
-model, the other model is hit once at S3.
-Assembled By Paul H Page 291 (knights_templar@hotmail.com)
-
 
 #### Escaping from combat
 
@@ -166,9 +91,9 @@ mutation. On a roll of 2 or more you may choose
 which one of the mutations listed in the Cult of the
 Possessed Warbands section your warrior has been
 rewarded with.
-9-10 Chaos Armour. The warrior’s body becomes
+9-10 Chaos Armor. The warrior’s body becomes
 encrusted with an arcane, all enveloping suit of
-armour. This confers a basic 4+ save, but does not
+armor. This confers a basic 4+ save, but does not
 affect the model’s ability to cast spells or move in
 any way.
 
@@ -187,7 +112,7 @@ Skill, +1 Strength, +1 Attacks and +1 Wounds.
 These increases do not count towards his maximum
 characteristics. The warrior loses D3 of his skills
 (chosen by the player) and may no longer use
-weapons or armour, except for Chaos Armour or
+weapons or armor, except for Chaos Armor or
 Daemon weapons.
 (knights_templar@hotmail.com) Page 292 Assembled by Paul H
 
@@ -230,9 +155,9 @@ rider’s Toughness and Wounds.
 In close combat, a warhorse can make 1 attack, but a normal
 horse has no Attacks characteristic and therefore does not
 attack in close combat.
-Armour, called barding, may be purchased for a warhorse,
+Armor, called barding, may be purchased for a warhorse,
 (refer to the Trading chart). It adds a further +1 bonus to the
-model’s armour save, but subtracts one from its Movement.
+model’s armor save, but subtracts one from its Movement.
 A normal horse may not wear barding. A barded warhorse is
 only killed on a serious injury roll of ‘1’ if the model goes
 out of action.
@@ -274,8 +199,8 @@ with two weapons, although a shield or buckler may be used
 as normal. Two-handed weapons are not permitted. The use
 of a pistol in the first round of hand-to-hand combat replaces
 the model’s usual weapon.
-Armour Bonus: All riding animals give their riders a +1
-armour save bonus.
+Armor Bonus: All riding animals give their riders a +1
+armor save bonus.
 Bolting Mounts: In certain circumstances, a mount may bolt.
 A bolting mount must make a Leadership test at the
 beginning of the owning player’s turn; if successful it stops
@@ -340,7 +265,7 @@ up. The rider keeps his seat but must spend his next turn
 stationary regaining control, unable to move or shoot. If
 attacked, treat the rider as fallen down.
 3-4 The rider falls off his mount and is stunned, taking an
-additional S2 hit in the process with no armour save. In
+additional S2 hit in the process with no armor save. In
 addition, roll 1D6: on a roll of 1-3, the mount immediately
 bolts 3D6" in a random direction and continues until it has
 left the table – the mount may be recovered after the battle;
@@ -775,17 +700,17 @@ and you may either follow the limitations for the maximum
 size of a warband given in the list or agree a maximum size
 with your opponent.
 
-##### Weapons & armour
+##### Weapons & armor
 
 Each Hero you recruit may be armed with one or more
-weapons and any armour chosen from the appropriate list.
+weapons and any armor chosen from the appropriate list.
 Different types of Hero are restricted to different types of
 weapon. The Equipment lists for the individual warbands tell
 you exactly what equipment is available. You may buy rare
-weapons and armour. Pay the appropriate prices for these as
+weapons and armor. Pay the appropriate prices for these as
 given in the Trading charts.
 Every model in each Henchman group must take exactly the
-same weapons and armour. This means that if your
+same weapons and armor. This means that if your
 Henchman group has four warriors, and you want to buy
 them swords, you must buy four swords.
 
@@ -1331,7 +1256,7 @@ the flames fill their lungs and prevents them from breathing
 for a turn. The model instantly becomes stunned.
 If the roll is over the models toughness statistic then the
 model instantly suffers D3 strength 3 hits that ignore all
-armour saves except magical ones.
+armor saves except magical ones.
 ##### Frenzy
 
 The more unhinged inhabitants of Mordheim are less likely to
@@ -1441,7 +1366,7 @@ normal four-way cross-intersection roll a D6: 1-2 right, 3-4 straight
 forward, 5-6 left). The rats cannot be engaged in close combat and if
 they make contact with a model they will run right over him. Any
 model moved over by the rats will suffer D3 Strength 2 hits, normal
-armour saves apply.
+armor saves apply.
 13 Earthquake
 Powerful magical energies from the crater at the centre of the city
 shake the local landscape. The ground heaves and buckles violently
@@ -1569,7 +1494,7 @@ Attacks: Roll at the beginning of each Close Combat phase to
 determine the spawn’s number of Attacks for that phase.
 31 Collapsing Building
 Pick one building at random. Any models inside must pass an
-Initiative test or suffer a S5 hit, armour saves applying as normal, as
+Initiative test or suffer a S5 hit, armor saves applying as normal, as
 the building collapses. Remove the building from the table
 (replacing with ruins if possible), and place the models back on the
 table where it stood. Any models climbing the sides of a building or
@@ -1662,10 +1587,10 @@ Assembled By Paul H Page 307 (knights_templar@hotmail.com)
 
 D6 Result
 1 Warp lightning begins to strike the ground in search of a
-victim. It will hit the warrior with the best armour save,
+victim. It will hit the warrior with the best armor save,
 attracted to the large amount of metal. That warrior takes a
-S5 hit, with no armour save possible. If multiple warriors all
-have the highest armour save, randomly determine which is
+S5 hit, with no armor save possible. If multiple warriors all
+have the highest armor save, randomly determine which is
 struck. The warp lightning will strike for D3 turns before
 moving on towards another part of the city.
 2 Fish suddenly fall out of the sky to pelt the area! All
@@ -1675,7 +1600,7 @@ underfoot), but there is no other effect.
 and produced the strange looking clouds from which a
 tainted rain begins to fall. The rain burns flesh and eats into
 stone and metal. Each warband member in the open takes a
-single S2 hit (normal armour saves apply) every turn the rain
+single S2 hit (normal armor saves apply) every turn the rain
 lasts until he gets under cover. The rain lasts D3 turns.
 4 A magical mass of lightning forms near the ground,
 illuminating the area with an eerie greenish glow. It begins
@@ -1798,9 +1723,9 @@ of Sigmar section of the Mordheim rules) has seen her entire
 warband cut down around her and the experience has proven too
 much for. She now seeks revenge and is not particular about who
 gets to pay! She is armed with a Sigmarite Hammer and steel whip
-and wears heavy armour and a helm. She carries Blessed Water and
+and wears heavy armor and a helm. She carries Blessed Water and
 a Holy Relic on her person as well. She knows the prayers The
-Hammer of Sigmar and Armour of Righteousness (see the Prayers of
+Hammer of Sigmar and Armor of Righteousness (see the Prayers of
 Sigmar chart in the Mordheim rules for details). Roll randomly to
 determine which she casts on herself each turn. She has the skills
 Absolute Faith, Jump Up and Step Aside. The Matriarch will move
@@ -1821,7 +1746,7 @@ encounter is rolled, the Encountering Player must randomly
 determine which of his warband members has discovered the first
 trap. This unfortunate individual springs a trap immediately. If the
 trap is not avoided by passing an Initiative test, the model takes a
-Strength 3 hit; armour saves apply as normal. From this point until
+Strength 3 hit; armor saves apply as normal. From this point until
 the end of the game, each player will roll a D6 at the start of his or
 her Movement phase. A roll of 1 means that one member of that
 player’s warband has sprung a trap and must make an Initiative test
@@ -1930,7 +1855,7 @@ into the pool, all others simply lack the curiosity to bother!
 64 Screaming Walls
 Faces appear in the walls of one randomly determined building and
 start to emit a piercing shriek. Any warband members within 8" of
-the building take a S1 hit (no armour saves allowed) and are at -1 on
+the building take a S1 hit (no armor saves allowed) and are at -1 on
 all to hit rolls (close combat and shooting) while the screaming lasts.
 Spellcasters are even more sensitive to the noise than others and so
 no spells may be cast from within this radius. Roll a D3 to determine
@@ -1953,7 +1878,7 @@ the following characteristics:
 Profile M WS BS S T W I A Ld
 Spider 5 3 0 5 4 4 1 2 10
 Fearsome Beast: The Gigantic Spider causes fear.
-Chitinous Hide: It has an armour save of 4+.
+Chitinous Hide: It has an armor save of 4+.
 Poisonous Bite: Any to wound rolls of 5 or 6 (rather than just a 6)
 are treated as critical hits.
 The Gigantic Spider moves from the table edge it starts from to the
@@ -2063,10 +1988,10 @@ recovery phase. The warrior regains one lost Wound. Note
 that this healing is only beneficial to models who have more
 than one Wound on their profile.
 12 Stone of Protection. A model who carries this stone has
-their armour save improved by one point (i.e. a 5+ save
+their armor save improved by one point (i.e. a 5+ save
 becomes a 4+ save). Note that no model may ever have a
-save better than 1+. If the model has no armour, the stone
-gives him a 6+ armour save.
+save better than 1+. If the model has no armor, the stone
+gives him a 6+ armor save.
 Assembled By Paul H Page 311 (knights_templar@hotmail.com)
 
 
@@ -2128,7 +2053,7 @@ from the Cult of the Possessed or Skaven. Followers of
 Chaos have a sort of semi-reverence for these mindless
 beasts, and the Skaven have long been adept at training and
 using the products of wyrdstone-induced mutation.
-When the hero ‘Spawns’, any armour they were wearing is
+When the hero ‘Spawns’, any armor they were wearing is
 lost in the storm of violent mutation that overtakes the
 unfortunate warrior. Weapons and equipment are abandoned
 by the creature, however, and may be reclaimed by the
@@ -2243,10 +2168,10 @@ coloured with contrasting stripes, spots, or other patterns. No effect
 on play, but a great excuse to paint an interesting new model!
 21 Burning Body*: The mutant's body is constantly burning with
 flickering tongues of hellish flame and burns with unnatural light.
-The warrior may not carry any weapons or armour unless they are
+The warrior may not carry any weapons or armor unless they are
 magical, or forged from Gromril or Ithilmar. The mutant does not
 suffer the usual penalties for fighting with his fists (no -1 to the
-mutant's Strength, enemies do not add +l to armour saves). The
+mutant's Strength, enemies do not add +l to armor saves). The
 mutant always counts as having a lantern. Any model in base
 contact with the mutant suffers an automatic Strength 2 hit at the
 beginning of each close combat phase. The flames cannot cause
@@ -2298,10 +2223,10 @@ parties.
 gore attack in hand-to-hand combat at the mutant's normal Strength
 The mutant may no longer wear a helmet.
 43 Iron Hard Skin*: The mutant's skin is covered in iron and steel
-scales. The mutant's armour save is improved by +1 (i.e. a 5+ save
-becomes a 4+). Note that a warrior's armour save may never
-improve to better than a 1+ save. If the mutant has no armour, their
-skin alone gives them a 6+ armour save.
+scales. The mutant's armor save is improved by +1 (i.e. a 5+ save
+becomes a 4+). Note that a warrior's armor save may never
+improve to better than a 1+ save. If the mutant has no armor, their
+skin alone gives them a 6+ armor save.
 44 Mace Tail*: The mutant grows a flexible tail with a mace-like
 bony tip. Unless it already has a tail, the mutant gains an extra tail
 attack in each hand-to-hand combat phase at the mutant's Strength
@@ -2716,9 +2641,9 @@ Black Powder weapons though).
 Smithy
 Hearty blacksmiths work at the smithy where they fashion all
 kinds of metals into a variety of useful items. Mainly though
-they create weapons and armour. When visiting a blacksmith
+they create weapons and armor. When visiting a blacksmith
 you may add +2 to your Search rolls when trying to find
-armour or close combat weapons.
+armor or close combat weapons.
 Muleskinner
 A beast master takes care of the animals. He feeds, houses
 and trains horses, ponies and dogs. He reduces the difficulty

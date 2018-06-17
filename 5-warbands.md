@@ -65,7 +65,7 @@ can. Any unspent gold crowns are put into the warband’s
 treasury and can be used later or hoarded to buy something
 more expensive.
 To start with you must recruit at least three warriors
-including a leader. The weapons, armour and mutations you
+including a leader. The weapons, armor and mutations you
 choose for your warriors must be represented on the models
 themselves. The exceptions are knives and daggers, which
 you may assume are tucked in boots or concealed in clothing
@@ -128,27 +128,27 @@ All Henchmen belong to a Henchmen group, which usually
 consists of between one and five individuals. Henchmen
 groups gain experience collectively and gain advances
 together.
-#### Weapons and armour
+#### Weapons and armor
 
 Each warrior you recruit can be armed with up to two close
 combat weapons (in addition to his free dagger), up to two
-different missile weapons and any armour chosen from the
+different missile weapons and any armor chosen from the
 appropriate list. For these purposes, a brace of pistols counts
 as a single missile weapon. Warriors may be restricted in
 regard to which types of weapons they can use. The
 warband’s equipment lists tell you exactly what equipment is
-available. Note that you may buy rare weapons and armour
+available. Note that you may buy rare weapons and armor
 when starting a warband, as indicated by the list in the
 warband’s entry, but after playing the first game the only way
-to get further rare weapons and armour is to roll to see if you
+to get further rare weapons and armor is to roll to see if you
 can locate them (see the Trading section).
 You may buy additional equipment between battles, but your
-warriors can only use the weapons and armour listed in their
+warriors can only use the weapons and armor listed in their
 warband entry. As they accumulate experience and gain
 skills, Heroes may learn to use weapons other than those
 initially available to them.
 Every model in each Henchman group must be armed and
-armoured in the same way. This means that if your
+armored in the same way. This means that if your
 Henchman group has four warriors, and you want to buy
 them swords, you must buy four swords.
 #### Warband roster
@@ -164,7 +164,7 @@ write down the details of each Hero and Henchman group in
 the appropriate places. You’ll notice that Heroes and
 Henchmen have slightly different spaces provided to reflect
 the different ways in which they gain experience and use
-weapons, armour and equipment.
+weapons, armor and equipment.
 It is a good idea to work out the warband on a piece of scrap
 paper first, as you will have to juggle the weapons and
 fighters to get as close to the maximum permitted value of the
@@ -372,9 +372,9 @@ Crossbow ..................................................................... 2
 Pistol .................................................. 15 GC (30 for a brace)
 Duelling pistol ................................... 25 GC (50 for a brace)
 Bow ............................................................................. 10 GC
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
@@ -394,8 +394,8 @@ Long bow .................................................................... 15
 Blunderbuss ................................................................. 30 GC
 Handgun ...................................................................... 35 GC
 Hunting rifle .............................................................. 175 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
@@ -411,8 +411,8 @@ Captain, it is no wonder that they flock to Mordheim.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 4 1 8
-Weapons/Armour: A Mercenary Captain may be equipped
-with weapons and armour chosen from the Mercenary
+Weapons/Armor: A Mercenary Captain may be equipped
+with weapons and armor chosen from the Mercenary
 Equipment list.
 Skills: The Mercenary Captain may choose from Combat,
 Shooting, Academic, Strength, and Speed, when he gains a
@@ -433,8 +433,8 @@ in the warband. They often answer challenges issued to the warband
 and, after the Captain, they get the pick of any equipment and loot.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: Champions may be equipped with
-weapons and armour chosen from the Mercenary Equipment
+Weapons/Armor: Champions may be equipped with
+weapons and armor chosen from the Mercenary Equipment
 list.
 Skills: The Reikland Champions may choose from Combat,
 Shooting, &, Strength, the Middenheim Champions may
@@ -451,8 +451,8 @@ win their spurs in the savage fighting in and around the ruins of
 Mordheim.
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 3 1 6
-Weapons/Armour: Youngbloods may be equipped with
-weapons and armour chosen from the Mercenary Equipment
+Weapons/Armor: Youngbloods may be equipped with
+weapons and armor chosen from the Mercenary Equipment
 list.
 Skills: The Reikland & Marienburg Youngbloods may
 choose from Combat, Shooting, & Speed, The Middenheim
@@ -467,13 +467,13 @@ when he gains a new skill.
 Warriors
 25 gold crowns to hire
 These dogs of war are grim, seasoned fighters, fearing no man as
-long as they have their weapons and armour. They form the core of
+long as they have their weapons and armor. They form the core of
 any Mercenary warband.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Warriors may be equipped with weapons
-and armour chosen from the Mercenary Equipment list.
+Weapons/Armor: Warriors may be equipped with weapons
+and armor chosen from the Mercenary Equipment list.
 
 0-7 Marksmen
 25 gold crowns to hire
@@ -485,8 +485,8 @@ with their arrows.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Marksmen may be equipped with
-weapons and armour chosen from the Marksman Equipment
+Weapons/Armor: Marksmen may be equipped with
+weapons and armor chosen from the Marksman Equipment
 list.
 
 0-5 Swordsmen
@@ -497,8 +497,8 @@ warband leaders, as their skills are ideally suited for fighting in
 Mordheim.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: Swordsmen may be equipped with
-weapons and armour chosen from the Mercenary Equipment
+Weapons/Armor: Swordsmen may be equipped with
+weapons and armor chosen from the Mercenary Equipment
 list.
 Special Rules
 Expert Swordsmen: Swordsmen are so skilled with their
@@ -622,9 +622,9 @@ Pistol .................................................. 15 GC (30 for a brace)
 Duelling pistol ................................... 25 GC (50 for a brace)
 Crossbow ..................................................................... 25 GC
 Bow ............................................................................. 10 GC
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 
 Marksman Equipment List
@@ -641,8 +641,8 @@ Longbow ..................................................................... 15
 Handgun ...................................................................... 35 GC
 Blunderbuss ................................................................. 30 GC
 Hunting rifle .............................................................. 175 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
 Scout Equipment List
@@ -654,8 +654,8 @@ Sword ..........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Longbow (Bergjaeger only) ........................................ 15 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
 Miscellaneous
@@ -677,8 +677,8 @@ well fed will at best find himself deserted and worst end up with a
 knife in his back.
 Profile M WS BS S T W I A Ld
 4 4 4 3 3 1 4 1 8
-Weapons/Armour: A Captain may be equipped with
-weapons and armour chosen from the Mountainguard
+Weapons/Armor: A Captain may be equipped with
+weapons and armor chosen from the Mountainguard
 Equipment list.
 Skills: The Averlander Captain may choose from Combat,
 Shooting, Academic, Strength, & Speed, when he gains a
@@ -696,8 +696,8 @@ decision to him. A veteran can be recognised by his many battle-
 scars and the cynicism that marks a soldier of the army.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: A Sergeant may be equipped with
-weapons and armour chosen from the Mountainguard
+Weapons/Armor: A Sergeant may be equipped with
+weapons and armor chosen from the Mountainguard
 Equipment list.
 Skills: The Averlander Sergeant may choose from Combat,
 Strength, & Speed, when he gains a new skill.
@@ -714,8 +714,8 @@ and cunning than a strong sword-arm to survive.
 Profile M WS BS S T W I A Ld
 
 4 2 4 3 3 1 3 1 7
-Weapons/Armour: Bergjaeger may be equipped with
-weapons and armour chosen from the Scout Equipment list.
+Weapons/Armor: Bergjaeger may be equipped with
+weapons and armor chosen from the Scout Equipment list.
 Skills: The Bergjaegers may choose from Shooting, & Speed,
 when he gains a new skill.
 Special Rules
@@ -744,8 +744,8 @@ easier way of filling their belly than the hard and uncertain business
 of looking after animals, not to mention that its quite dull!
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 3 1 6
-Weapons/Armour: A Youngblood may be equipped with
-weapons and armour chosen from the Mountainguard
+Weapons/Armor: A Youngblood may be equipped with
+weapons and armor chosen from the Mountainguard
 Equipment list.
 Skills: The Averlander Youngblood may choose from
 Combat, Shooting, & Speed, when he gains a new skill.
@@ -769,8 +769,8 @@ survivors of a great battle.
 Profile M WS BS S T W I A Ld
 
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: Mountainguards may be equipped with
-weapons and armour chosen from the Mountainguard
+Weapons/Armor: Mountainguards may be equipped with
+weapons and armor chosen from the Mountainguard
 Equipment list.
 
 Marksmen
@@ -785,8 +785,8 @@ handgun is as high as hiring the Marksman himself! Thus the
 Marksmen are not forced to do as much hard labour as the militia.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Marksmen may be equipped with
-weapons and armour chosen from the Marksman Equipment
+Weapons/Armor: Marksmen may be equipped with
+weapons and armor chosen from the Marksman Equipment
 list.
 
 
@@ -801,8 +801,8 @@ meet the fierce resistance of the Halflings in the mountain Pass.
 Profile M WS BS S T W I A Ld
 
 4 2 4 2 2 1 4 1 8
-Weapons/Armour: Halfling Scouts may be equipped with
-weapons and armour chosen from the Scout Equipment list.
+Weapons/Armor: Halfling Scouts may be equipped with
+weapons and armor chosen from the Scout Equipment list.
 Special Rules
 Promotion: A Halfling that is promoted to hero through the
 “The lad’s got talent” advance may not choose Strength skills
@@ -863,7 +863,7 @@ hiring new warriors (which may be done first) at least 50% of
 the remaining gold MUST be spent on a single item of gear.
 This means that Ostlander Warbands will often be composed
 of a dozen men wearing muddy peasant garb with one
-member wearing golden-laid heavy armour and another
+member wearing golden-laid heavy armor and another
 carrying a double-barrelled hunting rifle from the finest
 forges of Hochland.
 Alignment: the Warband’s Alignment may be one of the
@@ -908,9 +908,9 @@ Spear ..........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Pistol .................................................. 15 GC (30 for a brace)
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 
@@ -923,8 +923,8 @@ Sword ..........................................................................
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 None
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 
 Jaeger Equipment List
 Hand-to-hand Combat Weapons
@@ -940,8 +940,8 @@ Blunderbuss ................................................................. 30
 Hunting rifle .............................................................. 175 GC
 Double-Barrelled (Pistol / Handgun / Hunting Rifle) ...........
 .................................................................................. 2x price
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Ogre-Kin Equipment List
@@ -952,8 +952,8 @@ Sword ..........................................................................
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 None
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 ##### Heroes
 
 1 Elder
@@ -965,8 +965,8 @@ Mordheim to seek their fortune.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 4 1 8
-Weapons/Armour: An Elder may be equipped with
-weapons and armour chosen from the Ostlander Equipment
+Weapons/Armor: An Elder may be equipped with
+weapons and armor chosen from the Ostlander Equipment
 list.
 Skills: The Elder may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
@@ -984,8 +984,8 @@ the most respected men in the village (aside from the Elder) are
 referred to simply as Blood-Brothers.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: Blood-Brothers may be equipped with
-weapons and armour chosen from the Ostlander Equipment
+Weapons/Armor: Blood-Brothers may be equipped with
+weapons and armor chosen from the Ostlander Equipment
 list.
 Skills: The Blood-Brothers may choose from Combat &
 Strength, when he gains a new skill. In addition, the Blood-
@@ -1007,7 +1007,7 @@ Profile M WS BS S T W I A Ld
 
 4 2 3 3 3 1 3 1 7
 
-Weapons/Armour: A Priest of Taal may be equipped with
+Weapons/Armor: A Priest of Taal may be equipped with
 weapons chosen from the Ostlander Equipment list.
 Skills: The Priest of Taal may choose from Combat,
 Academic, Strength, & Speed when he gains a new skill. In
@@ -1019,7 +1019,7 @@ use the Prayers of Taal as detailed in the Magic section and
 the Priest of Taal start with one prays generated at random.
 See the Magic section for details. In addition the Priest of
 Taal may learn a new Pray instead on a new skill.
-Strictures: Priests of Taal may never wear armour.
+Strictures: Priests of Taal may never wear armor.
 ##### Henchmen
 
 (Brought in groups of 1-5)
@@ -1032,8 +1032,8 @@ can resist.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Kin may be equipped with weapons and
-armour chosen from the Ostlander Equipment list.
+Weapons/Armor: Kin may be equipped with weapons and
+armor chosen from the Ostlander Equipment list.
 
 0-1 Ogre
 160 Gold Crowns to hire
@@ -1048,8 +1048,8 @@ fighting abilities and so they are rather expensive to keep.
 Profile M WS BS S T W I A Ld
 
 6 3 2 4 4 3 3 2 7
-Weapons/Armour: Ogre-kin may be equipped with weapons
-and armour chosen from the Ogre-kin Equipment list.
+Weapons/Armor: Ogre-kin may be equipped with weapons
+and armor chosen from the Ogre-kin Equipment list.
 Special Rules
 Fear: Ogre-kin are large, threatening creatures that cause
 Fear. See the Psychology section for details.
@@ -1078,8 +1078,8 @@ versions, as these are a sign of great prestige amongst the hunters of
 the deep woods.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Jaeger may be equipped with weapons
-and armour chosen from the Jaeger Equipment list.
+Weapons/Armor: Jaeger may be equipped with weapons
+and armor chosen from the Jaeger Equipment list.
  
 0-5 Ruffians
 25 Gold Crowns to hire
@@ -1095,8 +1095,8 @@ will shove a broken bottle into your face as soon as laugh heartily
 and burst into song!
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 2 1 10
-Weapons/Armour: Ruffians may be equipped with weapons
-and armour chosen from the Ruffians Equipment list.
+Weapons/Armor: Ruffians may be equipped with weapons
+and armor chosen from the Ruffians Equipment list.
 Ruffians never use missile weapons, as their depth perception
 leaves a bit to be desired, even if they gain an Advance roll
 which would otherwise allow them to do so.
@@ -1259,12 +1259,12 @@ Small Cannon*** ...................................................... 150 GC
 Hunting Rifle ............................................................. 175 GC
 Double-Barrelled (Pistol / Duelling pistol / Rifle / Handgun /
 Hunting Rifle) ....................................................... 2x price
-Armour
+Armor
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
-Reinforced Plate Armour* ........................................... 65 GC
+Light armor ................................................................ 20 GC
+Reinforced Plate Armor* ........................................... 65 GC
 Miscellaneous
 Heavier Ammunition ...................................... 5 GC pre Shot
 Modified Gun sight ..................................................... 20 GC
@@ -1286,11 +1286,11 @@ Pistol .................................................. 15 GC (30 for a brace)
 Duelling pistol ................................... 25 GC (50 for a brace)
 Handgun ...................................................................... 35 GC
 Small Cannon*** ...................................................... 150 GC
-Armour
+Armor
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
  
 * Engineer Only
 ** Senior Student Only
@@ -1309,8 +1309,8 @@ respect through their experience and technical knowledge.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 4 1 8
-Weapons/Armour: An Engineer may be equipped with
-weapons and armour chosen from the Marksman equipment
+Weapons/Armor: An Engineer may be equipped with
+weapons and armor chosen from the Marksman equipment
 list.
 Skills: The Engineer may choose from Combat, Shooting,
 Academic & Speed when he gains a new skill.
@@ -1331,8 +1331,8 @@ trained, but not yet too battle-hardened, so these excursions give
 them field experience, even in the smallest things.
 Profile M WS BS S T W I A Ld
 4 3 4 3 3 1 4 1 7
-Weapons/Armour: An Instructor may be equipped with
-weapons and armour chosen from the Marksman equipment
+Weapons/Armor: An Instructor may be equipped with
+weapons and armor chosen from the Marksman equipment
 list.
 Skills: The Instructor may choose from Shooting, Academic
 & Speed when he gains a new skill.
@@ -1353,8 +1353,8 @@ weaponry and this is not their first excursion into the wilds of the
 Empire. It is likely to be their last before they graduate.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: A Senior Student may be equipped with
-weapons and armour chosen from the Marksman equipment
+Weapons/Armor: A Senior Student may be equipped with
+weapons and armor chosen from the Marksman equipment
 list.
 Skills: The Senior Student may choose from Combat,
 Shooting, Strength, & Speed when he gains a new skill.
@@ -1368,8 +1368,8 @@ The brighter ones will realise that this is a true test of their
 dedication and knowledge.
 Profile M WS BS S T W I A Ld
 4 3 2 3 3 1 3 1 6
-Weapons/Armour: Underclassmen may be equipped with
-weapons and armour chosen from the Marksman equipment
+Weapons/Armor: Underclassmen may be equipped with
+weapons and armor chosen from the Marksman equipment
 list.
 Skills: The Underclassmen may choose from Combat,
 Shooting, & Speed when he gains a new skill.
@@ -1389,8 +1389,8 @@ needed set of arms to carry provisions and spare powder, as well as
 providing much needed additional firepower in a fight.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: A Son of the Gun may be equipped with
-weapons and armour chosen from the Guardsmen equipment
+Weapons/Armor: A Son of the Gun may be equipped with
+weapons and armor chosen from the Guardsmen equipment
 list.
 
 0-5 Guardsmen
@@ -1403,8 +1403,8 @@ quarter fighting of Mordheim.
 Profile M WS BS S T W I A Ld
 
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: Guardsmen may be equipped with
-weapons and armour chosen from the Guardsmen equipment
+Weapons/Armor: Guardsmen may be equipped with
+weapons and armor chosen from the Guardsmen equipment
 list.
 
 0-7 Riflemen
@@ -1415,8 +1415,8 @@ never let their rifles out of arm’s reach, and are much feared due to
 their legendary accuracy.
 Profile M WS BS S T W I A Ld
 4 3 4 3 3 1 3 1 7
-Weapons/Armour: A Rifleman may be equipped with
-weapons and armour chosen from the marksman equipment
+Weapons/Armor: A Rifleman may be equipped with
+weapons and armor chosen from the marksman equipment
 list.
 Special Rules
 Rifle Training: Soldiers of Nuln are instructed in firearms
@@ -1525,9 +1525,9 @@ Spear ..........................................................................
 Missile Weapons
 Bow ............................................................................. 15 GC
 Short bow .................................................................... 10 GC
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -1542,9 +1542,9 @@ Double-handed weapon ............................................... 15 GC
 Flail ............................................................................. 15 GC
 Missile Weapons
 None
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
@@ -1557,8 +1557,8 @@ of the Dark gods, utterly dedicated to bringing Chaos to the world.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 3 1 8
-Weapons/Armour: The Magister may be equipped with
-weapons and armour chosen from the Possessed Equipment
+Weapons/Armor: The Magister may be equipped with
+weapons and armor chosen from the Possessed Equipment
 list.
 Skills: The Magister may choose from Combat, Academic, &
 Speed when he gains a new skill.
@@ -1585,8 +1585,8 @@ creatures of Mordheim, and certainly the most loathsome and
 dreadful.
 Profile M WS BS S T W I A Ld
 5 4 0 4 4 2 4 2 7
-Weapons/Armour: None. The Possessed never use weapons
-or armour.
+Weapons/Armor: None. The Possessed never use weapons
+or armor.
 Skills: The Possessed may choose from Combat, Strength, &
 Speed when he gains a new skill.
 Special Rules
@@ -1602,8 +1602,8 @@ physical disfigurements marking out the vileness of their soul. They
 come in many shapes and sizes, each more bizarre than the next.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Mutants may be equipped with weapons
-and armour chosen from the Possessed Equipment list.
+Weapons/Armor: Mutants may be equipped with weapons
+and armor chosen from the Possessed Equipment list.
 Skills: The Mutant may choose from Combat & Speed when
 he gains a new skill.
 Special Rules
@@ -1624,13 +1624,13 @@ Their insane strength makes Darksouls dangerous fighters. The
 Cultists regard them as holy men, and let them work out their
 unreasoning rage in battle. In their tortured minds the Darksouls
 believe themselves to be Daemons. They wear leering daemonic
-masks and garb themselves in armour and clothing resembling the
+masks and garb themselves in armor and clothing resembling the
 scaled skin of Daemons.
 Profile M WS BS S T W I A Ld
 
 4 2 2 4 3 1 3 1 6
-Weapons/Armour: Darksouls may be equipped with
-weapons and armour chosen from the Darksouls Equipment
+Weapons/Armor: Darksouls may be equipped with
+weapons and armor chosen from the Darksouls Equipment
 list.
 Special Rules
 Crazed: Darksouls have been driven insane by daemonic
@@ -1644,8 +1644,8 @@ gods, eager to descend into damnation. Their vile deeds and
 unspeakable acts have driven them to the brink of insanity.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: The Brethren may be equipped with
-weapons and armour chosen from the Possessed Equipment
+Weapons/Armor: The Brethren may be equipped with
+weapons and armor chosen from the Possessed Equipment
 list.
 0-3 Beastmen
 45 gold crowns to hire
@@ -1656,8 +1656,8 @@ ruined city to prey upon the survivors. They readily ally with the
 Magisters of the Possessed warbands.
 Profile M WS BS S T W I A Ld
 4 4 3 3 4 2 3 1 7
-Weapons/Armour: Beastmen may be equipped with
-weapons and armour chosen from the Darksouls Equipment
+Weapons/Armor: Beastmen may be equipped with
+weapons and armor chosen from the Darksouls Equipment
 list.
 
 
@@ -1783,9 +1783,9 @@ Missile Weapons
 Bow ............................................................................. 15 GC
 Short Bow .................................................................... 10 GC
 Pistol .................................................. 15 GC (30 for a brace)
-Armour
-Light Armour .............................................................. 20 GC
-Heavy Armour ............................................................. 50 GC
+Armor
+Light Armor .............................................................. 20 GC
+Heavy Armor ............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -1811,8 +1811,8 @@ Hunter bands that rove the land.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 3 1 8
-Weapons/Armour: The Master may be equipped with
-weapons and armour chosen from the Carnival of Chaos
+Weapons/Armor: The Master may be equipped with
+weapons and armor chosen from the Carnival of Chaos
 Equipment list.
 Skills: The Carnival Master may choose from Combat,
 Shooting, Academic, Strength, & Speed when he gains a new
@@ -1843,8 +1843,8 @@ they wield huge hammers and flails with reckless abandon, whirling
 them around their heads like children’s toys.
 Profile M WS BS S T W I A Ld
 4 4 0 4 4 1 2 2 7
-Weapons/Armour: Brutes may be equipped with weapons
-and armour chosen from the Brute Equipment list.
+Weapons/Armor: Brutes may be equipped with weapons
+and armor chosen from the Brute Equipment list.
 Skills: The Brutes may choose from Combat, Strength, &
 Speed when he gains a new skill.
 Special Rules
@@ -1872,8 +1872,8 @@ dreaded and incurable Nurgle’s Rot.
 
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Tainted Ones may be equipped with
-weapons and armour chosen from the Carnival of Chaos
+Weapons/Armor: Tainted Ones may be equipped with
+weapons and armor chosen from the Carnival of Chaos
 Equipment list.
 Skills: The Tainted Ones may choose from Combat & Speed
 when he gains a new skill.
@@ -1902,10 +1902,10 @@ ostentatious doublet and hose.
 Profile M WS BS S T W I A Ld
 
 4 4 3 4 4 1 4 2 10
-Weapons/Armour: None. Plague Bearers have huge filth
+Weapons/Armor: None. Plague Bearers have huge filth
 encrusted claws, which they use to tear and slash at their foes.
 They therefore neither need nor use weapons and cannot wear
-armour.
+armor.
 Special Rules
 Cloud of Flies: Plague Bearers are surrounded by a cloud of
 flies, which buzz around them and their combat opponent.
@@ -1917,7 +1917,7 @@ attacks.
 Stream of Corruption: Plague Bearers can spew forth a
 grotesque stream of maggots, entrails and filth. This is
 counted as a shooting attack with a range of 6" and is
-resolved at Strength 3 with no saves for armour.
+resolved at Strength 3 with no saves for armor.
 Demonic: Plague Bearers are Daemons of the lord of disease,
 Nurgle, and are not made of living flesh but the eternal and
 unchanging forces of Chaos. Therefore they never gain
@@ -1931,7 +1931,7 @@ Leadership-based test they are required to take.
 Cause Fear: Plague Bearers are horrifying supernatural
 creatures and therefore cause fear.
 Daemonic Aura: Due to the magical, intangible nature of
-Daemons they have a special Armour save of 5+. This is
+Daemons they have a special Armor save of 5+. This is
 modified by the Strength of the attack as normal and is
 completely negated by magic weapons and spells. Plague
 Bearers’ attacks are considered as magical also.
@@ -1962,8 +1962,8 @@ their foul identity to their terrified victims at the final stage of
 Profile M WS BS S T W I A Ld
 
 4 3 0 3 2 1 3 1 10
-Weapons/Armour: None. Nurglings do not use weapons or
-wear armour.
+Weapons/Armor: None. Nurglings do not use weapons or
+wear armor.
 Special Rules
 Cloud of Flies: Nurglings are surrounded by a cloud of flies,
 which buzz around them and their combat opponent. They do
@@ -1984,7 +1984,7 @@ Immune to Psychology: Nurglings are Daemons and do not
 know the concept of fear. They automatically pass any
 Leadership-based test they are required to take.
 Daemonic Aura: Due to the magical, intangible nature of
-Daemons they have a special Armour save of 5+. This is
+Daemons they have a special Armor save of 5+. This is
 modified by the Strength of the attack as normal and is
 completely negated by magic weapons and spells. Nurglings’
 attacks are also considered as magical.
@@ -2007,8 +2007,8 @@ and other lesser gifts of their lord. In the Carnival, the Brethren take
 on all of the minor roles: stagehands, puppeteers, etc.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Brethren may be equipped with weapons
-and armour chosen from the Carnival of Chaos Equipment
+Weapons/Armor: Brethren may be equipped with weapons
+and armor chosen from the Carnival of Chaos Equipment
 list.
  
 0–1 Plague Cart
@@ -2030,10 +2030,10 @@ Cart - - - - 8 4 - - -
 Wheel - - - - 6 1 - - -
 Horse 8 - - 3 3 1 3 - -
 Guardian - 3 - 3 3 - 3 1 -
-Weapons/Armour: None. The Plague Cart’s Guardian does
+Weapons/Armor: None. The Plague Cart’s Guardian does
 not use or need weapons but suffers no penalties for fighting
 unarmed. Therefore it cannot use weapons and cannot wear
-armour.
+armor.
 Special Rules
 Plague Cart: The Daemonic nature of the Plague Cart fills
 both the Daemons and mortals of the Carnival of Chaos with
@@ -2173,7 +2173,7 @@ vanquished enemies as these are thought to bring good luck.
 While most Beastmen have dark brown skin and fur, black-
 furred or even albino Beastmen are not unknown.
 Beastmen wear heavy armlets and necklaces which serve as
-armour as well as decoration.
+armor as well as decoration.
 Apart from the most primitive clubs and wooden shields, the
 Beastmen make few weapons. It is not the nature of Chaos to
 create, but to destroy.
@@ -2230,9 +2230,9 @@ Double-handed Weapon .............................................. 15 GC
 Halberd ........................................................................ 10 GC
 Missile Weapons
 None
-Armour
-Light Armour .............................................................. 20 GC
-Heavy Armour ............................................................. 50 GC
+Armor
+Light Armor .............................................................. 20 GC
+Heavy Armor ............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -2244,7 +2244,7 @@ Battle Axe......................................................................
 Spear ............................................................................ 10 GC
 Missile Weapons
 None
-Armour
+Armor
 Shield ............................................................................ 5 GC
 ##### Heroes
 
@@ -2256,8 +2256,8 @@ Stones to his Herdstone.
 Profile M WS BS S T W I A Ld
 
 5 4 3 4 4 1 4 1 7
-Weapons/Armour: The Beastmen Chieftain may be
-equipped with weapons and armour chosen from the
+Weapons/Armor: The Beastmen Chieftain may be
+equipped with weapons and armor chosen from the
 Beastmen Equipment list.
 Skills: The Beastmen Chieftain may choose from Combat,
 Strength, & Speed when he gains a new skill. In addition, the
@@ -2273,9 +2273,9 @@ Beastmen Shamans are prophets of the Dark Gods, and the most
 respected of all the Beastmen.
 Profile M WS BS S T W I A Ld
 5 4 3 3 4 1 3 1 6
-Weapons/Armour: Beastmen Shamans may be equipped
+Weapons/Armor: Beastmen Shamans may be equipped
 with weapons chosen from the Beastmen Equipment list
-except that they never wear armour.
+except that they never wear armor.
 Skills: The Beastmen Shaman may choose from Combat, &
 Speed when he gains a new skill. In addition, the Beastmen
 Shaman may choose from the Beastmen Special Skill list
@@ -2298,8 +2298,8 @@ particularly agile or dexterous.
 Profile M WS BS S T W I A Ld
 
 8 4 3 4 4 1 2 1(2) 7
-Weapons/Armour: Centigors may be armed with weapons
-and armour chosen from Gor Equipment list.
+Weapons/Armor: Centigors may be armed with weapons
+and armor chosen from Gor Equipment list.
 Skills: The Centigor may choose from Combat, & Strength
 when he gains a new skill. In addition, the Centigor may
 choose from the Beastmen Special Skill list
@@ -2328,7 +2328,7 @@ warriors of the Beastmen warbands. They are massive creatures
 with an inhuman resistance of pain.
 Profile M WS BS S T W I A Ld
 5 4 3 4 4 1 3 1 7
-Weapons/Armour: Bestigors may be equipped with
+Weapons/Armor: Bestigors may be equipped with
 weapons chosen from the Beastmen Equipment list.
 Skills: The Bestigors may choose from Combat, & Strength
 when he gains a new skill. In addition, the Bestigors may
@@ -2343,8 +2343,8 @@ spiteful creatures, but dangerous in large masses.
 Profile M WS BS S T W I A Ld
 
 5 3 3 3 3 1 3 1 6
-Weapons/Armour: Ungor may be armed with weapons and
-armour chosen from Ungor Equipment list.
+Weapons/Armor: Ungor may be armed with weapons and
+armor chosen from Ungor Equipment list.
 Special Rules
 Lowest of the Low: Ungor are on the lowest rung of
 Beastmen society and regardless of how much Experience
@@ -2357,7 +2357,7 @@ Chaos Hounds are titanic, mastiff-like creatures which are insanely
 dangerous in combat.
 Profile M WS BS S T W I A Ld
 7 4 0 4 3 1 3 1 5
-Weapons/Armour: None! Apart from their fangs and nasty
+Weapons/Armor: None! Apart from their fangs and nasty
 tempers the Chaos Hounds don’t have weapons and can fight
 without any penalties.
 Special Rules
@@ -2370,8 +2370,8 @@ Gor are nearly as numerous as Ungor but are larger and more
 brutish...
 Profile M WS BS S T W I A Ld
 5 4 3 3 4 1 3 1 6
-Weapons/Armour: Gor may be armed with weapons and
-armour chosen from Beastmen Equipment list.
+Weapons/Armor: Gor may be armed with weapons and
+armor chosen from Beastmen Equipment list.
  
 0-1 Minotaur
 200 Gold Crowns to hire
@@ -2380,8 +2380,8 @@ powerful, any Beastmen Chief will try to recruit a Minotaur into his
 warband if possible.
 Profile M WS BS S T W I A Ld
 6 4 3 4 4 3 4 3 8
-Weapons/Armour: Minotaurs may be armed with weapons
-and armour chosen from the Beastmen Equipment list.
+Weapons/Armor: Minotaurs may be armed with weapons
+and armor chosen from the Beastmen Equipment list.
 Special Rules
 Fear: Minotaurs are huge, bellowing monsters and cause
 fear. See Psychology section for details.
@@ -2526,11 +2526,11 @@ Missile Weapons
 Bow ............................................................................. 10 GC
 Longbow ..................................................................... 15 GC
 Elf Bow ....................................................................... 35 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
-Ithilmar armour* ......................................................... 60 GC
+Ithilmar armor* ......................................................... 60 GC
 
 Miscellaneous
 Standard of Nagarythe* ............................................... 75 GC
@@ -2559,8 +2559,8 @@ small band of their followers and seek a life away from the hesitant
 charity and distasteful stares of Ulthuan.
 Profile M WS BS S T W I A Ld
 5 5 5 3 3 1 6 1 9
-Weapons/Armour: Shadow Master may be equipped with
-weapons and armour chosen from the Shadow Warrior
+Weapons/Armor: Shadow Master may be equipped with
+weapons and armor chosen from the Shadow Warrior
 Equipment list.
 Skills: The Shadow Master may choose from Combat,
 Shooting, Academic, & Speed when he gains a new skill. In
@@ -2581,8 +2581,8 @@ trusted lieutenants of the Warband’s captain, the Shadow Master.
 Profile M WS BS S T W I A Ld
 
 5 5 4 3 3 1 6 1 8
-Weapons/Armour: Shadow Walkers may be equipped with
-weapons and armour chosen from the Shadow Warrior
+Weapons/Armor: Shadow Walkers may be equipped with
+weapons and armor chosen from the Shadow Warrior
 Equipment list.
 Skills: The Shadow Walker may choose from Combat,
 Shooting, & Speed when he gains a new skill. In addition, the
@@ -2602,10 +2602,10 @@ tailor, the Shadow Weaver takes the threads of shadow and fashions
 them into shapes and forms of his choosing.
 Profile M WS BS S T W I A Ld
 5 4 4 3 3 1 6 1 8
-Weapons/Armour: Shadow Weavers may be equipped with
-weapons and armour chosen from the Shadow Warrior
+Weapons/Armor: Shadow Weavers may be equipped with
+weapons and armor chosen from the Shadow Warrior
 Equipment list, but they may not cast spells if wearing
-armour.
+armor.
 Skills: The Shadow Weaver may choose from Combat,
 Academic, & Speed when he gains a new skill. In addition,
 the Shadow Weaver may choose from the Shadow Warrior
@@ -2630,8 +2630,8 @@ the Dark Elves.
 Profile M WS BS S T W I A Ld
 
 5 4 4 3 3 1 6 1 8
-Weapons/Armour: Shadow Warriors may be equipped with
-weapons and armour chosen from the Shadow Warrior
+Weapons/Armor: Shadow Warriors may be equipped with
+weapons and armor chosen from the Shadow Warrior
 Equipment list.
 
 Shadow Warrior Novices
@@ -2642,8 +2642,8 @@ Ulthuan for the first time. Due to their hard existence, it is often a
 quick progression from Novice to full Warrior, however.
 Profile M WS BS S T W I A Ld
 5 3 3 3 3 1 5 1 7
-Weapons/Armour: Shadow Novices may be equipped with
-weapons and armour chosen from the Shadow Warrior
+Weapons/Armor: Shadow Novices may be equipped with
+weapons and armor chosen from the Shadow Warrior
 Equipment list.
 
 
@@ -2773,9 +2773,9 @@ of poison (so no Assassins) or Black power weapons. Also
 Forest-Walker Warband will not hire any Dwarven Hired
 Swords.
 Wood Elf Archery: When using normal Longbows, an extra
-6" range and an additional -1 Armour save. Therefore a
-standard Longbow has a 36" range and-1 armour saves vs.
-normal armour.
+6" range and an additional -1 Armor save. Therefore a
+standard Longbow has a 36" range and-1 armor saves vs.
+normal armor.
 Forest Spirits: The following rules apply to all creatures
 with the Forest Spirit special rule:
 * All Forest Spirits are Immune to Psychology.
@@ -2842,13 +2842,13 @@ Long Bow .................................................................... 15
 Sling .............................................................................. 2 GC
 Throwing knife ............................................................ 15 GC
 Javelins ........................................................................ 10 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
 Tanned Hide (Toughened leathers) ............................... 5 GC
-Light armour** ............................................................ 20 GC
+Light armor** ............................................................ 20 GC
 Shield ............................................................................ 5 GC
-Cold Metal Armour* ................................................... 50 GC
-Ithilmar Armour* ........................................................ 70 GC
+Cold Metal Armor* ................................................... 50 GC
+Ithilmar Armor* ........................................................ 70 GC
 Miscellaneous Equipment
 Forest Cloak ................................................................ 50 GC
 Healing Herbs .............................................................. 25 GC
@@ -2867,11 +2867,11 @@ Missile Weapons
 Bow ............................................................................. 10 GC
 Long bow .................................................................... 15 GC
 Throwing knife* .......................................................... 15 GC
-Armour
+Armor
 Tanned Hide (Toughened leathers) ............................... 5 GC
-Light armour* .............................................................. 20 GC
-Cold Metal Armour* ................................................... 50 GC
-Ithilmar Armour* ........................................................ 70 GC
+Light armor* .............................................................. 20 GC
+Cold Metal Armor* ................................................... 50 GC
+Ithilmar Armor* ........................................................ 70 GC
 Miscellaneous Equipment
 Elven Cloak ................................................................. 50 GC
 Healing Herbs .............................................................. 25 GC
@@ -2886,7 +2886,7 @@ Cold Metal Weapon ................................................. 2x price
 Ithilmar Weapon ....................................................... 3x price
 Missile Weapons
 Throwing knife ............................................................ 15 GC
-Armour
+Armor
 None
 Miscellaneous Equipment
  
@@ -2903,8 +2903,8 @@ appointed by the elders to lead the warband.
 Profile M WS BS S T W I A Ld
 
 5 5 5 4 3 1 6 1 8
-Weapons/Armour: A War-leader may be equipped with
-weapons and armour chosen from the Forest-Walker
+Weapons/Armor: A War-leader may be equipped with
+weapons and armor chosen from the Forest-Walker
 Equipment list.
 Skills: The War-leader may choose from Combat, Shooting,
 Academic, Strength, and Speed, when he gains a new skill. In
@@ -2926,8 +2926,8 @@ ability to blend into their surroundings makes them difficult to
 target.
 Profile M WS BS S T W I A Ld
 5 4 5 3 3 1 6 1 7
-Weapons/Armour: Waywatcher may be equipped with
-weapons and armour chosen from the Scout Equipment list.
+Weapons/Armor: Waywatcher may be equipped with
+weapons and armor chosen from the Scout Equipment list.
 Skills: The Waywatcher may choose from Shooting, and
 Speed, when he gains a new skill. In addition, the
 Waywatcher may choose from the Wood Elf Special Skill
@@ -2953,8 +2953,8 @@ energy...
 Profile M WS BS S T W I A Ld
 
 5 4 4 3 3 1 6 1 7
-Weapons/Armour: Spellsinger may be equipped with
-weapons and armour chosen from the Forest-Walker
+Weapons/Armor: Spellsinger may be equipped with
+weapons and armor chosen from the Forest-Walker
 Equipment list.
 Skills: The Spellsinger may choose from Shooting,
 Academic, and Speed, when he gains a new skill. In addition,
@@ -2977,8 +2977,8 @@ acrobatic abilities and a strange fighting style designed to resemble
 a dance.
 Profile M WS BS S T W I A Ld
 5 5 4 3 3 1 6 1 7
-Weapons/Armour: Wardancer may be equipped with
-weapons and armour chosen from the Wardancer Equipment
+Weapons/Armor: Wardancer may be equipped with
+weapons and armor chosen from the Wardancer Equipment
 list.
 Skills: The Wardancer may choose from Combat, Strength,
 and Speed, when he gains a new skill. In addition, the
@@ -3018,8 +3018,8 @@ daggers while others prefer to train only with the traditional
 longbow.
 Profile M WS BS S T W I A Ld
 5 2 2 3 3 1 4 1 6
-Weapons/Armour: Younglings may be equipped with
-weapons and armour chosen from the Forest-Walker
+Weapons/Armor: Younglings may be equipped with
+weapons and armor chosen from the Forest-Walker
 Equipment list.
 Skills: Younglings may choose from Combat, Shooting, and
 Speed, when he gains a new skill. In addition, the Younglings
@@ -3044,8 +3044,8 @@ lessons first hand, there is no respite in the wild – eat or be eaten.
 Profile M WS BS S T W I A Ld
 
 5 3 3 3 3 1 6 1 7
-Weapons/Armour: Glade Guards may be equipped with
-weapons and armour chosen from the Forest-Walker
+Weapons/Armor: Glade Guards may be equipped with
+weapons and armor chosen from the Forest-Walker
 Equipment list.
 Special Rules: Excellent Sight, Forest Folks, Wood Elf
 Archery
@@ -3059,15 +3059,15 @@ the Eternal Guard; sons and daughters of noble houses.
 Profile M WS BS S T W I A Ld
 
 5 4 3 3 3 1 6 1 7
-Weapons/Armour: Eternal Guards may be equipped with
-weapons and armour chosen from the Forest-Walker
+Weapons/Armor: Eternal Guards may be equipped with
+weapons and armor chosen from the Forest-Walker
 Equipment list.
 Special Rules: Excellent Sight, Forest Folks, Wood Elf
 Archery, Eternal Style
 Eternal Style: The Eternal Guards has a fighting style unto
 them self. On the first round of combat the Eternal Guards
 may re-roll any to hit dice, and always count as having a +1
-to Armour Save.
+to Armor Save.
 
 0-5 Archers
 35 gold crowns to hire
@@ -3077,8 +3077,8 @@ the first weapon a Wood Elf is taught to use and the skill of archery
 is practiced every day.
 Profile M WS BS S T W I A Ld
 5 3 4 3 3 1 6 1 7
-Weapons/Armour: Archers may be equipped with weapons
-and armour chosen from the Scout Equipment list.
+Weapons/Armor: Archers may be equipped with weapons
+and armor chosen from the Scout Equipment list.
 Special Rules: Excellent Sight, Forest Folks, Wood Elf
 Archery, Crossfire
 Crossfire: If more the one Archer shoots at the same target,
@@ -3092,7 +3092,7 @@ to their lands. Some few were moved to assist the Shadow-Hunters
 in their task.
 Profile M WS BS S T W I A Ld
 5 4 0 4 4 2 6 2 8
-Weapons/Armour: Razor Sharp Talons (Counts as being
+Weapons/Armor: Razor Sharp Talons (Counts as being
 armed with two swords)
 Special Rules: Forest Spirits, Rating
 Rating: For Each Dryad in the Warband will add +5 to the
@@ -3102,7 +3102,7 @@ Warband rating.
 125 gold crowns to hire
 Profile M WS BS S T W I A Ld
 5 4 0 5 5 3 3 3 8
-Weapons/Armour: Branchlike limes (Counts as being
+Weapons/Armor: Branchlike limes (Counts as being
 armed with two clubs).
 Special Rules: Forest Spirits, Large Target, Rating
 Large Target: The Tree-kin are large and so count as a large
@@ -3211,9 +3211,9 @@ Missile Weapons
 Crossbow ..................................................................... 25 GC
 Pistol .................................................. 15 GC (30 for a brace)
 Crossbow pistol ........................................................... 35 GC
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
@@ -3225,7 +3225,7 @@ Morning star ................................................................ 15
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 None
-Armour
+Armor
 None
 
 Zealot Equipment List
@@ -3240,8 +3240,8 @@ Spear ..........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Short bow ...................................................................... 5 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
@@ -3256,8 +3256,8 @@ worshippers... in fact all who dare to oppose them.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 4 1 8
-Weapons/Armour: A Witch Hunter Captain may be
-equipped with weapons and armour chosen from the Witch
+Weapons/Armor: A Witch Hunter Captain may be
+equipped with weapons and armor chosen from the Witch
 Hunter Equipment list.
 Skills: The Witch Hunter Captain may choose from Combat,
 Shooting, Academic, Strength, & Speed when he gains a new
@@ -3277,8 +3277,8 @@ of Sigmar, but the situation in Mordheim requires them to band
 together.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Witch Hunters may be equipped with
-weapons and armour chosen from the Witch Hunter
+Weapons/Armor: Witch Hunters may be equipped with
+weapons and armor chosen from the Witch Hunter
 Equipment list.
 Skills: The Witch Hunters may choose from Combat,
 Shooting, Academic, & Speed when he gains a new skill.
@@ -3300,8 +3300,8 @@ Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 8
 
-Weapons/Armour: A Warrior-Priest may be equipped with
-weapons and armour chosen from the Witch Hunter
+Weapons/Armor: A Warrior-Priest may be equipped with
+weapons and armor chosen from the Witch Hunter
 Equipment list.
 Skills: The Warrior-priest may choose from Combat,
 Academic, & Strength when he gains a new skill.
@@ -3329,8 +3329,8 @@ their ranks, and many a band of Zealots is led by Witch Hunters.
 Profile M WS BS S T W I A Ld
 
 4 2 2 3 3 1 3 1 7
-Weapons/Armour: Zealots may be equipped with weapons
-and armour chosen from the Zealot Equipment list.
+Weapons/Armor: Zealots may be equipped with weapons
+and armor chosen from the Zealot Equipment list.
 0-5 War hounds
 15 gold crowns to buy
 Witch Hunters often keep packs of ferocious hunting dogs. With
@@ -3339,8 +3339,8 @@ their huge jaws and powerful bite, they are perfect for hunting down
 Profile M WS BS S T W I A Ld
 
 6 4 0 4 3 1 4 1 5
-Weapons/Armour: Jaws and brutality! War hounds never
-use or need weapons and armour.
+Weapons/Armor: Jaws and brutality! War hounds never
+use or need weapons and armor.
 Special Rules
 Animals: War hounds are animals and thus do not gain
 experience.
@@ -3359,8 +3359,8 @@ they have the strength of madmen, and their bodies have become
 inured to pain because of self-mutilation.
 Profile M WS BS S T W I A Ld
 4 3 3 4 4 1 3 1 10
-Weapons/Armour: Flagellants may be equipped with
-weapons and armour chosen from the Flagellant Equipment
+Weapons/Armor: Flagellants may be equipped with
+weapons and armor chosen from the Flagellant Equipment
 list. Flagellants never use missile weapons, even if they gain
 an Advance roll which would otherwise allow them to do so.
 Special Rules
@@ -3471,9 +3471,9 @@ Double-handed weapon ............................................... 15 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
 
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
@@ -3496,8 +3496,8 @@ redeem the Sisterhood in His eyes.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 4 1 8
-Weapons/Armour: The Sigmarite Matriarch may be
-equipped with weapons and armour chosen from the Sisters
+Weapons/Armor: The Sigmarite Matriarch may be
+equipped with weapons and armor chosen from the Sisters
 of Sigmar Equipment list.
 Skills: The Matriarch may choose from Combat, Academic,
 Strength, & Speed when he gains a new skill. In addition, the
@@ -3524,9 +3524,9 @@ single long braid.
 Profile M WS BS S T W I A Ld
 
 4 2 2 3 3 1 3 1 7
-Weapons/Armour: The Augurs may be equipped with
+Weapons/Armor: The Augurs may be equipped with
 weapons chosen from the Sisters of Sigmar Equipment list.
-They never wear armour.
+They never wear armor.
 
 Skills: The Augur may choose from Combat, Academic, &
 Speed when he gains a new skill. In addition, the Augur may
@@ -3551,8 +3551,8 @@ that may lurk in the ruins of Mordheim is as nothing compared to
 the wrath of a Sister Superior.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: A Sister Superior may be equipped with
-weapons and armour chosen from the Sisters of Sigmar
+Weapons/Armor: A Sister Superior may be equipped with
+weapons and armor chosen from the Sisters of Sigmar
 Equipment list.
 Skills: The Sister Superiors may choose from Combat,
 Academic, Strength, & Speed when he gains a new skill. In
@@ -3570,8 +3570,8 @@ and horrors that stand in their way, they will be overcome!
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: The Sigmarite Sisters may be equipped
-with weapons and armour chosen from the Sisters of Sigmar
+Weapons/Armor: The Sigmarite Sisters may be equipped
+with weapons and armor chosen from the Sisters of Sigmar
 Equipment list.
 
 0-10 Novices
@@ -3586,8 +3586,8 @@ tested to the full. All are eager to prove themselves worthy to be the
 handmaidens of Sigmar.
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 3 1 6
-Weapons/Armour: The Novices may be equipped with
-weapons and armour chosen from the Sisters of Sigmar
+Weapons/Armor: The Novices may be equipped with
+weapons and armor chosen from the Sisters of Sigmar
 Equipment list.
 
 
@@ -3696,9 +3696,9 @@ Morning Star ............................................................... 15 
 Lance ........................................................................... 20 GC
 Missile Weapons
 None
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Warhorse ..................................................................... 80 GC
@@ -3712,8 +3712,8 @@ Axe ............................................................................
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
 Double-handed weapon ............................................... 15 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -3727,8 +3727,8 @@ Spear ..........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Longbow ..................................................................... 15 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Buckler .......................................................................... 5 GC
@@ -3742,8 +3742,8 @@ Axe ............................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Longbow ..................................................................... 15 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
 
@@ -3757,8 +3757,8 @@ wonder then that many a Questing Knight will journey to Mordheim.
 Profile M WS BS S T W I A Ld
 
 4 4 3 4 3 1 4 1 8
-Weapons/Armour: A Questing Knight may be equipped
-with weapons and armour chosen from the Knights section of
+Weapons/Armor: A Questing Knight may be equipped
+with weapons and armor chosen from the Knights section of
 the Bretonnian Equipment list.
 Skills: The Questing Knight may choose from Combat,
 Strength & Speed when he gains a new skill. In addition, the
@@ -3782,8 +3782,8 @@ they will often accompany a Questing Knight on his spiritual
 journey in the hope of adventure and honour.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: A Knight Errant may be equipped with
-weapons and armour chosen from the Knights section of the
+Weapons/Armor: A Knight Errant may be equipped with
+weapons and armor chosen from the Knights section of the
 Bretonnian Equipment list. A Knight Errant may not ride a
 warhorse unless the Questing Knight also rides one.
 Skills: The Knights Errant may choose from Combat &
@@ -3809,8 +3809,8 @@ Profile M WS BS S T W I A Ld
 
 4 2 2 3 3 1 3 1 6
 
-Weapons/Armour: Squires may be equipped with weapons
-and armour chosen from the Squires section of the
+Weapons/Armor: Squires may be equipped with weapons
+and armor chosen from the Squires section of the
 Bretonnian Equipment list. A Squire may not ride a horse
 unless the Questing Knight and any Knight Errant in the
 warband are riding warhorses.
@@ -3830,7 +3830,7 @@ as the Questing Knight they follow.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Men-at-arms may have weapons and
+Weapons/Armor: Men-at-arms may have weapons and
 equipment chosen from the Men-at-arms section of the
 Bretonnian Equipment list.
 
@@ -3843,7 +3843,7 @@ not uncommon for a handful of bowmen to be inspired to bravery
 and join the Knight on his journey.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 6
-Weapons/Armour: Bowmen may be equipped with weapons
+Weapons/Armor: Bowmen may be equipped with weapons
 chosen from the Bowmen section of the Bretonnian
 Equipment list.
 
@@ -3959,13 +3959,13 @@ Bow ............................................................................
 Crossbow ..................................................................... 25 GC
 Pistol .................................................. 15 GC (30 for a brace)
 Duelling Pistol ................................... 25 GC (50 for a brace)
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
+Light Armor .............................................................. 20 GC
 
-Heavy Armour ............................................................. 50 GC
+Heavy Armor ............................................................. 50 GC
 Streltsi Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -3982,17 +3982,17 @@ Crossbow ..................................................................... 2
 Pistol .................................................. 15 GC (30 for a brace)
 Duelling Pistol ................................... 25 GC (50 for a brace)
 Handgun ...................................................................... 35 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
+Light Armor .............................................................. 20 GC
 ##### Heroes
 
 1 Druzhina Captain
 80 gold crowns to hire
 Druzhina are the minor nobles of Kislev. During times of war these
 nobles form their own regiments in a Kislevite army, and they look
-most impressive with their ancient armour and weapons, as most of
+most impressive with their ancient armor and weapons, as most of
 these prized artefacts are handed down from father to son. Druzhina
 are rich enough to afford their own horse and battlegear, and they
 must be ready to fight for the Tzar when called upon. In return for
@@ -4000,8 +4000,8 @@ this they are allowed to own land and are given a break on their
 annual taxes.
 Profile M WS BS S T W I A Ld
 4 4 4 3 3 1 3 1 8
-Weapons/Armour: A Druzhina Captain may be equipped
-with weapons and armour chosen from the Kislevite Warrior
+Weapons/Armor: A Druzhina Captain may be equipped
+with weapons and armor chosen from the Kislevite Warrior
 equipment list.
 Skills: The Druzhina Captain may choose from Combat,
 Shooting, Academic, Strength & Speed when he gains a new
@@ -4039,7 +4039,7 @@ amongst the ranks of their professional soldiery who has been
 affectionately labelled ‘Esaul’ by his men.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: An Esaul may be equipped with
+Weapons/Armor: An Esaul may be equipped with
 weapons chosen from the Kislevite Warrior Equipment list.
 Skills: The Esaul may choose from Combat, Shooting, &
 Speed when he gains a new skill.
@@ -4058,7 +4058,7 @@ where they enjoy a special status among the soldiery.
 Profile M WS BS S T W I A Ld
 
 4 3 3 4 3 1 3 1 7
-Weapons/Armour: A Bear Tamer may be armed with
+Weapons/Armor: A Bear Tamer may be armed with
 weapons chosen from Kislevite Warrior equipment list.
 Skills: The Bear Tamer may choose from Combat, Strength
 & Speed when he gains a new skill.
@@ -4076,7 +4076,7 @@ Strong, strapping lads from the countryside often join a band of
 daring adventurers to make their fortune.
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 3 1 6
-Weapons/Armour: Youths may be equipped with weapons
+Weapons/Armor: Youths may be equipped with weapons
 chosen from the Kislevite Warrior Equipment list.
 Skills: The Youth may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill.
@@ -4095,8 +4095,8 @@ most powerful of the legendary Ice Mages of Kislev are all female!
 
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Warriors may be equipped with weapons
-and armour chosen from the Kislevite Warrior equipment list.
+Weapons/Armor: Warriors may be equipped with weapons
+and armor chosen from the Kislevite Warrior equipment list.
 
 Cossacks
 30 gold crowns to hire
@@ -4108,8 +4108,8 @@ favoured weapons are the scimitar (sword) and spear.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Cossacks may be armed with weapons
-and armour chosen from the Kislevite Warrior equipment list.
+Weapons/Armor: Cossacks may be armed with weapons
+and armor chosen from the Kislevite Warrior equipment list.
 Special Rules
 Hate Chaos: Years of bitter struggle against the forces of
 Chaos have left their mark on the Cossack people. Cossacks
@@ -4137,8 +4137,8 @@ handguns, increasing their accuracy and making for a deadly
 weapon combination.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Streltsi may be armed with weapons and
-armour chosen from the Streltsi equipment list. Note that
+Weapons/Armor: Streltsi may be armed with weapons and
+armor chosen from the Streltsi equipment list. Note that
 Streltsi are the only Kislevite Warriors trained in the use of
 handguns.
 Special Rules
@@ -4161,7 +4161,7 @@ bad.
 Profile M WS BS S T W I A Ld
 
 6 3 0 5 5 2 2 2 6
-Weapons/Armour: None, other than their claws and teeth!
+Weapons/Armor: None, other than their claws and teeth!
 Special Rules
 Trained: A bear doesn’t care about the warband’s mission or
 enmity for other warbands – it’s just following the orders of
@@ -4189,7 +4189,7 @@ resolving the attacks normally. If this option is chosen, each
 player must roll a D6 and add his model’s Strength to the
 roll. If the Bear’s total is higher or the totals are equal, the
 opposing warrior takes a single automatic wound with no
-armour save allowed. If the enemy warrior’s total is higher,
+armor save allowed. If the enemy warrior’s total is higher,
 the warrior has broken the Bear’s hold and suffers no damage
 from the attack.
 Fiercely Loyal: Such dedication is built into the relationship
@@ -4233,8 +4233,8 @@ rolling on the Injury chart. Treat a roll of 1-2 as knocked
 down, 3-5 as stunned, and 6 as out of action.
 Hard Head: Dwarfs ignore the special rules for maces,
 clubs, etc. They are not easy to knock out!
-Armour: Dwarfs never suffer movement penalties for
-wearing armour.
+Armor: Dwarfs never suffer movement penalties for
+wearing armor.
 Hate Orcs and Goblins: All Dwarfs hate Orcs and Goblins.
 See the psychology section of the Mordheim rules for details
 on the effects of hatred.
@@ -4293,10 +4293,10 @@ Halberd ........................................................................
 Gromril weapon*.......................................... 3 times the cost
 Missile Weapons
 Pistol ............................................................................ 15 GC
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
-Gromril armour** ....................................................... 75 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
+Gromril armor** ....................................................... 75 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -4310,9 +4310,9 @@ Missile Weapons
 Crossbow ..................................................................... 25 GC
 Handgun ...................................................................... 35 GC
 Pistol .................................................. 15 GC (30 for a brace)
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 *Any weapon a Dwarf may normally purchase may be
@@ -4322,10 +4322,10 @@ Mordheim rulebook. Note that this price is only for a starting
 warband, as it represents the Dwarfs outfitting themselves at
 their own stronghold. Later purchases of Gromril weapons
 are done using the price chart in the Mordheim rules.
-**The price of a suit of Gromril armour is cheaper for a
+**The price of a suit of Gromril armor is cheaper for a
 starting warband to represent the relative ease with which
 Dwarfs can find such items in their own stronghold. Later
-purchases of Gromril armour must be done using the normal
+purchases of Gromril armor must be done using the normal
 price chart in the Mordheim rules.
 ##### Heroes
 
@@ -4340,8 +4340,8 @@ former glory of the Dwarf Kingdoms.
 Profile M WS BS S T W I A Ld
 
 3 5 4 3 4 1 2 1 9
-Weapons/Armour: A Dwarf Noble may be equipped with
-weapons and armour chosen from the Dwarf Warrior
+Weapons/Armor: A Dwarf Noble may be equipped with
+weapons and armor chosen from the Dwarf Warrior
 equipment list.
 Skills: The Noble may choose from Combat, Shooting &
 Strength when he gains a new skill. In addition, the Noble
@@ -4357,8 +4357,8 @@ who design and build the complex war machines and devices which
 have made the Dwarfs famous.
 Profile M WS BS S T W I A Ld
 3 4 3 3 4 1 2 1 9
-Weapons/Armour: A Dwarf Engineer may be equipped with
-weapons and armour chosen from Dwarf Thunderer
+Weapons/Armor: A Dwarf Engineer may be equipped with
+weapons and armor chosen from Dwarf Thunderer
 equipment list.
 Skills: The Engineer may choose from Combat & Shooting
 when he gains a new skill. In addition, the Engineer may
@@ -4389,10 +4389,10 @@ Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
 
-Weapons/Armour: Troll Slayers may be equipped with
+Weapons/Armor: Troll Slayers may be equipped with
 weapons chosen from the Dwarf Warrior equipment list.
 Slayers may never carry or use missile weapons or any form
-of armour.
+of armor.
 Skills: The Troll Slayer may choose from Combat &
 Strength, when he gains a new skill. In addition, the Troll
 Slayer may choose from the Dwarf Special Skill list or the
@@ -4411,8 +4411,8 @@ warriors who can be relied on to hold their own against any foe.
 Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
-Weapons/Armour: Dwarf Warriors may be equipped with
-weapons and armour chosen from the Dwarf Warrior
+Weapons/Armor: Dwarf Warriors may be equipped with
+weapons and armor chosen from the Dwarf Warrior
 equipment list.
 
 0-5 Dwarf Thunderers
@@ -4423,8 +4423,8 @@ handgun bullet shot by a Dwarf Thunderer.
 Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
-Weapons/Armour: Thunderers may be armed with weapons
-and armour chosen from the Dwarf Thunderer equipment list.
+Weapons/Armor: Thunderers may be armed with weapons
+and armor chosen from the Dwarf Thunderer equipment list.
 
 Beardlings
 25 gold crowns to hire
@@ -4432,8 +4432,8 @@ These are young Dwarfs who have joined the retinue of an
 experienced Dwarf treasure hunter hoping to make their fortune.
 Profile M WS BS S T W I A Ld
 3 3 2 3 4 1 2 1 8
-Weapons/Armour: Beardlings may be armed with weapons
-and armour chosen from the Dwarf Warrior equipment list.
+Weapons/Armor: Beardlings may be armed with weapons
+and armor chosen from the Dwarf Warrior equipment list.
 
 
 #### Dwarf Rangers
@@ -4458,8 +4458,8 @@ rolling on the Injury chart. Treat a roll of 1-2 as knocked
 down, 3-5 as stunned, and 6 as out of action.
 Hard Head: Dwarfs ignore the special rules for maces,
 clubs, etc. They are not easy to knock out!
-Armour: Dwarfs never suffer movement penalties for
-wearing armour.
+Armor: Dwarfs never suffer movement penalties for
+wearing armor.
 Hate Orcs and Goblins: All Dwarfs hate Orcs and Goblins.
 See the psychology section of the Mordheim rules for details
 on the effects of hatred.
@@ -4531,12 +4531,12 @@ Double-handed weapon ............................................... 15 GC
 Gromril weapon*.......................................... 3 times the cost
 Missile Weapons
 Pistol ............................................................................ 15 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
-Gromril armour** ....................................................... 75 GC
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
+Gromril armor** ....................................................... 75 GC
 
 Crossbowmen Equipment List
 Hand-to-hand Combat Weapons
@@ -4546,11 +4546,11 @@ Axe ............................................................................
 Sword .......................................................................... 10 GC
 Missile Weapons
 Crossbow ..................................................................... 25 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 * - Any weapon a Dwarf may normally purchase may be
 purchased as a Gromril weapon instead. This multiplies the
 cost of the weapon by three. For rules on Gromril weapons
@@ -4559,10 +4559,10 @@ starting warband, as it represents the Dwarfs outfitting
 themselves at their own stronghold. Later purchases of
 Gromril weapons are done using the Price Charts in the
 Mordheim rulebook.
-** - The price of a suit of Gromril armour is cheaper for a
+** - The price of a suit of Gromril armor is cheaper for a
 starter warband to represent the relative ease with which
 Dwarfs can find such items in their own stronghold. Later
-purchases of Gromril Armour must be done using the normal
+purchases of Gromril Armor must be done using the normal
 Price Chart in the Mordheim rulebook.
 ##### Heroes
 
@@ -4580,8 +4580,8 @@ more advanced age!).
 Profile M WS BS S T W I A Ld
 
 3 5 4 3 4 1 2 1 10
-Weapons/Armour: A Dwarf Runesmith may be equipped
-with weapons and armour chosen from the Dwarf Warrior
+Weapons/Armor: A Dwarf Runesmith may be equipped
+with weapons and armor chosen from the Dwarf Warrior
 equipment list.
 Skills: The Dwarf Runesmith may choose from Combat,
 Shooting, Academic & Strength when he gains a new skill. In
@@ -4609,8 +4609,8 @@ is normally just as anxious to prove that the old ways are best. For
 if they aren’t, he is wasting a good portion of his life...
 Profile M WS BS S T W I A Ld
 3 3 2 3 4 1 2 1 8
-Weapons/Armour: An Apprentice Runesmith may be
-equipped with weapons and armour chosen from the Dwarf
+Weapons/Armor: An Apprentice Runesmith may be
+equipped with weapons and armor chosen from the Dwarf
 Warrior equipment list.
 Skills: The Apprentice Runesmith may choose from Combat,
 Academic & Strength when he gains a new skill. In addition,
@@ -4639,10 +4639,10 @@ Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
 
-Weapons/Armour: Troll Slayers may be equipped with
+Weapons/Armor: Troll Slayers may be equipped with
 weapons chosen from the Dwarf Warrior equipment list.
 Slayers may never carry or use missile weapons or any form
-of armour.
+of armor.
 Skills: The Troll Slayer may choose from Combat &
 Strength, when he gains a new skill. In addition, the Troll
 Slayer may choose from the Dwarf Special Skill list or the
@@ -4664,8 +4664,8 @@ part of an expedition including one.
 Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
-Weapons/Armour: A Dwarf Clansman may be equipped
-with weapons and armour chosen from the Dwarf Warrior
+Weapons/Armor: A Dwarf Clansman may be equipped
+with weapons and armor chosen from the Dwarf Warrior
 equipment list.
 0-5 Dwarf Ranger
 40 gold crowns to hire
@@ -4676,8 +4676,8 @@ in a mission such as this.
 Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
-Weapons/Armour: A Dwarf Ranger may be equipped with
-weapons and armour chosen from the Crossbowmen
+Weapons/Armor: A Dwarf Ranger may be equipped with
+weapons and armor chosen from the Crossbowmen
 equipment list.
 Beardling
 25 gold crowns to hire
@@ -4689,8 +4689,8 @@ as scouts, roaming ahead with the Rangers to spy the land and
 observe enemy activity.
 Profile M WS BS S T W I A Ld
 3 3 2 3 4 1 2 1 8
-Weapons/Armour: A Beardling may be equipped with
-weapons and armour chosen from the Dwarf Warrior
+Weapons/Armor: A Beardling may be equipped with
+weapons and armor chosen from the Dwarf Warrior
 equipment list.
 
 0-5 Dwarf Longbeards
@@ -4701,8 +4701,8 @@ support an expedition to prove what they’ve said all along – the old
 ways are best!
 Profile M WS BS S T W I A Ld
 3 5 3 3 4 1 3 1 9
-Weapons/Armour: A Dwarf Longbeard may be equipped
-with weapons and armour chosen from the Dwarf Warrior
+Weapons/Armor: A Dwarf Longbeard may be equipped
+with weapons and armor chosen from the Dwarf Warrior
 equipment list.
 Special Rules
 Stubborn: Dwarf Longbeards have seen just about
@@ -4735,7 +4735,7 @@ equal to or greater than the Difficulty Level of the rune, the
 item gains the appropriate bonus FOR THAT GAME. If he
 rolls a ‘2’ on the 2D6, he has fumbled the inscription,
 fractured the blade of the weapon or shattered the breastplate
-of the armour, etc. The item is destroyed and must be
+of the armor, etc. The item is destroyed and must be
 removed from the warrior’s list of items, though it may be
 replaced before the game if the warband has sufficient gold
 crowns. Any other failure simply means the Runesmith failed
@@ -4746,9 +4746,9 @@ knows one of the following minor runes:
 
 D6 Result
 1 Rune of Stone Difficulty 8.
-+1 to Armour Save.
++1 to Armor Save.
 2 Rune of Sharpness Difficulty 6.
--1 Armour Save modifier to weapon.
+-1 Armor Save modifier to weapon.
 3 Rune of Speed Difficulty 7.
 Initiative doubled on weapon
 4 Rune of Warding Difficulty 8.
@@ -4762,11 +4762,11 @@ replace: 1 GC).
 The Jealousy of Runes: Bonuses from Runes are not
 cumulative with magical bonuses from other items. In other
 words, a warrior may not combine a Rune of Stone on his
-shield and a Rune of Shield on his armour for a total bonus to
-his Armour Save of +2. Similarly the warrior could not
+shield and a Rune of Shield on his armor for a total bonus to
+his Armor Save of +2. Similarly the warrior could not
 combine the Rune of Stone on his shield with some suit of
-magic elven armour (for example) that added +1 to the
-warrior’s Armour Save.
+magic elven armor (for example) that added +1 to the
+warrior’s Armor Save.
 
 
 #### Von Carstein Warband
@@ -4856,9 +4856,9 @@ Halberd ........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Short bow ...................................................................... 5 GC
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
+Armor
+Light armor ................................................................ 20 GC
+Heavy armor .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -4878,8 +4878,8 @@ liking, and have become independent.
 Profile M WS BS S T W I A Ld
 
 6 4 4 4 4 2 5 2 8
-Weapons/Armour: Vampires may be armed with weapons
-and armour chosen from the Undead Equipment list.
+Weapons/Armor: Vampires may be armed with weapons
+and armor chosen from the Undead Equipment list.
 Skills: The Vampire may choose from Combat, Academic,
 Strength & Speed when he gains a new skill. In addition, the
 Vampire may choose from the Von Carstein Skill list.
@@ -4905,8 +4905,8 @@ who have come under the suspicion of the various agents of Sigmar
 and have fled to Mordheim to avoid persecution.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Necromancers may be armed with
-weapons and armour chosen from the Undead Equipment list.
+Weapons/Armor: Necromancers may be armed with
+weapons and armor chosen from the Undead Equipment list.
 Skills: The Necromancer may choose from Academic, &
 Speed when he gains a new skill.
 Special Rules
@@ -4935,8 +4935,8 @@ can also do the bidding of their vampiric master during daylight,
 when the Vampires must rest in their coffins.
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 3 1 7
-Weapons/Armour: Dregs may be armed with weapons and
-armour chosen from the Undead Equipment list.
+Weapons/Armor: Dregs may be armed with weapons and
+armor chosen from the Undead Equipment list.
 Skills: The Dreg may choose from Combat & Strength when
 he gains a new skill.
 
@@ -4951,8 +4951,8 @@ by the will of their Necromantic masters.
 Profile M WS BS S T W I A Ld
 
 4 2 0 3 3 1 1 1 5
-Weapons/Armour: Zombies may not have any weapons or
-armour and suffer no penalties for this.
+Weapons/Armor: Zombies may not have any weapons or
+armor and suffer no penalties for this.
 Special Rules
 Cause Fear: Zombies are terrifying Undead creatures and
 therefore cause fear.
@@ -4977,7 +4977,7 @@ one Undead Troll at a time.
 Profile M WS BS S T W I A Ld
 
 6 3 0 5 3 3 1 2 5
-Weapons/Armour: Undead Troll does not require weapons
+Weapons/Armor: Undead Troll does not require weapons
 to fight but often carry a big club.
 Special Rules
 Bound Creature: The Undead Troll is a creation of the
@@ -5017,7 +5017,7 @@ north, and now they have taken up permanent residence in the
 crypts and cemeteries of the ruined city.
 Profile M WS BS S T W I A Ld
 4 2 2 3 4 1 3 2 5
-Weapons/Armour: Ghouls never carry any equipment, apart
+Weapons/Armor: Ghouls never carry any equipment, apart
 from a few bones which they use as primitive weapons.
 Special Rules
 Cause Fear: Ghouls are twisted and repulsive creatures and
@@ -5033,7 +5033,7 @@ like shadows, and many men have died with the cold jaws of a Dire
 Wolf around their neck.
 Profile M WS BS S T W I A Ld
 9 3 0 4 3 1 2 1 4
-Weapons/Armour: None.
+Weapons/Armor: None.
 Special Rules
 Charge: Dire Wolves are slavering creatures that overpower
 their opponents when they charge. Dire Wolves fight with 2
@@ -5106,11 +5106,11 @@ Halberd ........................................................................
 Two-handed Weapon .................................................. 15 GC
 Morning Star ............................................................... 15 GC
 Lance ........................................................................... 20 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
-Heavy Armour ............................................................. 50 GC
+Light Armor .............................................................. 20 GC
+Heavy Armor ............................................................. 50 GC
 Barding ........................................................................ 30 GC
 Mounts
 Nightmare ..................................................................... 95 GC
@@ -5128,10 +5128,10 @@ Missile Weapons
 Short Bow ..................................................................... 5 CG
 Bow ............................................................................. 10 CG
 Long Bow .................................................................... 15 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
+Light Armor .............................................................. 20 GC
 
 
 ##### Heroes
@@ -5148,7 +5148,7 @@ not much love for Magic and intrigues. They prefer using their
 combat abilities rather than using dark magic.
 Profile M WS BS S T W I A Ld
 6 4 4 4 4 2 5 2 9
-Weapons/Armour: Blood Dragon Knight may be equipped
+Weapons/Armor: Blood Dragon Knight may be equipped
 from the Blood Dragon equipment list
 Skills: The Blood Dragon Knight may choose from Combat,
 Academic, Strength, and Speed, when he gains a new skill. In
@@ -5175,7 +5175,7 @@ magic. In ages past, the men of the Old World buried their dead
 beneath mounds of earth and stone, together with their battle gear
 and worldly wealth. Although their bodies have decayed, Wights are
 held together by evil magic so strong that it can last for many
-centuries. They wear ancient armour of bronze and black iron,
+centuries. They wear ancient armor of bronze and black iron,
 corroded by time and dusty with the years. They carry iron weapons
 inlaid with evil runes, an accursed parody of once powerful magical
 blades. Some Vampires rule over entire regiments of Wights,
@@ -5183,13 +5183,13 @@ warriors who dared challenge them in life and now serve them in
 death.
 Profile M WS BS S T W I A Ld
 4 4 3 4 4 1 3 1 8
-Weapons/Armour: Wights may be equipped from the Blood
+Weapons/Armor: Wights may be equipped from the Blood
 Dragon equipment list
 Skills: The Wights may choose from Combat and Strength,
 when he gains a new skill.
 Special Rules
 Killing Blow: A natural rolled 6 on the to-hit roll wounds
-automatically, the strike might not be parried, but armour and
+automatically, the strike might not be parried, but armor and
 saving throws are allowed.
 Cause Fear: Wights are terrifying Undead creatures and
 therefore cause fear.
@@ -5209,8 +5209,8 @@ Vampires use them as servants and as they treat them very well, the
 Bondsmen are loyal to death to their undead master.
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 2 1 5
-Weapons/Armour: Bondsmen may be armed with weapons
-and armour chosen from the Undead Warrior Equipment list.
+Weapons/Armor: Bondsmen may be armed with weapons
+and armor chosen from the Undead Warrior Equipment list.
 Skills: The Bondsmen may choose from Combat, Shooting,
 and Strength, when he gains a new skill.
 Special Rules
@@ -5240,8 +5240,8 @@ towards him?
 
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 2 1 5
-Weapons/Armour: Skeleton Warriors may be equipped with
-weapons and armour chosen from the Undead Warrior
+Weapons/Armor: Skeleton Warriors may be equipped with
+weapons and armor chosen from the Undead Warrior
 equipment list.
 Special Rules
 Fear: A skeleton causes Fear in his opponents
@@ -5262,8 +5262,8 @@ Skeletons never gain experience!
 Profile M WS BS S T W I A Ld
 
 4 2 3 3 3 1 2 1 5
-Weapons/Armour: Skeleton Bowmen may be equipped with
-weapons and armour chosen from the Undead Warrior
+Weapons/Armor: Skeleton Bowmen may be equipped with
+weapons and armor chosen from the Undead Warrior
 equipment list.
 Special Rules
 Fear: A skeleton causes Fear in his opponents
@@ -5288,8 +5288,8 @@ which can be seen in the green fire which burns within their empty
 eye sockets.
 Profile M WS BS S T W I A Ld
 4 3 2 3 3 1 2 1 6
-Weapons/Armour: Grave Guard may be equipped with
-weapons and armour chosen from the Blood Dragon
+Weapons/Armor: Grave Guard may be equipped with
+weapons and armor chosen from the Blood Dragon
 equipment list.
 Special Rules
 Fear: A Grave Guard causes Fear in his opponents
@@ -5300,7 +5300,7 @@ of poison
 No Pain: In combat treat “Stunned” results as “Knocked
 Down”
 Slow: Grave Guards are very slow when walking in their
-rusty armours. They may not run, although they are allowed
+rusty armors. They may not run, although they are allowed
 to charge normally.
 No Brain: Grave Guards are nothing more than a pile of
 bones and rusty metal. They never can learn from mistakes
@@ -5312,8 +5312,8 @@ Hell Hounds are monstrous undead wardogs raised to undead life
 by the powers of the Vampire.
 Profile M WS BS S T W I A Ld
 8 4 0 4 3 1 2 1 5
-Weapons/Armour: Hell Hounds are animals and cannot use
-Weapons or Armour.
+Weapons/Armor: Hell Hounds are animals and cannot use
+Weapons or Armor.
 Special Rules
 Fear: A Hell Hound causes Fear in his opponents
 Immune to Psychology: Hell Hound is immune to all forms
@@ -5411,12 +5411,12 @@ Sling ..........................................................................
 Short bow ...................................................................... 5 GC
 Bow ............................................................................. 10 GC
 
-Armour
+Armor
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Toughened leathers ....................................................... 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 * Lahmia Vampire or Blood Sister only
 
 
@@ -5431,8 +5431,8 @@ walking in the sunlight and the joy of life...
 Profile M WS BS S T W I A Ld
 
 6 4 4 4 4 2 5 2 8
-Weapons/Armour: Lahmia Vampire may be armed with
-weapons and armour chosen from the Lahmia Equipment list.
+Weapons/Armor: Lahmia Vampire may be armed with
+weapons and armor chosen from the Lahmia Equipment list.
 Skills: The Lahmia Vampire may choose from Combat,
 Academic, Strength & Speed when she gains a new skill. In
 addition, the Lahmia Vampire may choose from the Lahmia
@@ -5460,8 +5460,8 @@ Lahmians - they are ugly and morbid - but they have their uses...
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Necromancers may be armed with
-weapons and armour chosen from the Lahmia Equipment list.
+Weapons/Armor: Necromancers may be armed with
+weapons and armor chosen from the Lahmia Equipment list.
 Skills: The Necromancer may choose from Academic, &
 Speed when he gains a new skill.
 Special Rules
@@ -5479,8 +5479,8 @@ Fanatically loyal, these humans are blindly in love with their dark
 mistress...
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 3 1 7
-Weapons/Armour: Dregs may be armed with weapons and
-armour chosen from the Lahmia Equipment list.
+Weapons/Armor: Dregs may be armed with weapons and
+armor chosen from the Lahmia Equipment list.
 Skills: The Dreg may choose from Combat, Strength &
 Speed when he gains a new skill.
 Special Rules
@@ -5515,8 +5515,8 @@ death. Not fully undead, but no longer wholly human...
 Profile M WS BS S T W I A Ld
 
 4 3 3 4 4 1 2 1 7
-Weapons/Armour: Blood Sisters may be armed with
-weapons and armour chosen from the Lahmia Equipment list.
+Weapons/Armor: Blood Sisters may be armed with
+weapons and armor chosen from the Lahmia Equipment list.
 Skills: The Blood Sisters may choose from Combat,
 Academic, Strength & Speed when she gains a new skill. In
 addition, the Blood Sisters may choose from the Lahmia
@@ -5547,7 +5547,7 @@ human warband other then Middenheim, Witch Hunters,
 Sisters of Sigmar, Possessed, Carnival of Chaos and any hero
 that uses prays. The Beloved will keep the same cost, profile,
 skill list, special rules and starting Experience. Weapons &
-Armour will be chosen from his Wargear list and the skill
+Armor will be chosen from his Wargear list and the skill
 leader is lost, as if hired by his normal warband.
 Special Rules:
 Devoted: the beloved is completely enraptured by the
@@ -5571,8 +5571,8 @@ aesthetic sense at all...
 Profile M WS BS S T W I A Ld
 
 4 2 2 3 3 1 2 1 5
-Weapons/Armour: Skeletons may be armed with weapons
-and armour chosen from the Lahmia Equipment list.
+Weapons/Armor: Skeletons may be armed with weapons
+and armor chosen from the Lahmia Equipment list.
 Special Rules
 Cause Fear: Skeletons are terrifying Undead creatures and
 therefore cause fear.
@@ -5597,7 +5597,7 @@ like shadows, and many men have died with the cold jaws of a Dire
 Wolf around their neck.
 Profile M WS BS S T W I A Ld
 9 3 0 4 3 1 2 1 4
-Weapons/Armour: None.
+Weapons/Armor: None.
 Special Rules
 Charge: Dire Wolves are slavering creatures that overpower
 their opponents when they charge. Dire Wolves fight with 2
@@ -5622,8 +5622,8 @@ Many mortals have fallen under the spell of the Lahmia. All have
 their uses. Some are tasty...
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Skeletons may be armed with weapons
-and armour chosen from the Lahmia Equipment list.
+Weapons/Armor: Skeletons may be armed with weapons
+and armor chosen from the Lahmia Equipment list.
 
 
 
@@ -5740,9 +5740,9 @@ Pistol ..................................................... 15 GC (30 for brace
 Duelling Pistol ...................................... 25 GC (50 for brace)
 Bow ............................................................................. 10 GC
 Crossbow ..................................................................... 25 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
@@ -5759,9 +5759,9 @@ Long Bow .................................................................... 15
 Crossbow ..................................................................... 25 GC
 Handgun ...................................................................... 35 GC
 Hunting Rifle ............................................................. 175 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 ##### Heroes
 
 1 Captain
@@ -5773,8 +5773,8 @@ the battlefield and seek to claim riches in the new world.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 4 2 8
-Weapons/Armour: The Captain can be armed with weapons
-and armour chosen from the Tilean Equipment list.
+Weapons/Armor: The Captain can be armed with weapons
+and armor chosen from the Tilean Equipment list.
 Skills: The Tilean Captain may choose from Combat,
 Shooting, Academic, Strength, and Speed, when he gains a
 new skill.
@@ -5789,7 +5789,7 @@ and are entrusted with ensuring the iron-hard discipline necessary
 to keep a warband together in a foreign land.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 4 1 7
-Weapons/Armour: Champions can be armed with weapons
+Weapons/Armor: Champions can be armed with weapons
 chosen from the Tilean Equipment list.
 Skills: The Miraglean & Trantios Champions may choose
 from Combat, Shooting, &, Speed, the Remasens Champions
@@ -5802,8 +5802,8 @@ These are young fighters who are still inexperienced but eager for
 the untold riches that Lustria has to offer.
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 3 1 6
-Weapons/Armour: Youngbloods may be equipped with
-weapons and armour from the Tilean Equipment list.
+Weapons/Armor: Youngbloods may be equipped with
+weapons and armor from the Tilean Equipment list.
 Skills: The Miraglean & Trantios Youngbloods may choose
 from Combat, Shooting, & Strength, The Remasens
 Youngbloods may choose from Combat, Academic &
@@ -5820,8 +5820,8 @@ mercenary armies of the warring Dukes of the Tilean City States.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Warriors can be armed with weapons
-and armour chosen from the Tilean Equipment list.
+Weapons/Armor: Warriors can be armed with weapons
+and armor chosen from the Tilean Equipment list.
 
 0-7 Marksmen
 25 Gold Crowns to hire
@@ -5831,8 +5831,8 @@ merciless world it pays well to be able to despatch your foe from a
 distance.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 4 1 7
-Weapons/Armour: Marksmen can be armed with weapons
-and armour chosen from the Marksmen Equipment list.
+Weapons/Armor: Marksmen can be armed with weapons
+and armor chosen from the Marksmen Equipment list.
 
 0-5 Duellists
 35 Gold Crowns to hire
@@ -5843,8 +5843,8 @@ remotest parts of the world selling their unique killing abilities to
 the mercenary companies.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 4 1 7
-Weapons/Armour: Duellists can be armed with weapons
-and armour chosen from the Tilean Equipment list.
+Weapons/Armor: Duellists can be armed with weapons
+and armor chosen from the Tilean Equipment list.
 Special Rules
 Cloak & Dagger: Duellists are adept at fighting using their
 billowing cloaks to swirl at an enemy distracting him and
@@ -5950,8 +5950,8 @@ Short bow ......................................................................
 
 Bow ............................................................................. 10 GC
 Longbow* ................................................................... 15 GC
-Armour
-Light armour* .............................................................. 20 GC
+Armor
+Light armor* .............................................................. 20 GC
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 Special Equipment
@@ -5975,7 +5975,7 @@ Outlaws will follow him, inspired as much by his ruthlessness as by
 his prowess.
 Profile M WS BS S T W I A Ld
 4 4 4 3 3 1 4 1 8
-Weapons/Armour: The Bandit Leader may be equipped
+Weapons/Armor: The Bandit Leader may be equipped
 with weapons chosen from the Outlaws equipment list.
 Skills: The Bandit Leader may choose from Combat,
 Shooting, Academic, Strength, & Speed when he gains a new
@@ -5992,7 +5992,7 @@ rewarded with the choicest pickings of any loot.
 Profile M WS BS S T W I A Ld
 
 4 3 4 3 3 1 3 1 7
-Weapons/Armour: Champions may be equipped with
+Weapons/Armor: Champions may be equipped with
 weapons chosen from the Outlaws equipment lists.
 Skills: The Champions may choose from Combat, Shooting,
 & Strength when he gains a new skill.
@@ -6007,9 +6007,9 @@ activities of groups of outlaws. Their knowledge of healing is often
 valued by other members.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Can be chosen from the Outlaws
+Weapons/Armor: Can be chosen from the Outlaws
 equipment list. As Prayers are not considered to be Spells, a
-Monk may wear armour, if he wishes.
+Monk may wear armor, if he wishes.
 Skills: The Monk may choose from Academic when he gains
 a new skill.
 Special Rules
@@ -6028,7 +6028,7 @@ the trees of Stirwood Forest. Although young, they are still keen
 enough to prove their worth to their fellow outlaws.
 Profile M WS BS S T W I A Ld
 4 2 3 3 3 1 3 1 6
-Weapons/Armour: Petty Thieves may be equipped with
+Weapons/Armor: Petty Thieves may be equipped with
 weapons chosen from the Outlaws equipment list.
 Skills: The Petty Thieves may choose from Combat,
 Shooting, & Speed when he gains a new skill.
@@ -6043,8 +6043,8 @@ before they get too close.
 Profile M WS BS S T W I A Ld
 
 4 3 4 3 3 1 3 1 7
-Weapons/Armour: Marksmen can be armed with weapons
-and armour chosen from the Outlaws Equipment list.
+Weapons/Armor: Marksmen can be armed with weapons
+and armor chosen from the Outlaws Equipment list.
 
 Outlaws
 25 Gold Crowns to hire
@@ -6053,8 +6053,8 @@ the core, any of these would be more than happy to slip a sharp
 knife between somebody’s ribs for the promise of just a few groats.
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Outlaws can be armed with weapons and
-armour chosen from the Outlaws Equipment list.
+Weapons/Armor: Outlaws can be armed with weapons and
+armor chosen from the Outlaws Equipment list.
 
 
 #### Pit Fighter Warband
@@ -6086,9 +6086,9 @@ Pit King is the most skilled and cunning Pit Fighter of them
 all who leads his band with an iron fist.
 Appearance: Pit Fighters are grizzled veteran warriors
 covered with many scars of battle, they are armed with
-special Pit Weapons and Armour, their bodies well developed
+special Pit Weapons and Armor, their bodies well developed
 and muscular. They wear little clothing and only partial
-armour known as Pit Armour.
+armor known as Pit Armor.
 
 ##### Special Rules
 
@@ -6105,11 +6105,11 @@ Haven.
 The Pit Fighter Warband may decide to send in one or more
 of their own fighters to fight the captive, if the Pit Fighter
 wins he gains +2 Experience, the Warband gets all the
-Captive’s armour and weapons +50gc, if the Pit Fighter loses
+Captive’s armor and weapons +50gc, if the Pit Fighter loses
 then roll to see whether he is dead or injured as normal
 (ignore all following results: Robbed, Captured, Hardened,
 Sold to the Pits and Survives Against the Odds), he will not
-lose his armour or weapons, the Captive will get the 50 GC
+lose his armor or weapons, the Captive will get the 50 GC
 and the +2 Experience when he wins. If the Captive wins the
 audience decides whether he gains his freedom. Roll a D6 on
 a 4+ the audience raise their thumbs and he is free. A 1-3
@@ -6166,10 +6166,10 @@ War Chain ................................................................... 20
 Fist Spike ..................................................................... 15 GC
 Brass Knuckles ............................................................ 20 GC
 Gromril Weapon* ...................................................... 3x Price
-Armour
+Armor
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
-Heavy Armour ............................................................. 50 GC
+Light Armor .............................................................. 20 GC
+Heavy Armor ............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 
@@ -6185,9 +6185,9 @@ Missile Weapons
 Throwing Knives ......................................................... 15 GC
 Javelin ......................................................................... 10 GC
 Net ................................................................................. 5 GC
-Armour
+Armor
 Hardened Leather ........................................................ 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
@@ -6207,8 +6207,8 @@ held in a mixture of awe an fear by his fellows and his loyalty to his
 men is
 Profile M WS BS S T W I A Ld
 4 4 3 4 4 1 4 2 8
-Weapons/Armour: A Pit King may be equipped with
-weapons and armour chosen from the Pit Fighter Equipment
+Weapons/Armor: A Pit King may be equipped with
+weapons and armor chosen from the Pit Fighter Equipment
 list.
 Skills: The Pit King may choose from Combat, Academic,
 Strength, & Speed when he gains a new skill. In addition, the
@@ -6225,8 +6225,8 @@ orders of the Pit King with ruthless efficiency. These men ensure
 that the Warband is held together with iron-hard discipline.
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 4 1 7
-Weapons/Armour: A Pit Fighter Veteran may be equipped
-with weapons and armour chosen from the Pit Fighter
+Weapons/Armor: A Pit Fighter Veteran may be equipped
+with weapons and armor chosen from the Pit Fighter
 Equipment list.
 Skills: The Veterans may choose from Combat & Strength
 when he gains a new skill. In addition, the Veterans may
@@ -6241,8 +6241,8 @@ in the Pit, and they will have to prove themselves in the heat of the
 battle.
 Profile M WS BS S T W I A Ld
 4 2 2 3 3 1 3 1 6
-Weapons/Armour: A Pit Fighter Initiate may be equipped
-with weapons and armour chosen from the Pit Fighter
+Weapons/Armor: A Pit Fighter Initiate may be equipped
+with weapons and armor chosen from the Pit Fighter
 Equipment list.
 Skills: The Initiates may choose from Combat & Strength
 when he gains a new skill. In addition, the Initiates may
@@ -6264,10 +6264,10 @@ that they have found themselves a second place, to call home.
 Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
-Weapons/Armour: A Troll Slayer may be equipped with
-weapons and armour chosen from the Pit Fighter Equipment
+Weapons/Armor: A Troll Slayer may be equipped with
+weapons and armor chosen from the Pit Fighter Equipment
 list. Slayers may never carry or use missile weapons or any
-form of armour.
+form of armor.
 Skills: The Troll Slayer may choose from Combat,
 Academic, Strength & Speed when he gains a new skill. In
 
@@ -6298,12 +6298,12 @@ never need to test if fighting alone.
 Pit Fighters
 35 gold crowns to hire
 Pit Fighters are the Close Combat specialists of the Warband,
-armed with a variety of weapons and armour.
+armed with a variety of weapons and armor.
 Profile M WS BS S T W I A Ld
 
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: A Pit Fighter may be equipped with
-weapons and armour chosen from the Pit Fighter Equipment
+Weapons/Armor: A Pit Fighter may be equipped with
+weapons and armor chosen from the Pit Fighter Equipment
 list.
 Special Rules
 Pit Fighter: See Strength Skill section.
@@ -6321,8 +6321,8 @@ fight in massive stone arenas.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: A Pit Fighter Pursuer may be equipped
-with weapons and armour chosen from the Pit Fighter
+Weapons/Armor: A Pit Fighter Pursuer may be equipped
+with weapons and armor chosen from the Pit Fighter
 Pursuer Equipment list.
 Special Rules
 Pit Fighter: See Strength Skill section.
@@ -6335,8 +6335,8 @@ fight such fearsome beasts as captured Trolls in some of the most
 incredible bouts held at the pits.
 Profile M WS BS S T W I A Ld
 6 3 2 4 4 3 3 2 7
-Weapons/Armour: An Ogre Pit Fighter may be equipped
-with weapons and armour chosen from the Pit Fighter
+Weapons/Armor: An Ogre Pit Fighter may be equipped
+with weapons and armor chosen from the Pit Fighter
 Equipment list.
 Special Rules
 Pit Fighter: See Strength Skill section.
@@ -6441,9 +6441,9 @@ Double-handed weapon ............................................... 15 GC
 Flail ............................................................................. 15 GC
 Missile Weapons
 Throwing Axes (same as knives) ................................ 15 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
@@ -6455,9 +6455,9 @@ Spear ..........................................................................
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 Throwing Axes (same as knives) ................................ 15 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 
 Hunters Equipment List
@@ -6471,7 +6471,7 @@ Double-handed weapon ............................................... 15 GC
 Missile Weapons
 Javelins .......................................................................... 5 GC
 Bow ............................................................................. 10 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 ##### Heroes
@@ -6487,8 +6487,8 @@ Warband, all of the other warriors respect him and look up to him.
 Profile M WS BS S T W I A Ld
 
 4 4 3 4 3 1 4 2 8
-Weapons/Armour: A Jarl can be armed with weapons and
-armour chosen from the Heroes Equipment list.
+Weapons/Armor: A Jarl can be armed with weapons and
+armor chosen from the Heroes Equipment list.
 Skills: The Jarl may choose from Combat, Strength & Speed
 when he gains a new skill. In addition, the Jarl may choose
 from the Norse Special Skill list.
@@ -6505,9 +6505,9 @@ battle without any regard for their own safety and are really quite
 demented.
 Profile M WS BS S T W I A Ld
 4 4 3 4 3 1 3 1 7
-Weapons/Armour: Berserkers can be armed with weapons
+Weapons/Armor: Berserkers can be armed with weapons
 chosen from the Heroes Equipment list but they may never
-wear armour.
+wear armor.
 Skills: The Berserker may choose from Combat & Strength
 when he gains a new skill. In addition, the Berserker may
 choose from the Norse Special Skill list.
@@ -6523,13 +6523,13 @@ full moon, or when blood starts flowing on the battlefield, the
 mysterious and deadly Wulfen turn into blood hungry beasts, part
 man part wolf or bear. These creatures are known and greatly
 feared as werewolves to most Old Worlders. These monstrous beasts
-tear through flesh and armour with ease with their huge claws and
+tear through flesh and armor with ease with their huge claws and
 massive fangs as they rampage through the melee.
 Profile M WS BS S T W I A Ld
 
 6 4 0 4 4 1 4 2 7
-Weapons/Armour: A Wulfen is a ravening beast of teeth
-and claws and may never use weapons or armour although
+Weapons/Armor: A Wulfen is a ravening beast of teeth
+and claws and may never use weapons or armor although
 suffers no penalty for being unarmed.
 Skills: The Wulfen may choose from Combat, Strength &
 Speed when he gains a new skill. In addition, the Wulfen may
@@ -6548,8 +6548,8 @@ These are young fighters who are still inexperienced and they are
 ‘bonded’ to the Jarl by the oath of servitude.
 Profile M WS BS S T W I A Ld
 4 3 2 3 3 1 2 1 6
-Weapons/Armour: Bondsmen may be equipped with
-weapons and armour from the Heroes Equipment list.
+Weapons/Armor: Bondsmen may be equipped with
+weapons and armor from the Heroes Equipment list.
 Skills: The Bondsmen may choose from Combat, Strength &
 Speed when he gains a new skill. In addition, the Bondsmen
 may choose from the Norse Special Skill list.
@@ -6565,8 +6565,8 @@ pirates and raiders.
 Profile M WS BS S T W I A Ld
 
 4 4 3 3 3 1 3 1 7
-Weapons/Armour: Marauders can be armed with weapons
-and armour chosen from the Henchmen Equipment list.
+Weapons/Armor: Marauders can be armed with weapons
+and armor chosen from the Henchmen Equipment list.
 
 0-5 Hunters
 25 Gold Crowns to hire
@@ -6577,8 +6577,8 @@ offer ranged attacks as well as additional hunting skills.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Hunters can be armed with weapons and
-armour chosen from the Henchman Equipment list.
+Weapons/Armor: Hunters can be armed with weapons and
+armor chosen from the Henchman Equipment list.
 
 0-5 Wolves
 15 Gold Crowns to hire
@@ -6589,7 +6589,7 @@ hunters make use of these beasts when trained and they are
 formidable foes.
 Profile M WS BS S T W I A Ld
 9 3 0 3 3 1 3 1 5
-Weapons/Armour: Wolves don’t need and cannot use
+Weapons/Armor: Wolves don’t need and cannot use
 weapons.
 Special Rules
 Animals: Wolves are animals and thus do not gain
@@ -6678,12 +6678,12 @@ Dark Steel Weapon* ................................................. 2x price
 Missile Weapons
 Repeater Crossbow ...................................................... 35 GC
 Crossbow Pistol ........................................................... 35 GC
-Armour
+Armor
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
-Dark Steel Armour* .................................................... 95 GC
+Light armor ................................................................ 20 GC
+Dark Steel Armor* .................................................... 95 GC
 Special Equipment
 Dark Venom* .............................................................. 15 GC
 Sea Dragon Cloak** .................................................... 50 GC
@@ -6695,9 +6695,9 @@ Axe ............................................................................
 Sword .......................................................................... 10 GC
 Missile Weapons
 Repeater Crossbow ...................................................... 35 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 * May be taken by Heroes only.
 ** May be taken by Heroes and Corsairs only.
 
@@ -6717,8 +6717,8 @@ remarkable cunning, they are dangerous foes who embody the
 merciless traits of the Druchii race.
 Profile M WS BS S T W I A Ld
 5 5 4 3 3 1 6 1 9
-Weapons/Armour: A High Born may be armed with
-weapons and armour chosen from the Dark Elf Equipment
+Weapons/Armor: A High Born may be armed with
+weapons and armor chosen from the Dark Elf Equipment
 list.
 Skills: The High Born may choose from Combat, Shooting,
 Academic & Speed when he gains a new skill. In addition,
@@ -6740,8 +6740,8 @@ hone their killing skills.
 Profile M WS BS S T W I A Ld
 
 5 5 4 3 3 1 6 1 8
-Weapons/Armour: Fellblades may be armed with weapons
-and armour chosen from the Dark Elf Equipment list.
+Weapons/Armor: Fellblades may be armed with weapons
+and armor chosen from the Dark Elf Equipment list.
 Skills: The Fellblade may choose from Combat & Speed
 when he gains a new skill. In addition, the Fellblade may
 choose from the Dark Elf Special Skill list.
@@ -6760,8 +6760,8 @@ the High Elves who treat their beasts as companions, the Dark Elf
 Beastmasters are very spiteful masters.
 Profile M WS BS S T W I A Ld
 5 4 4 3 3 1 6 1 8
-Weapons/Armour: A Beastmaster may be armed with
-weapons and armour chosen from the Dark Elf Equipment
+Weapons/Armor: A Beastmaster may be armed with
+weapons and armor chosen from the Dark Elf Equipment
 list.
 Skills: The Beastmaster may choose from Combat & Speed
 when he gains a new skill. In addition, the Beastmaster may
@@ -6783,9 +6783,9 @@ grudgingly respected even from the powerful High Born and their
 services are high in demand.
 Profile M WS BS S T W I A Ld
 5 4 4 3 3 1 6 1 8
-Weapons/Armour: The Sorceress may be armed with
-weapons and armour chosen from the Dark Elf Equipment
-list but they may not cast spells if wearing armour.
+Weapons/Armor: The Sorceress may be armed with
+weapons and armor chosen from the Dark Elf Equipment
+list but they may not cast spells if wearing armor.
 Skills: The Sorceress may choose from Academic & Speed
 when he gains a new skill. In addition, the Sorceress may
 choose from the Dark Elf Special Skill list.
@@ -6811,8 +6811,8 @@ of Lustria the Corsairs are the first to launch raiding parties.
 Profile M WS BS S T W I A Ld
 
 5 4 4 3 3 1 6 1 8
-Weapons/Armour: Corsairs may be armed with weapons
-and armour chosen from the Dark Elf Equipment list, in
+Weapons/Armor: Corsairs may be armed with weapons
+and armor chosen from the Dark Elf Equipment list, in
 addition they may wear Sea Dragon Cloaks even though they
 are not heroes.
 
@@ -6826,8 +6826,8 @@ valuable training opportunity.
 Profile M WS BS S T W I A Ld
 
 5 3 3 3 3 1 5 1 8
-Weapons/Armour: Shades may be armed with weapons and
-armour chosen from the Shades Equipment list.
+Weapons/Armor: Shades may be armed with weapons and
+armor chosen from the Shades Equipment list.
 Special Rules
 Natural Stealth: The first thing that Dark Elf Scouts master
 is the art of moving without being seen or heard. If a Dark Elf
@@ -6848,7 +6848,7 @@ Dark Elves capture and train these creatures to fight in battles all
 over the Warhammer world.
 Profile M WS BS S T W I A Ld
 6 3 0 4 4 1 1 1 4
-Weapons/Armour: Cold One Beasthounds are animals and
+Weapons/Armor: Cold One Beasthounds are animals and
 do not need any weapons save their claws and massive jaws.
 Special Rules
 Animals: Cold One Beasthounds are animals and all animal
@@ -6864,7 +6864,7 @@ They may never use the Leadership of the warband leader,
 nor may they benefit from the Beastmaster’s increased
 Leadership if he is within 6" of the leader.
 Scaly Skin: Cold One Beasthounds have tough scaly skin,
-and are considered to have a 6+ armour save. This save
+and are considered to have a 6+ armor save. This save
 cannot be modified beyond 6 due to strength modifiers but
 any result of ‘no save’ on the injury chart will negate the
 unmodified 6+ save.
@@ -6924,13 +6924,13 @@ Sword ..........................................................................
 Double-handed weapon ............................................... 15 GC
 Halberd ........................................................................ 10 GC
 Dark Steel Weapon* ................................................. 2x price
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
-Heavy Armour* ........................................................... 50 GC
-Dark Steel Armour* .................................................... 95 GC
+Light armor ................................................................ 20 GC
+Heavy Armor* ........................................................... 50 GC
+Dark Steel Armor* .................................................... 95 GC
 Special Equipment
 Dark Venom* .............................................................. 15 GC
 Black Lotus** ............................................................... 5 GC
@@ -6945,9 +6945,9 @@ Missile Weapons
 Throwing Knives ......................................................... 15 GC
 Crossbow Pistol* ......................................................... 35 GC
 Repeater Crossbow ...................................................... 35 GC
-Armour
+Armor
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
  
 * May be taken by Heroes only.
 ** May be taken by Witch Hag & Witch Elves only
@@ -6958,9 +6958,9 @@ Light armour ................................................................ 20
 Profile M WS BS S T W I A Ld
 
 5 5 3 3 3 1 7 1 9
-Weapons/Armour: Witch Hag may be armed with weapons
+Weapons/Armor: Witch Hag may be armed with weapons
 chosen from the Witch Elves Equipment list, note that Witch
-Hag don’t uses missile weapons or wear armour.
+Hag don’t uses missile weapons or wear armor.
 Skills: The Witch Hag may choose from Combat, Academic,
 & Speed when she gains a new skill. In addition, the Witch
 Hag may choose from the Dark Elves Special Skill list.
@@ -6980,8 +6980,8 @@ deadly Executioners are sent to foray into Mordheim in the name of
 Khaine.
 Profile M WS BS S T W I A Ld
 5 5 4 3 3 1 5 1 8
-Weapons/Armour: An Executioner may be equipped with
-weapons and armour chosen from the Witch Elves equipment
+Weapons/Armor: An Executioner may be equipped with
+weapons and armor chosen from the Witch Elves equipment
 list.
 Skills: The Executioner may choose from Combat, & Speed
 when he gains a new skill. In addition, the Executioner may
@@ -6998,8 +6998,8 @@ King in his glorious armies.
 Profile M WS BS S T W I A Ld
 
 5 5 4 3 3 1 6 3 9
-Weapons/Armour: An Assassin may be equipped with
-weapons and armour chosen from the Shards equipment list.
+Weapons/Armor: An Assassin may be equipped with
+weapons and armor chosen from the Shards equipment list.
 
 Skills: The Assassin may choose from Combat, Shooting,
 Academic, & Speed when he gains a new skill. In addition,
@@ -7007,7 +7007,7 @@ the Assassin may choose from the Dark Elves Special Skill
 list or the Assassin Special Skill List.
 Special Rules
 Perfect Killer: An Assassin always has an extra -1 modifier
-to any armour save the enemy has to take against wounds
+to any armor save the enemy has to take against wounds
 they inflict, both with shooting and close combat weapons.
 Loner: Assassins are not great leaders, but are ruthless and
 highly disciplined warriors. The warband may never use the
@@ -7025,9 +7025,9 @@ looking for sacrifices for the glory of Khaine.
 Profile M WS BS S T W I A Ld
 
 5 4 3 3 3 1 6 1 8
-Weapons/Armour: Witch Elves may be armed with
+Weapons/Armor: Witch Elves may be armed with
 weapons chosen from the Witch Elves Equipment list, note
-that Witch Elves don’t uses missile weapons or wear armour.
+that Witch Elves don’t uses missile weapons or wear armor.
 Special Rules
 Frenzy: Witch Elves are affected by the rules for frenzy.
 While frenzied, Witch Elves still hate High Elves, although
@@ -7042,8 +7042,8 @@ inexperienced scouts that see the expeditions to Lustria as a
 valuable training opportunity.
 Profile M WS BS S T W I A Ld
 5 3 3 3 3 1 5 1 8
-Weapons/Armour: Shades may be armed with weapons and
-armour chosen from the Shades Equipment list.
+Weapons/Armor: Shades may be armed with weapons and
+armor chosen from the Shades Equipment list.
 Special Rules
 Natural Stealth: The first thing that Dark Elf Scouts master
 is the art of moving without being seen or heard. If a Dark Elf
@@ -7157,8 +7157,8 @@ Sling ..........................................................................
 Throwing stars ............................................................. 15 GC
 Blowpipe ..................................................................... 25 GC
 Warplock pistol ................................. 35 GC (70 for a brace)
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -7170,8 +7170,8 @@ Sword ..........................................................................
 Spear ............................................................................ 10 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
@@ -7185,8 +7185,8 @@ not contemplated...
 Profile M WS BS S T W I A Ld
 
 6 4 4 4 3 1 5 1 7
-Weapons/Armour: An Assassin Adept may be armed with
-weapons and armour chosen from the Skaven Hero’s
+Weapons/Armor: An Assassin Adept may be armed with
+weapons and armor chosen from the Skaven Hero’s
 Equipment list.
 Skills: The Assassin Adept may choose from Combat,
 Shooting, Academic, Strength & Speed when he gains a new
@@ -7196,7 +7196,7 @@ Special Rules
 Leader: Any warrior within 6" of the Assassin Adept may
 use his Leadership instead of his own.
 Perfect Killer: An Assassin Adept always has an extra -1
-modifier to any armour save the enemy has to take against
+modifier to any armor save the enemy has to take against
 wounds they inflicted (both with shooting and close combat
 weapons).
 0-2 Black Skaven
@@ -7207,8 +7207,8 @@ they excel at ambushing and assassinating man-things.
 Profile M WS BS S T W I A Ld
 
 6 4 3 4 3 1 5 1 6
-Weapons/Armour: A Black Skaven may be armed with
-weapons and armour chosen from the Skaven Hero’s
+Weapons/Armor: A Black Skaven may be armed with
+weapons and armor chosen from the Skaven Hero’s
 Equipment list.
 Skills: The Black Skaven may choose from Combat,
 Shooting, Strength, & Speed when he gains a new skill. In
@@ -7223,8 +7223,8 @@ slight compared to the Warlocks of Clan Skryre or the mighty Grey
 Seer, their black sorcery is still potent.
 Profile M WS BS S T W I A Ld
 5 3 3 3 3 1 4 1 6
-Weapons/Armour: A Skaven Eshin Sorcerer may be armed
-with weapons and armour chosen from the Skaven Hero’s
+Weapons/Armor: A Skaven Eshin Sorcerer may be armed
+with weapons and armor chosen from the Skaven Hero’s
 Equipment list.
 Skills: The Eshin Sorcerer may choose from Academic &
 Speed when he gains a new skill. In addition, the Eshin
@@ -7244,8 +7244,8 @@ initiated into the secrets of the clan, they make up for their lack of
 knowledge with their ambition and energy.
 Profile M WS BS S T W I A Ld
 6 2 3 3 3 1 4 1 4
-Weapons/Armour: Night Runners may be armed with
-weapons and armour chosen from the Skaven Henchmen
+Weapons/Armor: Night Runners may be armed with
+weapons and armor chosen from the Skaven Henchmen
 Equipment list.
 Skills: The Night Runners may choose from Combat &
 Shooting when he gains a new skill. In addition, the Night
@@ -7265,8 +7265,8 @@ the status of an Assassin one day.
 Profile M WS BS S T W I A Ld
 
 5 3 3 3 3 1 4 1 5
-Weapons/Armour: Verminkin may be armed with weapons
-and armour chosen from the Skaven Henchmen Equipment
+Weapons/Armor: Verminkin may be armed with weapons
+and armor chosen from the Skaven Henchmen Equipment
 list.
 
 Giant rats
@@ -7277,7 +7277,7 @@ Skaven, overpowering their opponents by sheer weight of numbers.
 Profile M WS BS S T W I A Ld
 
 6 2 0 3 3 1 4 1 4
-Weapons/Armour: None. Giant Rats never use any armour
+Weapons/Armor: None. Giant Rats never use any armor
 or weapons.
 Pack Size: You mar recruit as many Giant Rats as you wish.
 For each Giant Rat beyond the first two, each model counts
@@ -7293,8 +7293,8 @@ These horrible monsters are much in demand as bodyguards to
 important Skaven.
 Profile M WS BS S T W I A Ld
 6 3 3 5 5 3 4 3 4
-Weapons/Armour: Jaws, claws and brute force! Rat Ogres
-can never use weapons or armour.
+Weapons/Armor: Jaws, claws and brute force! Rat Ogres
+can never use weapons or armor.
 Special Rules
 Fear: Rat Ogres are so frightening they cause fear.
 Stupidity: A Rat Ogre is subject to stupidity unless a Skaven
@@ -7395,11 +7395,11 @@ Punisher Whip ............................................................. 15 G
 Missile Weapons
 Sling .............................................................................. 2 GC
 Short Bow ...................................................................... 5 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
-Heavy Armour ............................................................. 50 GC
+Light Armor .............................................................. 20 GC
+Heavy Armor ............................................................. 50 GC
 
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
@@ -7410,10 +7410,10 @@ Halberd ........................................................................
 Flail ............................................................................. 15 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
+Light Armor .............................................................. 20 GC
 
 
 ##### Heroes
@@ -7423,8 +7423,8 @@ Light Armour .............................................................. 20 G
 Profile M WS BS S T W I A Ld
 
 6 4 4 4 3 1 5 1 7
-Weapons/Armour: The Master Moulder may be equipped
-with weapons and armour chosen from the Hero’s equipment
+Weapons/Armor: The Master Moulder may be equipped
+with weapons and armor chosen from the Hero’s equipment
 list.
 Skills: The Master Moulder may choose from Combat,
 Shooting, Academic, Strength, & Speed when he gains a new
@@ -7445,8 +7445,8 @@ and beasts seen on the battlefield.
 Profile M WS BS S T W I A Ld
 
 6 3 3 4 3 1 5 1 6
-Weapons/Armour: The Harbinger of Mutation may be
-equipped with weapons and armour chosen from the Hero’s
+Weapons/Armor: The Harbinger of Mutation may be
+equipped with weapons and armor chosen from the Hero’s
 equipment list.
 Skills: The Harbinger of Mutation may choose from
 Academic, & Speed when he gains a new skill. In addition,
@@ -7464,8 +7464,8 @@ learn a new Spell instead on a new skill.
 40 gold crowns to hire
 Profile M WS BS S T W I A Ld
 6 4 3 4 3 1 5 1 6
-Weapons/Armour: A Pack Master may be equipped with
-weapons and armour chosen from the Hero’s equipment list.
+Weapons/Armor: A Pack Master may be equipped with
+weapons and armor chosen from the Hero’s equipment list.
 Skills: The Pack Master may choose from Combat, Shooting,
 Strength, & Speed when he gains a new skill. In addition, the
 Pack Master may choose from the Clan Moulder Special
@@ -7478,8 +7478,8 @@ brethren, creating genetic deviants of the normal Skaven. These
 beings are fearsome in combat, and hideous to look upon.
 Profile M WS BS S T W I A Ld
 5 3 3 3 3 1 4 1 5
-Weapons/Armour: A Mutant Skaven may be equipped with
-weapons and armour chosen from the Henchmen equipment
+Weapons/Armor: A Mutant Skaven may be equipped with
+weapons and armor chosen from the Henchmen equipment
 list.
 Skills: The Mutant Skaven may choose from Combat,
 Shooting, & Strength when he gains a new skill. In addition,
@@ -7502,8 +7502,8 @@ to those lofty positions of power within the clan.
 Profile M WS BS S T W I A Ld
 
 5 3 3 3 3 1 4 1 5
-Weapons/Armour: The Pack Servants may be equipped
-with weapons and armour chosen from the Henchmen
+Weapons/Armor: The Pack Servants may be equipped
+with weapons and armor chosen from the Henchmen
 equipment list.
 
 0-5 Wolf Rats
@@ -7524,8 +7524,8 @@ in their path in a blood rage.
 Profile M WS BS S T W I A Ld
 
 9 3 0 3 3 1 3 1 5
-Weapons/Armour: None. The Wolf Rat attacks with claws
-and fangs. The Wolf Rats never use any armour or weapons.
+Weapons/Armor: None. The Wolf Rat attacks with claws
+and fangs. The Wolf Rats never use any armor or weapons.
 Special Rules
 Experience: Wolf Rats are animals and do not gain
 experience.
@@ -7538,7 +7538,7 @@ mutated monstrosities the size of dogs. They fight alongside the
 Skaven, overpowering their opponents by sheer weight of numbers.
 Profile M WS BS S T W I A Ld
 6 2 0 3 3 1 4 1 4
-Weapons/Armour: None. Giant Rats never use any armour
+Weapons/Armor: None. Giant Rats never use any armor
 or weapons.
 Pack Size: You mar recruit as many Giant Rats as you wish.
 For each Giant Rat beyond the first two, each model counts
@@ -7556,8 +7556,8 @@ the Rat Ogre Creations in Moulder’s Possession sport extra limbs
 and heads, some even have had troll blood transfusion.
 Profile M WS BS S T W I A Ld
 6 3 3 5 5 3 4 3 4
-Weapons/Armour: Jaws, claws, and brute force! Clan
-Moulder Rat Ogres can never wear armour or use weapons.
+Weapons/Armor: Jaws, claws, and brute force! Clan
+Moulder Rat Ogres can never wear armor or use weapons.
 Special Rules
 Fear: Clan Moulder Rat Ogres are so frightening they cause
 fear.
@@ -7599,10 +7599,10 @@ ranked members carry heavier weapons and even warplock
 pistols. The knives are long and serrated and are often rusty
 or smeared in rotten corpses to ensure that the any non-lethal
 wound becomes infected. The Clan members do not need to
-wear armour since their bodies are hardened by the diseases
+wear armor since their bodies are hardened by the diseases
 they carry they feel little pain, they rely on their thick fur to
 protect them. The robes themselves offer protection equal to
-soft leather and will be considered as light armour when
+soft leather and will be considered as light armor when
 combined with the scattered pieces of chain mail or plate that
 some plague monks do wear underneath their putrid robes.
 
@@ -7651,8 +7651,8 @@ Censer .........................................................................
 Plague Sword .............................................................. 40 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
@@ -7665,8 +7665,8 @@ Flail ..........................................................................
 Spear ............................................................................ 10 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -7682,7 +7682,7 @@ diseases are his main goals in the streets of Mordheim.
 Profile M WS BS S T W I A Ld
 
 5 4 4 4 4 1 5 1 7
-Weapons/Armour: The Plague Priest may be equipped as
+Weapons/Armor: The Plague Priest may be equipped as
 desired from the Clan Pestilens equipment list.
 Skills: The Plague Priest may choose from Combat,
 Shooting, Academic, Strength & Speed when he gains a new
@@ -7700,7 +7700,7 @@ chant the Liturgicus Infecticus in combat.
 Profile M WS BS S T W I A Ld
 
 5 4 3 3 4 1 5 1 6
-Weapons/Armour: Plague Monks may be equipped as
+Weapons/Armor: Plague Monks may be equipped as
 desired from the Clan Pestilens equipment list.
 Skills: The Plague Monks may choose from Combat,
 Shooting, Strength & Speed when he gains a new skill. In
@@ -7713,7 +7713,7 @@ The Monk Initiates are young skavens devoted to the Clan Pestilens
 discipline, waiting to be promoted as true Plague Monks.
 Profile M WS BS S T W I A Ld
 5 2 3 2 2 1 4 1 4
-Weapons/Armour: Monk Initiates may be equipped as
+Weapons/Armor: Monk Initiates may be equipped as
 desired from the Clan Pestilens equipment list.
 Skills: The Monk Initiates may choose from Combat,
 Shooting & Speed when he gains a new skill. In addition, the
@@ -7727,7 +7727,7 @@ new and more terrible forms of contagion, under the vigilant
 supervision of his dreadful master, the Horned Rat.
 Profile M WS BS S T W I A Ld
 5 3 3 3 3 1 4 1 6
-Weapons/Armour: The Festering Chantor may be equipped
+Weapons/Armor: The Festering Chantor may be equipped
 as desired from the Clan Pestilens equipment list.
 Skills: The Festering Chantor may choose from Academic &
 Speed when he gains a new skill. In addition, the Festering
@@ -7753,7 +7753,7 @@ chanting the Liturgicus Infecticus.
 Profile M WS BS S T W I A Ld
 
 5 3 3 3 3 1 4 1 5
-Weapons/Armour: Plague Novices may be equipped as
+Weapons/Armor: Plague Novices may be equipped as
 desired from the Henchmen equipment list.
 
 Giant rats
@@ -7764,7 +7764,7 @@ Skaven, overpowering their opponents by sheer weight of numbers.
 Profile M WS BS S T W I A Ld
 
 6 2 0 3 3 1 4 1 4
-Weapons/Armour: None. Giant Rats never use any armour
+Weapons/Armor: None. Giant Rats never use any armor
 or weapons.
 
 Pack Size: You mar recruit as many Giant Rats as you wish.
@@ -7780,7 +7780,7 @@ These terrible monsters are often chosen as personal bodyguards by
 Skaven of higher ranks
 Profile M WS BS S T W I A Ld
 6 3 3 5 5 3 4 3 4
-Weapons/Armour: Claws and ferocity.
+Weapons/Armor: Claws and ferocity.
 Special Rules
 Fear: The Rat Ogre causes fear.
 Stupidity: The Rat Ogre is subject to the Stupidity rules,
@@ -7865,13 +7865,13 @@ Handgun ...................................................................... 5
 Blunderbuss ................................................................. 60 GC
 Warplock Pistol ................................. 35 GC (70 for a brace)
 Poison Wind Globes .................................................... 25 GC
-Armour
+Armor
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
+Light Armor .............................................................. 20 GC
 
-Heavy Armour ............................................................. 50 GC
+Heavy Armor ............................................................. 50 GC
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -7882,10 +7882,10 @@ Missile Weapons
 Sling .............................................................................. 2 GC
 Pistol (brace not available for henchmen) ................... 20 GC
 Handgun ...................................................................... 55 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
+Light Armor .............................................................. 20 GC
 Machinist Equipment List
 Special Weapons
 Poison Wind Globes .................................................... 25 GC
@@ -7904,8 +7904,8 @@ the precious warpstone to power their mad machines.
 Profile M WS BS S T W I A Ld
 
 5 4 4 4 3 1 5 1 7
-Weapons/Armour: The Chief Engineer may be equipped
-with weapons and armour chosen from the Hero’s equipment
+Weapons/Armor: The Chief Engineer may be equipped
+with weapons and armor chosen from the Hero’s equipment
 list.
 Skills: The Chief Engineer may choose from Combat,
 Shooting, Academic, Strength & Speed when he gains a new
@@ -7928,8 +7928,8 @@ Skryre. These evil beings are equipped to make a difference in local
 population.
 Profile M WS BS S T W I A Ld
 5 3 4 4 3 1 5 1 6
-Weapons/Armour: A Journeyman may be equipped with
-weapons and armour chosen from the Hero’s and the
+Weapons/Armor: A Journeyman may be equipped with
+weapons and armor chosen from the Hero’s and the
 Machinist equipment lists.
 Skills: The Journeymen may choose from Combat, Shooting,
 Academic, & Speed when he gains a new skill. In addition,
@@ -7945,8 +7945,8 @@ but have yet to prove their worth or claw a position of power among
 the Engineers.
 Profile M WS BS S T W I A Ld
 5 3 3 3 3 1 5 1 6
-Weapons/Armour: The Warlock Engineer may be equipped
-with weapons and armour chosen from the Hero’s equipment
+Weapons/Armor: The Warlock Engineer may be equipped
+with weapons and armor chosen from the Hero’s equipment
 list.
 Skills: The Warlock Engineer may choose from Academic, &
 Speed when he gains a new skill. In addition, the Warlock
@@ -7966,8 +7966,8 @@ Apprentices. They are vicious and devious fighters, and enjoy a
 good hunt as often as they can.
 Profile M WS BS S T W I A Ld
 5 3 3 3 3 1 4 1 5
-Weapons/Armour: An Apprentice may be equipped with
-weapons and armour chosen from the Henchmen equipment
+Weapons/Armor: An Apprentice may be equipped with
+weapons and armor chosen from the Henchmen equipment
 list.
 Skills: The Apprentice may choose from Combat, Shooting,
 & Speed when he gains a new skill. In addition, the
@@ -7982,8 +7982,8 @@ and drawers of water, freeing the Engineers to do their work.
 Profile M WS BS S T W I A Ld
 
 5 3 3 3 3 1 4 1 5
-Weapons/Armour: Thrall may be equipped with weapons
-and armour chosen from the Henchmen equipment list.
+Weapons/Armor: Thrall may be equipped with weapons
+and armor chosen from the Henchmen equipment list.
 Special Rules
 Assistant: The Thrall can be assigned to a Machinist or
 Journeymen to aid them in carrying and using the Jezzail
@@ -7999,8 +7999,8 @@ of clan Skryre. They act as Attendants and hope to learn the black
 ways that make Skaven powerful.
 Profile M WS BS S T W I A Ld
 5 3 4 3 3 1 4 1 5
-Weapons/Armour: Machinist may be equipped with
-weapons and armour chosen from the Henchmen and the
+Weapons/Armor: Machinist may be equipped with
+weapons and armor chosen from the Henchmen and the
 Machinist equipment lists.
 
 
@@ -8012,7 +8012,7 @@ Skaven, overpowering their opponents by sheer weight of numbers.
 Profile M WS BS S T W I A Ld
 
 6 2 0 3 3 1 4 1 4
-Weapons/Armour: None. Giant Rats never use any armour
+Weapons/Armor: None. Giant Rats never use any armor
 or weapons.
 Pack Size: You mar recruit as many Giant Rats as you wish.
 For each Giant Rat beyond the first two, each model counts
@@ -8035,7 +8035,7 @@ beast.
 Profile M WS BS S T W I A Ld
 
 4 3 3 5 5 3 1 3 10
-Weapons/Armour: Jaws, claws, and a miniature Warpfire
+Weapons/Armor: Jaws, claws, and a miniature Warpfire
 thrower on its mechanical left arm.
 Special Rules
 Bio Machinery: The Clan Skryre Rat Ogre is not alive as
@@ -8056,7 +8056,7 @@ May Not Run: The Clan Skryre Rat Ogre is a huge
 lumbering monster-machine that lacks the sheer animal speed
 of a living Rat Ogre. It may not run but may charge.
 Metallic Body: These give Clan Skryre Rat Ogre a 4+
-armour save.
+armor save.
 Unreliable: The technology of biomechanics is still pretty
 much in its infancy and as with most Clan Skryre
 experiments is neither safe nor entirely reliable! At the
@@ -8210,8 +8210,8 @@ Halberd ........................................................................
 Missile weapons
 Crossbow ..................................................................... 25 GC
 Bow ............................................................................. 10 GC
-Armour
-Light armour ................................................................ 20 GC
+Armor
+Light armor ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -8223,7 +8223,7 @@ Sword ..........................................................................
 Spear ............................................................................ 10 GC
 Missile weapons
 Short bow ...................................................................... 5 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Miscellaneous
@@ -8242,8 +8242,8 @@ member!
 
 Profile M WS BS S T W I A Ld
 4 4 4 4 4 1 3 1 8
-Weapons/Armour: An Orc Boss may be equipped with
-weapons and armour chosen from the Orc equipment list.
+Weapons/Armor: An Orc Boss may be equipped with
+weapons and armor chosen from the Orc equipment list.
 Skills: The Orc Boss may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
 Orc Boss may choose from the Orc Special Skill list.
@@ -8260,9 +8260,9 @@ them.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 4 1 3 1 7
-Weapons/Armour: An Orc Shaman may be armed with
+Weapons/Armor: An Orc Shaman may be armed with
 weapons chosen from the Orc equipment list. An Orc
-Shaman may never wear armour.
+Shaman may never wear armor.
 Skills: The Orc Shaman may choose from Strength when he
 gains a new skill. In addition, the Orc Shaman may choose
 from the Orc Special Skill list.
@@ -8283,8 +8283,8 @@ orders of the Orc Boss. If the Boss ever falls, it is up to the Big ’Uns
 to decide on a new leader (usually through personal combat).
 Profile M WS BS S T W I A Ld
 4 4 3 3 4 1 3 1 7
-Weapons/Armour: Big ’Uns may be equipped with
-weapons and armour chosen from the Orc equipment list.
+Weapons/Armor: Big ’Uns may be equipped with
+weapons and armor chosen from the Orc equipment list.
 Skills: The Orc Big ‘Uns may choose from Combat,
 Shooting & Strength when he gains a new skill. In addition,
 the Orc Big ‘Uns may choose from the Orc Special Skill list.
@@ -8302,8 +8302,8 @@ Orcs do not want or cannot use.
 Profile M WS BS S T W I A Ld
 
 4 2 3 3 3 1 3 1 5
-Weapons/Armour: Goblins may be armed with weapons
-and armour chosen from Goblin equipment list.
+Weapons/Armor: Goblins may be armed with weapons
+and armor chosen from Goblin equipment list.
 Special Rules
 Animosity: Goblin Warriors are subject to the rules for
 Animosity (see Special Rules for details). Note: A Goblin
@@ -8333,8 +8333,8 @@ horns, and a nasty temperament.
 Profile M WS BS S T W I A Ld
 
 2D6 4 0 4 3 1 4 1 5
-Weapons/Armour: Big gob and brutality! Cave Squigs
-never use or need weapons or armour.
+Weapons/Armor: Big gob and brutality! Cave Squigs
+never use or need weapons or armor.
 Special Rules
 Movement: Cave Squigs do not have a set Movement
 characteristic but move with an ungainly bouncing stride. To
@@ -8366,8 +8366,8 @@ superstitious than most other beings in the Warhammer world. They
 form the core of any Orc warband.
 Profile M WS BS S T W I A Ld
 4 3 3 3 4 1 2 1 7
-Weapons/Armour: Boyz may be equipped with weapons
-and armour chosen from the Orc equipment list.
+Weapons/Armor: Boyz may be equipped with weapons
+and armor chosen from the Orc equipment list.
 Special Rules
 Animosity: Orc Boyz are subject to the rules for Animosity
 (see Special Rules for details).
@@ -8378,9 +8378,9 @@ Trolls are not intelligent enough to recognize the value of gold, but
 large amounts of food can often instill a certain loyalty in them.
 Profile M WS BS S T W I A Ld
 6 3 1 5 4 3 1 3 4
-Weapons/Armour: Trolls do not require weapons to fight
+Weapons/Armor: Trolls do not require weapons to fight
 but often carry a big club. In any event, Trolls can never be
-given weapons or armour.
+given weapons or armor.
 Special Rules
 Fear: Trolls are frightening monsters which cause fear.
 Stupidity: A Troll is subject to the rules for stupidity.
@@ -8406,7 +8406,7 @@ Vomit Attack: Instead of his normal attacks, a Troll can
 regurgitate its highly corrosive digestive juices on an
 unfortunate hand-to-hand combat opponent. This is a single
 attack that automatically hits with a Strength of 5 and ignores
-armour saves.
+armor saves.
 
 
 #### Black Orc Mob
@@ -8532,12 +8532,12 @@ Double-handed weapon ............................................... 15 GC
 Missile weapons
 Bow ............................................................................. 10 GC
 Crossbow ..................................................................... 25 GC
-Armour
+Armor
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
-Heavy Armour ............................................................. 50 GC
+Light armor ................................................................ 20 GC
+Heavy Armor ............................................................. 50 GC
 
 Henchmen
 Hand-to-hand combat weapons
@@ -8551,10 +8551,10 @@ Orcs only) ................................................................. 15 
 Missile weapons
 Bow ............................................................................. 10 GC
 Crossbow (Shootaz only) ............................................ 25 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Light armor ................................................................ 20 GC
 ##### Heroes
 
 1 Black Orc Boss
@@ -8567,8 +8567,8 @@ and larger warbands until they have a Horde at their beck and call.
 Profile M WS BS S T W I A Ld
 
 4 4 4 4 4 1 3 1 8
-Weapons/Armour: A Black Orc Boss may be equipped with
-weapons and armour chosen from the Black Orc equipment
+Weapons/Armor: A Black Orc Boss may be equipped with
+weapons and armor chosen from the Black Orc equipment
 list.
 Skills: The Black Orc Boss may choose from Combat,
 Shooting, Strength & Speed when he gains a new skill. In
@@ -8577,7 +8577,7 @@ Special Skill list.
 Special Rules
 Leader: Any warrior within 6" of the Boss may use his
 Leadership characteristic when taking Leadership tests.
-Black Orc: Model starts with a natural 6+ Armour Save.
+Black Orc: Model starts with a natural 6+ Armor Save.
 This save may be combined with other equipment to improve
 it.
 Oi Behave!: If any Henchman fails his Animosity test within
@@ -8603,14 +8603,14 @@ Beastmen or even the Boyz in the warband, the Black Orcs just
 don’t care as long as they get to crump something!
 Profile M WS BS S T W I A Ld
 4 4 3 4 4 1 3 1 7
-Weapons/Armour: A Black Orc may be equipped with
-weapons and armour chosen from the Black Orc equipment
+Weapons/Armor: A Black Orc may be equipped with
+weapons and armor chosen from the Black Orc equipment
 list.
 Skills: The Black Orc may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
 Black Orc may choose from the Orc Special Skill list.
 Special Rules
-Black Orc: Model starts with a 6+ Armour Save. This may
+Black Orc: Model starts with a 6+ Armor Save. This may
 be improved upon by other equipment.
 0-2 Young’uns
 25 gold crowns to hire
@@ -8620,8 +8620,8 @@ warband and they’re plenty keen to get in there and do some
 damage. Of course one day, they know it’ll be their warband.
 Profile M WS BS S T W I A Ld
 4 2 2 3 4 1 2 1 7
-Weapons/Armour: A Young’uns may be equipped with
-weapons and armour chosen from the Henchmen equipment
+Weapons/Armor: A Young’uns may be equipped with
+weapons and armor chosen from the Henchmen equipment
 list.
 Skills: The Young’uns may choose from Combat & Shooting
 when he gains a new skill. In addition, the Young’uns may
@@ -8645,8 +8645,8 @@ anything else to do it too.
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 4 1 2 1 7
-Weapons/Armour: The Boyz may be equipped with
-weapons and armour chosen from the Henchmen equipment
+Weapons/Armor: The Boyz may be equipped with
+weapons and armor chosen from the Henchmen equipment
 list.
 Special Rules
 Animosity: Orc Boyz are subject to the rules for Animosity
@@ -8659,9 +8659,9 @@ large amounts of food can often instill a certain loyalty in them.
 Profile M WS BS S T W I A Ld
 
 6 3 1 5 4 3 1 3 4
-Weapons/Armour: Trolls do not require weapons to fight
+Weapons/Armor: Trolls do not require weapons to fight
 but often carry a big club. In any event, Trolls can never be
-given weapons or armour.
+given weapons or armor.
 Special Rules
 Fear: Trolls are frightening monsters which cause fear.
 Stupidity: A Troll is subject to the rules for stupidity.
@@ -8683,7 +8683,7 @@ Vomit Attack: Instead of his normal attacks, a Troll can
 regurgitate its highly corrosive digestive juices on an
 unfortunate hand-to-hand combat opponent. This is a single
 attack that automatically hits with a Strength of 5 and ignores
-armour saves.
+armor saves.
 
 Orc Shootaz
 25 gold crowns to hire
@@ -8694,8 +8694,8 @@ from a distance before moving in to finish them off. This is the
 closest Orcs come to outright cowardice.
 Profile M WS BS S T W I A Ld
 4 3 3 3 4 1 2 1 7
-Weapons/Armour: Shootaz may be equipped with weapons
-and armour chosen from the Henchmen equipment list.
+Weapons/Armor: Shootaz may be equipped with weapons
+and armor chosen from the Henchmen equipment list.
 Special Rules
 Animosity: Shootaz are subject to the rules for Animosity
 (see Special Rules for details).
@@ -8713,8 +8713,8 @@ Many live in their own tribes and have their own ways of fighting
 that make them easily distinguishable.
 Profile M WS BS S T W I A Ld
 4 3 2 3 4 1 2 2 5
-Weapons/Armour: A Savage Orc may be equipped with
-weapons and armour chosen from the Henchmen equipment
+Weapons/Armor: A Savage Orc may be equipped with
+weapons and armor chosen from the Henchmen equipment
 list.
 Special Rules
 Unstable: These Orcs are not quite all there. They do not
@@ -8728,7 +8728,7 @@ Savage: Savage Orcs are subject to Frenzy as detailed in the
 Psychology section of the Mordheim rulebook. They must
 always run or charge towards the nearest opponent they can
 see. If no enemy is visible they are moved under the player’s
-control. They can never use any form of armour or ranged
+control. They can never use any form of armor or ranged
 weapons. Savage Orcs are also so primitive for other Boyz
 and can never have the Leader ability or use their Ld stat for
 rout tests, unless they are the only models from the warband
@@ -8741,7 +8741,7 @@ From the Nemesis Crown
 Forest Goblin tribes dwell deep within The Great Forest. They have completely adapted to their surroundings, learning stealth
 and camouflage to evade their neighbours.
 Gold motivates the Forest Goblins as it does any warband, albeit for different reasons. It is worthless to them as currency but
-as a metallic resource, it is valuable nonetheless. Instead of using gold to buy weapons and armour, Forest Goblins actually
+as a metallic resource, it is valuable nonetheless. Instead of using gold to buy weapons and armor, Forest Goblins actually
 coat their stone equipment with the metal. This has led unscrupulous leaders to send their henchmen into certain ambush, only
 to arrive later to collect the arrowheads and spear points from the remains of their former employees
 Forest Goblins are able to create poisons with a precision surpassing even the Dark Elves. Their natural surroundings
@@ -8857,9 +8857,9 @@ Boss Pole ..................................................................... 
 Missile weapons
 Short bow ...................................................................... 5 GC
 Blowpipe ..................................................................... 25 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
-Light Armour .............................................................. 20 CG
+Light Armor .............................................................. 20 CG
 Miscellaneous
 Spider Poison .............................................................. 25 GC
 Red Toof Tribal Jewellery ........................................... 40 GC
@@ -8876,7 +8876,7 @@ Missile weapons
 Short bow ...................................................................... 5 GC
 Throwing Weapons ..................................................... 15 GC
 Blowpipe ..................................................................... 25 GC
-Armour
+Armor
 Shield ............................................................................ 5 GC
 Miscellaneous
 Spider Poison .............................................................. 25 GC
@@ -8891,8 +8891,8 @@ and Gork
 Profile M WS BS S T W I A Ld
 
 4 3 4 3 3 1 4 1 7
-Weapons/Armour: A Chieftain may be equipped with
-weapons and armour chosen from the Hero equipment list.
+Weapons/Armor: A Chieftain may be equipped with
+weapons and armor chosen from the Hero equipment list.
 Skills: The Chieftain may choose from Combat, Shooting,
 Academic, & Speed when he gains a new skill.
 Special Rules
@@ -8907,8 +8907,8 @@ not improve their temperament, however, since they are as prone to
 infighting as their henchmen.
 Profile M WS BS S T W I A Ld
 4 2 3 3 3 1 3 1 6
-Weapons/Armour: Braves may be equipped with weapons
-and armour chosen from the Hero equipment list.
+Weapons/Armor: Braves may be equipped with weapons
+and armor chosen from the Hero equipment list.
 Skills: The Braves may choose from Combat, Shooting, &
 Speed when he gains a new skill. In addition, the Braves may
 choose to remove his Animosity instead of choosing a skill,
@@ -8924,8 +8924,8 @@ mysterious animal parts instead of gold, most other Goblins agree
 that ‘dey is odd’.
 Profile M WS BS S T W I A Ld
 4 2 3 3 3 1 4 1 6
-Weapons/Armour: Shaman may be equipped with weapons
-and armour chosen from the Hero equipment list.
+Weapons/Armor: Shaman may be equipped with weapons
+and armor chosen from the Hero equipment list.
 Skills: The Shaman may choose from Academic, & Speed
 when he gains a new skill.
 Special Rules
@@ -8947,8 +8947,8 @@ out of sight in the dense foliage.
 Profile M WS BS S T W I A Ld
 
 4 2 3 3 3 1 3 1 6
-Weapons/Armour: A Forest Goblin may be equipped with
-weapons and armour chosen from the Henchmen equipment
+Weapons/Armor: A Forest Goblin may be equipped with
+weapons and armor chosen from the Henchmen equipment
 list.
 Special Rules
 Animosity: Forest Goblins are subject to the rules for
@@ -8962,8 +8962,8 @@ troops, valued by Chieftains for their berserk rage in battle.
 Profile M WS BS S T W I A Ld
 
 4 2 3 3 3 1 3 1 6
-Weapons/Armour: Red Toof Boyz may be equipped with
-weapons and armour chosen from the Henchmen equipment
+Weapons/Armor: Red Toof Boyz may be equipped with
+weapons and armor chosen from the Henchmen equipment
 list.
 Special Rules
 Animosity: Red Toof Boyz are subject to the rules for
@@ -8984,8 +8984,8 @@ hurl several projectiles in a split second. This makes them useful for
 distracting enemies with a hail of heavy stones.
 Profile M WS BS S T W I A Ld
 4 2 3 3 3 1 3 1 6
-Weapons/Armour: Sluggas may be equipped with weapons
-and armour chosen from the Henchmen equipment list.
+Weapons/Armor: Sluggas may be equipped with weapons
+and armor chosen from the Henchmen equipment list.
 Special Rules
 Animosity: are subject to the rules for Animosity.
 Sluggas: In the shooting phase, the Sluggas may throw
@@ -9000,8 +9000,8 @@ by Forest Goblin beastmasters, they become doubly dangerous and
 much harder to evade.
 Profile M WS BS S T W I A Ld
 6 3 0 5 5 3 4 2 4
-Weapons/Armour: A Gigantic Spider never needs or uses
-weapons or armour.
+Weapons/Armor: A Gigantic Spider never needs or uses
+weapons or armor.
 Special Rules
 Fear: Gigantic Spiders cause fear as described in the
 Mordheim Rulebook.
@@ -9019,7 +9019,7 @@ experience, as they are animals. Note however that they may
 climb as normal.
 May Ride: The Forest Goblin Chieftain, may ride the
 Gigantic Spider, if you are using the optional rules for
-mounts. The chieftain gains +1 armour save, and shall move
+mounts. The chieftain gains +1 armor save, and shall move
 at the Gigantic Spider’s rate of 6. Shooting attacks hit the
 Chieftain on a die roll of 1-2, and the Gigantic Spider on a 3-
 6. In close combat, the opponent may choose which to hit.
@@ -9153,12 +9153,12 @@ Missile Weapons
 Slings ............................................................................. 2 GC
 Short Bow ..................................................................... 5 GC
 Bow ............................................................................. 10 GC
-Armour
+Armor
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Toughened leathers ....................................................... 5 GC
 Helmet ......................................................................... 10 GC
-Light Armour .............................................................. 20 GC
+Light Armor .............................................................. 20 GC
 ##### Heroes
 
 1 Ilkhan
@@ -9168,8 +9168,8 @@ rules with an iron fist and none will (openly) dispute his power.
 Profile M WS BS S T W I A Ld
 
 4 4 4 3 3 1 4 1 8
-Weapons/Armour: The Ilkhan may be equipped with
-weapons and armour chosen from the Hobgoblin equipment
+Weapons/Armor: The Ilkhan may be equipped with
+weapons and armor chosen from the Hobgoblin equipment
 list.
 Skills: The Ilkhan may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
@@ -9184,8 +9184,8 @@ Often Hobgoblin raiding forces include one of their Shamans, gifted
 with the ability to wield magic these are fearsome opponents
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 2 1 7
-Weapons/Armour: A Shaman may be equipped with
-weapons and armour chosen from the Hobgoblin equipment
+Weapons/Armor: A Shaman may be equipped with
+weapons and armor chosen from the Hobgoblin equipment
 list.
 Skills: The Shaman may choose from Shooting, Academic &
 Speed when he gains a new skill. In addition, the Shaman
@@ -9203,8 +9203,8 @@ The Biggest and Baddest of the Gitz, ‘Ard Gits run with the Ilkhan
 and are entitled to the best loot (after the Ilkhan of course).
 Profile M WS BS S T W I A Ld
 4 4 3 3 3 1 3 1 6
-Weapons/Armour: An ‘Ard Gits may be equipped with
-weapons and armour chosen from the Hobgoblin equipment
+Weapons/Armor: An ‘Ard Gits may be equipped with
+weapons and armor chosen from the Hobgoblin equipment
 list.
 Skills: The ‘Ard Gits may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
@@ -9219,8 +9219,8 @@ Gits
 Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 2 1 6
-Weapons/Armour: A Hobgoblin Git may be equipped with
-weapons and armour chosen from the Hobgoblin equipment
+Weapons/Armor: A Hobgoblin Git may be equipped with
+weapons and armor chosen from the Hobgoblin equipment
 list.
 
 0-5 Shooty Gits
@@ -9228,8 +9228,8 @@ list.
 Profile M WS BS S T W I A Ld
 
 4 3 4 3 3 1 2 1 6
-Weapons/Armour: A Hobgoblin Shooty Gits may be
-equipped with weapons and armour chosen from the
+Weapons/Armor: A Hobgoblin Shooty Gits may be
+equipped with weapons and armor chosen from the
 Hobgoblin equipment list.
 Special Rules
 Ded shooty: The Hobgoblin Shooty Gits start with the skill
@@ -9239,8 +9239,8 @@ Ded shooty, see the Hobgoblin Special Skill list for details.
 25 gold crowns to hire
 Profile M WS BS S T W I A Ld
 9 3 0 3 3 1 4 1 4
-Weapons/Armour: Giant Wolves do not use any kind of
-weapons or armour
+Weapons/Armor: Giant Wolves do not use any kind of
+weapons or armor
 Special Rules
 Experience: Giant wolves are animals and do not gain
 experience.
@@ -9392,7 +9392,7 @@ new equipment and armaments using the warband’s treasury.
 Warriors can also swap equipment between themselves.
 Alternatively, old equipment can be hoarded and re-used at a
 later date.
-Weapons and armour purchased, swapped or taken from
+Weapons and armor purchased, swapped or taken from
 storage for your warband must be of an appropriate type for
 the warrior, as indicated by the warband lists. Record any
 changes to the warrior’s equipment on the roster sheet.
@@ -9489,7 +9489,7 @@ The warrior has suffered a serious wound and must miss the
 next D3 games while he is recovering. He may do nothing at
 all while recovering.
 36 ROBBED
-The warrior manages to escape, but all his weapons, armour
+The warrior manages to escape, but all his weapons, armor
 and equipment are lost.
 
 41-55 FULL RECOVERY
@@ -9516,7 +9516,7 @@ Undead may kill their captive and gain a new Zombie.
 The Possessed may sacrifice the prisoner. The leader of the
 warband will gain +1 Experience if they do so.
 Captives who are exchanged or ransomed retain all their
-weapons, armour and equipment; if captives are sold, killed
+weapons, armor and equipment; if captives are sold, killed
 or turned to Zombies, their weaponry, etc, is retained by their
 captors.
 62-63 HARDENED
@@ -9531,7 +9531,7 @@ the Hired Swords section for full rules for Pit Fighters.
 Roll to see which side charges, and fight the battle as normal.
 If the warrior loses, roll to see whether he is dead or injured
 (i.e., a D66 roll of 11-35). If he is not dead, he is thrown out
-of the fighting pits without his armour and weapons and may
+of the fighting pits without his armor and weapons and may
 re-join his warband.
 If the warrior wins he gains 50 GC, +2 Experience and is free
 to rejoin his warband with all his weapons and equipment.
@@ -9825,7 +9825,7 @@ weapons.
 Step Aside: The warrior has a natural ability to avoid injury in
 combat. Each time he suffers a wound in close combat he may make
 an additional saving throw of 5+. This save is never modified and is
-taken after all other armour saves.
+taken after all other armor saves.
 
 Axe Master: The warrior may parry with normal axes as per normal
 parrying rules.
@@ -9953,7 +9953,7 @@ ruins in the exploration phase you may re-roll one dice when rolling
 on the Exploration chart. The second result stands.
 
 Warrior Wizard: This skill may only be taken by Magic / Pray
-Users. The mental powers of the wizard allow him to wear armour
+Users. The mental powers of the wizard allow him to wear armor
 and cast spells.
 
 Scribe: The warrior is a natural adept at writing and making scrolls.
@@ -10025,7 +10025,7 @@ to define which bits of your terrain collection count as ‘buildings or
 ruins’ at the start of a battle to avoid confusion later.
 Resilient: The warrior is covered in battle scars. Deduct -1 Strength
 from all hits against him in close combat. This does not affect
-armour save modifiers.
+armor save modifiers.
 Fearsome: Such is the reputation and physique of the model that he
 causes fear in opposing models.
 
@@ -10041,7 +10041,7 @@ Untiring: When wielding Flails and Morning Stars, the Hero may
 use the Strength Bonuses every Hand-to-Hand phase of the game,
 not just the first round of a Hand-to-Hand engagement. (Created by
 Jester.)
-Strong Legs: The Hero may use Heavy Armour and a Shield
+Strong Legs: The Hero may use Heavy Armor and a Shield
 without suffering Movement penalties.
 
 
@@ -10191,9 +10191,9 @@ up first.
 #### Beastmen Raiders Special Skills
 
 Shaggy Hide: The Beastman’s massively shaggy hide acts as
-armour, deflecting sword strokes and protecting him from harm. The
-model gains a 6+ Armour Save that can be combined with other
-armour as normal.
+armor, deflecting sword strokes and protecting him from harm. The
+model gains a 6+ Armor Save that can be combined with other
+armor as normal.
 Mutant: The Beastman may buy one mutation.
 Fearless: Immune to Fear and All Alone tests.
 Horned One: The Beastman has mighty horns, and can make an
@@ -10215,7 +10215,7 @@ Blessings cost double.
 Stream of Corruption: The Tainted One can spew forth a
 grotesque stream of maggots, entrails and filth. This is counted as a
 shooting attack with a range of 6" and is resolved at Strength 3 with
-no saves for armour.
+no saves for armor.
 Cost: 25 Gold Crowns
 Nurgle’s Rot: The Tainted One is infected with the deadly
 pestilence of its lord – Nurgle’s Rot. In addition, the Tainted One is
@@ -10264,16 +10264,16 @@ for his enemies. He gains one additional Attack to his profile.
 Killing Blow: The vampire is an expert fighter and every time he
 rolls a natural 6 on the to-hit roll, he automatically wounds his
 opponent. No parries are allowed, although the opponent may make
-armour or saving throws.
+armor or saving throws.
 Master Strike: The vampire has an uncanny knack of hitting his
 victims where it will do most damage. He may cause a critical hit on
 a 5 or 6.
 Curse Of The Undead: The vampire is one of the ever-living and is
 extraordinarily difficult to kill. The vampire has 5+ ward save in
-addition to all his armour-rolls and parries.
+addition to all his armor-rolls and parries.
 Strength of the Dragon: The vampire is extremely strong. He gains
 a +1 Strength bonus and gets no movement penalties for wearing
-heavy armour and shield.
+heavy armor and shield.
 Gift of Abhorash: The vampire is a very imposing leader and
 permanently raises the maximum number of Members in the
 warband by D3.
@@ -10313,7 +10313,7 @@ modifiers. The rider must declare that he is trick riding before
 moving. He must then make an initiative test and if successful may
 move full distance. If he fails he loses control of his mount and must
 roll immediately on the Whoa Boy! Table. This skill may not be
-used with heavy armour because of the agility required. In addition,
+used with heavy armor because of the agility required. In addition,
 trick riding requires both hands, so the model may not use a shield
 or missile weapons whilst using the skill. Warriors without Ride
 may not use this skill.
@@ -10363,10 +10363,10 @@ speed but can ravage him from inside. The Skaven Hero may
 declare at the beginning of his turn that he is using this skill. The
 Hero may add +1 attack and +D3" to the total move to his profile for
 the duration of his own turn but will suffer D3 S3 hits with no
-armour save possible at the end of the turn.
+armor save possible at the end of the turn.
 Tail Fighting: The Skaven may wield a shield, knife or a sword
 with its tail. The model gains an extra attack with the appropriate
-weapon or a +1 bonus to its armour save.
+weapon or a +1 bonus to its armor save.
 Wall Runner: The Skaven does not need to take an Initiative test
 when climbing up walls and other sheer surfaces. Suggested
 Changes: May run or charge up walls, always striking last when
@@ -10402,10 +10402,10 @@ speed but can ravage him from inside. The Skaven Hero may
 declare at the beginning of his turn that he is using this skill. The
 Hero may add +1 attack and +D3" to the total move to his profile for
 the duration of his own turn but will suffer D3 S3 hits with no
-armour save possible at the end of the turn.
+armor save possible at the end of the turn.
 Tail Fighting: The Skaven may wield a shield, knife or a sword
 with its tail. The model gains an extra attack with the appropriate
-weapon or a +1 bonus to its armour save.
+weapon or a +1 bonus to its armor save.
 Wall Runner: The Skaven does not need to take an Initiative test
 when climbing up walls and other sheer surfaces. Suggested
 Changes: May run or charge up walls, always striking last when
@@ -10466,7 +10466,7 @@ speed but can ravage him from inside. The Skaven Hero may
 declare at the beginning of his turn that he is using this skill. The
 Hero may add +1 attack and +D3" to the total move to his profile for
 the duration of his own turn but will suffer D3 S3 hits with no
-armour save possible at the end of the turn.
+armor save possible at the end of the turn.
 Censer Bearer: Only a Clan Pestilens member with the Black
 Hunger special skill may choose the Censer Bearer special skill. A
 Clan Pestilens member with this skill is called Censer Bearer. He
@@ -10506,10 +10506,10 @@ speed but can ravage him from inside. The Skaven Hero may
 declare at the beginning of his turn that he is using this skill. The
 Hero may add +1 attack and +D3" to the total move to his profile for
 the duration of his own turn but will suffer D3 S3 hits with no
-armour save possible at the end of the turn.
+armor save possible at the end of the turn.
 Tail Fighting: The Skaven may wield a shield, knife or a sword
 with its tail. The model gains an extra attack with the appropriate
-weapon or a +1 bonus to its armour save.
+weapon or a +1 bonus to its armor save.
 Wall Runner: The Skaven does not need to take an Initiative test
 when climbing up walls and other sheer surfaces. Suggested
 Changes: May run or charge up walls, always striking last when
@@ -10532,8 +10532,8 @@ from the any Skaven magic list or Lesser Magic List.
 Draich Master: The hero has chosen the aspect of the Executioner
 as his primary focus. The hero can wield a double-handed sword
 without the usual penalty of striking last, and is allowed to wear
-Heavy or Ithilmar armour (note that he may not wear Gromril
-armour; what kind of Elf would wear Dwarf-made armour,
+Heavy or Ithilmar armor (note that he may not wear Gromril
+armor; what kind of Elf would wear Dwarf-made armor,
 anyways?). [Skill by Julian Hellstrom]
 Fey Quickness: Few can ever hope to match an Elf ’s inhuman
 quickness and agility. An Elf with Fey Quickness can avoid melee
@@ -10591,11 +10591,11 @@ normal attacks, you are allowed ONE kick between your opponents
 spread legs. Use the WS. You get +1 to hit, if this attack is not used
 this battle before. Treat knockdown results as stunned. This affects
 everyone except zombies, sexless beings and people in Heavy
-armour. (yes, now you know the place to stun a vampire).
+armor. (yes, now you know the place to stun a vampire).
 Biting: (this ought to make up something for the vampire :-) Instead
 of your attacks you may try to bite your CC-opponent. Jawmuscles
 tend to be very powerful, so watch your teeth. People who bite tend
-to find unarmored places. This is a S3 attack with no armour save
+to find unarmored places. This is a S3 attack with no armor save
 allowed. A successful hit means that the victim suffers the next
 round a S2 autohit and following turn a S1 hit. This is due to blood
 (or other fluid) loss.
@@ -10701,7 +10701,7 @@ Layers of Fat: The Halfling has gained mountains of flab during his
 vast experience of eating fine foods and his thick bulk could
 swallow a sword whole! The Halfling always has a basic saving
 throw of 6 regardless of the enemy warrior's strength and on top of
-any armour he already wears.
+any armor he already wears.
 Shifty: The Halfling has long-been skirting in the shadows,
 avoiding unwanted attention. So nimble is he that he may surprise
 even those who believe they've got them dead-to-rights. The
@@ -10767,7 +10767,7 @@ may not attack that turn and all attacks against it gain an additional
 +1 to hit. Ineffective against models immune to psychology.
 Quickblood: the vampire's lightning reflexes give it an
 unmodifiable 6+ save against all wounds. This save is in addition to
-and taken before normal armour saves. Note that in the case of
+and taken before normal armor saves. Note that in the case of
 critical hits this save is taken before rolling to see if multiple
 wounds are taken. If the vampire acquires Dodge or Step Aside,
 those skills supercede this one and cannot be combined to produce a
@@ -10811,7 +10811,7 @@ must past a leadership test to charge. All the enemies’ attacks suffer
 a -1 to hit in close combat.
 Mark of Tzeentch: For the Model bearing this mark may have one
 spell from the Chaos Rituals or the Lesser Magic list (may cast
-spells while wearing armour). The model counts as a magic user.
+spells while wearing armor). The model counts as a magic user.
 
 #### Musicians Skills
 
@@ -10926,7 +10926,7 @@ may re-roll any failed Rout tests as long as the Boss is not Out Of
 Action.
 well ’ard (Greenskin warband only): The Orc has a thick, dark-
 green skin, possibly indicating Black Orc blood. Such is the
-toughness of the Orc that he may add +1 to any armour saves.
+toughness of the Orc that he may add +1 to any armor saves.
 Proven Warrior (Black Orc Warband only): This young warrior
 has proven himself worthy of his Black Orc heritage. This skill may
 only be taken by a Young’un with the Black Orc blood ability and
@@ -11086,9 +11086,9 @@ Master of Runes: The Shadow Weaver has learned to harness the
 power of the High Elven runes of power (see Elven Runestones,
 below) to a degree few mages attain. When using Elven Runestones,
 the mage is +1 to his dispel roll. In addition, the mage can inscribe
-the weapons and armour of one of his fellow warriors with Elven
+the weapons and armor of one of his fellow warriors with Elven
 runes. One member of the Warband may re-roll a single failed
-armour save or Parry roll once per battle. After a single battle, the
+armor save or Parry roll once per battle. After a single battle, the
 runes lose their glamour and must be redone. This skill may only be
 taken by Shadow Weavers.
 
@@ -11129,7 +11129,7 @@ Mist Form: A Vampire's human form is only one of many and a
 few can transform into a thin mist in the recovery phase. While in
 this state the Vampire has a move of 2D6" per turn. He may not
 attack in close combat, shoot with a missile weapon or cast spells
-and he gains no protection from armour. All to hit rolls against the
+and he gains no protection from armor. All to hit rolls against the
 Vampire need a natural '6' to hit and all to wound rolls need a
 natural '6 '. Note that this may not be modified by any bonuses as it
 represents the protection of a non-physical form. The Vampire may
@@ -11145,7 +11145,7 @@ back to Vampire form at the start of any subsequent recovery phase.
 Profile M WS BS S T W I A Ld
 Ratswarm Form 6 3 0 3 3 * * 4 *
 While in Ratswarm form the Vampire may not use weapons and
-does not receive any protection from armour. He cannot shoot with a
+does not receive any protection from armor. He cannot shoot with a
 missile weapon or cast spells but can attack in close combat without
 a penalty for fighting without a weapon. The Vampire should be
 represented by a Ratswarm base but treat the Vampire as being the
@@ -11161,7 +11161,7 @@ Bat Form 8 3 0 3 2 * * 1 *
 Whilst in Bat form the Vampire may fly and ignores movement
 penalties, he cannot run as such but may move double distance and a
 charge move is also doubled. The Vampire may not use weapons
-and does not receive any protection from armour. He cannot shoot
+and does not receive any protection from armor. He cannot shoot
 with a missile weapon or cast spells but can attack in close combat
 without a penalty for fighting without a weapon.
 Wolf Form: Many Vampires can transform into Giant Wolves. A
@@ -11170,7 +11170,7 @@ above.
 Profile M WS BS S T W I A Ld
 Wolf Form 9 4 0 4 3 * * 2 *
 Whilst in Wolf form the Vampire may not use weapons and does not
-receive any protection from armour. He cannot shoot with a missile
+receive any protection from armor. He cannot shoot with a missile
 weapon or cast spells but can attack in close combat without a
 penalty for fighting without a weapon.
 Note: In Ratswarm, Bat or Wolf Form for the * Use the same
@@ -11718,7 +11718,7 @@ after the game to see what the chest contains. Note that you
 roll for each item separately, apart from the gold crowns,
 which are always automatically found. For example, roll to
 see if you find any wyrdstone – you need a 5+ to find it. Then
-roll to see if you find the armour, and so on. This can make
+roll to see if you find the armor, and so on. This can make
 the chest a very valuable acquisition – however, it could also
 mean that your warband has risked death for only three gold
 crowns!
@@ -11726,7 +11726,7 @@ crowns!
 ITEMS D6 ROLL REQUIRED
 3D6 GC Automatic
 D3 pieces of wyrdstone 5+
-Suit of light armour 4+
+Suit of light armor 4+
 Sword 3+
 D3 gems worth 10 GC each 5+
 Starting the game
@@ -11903,7 +11903,7 @@ moving into base contact with the chest. As above, it takes an
 entire turn to open the chest. If the model who opens the
 chest later comes in contact with the prisoner, he may give
 him all of his old gear; however, the prisoner may not put on
-any armour, as a quick escape is desired (he may use a shield
+any armor, as a quick escape is desired (he may use a shield
 as normal).
 
 Warbands
@@ -12356,7 +12356,7 @@ better, the item is present.
 D6 Item
 5+ 2D6gc
 3+ Jewelled dagger
-5+ Heavy armour
+5+ Heavy armor
 6+ Ithilmir sword
 3+ Gems worth 30gc
 6+ Wolf cloak
@@ -12521,8 +12521,8 @@ received.
 Item D6 Needed
 5D6 GC Automatic
 D3 swords 4+
-Suit of heavy armour 5+
-Suit of light armour 4+
+Suit of heavy armor 5+
+Suit of light armor 4+
 Shield 4+
 Helmet 4+
 D3 gems worth 10 GC each 5+
@@ -12700,9 +12700,9 @@ Item D6 Result Needed
 Magical artefact (roll on artefact table) 6+
 D3+1 pieces of wyrdstone 4+
 Gromril axe 5+
-Suit of heavy armour 5+
-Suit of light armour 4+
-Suit of light armour 4+
+Suit of heavy armor 5+
+Suit of light armor 4+
+Suit of light armor 4+
 Shield 4+
 Helmet 4+
 D3 swords 4+
@@ -12937,7 +12937,7 @@ dared to pass.
 Many warbands have disappeared when they have ventured through
 the West Gatehouse. There are rumours The Giant Tree guards not
 only the West Gatehouse but treasure. The treasure horde has been
-rumoured to include wyrdstone, jewels, armour, weapons, precious
+rumoured to include wyrdstone, jewels, armor, weapons, precious
 and rare items.
 Many warbands have decided to go after the Giant Tree together to
 split the riches but many have died by the hands of The Great Oak
@@ -13092,7 +13092,7 @@ Foot.
 or as one off to allow a reroll on the Hero Serious Injury
 Table (unless the result was pit fight or captured. Adjust to
 your gaming style.
-7 Suit of Heavy Armour.
+7 Suit of Heavy Armor.
 8 Elven Cloak.
 9 D3 shield and swords.
 10-11 Beer, worth 2D6 per crate. On a D6 roll of a 6 there is one
@@ -13110,7 +13110,7 @@ Wyrdstone Pendulum (4-6) a set of Cathayan Silks.
 of Superior Blackpowder.
 21 D3 Crossbows each with Hunting Bolts (same as hunting
 arrows) for one game.
-22 D3 Suits of light armour.
+22 D3 Suits of light armor.
 23 Hunting Rifle.
 24 One suit of Gromril Amour.
 
@@ -13349,7 +13349,7 @@ turn it is that is attacked by spirits, the only difference is
 whether or not he or his opponent chooses the affected
 model.
 An attacked warrior is automatically hit by a Strength 2
-attack (no armour modifiers) and is blown directly backwards
+attack (no armor modifiers) and is blown directly backwards
 D6". If an attacked warrior is in an elevated position such as
 a gantry or an upper floor of a building then there is a good
 chance he may be blown off and if this is the case treat the
@@ -13744,7 +13744,7 @@ D3 Morning Star 1
 D3 Spears 2
 D3 Bows 3
 D3 Crossbow 4
-1 Suit of Heavy Armour 5
+1 Suit of Heavy Armor 5
 D3 Nets 6
 Rare items can only come from the crates placed in the
 middle of the Merchant's Square. Rare items may only be
@@ -13857,7 +13857,7 @@ FOUR OF KIND
 1111 Gunsmith
 2222 Shrine
 3333 Townhouse
-4444 Armourer
+4444 Armorer
 5555 Graveyard
 6666 Catacombs
  
@@ -13912,7 +13912,7 @@ D6 Result
 3 Dagger
 4 Axe
 5 Sword
-6 Suit of light armour
+6 Suit of light armor
 
 (44) Straggler
 Your warband encounters one of the survivors of Mordheim,
@@ -14002,7 +14002,7 @@ Other warbands can escort the prisoners out of the city. For
 their trouble, they are rewarded with 2D6 GC. In addition,
 one of the prisoners decides he wishes to join the warband. If
 you can afford to equip the new recruit with weapons and
-armour, you may add a new Henchman to any of your human
+armor, you may add a new Henchman to any of your human
 Henchman groups (with the same stats as the rest of the
 group, even if they have already accumulated experience).
 
@@ -14078,19 +14078,19 @@ that the garret leans over so far that you can step out of the
 window into the attic of the house opposite.
 Your warband finds 3D6 GC worth of loot.
 
-(4444) Armourer
+(4444) Armorer
 A breastplate hanging from a pole drew your attention to this
 place, obviously too high up to be easily looted. The
 workshop is ruined and the forge has been smashed. Rooting
 about in the soot, you find various half-finished items of
-armour.
+armor.
 Roll a D6 to see what you find:
 D6 Result
 1-2 D3 Shields or bucklers (choose which)
 3 D3 Helmets
-4 D3 Suits of light armour
-5 D3 Suits of heavy armour
-6 Suit of Ithilmar armour
+4 D3 Suits of light armor
+5 D3 Suits of heavy armor
+6 Suit of Ithilmar armor
  
 (5555) Graveyard
 You find an old graveyard, crammed with sepulchres that are
@@ -14226,7 +14226,7 @@ Items D6 Result Needed
 D3 Pieces of wyrdstone 4+
 5D6x5 GC Auto
 Holy relic 5+
-Suit of heavy armour 5+
+Suit of heavy armor 5+
 D3 Gems worth 10 GC each 4+
 Elven cloak 5+
 Holy tome 5+
@@ -14239,11 +14239,11 @@ Roll a D6 to see what you find:
 
 D6 Result
 1 D3 Double-handed axes
-2 D3 Suits of heavy armour
+2 D3 Suits of heavy armor
 3 Gromril axe
 4 Gromril hammer
 5 Double-handed gromril axe
-6 Gromril armour
+6 Gromril armor
 
 (444444) Slaughtered Warband
 You find the remains of an entire warband. Broken bodies lay
@@ -14255,11 +14255,11 @@ Witch Hunters), eating them (Skaven or Undead) or looting
 them (anyone else!) you find the following items. Roll for
 every item separately (apart from the gold coins and daggers)
 to see if you find it. For example, on a roll of 4+ you will find
-the suits of light armour.
+the suits of light armor.
 Item D6 Result Needed
 3D6x5 GC Auto
-D3 Suits of light armour 4+
-Suit of heavy armour 5+
+D3 Suits of light armor 4+
+Suit of heavy armor 5+
 D6 Daggers Auto
 Mordheim Map 4+
 D3 Halberds 5+
@@ -14320,13 +14320,13 @@ are Stunned on a result of 1-3 (Undead are Knocked Down as
 normal) and put Out Of Action on a 4-6.
 
 3 Att’la’s Plate Mail
-This armour was given as a present by the Dwarf Lord
+This armor was given as a present by the Dwarf Lord
 Kurgan to the warlord Att’la in the time of Sigmar
 Heldenhammer.
-Att’la’s Plate Mail is a suit of Gromril armour with the
+Att’la’s Plate Mail is a suit of Gromril armor with the
 following three runes inscribed on it:
 Rune of Spell Eating: The Hero wearing this
-armour is immune to all spells.
+armor is immune to all spells.
 Rune of Passage: The Hero can move through solid
 objects, like walls (this does not mean that he can
 see through them).
@@ -14417,7 +14417,7 @@ mission to purify Mordheim of the influence of Chaos
 requires supplies and weaponry, and these are much in
 demand. Thus the warbands of the Sisterhood compete with
 each other to gain the best weapons and equipment from the
-temple’s armoury.
+temple’s armory.
 To measure their success, the more wyrdstone the Sisters
 bring to be kept under lock and key in the Vault of
 Vindication in the temple at Sigmar’s Rock, the more aid
@@ -14440,7 +14440,7 @@ the favour they enjoy in the eyes of their master, Vlad von
 Carstein of Sylvania.
 #### Spending income
 
-You can spend any accumulated money on weapons, armour,
+You can spend any accumulated money on weapons, armor,
 hiring new warriors, buying new equipment or simply save
 the money for a bigger purchase. See the Trading section for
 details.
@@ -14509,7 +14509,7 @@ Experience points, or two warriors to a Henchman group with
 3 Experience points, or any combination thereof. Disregard
 any excess Experience points.
 As with other new Henchmen, you must pay for all their
-weapons and armour, and in addition you must add 2 gold
+weapons and armor, and in addition you must add 2 gold
 crowns to their cost for each extra Experience point they add
 to the warband’s total. New Henchmen must be armed and
 equipped in the same way as existing members of the group.
@@ -14576,7 +14576,7 @@ Warriors can automatically sell equipment for half its listed
 price. In the case of rare equipment and weapons which have
 a variable price, the warband receives half of the basic cost
 only (merchants are far better at haggling than your warriors).
-Alternatively, weapons, armour and equipment may be
+Alternatively, weapons, armor and equipment may be
 hoarded for future use (make a note on the warband roster) or
 swapped around the warband from one fighter to another
 (though not between warbands). As a weapon’s value is low
@@ -14693,23 +14693,23 @@ Heavier Ammunition ........................... 5 GC per shot .......... Rare 8
 Modified Gunsight ........................................... 15 GC .......... Rare 9
 Silver Bullets ................................................... 30 GC ........ Rare 10
 Superior Blackpowder ..................................... 30 GC ........ Rare 11
-Armour & Clothing
+Armor & Clothing
 Item Cost Availability
 Barding ............................................................ 30 GC ........ Rare 11
 Bracers ............................................................. 20 GC .......... Rare 8
 Buckler .............................................................. 5 GC ...... Common
 Cathayan Silk Clothes ............................. 50+2D6 GC .......... Rare 9
-Cold Metal Armour ......................................... 85 GC ........ Rare 10
-Dark Steel Armour ........................................... 95 GC ........ Rare 11
+Cold Metal Armor ......................................... 85 GC ........ Rare 10
+Dark Steel Armor ........................................... 95 GC ........ Rare 11
 Elven Cloak ...................................... 100+D6x10 GC ........ Rare 12
 Forest Cloak ..................................................... 50 GC ........ Rare 10
-Gromril Armour ............................................. 150 GC ........ Rare 11
-Heavy Armour ................................................. 50 GC ...... Common
+Gromril Armor ............................................. 150 GC ........ Rare 11
+Heavy Armor ................................................. 50 GC ...... Common
 Helmet ............................................................. 10 GC ...... Common
-Ithilmar Armour ............................................... 90 GC ........ Rare 11
-Light Armour ................................................... 20 GC ...... Common
+Ithilmar Armor ............................................... 90 GC ........ Rare 11
+Light Armor ................................................... 20 GC ...... Common
 Pavise ............................................................... 25 GC .......... Rare 8
-Reinforced Plate Armour ................................. 95 GC .......... Rare 9
+Reinforced Plate Armor ................................. 95 GC .......... Rare 9
 Sea Dragon Cloak ................................... 50+2D6 GC ........ Rare 10
 Shield ................................................................. 5 GC ...... Common
 Toughened Leathers........................................... 5 GC ...... Common
@@ -14935,7 +14935,7 @@ Arabian Merchant has.
 Profile M WS BS S T W I A Ld
 
 Arabian Merchant 4 2 2 3 3 1 4 1 7
-Weapons/Armour: Scimitar (counts as a sword).
+Weapons/Armor: Scimitar (counts as a sword).
 Skills: A Merchant may choose from Academic skills when
 he gains a new skill (he also has his own special skill that he
 can choose – see below).
@@ -15015,7 +15015,7 @@ experience and isn’t paid (it is assumed he has been ‘gifted’
 to the Merchant as a favour from one of his contacts).
 Profile M WS BS S T W I A Ld
 Bodyguard 4 4 2 4 3 1 3 1 8
-Equipment: Sword, light armour, shield and helmet.
+Equipment: Sword, light armor, shield and helmet.
 Special Rules
 Intercept: the bodyguard will intercept any model shooting
 at or charging the Merchant. Any attacks will be directed at
@@ -15040,7 +15040,7 @@ has.
 Profile M WS BS S T W I A Ld
 
 Barbarian 4 4 2 5 3 2 3 3 6
-Weapons/Armour: the Barbarian is armed with a dagger,
+Weapons/Armor: the Barbarian is armed with a dagger,
 two-handed sword and wears a fur cloak (Act the same as a
 wolfcloak)
 Skills: The Barbarian may choose from Combat, Strength
@@ -15067,7 +15067,7 @@ Rating: A Bard increases a warband's rating by 8 points plus
 
 Profile M WS BS S T W I A Ld
 Bard 4 3 3 3 3 1 3 1 7
-Weapons/Armour: Sword, dagger and light armour.
+Weapons/Armor: Sword, dagger and light armor.
 Skills: The Bard may choose from Academic, Speed and
 Musician when he gains a new skill.
 Special Rules
@@ -15094,7 +15094,7 @@ Rating: A Beggar increases a warband's rating by 8 points
 plus 1 point for each Experience point Beggar has.
 Profile M WS BS S T W I A Ld
 Beggar 4 1 1 2 2 1 3 1 5
-Weapons/Armour: Club
+Weapons/Armor: Club
 Skills: The Beggar may choose from Speed when he gains a
 new skill.
 Special Rules
@@ -15128,7 +15128,7 @@ has.
 Profile M WS BS S T W I A Ld
 
 Black Orc 4 4 3 4 4 1 2 1 7*
-Weapons/Armour: The Black Orc wears Heavy armour and
+Weapons/Armor: The Black Orc wears Heavy armor and
 has helmet. He may choose between two axes or a great Axe.
 Skills: The Black Orc may choose from Combat & Strength
 when he gains a new skill. In addition, the Black Orc may
@@ -15179,8 +15179,8 @@ points plus 1 point for each Experience point the Bounty
 Hunter has.
 Profile M WS BS S T W I A Ld
 Bounty Hunter 4 4 3 4 3 1 4 1 8
-Weapons/Armour: Sword, dagger, pistol, crossbow, heavy
-armour, helmet, rope hook and lantern.
+Weapons/Armor: Sword, dagger, pistol, crossbow, heavy
+armor, helmet, rope hook and lantern.
 Skills: The Bounty Hunter may choose from Combat,
 Shooting, Strength and Speed when he gains a new skill.
 Special Rules
@@ -15212,9 +15212,9 @@ Warrior has.
 Profile M WS BS S T W I A Ld
 
 Chaos Warrior 4 6 6 4 4 1 6 2 9
-Weapons/Armour: The Chaos Warrior is armed with a
+Weapons/Armor: The Chaos Warrior is armed with a
 dagger, an axe, sword or double-handed weapon, and a
-shield, the Chaos Warrior wears heavy armour, and a helmet.
+shield, the Chaos Warrior wears heavy armor, and a helmet.
 Mark of Chaos: The Chaos Warrior has a Mark of Chaos.
 Choose one Mark of Chaos found in the Skills & Abilities
 section.
@@ -15226,7 +15226,7 @@ Massive Strength: The Chaos Warrior is titanic in size and
 may use a double-handed weapon in one hand. This means he
 can use his shield while wielding his mighty double-handed
 Battle Axe one handed. Also, the Chaos Warrior gains no
-movement penalty for using heavy Armour with a shield.
+movement penalty for using heavy Armor with a shield.
 Upkeep: The warband leader may choose to pay the Chaos
 Warrior with 3 wyrdstone shards instead of Gold.
 [Thank to Ed Hastings & Natascha Chrobok for the idea.]
@@ -15246,9 +15246,9 @@ rating by 25 points plus 1 point for each Experience point the
 Clan Eshin Assassin has.
 Profile M WS BS S T W I A Ld
 Clan Eshin Assassin 6 4 4 4 3 1 5 1 7
-Weapons/Armour: The Clan Eshin Assassin is armed with
+Weapons/Armor: The Clan Eshin Assassin is armed with
 throwing stars, a sling, a dagger and a sword. He wears light
-armour and a helmet.
+armor and a helmet.
 Skills: The Clan Eshin Assassin may choose from Combat,
 Shooting and Speed when he gains a new skill. In addition,
 the Clan Eshin Assassin may choose from the Clan Eshin
@@ -15256,7 +15256,7 @@ Special Skill list.
 Special Rules
 Expert Killer: All attacks made by the Assassin, wether this
 is shooting or close combat, have an extra -1 save modifier to
-represent his skill in striking at non-armoured spots.
+represent his skill in striking at non-armored spots.
 Skaven: The Clan Eshin Assassin like all Skavens, only
 lookout for himself and so they would stab (or shoot) you in
 the back if the need arose. The Clan Eshin Assassin will
@@ -15282,7 +15282,7 @@ Profile M WS BS S T W I A Ld
 
 Packmaster 5 3 3 3 3 1 4 1 6
 Giant Rat 6 2 0 3 3 1 4 1 4
-Weapons/Armour: The Packmaster is armed with a whip, a
+Weapons/Armor: The Packmaster is armed with a whip, a
 sword and a sling. In addition he will bring three Giant Rats
 with him to the warband.
 Skills: The Clan Moulder Packmaster may choose from
@@ -15317,7 +15317,7 @@ by 25 points.
 Profile M WS BS S T W I A Ld
 
 Rat ogre Bodyguard 6 3 3 5 5 3 4 3 4
-Weapons/Armour: Jaws, claws and brute force!
+Weapons/Armor: Jaws, claws and brute force!
 Special Rules
 Fear: Rat Ogres are so frightening they cause fear.
 Experience: Rat Ogres do not gain experience.
@@ -15331,7 +15331,7 @@ assigned Hero is within 6" of it.
 
 Poisoned Wind Globadiers are armed with glass balls full of acidic
 compounds that they lob into their opponents, melting them where
-they stand. Armour offers no protection from the corrosive liquid
+they stand. Armor offers no protection from the corrosive liquid
 they carry.
 35 Gold Crowns +15 Gold Crowns upkeep
 May be Hired: The Poisoned Wind Globadier may be hired
@@ -15341,9 +15341,9 @@ rating by 15 points plus 1 point for each Experience point the
 Poisoned Wind Globadier has.
 Profile M WS BS S T W I A Ld
 Poisoned Wind Globadier 5 3 3 3 3 1 4 1 5
-Weapons/Armour: The Poisoned Wind Globadier is armed
+Weapons/Armor: The Poisoned Wind Globadier is armed
 with a Sword, 6 Poison Wind Globes a Gas Mask and light
-armour.
+armor.
 Skills: The Poisoned Wind Globadier may choose from
 Speed when he gains a new skill. In addition, the Poisoned
 Wind Globadier may choose from the Clan Skryre Special
@@ -15375,7 +15375,7 @@ Skryre Sniper has.
 Profile M WS BS S T W I A Ld
 
 Clan Skryre Sniper 5 3 3 3 3 1 4 1 5
-Weapons/Armour: The Clan Skryre Sniper is armed with a
+Weapons/Armor: The Clan Skryre Sniper is armed with a
 dagger and a Jezzail rifle.
 Skills: The Clan Skryre Sniper may choose from Shooting
 and Speed when he gains a new skill. In addition, the Clan
@@ -15407,9 +15407,9 @@ plus 1 point for each Experience point the Cleric has.
 Profile M WS BS S T W I A Ld
 
 Cleric 4 3 3 3 3 2 3 1 7
-Weapons/Armour: The Cleric is armed with a dagger, a
+Weapons/Armor: The Cleric is armed with a dagger, a
 sword and\or a mace and a shield. The Cleric wears light
-armour.
+armor.
 Skills: The Cleric may choose from Combat, Academic and
 Strength when he gains a new skill.
 Special Rules
@@ -15437,8 +15437,8 @@ Rating: A Dark Elf Assassin increases a warband's rating by
 Assassin has.
 Profile M WS BS S T W I A Ld
 Dark Elf Assassin 5 5 5 4 4 1 7 1 8
-Weapons/Armour: Dark Elf Blade, dagger, repeating
-crossbow, Dark Venom, Light Armour and Dark Cloak
+Weapons/Armor: Dark Elf Blade, dagger, repeating
+crossbow, Dark Venom, Light Armor and Dark Cloak
 (counts as Elven cloak).
 Skills: The Dark Elf Assassin may choose from Combat,
 Shooting, Academic, Strength, Speed when he gains a new
@@ -15449,7 +15449,7 @@ Kindred Hatred: All Dark Elves suffer Hatred towards their
 High Elven kin.
 Perfect Killer: All attacks made by the Assassin, whether in
 shooting or close combat, have an extra -1 save modifier to
-represent his skill in striking at unarmoured spots.
+represent his skill in striking at unarmored spots.
 
 
 
@@ -15469,7 +15469,7 @@ Elf Sorceresses has.
 Profile M WS BS S T W I A Ld
 
 Dark Elf Sorceress 5 4 4 3 3 1 6 1 8
-Weapons/Armour: The Dark Elf Sorceress is armed with
+Weapons/Armor: The Dark Elf Sorceress is armed with
 Sword, dagger and either a crossbow pistol or a repeater
 crossbow
 Skills: The Dark Elf Sorceress may choose from Academic
@@ -15516,7 +15516,7 @@ Rating: A Duellist increases a warband's rating by 18 points
 plus 1 point for each Experience point the Duellist has.
 Profile M WS BS S T W I A Ld
 Duellist 4 4 3 3 3 1 4 2 7
-Weapons/Armour: pistol, sword, dagger and cloak. The
+Weapons/Armor: pistol, sword, dagger and cloak. The
 cloak counts as a buckler.
 Skills: The Duellist may choose from Combat and Shooting
 when he gains a new skill.
@@ -15554,8 +15554,8 @@ Runesmith Journeyman has.
 Profile M WS BS S T W I A Ld
 
 Runesmith Journeyman 3 4 3 3 4 1 2 1 9
-Weapons/Armour: A Runesmith Journeyman is equipped
-with a gromril hammer and heavy armour.
+Weapons/Armor: A Runesmith Journeyman is equipped
+with a gromril hammer and heavy armor.
 Skills: The Runesmith Journeyman may choose from
 Combat & Strength when he gains a new skill. In addition,
 the Runesmith Journeyman may choose from the Dwarven
@@ -15564,13 +15564,13 @@ Special Rules
 Runesmith: A Runesmith Journeyman may inscribe runes as
 detailed below. In addition the Runesmith Journeyman may
 learn a new rune instead on a new skill.
-Armour: Dwarfs never suffer movement penalties for
-wearing armour.
-Armourer: A Runesmith can repair and make weapons and
-armour. The warband may purchase one item per post game
+Armor: Dwarfs never suffer movement penalties for
+wearing armor.
+Armorer: A Runesmith can repair and make weapons and
+armor. The warband may purchase one item per post game
 trading session from the following: axes, hammers, swords,
 two handed weapons, helmets, shields, light and heavy
-armour at a 2d6GC discount to a minimum price of 1GC.
+armor at a 2d6GC discount to a minimum price of 1GC.
 This applies only if the Runesmith did not go OOA.
 Hate Orcs and Goblins: All Dwarfs hate Orcs and Goblins.
 See the psychology section of the Mordheim rules for details
@@ -15587,11 +15587,11 @@ knowing one Rune but may learn more as spell casters learn
 spells. These Runes are only temporary due to the haste of
 the Runesmith but may not be dispelled during the game.
 Runes may be inscribed on axes, hammers, swords, two
-handed weapons, helmets, shields, light and heavy armour.
+handed weapons, helmets, shields, light and heavy armor.
 The runes are:
 Rune Effect Effective on Difficulty
-Iron 6+ ward Armour 6
-Stone +1 armour save Armour 6
+Iron 6+ ward Armor 6
+Stone +1 armor save Armor 6
 Fury +1 A Weapon 7
 Striking +1 WS Weapon 6
 Speed +1 I Weapon 5
@@ -15600,7 +15600,7 @@ Before the battle the Runesmith may attempt to inscribe
 every Rune he knows, but once only. No Rune may be
 inscribed on an item with a Rune already on it. If he passes
 the difficulty roll he has succeeded and the Rune will affect
-the weapon/armour for the coming battle.
+the weapon/armor for the coming battle.
 If he rolls a natural 2 the process has highlighted shoddy (and
 hence non dwarf) manufacturing and the item being inscribed
 on is broken, remove it from your roster.
@@ -15630,9 +15630,9 @@ Rating: The Dwarf Sapper increases a warband's rating by
 
 Profile M WS BS S T W I A Ld
 Dwarf Sapper 3 4 3 3 4 1 3 1 9
-Weapons/Armour: The Dwarf Sapper is armed with 2-
+Weapons/Armor: The Dwarf Sapper is armed with 2-
 Handed Pick Axe and either a handgun or a brace of pistols,
-the Dwarf Sapper also wears Heavy Armour. The Dwarf
+the Dwarf Sapper also wears Heavy Armor. The Dwarf
 Sapper always has superior black powder for firearms.
 Special Rules
 Demolition Expert: Dwarf Sappers are legendary for their
@@ -15690,7 +15690,7 @@ by 14 points plus 1 point for each Experience point Dwarf
 Slayer Pirate has.
 Profile M WS BS S T W I A Ld
 Dwarf Slayer Pirate 3 4 3 3 4 1 2 1 9
-Weapons/Armour: A sword, superior black powder, and
+Weapons/Armor: A sword, superior black powder, and
 many, many pistols.
 Skills: The Dwarf Slayer Pirate may choose from Combat &
 Shooting when he gains a new skill. In addition, the Dwarf
@@ -15752,7 +15752,7 @@ Dwarf Treasure Hunter has.
 Profile M WS BS S T W I A Ld
 
 Treasure Hunter 3 5 4 3 4 1 2 1 9
-Weapons/Armour: Gromril armour, helmet, mining pick
+Weapons/Armor: Gromril armor, helmet, mining pick
 (great weapon), dagger, hammer, treasure maps, and lantern.
 Skills: The Dwarf Treasure Hunter may choose from
 Combat, & Strength when he gains a new skill. In addition,
@@ -15835,7 +15835,7 @@ troll slayer has.
 Profile M WS BS S T W I A Ld
 
 Dwarf Troll Slayer 3 4 3 3 4 1 2 1 9
-Weapons/Armour: Two axes or a double-handed axe (the
+Weapons/Armor: Two axes or a double-handed axe (the
 hiring player may choose).
 Skills: The Dwarf troll slayer may choose from Combat and
 Strength when he gains a new skill. In addition, the Dwarf
@@ -15881,7 +15881,7 @@ Rating: An Elf Mage increases a warband's rating by 23
 points.
 Profile M WS BS S T W I A Ld
 Elf Mage 5 4 3 3 3 2 6 1 8
-Weapons/Armour: Staff, Elven cloak.
+Weapons/Armor: Staff, Elven cloak.
 Skills: An Elf Mage is a wanderer and will not stay long
 enough with a warband to learn new skills.
 Special Rules
@@ -15920,7 +15920,7 @@ Expert Marksman has.
 Profile M WS BS S T W I A Ld
 
 Expert Marksman 4 3 4 3 3 1 3 1 7
-Weapons/Armour: Light armour, sword, dagger and
+Weapons/Armor: Light armor, sword, dagger and
 crossbow.
 Skills: The Expert Marksman may choose from Shooting
 when he gains a new skill.
@@ -15938,7 +15938,7 @@ Just as warriors of the lower social orders can become mercenaries,
 squires or nobles may offer their skills for hire by becoming a
 Freelancer or ‘robber knight’. Freelancers are often the younger
 sons of nobles, who have inherited little but their weapons, horse
-and armour. Having become disillusioned with their lot in life they
+and armor. Having become disillusioned with their lot in life they
 have taken the only road available to them: that of a Hired Sword.
 Financial considerations take precedence over the dictates of
 honour and chivalry. Many Freelancers have drifted to the shanty
@@ -15954,10 +15954,10 @@ Profile M WS BS S T W I A Ld
 
 Freelancer 4 4 3 4 3 1 4 1 7
 Warhorse 8 3 0 3 3 1 3 1 5
-Weapons/Armour: Heavy armour, shield, lance and sword.
+Weapons/Armor: Heavy armor, shield, lance and sword.
 If you are using the optional rules for mounted models, a
 Freelancer rides a warhorse. When mounted, the Freelancer
-has an armour saving throw of 3+, on foot his save is 4+.
+has an armor saving throw of 3+, on foot his save is 4+.
 Skills: The Freelancer may choose from Combat, Strength
 and Cavalry when he gains a new skill.
 Special Rules
@@ -15985,7 +15985,7 @@ rating by 5 points plus 1 point for each Experience point the
 Goblin Lantern Bearer has.
 Profile M WS BS S T W I A Ld
 Goblin Lantern Bearer 4 2 3 3 3 1 4 1 5
-Weapons/Armour: The Goblin Lantern Bearer is armed
+Weapons/Armor: The Goblin Lantern Bearer is armed
 with Dagger and Lantern
 Skills: The Goblin Lantern Bearer may choose from Speed
 when he gains a new skill.
@@ -16026,7 +16026,7 @@ Scout has.
 Profile M WS BS S T W I A Ld
 
 Halfling Scout 4 2 4 2 2 1 4 1 8
-Weapons/Armour: Bow, dagger and a cooking pot (counts
+Weapons/Armor: Bow, dagger and a cooking pot (counts
 as a helmet).
 Skills: The Halfling Scout may choose from Shooting and
 Speed when he gains a new skill. In addition, the Halfling
@@ -16060,7 +16060,7 @@ points plus 1 point for each Experience point Halfling Thief
 has.
 Profile M WS BS S T W I A Ld
 Halfling Thief 4 2 4 2 2 1 4 1 7
-Weapons/Armour: Sword, dagger, throwing knives, rope
+Weapons/Armor: Sword, dagger, throwing knives, rope
 and hook, and lock picks.
 Skills: The Halfling Thief may choose from Shooting, &
 Speed when he gains a new skill. In addition, the Halfling
@@ -16110,11 +16110,11 @@ Profile M WS BS S T W I A Ld
 
 Highwayman 4 3 4 3 3 1 3 1 7
 Horse 8 0 0 3 3 1 3 0 5
-Weapons/Armour: Dagger, Brace of pistols, rapier and a
+Weapons/Armor: Dagger, Brace of pistols, rapier and a
 cloak (acts as a buckler in close combat). If you are using the
 optional rules for mounted models then the Highwayman also
 rides a horse. When the Highwayman is mounted, he has a
-save of 6+, on foot he has no Armour save.
+save of 6+, on foot he has no Armor save.
 Skills: The Highwayman may choose from Combat,
 Shooting, Speed and Cavalry when he gains a new skill.
 Special Rules
@@ -16162,7 +16162,7 @@ rating by 25 points plus 1 point for each Experience point the
 Hochland Huntsmaster has.
 Profile M WS BS S T W I A Ld
 Huntsmaster 4 4 5 3 3 1 5 1 8
-Weapons/Armour: the Hochland Huntsmaster is armed with
+Weapons/Armor: the Hochland Huntsmaster is armed with
 Hochland long rifle and a hunting knife that counts as a
 Sword.
 Skills: The Hochland Huntsmaster may choose from
@@ -16205,7 +16205,7 @@ Assassin has.
 Profile M WS BS S T W I A Ld
 
 Imperial Assassin 4 4 4 3 3 1 5 2 8
-Weapons/Armour: Sword, dagger, throwing daggers and a
+Weapons/Armor: Sword, dagger, throwing daggers and a
 crossbow pistol.
 Skills: The Imperial Assassin may choose from Combat,
 Shooting Speed and Unstoppable Charge from the Strength
@@ -16245,7 +16245,7 @@ by 16 points plus 1 point for each Experience point Imperial
 Tactician has.
 Profile M WS BS S T W I A Ld
 Imperial Tactician 4(3) 4 3 3 3 1 5 1 9
-Weapons/Armour: Two-hand sword, plate armour (4+ save,
+Weapons/Armor: Two-hand sword, plate armor (4+ save,
 -1M), helmet, and dagger.
 Skills: The Imperial Tactician may choose from Combat &
 Strength, when he gains a new skill. In addition, an Imperial
@@ -16306,7 +16306,7 @@ Ranger has.
 Profile M WS BS S T W I A Ld
 
 Kislev Ranger 4 3 4 3 3 1 4 1 7
-Weapons/Armour: The Kislev Ranger is armed with a bow,
+Weapons/Armor: The Kislev Ranger is armed with a bow,
 a sword, and a Hunter’s cloak.
 Skills: The Kislev Ranger may choose from Combat,
 Shooting, Academic, Strength, and Speed when he gains a
@@ -16342,7 +16342,7 @@ points plus 1 point for each Experience point the Mule
 Skinner has.
 Profile M WS BS S T W I A Ld
 Mule Skinner 4 3 3 3 3 1 3 1 7
-Weapons/Armour: The Mule Skinner armed with a whip
+Weapons/Armor: The Mule Skinner armed with a whip
 and a dagger.
 Skills: The Mule Skinner may choose from Combat, Strength
 when he gains a new skill. In addition, the Mule Skinner may
@@ -16370,7 +16370,7 @@ points plus 1 point for each Experience point the Norse
 Shaman has.
 Profile M WS BS S T W I A Ld
 Norse Shaman 4 3 2 3 3 1 1 1 8
-Weapons/Armour: The Shaman carries a rune staff and
+Weapons/Armor: The Shaman carries a rune staff and
 either a sword or an axe.
 Skills: The Norse Shaman may choose from Combat and
 Academic when he gains a new skill. In addition, the Norse
@@ -16403,9 +16403,9 @@ bodyguard has.
 Profile M WS BS S T W I A Ld
 
 Ogre bodyguard 6 3 2 4 4 3 3 2 7
-Weapons/Armour: Either two swords, axes or clubs (or any
+Weapons/Armor: Either two swords, axes or clubs (or any
 mix of them), or a double-handed weapon (you may choose
-which). Ogres wear light armour
+which). Ogres wear light armor
 Skills: The Ogre bodyguard may choose from Combat and
 Strength when he gains a new skill.
 Special Rules
@@ -16432,8 +16432,8 @@ by 40 points plus 1 point for each Experience point the Ogre
 Slave Master has.
 Profile M WS BS S T W I A Ld
 Ogre Slave Master 6 3 2 4 4 3 4 2 7
-Weapons/Armour: The Ogre Slave Master is armed with an
-axe, a club, and light armour.
+Weapons/Armor: The Ogre Slave Master is armed with an
+axe, a club, and light armor.
 Skills: The Ogre Slave Master may choose from Combat and
 Strength when he gains a new skill.
 Special Rules
@@ -16488,7 +16488,7 @@ has.
 Profile M WS BS S T W I A Ld
 
 Pit Fighter 4 4 3 4 4 1 4 2 7
-Weapons/Armour: Morning star, spiked gauntlet and
+Weapons/Armor: Morning star, spiked gauntlet and
 helmet.
 Skills: The Pit Fighter may choose from Combat, Strength
 and Speed when he gains a new skill. In addition, the Pit
@@ -16531,7 +16531,7 @@ Rating: The Priest of Morr increases a warband's rating by
 Morr has.
 Profile M WS BS S T W I A Ld
 Priest of Morr 4 2 2 3 3 1 4 1 8
-Weapons/Armour: the Priest of Morr is armed with a
+Weapons/Armor: the Priest of Morr is armed with a
 dagger and a Scythe.
 Skills: The Priest of Morr may choose from Academic and
 Speed when he gains a new skill. In addition, the Priest of
@@ -16580,7 +16580,7 @@ Ranald^ has.
 Profile M WS BS S T W I A Ld
 
 Priest of Ranald 4 2 3 3 3 1 5 1 7
-Weapons/Armour: Dagger, Rope & Hook, Throwing
+Weapons/Armor: Dagger, Rope & Hook, Throwing
 daggers
 Skills: The Priest of Ranald may choose from, Academic, &
 Speed when he gains a new skill.
@@ -16609,7 +16609,7 @@ rating by 15 points plus 1 point for each Experience point the
 Priestess of Shallaya has.
 Profile M WS BS S T W I A Ld
 Priestess of Shallaya 4 2 2 3 3 1 4 1 8
-Weapons/Armour: The Priestess of Shallaya is armed with a
+Weapons/Armor: The Priestess of Shallaya is armed with a
 dagger and a staff; she always carries 1 use each of healing
 herds & Tears of Shallaya per game.
 Skills: The Priestess of Shallaya may choose from Academic
@@ -16652,8 +16652,8 @@ Profile M WS BS S T W I A Ld
 
 Road Warden 4 3 4 3 3 1 3 1 8
 Horse 8 0 0 3 3 1 3 0 5
-Weapons/Armour: Crossbow, horseman’s hammer, dagger,
-heavy armour and three torches. If you are using the optional
+Weapons/Armor: Crossbow, horseman’s hammer, dagger,
+heavy armor and three torches. If you are using the optional
 rules for mounted models then the Road warden also rides a
 horse. The Road warden’s save is 4+ whilst mounted and 5+
 whilst on foot.
@@ -16701,8 +16701,8 @@ Rating: A Shadow Warrior increases a warband's rating by
 Warrior has.
 Profile M WS BS S T W I A Ld
 Shadow Warrior 5 4 4 3 3 1 6 1 8
-Weapons/Armour: A Shadow Warrior carries a sword,
-longbow, dagger, shield, and wears Light Armour.
+Weapons/Armor: A Shadow Warrior carries a sword,
+longbow, dagger, shield, and wears Light Armor.
 Skills: The Shadow Warrior may choose from Combat and
 Shooting, when he gains a new skill. In addition, the Shadow
 Warrior may choose from the Shadow Warrior Special Skill
@@ -16736,7 +16736,7 @@ plus 1 point for each Experience point the Thief has.
 Profile M WS BS S T W I A Ld
 
 Thief 4 3 3 3 3 1 4 1 7
-Weapons/Armour: Two daggers, Thief’s cloak
+Weapons/Armor: Two daggers, Thief’s cloak
 Skills: The Thief may choose from Combat and Speed when
 he gains a new skill.
 Special Rules
@@ -16774,7 +16774,7 @@ Rating: A Warlock increases a warband's rating by 16 points
 plus 1 point for each Experience point the Warlock has.
 Profile M WS BS S T W I A Ld
 Warlock 4 2 2 3 3 1 4 1 8
-Weapons/Armour: A Warlock carries a staff.
+Weapons/Armor: A Warlock carries a staff.
 Skills: The Warlock may choose from Academic when he
 gains a new skill. In addition, the Warlock may choose
 randomly determine a new spell from the Lesser Magic spell
@@ -16800,7 +16800,7 @@ points plus 1 point for each Experience point the Warrior
 Priest has.
 Profile M WS BS S T W I A Ld
 Warrior Priest 4 3 3 3 3 1 4 1 8
-Weapons/Armour: Hammer of Sigmar, light armour and
+Weapons/Armor: Hammer of Sigmar, light armor and
 shield.
 Skills: The Warrior Priest may choose from Academic when
 he gains a new skill. In addition, the Warrior Priest may
@@ -16832,7 +16832,7 @@ plus 1 point for each Experience point the Witch has.
 Profile M WS BS S T W I A Ld
 
 Witch 4 2 2 2 3 1 4 1 7
-Weapons/Armour: Staff
+Weapons/Armor: Staff
 Skills: The Witch may choose from Academic when she
 gains a new skill. In addition, the Witch may choose
 randomly determine a new spell from the Charms & Hexes
@@ -16902,7 +16902,7 @@ has.
 
 Profile M WS BS S T W I A Ld
 Witch Hunter 4 4 4 3 3 1 4 1 8
-Weapons/Armour: Duelling or Crossbow Pistol, sword and
+Weapons/Armor: Duelling or Crossbow Pistol, sword and
 dagger. The Witch Hunter starts every game with a vial of
 Holy water and garlic.
 Skills: The Witch Hunter may choose from Combat,
@@ -16943,7 +16943,7 @@ Profile M WS BS S T W I A Ld
 
 Wolf Priest of Ulric 4 3 2 3 3 1 3 1 8
 Wolf Companion 6 4 0 4 4 1 4 2 5
-Weapons/Armour: The Wolf Priest of Ulric is armed with a
+Weapons/Armor: The Wolf Priest of Ulric is armed with a
 dagger, a two-handed hammer and a wolfcloak.
 Skills: The Wolf Priest of Ulric may choose from Combat,
 Academic, Strength and Speed when he gains a new skill. In
@@ -16994,7 +16994,7 @@ Rating: A Wood Elf Ranger increases a warband's rating by
 Elf Ranger has.
 Profile M WS BS S T W I A Ld
 Wood Elf Ranger 5 4 5 3 3 1 6 1 8
-Weapons/Armour: Elf bow, sword and Elven cloak.
+Weapons/Armor: Elf bow, sword and Elven cloak.
 Skills: The Wood Elf Ranger may choose from Shooting and
 Speed when he gains a new skill. In addition, the Wood Elf
 Ranger may choose from the Wood Elf Special Skill list.
@@ -17092,7 +17092,7 @@ no-one knows what this might be. Some say that he wishes to
 explore the Pit itself, and slay the enigmatic Shadow Lord, though
 such a task must surely be above even this mighty warrior.
 Aenur is tall even for an Elf, and beneath his finely woven Elven
-cloak he wears armour of gleaming ithilmar. He carries a sword of
+cloak he wears armor of gleaming ithilmar. He carries a sword of
 immense size which is rumoured to have arcane properties.
 Certainly no one who has been struck by it has ever lived to tell the
 tale.
@@ -17104,7 +17104,7 @@ Rating: Aenur increases the warband’s rating by +100
 points.
 Profile M WS BS S T W I A Ld
 Aenur 5 8 4 4 3 2 7 3 8
-Weapons/Armour: Aenur wears ithilmar armour, an Elven
+Weapons/Armor: Aenur wears ithilmar armor, an Elven
 cloak and carries an enormous sword known as Ienh-Khain.
 Skills: Aenur has the following skills: Strike to Injure, Expert
 Swordsman, Step Aside, Sprint, Lightning Reflexes, Dodge
@@ -17164,7 +17164,7 @@ Rating: Johann the Knife increases a warband’s rating by
 +60 points.
 Profile M WS BS S T W I A Ld
 Johann 4 3 6 4 3 2 6 1 7
-Weapons/Armour: Johann is armed with countless throwing
+Weapons/Armor: Johann is armed with countless throwing
 knives and several long daggers (he always counts as having
 two swords in close combat). His weapons are always coated
 with Black Lotus and he may take Crimson Shade before a
@@ -17195,7 +17195,7 @@ The Sisters look up to Bertha as an example of holy womanhood.
 She rose rapidly through the ranks of the Sisterhood, and on her
 deathbed the revered Matriarch Cassandra named Bertha her
 successor, new High Matriarch, and Abedissa of Sigmar’s Rock.
-Sometimes, as Bertha straps on her Gromril armour in the light of
+Sometimes, as Bertha straps on her Gromril armor in the light of
 dawn, she reflects on the lost innocence of her youth. Then, angrily,
 she tightens the studded leather straps tightly over her iron-hard
 limbs and strides outside to spend hours practising with her great
@@ -17225,8 +17225,8 @@ Sigmar warbands.
 Rating: Bertha increases a warband’s rating by +105 points.
 Profile M WS BS S T W I A Ld
 Bertha 4 5 3 4 4 2 4 3 10
-Weapons/Armour: Bertha is armed with two Sigmarite
-Warhammers, wears gromril armour, and carries a vial of
+Weapons/Armor: Bertha is armed with two Sigmarite
+Warhammers, wears gromril armor, and carries a vial of
 blessed water and a holy relic.
 Skills: Bertha has the following skills: Mighty Blow,
 Unstoppable Charge and Righteous Fury.
@@ -17282,7 +17282,7 @@ warbands.
 Rating: Veskit increases the warband’s rating by +70 points.
 Profile M WS BS S T W I A Ld
 Veskit 5 5 4 4 4 2 5 4 8
-Weapons/Armour: Eshin Fighting Claws (the extra attack is
+Weapons/Armor: Eshin Fighting Claws (the extra attack is
 included in his profile). Each Fighting Claw incorporates an
 in-built warplock pistol, so Veskit can shoot in every turn,
 and he fights in close combat with Strength 5 and a save
@@ -17299,7 +17299,7 @@ Unblinking Eye. Thanks to the sorcerous devices built by the
 Warlock Engineers of Clan Skryre, Veskit can spot hidden
 enemies within twice his Initiative value in inches.
 Metallic Body. These give Veskit his high Toughness and a
-3+ armour save.
+3+ armor save.
 Skaven: Veskit like all Skaven, only lookout for themself
 and so they would stab (or shoot) you in the back if the need
 arose. Veskit will shoot in to combat with on care for the
@@ -17344,7 +17344,7 @@ servant of Sigmar was attempting to redeem Marquand of his sins.
 Profile M WS BS S T W I A Ld
 
 Marquand 4 5 4 3 3 2 5 2 8
-Weapons/Armour: Sword, Light armour, throwing knives.
+Weapons/Armor: Sword, Light armor, throwing knives.
 Skills: Step aside, Knife Fighter, Lightning Reflexes.
 
 Ulli Leitpold
@@ -17363,7 +17363,7 @@ colleague, Ulli prefers to use a combination of brute force and low
 cunning to achieve his goals.
 Profile M WS BS S T W I A Ld
 Ulli 4 4 4 4 3 2 4 2 7
-Weapons/Armour: Two-handed warhammer, Light armour.
+Weapons/Armor: Two-handed warhammer, Light armor.
 Skills: Strongman, Unstoppable charge, Combat master.
 SPECIAL RULES
 These special rules apply to both Ulli and Marquand.
@@ -17485,7 +17485,7 @@ Lawful / Neutral or Neutral warbands.
 Rating: Nicodemus increases a warband's rating by 85 points
 Profile M WS BS S T W I A Ld
 Nicodemus 4 3 3 4 4 2 3 1 8
-Weapons/Armour: Nicodemus carries an enormous
+Weapons/Armor: Nicodemus carries an enormous
 Wizard’s Staff (see Special Rules).
 Skills: Nicodemus has the following skills: Sorcery and
 Fearsome.
@@ -17549,7 +17549,7 @@ points.
 Profile M WS BS S T W I A Ld
 
 Jester 4 3 3 3 3 2 6 2 7
-Weapons/Armour: The Dark Jester has a skeleton ‘hobby
+Weapons/Armor: The Dark Jester has a skeleton ‘hobby
 horse’ (counts as a club) and a sack of spikes (counts as a
 morning star) which he wields in humorous fashion in
 combat.
@@ -17655,7 +17655,7 @@ points.
 Profile M WS BS S T W I A Ld
 
 Marianna 6 6 6 4 4 2 9 3 9
-Weapons/Armour: Marianna carries a rapier, dagger and
+Weapons/Armor: Marianna carries a rapier, dagger and
 has a set of throwing knives and a crossbow pistol concealed
 about her person. Her crossbow bolts and rapier are coated in
 essence of garlic, which acts as Black Lotus when used
@@ -17701,7 +17701,7 @@ will fight the next battle for free, otherwise she will leave.
 Roll D6 Minions
 1-2 D3+1 Zombies
 3-4 D3+1 Ghouls
-5-6 Vampire (Sword & light armour) +2 Ghouls
+5-6 Vampire (Sword & light armor) +2 Ghouls
 Fighting Undead: Due to her vocation as a Vampire
 Assassin turned Vampire Hunter, all Vampires Hate
 Marianna.
@@ -17743,7 +17743,7 @@ Rating: The Dark Emissary increases a warband's rating by
 Profile M WS BS S T W I A Ld
 
 Dark Emissary 4 3 3 3 3 2 3 1 8
-Weapons/Armour: Staff of Darkness, The Spiral
+Weapons/Armor: Staff of Darkness, The Spiral
 SPECIAL RULES
 Magic User: The Dark Emissary has the ability to use magic
 and casts spells like any other magicians, and the Dark
@@ -17765,7 +17765,7 @@ Rating: The Truthsayer increases a warband's rating by 80
 points.
 Profile M WS BS S T W I A Ld
 Truthsayer 4 4 3 4 4 2 4 2 9
-Weapons/Armour: Staff of Light, The Triskele
+Weapons/Armor: Staff of Light, The Triskele
 SPECIAL RULES
 Magic User: The Truthsayers has the ability to use magic
 and casts spells like any other magicians, and the Truthsayers
@@ -17820,7 +17820,7 @@ Rating: Dijin Katal increases the warbands rating by 70
 points.
 Profile M WS BS S T W I A Ld
 Dijin Katal 5 7 5 4 3 2 7 2 8
-Weapons/Armour: Dijin Katal wears a Druchii Assassin’s
+Weapons/Armor: Dijin Katal wears a Druchii Assassin’s
 cloak and wields two swords coated with Dark venom and a
 repeater crossbow.
 Skills: Dijin katal has the following skills: Strike to injure,
@@ -17845,7 +17845,7 @@ in inches. In addition, missile weapons suffer an additional -1
 penalty to hit on top of the penalty for cover.
 Perfect Killer: All attacks made by the Assassin, whether in
 shooting or close combat, have an extra -1 save modifier to
-represent his skill in striking at unarmoured spots.
+represent his skill in striking at unarmored spots.
 Renegade: Dijin is a kinslayer and therefore a renegade in
 Druchii eyes. Any Dark Elves that Dijin is fighting against
 will suffer Hatred towards him.
@@ -17887,7 +17887,7 @@ Maybe Hired: Norse and human warbands may hire Drenok.
 Rating: Drenok increases the warbands rating by 70 points.
 Profile M WS BS S T W I A Ld
 Drenok Johansen 4 6 3 4 4 2 4 2 8
-Weapons/Armour: Drenok wields the great axe of the
+Weapons/Armor: Drenok wields the great axe of the
 Icefang and he wears Sabertooth Tiger Hide.
 SKILLS: Fearsome, Strongman, Combat master and Step
 aside.
@@ -17928,11 +17928,11 @@ Rating: The Vermin Lord increases the warband’s rating by
 
 Profile M WS BS S T W I A Ld
 Vermin Lord 6 4 0 5 4 2 4 3 7
-Weapons/Armour: Doom Glaive
+Weapons/Armor: Doom Glaive
 
 Special Rules
 Doom Glaive: The Doom Glaive is heavily ensorcelled with
-death magic. A hit from the Doom Glaive allows no Armour
+death magic. A hit from the Doom Glaive allows no Armor
 Save.
 Immune to Psychology: The Vermin Lord is not affected by
 psychology (such as fear) and never leave combat.
@@ -17993,7 +17993,7 @@ Lawful / Neutral or Neutral warbands.
 Rating: The Salesman increases the warband’s rating by +60
 Profile M WS BS S T W I A Ld
 The Salesman 4 4 6 4 4 3 5 3 9
-Weapons/Armour: The Salesman is armed with two
+Weapons/Armor: The Salesman is armed with two
 Crossbow pistols, a Blunderbuss, a dagger, a Sword,
 throwing knives and a large case
 Skills: the Salesman has the following skills: Dodge, Eagle
@@ -18034,7 +18034,7 @@ has.
 Profile M WS BS S T W I A Ld
 
 Alchemist 4 2 4 3 3 1 3 1 8
-Weapons/Armour: The Alchemist a Staff, a Dagger and a
+Weapons/Armor: The Alchemist a Staff, a Dagger and a
 Crossbow Pistol.
 Skills: The Alchemist may choose from Academic when he
 gains a new skill. In addition, the Alchemist may choose
@@ -18053,7 +18053,7 @@ Handler has.
 Profile M WS BS S T W I A Ld
 
 Beast Handler 4 2 2 4 3 1 3 1 6
-Weapons/Armour: The Beast Handler is armed with Whip,
+Weapons/Armor: The Beast Handler is armed with Whip,
 Hammer and Dagger
 Skills: The Beast Handler may choose from Combat and
 Speed when he gains a new skill.
@@ -18072,21 +18072,21 @@ etc,).
 Blacksmith
 Blacksmiths have one of the most essential jobs in most
 communities. They fix wagon wheels, repair farming
-implements and make swords and armour for their town’s
+implements and make swords and armor for their town’s
 defence.
 Rating: The Blacksmith increases a warband's rating by 20
 points plus 1 point for each Experience point the Blacksmith
 has.
 Profile M WS BS S T W I A Ld
 Blacksmith 4 4 3 4 3 1 3 1 7
-Weapons/Armour: The Blacksmith is armed with a dagger
+Weapons/Armor: The Blacksmith is armed with a dagger
 and a blacksmith’s hammer, the Blacksmith wears light
-armour and carries a shield.
+armor and carries a shield.
 Skills: The Blacksmith may choose from Combat and
 Strength when he gains a new skill.
 Special Rules
 Metal Worker: If the Blacksmith is not taken out of action,
-all normal, metal “hand to hand” weapons and armour may
+all normal, metal “hand to hand” weapons and armor may
 be purchased (and sold) at 75% of the base cost. This ability
 may not be used if the Blacksmith is taken out of action as he
 is recuperating.
@@ -18099,7 +18099,7 @@ points plus 1 point for each Experience point the
 Cartographer has.
 Profile M WS BS S T W I A Ld
 Cartographer 4 2 2 3 3 1 3 1 6
-Weapons/Armour: The Cartographer is armed with Map
+Weapons/Armor: The Cartographer is armed with Map
 Tubes (Club), Staff and Dagger
 Skills: The Cartographer may choose from Academic, when
 he gains a new skill.
@@ -18116,7 +18116,7 @@ their homes and land. Farmers prefer to use implements of
 their trade such as pitchforks and sickles.
 Profile M WS BS S T W I A Ld
 Farmer 4 3 3 4 3 1 3 1 8
-Weapons/Armour: The Farmers armed with an assortment
+Weapons/Armor: The Farmers armed with an assortment
 of farming tools. Each model counts as being armed with a
 club and or dagger.
 
@@ -18130,8 +18130,8 @@ points plus 1 point for each Experience point the Fletcher has.
 Profile M WS BS S T W I A Ld
 
 Fletcher 4 3 4 3 3 1 3 1 7
-Weapons/Armour: The Fletcher is armed with a dagger,
-longbow and hunting arrows, the Fletcher wears light armour.
+Weapons/Armor: The Fletcher is armed with a dagger,
+longbow and hunting arrows, the Fletcher wears light armor.
 Skills: The Fletcher may choose from Shooting and Speed
 when he gains a new skill.
 Special Rules
@@ -18148,9 +18148,9 @@ has.
 Profile M WS BS S T W I A Ld
 
 Gunsmith 4 3 4 3 3 1 3 1 7
-Weapons/Armour: The Gunsmith is armed with a dagger, a
+Weapons/Armor: The Gunsmith is armed with a dagger, a
 pistol, a handgun and superior blackpowder the Gunsmith
-wears light armour.
+wears light armor.
 Skills: The Gunsmith may choose from Shooting, and Speed
 when he gains a new skill.
 Special Rules
@@ -18166,7 +18166,7 @@ has.
 Profile M WS BS S T W I A Ld
 
 Merchant 4 3 4 3 3 1 3 1 7
-Weapons/Armour: The Merchant is armed with a dagger,
+Weapons/Armor: The Merchant is armed with a dagger,
 sword, and a brace of pistols.
 Skills: The Merchant may choose from Combat, Academic
 and Speed when he gains a new skill.
@@ -18184,8 +18184,8 @@ Swordsmen 4 4 3 3 3 1 3 1 7
 Marksmen 4 3 4 3 3 1 3 1 7
 Patrol: The size of a Sigmarhaven Watch patrol is one
 Captain, four Swordsmen and two Marksmen.
-Weapons/Armour: They are all armed with swords &
-Dagger, wear light armour and carry shields. The Marksmen
+Weapons/Armor: They are all armed with swords &
+Dagger, wear light armor and carry shields. The Marksmen
 are also armed with bows.
 Skills: Swordsmen count as having the skill Expert
 swordsmen.
@@ -18198,7 +18198,7 @@ plan. Those that live on the street need to be extra tough and
 careful, surviving day by day by their wits alone.
 Profile M WS BS S T W I A Ld
 Street Urchin 4 2 2 2 3 1 4 1 6
-Weapons/Armour: The Street Urchin normally carries a
+Weapons/Armor: The Street Urchin normally carries a
 dagger; some have been known to have used throwing knives
 as well.
  
@@ -18207,16 +18207,16 @@ The town cryers are an usually breed of man, who would
 walk the streets call out the news of the day.
 Profile M WS BS S T W I A Ld
 Town Cryer 4 3 3 3 3 1 4 1 8
-Weapons/Armour: The Town Cryer normally carries a Bell
+Weapons/Armor: The Town Cryer normally carries a Bell
 (Counts as a Club), a dagger and a sword, the Town Cryer
-wears light Armour.
+wears light Armor.
  
 Townsfolk
 Townsfolk are just that...the merchants, commoners, shop
 owners and those that are destitute,
 Profile M WS BS S T W I A Ld
 Townsfolk 4 2 2 3 3 1 3 1 7
-Weapons/Armour: The Townsfolk are armed with an
+Weapons/Armor: The Townsfolk are armed with an
 assortment of makeshift weapons. Each model counts as
 being armed with a club and or dagger.
 
@@ -18262,7 +18262,7 @@ resolving the attacks normally. If this option is chosen, each
 player must roll a D6 and add his model’s Strength to the
 roll. If the Bear’s total is higher or the totals are equal, the
 opposing warrior takes a single automatic wound with no
-armour save allowed. If the enemy warrior’s total is higher,
+armor save allowed. If the enemy warrior’s total is higher,
 the warrior has broken the Bear’s hold and suffers no damage
 from the attack.
 Experience
@@ -18306,7 +18306,7 @@ Animal Companion: The Cave Squig may be an Animal
 Companion to a warrior
 May Ride: A Goblin may ride the Cave Squig, if you are
 using the optional rules for mounts. The Goblin gains +1
-armour save, and shall move at the Cave Squig’s rate of 6".
+armor save, and shall move at the Cave Squig’s rate of 6".
 Shooting attacks hit the Goblin on a die roll of 1-2, and the
 Cave Squig on a 3-6. In close combat, the opponent may
 choose which to hit. The Cave Squig no longer has to follow
@@ -18367,7 +18367,7 @@ Special Rules
 Stupidity: Cold One Beast-hounds may use the basic
 Leadership of it Master if they are within 6" of him.
 Scaly Skin: Cold One Beast-hounds have tough scaly skin,
-and are considered to have a 6+ armour save. This save
+and are considered to have a 6+ armor save. This save
 cannot be modified beyond 6 due to strength modifiers but
 any result of ‘no save’ on the injury chart will negate the
 unmodified 6+ save.
@@ -18471,7 +18471,7 @@ Goblin or Orc races, and do other rather limited tasks, but they are
 little use for any real work.
 Profile M WS BS S T W I A Ld
 Snotling 4 1 1 1 1 1 1 1 3
-Weapons/Armour: Snotling may be equipped with Club,
+Weapons/Armor: Snotling may be equipped with Club,
 Blow pipe or Spear.
 Special Rules
 Animal Companion: A Snotling may be an Animal
@@ -18583,7 +18583,7 @@ Fear: Cold Ones cause fear.
 Stupid: Roll against the rider’s Leadership each turn; if the
 rider fails the test then usual stupidity applies, otherwise
 move as normal.
-Scaly: Cold ones give an additional +1 armour save bonus
+Scaly: Cold ones give an additional +1 armor save bonus
 (making +2 total).
 Experience
 +1 For taking the Mount out of action. The Hero or
@@ -18619,7 +18619,7 @@ Giant Spider 7 3 0 3(4) 3 1 4 1 4
 Special Rules
 Poisoned Attack: Giant Spider attacks are poisoned – attacks
 are considered as strength 4, but this will not modify any
-armour saves.
+armor saves.
 Wall Walk: Giant Spiders (and their riders) may walk up and
 down walls without making Initiative tests. They may only
 jump up to 2" across or down, but this does count as a diving
@@ -18750,7 +18750,7 @@ wound, the target must make an Initiative test or be knocked
 down.
 Thick Skinned: The thick skin and matted fur of the boar
 makes him very hard to wound. Tuskgor confer an additional
-+1 bonus to the rider’s armour save (making +2 total).
++1 bonus to the rider’s armor save (making +2 total).
 Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the Tuckgor out of action gets a bonus
@@ -18771,7 +18771,7 @@ charging, due to their bulk. Note that this applies only to the
 boar, not the rider.
 Thick Skinned: The thick skin and matted fur of the boar
 makes him very hard to wound. Boars confer an additional
-+1 bonus to the rider’s armour save (making +2 total).
++1 bonus to the rider’s armor save (making +2 total).
 Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the War Boar out of action gets a bonus
@@ -18805,7 +18805,7 @@ wattles and a fearsomely sharp beak.
 Profile M WS BS S T W I A Ld
 
 Cockatrice 5 3 0 4 4 2 4 2 6
-Weapons/Armour: Claws
+Weapons/Armor: Claws
 Special Rules
 Cause Fear: The Cockatrice is a fearsome creature which
 cause fear in it enemy.
@@ -18817,9 +18817,9 @@ automatically, but the victim may be able to tune aside at the
 last moment and avoid its fate. Make an Initiative test for the
 victim. If pasted there is no effect, but if it is failed the victim
 is tuned to stone. Naturally, this is fatal regardless of the
-number of wounds the model has. Armour will not protect
+number of wounds the model has. Armor will not protect
 the victim, although Ward saves work as normal.
-Scaly Skin: The Cockatrices have scaly Skin. (5+ Armour
+Scaly Skin: The Cockatrices have scaly Skin. (5+ Armor
 Save).
 Experience
 +1 For wounding the Beast. Any Hero or Henchman earns
@@ -18876,8 +18876,8 @@ Hit and Run: The drakes are much small and agile then there
 larger cousins and so they may those to fly in 8" attack with
 flame breath and fly out the remain 8"
 Scaly skin: The scales that cover a Drake’s hide is extremely
-hard, acting like armour that protects them from attack. This
-gives a drake an armour saving throw of 5+, regardless of the
+hard, acting like armor that protects them from attack. This
+gives a drake an armor saving throw of 5+, regardless of the
 strength of the attack.
 Experience
 +1 For wounding the Beast. Any Hero or Henchman earns
@@ -18923,7 +18923,7 @@ Dryad 5 4 0 4 4 2 6 2 8
 Tree-kin 5 4 0 5 5 3 3 3 8
 Shadow Dryad 5 3 0 3 4 2 4 2 8
 Shadow Tree-kin 5 3 0 4 5 3 3 3 8
-Weapons/Armour: The Dryad and Shadow Dryad has Razor
+Weapons/Armor: The Dryad and Shadow Dryad has Razor
 Sharp Talons (Counts as being armed with two swords), the
 Tree-Kin and Shadow Tree-Kin has Branchlike limes (Counts
 as being armed with two clubs).
@@ -18961,7 +18961,7 @@ Profile M WS BS S T W I A Ld
 Giant Bat 1 3 0 3 3 2 3 2 7
 Giant Scorpion 6 4 0 4(5) 4 3 3 3 7
 Giant Spider 6 3 0 4(5) 4 3 2 2 7
-Weapons/Armour: Bite
+Weapons/Armor: Bite
 Special Rules:
 Fly: The Giant Bats may fly up to 12". After the Movement
 phase the model is assumed to have landed and may be
@@ -18969,12 +18969,12 @@ charged.
 Cause Fear: All three are fearsome creatures which cause
 fear in it enemy.
 Chitinous Hide: The rigid exoskeleton of the Giant Scorpion
-& Giant Spider acts just like armour, giving the Giant
-Scorpion a 4+ armour save and the Giant Spider a 5+ armour
+& Giant Spider acts just like armor, giving the Giant
+Scorpion a 4+ armor save and the Giant Spider a 5+ armor
 save.
 Poisoned Attack: Giant Scorpion & Giant Spider attacks are
 poisoned – attacks are considered as strength 5, but this will
-not modify any armour saves.
+not modify any armor saves.
 Wall Walk: Giant Spider may walk up and down walls
 without making Initiative tests. They may only jump up to 2"
 across or down, but this does count as a diving charge.
@@ -19014,7 +19014,7 @@ automatically, but the victim may be able to tune aside at the
 last moment and avoid its fate. Make an Initiative test for the
 victim. If pasted there is no effect, but if it is failed the victim
 is tuned to stone. Naturally, this is fatal regardless of the
-number of wounds the model has. Armour will not protect
+number of wounds the model has. Armor will not protect
 the victim, although Ward saves work as normal.
 Experience
 +1 For wounding the Beast. Any Hero or Henchman earns
@@ -19075,7 +19075,7 @@ faces are broad, squat and evil, with beady eyes, jutting fangs and
 snorting, flared nostrils.
 Profile M WS BS S T W I A Ld
 6 4 3 4 4 3 4 3 8
-Weapons/Armour: Any variation of Axes, Clubs, and
+Weapons/Armor: Any variation of Axes, Clubs, and
 Swords totalling to 2 weapons, or a 2 Handed Weapon
 Special Rules
 Fear: Minotaurs are huge, bellowing monsters and cause
@@ -19100,9 +19100,9 @@ but unstoppable.
 Profile M WS BS S T W I A Ld
 Ogre 6 3 2 4 4 3 3 2 7
 Chaos Ogre 6 3 2 5 4 3 3 2 7
-Weapons/Armour: Either two swords, axes or clubs (or any
+Weapons/Armor: Either two swords, axes or clubs (or any
 mix of them), or a double-handed weapon (you may choose
-which). Ogres may wear light armour
+which). Ogres may wear light armor
 Special Rules
 Fear: Ogres are large, threatening creatures that cause fear.
 Large Target: Ogres are Large Targets as defined in the
@@ -19125,7 +19125,7 @@ damp hides. Renowned for their strength and unthinking ferocity,
 Trolls can rip a man apart with their bare hands. Trolls are able to
 regenerate damaged flesh, and so are all but impossible to kill. Not
 only that, they have the ability to vomit the corrosive contents over
-their victim, melting armour, flesh and bone with ease. One
+their victim, melting armor, flesh and bone with ease. One
 particularly vicious form of Troll is the Stone Troll, whose hide is as
 tough as rock. They have the strange ability of sucking the very
 power of magic out of the surrounding area. River Trolls live in the
@@ -19137,7 +19137,7 @@ Troll 6 3 1 5 4 3 1 3 4
 Chaos Troll 6 4 1 5 4 3 1 3 4
 River Troll 6 3 1 5 4 3 1 3 4
 Stone Troll 6 3 1 5 5 3 1 4 4
-Weapons/Armour: Trolls often carry a big club.
+Weapons/Armor: Trolls often carry a big club.
 Special Rules
 Fear: Trolls are frightening monsters which cause fear.
 Stupidity: A Troll is subject to the rules for stupidity.
@@ -19151,7 +19151,7 @@ Vomit Attack: Instead of his normal attacks, a Trolls and
 Chaos Trolls can regurgitate its highly corrosive digestive
 juices on an unfortunate hand-to-hand combat opponent. This
 is a single attack that automatically hits with a Strength of 5
-and ignores armour saves.
+and ignores armor saves.
 Slime: The River Trolls skin exhumes poisonous fumes
 which make the Warriors choke. When standing adjacent to
 the River Troll any Warrior is at -1 To Hit.
@@ -19205,14 +19205,14 @@ boars for themselves.
 Profile M WS BS S T W I A Ld
 
 Boar 7 3 0 3 4 1 3 1 3
-A boar has an Armour Save of 5+.
+A boar has an Armor Save of 5+.
 Special Rules
 Ferocious Charge: Wild boars attack with +2S when
 charging, due to their bulk. Note that this applies only to the
 boar, not the rider.
 Thick Skinned: The thick skin and matted fur of the boar
 makes him very hard to wound. Boars confer an additional
-+1 bonus to the rider’s Armour Save (making +2 total). If an
++1 bonus to the rider’s Armor Save (making +2 total). If an
 Orc Hero (not Henchmen) comes in contact with a boar he
 may roll 2D6 to try and tame it. On a 10 or higher the boar
 can be tamed and the boar will discharge D3 wyrdstone for
@@ -19242,7 +19242,7 @@ Spines will never cause critical hits.
 It gets +1A per turn in close combat. This attack is at S5 (or S2 if
 the target is immune to poison).
 5 Hideous: The boar causes fear.
-6 Scales: Armour Save increases to 3+.
+6 Scales: Armor Save increases to 3+.
 Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Wild Boar out of action gets a bonus
@@ -19274,7 +19274,7 @@ and diseases.
 Chaos Furies
 Profile M WS BS S T W I A Ld
 Chaos Fury 4 4 0 4 3 2 4 1 8
-Weapons/Armour:
+Weapons/Armor:
 Special rules:
 Fly: Furies have wings and can fly up to 12", ignoring
 difficult terrain
@@ -19300,8 +19300,8 @@ cause terrible wounds that can slay the mightiest hero.
 Profile M WS BS S T W I A Ld
 
 Bloodletter of Khorne 4 6 0 4 3 2 6 2+ 8
-Weapons/Armour: The Bloodletters carry a Hellblade and
-wear Hell-Forged Brass Armour (4+ Armour Save).
+Weapons/Armor: The Bloodletters carry a Hellblade and
+wear Hell-Forged Brass Armor (4+ Armor Save).
 Special Rules
 Hellblade: The Bloodletter is armed with a Hellblade which
 will automatically cause a critical hit if a 4+ is rolled to hit.
@@ -19362,10 +19362,10 @@ straight out of their foreheads.
 Profile M WS BS S T W I A Ld
 
 Plaguebearer of Nurgle 4 4 3 4 4 2 4 2 8
-Weapons/Armour: None. Plague Bearers have huge filth
+Weapons/Armor: None. Plague Bearers have huge filth
 encrusted claws, which they use to tear and slash at their foes.
 They therefore neither need nor use weapons and cannot wear
-armour.
+armor.
 Special Rules
 Cloud of Flies: Plague Bearers are surrounded by a cloud of
 flies, which buzz around them and their combat opponent.
@@ -19376,7 +19376,7 @@ attacks.
 Stream of Corruption: Plague Bearers can spew forth a
 grotesque stream of maggots, entrails and filth. This is
 counted as a shooting attack with a range of 6" and is
-resolved at Strength 3 with no saves for armour.
+resolved at Strength 3 with no saves for armor.
 Experience
 +1 For wounding the Beast. Any Hero or Henchman earns
 +1 Experience for each wound he inflicts on the Plaguebearer
@@ -19394,8 +19394,8 @@ writhing mass. They have sharp teeth and can overwhelm an enemy
 by sheer numbers.
 Profile M WS BS S T W I A Ld
 Nurglings of Nurgle 4 3 0 3 2 1 3 1 8
-Weapons/Armour: None. Nurglings do not use weapons or
-wear armour.
+Weapons/Armor: None. Nurglings do not use weapons or
+wear armor.
 Special Rules
 Cloud of Flies: Nurglings are surrounded by a cloud of flies,
 which buzz around them and their combat opponent. They do
@@ -19423,10 +19423,10 @@ Profile M WS BS S T W I A Ld
 Beast of Nurgle 3 3 0 3 5 3 3 D6 6
 Special Rules
 Slime Trail: Any model charging the Beast from the side or
-rear takes an automatic S3 hit with no armour saves.
+rear takes an automatic S3 hit with no armor saves.
 Tentacles: The Beast has many tentacles, from which it
 derives its variable d6 attacks per phase. Additionally, no
-armour save is allowed.
+armor save is allowed.
 Unstoppable: The Beast moves d6+2" directly forward in
 the Recovery Phase. If this brings him Base-to-Base with an
 enemy, he is considered to have charged. This is in addition
@@ -19453,7 +19453,7 @@ same time are undeniably potent.
 Profile M WS BS S T W I A Ld
 
 Daemonette of Slaanesh 5 4 0 4 3 1 5 2 8
-Weapons/Armour:
+Weapons/Armor:
 Special Rules
 Soporific Musk: All opponents in Base-to-Base suffer -1 to
 hit. (This has no effect on Undead or other Daemons.)
@@ -19500,7 +19500,7 @@ the dungeon.
 Profile M WS BS S T W I A Ld
 
 Horror of Tzeentch 4 2 0 3 3 2 3 1 8
-Weapons/Armour:
+Weapons/Armor:
 Special Rules
 Unstable: The body of a horror is created from an unstable
 mass which changes the body around, whenever the Horror
@@ -19554,7 +19554,7 @@ wail brings only death and despair to those who hear it.
 Profile M WS BS S T W I A Ld
 
 Banshee 8 3 0 3 4 2 3 2 8
-Weapons/Armour: None
+Weapons/Armor: None
 Special rules:
 Body: Once the Banshee’s wound is Reduced to 0 it is
 automatically out of action.
@@ -19639,7 +19639,7 @@ Cold touch: The ghost reaches inside the enemy and touches
 his inner being (it can be the soul, life-force or whatever is in
 there). The ghost uses Ld instead of S to wound, and the
 victim uses Ld instead of T to withstand the hit. The victim
-has no armour save. Instead of causing a wound it lowers the
+has no armor save. Instead of causing a wound it lowers the
 Toughness by 1 for the rest of the battle (accumulative). If T
 reaches 0 roll on the injury table with +2 on the roll.
 Experience
@@ -19653,14 +19653,14 @@ experience.
 Skeletons
 Skeleton Warriors claw themselves out of the earth to attack the
 living. They wield rusty swords and axes, and mouldering remnants
-of armour still cling to their frame.
+of armor still cling to their frame.
 Profile M WS BS S T W I A Ld
 
 Skeleton 4 2 2 3 3 1 2 1 5
-Weapons/Armour: The Skeleton has a Dagger and Roll a
+Weapons/Armor: The Skeleton has a Dagger and Roll a
 D6 for a weapon: [1-2] bow, [3-4] spear, [5-6] sword. Roll a
-D6 for armour [1] roll for a second weapon, [2] light armour,
-[3-4] none, [5] shield, [6] light armour and shield.
+D6 for armor [1] roll for a second weapon, [2] light armor,
+[3-4] none, [5] shield, [6] light armor and shield.
 Special rules
 No Pain: Skeletons treat a stunned result on the Injury chart
 as knocked down.
@@ -19736,7 +19736,7 @@ These are enormous carnivores that burrow straight through
 solid ground in search of small (adventurer sized) morsels.
 Profile M WS BS S T W I A Ld
 Enormous Worm 10 4 0 5 4 3 * 5 8
-Weapons/Armour: Rows upon rows of sharp teeth
+Weapons/Armor: Rows upon rows of sharp teeth
 Special Rules
 Large Target: The Enormous Worm is a towering creature
 larger than the height of a man. It is a Large Target
@@ -19746,9 +19746,9 @@ initiative. If the Enormous Worm is fighting at night in
 counts as having an initiative 6.
 Poisoned Attack: The Enormous Worm attacks are poisoned
 - attacks are considered as strength 6, but this will not
-modify any armour saves.
+modify any armor saves.
 Scaly Skin: The Enormous Worm has scaly Skin. (4+
-Armour Save)
+Armor Save)
 Cause Fear: The Enormous Worm is a fearsome creature
 which cause fear in it enemy.
     Experience
@@ -19845,7 +19845,7 @@ Fear: Despite its smaller size, the young Hydra is still a
 fearsome opponent. It causes fear.
 Save: The young Hydra’s scales aren’t as strong as a normal
 Hydra’s, but they are still as strong as metal. The Hydra has
-an armour save of 6+ that is not modified by the strength of
+an armor save of 6+ that is not modified by the strength of
 attacks against it (or by other save modifiers).
 Breath Weapon: When the young Hydra breathes, flames
 leap from its mouths. It can use these flames as a weapon if it
@@ -19854,7 +19854,7 @@ made even if the Hydra is involved in close combat. Simply
 place the small teardrop shaped template with the narrow end
 at one of the Hydra’s mouths; any models under the template
 will be hit by flames on a dice roll of 4+. A model hit by
-flames takes a single S3 hit. Normal armour saves apply. Do
+flames takes a single S3 hit. Normal armor saves apply. Do
 not worry about any buildings the template may cover; the
 Hydra’s fire is too weak to set them alight without prolonged
 exposure.
@@ -19911,7 +19911,7 @@ Fear: Despite its smaller size and useless wings, the young
 Dragon is still a fearsome opponent. It causes fear.
 Save: The young Dragon’s scales aren’t as strong as a normal
 Dragon’s, but they are still as strong as metal. The young
-Dragon has an Armour save of 5+ that is not modified by the
+Dragon has an Armor save of 5+ that is not modified by the
 strength of attacks against it (or by other save modifiers).
 Breath Weapon: When the young Dragon breathes, flames
 leap from its mouth. It can use these flames as a weapon if it
@@ -19921,7 +19921,7 @@ Simply place the small teardrop shaped template supplied
 opposite with the narrow end at the Dragon’s mouth. Any
 models under the template will be hit by flames on a dice roll
 of 4+. A model hit by flames takes a single S3 hit. Normal
-armour saves apply. Do not worry about any buildings the
+armor saves apply. Do not worry about any buildings the
 template may cover; the Dragon’s fire is too weak to set them
 alight without prolonged exposure.
 Will not Rout: The Dragon is far too greedy to abandon its
@@ -19957,7 +19957,7 @@ Fear: Despite its smaller size and useless wings, the Wyvern
 is still a fearsome opponent. It causes fear.
 Save: The Wyvern’s scales aren’t as strong as a normal
 Wyvern’s, but they are still as strong as metal. The Wyvern
-has an armour save 6+ that is not modified by the strength of
+has an armor save 6+ that is not modified by the strength of
 attacks against it (or other save modifiers).
 Envenomed Tail: The Wyvern has a whip-like tail that is
 tipped with a deadly stinger. In combat it thrashes this tail
@@ -20005,9 +20005,9 @@ Fear: Despite its smaller size and useless wings, the Griffon
 is still a fearsome opponent. It causes fear.
 Massive Beak: One of the Griffon’s attacks is a bite attack.
 Its maw is a massively sharp, iron-hard beak that can easily
-slice through the thickest armour as if it were made of paper.
+slice through the thickest armor as if it were made of paper.
 An opponent damaged by this attack suffers an additional -1
-penalty to his armour save, for a total armour save penalty of
+penalty to his armor save, for a total armor save penalty of
 -3 (-1 for the bite and -2 for Strength).
 Will not Rout: The Griffon is far too greedy to abandon its
 hoard. It will automatically pass any Rout test or any other
@@ -20046,9 +20046,9 @@ Fear: Despite its smaller size and useless wings, the Chimera
 is still a fearsome opponent. It causes fear.
 Massive Beak: One of the Hippogriff ’s attacks is a bite
 attack. Its maw is a massively sharp, iron-hard beak that can
-easily slice through the thickest armour as if it were made of
+easily slice through the thickest armor as if it were made of
 paper. An opponent damaged by this attack suffers an
-additional -1 penalty to his armour save, for a total armour
+additional -1 penalty to his armor save, for a total armor
 save penalty of -3 (-1 for the bite and -2 for Strength).
 
 Dragon Head: One of the Chimera’s three heads is that of a
@@ -20058,7 +20058,7 @@ attack is made in the Shooting phase. Simply place the small
 teardrop shaped template with the narrow end at the Dragon
 head’s mouth; any models under the template will be hit by
 flames on a dice roll of 4+. A model hit by flames takes a S3
-hit. Normal armour saves apply. Do not worry about any
+hit. Normal armor saves apply. Do not worry about any
 buildings the template may cover; the Chimera’s fire is too
 weak to set them alight without prolonged exposure.
 Will not Rout: The Hippogriff is far too greedy to abandon
@@ -20086,7 +20086,7 @@ Lion Head: The last of the Chimera’s heads is that of a
 ferocious golden-maned lion with jaws of steel and razor-
 sharp teeth. One of the Chimera’s attacks is a bite by the lion
 head. An opponent damaged by this attack suffers an
-additional -1 penalty to his armour save, for a total armour
+additional -1 penalty to his armor save, for a total armor
 save penalty of -3 (-1 for the bite and -2 for Strength).
 Will not Rout: The Chimera is far too greedy to abandon its
 hoard. It will automatically pass any Rout test or any other

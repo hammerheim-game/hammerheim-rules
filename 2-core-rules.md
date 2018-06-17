@@ -2,77 +2,37 @@
 
 ## Tabletop conflict
 
-In Mordheim, the opposing factions – warbands – are
-represented by models, assembled and painted by you, each
-representing a single warrior.
-Your tabletop becomes part of the City of the Damned: the
-scene of the action, with ruined buildings, overhangs and
-walkways where the battles take place.
-The aim of the game is to outfight your opponent, which
-requires a mixture of skill and luck. You’ll soon learn how to
-arm and equip your warband effectively, and how to exploit
-the ruins and other terrain to your best advantage.
-You’ll probably want to expand your basic warband as you
-and they gain experience. This is easy as there are lots of
-models available for the warbands and new miniatures will be
-coming out all the time. With these you can expand your
+In Mordheim, the opposing factions – warbands – are represented by models, assembled and painted by you, each representing a single warrior. Your tabletop becomes part of the City of the Damned: the scene of the action, with ruined buildings, overhangs and walkways where the battles take place. 
 
-warband, equip your warriors with different weapons and
-armour, and hire mercenaries to join them.
+The aim of the game is to outfight your opponent, which requires a mixture of skill and luck. You’ll soon learn how to arm and equip your warband effectively, and how to exploit the ruins and other terrain to your best advantage. 
+
+You’ll probably want to expand your basic warband as you and they gain experience. This is easy as there are lots of models available for the warbands and new miniatures will be coming out all the time. With these you can expand your warband, equip your warriors with different weapons and armor, and hire mercenaries to join them. 
+
 ## Building a warband
 
-At first you will probably want to play individual games (see
-the Warbands section for more details) rather than a
-campaign. This will allow you to learn the rules, and also
-give you the opportunity to decide which type of warband is
-most suited to your particular style of play.
-If you are playing in a campaign, you will have the chance to
-expand and improve your warband after each game. By
-winning battles your warband will gain riches and wyrdstone,
-discover magical artefacts and may also have the opportunity
-to recruit mercenaries.
-In a campaign, every time your warband fights, its warriors
-gain in skill and experience. Raw recruits quickly progress to
-become fully fledged warriors, and your Heroes will learn
-new skills which will make them even better in combat.
-Each warband has its own objective and motivation for
-fighting in Mordheim: be it riches or political influence.
-Through countless battles and street skirmishes you can try to
-achieve your ambition and emerge victorious from the city!
+At first you will probably want to play individual games (see the Warbands section for more details) rather than a campaign. This will allow you to learn the rules, and also give you the opportunity to decide which type of warband is most suited to your particular style of play. 
 
+If you are playing in a campaign, you will have the chance to expand and improve your warband after each game. By winning battles your warband will gain riches and wyrdstone, discover magical artefacts and may also have the opportunity to recruit mercenaries. 
+
+In a campaign, every time your warband fights, its warriors gain in skill and experience. Raw recruits quickly progress to become fully fledged warriors, and your Heroes will learn new skills which will make them even better in combat. Each warband has its own objective and motivation for fighting in Mordheim: be it riches or political influence. Through countless battles and street skirmishes you can try to achieve your ambition and emerge victorious from the city! 
 
 #### New players
 
-If you’re new to Games Workshop games you’ll be reassured
-to know that finding other players is not normally a problem
+If you’re new to Games Workshop games you’ll be reassured to know that finding other players is not normally a problem - you’ll be surprised how many there are!
 
-- you’ll be surprised how many there are!
-There may be a Games Workshop store near to you where
-you can buy models, paint and games supplements. However
-Games Workshop stores are not just shops, they are hobby
-centres, where the staff will happily help you to learn the
-rules, show you how to paint, and suggest ways to develop
-your warband.
+There may be a Games Workshop store near to you where you can buy models, paint and games supplements. However Games Workshop stores are not just shops, they are hobby centres, where the staff will happily help you to learn the rules, show you how to paint, and suggest ways to develop your warband. 
 
 #### Warhammer players
 
-If you already play Warhammer, the basic rules of Mordheim
-will be familiar to you. Remember though, Warhammer is
-designed for fighting battles between entire armies, whilst
-Mordheim represents individual action between a dozen or so
-warriors.
-As a result, some of the rules developed for mass combat in
-Warhammer do not apply to Mordheim, such as unit Break
-tests and rank bonuses. On the other hand, there are new rules
-for wounded warriors, climbing, parrying and other aspects
-of individual combat.
+If you already play Warhammer, the basic rules of Mordheim will be familiar to you. Remember though, Warhammer is designed for fighting battles between entire armies, whilst Mordheim represents individual action between a dozen or so warriors. 
+
+As a result, some of the rules developed for mass combat in Warhammer do not apply to Mordheim, such as unit Break tests and rank bonuses. On the other hand, there are new rules for wounded warriors, climbing, parrying and other aspects of individual combat. 
 
 #### What you will need
 
-As well as this book, you will need the following items to
-play Mordheim.
+As well as this book, you will need the following items to play Mordheim.
 
-#### Citadel models
+##### Citadel models
 
 You will need enough miniatures of the appropriate race/type
 to represent the warriors in your warband. It is a good idea to
@@ -89,7 +49,7 @@ background section and choose one that really captures your
 imagination. A good way of picking a warband is simply to
 pick the one with the models you like the best.
 
-#### Playing surface
+##### Playing surface
 
 You will also need something to play your battles on. Any
 firm, level surface is best, such as a tabletop or an area of
@@ -101,70 +61,35 @@ storage) which they can use on top of a table to extend the
 playing area. Whatever you use, you will find that a square
 area approximately 4 x 4' is about right for most battles.
 
-#### Terrain
+##### Terrain
 
-The bitter struggles of a Mordheim battle take place in
-labyrinthine streets, ruined buildings and on derelict
-walkways. Pre-cut card and plastic scenery is available from
-Games Workshop, but many gamers enjoy making their own.
+The bitter struggles of a Mordheim battle take place in labyrinthine streets, ruined buildings and on derelict walkways. Pre-cut card and plastic scenery is available from Games Workshop, but many gamers enjoy making their own. 
 
-As a rule, a table packed with scenery will lead to closer and
-more exciting games.
-Throughout the book you will find photographs, drawings
-and descriptions of Mordheim. These should give you plenty
-of ideas for producing your own scenery. Games Workshop’s
-book ‘How to Make Wargames Terrain’ is also a good source
-of ideas and practical hints on all asp
-#### Counters
+As a rule, a table packed with scenery will lead to closer and more exciting games.
+
+Throughout the book you will find photographs, drawings and descriptions of Mordheim. These should give you plenty of ideas for producing your own scenery. Games Workshop’s book _‘How to Make Wargames Terrain’_ is also a good source of ideas and practical hints. 
+
+##### Counters
 
 Counters can help you keep track of things on the tabletop.
 You can always keep notes about who is hidden, carrying
 treasure, etc, but counters are a convenient memory jogger
 and speed the game up.
  
-Hidden Counter Wyrdstone Counter
-Above are some examples of counters you could photocopy
-and stick onto thin card if you wish.
-#### Dice
+##### Hidden Counter Wyrdstone Counter
+Above are some examples of counters you could photocopy and stick onto thin card if you wish.
 
-All dice rolls use a standard six-sided dice (usually shortened
-to D6). Sometimes you will be asked to modify the result of
-the dice roll. This is noted as D6 plus or minus a number,
-such as D6+1 or D6-2. Roll the dice and add or subtract the
-number indicated to get the final result. You may have to roll
-a number of dice in one go. For example, 2D6 means roll two
-dice and add the scores together. You may also come across
-the term D3. As there is no such thing as a three-sided dice,
-use the following method for determining a score between 1
-and 3. Roll a D6 and halve the score, rounding up: 1 or 2
-equals 1, 3 or 4 equals 2 and 5 or 6 equals 3. If you are given
-the opportunity to re-roll a dice roll, you must accept the
-second score, even if it’s worse than the original.
-Artillery Dice: The Artillery Dice is one of the more
-Specialise dice used in Games Workshop Games; the dice is
-a standard six-sided dice but numbers 2, 4, 6, 8 & 10, and the
-final side is marked with misfire. A standard six-sided dice
-can be used in places of an Artillery Dice, just double the
-face value of the dice, and a Six would count as the Misfire.
-Scatter Dice: this is another more Specialise dice used in
-Games Workshop Games; this is a standard six-sided dice
-that has no numbers but has Arrows and a hit marker. A
-standard six-sided dice can be used in places of a Scatter
-Dice, clockwise, the top of the Dice = 1, right side = 2,
-Bottom = 3, left side = 4 and a 5 or 6 means that the shot was
-on target and did not move.
-#### Tape measure
+##### Dice
 
-For measuring ranges you will need a tape measure marked
-in inches, or a couple of plastic range rulers.
-#### Other equipment
+All dice rolls use a standard six-sided dice (usually shortened to D6). Sometimes you will be asked to modify the result of the dice roll. This is noted as D6 plus or minus a number, such as D6+1 or D6-2. Roll the dice and add or subtract the number indicated to get the final result. You may have to roll a number of dice in one go. For example, 2D6 means roll two dice and add the scores together. You may also come across the term D3. As there is no such thing as a three-sided dice, use the following method for determining a score between 1 and 3. Roll a D6 and halve the score, rounding up: 1 or 2 equals 1, 3 or 4 equals 2 and 5 or 6 equals 3. If you are given the opportunity to re-roll a dice roll, you must accept the second score, even if it’s worse than the original. Artillery Dice: The Artillery Dice is one of the more Specialise dice used in Games Workshop Games; the dice is a standard six-sided dice but numbers 2, 4, 6, 8 & 10, and the final side is marked with misfire. A standard six-sided dice can be used in places of an Artillery Dice, just double the face value of the dice, and a Six would count as the Misfire. Scatter Dice: this is another more Specialise dice used in Games Workshop Games; this is a standard six-sided dice that has no numbers but has Arrows and a hit marker. A standard six-sided dice can be used in places of a Scatter Dice, clockwise, the top of the Dice = 1, right side = 2, Bottom = 3, left side = 4 and a 5 or 6 means that the shot was on target and did not move. 
 
-You will also need pens and paper to record details of your
-warriors’ weapons and other details. You can use roster
-sheets for this, and blank ones are included at the back of this
-book. We recommend you photocopy them rather than use
-the originals.
+##### Tape measure
 
+For measuring ranges you will need a tape measure marked in inches, or a couple of plastic range rulers.
+
+##### Other equipment
+
+You will also need pens and paper to record details of your warriors’ weapons and other details. You can use roster sheets for this, and blank ones are included at the back of this book. We recommend you photocopy them rather than use the originals. 
 
 ### Characteristics
 
@@ -565,7 +490,7 @@ edge to the ground and takes damage as detailed below.
 
 A model that falls takes D3 hits at a Strength equal to the
 height in inches that it fell (e.g., if the model fell 4", it would
-take D3 hits at Strength 4). No armour saves apply. Falling
+take D3 hits at Strength 4). No armor saves apply. Falling
 will not cause critical hits (see the Hand-to-Hand Combat
 section for the Critical Hits rules). A model that falls may not
 move any further or hide during that turn, even if it is not
@@ -588,7 +513,7 @@ water these basic rules apply:
     when swimming against the current of a slow moving
     river but may not swim against the current of a fast
     moving river.
-5. Models wearing armour may not attempt to move
+5. Models wearing armor may not attempt to move
     through any water deeper than shallow. Shields and
     bucklers do not count for this as they are assumed to
     be strapped on the backs.
@@ -683,7 +608,7 @@ immediate threat.
 Once you have decided to shoot and have chosen a target you
 must measure to see whether the shot is within range. Each
 type of missile weapon has a maximum range, as described in
-the Weapons & Armour section of the book.
+the Weapons & Armor section of the book.
 Assuming that your target is within range your warrior can
 proceed with the shot. If the target is out of range then he has
 automatically missed this turn.
@@ -726,7 +651,7 @@ the target. You will find a complete description of the various
 
 
 weapons together with their Strength values and special rules
-in the Weapons & Armour section.
+in the Weapons & Armor section.
 The chart above shows the D6 score required to turn a hit into
 a wound Note that a dash (–) means that there is no chance of
 wounding the target.
@@ -736,102 +661,113 @@ targets.
 
 #### Critical Hits
 
-If you roll a 6 when rolling to wound (for hand-to-hand
-combat and shooting only) you will cause a critical hit. Roll a
-D6 and consult the Critical Hit chart below to determine the
-damage caused by the critical hit. You should also roll to see
-whether the target makes its armour save or suffers damage
-as normal.
-In addition, if the attacker normally needs 6s to wound his
-target, he cannot cause a critical hit. His opponent is simply
-too tough to suffer a serious injury at the hands of such a
-puny creature!
-Each warrior may only cause one critical hit in each hand-to-
-hand combat phase (see the Close Combat section), so if he
-has several attacks, the first 6 you roll to wound will cause a
-critical hit.
-CRITICAL HIT CHART
-1-2 Hits a vital part. The wound is doubled to 2 wounds.
-Roll any armour saves before doubling the wound.
-3-4 Hits an exposed spot. The wound is doubled to 2
-wounds. The attack ignores all armour saves.
-5-6 Master strike! The wound is doubled to 2 wounds. The
-attack ignores all armour saves. You gain +2 to any Injury
-rolls.
-If a critical hit causes more than 1 wound, and the weapon the
-attacking model is using normally causes several wounds,
-then use the one that causes the most damage.
+If you roll a 6 when rolling to wound (for hand-to-hand combat and shooting only) you will cause a critical hit. Roll a D6 and consult the Critical Hit chart below to determine the damage caused by the critical hit. You should also roll to see whether the target makes its armor save or suffers damage as normal. 
 
-#### Armour
+In addition, if the attacker normally needs 6s to wound his target, he cannot cause a critical hit. His opponent is simply too tough to suffer a serious injury at the hands of such a puny creature! 
 
-Steel breastplates, chainmail, leather tunics, shields... all
-these and more are readily available in the forges of the
-villages surrounding Mordheim. That is if you are prepared to
-pay the price, since armour is very expensive.
-If a warrior wearing armour suffers a wound roll a D6. If the
-dice roll is sufficiently high the wounding hit has bounced off
-the armour and has not hurt the wearer at all. The dice score
-required varies according to the type of armour.
-The table below summarises the most common armour types
-and the D6 rolls required to make a save. Note that carrying a
-shield increases the save by +1. For example, a warrior in
-light armour with a shield will save on a roll of a 5 or 6. A
-warrior who has a shield but no armour will save on a roll of
-a 6.
-Minimum D6 score Armour required to save
-Light armour 6
-Heavy armour 5
-Gromril armour 4
-Shield adds +1 to the armour save
+Each warrior may only cause one critical hit in each hand-to- hand combat phase (see the Close Combat section), so if he has several attacks, the first 6 you roll to wound will cause a critical hit. 
 
-#### Armour save modifiers
+Depending on what weapon your warrior is using, you may roll on one of the following Critical Hit charts. For example, if your warrior is using a sword, roll on the Bladed Weapons chart. All the rules governing critical hits given in the main rules also apply to these tables.
 
-Some weapons are better at penetrating armour than others. A
+##### Missile weapons
+
+_(Bows, crossbows, blackpowder weapons, throwing knives etc.)_
+
+| | | |
+| :-: | | |
+| 1-2 | Hits a Weak Spot | The missile penetrates its target’s armor. Ignore all armor saves. |
+| 3-4 | Ricochet | If there are any other models within 6", the closest enemy model is also hit. Roll to wound and take any saves as normal for both targets. |
+| 5-6 | Master Shot | The missile hits an eye, the throat, or some other vulnerable part. The target suffers 2 wounds instead of 1. There is no armor save. |
+
+##### Bludgeoning weapons
+
+_(Clubs, maces, hammers, flails, double-handed hammers etc.)_
+
+| | | |
+| :-: | | |
+| 1-2 | Hammered | The target is knocked off balance. Your opponent may not fight this turn if he hasn’t already fought. |
+| 3-4 | Clubbed | The hit ignores armor saves and saves from helmets.
+| 5 | Wild Sweep | Your opponent’s weapon is knocked from his hand. If he is carrying two weapons, roll to see which one he loses. He must fight with whatever back-up weapon he has in his equipment for the rest of this combat (or fight unarmed if he has no other weapons). Roll to wound and take armor saves as normal. |
+| 6 | Bludgeoned | The victim automatically goes out of action if he fails his armor save. Even if he has several wounds remaining, he will be taken out of action by this attack. |
+
+##### Bladed weapons
+
+_(Swords, axes, double-handed swords etc.)_
+
+| | | |
+| :-: | | |
+| 1-2 | Flesh Wound | This attack hits an unprotected area, so there is no armor save. |
+| 3-4 | Bladestorm | The warrior unleashes a virtual hail of blows. The attack causes 2 wounds instead of 1. Take armor saves separately for each wound. Remember that, as with other critical hits, if an attack causes multiple wounds for other reasons as well, you choose the highest number of wounds. |
+| 5-6 | Sliced! | The strike ignores armor saves, causes 2 wounds, and your warrior gains +2 to any Injury rolls. |
+
+##### Unarmed combat
+
+_(War dogs, warhorses, Zombies, Possessed, animals etc.)_
+
+| | | |
+| :-: | | |
+| 1-2 | Body Blow | Your opponent staggers, allowing you to seize the initiative and make an additional attack. Immediately roll to hit and to wound. Any saves are taken as normal. |
+| 3-4 | Crushing Blow | The blow lands with tremendous force. You gain +1 to the Injury roll if your opponent fails his save. |
+| 5-6 | Mighty Blow | With a mighty punch or flying kick, you send your opponent sprawling to the ground. The attack ignores armor saves and you gain +2 to any Injury rolls. |
+
+##### Thrusting weapons
+
+_(Spears, halberds, lances etc.)_
+
+| | | |
+| :-: | | |
+| 1-2 | Stab | With a quick strike, you penetrate your opponent’s defences. You gain +1 to any Injury rolls. Armor saves are taken as normal. |
+| 3-4 | Thrust | The thrust lands with great force and the target is knocked down. Take armor saves as normal and see whether the model suffers a wound. |
+| 5-6 | Kebab! | The thrust knocks the target back with titanic force, ripping apart armor and puncturing flesh. The attack ignores armor saves and you gain +2 to any Injury rolls. The victim is knocked backwards D6" and the attacker follows, staying in base contact. Any other models involved in the combat are separated and only the model which struck the blow and his target are still considered to be in combat. If the target collides with another model, the other model is hit once at S3. |
+
+#### Armor
+
+Steel breastplates, chainmail, leather tunics, shields... all these and more are readily available in the forges of the villages surrounding Mordheim. That is if you are prepared to pay the price, since armor is very expensive. 
+
+ f a warrior wearing armor suffers a wound roll a D6. If the dice roll is sufficiently high the wounding hit has bounced off the armor and has not hurt the wearer at all. The dice score required varies according to the type of armor. 
+
+ he table below summarises the most common armor types and the D6 rolls required to make a save. Note that carrying a shield increases the save by +1. For example, a warrior in light armor with a shield will save on a roll of a 5 or 6. A warrior who has a shield but no armor will save on a roll of a 6. 
+ 
+Minimum D6 score Armor required to save
+
+| Light armor | 6 |
+| Heavy armor | 5 |
+| Gromril armor | 4 |
+
+Shield adds +1 to the armor save
+
+#### Armor save modifiers
+
+Some weapons are better at penetrating armor than others. A
 shot from a short bow can be deflected relatively easily, but a
-shot from a crossbow penetrates armour much more
+shot from a crossbow penetrates armor much more
 effectively.
 
 The higher a weapon’s Strength, the more easily it can pierce
-armour. The chart below shows the reduction to the enemy’s
-armour saving throw for different Strength weapons.
-Strength Save modifier
-1-3 None
-4 -
-5 -
-6 -
-7 -
-8 -
-9+ -
-Some weapons are better at penetrating armour than their
-Strength value suggests (Elven bows, for example). This is
-covered in the entry for each particular weapon (see the
-Weapons & Armour section).
-Example: Dieter wears heavy armour and carries a shield.
-His armour save is 4+. He is hit by a crossbow (Strength 4)
-and therefore he will save on a D6 roll of 5+ (i.e., 4+–
-1=5+).
+armor. The chart below shows the reduction to the enemy’s
+armor saving throw for different Strength weapons.
+
+| Strength | Save modifier |
+| 1- 3 | None |
+| 4 | - |
+| 5 | - |
+| 6 | - |
+| 7 | - |
+| 8 | - |
+| 9+ | - |
+
+Some weapons are better at penetrating armor than their Strength value suggests (Elven bows, for example). This is covered in the entry for each particular weapon (see the Weapons & Armor section). 
+
+_Example: Dieter wears heavy armor and carries a shield. His armor save is 4+. He is hit by a crossbow (Strength 4) and therefore he will save on a D6 roll of 5+ (i.e., 4+ 1 = 5+). _
+
 #### Injuries
 
-Most warriors have a Wounds characteristic of 1, but some
-have a value of 2 or more. If the target has more than 1
-wound then deduct 1 from his total each time he suffers a
-wound. Make a note on the roster sheet. So long as the model
-has at least 1 wound remaining he may continue to fight.
-As soon as a fighter’s Wounds are reduced to zero, roll to
-determine the extent of his injuries. The player who inflicted
-the wound rolls a D6 for the wound that reduced the model to
-zero wounds and for every wound the model receives after
-that. If a model suffers several wounds in one turn, roll once
-for each of them and apply the highest result.
-1-2 Knocked down: The force of the blow knocks the
-warrior down. Place the model face up to show that he
-has been knocked down.
-3-4 Stunned: The target falls to the ground where he lies
-wounded and barely conscious. Turn the model face
-down to show that he has been stunned.
-5-6 Out of action: The target has been badly hurt and falls
-to the ground unconscious. He takes no further part in
-the game and is immediately removed from the battle.
+Most warriors have a Wounds characteristic of 1, but some have a value of 2 or more. If the target has more than 1 wound then deduct 1 from his total each time he suffers a wound. Make a note on the roster sheet. So long as the model has at least 1 wound remaining he may continue to fight. As soon as a fighter’s Wounds are reduced to zero, roll to determine the extent of his injuries. The player who inflicted the wound rolls a D6 for the wound that reduced the model to zero wounds and for every wound the model receives after that. If a model suffers several wounds in one turn, roll once for each of them and apply the highest result. 
+
+| 1-2 | Knocked down | The force of the blow knocks the warrior down. Place the model face up to show that he has been knocked down. |
+| 3-4 | Stunned | The target falls to the ground where he lies wounded and barely conscious. Turn the model face down to show that he has been stunned. |
+| 5-6 | Out of action | The target has been badly hurt and falls to the ground unconscious. He takes no further part in the game and is immediately removed from the battle. |
+
 #### Knocked down
 
 A fighter who has been knocked down falls to the ground
@@ -897,7 +833,7 @@ Models fighting in hand-to-hand combat do not shoot in the
 shooting phase. They are far too busy fighting for their lives.
 Any very close range shots they are able to make using
 pistols are treated like close combat weapon attacks (see the
-Weapons & Armour section).
+Weapons & Armor section).
 
 #### Who strikes first
 
@@ -958,7 +894,7 @@ each weapon separately.
 Unlike hits from shooting, the Strength of the attacker is used
 to determine wounds, rather than that of the weapon itself.
 However, some weapons confer a bonus on the attacker’s
-Strength (see the Weapons & Armour section for full details).
+Strength (see the Weapons & Armor section for full details).
 
 #### Roll to wound
 
@@ -971,28 +907,28 @@ To determine whether the blow has caused a wound compare
 the Strength of the weapon with the Toughness of the target.
 You will find a complete description of the various weapons
 together with their Strength values and special rules in the
-Weapons & Armour section.
+Weapons & Armor section.
 
 Follow the same procedure for wounding and causing critical
 hits as in the Shooting section. Note that a dash (–) means
 that there is no chance of wounding the target.
 
-#### Armour
+#### Armor
 
 Combatants that are wounded have the chance to avoid
-damage if they are wearing armour or carrying shields. This
+damage if they are wearing armor or carrying shields. This
 is exactly the same as described for shooting, and the same
 rules apply.
 For each wound suffered the player rolls a D6. If he rolls
-greater than or equal to the armour save of his fighter then
-that wound has been absorbed or deflected by the armour.
+greater than or equal to the armor save of his fighter then
+that wound has been absorbed or deflected by the armor.
 
-#### Armour save modifiers
+#### Armor save modifiers
 
-Some models are so powerful that armour provides less
+Some models are so powerful that armor provides less
 protection against them.
 
-The higher a creature’s Strength the more easily it can pierce armour. The following chart shows the reduction in the enemy’s armour saving throw caused by the attacker’s Strength.
+The higher a creature’s Strength the more easily it can pierce armor. The following chart shows the reduction in the enemy’s armor saving throw caused by the attacker’s Strength.
 
 | Strength | Save modifier |
 | 1-3 | None |
@@ -1005,13 +941,13 @@ The higher a creature’s Strength the more easily it can pierce armour. The fol
 
 Some weapons also confer a bonus to the user’s Strength,
 making it more likely that any hits will pierce the opponent’s
-armour. These bonuses are given in the Weapons & Armour
+armor. These bonuses are given in the Weapons & Armor
 section.
 
 #### Parry
 
 Bucklers are small shields which offer no increase to the
-armour saving throw, but allow you to parry attacks. Swords
+armor saving throw, but allow you to parry attacks. Swords
 are also used to parry enemy attacks.
 
 When an opponent scores a hit, warriors equipped with
@@ -1046,7 +982,7 @@ If an enemy is fighting a warrior who is knocked down, he
 may attack him to put him out of his misery. All attacks
 against a warrior who is knocked down hit automatically. If
 any of the attacks wound the knocked down model and he
-fails his armour save, he is automatically taken out of action
+fails his armor save, he is automatically taken out of action
 as explained previously. A knocked down model may not
 parry.
 
