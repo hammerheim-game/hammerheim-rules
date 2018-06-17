@@ -1,20 +1,7 @@
-# Mordheim
+# Warbands
 
 ## Contents
 
-Rules
-Introduction ........................................................................ pg 1
-Characteristics .................................................................... pg 3
-The Turn ............................................................................. pg 4
-Movement ........................................................................... pg 5
-Shooting .............................................................................. pg 8
-Close Combat ..................................................................... pg 11
-Leadership & Psychology ................................................... pg 14
-Alignment ........................................................................... pg 15
-Weapons & Armour ............................................................ pg 16
-Miscellaneous equipment ................................................... pg 36
-Magic .................................................................................. pg 45
-Warbands
 Starting a Warband ............................................................. pg 69
 Mercenaries ........................................................................ pg 71
 Averlander .......................................................................... pg 74
@@ -37,8 +24,6 @@ Lahmian Warband .............................................................. p
 Tilean Warband .................................................................. pg 131
 Outlaw Warband ................................................................. pg 134
 Pit Fighter Warband ............................................................ pg 136
-
-```
 Norse Warband ................................................................... pg 139
 Dark Elf Warband ............................................................... pg 142
 Cult of Khaine .................................................................... pg 145
@@ -60,5850 +45,7 @@ Trading ........................................................................
 Hired Swords ...................................................................... pg 229
 Dramatis Personae .............................................................. pg 253
 Beasts, Monsters & Townsfolk ........................................... pg 266
-Optional Rules
-Optional rules ..................................................................... pg 289
-Mounted Warriors ............................................................... pg 291
-Vehicles of the Empire ....................................................... pg 293
-Blackpowder weapons ........................................................ pg 297
-Fighting individual battles .................................................. pg 297
-Night Fights ........................................................................ pg 298
-The Catacombs ................................................................... pg 298
-Sewer Fighting .................................................................... pg 300
-Fire ..................................................................................... pg 302
-Random Happenings ........................................................... pg 303
-Power in the Stones ............................................................ pg 308
-Encampments ..................................................................... pg 312
-```
-## Introduction
 
-Welcome to Mordheim, City of the Damned! Mordheim is a
-game of combat that takes place during the short but intense
-period when scores of warbands fought hundreds of bitter
-skirmishes throughout the city.
-This book contains all the information you will need in order
-to play Mordheim, as well as background information, advice
-on starting a warband, running a campaign, collecting and
-painting your own warband, etc.
-
-## Tabletop conflict
-
-In Mordheim, the opposing factions – warbands – are
-represented by models, assembled and painted by you, each
-representing a single warrior.
-Your tabletop becomes part of the City of the Damned: the
-scene of the action, with ruined buildings, overhangs and
-walkways where the battles take place.
-The aim of the game is to outfight your opponent, which
-requires a mixture of skill and luck. You’ll soon learn how to
-arm and equip your warband effectively, and how to exploit
-the ruins and other terrain to your best advantage.
-You’ll probably want to expand your basic warband as you
-and they gain experience. This is easy as there are lots of
-models available for the warbands and new miniatures will be
-coming out all the time. With these you can expand your
-
-```
-warband, equip your warriors with different weapons and
-armour, and hire mercenaries to join them.
-```
-## Building a warband
-
-```
-At first you will probably want to play individual games (see
-the Warbands section for more details) rather than a
-campaign. This will allow you to learn the rules, and also
-give you the opportunity to decide which type of warband is
-most suited to your particular style of play.
-If you are playing in a campaign, you will have the chance to
-expand and improve your warband after each game. By
-winning battles your warband will gain riches and wyrdstone,
-discover magical artefacts and may also have the opportunity
-to recruit mercenaries.
-In a campaign, every time your warband fights, its warriors
-gain in skill and experience. Raw recruits quickly progress to
-become fully fledged warriors, and your Heroes will learn
-new skills which will make them even better in combat.
-Each warband has its own objective and motivation for
-fighting in Mordheim: be it riches or political influence.
-Through countless battles and street skirmishes you can try to
-achieve your ambition and emerge victorious from the city!
-```
-Assembled By Paul H Page 1 (knights_templar@hotmail.com)
-
-
-#### New players
-
-If you’re new to Games Workshop games you’ll be reassured
-to know that finding other players is not normally a problem
-
-- you’ll be surprised how many there are!
-There may be a Games Workshop store near to you where
-you can buy models, paint and games supplements. However
-Games Workshop stores are not just shops, they are hobby
-centres, where the staff will happily help you to learn the
-rules, show you how to paint, and suggest ways to develop
-your warband.
-
-#### Warhammer players
-
-If you already play Warhammer, the basic rules of Mordheim
-will be familiar to you. Remember though, Warhammer is
-designed for fighting battles between entire armies, whilst
-Mordheim represents individual action between a dozen or so
-warriors.
-As a result, some of the rules developed for mass combat in
-Warhammer do not apply to Mordheim, such as unit Break
-tests and rank bonuses. On the other hand, there are new rules
-for wounded warriors, climbing, parrying and other aspects
-of individual combat.
-
-#### What you will need
-
-As well as this book, you will need the following items to
-play Mordheim.
-
-#### Citadel models
-
-You will need enough miniatures of the appropriate race/type
-to represent the warriors in your warband. It is a good idea to
-work out your warband on paper first and then purchase the
-miniatures that you require. Almost all possible weapon
-variations can be added using the Mordheim equipment
-spurs.
-As you will see in the Warbands section, each warband fights
-in a particular way – some are expert bowmen while others
-are better in hand-to-hand combat. When choosing which
-warband you want to lead you could choose one that reflects
-your preferred playing style, or you could read the
-background section and choose one that really captures your
-imagination. A good way of picking a warband is simply to
-pick the one with the models you like the best.
-
-#### Playing surface
-
-You will also need something to play your battles on. Any
-firm, level surface is best, such as a tabletop or an area of
-floor – most kitchen tables will do. It’s a good idea to use an
-old sheet or blanket to protect the table from scratches. Some
-players make a special gaming board from chipboard or other
-similar material (divided into two or more pieces for ease of
-storage) which they can use on top of a table to extend the
-playing area. Whatever you use, you will find that a square
-area approximately 4 x 4' is about right for most battles.
-
-#### Terrain
-
-The bitter struggles of a Mordheim battle take place in
-labyrinthine streets, ruined buildings and on derelict
-walkways. Pre-cut card and plastic scenery is available from
-Games Workshop, but many gamers enjoy making their own.
-
-```
-As a rule, a table packed with scenery will lead to closer and
-more exciting games.
-Throughout the book you will find photographs, drawings
-and descriptions of Mordheim. These should give you plenty
-of ideas for producing your own scenery. Games Workshop’s
-book ‘How to Make Wargames Terrain’ is also a good source
-of ideas and practical hints on all asp
-```
-#### Counters
-
-```
-Counters can help you keep track of things on the tabletop.
-You can always keep notes about who is hidden, carrying
-treasure, etc, but counters are a convenient memory jogger
-and speed the game up.
-```
-```
-Hidden Counter Wyrdstone Counter
-Above are some examples of counters you could photocopy
-and stick onto thin card if you wish.
-```
-#### Dice
-
-```
-All dice rolls use a standard six-sided dice (usually shortened
-to D6). Sometimes you will be asked to modify the result of
-the dice roll. This is noted as D6 plus or minus a number,
-such as D6+1 or D6-2. Roll the dice and add or subtract the
-number indicated to get the final result. You may have to roll
-a number of dice in one go. For example, 2D6 means roll two
-dice and add the scores together. You may also come across
-the term D3. As there is no such thing as a three-sided dice,
-use the following method for determining a score between 1
-and 3. Roll a D6 and halve the score, rounding up: 1 or 2
-equals 1, 3 or 4 equals 2 and 5 or 6 equals 3. If you are given
-the opportunity to re-roll a dice roll, you must accept the
-second score, even if it’s worse than the original.
-Artillery Dice: The Artillery Dice is one of the more
-Specialise dice used in Games Workshop Games; the dice is
-a standard six-sided dice but numbers 2, 4, 6, 8 & 10, and the
-final side is marked with misfire. A standard six-sided dice
-can be used in places of an Artillery Dice, just double the
-face value of the dice, and a Six would count as the Misfire.
-Scatter Dice: this is another more Specialise dice used in
-Games Workshop Games; this is a standard six-sided dice
-that has no numbers but has Arrows and a hit marker. A
-standard six-sided dice can be used in places of a Scatter
-Dice, clockwise, the top of the Dice = 1, right side = 2,
-Bottom = 3, left side = 4 and a 5 or 6 means that the shot was
-on target and did not move.
-```
-#### Tape measure
-
-```
-For measuring ranges you will need a tape measure marked
-in inches, or a couple of plastic range rulers.
-```
-#### Other equipment
-
-```
-You will also need pens and paper to record details of your
-warriors’ weapons and other details. You can use roster
-sheets for this, and blank ones are included at the back of this
-book. We recommend you photocopy them rather than use
-the originals.
-```
-(knights_templar@hotmail.com) Page 2 Assembled by Paul H
-
-
-### Characteristics
-
-In Mordheim the warriors each have different abilities, some
-being better at certain actions, for example, fighting, shooting
-or climbing, than they are at others. This variety in each
-warrior is represented in the form of characteristics and
-skills. Right now don’t worry about skills – these come later
-with practice and battle experience. For now we just need to
-consider a warrior’s characteristics.
-Each model is defined by a set of characteristics: Movement,
-Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds,
-Initiative, Attacks and Leadership. Each characteristic is
-assigned a value of (usually) between 1 and 10. The higher
-the value your model has for any characteristic the better –
-for example, a model with a Strength of 6 is stronger than a
-model that has a Strength of 2.
-MOVEMENT (M): A model’s Movement rate shows how
-far the model can move in a turn, under normal conditions.
-For example, a typical Human has a move of 4", while a
-fleet-footed nimble Skaven has a move of 5".
-WEAPON SKILL (WS): Weapon Skill is a measure of
-close combat ability (i.e., how good the warrior is at hand-to-
-hand fighting). A deadly swordsman or a crazed berserker
-would have a high value compared to a lowly acolyte, for
-example. The higher the WS, the more likely your warrior is
-to hit his opponent.
-BALLISTIC SKILL (BS): This shows how good a shot the
-individual is. When you shoot a bow or fire a pistol, the
-chance of hitting a target depends upon your model’s
-Ballistic Skill. A normal Human has a BS of 3, though an
-experienced marksman might have a BS of 4, 5 or even
-higher.
-STRENGTH (S): Strength indicates how strong a warrior is!
-It is especially important for hand-to-hand combat, because
-the stronger you are the harder you can hit. A Strength value
-of 3 is about average.
-TOUGHNESS (T): This is a measure of how easily an
-individual can withstand a hit from a weapon or a blow from
-a club or fist. The tougher you are, the harder you are to
-wound or kill. An average Toughness value is 3, though a
-gnarled old warrior might have a Toughness of 4!
-WOUNDS (W): A model’s Wounds value shows how many
-times the model can be wounded before it collapses, is killed
-or incapacitated. Most individuals have only 1 Wound but
-veteran warriors or large creatures such as Ogres might have
-more.
-INITIATIVE (I): The Initiative value indicates how fast and
-nimble the warrior is. It determines the attacking order in
-hand-to-hand combat, and is particularly important when the
-model is climbing and moving amidst the ruins of Mordheim.
-ATTACKS (A): The Attacks value indicates how many
-blows the model can make in hand-to-hand combat. Most
-warriors have an Attacks value of 1, but powerful fighters
-may have more. The more Attacks you have, the greater the
-
-```
-chance you’ve got of beating your opponents into an
-unrecognisable pulp!
-LEADERSHIP (Ld): Leadership represents raw courage,
-self control and charisma. The higher the model’s Leadership
-value, the more likely he is to remain steadfast in combat
-while others run off or are slain. For example, a cowardly
-Skaven may have a Leadership of 5, while a cool, calm Elf
-could have a Leadership of 8 or higher.
-```
-#### Zero level characteristics
-
-```
-Some creatures in Mordheim have been given a ‘0’ for
-certain characteristics which means that they have no ability
-in that field whatsoever. This usually applies to creatures
-unable to use missile weapons (who would have a BS of 0)
-but it might equally apply to other characteristics as well.
-If a model has a WS of 0 then it cannot defend itself in hand-
-to-hand combat, and any blows struck against it will
-automatically hit.
-```
-#### Characteristic profiles
-
-```
-A model’s characteristic values are written in the form of a
-chart called a characteristics profile (or just profile).
-Profile M WS BS S T W I A Ld
-Dieter Stahl 4 3 3 3 3 1 3 1 7
-The example above is a typical profile for a Human warrior.
-As you fight in more games against other players, your
-warriors will get better and their characteristics may increase.
-All these details are recorded using the Warband roster sheets
-provided at the back of this book. This is explained properly
-later on. For now it is enough to know what each
-characteristic is for and how their values vary.
-```
-#### Characteristic tests
-
-```
-Often in the game a model will be required to take a test on
-one of his own characteristics. In order to pass this test, the
-model has to roll a D6 and obtain a result equal to or lower
-than the value of the characteristic involved. Note that if you
-roll a 6, you automatically fail the test regardless of the
-model’s characteristic value.
-For example: Dieter Stahl is jumping down from a wall that
-is 3" high and has to take an Initiative test. He has an
-Initiative value of 3 on his characteristic profile and therefore
-will be successful if he rolls a 1, 2 or 3 on a D6. If he rolls a
-4, 5 or 6 he will fail the test and fall down, suffering all the
-painful consequences!
-```
-#### Leadership tests
-
-```
-Tests against the Leadership characteristic are done in a
-slightly different way. In the case of a Leadership test, you
-should roll two dice and add the two scores together. If the
-result is equal to or less than the model’s Leadership
-characteristic, the test has been passed.
-For example: Dieter’s Leadership is 7, so to pass a
-Leadership test he must roll 7 or less on 2D6.
-```
-Assembled By Paul H Page 3 (knights_templar@hotmail.com)
-
-
-### The Turn
-
-In Mordheim you are in a charge of a warband and your
-opponent is in charge of another.
-The warriors and scenery in the game are set up on the
-tabletop in a way that is appropriate for the encounter you are
-fighting. Do not worry about this for now as these things will
-be explained in full in the Scenarios section.
-To play, one side takes a turn, then the other side, then the
-original side and so on, much like in a game of draughts or
-chess. When it is your turn, you may move all your models,
-shoot with any warriors able to do so, and fight in hand-to-
-hand combat. Once your turn is complete, it is your
-opponent’s turn to move, shoot and fight.
-
-#### Phases
-
-To keep track of who is doing what and when, each turn is
-split into four phases. This is called the Turn sequence.
-
-Turn sequence
-1 Recovery: During the recovery phase you may attempt to
-rally individuals who have lost their nerve and recover
-models that are knocked down or stunned.
-2 Movement: During the movement phase you may move the
-warriors of your warband according to the rules given in the
-Movement section.
-
-```
-3 Shooting: In the shooting phase you may shoot with any
-appropriate weapons as described in the rules for shooting.
-4 Hand-to-hand combat: During the hand-to-hand combat
-phase all models in hand-to-hand combat may fight. Note that
-both sides fight in the hand-to-hand combat phase, regardless
-of whose turn it is.
-```
-#### Recovery phase
-
-```
-During the recovery phase you may attempt to rally any of
-your models who have lost their nerve (see the Recovery
-Phase rules). To take a Rally test, roll 2D6. If the score is
-equal to or less than the model’s Leadership value the model
-stops fleeing and has rallied; turn it to face in any direction
-you wish. The model cannot move or shoot for the rest of the
-turn, but models able to do so can cast spells. If the test is
-failed, the model will continue to flee towards the closest
-table edge.
-Note that a model cannot rally if the closest model to him is
-an enemy model (fleeing, stunned, knocked down and hidden
-models are not taken into consideration for this).
-During the recovery phase, warriors in your warband who
-have been stunned become knocked down instead and
-warriors who have been knocked down may stand up (see the
-Injuries section).
-```
-(knights_templar@hotmail.com) Page 4 Assembled by Paul H
-
-
-### Movement
-
-During the movement phase models are moved in the
-following order:
-
-1. Charge!: If you want a model in your warband to charge
-at an enemy model and attack it in hand-to-hand combat then
-you must do this at the start of the movement phase before
-moving any of your other models. When you charge a model,
-declare to your opponent that you are doing so and indicate
-which of his models it is attacking.
-2. Compulsory Moves: Sometimes a model is forced to
-move in a certain way and this is called a compulsory move.
-For example, a fighter whose nerve breaks must run away
-from his enemies and take cover.
-Make all of your models’ compulsory moves before finishing
-any remaining movement.
-3. Remaining Moves: Once you have moved your chargers
-and made any compulsory moves, you may move the rest of
-your warriors as you see fit.
-
-#### Moving
-
-During their movement phase, models can move up to
-movement rate their in any direction. They may move
-(including running and charging) up and down ladders and
-stairs, and over low obstacles such as barrels, boxes, etc.
-In normal circumstances models don’t have to move their full
-distance, or at all if you do not want them to. All exceptions
-are explained later and invariably involve either charging or
-compulsory moves.
-
-#### Running
-
-The normal Movement value of models represents a warrior
-moving at a fairly rapid rate, but allows time for him to aim
-and shoot a weapon and generally observe what is going on
-around him. If you wish, a model may move much quicker
-than this – he can run! A running warrior can move at double
-speed (for example, 8" rather than 4"). Note that running is
-not the same as charging as it does not allow your model to
-engage the enemy in hand-to-hand combat.
-A model can only run if there are no enemy models within 8"
-of it at the start of the turn (fleeing, stunned, knocked down
-and hidden models do not count). Check this distance after
-any charges have been declared. If there are any enemies
-within 8" at the start of the turn, the model will prepare to
-fight instead and so is unable to run. The running model can
-move closer than 8" to an enemy as it moves.
-Any model that runs loses its chance to shoot during that
-turn. He is concentrating on running and is not prepared to
-fight, having sheathed or shouldered his weapons. You
-should declare that models are running as they move, as this
-will remind both players that the model is unable to shoot
-that turn. Running models can cast spells as normal.
-
-#### Charge!
-
-If you want a model to engage the enemy in hand-to-hand
-combat then you must make a special move called a charge.
-Without measuring the distance, declare that your model is
-charging and indicate which enemy model he is going to
-attack. You can charge any opposing model if you can draw
-an unobstructed line from your model to the target. If your
-warrior wants to charge an enemy model within 4" that he
-
-```
-can’t see (e.g., because it is behind a corner) but has not been
-declared as hidden, he must pass an Initiative test to detect it.
-If he fails the roll, your model may not charge this turn, but
-may move his normal distance, shoot and cast spells.
-A charge is like a running move, performed at double the
-Movement rate, but ends with the attacker moving by the
-most direct route into base-to-base contact with the enemy
-model. Once their bases are touching they are engaged in
-hand-to-hand combat. Models are also considered to be in
-hand-to-hand combat even when separated by a low wall or
-obstacle, where it is impossible for the bases to touch
-physically because the obstacle is in the way.
-```
-```
-If an unengaged (i.e., not in hand-to-hand combat) enemy
-model lies within 2" of the charge route, that model may
-choose to intercept the charger if he wishes. This
-‘interception area’ is shown in the diagram above. Only one
-enemy model may attempt to intercept each charger. If the
-intercepting warrior would normally require a Fear test to
-engage the charger then he must pass one in order to be
-allowed to intercept. Failure means he will not move. If the
-intercepting warrior causes fear then move the models into
-contact and then take a Fear test for the original charger
-(assuming he would normally do so) as if he was the one
-being charged. Regardless of the results of this test it is still
-the original charger who counts as charging in the subsequent
-round of combat, not the intercepting warrior.
-Sometimes a charging warrior may not reach the enemy
-because you have miscalculated the distance. If this happens
-move your warrior his normal move distance towards the
-enemy. This is called a failed charge. The model cannot shoot
-in the same turn in which he failed a charge, but he can cast
-spells as normal.
-Models cannot be moved into hand-to-hand combat except by
-charging – any move that brings a warrior into hand-to-hand
-```
-Assembled By Paul H Page 5 (knights_templar@hotmail.com)
-
-
-combat is a charge by definition. A model that charges will
-‘strike first’ in the first round of the ensuing combat.
-
-#### Charging more than one opponent
-
-If you can move your warrior into base contact with more
-than one enemy model with its charge move, it can charge
-them both. This might be inadvisable as it’ll then be fighting
-two enemies at once!
-
-#### Hiding
-
-The Hiding rule represents warriors concealing themselves in
-a way that our unmoving and dramatically posed models
-cannot. A hiding warrior keeps as still as possible, just
-peeking out of cover.
-A model can hide if he ends his move behind a low wall, a
-column or in a similar position where he could reasonably
-conceal himself. The player must declare that the warrior is
-hiding and place a Hidden counter beside the model for it to
-count as being hidden.
-A model that runs, flees, is stunned or charges cannot hide
-that turn. His sudden burst of speed does not give him time to
-hide.
-A model may stay hidden over several turns, so long as he
-stays behind a wall or similar feature. He may even move
-around so long as he stays hidden while doing so. If an
-enemy moves so that he can see the hidden warrior, the
-model is no longer hidden and the counter is removed. When
-hidden, a warrior cannot be seen, shot at or charged.
-While hiding, a model cannot shoot or cast spells without
-giving away its position. If a hidden model shoots, or moves
-so that he can be seen, he is no longer hidden and can be shot
-at as normal.
-A model may not hide if he is too close to an enemy model –
-he will be seen or heard no matter how well concealed.
-Enemy warriors will always see, hear or otherwise detect
-hidden foes within their Initiative value in inches. So a
-warrior whose Initiative value is 3 will automatically spot all
-hidden enemies within 3".
-
-#### Terrain
-
-The ruined city of Mordheim is a dark and dangerous place,
-where tumbled down towers and blasted houses form a vast
-maze of streets and alleyways.
-OPEN GROUND: The tabletop surface, floors of buildings,
-connecting overhangs, ladders and ropes are all considered to
-be open ground and will not affect movement even if the
-model is charging. It can also go through doors and hatches
-without slowing down.
-DIFFICULT GROUND: Difficult ground includes steep or
-treacherous slopes, bushes and the angled roofs of buildings.
-Models move at half speed over difficult terrain.
-VERY DIFFICULT GROUND: This is really dangerous
-terrain, such as narrow crawl holes through the rubble.
-Models may move at a quarter rate, so if the model moves 4"
-over open ground it can only move 1" over very difficult
-ground.
-WALLS AND BARRIERS: Walls, hedges and other low
-obstacles form barriers that you can either go around or leap
-over. A model can leap over a barrier that is less than 1" high.
-This does not affect its movement in any way.
-
-#### Climbing
-
-```
-Often the ruined buildings of Mordheim do not have stairs or
-ladders, so your warriors will have to climb to reach the
-upper floors of buildings.
-Any model (except animals!) can climb up or down fences,
-walls, etc. He must be touching what he wants to climb at the
-start of his movement phase. He may climb up to his total
-Movement in a single movement phase (but cannot run while
-he is climbing). Any remaining movement can be used as
-normal. If the height is more than the model’s normal move,
-he cannot climb the wall.
-To climb, a model must take an Initiative test. If he fails it
-whilst climbing up, he cannot move that turn. If he fails it
-while climbing down, he falls from where he started his
-descent (see the Falling section).
-```
-#### Jumping down
-
-```
-Your warrior may jump down from high places (up to a
-maximum height of 6") such as walkways and balconies at
-any time during his movement phase. Take an Initiative test
-for every full 2" he jumps down. If he fails any of the tests,
-the model falls from the point where he jumped, takes
-damage (see Falling) and may not move any more during the
-movement phase. If successful, the model can continue his
-movement as normal (jumping down does not use up any of
-the model’s Movement allowance).
-```
-#### Diving charge
-
-```
-You may charge any enemy troops that are below a balcony
-or overhang, etc, that your model is on. If an enemy model is
-within 2" of the place where your warrior lands, he may make
-a diving charge against it. Take an Initiative test for each full
-2" of height your model jumped down from, up to a
-maximum of 6", like a normal jump. If he fails any of them,
-your model has fallen and suffers damage, may not move any
-more during the movement phase and cannot charge the
-enemy. If he succeeds, the model gains a +1 Strength bonus
-and +1 to hit bonus but only during the following hand-to-
-hand combat phase.
-```
-#### Jumping over gaps
-
-```
-Models may jump over gaps (up to a maximum of 3") and
-streets, (e.g., from the roof of a building to another). Deduct
-the distance jumped from the model’s movement but
-remember that you cannot measure the distance before
-jumping. If your model does not have enough movement to
-jump the distance, he automatically falls. If your model is
-able to cover the distance, he must pass an Initiative test or
-fall. A model may jump over a gap and still fire a missile
-weapon if it is not running. It may also jump as part of its
-charge or running move.
-```
-(knights_templar@hotmail.com) Page 6 Assembled by Paul H
-
-
-Assembled By Paul H Page 7 (knights_templar@hotmail.com)
-
-#### Warriors knocked down or stunned
-
-If a warrior is knocked down or stunned (see the Shooting
-section for details) within 1" of the edge of a roof or building,
-there is a chance that it will slip and fall off. Take an
-Initiative test. If the test is failed, the model falls over the
-edge to the ground and takes damage as detailed below.
-
-#### Falling
-
-A model that falls takes D3 hits at a Strength equal to the
-height in inches that it fell (e.g., if the model fell 4", it would
-take D3 hits at Strength 4). No armour saves apply. Falling
-will not cause critical hits (see the Hand-to-Hand Combat
-section for the Critical Hits rules). A model that falls may not
-move any further or hide during that turn, even if it is not
-hurt.
-
-#### Swimming
-
-```
-Players should establish which way the river is flowing at the
-start of the game. To represent how models interact with
-water these basic rules apply:
-```
-1. All rivers count as difficult (or worse) terrain for all
-    models except those considered as aquatic.
-2. Models swimming with the current will double their
-    base move.
-3. Models swimming against the current of a slow
-    moving river may only move a quarter of their base
-    move, but you may not swim against the current of a
-    fast moving river.
-4. Aquatic models suffer no reduction of their base move
-    when swimming against the current of a slow moving
-    river but may not swim against the current of a fast
-    moving river.
-5. Models wearing armour may not attempt to move
-    through any water deeper than shallow. Shields and
-    bucklers do not count for this as they are assumed to
-    be strapped on the backs.
-Aquatic models in water, either swamp, streams or rivers can
-elect to be Hidden at the discretion of the player. Models
-cannot move upstream in fast moving rivers without floating
-transportation, such as a boat or canoe.
-
-
-### Shooting
-
-Warriors that fight in the ruins of Mordheim are usually
-armed to the teeth! Individual warriors often have several
-different weapons such as swords, knives, bows and even
-blackpowder weapons.
-During your warband’s shooting phase each of your warriors
-may shoot once with one of his weapons. This means that he
-can fire a bow, shoot with a crossbow, or hurl a throwing
-knife, for example.
-Work through the models one at a time. Pick which fighter is
-going to shoot, nominate his target, work out whether he hits
-the enemy and, if he does, any wounds or injuries that are
-caused. Then continue with the next shooter. You can take
-shots in any order you wish. Be sure to remember or note
-down which models have already shot.
-
-#### Who can shoot
-
-Each model can shoot once in the shooting phase, so long as
-he can see a target and assuming he has a suitable weapon.
-He may not fire in the following circumstances: if he is
-engaged in hand-to-hand combat, has run or failed a charge in
-the movement phase, has rallied this turn or is stunned or
-knocked down.
-To shoot at a target, a model must be able to see it, and the
-only way to check this is to stoop over the tabletop for a
-model’s eye view. Models can see all around themselves (i.e.,
-360°), and they may be turned freely to face in any direction
-before firing. Note that turning on the spot does not count as
-moving.
-
-#### Closest target
-
-You must shoot at the closest enemy, as he represents the
-most immediate threat and therefore the most obvious target.
-However, you may shoot at a more distant target if it is easier
-to hit or if closer models are stunned or knocked down (see
-diagram on next page). For example, a closer target may be
-hard to hit because it is in cover, whilst a more distant target
-might be in the open and therefore an easier shot. You may
-always choose to shoot at a Large Target if you can see it,
-whether it is in cover or not and even if it is not the closest
-target.
-You can shoot at models that are fleeing, knocked down or
-stunned, but you can choose to ignore them, because they do
-not represent an immediate threat. It is better to shoot the
-closest standing enemy model instead.
-Note that you may not shoot at models that are engaged in
-hand-to-hand combat, as the risk of hitting your comrades is
-too great.
-
-#### Cover
-
-The many walls, ruined buildings and other masonry in
-Mordheim offer plenty of cover. If any portion of the target is
-hidden by a piece of scenery or another model, the shooting
-model will suffer a penalty as explained below.
-
-```
-Sometimes it will be obvious whether a target can be seen; at
-other times it will be more difficult, as buildings and other
-scenery are in the way. If the shooter can see only part of the
-target’s body, the target is in cover and the shooter suffers a -
-1 penalty on his To Hit roll.
-If a shot misses its target by 1, and that target claimed the -
-modifier for cover, then the shot strikes the cover instead.
-Normally this doesn’t matter, but in the case where a model
-is concealed behind another warrior, or when the cover is a
-powder keg, it might be extremely important!
-```
-(knights_templar@hotmail.com) Page 8 Assembled by Paul H
-
-
-#### Shooting from an elevated position
-
-```
-A model situated in an elevated position (i.e., anything that is
-more than 2" above the table surface, such as an upper floor
-of a building), may freely pick any target he can see and
-shoot at it. The exception to this rule is that if there are
-enemies in the same building and in line of sight of the
-shooter, he must shoot at these, as they present a more
-immediate threat.
-```
-#### Range
-
-```
-Once you have decided to shoot and have chosen a target you
-must measure to see whether the shot is within range. Each
-type of missile weapon has a maximum range, as described in
-the Weapons & Armour section of the book.
-Assuming that your target is within range your warrior can
-proceed with the shot. If the target is out of range then he has
-automatically missed this turn.
-```
-#### Hitting the target
-
-```
-To determine whether a shot hits its target, roll a D6. The
-dice score needed will depend upon how good a shot the
-shooter is (as indicated by his Ballistic Skill). The chart
-below shows the minimum D6 roll needed to score a hit.
-BS of shooter 1 2 3 4 5 6 7 8 9 10
-D6 roll needed 6 5 4 3 2 1 0 -1 -2 -
-```
-#### Hit modifiers
-
-It is easier to hit a target that is in the open compared to a
-target behind cover. Usually it is also easier to hit a target if it
-is close compared to one further away. These situations are
-represented by the following modifiers:
-HIT MODIFIERS
--1 Cover: If any part of the model is obscured by scenery or
-other models then it counts as being in cover.
--1 Long range: If you are shooting at a target that is more
-than half of your weapon’s maximum range away.
--1 Moving: If your model has moved at all shooting (other
-than standing up, or turning to face your target) during this
-turn.
-
-```
-+1 Large Target: If either the target model has the Large
-Target special rule (such as an Ogre), or whose main ‘body’
-is over 2" tall or wide (such as most buildings).
-```
-#### Roll to Wound
-
-```
-Once you have hit a target test to see if a wound is inflicted.
-A shot may fail to cause a wound because it hits part of the
-target’s equipment, just scratches the skin or causes some
-very minor injury which the warrior bravely (or stupidly)
-ignores. If you fail to cause a wound, the target is unharmed.
-To determine whether your shot has caused a wound,
-compare the Strength of the weapon with the Toughness of
-the target. You will find a complete description of the various
-```
-Assembled By Paul H Page 9 (knights_templar@hotmail.com)
-
-
-weapons together with their Strength values and special rules
-in the Weapons & Armour section.
-The chart above shows the D6 score required to turn a hit into
-a wound Note that a dash (–) means that there is no chance of
-wounding the target.
-Deploying your archers in the upper floors of buildings is a
-good idea. They will be in cover and can freely pick their
-targets.
-
-#### Critical Hits
-
-If you roll a 6 when rolling to wound (for hand-to-hand
-combat and shooting only) you will cause a critical hit. Roll a
-D6 and consult the Critical Hit chart below to determine the
-damage caused by the critical hit. You should also roll to see
-whether the target makes its armour save or suffers damage
-as normal.
-In addition, if the attacker normally needs 6s to wound his
-target, he cannot cause a critical hit. His opponent is simply
-too tough to suffer a serious injury at the hands of such a
-puny creature!
-Each warrior may only cause one critical hit in each hand-to-
-hand combat phase (see the Close Combat section), so if he
-has several attacks, the first 6 you roll to wound will cause a
-critical hit.
-CRITICAL HIT CHART
-1-2 Hits a vital part. The wound is doubled to 2 wounds.
-Roll any armour saves before doubling the wound.
-3-4 Hits an exposed spot. The wound is doubled to 2
-wounds. The attack ignores all armour saves.
-5-6 Master strike! The wound is doubled to 2 wounds. The
-attack ignores all armour saves. You gain +2 to any Injury
-rolls.
-If a critical hit causes more than 1 wound, and the weapon the
-attacking model is using normally causes several wounds,
-then use the one that causes the most damage.
-
-#### Armour
-
-Steel breastplates, chainmail, leather tunics, shields... all
-these and more are readily available in the forges of the
-villages surrounding Mordheim. That is if you are prepared to
-pay the price, since armour is very expensive.
-If a warrior wearing armour suffers a wound roll a D6. If the
-dice roll is sufficiently high the wounding hit has bounced off
-the armour and has not hurt the wearer at all. The dice score
-required varies according to the type of armour.
-The table below summarises the most common armour types
-and the D6 rolls required to make a save. Note that carrying a
-shield increases the save by +1. For example, a warrior in
-light armour with a shield will save on a roll of a 5 or 6. A
-warrior who has a shield but no armour will save on a roll of
-a 6.
-Minimum D6 score Armour required to save
-Light armour 6
-Heavy armour 5
-Gromril armour 4
-Shield adds +1 to the armour save
-
-#### Armour save modifiers
-
-Some weapons are better at penetrating armour than others. A
-shot from a short bow can be deflected relatively easily, but a
-shot from a crossbow penetrates armour much more
-effectively.
-
-```
-The higher a weapon’s Strength, the more easily it can pierce
-armour. The chart below shows the reduction to the enemy’s
-armour saving throw for different Strength weapons.
-Strength Save modifier
-1-3 None
-4 -
-5 -
-6 -
-7 -
-8 -
-9+ -
-Some weapons are better at penetrating armour than their
-Strength value suggests (Elven bows, for example). This is
-covered in the entry for each particular weapon (see the
-Weapons & Armour section).
-Example: Dieter wears heavy armour and carries a shield.
-His armour save is 4+. He is hit by a crossbow (Strength 4)
-and therefore he will save on a D6 roll of 5+ (i.e., 4+–
-1=5+).
-```
-#### Injuries
-
-```
-Most warriors have a Wounds characteristic of 1, but some
-have a value of 2 or more. If the target has more than 1
-wound then deduct 1 from his total each time he suffers a
-wound. Make a note on the roster sheet. So long as the model
-has at least 1 wound remaining he may continue to fight.
-As soon as a fighter’s Wounds are reduced to zero, roll to
-determine the extent of his injuries. The player who inflicted
-the wound rolls a D6 for the wound that reduced the model to
-zero wounds and for every wound the model receives after
-that. If a model suffers several wounds in one turn, roll once
-for each of them and apply the highest result.
-1-2 Knocked down: The force of the blow knocks the
-warrior down. Place the model face up to show that he
-has been knocked down.
-3-4 Stunned: The target falls to the ground where he lies
-wounded and barely conscious. Turn the model face
-down to show that he has been stunned.
-5-6 Out of action: The target has been badly hurt and falls
-to the ground unconscious. He takes no further part in
-the game and is immediately removed from the battle.
-```
-#### Knocked down
-
-```
-A fighter who has been knocked down falls to the ground
-either because of a jarring blow he has sustained, because he
-has slipped, or because he has thrown himself to the ground
-to avoid injury. Turn the model face up to show that he has
-been knocked down. Knocked down models may crawl 2"
-during the movement phase, but may not fight in hand-to-
-hand combat, shoot or cast spells. If he is in base-to-base
-contact with an enemy, a knocked down model can crawl 2"
-away only if the enemy is engaged in hand-to-hand combat
-with another opponent, otherwise he has to stay where he is.
-In combat he cannot strike back and the enemy will have a
-good chance of putting him out of action (see the Warriors
-Knocked Down section of the Close Combat rules on page
-13).
-A warrior who has been knocked down may stand up at the
-start of his next turn. In that turn he may move at half rate,
-shoot and cast spells, he cannot charge or run. If he is
-engaged in hand-to-hand combat, he may not move away and
-```
-(knights_templar@hotmail.com) Page 10 Assembled by Paul H
-
-
-Assembled By Paul H Page 11 (knights_templar@hotmail.com)
-
-will automatically strike last, irrespective of weapons or
-Initiative. After this turn the fighter moves and fights
-normally, even though he has zero wounds left. If the model
-takes any further wounds, then roll for injury once more,
-exactly as if the model had just sustained its last wound.
-
-#### Stunned
-
-When a warrior is stunned, he is either badly injured or
-temporarily knocked out. Turn the model face down to show
-that he has been stunned. A fighter who is stunned may do
-nothing at all. A player may turn the model face up in the
-
-```
-next recovery phase, and the warrior is then treated as
-knocked down.
-```
-#### Out of action
-
-```
-A warrior who is out of action is also out of the game.
-Remove the model from the tabletop. It’s impossible to tell at
-this point whether the warrior is alive or dead, but for game
-purposes it makes no difference at this stage. After the battle
-you can test to see whether he survives and if he sustains any
-serious lasting injuries as a result of his wounds (see page
-170 for details).
-```
-### Close Combat
-
-#### Who can fight
-
-Models whose bases are touching are engaged in hand-to-
-hand combat. This can only happen once a warrior has
-charged his enemy, as models are otherwise not allowed to
-move into contact.
-All close quarter fighting is worked out in the hand-to-hand
-combat phase. Regardless of whose turn it is, all models in
-hand-to-hand combat will fight. A warrior can fight against
-enemies to his side, front, or rear. In reality the fighters are
-constantly moving, dodging, and weaving as they struggle to
-kill their adversaries.
-Models fighting in hand-to-hand combat do not shoot in the
-shooting phase. They are far too busy fighting for their lives.
-Any very close range shots they are able to make using
-pistols are treated like close combat weapon attacks (see the
-Weapons & Armour section).
-
-#### Who strikes first
-
-Normally, models fight in order of descending Initiative with
-the highest striking first. If their Initiatives are equal, roll a
-dice to see who strikes first. If a model stood up in the
-Recovery phase of that turn, then he will strike last
-irrespective of any other circumstances.
-Sometimes a model will be allowed to ‘strike first’ for some
-reason. Most commonly this is because they charged in that
-turn, but some equipment, skills and spells produce the same
-effect. If only one model ‘strikes first’ then it does so and the
-remainder of the combatants strike in Initiative order as
-described above.
-If there are several models who are each entitled to ‘strike
-first’, then they determine the order of combat between
-themselves by Initiative, as described above. Once all those
-that were eligible to ‘strike first’ have fought, any other
-combatants fight in Initiative order.
-which models fight
-A model can fight if its base is touching the base of an enemy
-model. Even models attacked from the side or rear can fight.
-If a warrior is touching more than one enemy, he can choose
-which to attack. If he has more than 1 Attack, he can divide
-them in any way the player wishes, so long as he makes this
-clear before rolling to hit.
-
-#### Hitting the enemy
-
-```
-To determine whether hits are scored, roll a D6 for each
-model fighting. If a model has more than 1 Attack roll a D
-for each attack.
-The dice roll needed to score a hit on your enemy depends
-upon the Weapon Skills of the attacker and the foe. Compare
-the Weapon Skill of the attacker with that of his opponent
-and consult the To Hit chart below to find the minimum D
-score needed to hit.
-fighting with two weapons
-Some maniac warriors carry two weapons, one in each hand,
-so they can rain a flurry of blows on their enemies. A warrior
-armed with two one-handed weapons may make 1 extra
-Attack with the additional weapon. Note that this is added to
-the total of the warrior’s attacks after other modifiers, such as
-frenzy, have been applied. If he is armed with two different
-weapons (sword and dagger, for example), he will make a
-single attack with whichever weapon he chooses, and all
-others with the remaining weapon. Roll to hit and wound for
-each weapon separately.
-```
-#### Weapon modifiers
-
-```
-Unlike hits from shooting, the Strength of the attacker is used
-to determine wounds, rather than that of the weapon itself.
-However, some weapons confer a bonus on the attacker’s
-Strength (see the Weapons & Armour section for full details).
-```
-#### Roll to wound
-
-```
-Once your model has hit a target you must test to see whether
-a wound is inflicted. Sometimes a strike may fail to wound
-simply because it causes an insignificant injury or glances off
-the enemy’s equipment.
-To determine whether the blow has caused a wound compare
-the Strength of the weapon with the Toughness of the target.
-You will find a complete description of the various weapons
-together with their Strength values and special rules in the
-Weapons & Armour section.
-Follow the same procedure for wounding and causing critical
-hits as in the Shooting section. Note that a dash (–) means
-that there is no chance of wounding the target.
-```
-
-#### Armour
-
-Combatants that are wounded have the chance to avoid
-damage if they are wearing armour or carrying shields. This
-is exactly the same as described for shooting, and the same
-rules apply.
-For each wound suffered the player rolls a D6. If he rolls
-greater than or equal to the armour save of his fighter then
-that wound has been absorbed or deflected by the armour.
-
-#### Armour save modifiers
-
-Some models are so powerful that armour provides less
-protection against them.
-The higher a creature’s Strength the more easily it can pierce
-armour. The following chart shows the reduction in the
-
-```
-enemy’s armour saving throw caused by the attacker’s
-Strength.
-Strength Save modifier
-1-3 None
-4 -
-5 -
-6 -
-7 -
-8 -
-9+ -
-Some weapons also confer a bonus to the user’s Strength,
-making it more likely that any hits will pierce the opponent’s
-armour. These bonuses are given in the Weapons & Armour
-section.
-```
-(knights_templar@hotmail.com) Page 12 Assembled by Paul H
-
-
-#### Parry
-
-Bucklers are small shields which offer no increase to the
-armour saving throw, but allow you to parry attacks. Swords
-are also used to parry enemy attacks.
-When an opponent scores a hit, warriors equipped with
-bucklers or swords may try to parry the blow.
-Roll a D6. If the score is higher than the number your
-opponent rolled to hit, the buckler or sword has parried the
-strike. Note that it is therefore impossible to parry a blow
-which scored a 6 on the roll to hit.
-A buckler or sword may only parry one blow per hand-to-
-hand combat phase. A parried blow is ignored and has no
-effect. If your opponent scored several hits, you will have to
-try to beat the highest score (if the highest score is a 6, you
-automatically lose the chance of parrying that opponent’s
-attacks). If a model is fighting against several opponents, it
-may only parry the strike from the enemy who makes the first
-hit(s) (i.e., the attacking model with the highest Initiative). In
-the case of equal Initiative characteristics roll a dice to decide
-who strikes first.
-If your model is armed with a buckler and a sword, you may
-re-roll any failed parries once. A model armed with two
-swords can still only roll once, but may add +1 to the results.
-A model may not parry attacks made with twice (or more) his
-own basic Strength – they are simply too powerful to be
-stopped.
-
-#### Warriors knocked down
-
-If an enemy is fighting a warrior who is knocked down, he
-may attack him to put him out of his misery. All attacks
-against a warrior who is knocked down hit automatically. If
-any of the attacks wound the knocked down model and he
-fails his armour save, he is automatically taken out of action
-as explained previously. A knocked down model may not
-parry.
-
-#### Warriors stunned
-
-```
-A stunned warrior is at the mercy of his enemies. A stunned
-model is automatically taken out of action if an enemy can
-attack him in hand-to-hand combat.
-```
-#### Attacking stunned and knocked down
-
-#### warriors
-
-```
-Note that a model with multiple attacks may not stun / knock
-down and then automatically take a warrior out of action
-during the same hand-to-hand combat phase. The only way
-you can achieve this is to have more than one of your models
-attacking the same enemy. So, if the enemy is stunned /
-knocked down by the first warrior, he can be hit and put out of
-action by the next warrior to attack.
-If your model is engaged in close combat with an enemy who
-is still standing, he cannot attack any other models that are
-stunned or knocked down, since in reality they will not pose
-an immediate threat to him and their companions will try to
-protect them.
-```
-#### Moving from combat
-
-```
-Once models are engaged in hand-to-hand combat they
-cannot move away during their movement phase. They must
-fight until they are either taken out of action, until they take
-out their enemies, or until one or the other breaks and runs.
-The exception to this rule is that if all a model’s close combat
-opponents are knocked down or stunned, he may move away
-from the combat if you wish, and even charge other enemies
-within range.
-```
-#### Breaking from combat
-
-```
-A warrior who panics whilst fighting in hand-to-hand combat
-will break off and make a run for it as described in the
-Leadership & Psychology section.
-When a fighter breaks from combat he simply turns and runs
-off. His opponents automatically hit the warrior as he breaks,
-each inflicting 1 hit which is worked out immediately.
-Note that warriors cannot choose to leave a fight voluntarily.
-```
-Assembled By Paul H Page 13 (knights_templar@hotmail.com)
-
-
-### Leadership & psychology
-
-#### The rout test
-
-A player must make a Rout test at the start of his turn if a
-quarter (25%) or more of his warband is out of action. For
-example, in a warband that has twelve warriors a test is
-needed if three or more are out of action. Even warbands who
-are normally immune to psychology (such as Undead) must
-make Rout tests.
-If the Rout test is failed, the warband automatically loses the
-fight. The game ends immediately and surviving warriors
-retreat from the area. A failed Rout test is the most common
-way in which a fight ends.
-To take a Rout test roll 2D6. If the score is equal to or less
-than the warband leader’s Leadership, the player has passed
-the test and may continue to fight.
-If the warband’s leader is out of action or stunned, then the
-player may not use his Leadership to take the test. Instead,
-use the highest Leadership characteristic amongst any
-remaining fighters who are not stunned or out of action.
-
-#### Voluntary rout
-
-A player may choose to voluntarily Rout at the start of any of
-his own turns if he wishes, but only if he was already
-required to take a Rout test or if a quarter (25%) or more of
-his warband are out of action.
-
-#### Leaders
-
-A warrior within 6" of his leader may use his leader’s
-Leadership value when taking Leadership tests. This
-represents the leader’s ability to encourage his warriors and
-push them beyond normal limits.
-A leader cannot confer this bonus if he is knocked down,
-stunned or fleeing himself. The sight of your leader running
-for cover is obviously far from encouraging!
-
-#### All alone
-
-Being outnumbered and alone is a nerve-racking situation for
-any warrior.
-If your warrior is fighting alone against two or more
-opponents, and there are no friendly models within 6"
-(knocked down, stunned or fleeing friends do not count), he
-must make a test at the end of his combat phase. The test is
-taken against the model’s Leadership on 2D6. If the warrior
-scores equal to or under his Leadership his nerve holds. If the
-score is greater than his Leadership, the warrior breaks from
-combat and runs. Each one of his opponents may make one
-automatic hit against him as he turns to run. If the model
-survives, he runs 2D6" directly away from his enemies.
-At the start of each of his turns, the warrior must take another
-Leadership test. If he passes, he stops but can do nothing else
-during his own turn except cast spells. If he fails or is
-charged, he runs 2D6" towards the nearest table edge,
-avoiding any enemy models. If he reaches the table edge
-before he has managed to recover his nerves, he is removed
-from combat.
-If a warrior is charged while he is fleeing, the charger is
-moved into base contact as normal, but the fleeing warrior
-will then run a further 2D6" towards the table edge, before
-any blows can be struck.
-
-#### Fear
-
-```
-Fear is a natural reaction to huge or unnerving creatures. A
-model must take a Fear test (i.e., test against his Leadership)
-in the following situations. Note that creatures that cause fear
-can ignore these tests.
-a) If the model is charged by a warrior or a creature
-which causes fear.
-If a warrior is charged by an enemy that he fears then he must
-take a test to overcome that fear. Test when the charge is
-declared and is determined to be within range. If the test is
-passed the model may fight as normal. If it is failed, the
-model must roll 6s to score hits in that round of combat.
-b) If the model wishes to charge a fear causing enemy.
-If a warrior wishes to charge an enemy that it fears then it
-must take a test to overcome this. If it fails the model may not
-charge and must remain stationary for the turn. Treat this as a
-failed charge.
-```
-#### Frenzy
-
-```
-Some warriors can work themselves into a berserk state of
-fury, a whirlwind of destruction in which all concern for their
-own personal safety is ignored in favour of mindless
-violence. These warriors are described as being frenzied.
-Frenzied models must always charge if there are any enemy
-models within charge range (check after charges have been
-declared). The player has no choice in this matter – the
-warrior will automatically declare a charge.
-Frenzied warriors fight with double their Attacks
-characteristic in hand-to-hand combat. Warriors with 1
-Attack therefore have 2 Attacks, warriors with 2 Attacks have
-4, etc. If a warrior is carrying a weapon in each hand, he
-receives +1 Attack for this as normal. This extra Attack is not
-doubled.
-Once they are within charge range, frenzied warriors are
-immune to all other psychology, such as fear and don’t have
-to take these tests as long as they remain within charge range.
-If a frenzied model is knocked down or stunned, he is no
-longer frenzied. He continues to fight as normal for the rest of
-the battle.
-```
-#### Hatred
-
-```
-Hatred is a very powerful emotion, and during this era of
-strife and war, bitter rivalry is commonplace.
-Warriors who fight enemies they hate in hand-to-hand
-combat may re-roll any misses when they attack in the first
-turn of each hand-to-hand combat. This bonus applies only in
-the first turn of each combat and represents the warrior
-venting his pent-up hatred on his foe. After the initial round
-of hand-to-hand combat he loses some impetus and
-subsequently fights as normal for the rest of the combat.
-```
-(knights_templar@hotmail.com) Page 14 Assembled by Paul H
-
-
-#### Stupidity
-
-Many large and powerful creatures, as well as some of the
-more unhinged individuals in Mordheim, are unfortunately
-rather stupid.
-Models that are stupid test at the start of their turn to see if
-they overcome their stupidity. Make a test for each model
-affected by stupidity. If you pass the test by rolling their
-Leadership value or less on 2D6 then all is well – the
-creatures behave reasonably intelligently and the player may
-move and fight with them as normal.
-If the test is failed all is not well. Until the start of his next
-turn (when it takes a new Stupidity test) the model will not
-cast spells or fight in hand-to-hand combat (though his
-opponent will still have to roll to hit him as normal).
-
-```
-If a model who fails a Stupidity test is not in hand-to-hand
-combat, roll a D6.
-1-3 The warrior moves directly forward at half speed in a
-shambling manner. He will not charge an enemy (stop his
-movement 1" away from any enemy he would have come
-into contact with). He can fall down from the edge of a sheer
-drop (see the Falling rules) or hit an obstacle, in which case
-he stops. The model will not shoot this turn.
-4-6 The warrior stands inactive and drools a bit during this
-turn. He may do nothing else, as drooling is so demanding.
-Regardless of whether the test is passed or failed, the result
-applies until the start of the model’s following turn (when it
-takes a new Stupidity test).
-```
-### Alignment
-
-With so many warbands roaming in Mordheim and its
-surrounding landscape and many of them having different
-alignment, some warbands are Lawful while others are
-Chaotic and then you have those that are Neutral. The
-Alignment of a warband will help in many ways, like which
-Hired Swords you can hire, the cost of hiring and upkeep of
-Hired Swords, the maximum size of your Warband and other
-bonuses. The Player must choose an alignment when they are
-building a warband. Some warbands can only have one
-alignment choice (i.e. all Witch Hunters warbands are always
-Lawful).
-
-#### Multi-player Games
-
-In some Campaigns and Scenarios warbands may ally
-themselves with other warbands, by doing this trust becomes
-a problem, like Lawful warbands will not work alongside
-Chaotic warbands, but both will work alongside a Neutral
-warbands, this would be a distrusted alliance,
-
-##### Distrusted Alliance
-
-A Distrusted Alliance may form in many ways; the first is by
-a Neutral warband allied with a Lawful or Chaotic warband,
-the second is between races of the Dwarves and Elves, and
-the third is between warbands that hate each other for some
-reason.
-If two distrusted alliance model are within 6” of each other
-then both models have a -1 leadership penalty. They also stop
-each other from running.
-
-#### Bonuses
-
-##### Lawful
-
-```
-The warbands that are Lawful aligned with other Lawful
-warbands as well as Lawful / Neutral and Neutral warbands.
-Hate all chaotic warbands. Lawful warbands get D3 rerolls
-per battle; the rerolls can be uses in the Exploration Phase if
-not used in battle. All Neutral / Chaotic warbands will count
-as being Chaotic in the eyes of Lawful warbands.
-```
-##### Lawful / Neutral
-
-```
-The warbands that are Lawful / Neutral aligned with other
-Lawful / Neutral warbands as well as Lawful and Neutral
-warbands. Lawful / Neutral warbands get 1 reroll per battle;
-the reroll can be uses in the Exploration Phase if not used in
-battle.
-```
-##### Neutral
-
-```
-The warbands that are Neutral aligned with any other
-warbands including Lawful and Chaotic warbands.
-```
-##### Neutral / Chaotic
-
-```
-The warbands that are Neutral / Chaotic aligned with other
-Neutral / Chaotic warbands as well as Neutral and Chaotic
-warbands. Any member of a Neutral / Chaotic warband
-which is afflicted by a mutation may still stay on the roster
-even if normally he would have to leave. Neutral / Chaotic
-warbands get 1 reroll per battle; the reroll can be uses in the
-Exploration Phase if not used in battle.
-```
-##### Chaotic
-
-```
-The warbands that are Chaotic aligned with other Chaotic
-warbands as well as Neutral and Neutral / Chaotic warbands.
-Any member of a chaotic warband which is afflicted by a
-mutation may still stay on the roster even if normally he
-would have to leave. Chaotic warbands get D3 rerolls per
-battle; the rerolls can be uses in the Exploration Phase if not
-used in battle. All Lawful / Neutral warbands will count as
-being Lawful in the eyes of chaotic warbands
-```
-Assembled By Paul H Page 15 (knights_templar@hotmail.com)
-
-
-### Weapons & Armour
-
-Life and death in Mordheim is decided by the quantity and quality of the weapons a warrior carries. This section describes
-the different weapons and other equipment such as armour and shields.
-
-#### Close Combat Weapons
-
-##### Axe
-
-The axe is the traditional weapon of Empire woodsmen, and is also
-used as a weapon in poorer rural areas. Axes have a heavy blade
-and, if swung by a strong man, can cause a lot of damage. The blade
-of an axe can easily cut through armour, though it requires
-considerable strength from the wielder. Of all the warriors in the
-Old World, Dwarfs are the most adept at making axes. Their axes
-are invaluable to the warriors of the Old World and are some of the
-most sought after weapons.
-Range: Close Combat
-Strength: As user
-Special Rule: Cutting Edge
-Special Rules
-Cutting Edge: An axe has an extra save modifier of -1, so a
-model with Strength 4 using an axe has a -2 save modifier
-when he hits an opponent in hand-to-hand combat.
-
-##### Ball and Chain
-
-This is a huge iron ball with a chain attached, used by the dreaded
-Night Goblin Fanatics to deal out whirling death. Enormously
-heavy, it can only be used when combined with Mad Cap
-Mushrooms.
-[Goblins Only]
-Range: Close combat
-Strength: As user +
-Special Rule: Two Handed, Incredible Force,
-Cumbersome, Unwieldy, Random,
-
-Special Rules
-Two Handed: A model armed with a Ball and Chain may
-not use a shield, buckler or additional weapon in close
-combat. If the model is equipped with a shield he will still get
-a +1 bonus to his armour save against shooting
-Incredible Force: Because the Ball and Chain is so heavy,
-normal armour does very little to protect against it. No
-armour saves are allowed against wounds caused by a Ball
-and Chain. In addition, any hit from a Ball and Chain is very
-likely to take off someone’s head (or at least break some
-ribs!). Therefore, any hit that successfully wounds will do
-1D3 wounds instead of 1.
-Cumbersome: Because the Ball and Chain is so heavy, a
-model equipped with one may carry no other weapons or
-equipment. In addition, only a model under the influence of
-Mad Cap Mushrooms has the strength to wield a ball and
-chain.
-
-```
-Unwieldy: The great weight of the Ball and Chain can easily
-tear ligaments or pull a wielder’s arms out of their sockets.
-While someone under the influence of Mad Cap Mushrooms
-will not notice such effects, when the drug wears off he will
-be in great pain. To represent this, at the end of the battle the
-controlling player must roll for Injury for each model that
-used a Ball and Chain, just as if the model had been taken
-Out Of Action. If the model was actually taken Out Of
-Action normally, just roll once for Injury – there is no need to
-make a second roll.
-Random: The only way to wield a Ball and Chain is to swing
-it around in large circles, using your body as a counter-
-weight. Unfortunately this is not a very controllable fighting
-style, and as soon as he starts swinging his Ball and Chain, a
-warrior starts to lose control. The first turn he starts swinging
-the Ball and Chain, the model is moved 2D6" in a direction
-nominated by the controlling player. In his subsequent
-Movement phases, roll a D6 to determine what the model
-does:
-D6 Effect
-1 The model trips and strangles himself with the chain.
-The model is taken Out Of Action. When rolling for
-Injury after the game, a roll of 1-3 means the model is
-out permanently, instead of the normal 1-2.
-2-5 The model moves 2D6" in a direction nominated by
-the controlling player.
-6 The model moves 2D6" in a random direction. If the
-player owns a Scatter dice (available from Games
-Workshop stores), roll that to determine direction. If
-not, then roll a D6: 1 – Straight Forward, 2-3 – Right,
-4-5 – Left, 6 – Straight Back
-```
-##### Barbed Spear
-
-```
-The favoured spear of the hobgoblin warriors is equipped with
-gruesome rear-facing barbs, which rend and tear their opponents as
-the spear is withdrawn after the attack.
-[Hobgoblin Only]
-Range: Close Combat
-Strength: As user
-Special Rule: Strike First, Unwieldy, Cavalry Bonus, +
-To Wound
-Special Rules
-Strike First: A warrior with a spear strikes first in the first
-turn of hand-to-hand combat.
-Unwieldy: A warrior with a spear may only use a shield or a
-buckler in his other hand. He may not use a second weapon.
-Cavalry Bonus: If using the rules for mounted models, a
-mounted warrior armed with a spear receives a +1 Strength
-bonus when he charges. This bonus only applies for that turn.
-+1 To Wound: Because of the bards on the spear the user
-gets a +1 To Wound.
-```
-(knights_templar@hotmail.com) Page 16 Assembled by Paul H
-
-
-##### Beastlash
-
-The Beastmaster make good use of their whips to goad their hounds
-and creatures into combat.
-[Dark Elves Only]
-Range: Close Combat
-Strength: As User
-Special Rule: Beastbane, Cannot Be Parried, Whipcrack
-Special Rules
-Beastbane: The Beastmaster wielding a Beastlash causes
-Fear in animals, any animal charged or wishing to charge a
-Beastmaster with one of these weapons must first take a Fear
-test as mentioned in the psychology section of the Mordheim
-rules.
-Cannot Be Parried: The Beastlash is a flexible weapon and
-the Beastmaster use it with great expertise. Attempts to parry
-its strikes are futile. A model attacked by a Beastlash may not
-make parries with swords or bucklers.
-Whipcrack: when the wielder charges they gain +1A for that
-turn. This bonus attack is added after any other modifications.
-When the wielder is charged they gain +1A that they may
-only use against the charger. This additional attack will
-‘strike first’. If the wielder is simultaneously charged by two
-or more opponents they will still only receive a total of +1A.
-If the wielder is using two whips at the same time then they
-get +1A for the additional hand weapon, but only the first
-whip gets the whipcrack +1A.
-
-##### Boss Pole
-
-Some influential Goblins carry badges of office, usually taking the
-form of long wooden poles with an icon or sharp blade on the end.
-[Forest Goblins Only]
-Range: Close Combat
-Strength: As user
-Special Rule: Strike First, Unwieldy, Cavalry Bonus,
-Animosity
-Special Rules
-Strike First: A warrior with a spear strikes first in the first
-turn of hand-to-hand combat.
-Unwieldy: A warrior with a spear may only use a shield or a
-buckler in his other hand. He may not use a second weapon.
-Cavalry Bonus: If using the rules for mounted models, a
-mounted warrior armed with a spear receives a +1 Strength
-bonus when he charges. This bonus only applies for that turn.
-Animosity: The Hero with a boss pole and any Goblin
-henchmen within 6" to ignore animosity.
-
-##### Brazier Iron
-
-```
-The brazier iron is a weapon commonly used by witch hunters. It
-consists of a long heft topped by an iron cup filled with burning hot
-coals. In combat, the weapon takes on an eldritch quality as the
-burning embers sear the air as it is swung, opponents are sent
-reeling in flaming agony as they are set on fire
-Range: Close combat
-Strength: As user +
-Special Rule: Two-handed, Fire,
-Special Rules
-Two-handed: As a brazier requires two hands to use, a
-model using a brazier may not use a shield, buckler or
-additional weapon in close combat. If the model has a shield
-he still gets a +1 bonus to his armour save against shooting.
-Fire: Whenever you score a successful hit with the brazier
-staff roll a D6. If you roll a 5+ the victim is set on fire. If the
-warrior survives the attack they must score a 4+ in the
-Recovery phase or suffer a Strength 4 hit each turn they are
-on fire and will be unable to do anything other than move.
-Other warriors from the same warband may help to put the
-flames out if they wish. They must move into base-to-base
-contact and score a 4+in the Recovery phase.
-```
-##### Censer
-
-```
-The censer is a hollow spiked metal ball attached to a long chain
-and is swung like a flail. A plague infested shard of warpstone burns
-inside the ball and emits pestilential fumes that nauseate the
-opponents and may turn the wielder of the censer into a difficult
-target to shoot at.
-[Skaven, Clan Pestilens Only]
-Range: Close Combat
-Strength: As User +
-Special Rule: Heavy, Two-Handed, Fog of Death
-Special Rules
-Heavy: The +2 Strength bonus applies only to the first turn
-of hand to hand combat.
-Two-handed: A censer requires two hands to be used and the
-wielder cannot use a shield, buckler or additional weapon in
-close combat.
-Fog of Death: A model hit by the censer must take a
-Toughness test. Roll a D6. If the result is higher than the
-Toughness of the model taking the test, he will suffer an
-automatic wound in addition to the censer hit. A result of 6
-always inflicts a wound. Also the model wielding the censer
-must take the test and will suffer a wound with a result of 6.
-Models of undead and possessed are immune to the fog of
-death and do not take the test. If the model wielding the
-censer also has the fog-enhancing warpstone shards, he
-becomes a difficult target to shoot at, and models targeting
-him with missile weapons suffer a -1 penalty to hit.
-```
-Assembled By Paul H Page 17 (knights_templar@hotmail.com)
-
-
-##### Claw of the Old Ones
-
-This is a very ancient weapon made from a strange metal that is
-impervious to age and corrosion. The powers of this artefact can
-only be unleashed through a ritual known only to a handful of
-Amazons. The blade of this weapon glows white hot and can cut
-through armour as if it were paper.
-Range: Close Combat
-Strength: As User +
-Special Rule: No Save, Parry
-Special Rules
-No Save: The blade of the Claw can literally cut through
-anything. A warrior wounded by a Claw receives no armour
-save whatsoever.
-Parry: User may parry as per normal rules.
-
-##### Dagger
-
-Daggers and knives are extremely common, and men are allowed to
-carry them in enclaves where weapons are otherwise forbidden.
-Many a warrior in Mordheim has died with a dagger in his back.
-Range: Close Combat
-Strength: As user
-Special Rule: +1 Enemy Armour Save
-Special Rules
-+1 Enemy Armour Save: Daggers are not the best weapons
-to use for penetrating an enemy model’s armour. An enemy
-wounded by a dagger gains a +1 bonus to his armour save,
-and a 6+ armour save if he has none normally.
-
-##### Disease Dagger
-
-This dagger is permanently covered with a disgusting and
-moulderish layer of green ooze that may infect those that are hit
-with terrible diseases.
-[Skaven, Clan Pestilens Only]
-Range: Close Combat
-Strength: -
-Special Rule: +1 Enemy Armour Save
-Special Rules
-+1 Enemy Armour Save: Daggers are not the best weapons
-to use for penetrating an enemy model’s armour. An enemy
-wounded by a dagger gains a +1 bonus to his armour save,
-and a 6+ armour save if he has none normally.
-Infecting: a natural 6 on an hit roll means that the model hit
-has been infected with the disease and that he must take a
-Toughness test. Roll a D6. If the result is higher than the
-Toughness of the model taking the test, he will suffer an
-automatic wound in addition to the dagger hit. Models of
-undead and possessed are immune to this disease and do not
-take the test. A model wielding two Disease Daggers gains a
-+1 Attack bonus for wielding two weapons and there is no
-further effect, except that the chances of rolling an infecting 6
-on the hit rolls are higher.
-
-##### Double-Handed Weapon
-
-```
-A blow from a double-handed axe or sword can cut a foe in half and
-break armour apart. It takes a long time to learn how to use these
-weapons and even then only extremely strong men are able to wield
-them effectively.
-Range: Close Combat
-Strength: As user +
-Special Rule: Two-handed, Strike Last,
-Special Rules
-Two-handed: A model armed with a double-handed weapon
-may not use a shield, buckler or additional weapon in close
-combat. If the model is equipped with a shield he will still get
-a +1 bonus to his armour save against shooting.
-Strike Last: Double-handed weapons are so heavy that the
-model using them always strikes last, even when charging.
-```
-##### Dwarf Axe
-
-```
-Dwarf axes are smaller-hafted weapons made of lighter (but
-stronger) materials than normal axes. Dwarf Warriors are specially
-trained in their use and are able to use them as deftly as a Human
-warrior might wield a sword.
-[Dwarves Only]
-Range: Close Combat
-Strength: As user
-Special Rule: Cutting Edge, Parry
-Special Rules
-Cutting Edge: Dwarf axes have an extra save modifier of -1,
-so a model with Strength 4 using a Dwarf axe has a -2 save
-modifier when he hits an opponent with the axe in close
-combat.
-Parry: Dwarf axes offer an excellent balance of defence and
-offense. A model armed with a Dwarf axe may parry blows.
-When his opponent rolls to hit, the model armed with a
-Dwarf axe may roll a D6. If the score is greater than the
-highest to hit score of his opponent, the model has parried the
-blow and that attack is discarded. A model may not parry
-attacks made with double or more its own Strength – they are
-simply too powerful to be stopped. A model may not parry
-more than one attack in a single Close Combat phase; a
-model armed with two Dwarf axes (or a Dwarf axe and a
-sword, etc) does not get to parry two attacks but may instead
-re-roll a failed parry.
-```
-(knights_templar@hotmail.com) Page 18 Assembled by Paul H
-
-
-##### Fighting Claws
-
-The martial arts practiced by Clan Eshin employ many unusual
-weapons. The most famous of these are the Eshin Fighting Claws:
-sharp metal blades attached to the paws of a Skaven warrior. It
-takes a real expert to use them effectively, but an adept of Clan
-Eshin is a fearsome opponent when armed this way.
-[Skaven, Clan Eshin Only]
-Range: Close Combat
-Strength: As User
-Special Rule: Pair, Climb, Parry, Cumbersome
-Special Rules
-Pair: Fighting Claws are traditionally used in pairs, one in
-each hand. A warrior armed with Fighting Claws gets an
-additional attack.
-Climb: A Skaven equipped with Fighting Claws can add +
-to his Initiative when making Climbing tests.
-Parry: A Skaven armed with Fighting Claws may parry
-blows and can re-roll a failed attempt once, in the same way
-as a model armed with a sword and buckler.
-Cumbersome: A model armed with Fighting Claws may not
-use any other weapons in the entire battle.
-
-##### Fist
-
-The truly desperate, who don’t even own a knife, have to fight with
-their bare hands. Needless to say, their chances of survival are
-comparable to Halflings going without food for eight hours!
-Note: The following rule only apply to warriors who have lost their
-weapons. Creatures such as Zombies, animals, etc, ignore these
-rules. Warriors using their fists can only ever make 1 attack.
-Range: Close Combat
-Strength: As user -
-Special Rule: +1 Enemy Armour Save
-Special Rules
-+1 Enemy Armour Save: An enemy wounded by a fist gains
-a +1 bonus to his armour save, and a 6+ armour save if he
-normally has none.
-
-##### Flail
-
-The flail is a heavy weapon wielded with both hands. It normally
-consists of heavy weights, often spiked, attached to a pole or handle
-by means of heavy chains. Flails drain the user’s stamina quickly,
-but are awesomely destructive in the hands of a skilled (or
-unhinged) warrior.
-Range: Close Combat
-Strength: As user +
-Special Rule: Heavy, Two-handed
-Special Rules
-Heavy: A flail is extremely tiring to use and thus the +
-Strength bonus applies only in the first turn of each hand-to-
-hand combat.
-Two-handed: As a flail requires two hands to use, a model
-using a flail may not use a shield, buckler or additional
-weapon in close combat. If the model has a shield he still gets
-a +1 bonus to his armour save against shooting.
-
-##### Halberd
-
-```
-The halberd’s heavy blade is mounted upon a sturdy shaft of
-oak or steel and has a point like a spear and a cutting edge
-like an axe. Since it can be used to chop as well as thrust, it is
-an adaptable weapon, but is difficult to use inside buildings.
-Range: Close Combat
-Strength: As user +
-Special Rule: Two-handed
-Special Rules
-Two-handed: A model armed with a halberd may not use a
-shield, buckler or additional weapon in close combat. If the
-model has a shield he still gets a +1 bonus to his armour save
-against shooting.
-```
-##### Hammer, staff, mace or club
-
-```
-Perhaps the simplest type of weapon, these brutal, bludgeoning
-instruments range from primitive wooden clubs to elaborately
-forged Dwarf hammers made from the finest steel. A blow from a
-mace can easily crush a skull or knock a man unconscious.
-Range: Close Combat
-Strength: As user
-Special Rule: Concussion
-Special Rules
-Concussion: Hammers and other bludgeoning weapons are
-excellent to use for striking your enemy senseless. When
-using a hammer, club or mace, a roll of 2-4 is treated as
-stunned when rolling to see the extent of a model’s injuries.
-```
-##### Horseman’s Hammer
-
-```
-This is a great hammer similar to the ones used by the Knights of the
-White Wolf. Far too bulky to use in one hand, a horseman’s hammer
-is best suited to mounted combat, when the impetus of the horse may
-be used to add to the power of the weapon.
-Range: Close Combat
-Strength: As user +
-Special Rule: Two-handed, Cavalry Charge
-Special Rules
-Two-handed: A model armed with a horseman’s hammer
-may not use a shield, buckler, or additional weapon in close
-combat. If the model is equipped with a shield he will still get
-a +1 bonus to his Armour save against shooting.
-Cavalry Charge: A model armed with a horseman’s hammer
-may use the speed of his charge to increase the might of his
-attacks. A model on a steed with a horseman’s hammer gains
-a further +1 Strength bonus when he charges. This bonus
-only applies for that turn.
-```
-##### Katar
-
-```
-This is an Arabian-style punch dagger. It has a handle
-perpendicular to the blade and is used in a punching thrusting
-manner.
-Range: Close Combat
-Strength: As user
-Special Rule: -1 Enemy Armour Save
-Special Rules
--1 Enemy Armour Save: The Katar is a better weapon to use
-for penetrating an enemy model’s armour. An enemy
-wounded by a Katar gains a -1 bonus to his armour save.
-```
-Assembled By Paul H Page 19 (knights_templar@hotmail.com)
-
-
-##### Lance
-
-Lances are long, heavy spears used by mounted shock troops to rip
-through armour and fling their foes to the ground. They are the
-chosen weapons of Knights Templar and other wealthy warriors. To
-use a lance requires great skill and strength, and only the richest
-warriors ride the heavy warhorses needed to wield these mighty
-weapons effectively.
-Range: Close Combat
-Strength: As user +
-Special Rule: Cavalry Weapon, Cavalry Bonus
-Special Rules
-Cavalry Weapon: A warrior must own a warhorse to use a
-lance, as it can only be used whilst he is on horseback.
-Cavalry Bonus: If using optional rules for mounted models,
-a warrior armed with a lance receives a +2 Strength bonus
-when he charges. This bonus only applies for that turn.
-
-##### Morning Star
-
-A morning star consists of a wooden or steel shaft with heavy chains
-that have spiked steel balls attached. It is very destructive and
-requires great skill to wield effectively.
-Range: Close Combat
-Strength: As user +
-Special Rule: Heavy, Difficult to Use
-Special Rules
-Heavy: The morning star is extremely tiring to use, so its +
-Strength bonus applies only in the first turn of each hand-to-
-hand combat.
-Difficult to Use: A model with a morning star may not use a
-second weapon or buckler in his other hand because it
-requires all his skill to wield it. He may carry a shield as
-normal though.
-
-##### Pike
-
-The Pike is somewhat longer than a spear and is weighted so that it
-can be wielded efficiently between the trees, underbrush and
-between narrow buildings.
-Range: Close Combat (3”)
-Strength: As user
-Special Rule: Strike First, Unwieldy, Length
-Special Rules
-Strike First: A warrior with a Pike strikes first in the first
-turn of hand-to-hand combat, even if charged with a model
-with a spear. After the initial round of combat resolve strikes
-in Initiative order. The model can change to normal hand-to-
-hand weapons after the initial round.
-Unwieldy: A warrior with a spear may only use a shield or a
-buckler in his other hand. He may not use a second weapon.
-Length: Because of size and weight of the Pike only models
-of man-sized or larger creatures can use pikes. Skaven,
-Skinks, Halflings, etc cannot.
-
-##### Plague Sword
-
-```
-Clan Pestilens has created a hellish weapon, called the plague
-sword. These warpstone blades carry disease and corruption with
-each strike. The infection caused with each blow renders the
-wounded extremely ill, and will disable even the strongest foe.
-[Skaven, Clan Pestilens only]
-Range: Close Combat
-Strength: As user
-Special Rule: Parry, Contagion
-Special Rules
-Parry: Plague swords offer an excellent balance of defence
-and offence. A model armed with a plague sword may parry
-blows. When his opponent rolls to hit, the model armed with
-a sword may roll a D6. If the score is greater than the highest
-to hit score of his opponent, the model has parried the blow,
-and that attack is discarded. A model may not parry attacks
-made with double or more its own Strength – they are simply
-too powerful to be stopped.
-Contagion: Each blow of the plague sword carries with it a
-host of diseases and pestilence. Every successful hit with the
-plague sword causes two wounds. Armour saves may be
-applied as normal.
-```
-##### Punisher Whip
-
-```
-Punisher whips are used by the Pack Masters of Clan Moulder to
-train their beasts. These fiendish devices are made of braided
-leather, filled with razor sharp spikes. A much larger spike tips the
-whip, and the Pack Masters use this quite effectively to inflict pain.
-[Skaven, Clan Moulder only]
-Range: Close Combat
-Strength: As User
-Special Rule: Animal Scourge, Cannot Be Parried,
-Whipcrack
-Special Rules
-Animal Scourge: The Pack Masters of Clan Moulder learn
-to use these whips for the purpose of training animals. The
-beasts of Clan Moulder learn that these whips are to be feared
-above everything else. Any beast (Giant Rat, Wolf Rats, or
-Rat Ogre) in the Clan Moulder Warband may re-roll any
-failed Leadership-based test if within 6” of a model armed
-with a punisher whip. On other animals, such as horses and
-war dogs, are intimidated by the whistling scream of a
-punisher whip passing through the air. Any animal not in the
-warband, including other Skaven warbands, are affected by
-fear with regards to charging a model armed with these
-whips.
-Cannot Be Parried: The Punisher Whip is a flexible weapon
-and the warrior use it with great expertise. Attempts to parry
-its strikes are futile. A model attacked by a Punisher Whip
-may not make parries with swords or bucklers.
-Whipcrack: When the wielder charges they gain +1A for
-that turn. This bonus attack is added after any other
-modifications. When the wielder is charged they gain +1A
-that they may only use against the charger. This additional
-attack will ‘strike first’. If the wielder is simultaneously
-charged by two or more opponents they will still only receive
-a total of +1A. If the wielder is using two whips at the same
-time then they get +1A for the additional hand weapon, but
-only the first whip gets the whipcrack +1A.
-```
-(knights_templar@hotmail.com) Page 20 Assembled by Paul H
-
-
-##### Rapier
-
-The rapier is a long thing blade commonly used by dualists. It is a
-deadly, shard weapon capable of delivering a multitude of blows but
-lacks the power of a broadsword.
-Range: Close combat
-Strength: As user
-Special Rule: Parry, Barrage, Armour Save,
-Special Rules
-Parry: Like all swords, you may use a rapier to parry in hand
-to hand combat. When your opponent scores a hit you must
-roll a D6. If you can score greater than the highest 'to hit' roll
-you have parried the blow and the attack is discarded.
-Barrage: A warrior armed with a rapier rolls to hit and
-wound as normal. However, if you mange to hit your
-opponent but fail to wound, you may attack again just as if
-you had another attack but at –1 to hit (down to a maximum
-to needing a 6 to hit). You may continue attacking as long as
-you hit and it is possible to strike your opponent many times,
-particularly if your warrior has more then one attack on his
-profile.
-Armour Save: Because a rapier is a very light sword that
-lacks the thick armour breaking blade of the broadsword,
-armour saves are made at +1
-
-##### Saerath
-
-The Saerath is a weapon commonly used by the wood Elves, the
-Saerath or spear-stave is a staff with sword-like blades attached to
-each end.
-[Wood Elves Only]
-Range: Close Combat
-Strength: As user +1
-Special Rule: Parry, Extra Attack
-Special Rules
-Parry: Like all swords, you may use a Saerath to parry in
-hand to hand combat. When your opponent scores a hit you
-must roll a D6. If you can score greater than the highest 'to
-hit' roll you have parried the blow and the attack is discarded.
-Extra Attack: the Saerath acts like the user is armed with
-two swords.
-
-##### Scythe
-
-Scythes are normally implements used in the fields by farmers. It is
-rare to see them wielded as weapons of warfare. However, the
-scythe also carries with it an image of death. It is the symbol of the
-Grim Reaper, the representation of famine and starvation and
-disease through the lack of harvested food. Priests of Morr, when
-they need to, may carry a Scythe as a weapon.
-Range: Close Combat
-Strength: As User +1
-Special Rule: Difficult to use, Two-Handed
-Special Rules
-Difficult to Use: A model with a scythe may not use a
-second weapon or buckler in his other hand because it
-requires all his skill to wield it. He may carry a shield as
-normal though.
-Two-handed: A model armed with a scythe may not use a
-shield, buckler, or additional weapon in close combat. If the
-model is equipped with a shield he will still get a +1 bonus to
-his Armour save against shooting.
-
-##### Serpent Whip
-
-```
-[Lahmia Vampires and Blood Sisters only]
-Range: Close Combat
-Strength: As User
-Special Rule: Cannot Be Parried, Whipcrack, +1 Enemy
-Armour Save, Poisoned
-Special Rules
-Cannot Be Parried: The whip is a flexible weapon and the
-warrior use it with great expertise. Attempts to parry its
-strikes are futile. A model attacked by a whip may not make
-parries with swords or bucklers.
-Whipcrack: when the wielder charges they gain +1A for that
-turn. This bonus attack is added after any other modifications.
-When the wielder is charged they gain +1A that they may
-only use against the charger. This additional attack will
-‘strike first’. If the wielder is simultaneously charged by two
-or more opponents they will still only receive a total of +1A.
-If the wielder is using two whips at the same time then they
-get +1A for the additional hand weapon, but only the first
-whip gets the whipcrack +1A.
-+1 Enemy Armour Save: An enemy wounded by a whip
-gains a +1 bonus to his armour save, and a 6+ armour save if
-he normally has none.
-Poisoned: The Serpent Whip is treated as being coated with
-black lotus.
-```
-##### Sigmarite Warhammer
-
-```
-One of the traditional weapons of the Sisterhood, the Warhammer
-echoes Ghal-Maraz, the great hammer of Sigmar himself.
-[Sister of Sigmar Only]
-Range: Close Combat
-Strength: As User +1
-Special Rule: Concussion, Holy Weapon
-Special Rules
-Concussion: Warhammers are excellent at striking people
-senseless. When using a Warhammer in close combat a roll
-of 2-4 is treated as Stunned when rolling on the Injury chart.
-Holy Weapon: Each Warhammer is blessed by the High
-Matriarch herself before it is handed to the Sisters. The
-Warhammer has a +1 bonus on all to wound rolls against any
-Possessed or Undead models. Note that you will still need to
-score a 6 before any modifiers in order to cause a critical hit.
-Only Matriarchs and Sister Superiors may carry two
-Sigmarite Warhammers.
-```
-##### Spear
-
-```
-Spears range from sharpened sticks used by Goblins to the
-impressive cavalry spears typical of the Elves.
-Range: Close Combat
-Strength: As user
-Special Rule: Strike First, Unwieldy, Cavalry Bonus
-Special Rules
-Strike First: A warrior with a spear strikes first in the first
-turn of hand-to-hand combat.
-Unwieldy: A warrior with a spear may only use a shield or a
-buckler in his other hand. He may not use a second weapon.
-Cavalry Bonus: If using the rules for mounted models, a
-mounted warrior armed with a spear receives a +1 Strength
-bonus when he charges. This bonus only applies for that turn.
-```
-Assembled By Paul H Page 21 (knights_templar@hotmail.com)
-
-
-##### Spiked Gauntlet
-
-The Spiked Gauntlet is a weapon commonly used in the Pit Fights.
-Act like a blade and a buckler
-[Pit Fighters Only]
-Range: Close Combat
-Strength: As user
-Special Rule: Parry
-Special Rules
-Parry: Spiked Gauntlet offer an excellent balance of defence
-and offence. A model armed with a Spiked Gauntlet may
-parry blows. When his opponent rolls to hit, the model armed
-with a Spiked Gauntlet may roll a D6. If the score is greater
-than the highest to hit score of his opponent, the model has
-parried the blow, and that attack is discarded. A model may
-not parry attacks made with double or more its own Strength
-
-- they are simply too powerful to be stopped. The model with
-Spiked Gauntlet may re-roll any failed parries once. (And no,
-your Heroes cannot learn to use it!)
-
-##### Squig Prodder
-
-[Goblins Only]
-Special Rules
-This item is a long pole with a trio of spikes at the end. It is
-used by Goblin Squig herders to keep their livestock in line.
-Cave Squigs will recognize a Squig prodder and
-automatically give the bearer more respect, as they’ve all
-been on its pointy end more than once! To represent this, a
-Goblin with a Squig prodder can keep all Cave Squigs within
-12" from going wild, instead of the normal 6" (see the
-Minderz special rule under the Cave Squig entry). In
-addition, a Squig prodder is treated exactly like a spear in
-hand-to-hand combat.
-
-##### Star-Blade
-
-Of the many strange weapons the Amazons possess the Star-blade is
-built like an Amazonian dagger. It is usually painted exotic colours
-and contains magical properties that enhance the fighting prowess
-of the Amazons.
-Range: Close Combat
-Strength: As user
-Special Rule: +1 Enemy Armour Save, Parry
-Special Rules
-+1 Enemy Armour Save: Star-blades are not the best
-weapons to use for penetrating an enemy model’s armour. An
-enemy wounded by a Star-blade gains a +1 bonus to his
-armour save, and a 6+ armour save if he has none normally.
-Parry: Star-blade offers an excellent balance of defence and
-offence. A model armed with a Star-blade may parry the first
-successful blow of any combat on a 4+. The model has
-parried the blow, and that attack is discarded. A model may
-not parry attacks made with double or more its own Strength
-
-- they are simply too powerful to be stopped.
-
-##### Star-Sword
-
-```
-This is an ancient and legendary sword that can cut through armour
-as if it were a leaf.
-Range: Close Combat
-Strength: As user +1
-Special Rule: No Save, Parry
-Special Rules
-No Save: The great power of the Star-sword ignores all
-armour saves except for ward and Dodge saves.
-Parry: Star-sword offers an excellent balance of defence and
-offence. A model armed with a Star-sword may parry blows.
-When his opponent rolls to hit, the model armed with a sword
-may roll a D6. If the score is greater than the highest to hit
-score of his opponent, the model has parried the blow, and
-that attack is discarded. A model may not parry attacks made
-with double or more its own Strength – they are simply too
-powerful to be stopped.
-```
-##### Steel Whip
-
-```
-Another weapon unique to the Sisterhood is the steel whip, made
-from barbed steel chains.
-[Sister of Sigmar Only]
-Range: Close Combat
-Strength: As User
-Special Rule: Cannot Be Parried, Whipcrack
-Special Rules
-Cannot Be Parried: The steel whip is a flexible weapon and
-the Priestesses use it with great expertise. Attempts to parry
-its strikes are futile. A model attacked by a steel whip may
-not make parries with swords or bucklers.
-Whipcrack: when the wielder charges they gain +1A for that
-turn. This bonus attack is added after any other modifications.
-When the wielder is charged they gain +1A that they may
-only use against the charger. This additional attack will
-‘strike first’. If the wielder is simultaneously charged by two
-or more opponents they will still only receive a total of +1A.
-If the wielder is using two whips at the same time then they
-get +1A for the additional hand weapon, but only the first
-whip gets the whipcrack +1A.
-```
-##### Sword
-
-```
-The sword is often referred to as the ‘king of weapons’. The most
-common sword available, the broadsword of the Empire, is a
-masterpiece by the standards of any smith: four full feet of gleaming
-steel, double-edged and razor-sharp.
-Swords are much more effective weapons than crude clubs and axes,
-though learning to use a sword is a long and difficult process. It
-takes years to truly master this weapon – most warriors in
-Mordheim die long before they get this far!
-Range: Close Combat
-Strength: As user
-Special Rule: Parry
-Special Rules
-Parry: Swords offer an excellent balance of defence and
-offence. A model armed with a sword may parry blows.
-When his opponent rolls to hit, the model armed with a sword
-may roll a D6. If the score is greater than the highest to hit
-score of his opponent, the model has parried the blow, and
-that attack is discarded. A model may not parry attacks made
-with double or more its own Strength – they are simply too
-powerful to be stopped.
-```
-(knights_templar@hotmail.com) Page 22 Assembled by Paul H
-
-
-Assembled By Paul H Page 23 (knights_templar@hotmail.com)
-
-##### Sword Breaker
-
-The sword breaker is a specialist weapon wrought by only the most
-talented sword smiths. Next to the hilt are two prongs concealed
-within the blade that can be used to trap an opponent's blade,
-twisting and snapping it with a single, well time movement.
-Range: Close combat
-Strength: As user
-Special Rule: Parry, Trap Blade
-Special Rules
-Parry: The sword breaker allows the wielder to parry the
-attacks of his opponent's in close combat. When your
-opponent scores a hit, roll a D6. If you can roll greater than
-the highest 'to hit' of your opponent, you have parried the
-attack and the blow is wasted.
-Trap Blade: Whenever you make a successful parry attempt
-roll a D6. If you score a 4+, you break the weapon your
-opponent was using. The weapon is now useless and they
-must use another one, or if they have no other weapon, resort
-to unarmed combat.
-
-##### Weeping Blades
-
-The adepts of Clan Eshin use weapons called Weeping Blades,
-murderous swords constructed with a small amount of warpstone in
-their structure. A Weeping Blade constantly sweats a deadly
-corrosive venom.
-[Skaven, Clan Eshin Only]
-Range: Close Combat
-Strength: As User
-Special Rule: Pair, Venomous, Parry
-Special Rules
-Pair: Weeping Blades are traditionally used in pairs, one in
-each hand. A warrior armed with Weeping Blades gets an
-additional attack.
-Venomous: The venom of Weeping Blades will enter the
-blood of the victim and ravage his organs and muscles. These
-weapons count as being permanently coated in black lotus
-(see the Equipment section). No additional poison may be
-applied to Weeping Blades.
-Parry: Weeping Blades are swords and can be used for
-parrying.
-
-##### Whip
-
-```
-Range: Close Combat
-Strength: As User -1
-Special Rule: Cannot Be Parried, Whipcrack, +1 Enemy
-Armour Save
-Special Rules
-Cannot Be Parried: The whip is a flexible weapon and the
-warrior use it with great expertise. Attempts to parry its
-strikes are futile. A model attacked by a whip may not make
-parries with swords or bucklers.
-Whipcrack: when the wielder charges they gain +1A for that
-turn. This bonus attack is added after any other modifications.
-When the wielder is charged they gain +1A that they may
-only use against the charger. This additional attack will
-‘strike first’. If the wielder is simultaneously charged by two
-or more opponents they will still only receive a total of +1A.
-If the wielder is using two whips at the same time then they
-get +1A for the additional hand weapon, but only the first
-whip gets the whipcrack +1A.
-+1 Enemy Armour Save: An enemy wounded by a whip
-gains a +1 bonus to his armour save, and a 6+ armour save if
-he normally has none.
-```
-#### Close Combat Upgrades
-
-##### Fog-enhancing Warpstone Shards
-
-```
-[Skaven Clan Pestilens Only]
-When put inside a censer these warpstone shards have the
-peculiar characteristic of making the resulting clouds of
-pestilential fumes thicker than usual. The wielder of a censer
-who also have some fog-enhancing warpstone shards is a
-difficult target to shoot at, and other models suffer a -1
-penalty to hit when targeting him with missile weapons (Clan
-Pestilens members use this item instead of the Elven Cloak).
-```
-#### Special Weapon Types
-
-##### Cold Metal Weapons
-
-Wood Elves do not use forges; they have a special smithing style
-known by outsides as “Cold Forging”. Cold Forging is a mix of
-both physical and magical techniques known only to the Wood
-Elves. The Metal which comes from this Cold Forging technique is
-call Cold Metal.
-Special Rules
-Because Wood elves do not use forges, they do the smithing
-in a special, “cold“, way. This gives the weapon such a
-special flexibility in creating; it seems to have sharper edges.
-It gives the weapon a +1 to hit in close combat and costs
-three times the price of a normal weapon of its kind.
-
-##### Dark Steel Weapons
-
-```
-Dark Steel Weapons are forged in the city of Hag Graef, the Dark
-Crag. They are fashioned from Black steel, a rare form of steel
-found deep within the mountains around the city. Dark Steel
-weapons have wicked protrusions and serrated edges, which inflict
-serious damage on an opponent.
-Special Rules
-The Weapons commonly made of Dark Steel are swords,
-daggers or other bladed weapons. These weapons upgraded to
-Dark Steel retain all of their abilities (i.e. swords can parry,
-daggers grant an armour save of 6) also costs three times the
-price of a normal weapon of its kind.
-Critical Damage: Dark blades inflict serious damage on
-their opponents, when rolling on the critical hit chart a Dark
-blade will add +1 to the result.
-Wicked Edge: Dark blades are set with sharp protrusions
-and serrated edges which inflict serious damage on an
-opponent, a roll of 2-4 on the injury table is a Stunned result.
-```
-
-##### Gromril Weapons
-
-Only a Dwarf Runesmith can forge a weapon from Gromril, a rare
-meteoric iron. A blade fashioned from this metal will stay keen for a
-thousand years.
-Special Rules
-A Gromril weapon has an extra -1 save modifier, and costs
-four times the price of a normal weapon of its kind. You may
-choose which type of hand-to-hand weapon is offered to you
-as explained in the Trading section.
-
-##### Ithilmar Weapons
-
-```
-Elven blades are forged from priceless Ithilmar, an extremely light
-but strong metal, found only in the fabled Elven kingdoms. A few of
-these weapons are occasionally found in the Old World and these
-are normally spoils of war, taken by the Norse raiders who pillage
-the coastal settlements of the Elves.
-Special Rules
-An Ithilmar weapon gives its user +1 Initiative in hand-to-
-hand combat, and costs three times the price of a normal
-weapon of its kind. You may choose which hand-to-hand
-weapon is offered to you as explained in the Trading section.
-```
-#### Missile Weapons
-
-##### Blowpipe
-
-The blowpipe is a short hollow tube which can be used to shoot
-poisoned darts. While the darts by themselves are too small to cause
-significant damage, the poison used by the Skaven can cause
-searing agony and eventual death. The other advantage of a
-blowpipe is that it is silent, and a well-hidden shooter can fire the
-darts undetected.
-[Skaven, Forest Goblins & Lizardman Only]
-Range: 8"
-Strength: 1
-Special Rule: Save +1, Poison, Stealthy
-Special Rules
-Save +1: Allows the victim +1 to their Save, or if they have
-no save roll, they may roll a 6+
-Poison: The needles fired by a blowpipe are coated in a
-venom very similar in its effects to the Black Lotus (if you
-roll a 6 on the To Hit roll, the victim is automatically
-wounded). A blowpipe cannot cause critical hits. This
-weapon has a positive armour save modifier, so a model that
-normally has a save of 5+ will get a save of 4+ against a
-blowpipe dart. Even models that normally do not have an
-armour save will get a 6+ save to take into account protection
-offered by clothes, fur or the like.
-Stealthy: A Skaven armed with a blowpipe can fire while
-hidden without revealing his position to the enemy. The
-target model can take an Initiative test in order to try to spot
-the firing Skaven. If the test is successful, the Skaven no
-longer counts as hidden.
-
-##### Bolas
-
-```
-Bolas are a set of three bronze balls on strings tied together. They
-are thrown similar to a sling and are rotated around the head for
-speed. The bolas is a hunting weapon and doesn’t harm the animal.
-It immobilizes it and allows the hunter to either subdue it or put it
-out with his spear.
-[Lizardmen & Amazons Only]
-Range: 16"
-Strength: -
-Special Rule: Dangerous, Entangle, One use only
-Special Rules
-Dangerous: If the to hit roll is a natural 1, the bolas brains
-the caster with a S3 hit.
-Entangle: A model hit by a bolas isn’t hurt, but is entangled
-and the model is unable to move and suffers a WS penalty of
--2 in hand-to-hand combat. The model may still shoot and
-may try to free itself in the recovery phase. If he rolls 4+ on a
-D6 he is freed and may move and fight normally.
-One use only: Once the Bolas has been thrown the Bolas
-cannot be used for the rest of the battle, They are
-automatically recovered after each battle.
-```
-(knights_templar@hotmail.com) Page 24 Assembled by Paul H
-
-
-##### Bolt Thrower
-
-Bolt or dart throwers are large crossbow that shoots a spear-sized
-missile. They are so large that they mounted on their own stand,
-often with wheels so they can be pivoted easily.
-Profile M WS BS S T W I A Ld
-
-Bolt Thrower * - - - 5 3 - - -
-
-Range: 36"
-Strength: 5
-Special Rule: Hard to Fire, Large Target, Movement,
-Save Modifier
-Hard to Fire: Firing the Bolt Thrower requires a good crew,
-a maintained weapon, and technical knowledge. The Bolt
-Thrower can fire once every other turn with one crewman,
-and each turn with two. All of the normal shooting rules
-apply, but no Shooting skills apply to the Bolt Thrower. The
-Bolt Thrower may not move and fire in the same turn.
-Large Target: The Bolt Thrower is still an obvious target
-even from far away, and can always be targeted by enemy
-shooting.
-Movement: Even the Bolt Thrower requires a good crew to
-move it. A single crewmember can move the Bolt Thrower at
-haft his movement, two crewmembers can move it at their
-full movement.
-Save Modifier: Bolt Thrower is even better at penetrating
-armour than their Strength 5 suggests. A warrior wounded by
-a Bolt Thrower must make his armour save with a -2
-modifier.
-
-##### Bow
-
-The bow is carried by most races and used extensively in warfare. It
-is a compact yet powerful weapon, that is cheap to make and easy to
-maintain.
-Range: 24"
-Strength: 3
-Special Rule: None
-
-##### Crossbow Pistol
-
-Crossbow pistols are masterpieces made by expert weapon-smiths.
-They are miniature crossbows with all the power and accuracy of
-the real thing. As these weapons may be easily concealed, they are
-the favoured weapon of assassins.
-Range: 10"
-Strength: 4
-Special Rule: Shoot In Hand-to-Hand Combat
-Special Rules
-Shoot in hand-to-hand combat: A model armed with a
-crossbow pistol may shoot it in the first round of a hand-to-
-hand combat and this shot is always resolved first, before any
-blows are struck. This shot has an extra -2 to hit penalty. Use
-model’s Ballistic Skill to see whether it hits or not. This
-bonus attack is in addition to any close combat weapon
-attacks.
-
-##### Crossbow
-
-```
-A crossbow consists of a short, strong bow-stave mounted on a
-wooden or steel stock. The crossbows of the Empire are made of
-steel and often include a winding mechanism to draw back the
-string. It takes a long time to prepare a crossbow, but a bolt fired
-from one has a tremendous range and can penetrate armour easily.
-Crossbows take much longer than other bows to make, so they are
-expensive and relatively rare weapons. Still, they are the preferred
-weapon of many in Mordheim because of their power and long
-range.
-Range: 30"
-Strength: 4
-Special Rule: Move or Fire
-Special Rules
-Move or Fire: You may not move and fire a crossbow on the
-same turn, other than to pivot on the spot to face your target
-or to stand up.
-```
-##### Elf Bow
-
-```
-Elven bows are the finest missile weapons of their kind. Constructed
-from Ithilmar or wood from the Elf forests, with strings woven from
-the hair of Elf maidens, Elven bows are far superior to any missile
-weapons made by other races. In the hands of an Elven archer, the
-Elf bow is a truly potent weapon, its long range and penetrating
-power making it far superior to any bow made by humans.
-Range: 36"
-Strength: 3
-Special Rule: -1 Save Modifier
-Special Rules
--1 Save Modifier: An Elf bow has a -1 save modifier on
-armour saves against it.
-```
-##### Javelins
-
-```
-Javelins are short throwing spears specially weighted to travel quite
-a distance. Although they have a much reduced range when
-compared to an arrow they can cause quite considerable damage
-when thrown by a person of great strength.
-Range: 8"
-Strength: As User
-Special Rule: Thrown Weapon
-Special Rules
-Thrown Weapon: Javelins are thrown weapons and the
-warrior suffers no penalties for moving and shooting.
-```
-##### Long Bow
-
-```
-A long bow is made of alternating layers of either yew or elm. A
-skilled archer can hit a chosen leaf on a tree from three hundred
-paces with this weapon. The long bow is favoured by experienced
-archers due to its great reach and accuracy.
-Range: 30"
-Strength: 3
-Special Rule: None
-```
-Assembled By Paul H Page 25 (knights_templar@hotmail.com)
-
-
-##### Poison Wind Globes
-
-Poisoned wind globes are fragile spheres of a caustic hellish liquid
-warpstone. When the globe is thrown and the gas is released and it
-dissolves through flesh and armour with equal ease.
-[Skaven, Clan Skryre Only]
-Range: 8"
-Strength: Special
-Special Rule: Thrown Weapon
-Special: Place the Small Blast template within 8” and roll to
-hit using the Ballistic Skill. If a hit is rolled, then roll a D6 for
-each model under the template. On a roll of 4+, the target
-takes a single wound, immediately, with no Strength or
-Toughness roll or armour save possible. If the globe misses
-its intended target, roll a D3 and a scatter die.
-Thrown Weapon: Poison Wind Globes are thrown weapons
-and the warrior suffers no penalties for moving and shooting.
-(Rare 7 for any Clan Skryre Skavens)
-
-##### Repeater Bolt Thrower
-
-Profile M WS BS S T W I A Ld
-Repeater Bolt Thrower * - - - 5 3 - - -
-
-Range: 36"
-Strength: 5
-Special Rule: Fire Twice, Hard to Fire, Large Target,
-Movement, Save Modifier
-[Elves Only]
-Fire Twice: Repeater Bolt Thrower may choose to fire twice
-per turn with an extra -1 to hit penalty on both shots.
-Hard to Fire: Firing the Repeater Bolt Thrower requires a
-good crew, a maintained weapon, and technical knowledge.
-The Repeater Bolt Thrower can fire once every other turn
-with one crewman, and each turn with two. All of the normal
-shooting rules apply, but no Shooting skills apply to the
-Repeater Bolt Thrower. The Repeater Bolt Thrower may not
-move and fire in the same turn.
-Large Target: The Repeater Bolt Thrower is still an obvious
-target even from far away, and can always be targeted by
-enemy shooting.
-Movement: Even the Repeater Bolt Thrower requires a good
-crew to move it. A single crewmember can move the
-Repeater Bolt Thrower at haft his movement, two
-crewmembers can move it at their full movement.
-Save Modifier: Repeater Bolt Thrower are even better at
-penetrating armour than their Strength 5 suggests. A warrior
-wounded by a Repeater Bolt Thrower must make his armour
-save with a -2 modifier.
-
-##### Repeater Crossbow
-
-```
-Repeater crossbows are extremely complex devices, expensive to
-acquire and difficult to make. While this makes them rare, they
-certainly have their uses: they can rain a deadly hail of bolts on
-enemies, and a warrior using one may move quite fast and still fire
-his weapon.
-Range: 24"
-Strength: 3
-Special Rule: Fire Twice
-Special Rules
-Fire Twice: A model armed with a repeater crossbow may
-choose to fire twice per turn with an extra -1 to hit penalty on
-both shots.
-```
-##### Short Bow
-
-```
-Short bows are small, short-ranged bows that are cheap and require
-little strength to use. Some cavalry carry a shortened bow which is
-easier to shoot from horseback than a larger bow. Halflings also use
-short bows, as they lack the strength and height required to use a
-long bow.
-Range: 16"
-Strength: 3
-Special Rule: None
-```
-##### Sling
-
-```
-Slings are rarely used, mainly because they are no more powerful
-than bows and have a shorter range. A sling is little more than a
-looped strip of cloth or leather into which a stone is placed. The
-sling is whirled about the slinger’s head and the sling stone is then
-released towards the target. While this weapon is looked down upon
-by most archers, a skilled slinger can slay a man from a
-considerable distance, and the ammunition is easy to find: rocks are
-everywhere and free!
-Range: 18"
-Strength: 3
-Special Rule: Fire Twice at Half Range
-Special Rules
-Fire Twice at Half Range: A slinger may fire twice in the
-shooting phase if he does not move in the movement phase.
-He cannot shoot over half range (9") though, if he fires twice.
-If the model fires twice then each shot is at -1 to hit.
-```
-##### Sunstaff
-
-```
-The Sunstaff is a long tubular stick that is made from a strange
-multicoloured metal with one end hollow like a tube. Strange runes
-are carved along its length and a large gemstone is set into the
-pommel. Despite being extremely ancient (Elf Lore Masters of the
-White Tower of Hoeth claim to have found a similar device that they
-surmise is more than 20,000 years old – older than the Elven race
-itself!), the wielder of the Sunstaff can discharge a beam of energy
-akin to the rays of the sun.
-Range: 24"
-Strength: 4
-Special Rule: Accurate, No Save
-Special Rules
-Accurate: The Sunstaff does not suffer the usual -1 modifier
-to hit for long range.
-No Save: The beam from a Sunstaff can literally cut through
-anything. A warrior wounded by a Sunstaff receives no
-armour save whatsoever.
-```
-(knights_templar@hotmail.com) Page 26 Assembled by Paul H
-
-
-Assembled By Paul H Page 27 (knights_templar@hotmail.com)
-
-##### Sun Gauntlet
-
-This, as with all strange arcane Amazon items, is made from an
-unknown multicoloured metal that is impervious to damage or
-corrosion. It is covered in strange runes and a bright gemstone is
-set into the hilt. In many ways this weapon resembles a Blackpowder
-pistol. It can be held in one hand and when pointed at an enemy
-unleashes a blinding beam of energy like the Sunstaff
-Range: 12"
-Strength: 4
-Special Rule: Accurate, No Save, Hand-to-Hand
-Special Rules
-Accurate: The Sun Gauntlet does not suffer the usual -1
-modifier to hit for long range.
-No Save: he beam from a Sun Gauntlet can literally cut
-through anything. A warrior wounded by a Sun Gauntlet
-receives no armour save whatsoever.
-Hand-to-Hand: The Sun Gauntlet can be used with another
-close combat weapon in hand to hand combat with Strength 4
-and no armour save. Because it does not require prepared
-shot, this bonus attack may be used in each turn of combat.
-
-##### Throwing Stars/Knives
-
-Throwing stars are used mainly by the assassins of the sinister
-House of Shadows, or by street thugs who specialize in ambushing
-the unwary. A perfectly balanced knife thrown from behind has
-ended the life of many a noble and merchant in Mordheim.
-Throwing knives are not suitable for close combat, as their balance
-makes them unwieldy in close quarters.
-Range: 6"
-Strength: As user
-Special Rule: Thrown Weapon
-Special Rules
-Thrown Weapon: Models using throwing stars or knives do
-not suffer penalties for range or moving as these weapons are
-perfectly balanced for throwing. They cannot be used in close
-combat.
-
-##### Tufenk
-
-```
-This is a blowpipe that projects alchemical fire about eight feet
-causing burning damage.
-Range: 8"
-Strength: 2
-Special Rule: May fire every other turn, Causes fire
-damage.
-Special Rules
-Causes fire damage: If you hit roll a D6, on a 4+ your
-opponent is set on fire. They must roll a D6 each Recovery
-phase, on a 4+ they extinguish the fire or they immediately
-suffer a S4 hit and may only move. Friendly models may help
-in extinguishing the model that is ablaze. They must be in
-base-to-base contact and need to roll a 4+ on a D6. Against
-dry targets like Mummies they are Strength 3 and on a 2+ on
-1D6 the Mummy catches fire.
-Prepare Shot: The Tufenk takes a complete turn to reload,
-so your model may only fire every other turn.
-```
-#### Missile Weapon Upgrades
-
-##### Black Arrow
-
-One shot, non recoverable item. Anyone wounded by the
-Arrow is immediately put Out of Action regardless of
-remaining wounds. Strength as Bow used to fire it.
-
-##### Composite / Compound
-
-A compound or composite bow uses different materials to make a
-better Bow. The bow is usually only limited to the users own
-strength and can be considerably more effective than a normal bow.
-A Bow, Short bow or Longbow may be purchased as a
-Compound bow. The cost is twice that of a bow’s normal
-cost. A compound Bow shoots 50% further and can use the
-strength of the user instead of its normal Strength.
-
-##### Fire Arrows
-
-Fire arrows are tied with rags soaked in oil up in a tight
-pouch that explodes bunched up in a tight pouch that
-explodes when hitting the target, setting clothes and
-equipment alight. If you hit with a fire arrow roll a D6. If you
-score a 4+ your opponent has been set on fire. If the warrior
-
-```
-survives the attack they must score a 4+ in the Recovery
-phase or suffer a Strength 4 hit each turn they are on fire and
-will be unable to do anything other then move. Other warriors
-from the same warband may help to put the flames out if they
-wish. They must move into base-to-base contact and score a
-4+ in the Recovery phase.
-```
-##### Hunting Arrows
-
-```
-The best hunting arrows are made by the hunters of Drakwald
-forest. They have sharp, barbed arrowheads which cause
-excruciating pain when they hit their target. A skilled archer can
-severely injure his target with a single arrow.
-A model using a short bow, bow, long bow or Elf bow may
-use these arrows. They add +1 to all Injury rolls.
-These are available to Heroes at the time of their initial
-recruitment without having to roll for Rarity. If you wish to
-subsequently purchase this item during the Trading and
-Exploration stages of the game, then you would have to roll
-for Rarity as normal.
-```
-
-#### Blackpowder Weapons
-
-Blackpowder weapons are only a very recent invention in the Warhammer world. They are often unreliable and
-temperamental but they do hit exceedingly hard and armour offers almost no protection, as their lead bullets can penetrate
-even the strongest breastplate or shield.
-Most blackpowder weapons are bought from Dwarfs at great expense, though some of the forges of Nuln and Altdorf have
-started to experiment with making handguns.
-
-##### Blunderbuss
-
-A blunderbuss is a primitive Blackpowder weapon, which fires a
-hail of lead balls, rusty bolts, bent nails, and other assorted scrap
-metal. It is a powerful, if erratic, weapon and takes such a long time
-to load that most warriors discard it after the first shot.
-Range: Special
-Strength: 3
-Special Rule: Shot, Fire Once
-Special Rules
-Shot: When your model fires the blunderbuss, draw a line
-16" long and 1" wide in any direction from the firer (the line
-must be absolutely straight). Any and all models in its path
-are automatically hit by a Strength 3 hit.
-Fire Once: It takes a very long time to load a blunderbuss so
-it may only be fired it once per battle.
-
-##### Duelling Pistol
-
-A duelling pistol is a work of art, and a gunsmith labours long and
-hard to produce a single example. They are often carried by
-Imperial nobles to solve disputes over love and honour, and many a
-noble has died at dawn in a duel over some grievance.
-Duelling pistols are prohibitively expensive weapons and common
-warriors rarely have them. Even if they do manage to steal or buy
-one, the ammunition is prohibitively expensive.
-Some of the wealthiest warriors in Mordheim carry duelling pistols
-as status symbols, commanding great respect, admiration and envy.
-Range: 10"
-Strength: 4
-Special Rule: Accuracy, Prepare Shot, Save Modifier,
-Hand-to-Hand
-Special Rules
-Accuracy: A duelling pistol is built for accuracy as a skilled
-duelist is able to hit a coin from twenty paces. All shots and
-close combat attacks from a duelling pistol have a +1 bonus
-to hit.
-Prepare Shot: A duelling pistol takes a complete turn to
-reload, so your model may only fire every other turn. If he
-has a brace of duelling pistols he may fire every turn.
-Save Modifier: Duelling pistols are even better at
-penetrating armour than their Strength 4 suggests. A warrior
-wounded by a duelling pistol must make his armour save
-with a -2 modifier.
-Hand-to-Hand: Duelling pistols can be used in hand-to-hand
-combat as well as for shooting. A model armed with a
-duelling pistol and another close combat weapon gains +1
-Attack, which is resolved at Strength 4 with a -2 save
-modifier. This bonus attack can be used only once per
-combat. If you are firing a brace of duelling pistols, your
-model can fight with 2 Attacks in the first turn of close
-combat. These attacks are resolved with a model’s Weapon
-Skill like any normal close combat attack and likewise may
-be parried. Successful hits are resolved at Strength 4 and with
-a -2 save modifier, regardless of the firer’s Strength.
-
-##### Hand-held Mortar
-
-```
-The explosive power of a mortar, in a small enough package to be
-carried by a single man, the Hand-Held Mortar enables a warrior to
-launch an explosive into the midst of the enemy, sowing death and
-disorder.
-Range: 24"
-Strength: 4
-Special Rule: Experimental, Explosive Radius, Move or
-Fire, Prepare Shot, Save Modifier, Scatter,
-SPECIAL RULE
-Experimental: The Hand-Held Mortar is always subject to
-the optional Blackpowder Weapons, even if they are not
-normally used in your campaign. On any result other than
-“BOOM!” the weapon has jammed or run out of loaded
-barrels and must be reloaded.
-Explosive Radius: After determining the final landing spot,
-the explosion created by the bomb will cover a small area.
-Place the small blast template on the final landing spot, any
-models under the template will each take a single S4 hit from
-the blast.
-Move or Fire: You may not move and fire a Hand-Held
-Mortar in the same turn, other than to pivot on the spot to
-face your target or stand up from knocked down.
-Prepare Shot: The Hand-Held Mortar must be reloaded after
-firing, so may only be fired every other turn.
-Save Modifier: Hand-Held Mortar are even better at
-penetrating armour than their Strength value of 4 suggests. A
-model wounded by a Hand-Held Mortar must take its armour
-save with a -2 modifier.
-Scatter: If the warrior misses his roll to hit, the shot will land
-2D6” in a random direction (determined using a Warhammer
-directional die, using the “clock-face method” of scattering,
-or whatever other method the players can agree to).
-```
-(knights_templar@hotmail.com) Page 28 Assembled by Paul H
-
-
-##### Handgun
-
-A handgun is a simple firearm. The quality of construction varies
-ranging from the crude wooden ‘hakbuts’ of the artillery school of
-Nuln, to the more sophisticated Dwarf firearms that have levers and
-springs which hold the burning match, and triggers which release
-the firing mechanism and fire the gun. Handguns are not terribly
-reliable weapons: the gun barrel occasionally tends to explode
-violently or the powder fails to ignite. But the weapon has a great
-range and tremendous penetrating power, making a mockery of even
-the thickest armour. In Mordheim, handguns are rare and
-expensive, but a warband which can boast such a weapon will
-command respect from all its rivals.
-Range: 24"
-Strength: 4
-Special Rule: Prepare Shot, Save Modifier,
-Special Rules
-Prepare Shot: A handgun takes a complete turn to reload, so
-you may only fire it every other turn.
-Move or Fire: You may not move and fire a handgun in the
-same turn, other than to pivot on the spot to face your target
-or stand up.
-Save Modifier: Handguns are even better at penetrating
-armour than their Strength 4 suggests. A warrior wounded by
-a handgun must take its armour save with a -2 modifier.
-
-##### Hochland Long Hunting Rifle
-
-Hochland is a province famed for its hunters, and the preferred
-weapon of its nobility when they go hunting is a long-ranged rifle.
-They are extremely rare and precious weapons, and only the most
-experienced weapon smiths are capable of manufacturing them.
-Range: 48"
-Strength: 4
-Special Rule: Move or Fire, Prepare Shot, Pick Target,
-Save Modifier
-Special Rules
-Move or Fire: You may not move and fire a Hochland long
-rifle in the same turn, other than to pivot on the spot to face
-your target or stand up from knocked down.
-Prepare Shot: A Hochland long rifle takes a complete turn
-to reload, so you may only fire it every other turn.
-Pick Target: A model armed with a Hochland long rifle can
-target any enemy model in sight, not just the closest one.
-Save Modifier: Hochland long rifles are even better at
-penetrating armour than their Strength 4 suggests. A warrior
-wounded by a long rifle must make his armour save with a -2
-modifier.
-
-##### Jezzail Rifle
-
-```
-Jezzail are warpstone-firing rifle designed by the engineers of Clan
-Skryre. The blast of a Jezzail can be heard over great distances, as
-can the screams of the targets.
-[Skaven, Clan Skryre Only]
-Range: 36"
-Strength: 5
-Special Rule: Heavy, Move or Fire, Multiple Impacts,
-Prepare Shot, Pick Target, Save Modifier,
-Special Rules
-Heavy: The Jezzail Rifle is a large heavy weapon and at
-some times needed two to carry it. If used by only one then
-the shooter has a -1 to movement, a -1 to hit and cannot
-charge. If the shooter(s) have to flee then they would drop the
-Jezzail Rifle. The Jezzail Rifle counts as being lost.
-If the user has an Assistant, then there is no movement and no
-to hit penalties.
-Move or Fire: You may not move and fire a Jezzail Rifle in
-the same turn, other than to pivot on the spot to face your
-target or stand up from knocked down.
-Multiple Impacts: the Jezzail Rifle fires a warpstone pellet
-at an extremely high velocity. The pellet can penetrate
-armour and flesh with ease. So any target hit cause by the
-Jezzail Rifle causes d3 wounds.
-Prepare Shot: A Jezzail Rifle takes a complete turn to
-reload, so you may only fire it every other turn.
-Pick Target: A model armed with a Jezzail Rifle can target
-any enemy model in sight, not just the closest one.
-Save Modifier: Jezzail Rifles are even better at penetrating
-armour than their Strength 5 suggests. A warrior wounded by
-a Jezzail Rifle must make his armour save with a -1 modifier.
-(Rare 9 for any Clan Skryre Skavens)
-```
-##### Nuln Shotgun
-
-```
-By Josh Alexander
-The Nuln Shotgun is an experimental weapon that has yet to enter
-general service. It is essentially a blunderbuss with a shorter, even
-more flared barrel that has been modified to shoot premade
-cartridges. What it lacks in range it makes up for in accuracy, and is
-particularly useful in cramped city fighting.
-Range: 12"
-Strength: 3
-Special Rule: Armour Piercing, Blast, Prepare Shot
-Special Rules
-Armour Piercing: Being a black powder weapon, the Nuln
-Shotgun benefits from an additional -1 to the enemy’s armour
-save.
-Blast: The large spread of shot from the barrel makes it very
-easy to hit nearby targets, but the blast quickly disperses. The
-Nuln Shotgun ignores shooting penalties for cover and
-movement, but suffers a –2 penalty for shooting at targets at
-over half range.
-Prepare Shot: The Nuln Shotgun must be reloaded after
-firing, so may only be fired every other turn.
-```
-Assembled By Paul H Page 29 (knights_templar@hotmail.com)
-
-
-##### Pistol
-
-A pistol is a small, simple Blackpowder weapon fired by a spring
-mechanism. Most pistols are expensive, unreliable, and poorly
-constructed.
-Range: 6"
-Strength: 4
-Special Rule: Prepare Shot, Save Modifier, Hand-to-Hand
-Special Rules
-Prepare Shot: A pistol takes a whole turn to reload, so you
-may only fire every other turn. If you have a brace of pistols
-(i.e., two) you may fire every turn.
-Save Modifier: Pistols are even better at penetrating armour
-than their Strength value of 4 suggests. A model wounded by
-a pistol must take its armour save with a -2 modifier.
-Hand-to-Hand: Pistols can be used in hand-to-hand combat
-as well as for shooting. A model armed with a pistol and
-another close combat weapon gains +1 Attack, which is
-resolved at Strength 4 with a -2 save modifier. This bonus
-attack can be used only once per combat. If you are firing a
-brace of pistols, your model can fight with 2 Attacks in the
-first turn of close combat. These attacks are resolved with a
-model’s Weapon Skill like any normal close combat attack
-and likewise may be parried. Successful hits are resolved at
-Strength 4 and with a -2 save modifier, regardless of the
-firer’s Strength.
-
-##### Repeater Handgun
-
-The next step in the evolution of multi-barrelled weapons, a
-Repeater Handgun mounts a number of handgun barrels around a
-rotating cylinder, each one firing in turn. Prone to misfiring or
-other malfunction, Repeater Handguns are still highly sought after
-items, as they will launch a veritable storm of lead at the enemy if
-they don’t break down.
-Range: 24"
-Strength: 4
-Special Rule: Experimental, Fire Thrice, Move or Fire,
-Save Modifier, Slow Reload,
-Special Rules
-Experimental: The Repeater Handgun is always subject to
-the optional Blackpowder Weapons rules from the Mordheim
-rulebook, even if they are not normally used in your
-campaign. On any result other than “BOOM!” the weapon
-has jammed or run out of loaded barrels and must be
-reloaded.
-Fire Thrice: The Repeater Handgun may fire up to three
-shots; if more than one shot is made the to hit roll is at -1.
-Resolve each shot individually, you may choose to shot later
-shots at a different target, but they must be within 3" of the
-previous target. Ordinary targeting restrictions apply to shots
-as per Mordheim rulebook.
-Move or Fire: You may not move and fire a Repeater
-Handgun in the same turn, other than to pivot on the spot to
-face your target or stand up from knocked down.
-Save Modifier: Repeater Handguns are even better at
-penetrating armour than their Strength value of 4 suggests. A
-model wounded by a Repeater Handgun must take its armour
-save with a -2 modifier.
-Slow Reload: To reload a Repeater Handgun takes a long
-time and a bit of focus. The warrior must do nothing (no
-moving, no shooting, no fighting in close combat, etc.) for a
-complete turn in order to reload the weapon.
-
-##### Repeater Pistol
-
-```
-It wasn't long after the invention of the repeater handgun that the
-same principle was being used on pistols. Still prone to misfiring or
-other malfunction, they have found a place in gunnery bands
-armouries. Stories of calm instructors gunning down hordes of foes
-within feet of themselves are legendary and in all likelihood untrue.
-But it just could happen....
-Range: 6"
-Strength: 4
-Special Rule: Experimental, Fire Thrice, Move or Fire,
-Not a Club, Quick Reload, Save Modifier,
-Special Rules
-Experimental: The Repeater Pistol is always subject to the
-optional Blackpowder Weapons rules from the Mordheim
-rulebook, even if they are not normally used in your
-campaign. On any result other than “BOOM!” the weapon
-has jammed or run out of loaded barrels and must be
-reloaded.
-Fire Thrice: The Repeater Pistol may fire up to three shots;
-if more than one shot is made the to hit roll is at - 1. Resolve
-each shot individually, you may choose to shot later shots at a
-different target, but they must be within 3" of the previous
-target. Ordinary targeting restrictions apply to shots as per
-Mordheim rulebook.
-Move or Fire: You may not move and fire a Repeater Pistol
-in the same turn, other than to pivot on the spot to face your
-target or stand up from knocked down.
-Not a Club: The Repeater Pistol may be used as a normal
-pistol in the first round of combat. After that it doesn't count
-as an additional hand weapon as it is far too delicate to risk in
-such a crude fashion. Its owner will not willingly discard it in
-a fight and so must fight on without the use of an additional
-hand weapon.
-Quick Reload: The basic design of the pistol and number of
-barrels allows quick reloading, the pistol will always be able
-to fire at least one shot. After shooting more than one shot in
-a single turn the model must spend a complete shooting phase
-without shooting and without being in combat, before firing
-multiple shots (see Fire Thrice, above) may be taken again.
-Save Modifier: Repeater Pistols are even better at
-penetrating armour than their Strength value of 4 suggests. A
-model wounded by a Repeater Pistol must take its armour
-save with a -2 modifier.
-```
-##### Rifle
-
-```
-Range: 36"
-Strength: 4
-Special Rule: Move or Fire, Prepare Shot, Save Modifier,
-SPECIAL RULE
-Move or Fire: You may not move and fire a Rifle in the
-same turn, other than to pivot on the spot to face your target
-or stand up from knocked down.
-Prepare Shot: A rifle takes a whole turn to reload, so you
-may only fire every other turn.
-Save Modifier: Rifles are even better at penetrating armour
-than their Strength value of 4 suggests. A model wounded by
-a rifle must take its armour save with a -2 modifier.
-```
-(knights_templar@hotmail.com) Page 30 Assembled by Paul H
-
-
-Assembled By Paul H Page 31 (knights_templar@hotmail.com)
-
-##### Small Cannon
-
-While the cannon can slow the warband down somewhat, it is
-extremely useful against the larger creatures inhabiting the City of
-the Damned.
-Profile M WS BS S T W I A Ld
-
-Small Cannon * - - - 5 3 - - -
-
-Range: 8" - 36"
-Strength: 5
-Special Rule: Hard to Fire, Large Target, Movement,
-Save Modifier
-Special Rules
-Hard to Fire: Firing a Small Cannon requires a good crew, a
-maintained weapon, and technical knowledge. The Small
-Cannon can fire once every other turn with one crewman, and
-each turn with two. All of the normal shooting rules apply,
-but no Shooting skills apply to the Small Cannon. The
-cannon may not move and fire in the same turn.
-Large Target: Small Cannon is still an obvious target even
-from far away, and can always be targeted by enemy
-shooting.
-Movement: Even the Small Cannon require a good crew to
-move it. A single crewmember can move the Small Cannon
-at haft his movement, two crewmembers can move it at their
-full movement.
-Save Modifier: Small Cannon are even better at penetrating
-armour than their Strength 5 suggests. A warrior wounded by
-a Small Cannon must make his armour save with a -3
-modifier.
-[Thanks to Josh Alexander for the idea].
-
-##### Warpfire Thrower
-
-The Warpfire thrower has an awesome potential to sends a jet of
-liquid warpstone napalm that ignites in a searing magical flaming
-conflagration. Since its magic is supported by mechanical means,
-the net result is a blast more powerful than either could achieve
-alone.
-[Skaven, Clan Skryre Only]
-Range: Special Attack (see below)
-Strength: 5
-Special Rule: Cumbersome, Heavy, Move or Fire, Pick
-Target, Save Modifier, Special Attack,
-Misfire
-Special Rules
-Cumbersome: Because the Warpfire Thrower is so heavy, a
-model equipped with one may use no other weapons or
-equipment.
-Heavy: The Warpfire Thrower is a large heavy weapon and
-at some times needed two to carry it. If used by only one then
-the shooter has a -2 to movement, a -1 to Weapon Skill and
-cannot charge. If the shooter(s) have to flee then they would
-drop the Warpfire Thrower. The Warpfire Thrower counts as
-being lost.
-If the user has an Assistant, then there is only a -1 to
-movement and Weapon Skill penalty.
-Move or Fire: You may not move and fire a Warpfire
-Thrower in the same turn, other than to pivot on the spot to
-face your target or stand up from knocked down.
-
-```
-Pick Target: A model armed with a Warpfire Thrower can
-target any enemy model in sight, not just the closest one.
-Save Modifier: Warpfire Thrower are even better at
-penetrating armour than their Strength 5 suggests. A warrior
-wounded by a Warpfire Thrower must make his armour save
-with a -2 modifier.
-Special Attack: The Warpfire Thrower dose not fire like
-other weapons been a volatile mixture of warpstone dust, oil,
-& alcohol; firstly choose a target, place the Small Flame
-Template at the base on the model towards the target, then
-roll the Artillery Dice and moving the Small Flame Template
-by the result (in inches) towards the Target. The Target and
-any other model which the Small Flame Template passes
-over is hit automatic and causing D3 Wounds.
-Misfire: The Warpfire Thrower is always subject to the
-optional Blackpowder Weapons rules, even if they are not
-normally used in your campaign. On any result other than
-“BOOM!” replace with the following:
-Fireball: The Warpfire Thrower explodes into a
-conflagration of bright green flames, the Weapon, User
-(& Assistant) are destroyed, and any model within 2” of
-the User, suffer a Strength 5 hit, causing D3 wound.
-```
-##### Warplock Pistol
-
-```
-Warplock pistols are terrifying weapons, testimony to the mad
-genius of Clan Skryre engineers. Warplock pistols shoot ammunition
-made of magically treated warpstone and wounds caused by
-Warplock pistols are horrible to behold and often cause infections.
-[Skaven Only]
-Range: 8"
-Strength: 5
-Special Rule: Save -3, Fire Every Other Turn
-Special Rules
-Save -3: Victim suffers -3 to their Save roll.
-Fire Every Other Turn: May be fired once every other turn.
-Braces may be fired once every turn, or twice every other
-turn.
-```
-
-#### Blackpowder Weapons Upgrades
-
-##### Bayonet
-
-Range: Close Combat
-Strength: As user
-Special Rule: Attachment, Strike First, Two-handed
-Special Rules
-Attachment: The Bayonet must be attached to a Handgun,
-Rifle or Hunting Rifle. The weapon mounted with a Bayonet
-acts like a Spear in close combat, but all Shooting attacks
-have a -1 to hit while the Bayonet is attached. The weapon
-can’t fire for the turn the Bayonet in attached.
-Strike First: A warrior armed with a Bayonet strikes first in
-the first turn of hand-to-hand combat.
-Two-handed: A Bayonet requires two hands to be used and
-the wielder cannot use a shield, buckler or additional weapon
-in close combat.
-
-##### Double-barrelled
-
-Knowing Ostlanders’ penchant for impressive weaponry (and ready
-willingness to spend excessive amounts of money) a Weaponsmith
-from Hochland decided to weld two barrels together on a pistol and
-sell it for twice the price. The Warband was so impressed with their
-new weapon that they asked him to do the same to their hunting
-rifle. Since then the Weaponsmith has been flooded with orders from
-some of the most powerful Warbands in Mordheim.
-Special Rules
-A double-barrelled weapon is a tricky piece of engineering,
-but it’s a wonderful piece for combat. When firing such a
-weapon, the bearer must declare whether he is firing one or
-both barrels. If firing a single barrel, treat the shot as you
-would a normal weapon. However when firing both barrels,
-the method changes slightly:
-To hit: Roll a single dice as you would normally. This allows
-for a narrow field of fire emanating from the weapon.
-To wound: Roll for each shot individually, as each shot can
-wound on its own. Treat each shot that inflicts Critical Hits
-separately.
-Reloading: After firing both barrels, place 2 tokens on the
-model. In your next shooting phase remove 1 token to
-represent one barrel having been reloaded. Token removal
-should be the last thing done in your shooting phase and you
-cannot shoot in the same phase as your reload.
-Firing a Brace: If you fire both guns and barrels at the same
-time, place 4 tokens down, 2 each of different colours (one
-for each pistol in the brace). Remove one token of each
-colour every turn.
-Used On: This upgrade can only be used on Pistols, Duelling
-Pistols, Handguns, Hochland long rifles, & Nuln Shotgun.
-
-##### Heavier Ammunition
-
-```
-Heavier Ammunition is a special round; it may use Nickel or some
-other heaver metal for the shot.
-Heavier Ammunition increases the strength of one rifle shot
-by 1. Heavy shot may only be used once.
-```
-##### Modified Gunsight
-
-```
-Gunsmiths are known for their innovative approach to battlefield
-invention. A modified gunsight is simply the sight from a Hochland
-Long rifle that has been altered to fit a standard handgun.
-The result is a longer effective range due to the better aim. A
-Modified Gunsight increases the maximum range of a
-handgun to 30”. Note that this does not increase the
-handgun’s short range, and that shooting at targets further
-than 12” away will be subject to the usual –1 modifier.
-```
-##### Silver Bullets
-
-```
-Silver has always been rumoured to be the bane of evil creatures.
-Gunsmiths are able to cast ammunition from silver, for use in any
-black powder weapons (other than Blunderbuss or Nuln shotgun).
-Firearms using silver bullets gain a +1 bonus to wound
-undead and Possessed, Silver Bullets can be loaded into one
-black powder weapon, and last for a single game.
-```
-##### Superior Blackpowder
-
-```
-The model has acquired a better quality of blackpowder than
-is normally available. This new batch adds +1 Strength to all
-blackpowder weapons that the model has. There is enough
-superior blackpowder to last for one game.
-```
-(knights_templar@hotmail.com) Page 32 Assembled by Paul H
-
-
-#### Armour & Clothing
-
-When fighting in close combat, a good suit of armour may mean the difference between life and death. The finest armour
-in the known world is made in Dwarf forges, where the secrets of steel and fire are well understood. Hardened leather
-jackets are often worn by the hunters of Osterland, while city soldiers prefer mail coats and steel breastplates. The forges of
-the Empire have many skilled smiths capable of forging fine armour, for the humans learned this craft from Dwarf master
-smiths in the early days of the Empire.
-In Mordheim, only the most wealthy and powerful are able to afford the luxury of owning a suit of armour (the less well-off
-have to make do with leather tunics and occasionally helmets and wooden shields). The richest leaders of the most
-successful warbands wear suits of high quality armour and a good suit of armour is just as much a symbol of wealth and
-power as it is protection against weapons.
-
-##### Barding
-
-Barding is armour for a horse in the same way that light and heavy
-armour is for a human. It covers the mount’s hide and in some cases
-the head.
-[Warhorses Only]
-Special Rules
-A model mounted on barded horse receives an additional +1
-Armour save (+2 instead of +1 for being mounted). In
-addition, a mount wearing barding will only be killed on a D6
-roll of a 1 if the model is taken out of action.
-
-##### Bracers
-
-Special Rules
-Wearer may Parry. Does not occupy users hands. May be
-used in conjunction with weapons that allow to parry but not
-Bucklers or Shields.
-
-##### Buckler
-
-Bucklers are small, round shields designed for parrying or
-deflecting blows. They are usually made of steel for they need to be
-tremendously durable to survive the brutal blows of hand-to-hand
-combat. Using a buckler requires great skill, but a nimble warrior
-can protect himself from blows which would otherwise cripple him.
-Special Rules
-Parry: A model equipped with a buckler may parry the first
-blow in each round of hand-to-hand combat. When his
-opponent scores a hit, a model with a buckler may roll 1D6.
-If the score is greater than the highest to hit score of his
-opponent, the model has parried the blow, and that attack is
-discarded. A model may not parry attacks made with double
-or more its own Strength – they are simply too powerful to be
-stopped.
-
-##### Cathayan Silk Clothes
-
-Some rich warband leaders like to flaunt their wealth and purchase
-clothes made out of silk from distant Cathay. This silk is the most
-expensive fabric in the known world, and wearing such clothes is a
-sure way to attract attention – especially thieves and assassins!
-Any Mercenary warband whose leader is wearing silk clothes
-may re-roll the first failed Rout test. However, after each
-battle in which the leader is taken out of action, roll a D6. On
-a roll of 1-3 the clothes are ruined and must be discarded.
-
-##### Cold Metal Armour
-
-```
-Wood Elves do not use forges; they have a special smithing style
-known by outsides as “Cold Forging”. Cold Forging is a mix of
-both physical and magical techniques known only to the Wood
-Elves. The Metal which comes from this Cold Forging technique is
-call Cold Metal.
-Special Rules
-Save: Cold Metal Armour gives the wearer a 5+ basic save,
-and does not slow him down if he is also armed with a shield.
-The Cold Metal Armour is so light and strong that other
-armour giving the wear has more movement. Cold Metal
-Armour gives the wear a -1 to hit in Close Combat.
-```
-##### Dark Steel Armour
-
-```
-Dark Steel armour like Dark Steel Weapons are forged in the city of
-Hag Graef, the Dark Crag. They are fashioned from Black steel, a
-rare form of steel found deep within the mountains around the city.
-Special Rules
-Save: Dark Steel armour gives the wearer a 5+ basic save,
-and does not slow him down if he is also armed with a shield.
-The Dark Steel Armour is stronger that other armour, Dark
-Steel Armour gives the wear a -1 to wound in Close Combat.
-```
-##### Elven Cloak
-
-```
-Made from the hair of Elven maidens and interwoven with living
-tree leaves, an Elven cloak is a wonder to behold. A warrior
-wearing such a cloak will blend into the shadows, making it very
-difficult to shoot at them with missile weapons. Elven cloaks rarely
-come up for sale, but are sometimes recovered from dead warriors
-or offered by Elves as rewards to men who have served them in
-some way.
-A warrior aiming a missile weapon at a warrior wearing an
-Elven cloak suffers -1 on his to hit roll.
-Being from Ulthuan, Shadow Warriors have access to items
-that are rarely seen by other races; 75 + D6x10 GC;
-Availability: Rare 12
-```
-Assembled By Paul H Page 33 (knights_templar@hotmail.com)
-
-
-##### Forest Cloak
-
-[Outlaw Heroes and Wood Elves only]
-Some Outlaws use Forest Cloaks to camouflage themselves
-against being seen by their enemies. Any wearer of such a
-cloak would appear to blend into the surrounding forest
-making it almost impossible to be seen. So long as the wearer
-is beside a tree, bush, hedge or vegetation, any enemy using
-any kind of missile weapon at a warrior wearing a Forest
-Cloak is at an additional -1 BS to hit (in addition to all other
-modifiers). Similarly, if any spellcaster wishes to target a
-magical attack against an Outlaw camouflaged in this way, he
-can only do so by successfully rolling a 4+ on a D6. The only
-exception to this is if the shooting warrior or the spellcaster is
-already within their Initiative range in inches. Forest Cloaks
-are available to Heroes at the time of their initial recruitment
-without having to roll for Rarity. If you wish to subsequently
-purchase this item during the Trading and Exploration stages
-of the game, then you would have to roll for Rarity as
-normal.
-
-##### Gromril Armour
-
-Gromril is the rarest and strongest metal known of in the Old
-World. Only a very few Dwarf smiths know the secret of forging
-Gromril, and a suit of armour made from it fetches a huge price.
-Special Rules
-Save: Gromril armour gives the wearer a 4+ basic save, and
-does not slow him down if he is also armed with a shield.
-
-##### Heavy Armour
-
-Typical heavy armour is made from metal links and is called chain
-mail. Forging chain mail is a laborious and time consuming
-process, as the blacksmith must put together hundreds, sometimes
-thousands, of metal links. This makes chain mail expensive, but this
-type of armour provides excellent protection for anyone who can
-afford it.
-There are other types of heavy armour as well, of which the best
-known are the steel breastplates and greaves worn by the foot
-knights of the Templar orders.
-Special Rules
-Save: A warrior that is wearing heavy armour has a basic D6
-saving throw of 5+.
-Movement: A warrior that is armed with both heavy armour
-and a shield suffers a -1 Movement penalty.
-
-##### Helmet
-
-From the shining steel helmets of Bretonnian knights to the
-leather caps of the Skaven, all sensible warriors try to protect
-the most vulnerable part of their body – their head. Even the
-most vain fighters still use a helmet, as it can be festooned
-with plumes, horns and other decorations. Helmets come in
-varying shapes and sizes, but their basic function remains the
-same.
-Special Rules
-Avoid Stun: A model that is equipped with a helmet has a
-special 4+ save on a D6 against being stunned. If the save is
-made, treat the stunned result as knocked down instead. This
-save is not modified by the opponent’s Strength.
-
-##### Ithilmar Armour
-
-```
-Ithilmar is a silvery metal which is as light as silk and stronger than
-steel. Elves are experts at fashioning weapons and armour from
-Ithilmar, and the Elven kingdom of Caledor is the only place in the
-world where this metal can be found.
-Special Rules
-Save: Ithilmar armour gives the wearer a 5+ basic save, and
-does not slow him down if he is also armed with a shield.
-```
-##### Light Armour
-
-```
-Light armour encompasses a wide variety of materials from
-hardened leather tunics to chain shirts forged from steel. It does not
-offer complete protection against arrows or swords, but it is better
-than having nothing at all. Light armour does not inhibit movement.
-Special Rules
-Save: A warrior who is wearing light armour has a basic D6
-saving throw of 6.
-```
-##### Pavise
-
-```
-A pavise is a huge shield commonly used by regiments of
-warriors in a battle to defend themselves from the arrows of
-their enemies. It is a weighty item and little use in a long
-protracted combat but excellent against shooting.
-Special Rules
-Cover/Save: A warrior using a pavise counts as if he is in
-cover against missile attacks (-1 to hit). In close combat, the
-pavise counts as a shield (+1 armour save) but only if the
-warrior was charged to his front. Because the pavise is so
-heavy and cumbersome, the bearer moves at half pace.
-```
-##### Reinforced Plate Armour
-
-```
-By Josh Alexander
-Reinforced Plate is a new type of armour manufactured in the
-Gunnery School of Nuln. It is based on an ordinary suit of Heavy
-Armour, but has additional plating covering the joints and chest
-plate to add resistance against firearms.
-Special Rules
-Save: Reinforced Plate Armour gives the wearer a 5+ armour
-save. In addition, the extra plates negate Armour Piercing
-ability of black powder weapons, meaning S4 black powder
-weapons will only have a –1 armour save penalty.
-Cumbersome: The heavy plating restricts movement and
-reaction time, reducing the Initiative of the wearer by one.
-When Reinforced Plate Armour is combined with a shield, it
-reduces the movement of the wearer by 1”, exactly like heavy
-armour.
-```
-##### Sea Dragon Cloak
-
-```
-Dark Elf Corsairs use special cloaks fashioned from Sea Monsters
-that dwell deep in the oceans depths. These cloaks are tough and
-resilient and offer Dark Elves with a very good amount of
-protection.
-[Dark Elves Only]
-Special Rules
-Scales: the model wearing a Sea Dragon Cloak will gain +2
-to his armour saves in close combat and a 4+ armour save
-against all missiles attacks.
-```
-(knights_templar@hotmail.com) Page 34 Assembled by Paul H
-
-
-Assembled By Paul H Page 35 (knights_templar@hotmail.com)
-
-##### Shield
-
-There are two types of shield common to the warriors of Mordheim:
-the first is made of wood, occasionally reinforced with metal plates.
-This basic type of shield, although strong, does tend to splinter, but
-this can sometimes save the user’s life as his enemy’s weapon can
-get trapped allowing him to strike back whilst his enemy struggles to
-free his weapon.
-Metal shields are heavy and cumbersome, but last much longer and
-can take a battering. A typical Empire shield is either round or
-triangular, and carries the emblem of the province or city of its
-owner.
-Special Rules
-Save: A model with a shield has a basic save of 6 on a D6.
-
-##### Toughened Leathers
-
-Expert leatherworkers are able to turn leather coats into armour
-(after a fashion) and those with limited funds often favour these
-jackets and coats as armour is very expensive. Covered with crusted
-salt, alcohol and other less savoury materials, toughened leather is
-hard to penetrate and offers some protection in combat.
-Special Rules
-Toughened leathers work exactly like light armour, giving the
-wearer a 6+ Armour save, but cannot be combined with the
-effects of any other armour except a helmet or buckler.
-Toughened leathers cannot be sold back at the Trading Posts;
-the stench alone is enough to drive away even the most
-
-## desperate of buyers!
-
-##### Wolfcloak
-
-```
-In Middenheim it is still considered to be the feat of a true man to
-slay a great wolf single-handed. Warriors who accomplish such a
-deed will command the respect of their peers, and their cloaks will
-be blessed by the High Priest of the Cult of Ulric, the god of winter,
-war and wolves.
-[Middenheimers Only]
-Special Rules
-To acquire a Wolfcloak, a Hero must pay 10 GC (to represent
-the expense of travelling to Middenheim and taking part in a
-hunt). In addition, the Hero must roll equal to or under his
-Strength on a D6. If successful, the Hero finds and slays the
-wolf and can wear its cloak as a mark of his skill and
-prowess. Note that Middenheimers may buy Wolfcloaks
-when starting their warband without making a test for
-availability. A model wearing a Wolfcloak will gain +1 to his
-armour saves against all shooting attacks.
-```
-
-### Miscellaneous equipment
-
-This section covers all the strange and unusual equipment your warriors can find in the ruins or buy from the
-merchants and pedlars in the settlements and villages around Mordheim.
-Only Heroes may buy and carry the equipment described in this section. You may not give it to Henchmen unless the
-rules specifically say so.
-
-#### Alcohol, Drugs, Poisons & Potions
-
-The use of poison is almost universally abhorred, but in the ruthless and brutal battles fought in Mordheim, desperate warbands often resort
-to the use of envenomed blades.
-Poison may not be used with blackpowder weapons. When you buy a vial of poison, there is always only enough to last the duration of one
-battle. You can only poison a single weapon with one vial of poison.
-
-##### Black Lotus
-
-In the deepest forests of the Southlands grows a plant that is
-extremely poisonous. It is known as Black Lotus and is much sought
-after by alchemists, assassins, wizards of the Western Coast and
-bored wives.
-[Not available to Witch Hunters, Warrior-Priests or Sisters of
-Sigmar]
-[Rare 7 for Skaven]
-A weapon coated with the sap of the Black Lotus will wound
-its target automatically if you roll a 6 to hit. Note that you can
-still roll a dice for every wound inflicted in this way. If you
-roll a 6, you will inflict a critical hit with that roll. If you do
-not roll a 6, you will cause a normal wound. Take armour
-saves as normal.
-
-##### Blessed Water
-
-The priests of Ulric, Sigmar, Morr and Manann hold great power
-over evil. Pure water from a clear fountain, blessed by one of these
-priests, is said to burn things of darkness and evil.
-[May not be bought by Undead]
-[Common for Warrior-Priests & Sisters of Sigmar]
-A vial of blessed water contains enough liquid for just one
-use, and has a thrown range of twice the thrower’s Strength
-in inches. Roll to hit using the model’s BS. No modifiers for
-range or moving apply. Blessed water causes 1 wound on
-Undead, Daemon or Possessed models automatically. There
-is no armour save. Undead or Possessed models may not use
-blessed water.
-
-##### Bugman’s Ale
-
-Of all the Dwarf brewmasters, Josef Bugman is the most famous.
-His ale is known throughout the Old World, and widely regarded as
-the best.
-A warband that drinks a barrel of Bugman’s before a battle
-will be immune to fear for the whole of the battle. Elves may
-not drink Bugman’s ale as they are far too delicate to cope
-with its effects. There is only enough ale to supply the
-warband for one battle.
-
-##### Crimson Shade
-
-Crimson Shade is the name given by Old Worlders to the
-leaves of the blood oak of Estalia. It is an extremely addictive
-drug, but grants its users inhuman quickness and strength.
-Effect: A model using Crimson Shade has his Initiative
-increased by +D3 points, and Movement and Strength by +1
-(this effect lasts for one game). Crimson Shade has no effect
-on Undead such as Vampires and Zombies, or the Possessed.
-Side Effects: After the battle, roll 2D6. On a roll of 2-3, the
-model becomes addicted and you must try to buy him a new
-batch of Crimson Shade before every battle from now on. If
-you fail to buy any, he will leave your warband. On a roll of
-12 the model’s Initiative is increased permanently by +1.
-
-##### Dark Venom
-
-```
-This is a poison extracted from Heldrakes, gigantic sea serpents that
-plague the Western Ocean and the coast of Naggaroth. The slightest
-wound infected by Dark Venom causes excruciating pain,
-incapacitating the bravest of men.
-[Not available to Witch Hunters, Warrior-Priests, or Sisters
-of Sigmar]
-Any hit caused by a weapon coated with Dark Venom counts
-as having +1 Strength, so, for example, if a warrior with
-Strength 3 wielding a poisoned sword hits an opponent, he
-will cause a Strength 4 hit instead. Armour saving throws are
-modified to take into account the increased Strength of the
-attack.
-```
-##### Elven Wine
-
-```
-[Shadow Warriors Only, one use only]
-High Elven wines are well known to be the best in the world,
-and some are even rumoured to have magical qualities. A fine
-Elven Wine can cast out doubt and fear and leave a general
-feeling of well-being in a warrior. A Shadow Warrior
-Warband that drinks Elven Wine before a battle will be
-immune to Fear for the whole of the battle.
-```
-##### Garlic
-
-```
-[May not be bought by Undead]
-Garlic is a common herb grown in most gardens of the
-Empire. It is said to ward off Vampires and other denizens of
-the dark. A Vampire must pass a Leadership test or it will be
-unable to charge a model carrying a clove of garlic. Garlic
-lasts for the duration of one battle only, whether it is used or
-not.
-```
-##### Healing Herbs
-
-```
-Certain plants that grow on the banks of the River Stir have
-curative properties. Herbalists collect their roots and leaves
-and use them to treat the sick and wounded. A Hero with
-healing herbs can use them at the beginning of any of his
-recovery phases as long as he is not engaged in hand-to-hand
-combat. This restores all wounds he has previously lost
-during the game. Amazon Warriors are master herbalists and
-may buy Healing Herbs as common items, instead of rare
-items, for 35 GC.
-```
-##### Healing Potion
-
-```
-May be used during the battle or after
-● Effect - During Game: Restore 1 lost wound
-● Effect - After Game: Model ignores all results on Serious
-injury Chart except for Dead, Captured or Full Recovery.
-```
-(knights_templar@hotmail.com) Page 36 Assembled by Paul H
-
-
-##### Liquor Flask
-
-May be used in the recovery phase. If used, owner is immune
-to fear until his next recovery phase. Two uses each game,
-refilled for 5 gold crowns. Available to any hero who can use
-equipment, doesn't work on any hero immune to poison.
-
-##### Mad Cap Mushrooms
-
-The feared cult of Goblin Fanatics of the Worlds Edge
-Mountains use these hallucinogenic mushrooms to drive
-themselves into a frenzied state.
-● Effect: Any warrior who takes Mad Cap Mushrooms before
-a battle will be subject to frenzy. The Mad Cap Mushroom
-has no effect on Undead such as Vampires and Zombies, or
-the Possessed.
-● Side Effect: After the battle, roll a D6. On a roll of a 1 the
-model becomes permanently stupid.
-● Orcs & Goblins Hordes: May consider them a common
-item that cost 25 gold crowns if it includes one or more
-Goblins, as they are a necessity for someone wishing to wield
-a ball and chain. Fortunately for Orc warbands, Mad Cap
-Mushrooms are cultivated by the Night Goblins of the
-Worlds Edge Mountains, and they are much more willing to
-trade these to other Goblins. A Goblin may take his
-mushrooms at the start of any turn.
-
-##### Mandrake Root
-
-The man-shaped Mandrake Root grows in the rotting swamps
-of Sylvania. It is a noxious, deadly plant which is highly
-addictive and slowly kills its users, but also allows them to
-shrug off almost any pain.
-● Effect: Mandrake Root makes a man almost oblivious to
-pain. His Toughness is increased by +1 for the duration of a
-battle and he treats all stunned results as knocked down
-instead. Mandrake Root has no effect on Undead, such as
-Vampires and Zombies, or on the Possessed.
-● Side Effects: Mandrake Root is highly poisonous. At the
-end of the battle, roll 2D6. On a roll of 2-3 the model loses 1
-point of Toughness permanently.
-
-##### Potion of Strength
-
-● Effect: The Potion adds +D3 to strength
-● Duration: A leadership test recovery phase to see if the
-Potion’s effects wear off.
-
-##### Speed Potion
-
-On the Turn the potion is taken roll to find out what happens:
-D6 Result
-
-1 unaffected
-2 - 3 M and I increase by D3
-4 - 5 I and M increase by 3, but T is at -1
-6 I and WS increase by D6, BS and M by D3
-● Duration: Roll a D6 each recovery phase, if equal to or less
-then the Toughness the effects last for another turn, when the
-Potion wears off he goes down for a turn, after that treat as
-normal.
-
-##### Spider’s Poison
-
-Forest Goblins commonly jab their weapon points into the
-bodies of giant spiders in hopes of coating them with deadly
-poison. Once this poison is bought, it is applied to one
-weapon, and may not be traded or sold later on. The weapon
-
-```
-in question, once poisoned, adds +1 to any injury rolls from
-then on.
-● Common: Forest Goblins may consider Spider’s Poison as
-a common item that cost 25 gold crowns.
-```
-##### Tears of Shallaya
-
-```
-[Not available to Possessed or Undead.]
-Tears of Shallaya are vials of water from the holy spring in
-Couronne. Shallaya is the goddess of healing and mercy and
-it is said that this water has curative properties and is proof
-against any poison. A model who drinks a vial of the Tears of
-Shallaya at the beginning of a battle will be completely
-immune to all poisons for the duration of combat. Undead
-and Possessed warriors may not use the Tears of Shallaya.
-There is enough liquid in a vial of the Tears of Shallaya to
-last for the duration of one battle.
-```
-##### Vial of Pestilens
-
-```
-This small crystal vial contains an extremely potent and rapid
-disease. A single sniff is enough to melt the airways and leave the
-victim drowning in its own blood. It is, however, short lived and
-only remains dangerous for a few seconds before it is neutralised in
-the air.
-[Skaven only]
-The vial may be opened and shoved in the face of the model
-in base contact that just took the Skaven Out of Action. The
-opponent must roll equal to or under its Toughness or
-automatically be taken Out of Action, no save is allowed. If
-the opponent succumbs to the disease, he didn’t manage to go
-through with the attack and the Skaven is only Stunned not
-Out of Action. The vial may be used once.
-```
-##### Vodka
-
-```
-[Kislevite Heroes Only]
-Kislevites live in a harsh land under constant threat of
-invasion. While this has instilled a seriousness in these
-people, it has not diluted their love of celebration one bit. If
-anything their love of revelry has increased with the
-hardships they have had to endure, as they have learned that
-life is fleeting, and any excuse to enjoy what they have been
-given is not to be squandered. One of the products of this
-love of life and celebration is a strong alcoholic spirit called
-vodka. It is also one of the country’s most famous exports,
-though most inhabitants of the Old World find it too harsh for
-their palates. Kislevites take such enjoyment in this drink and
-regard it as something almost magical. Mothers give vodka to
-their families to ward off sickness and to keep them warm in
-the long winter months and warriors indulge both for luck
-and courage. Outsiders often scoff at the reputed properties of
-this liquor, but it must be said that a Kislevite army that is
-well supplied with vodka certainly fights better and in higher
-spirits than one without. In game terms, vodka is a one-use
-item of equipment that a Kislevite Hero may give to the
-warband before the start of the game. Every warrior in the
-warband receives +1 Leadership (up to a maximum of 10) for
-that game. In addition because of its nullifying alcoholic
-effects every warband member must test against their
-Toughness before the start of the game – a failure resulting in
--1 Initiative for the duration of the game.
-```
-Assembled By Paul H Page 37 (knights_templar@hotmail.com)
-
-
-#### Banners
-
-##### Banner
-
-Many more established warbands carry a banner or flag, not only to
-announce their presence but to also act as a rallying point for the
-warband during a battle.
-A banner requires one hand to use and can be carried by any
-Hero in the warband. Friendly warriors within 12" of the
-banner bearer may re-roll any failed ‘All-Alone’ test; but
-remember you can’t re-roll a failed re-roll.
-
-##### Clan Pestilens Banner
-
-[Skaven, Clan Pestilens Only]
-A model within 12'' of the standard bearer of the band,
-usually a Plague Monk or a Monk Initiate, may reroll once
-every failed All Alone test. The staff of the Clan Pestilens
-banner counts as a two-handed weapon. A warband may have
-a single Clan Pestilens banner at any one time. (Clan
-Pestilens members use this item instead of the normal
-Banner).
-
-##### Standard of Nagarythe
-
-```
-[Shadow Warriors Only]
-May only be purchased when the warband is created. While
-many Shadow Warrior Warbands are simply wandering,
-some represent groups that have been sent from Ulthuan on
-some special mission for the Phoenix King. Such bands are
-really closer to military units than loose bands of warriors. As
-such, they tend to retain their unit insignia and other
-trappings. Chief among these is the unit standard. A unit’s
-colours can hold a lot of meaning, particularly when the
-warriors in that unit lack a true home. A Shadow Warrior
-band normally makes their standard by hand; cost and rarity
-represent the difficulty of finding the proper materials (fine
-silks and thread of gold, for example). A Standard of
-Nagarythe can serve as a second rallying point (the Shadow
-Master is the first, represented by his Leader skill) for the
-unit. Any members of the Shadow Warrior Warband within
-6" of their standard take all Leadership tests against a
-Leadership value of 10. In addition, should the standard be
-captured by the enemy (model holding the standard is Taken
-Out of Action), all members of the Warband will be subject
-to Frenzy for the remainder of the game, and may not
-voluntarily Rout. Note that these effects (Leadership 10 and
-Frenzy) do not affect any Hired Swords in the Warband, only
-actual Shadow Warriors (including Shadow Warrior heroes)
-are affected. A model carrying a standard requires one hand
-free to do so, so no weapons, shields, etc. may be carried in
-this hand, and no double-handed weapons may be used while
-the standard is carried. A standard may be used in close
-combat as a makeshift spear (use the rules for a spear but
-with -1 on the to hit rolls.)
-```
-#### Charms & Amulets
-
-##### Bear-Claw Necklace
-
-Bears are widely regarded as sacred in Kislev, and a necklace made
-of their claws (or sometimes their teeth) is considered magical and
-reputed to have magical powers.
-[Kislevite Heroes Only]
-A warrior wearing a bear-claw necklace receives some of the
-strength and wild ferocity of the bear it came from. A warrior
-wearing a bear-claw necklace becomes subject to Frenzy.
-
-##### Lucky Charm
-
-These take many shapes, but the most common are symbolic
-hammers that a pious Sigmarite Priest has touched, or carved
-heads of ancient Dwarf gods. The first time a model with a
-lucky charm is hit in a battle they roll a D6. On a 4+ the hit is
-discarded and no damage is suffered. Owning two or more
-charms does not confer any extra benefits, the model may
-still only try to discard the first hit.
-
-##### Rabbit's Foot
-
-The rabbit's foot is a symbol of good luck and often worn
-about the neck on a thin cord of leather by superstitious
-warriors. A rabbit's foot allows the warrior wearing it to re-
-roll one dice during the battle. If not used in the battle, it can
-be used to re-roll one dice during the Exploration phase,
-providing the hero is able to search through the ruins.
-
-##### Red Toof Tribal Jewellery
-
-```
-(Greenskins Only)
-Only proving one’s prowess in battle can attract the attention
-of this cadre of warriors. Once inducted to the tribe, the
-warrior undertakes excessive body piercing! This cannot be
-removed. The model will now be subject to the rules for
-Frenzy as described in the rulebook.
-```
-##### Tarot Cards
-
-```
-[Not available to Witch Hunters or Sisters of Sigmar]
-Though declared blasphemous and illegal by the Grand
-Theogonist, the Tarot of Stars is said to foretell the future for
-those who dare to consult it.
-SPECIAL RULE
-A Hero with a deck of tarot cards may consult them before
-each game. Make a Leadership test. If successful, the Hero
-gains a favourable insight into the future and you may modify
-the result of any one dice in the Exploration phase by -1/+1
-(even if the Hero with the cards is taken Out Of Action). If
-the Leadership test is failed by three or more (i.e., a Hero
-with Ld of 8 rolls 11 or 12) the cards show a portent of doom
-and despair and the Hero refuses to fight in the following
-battle and must miss the next game.
-```
-(knights_templar@hotmail.com) Page 38 Assembled by Paul H
-
-
-##### Warpstone Amulet
-
-[Skaven Heroes Only]
-The owner of a warpstone amulet may reroll a single die
-during the battle or, if not out of combat at the end of the
-game, a single die when looking for wyrdstone shards.
-
-##### Wyrdstone Pendulum
-
-```
-Pendulums made of wyrdstone can reputedly be used to find
-even more of the magical stone.
-Special Rules
-If he was not taken out, the Hero using the Wyrdstone
-Pendulum may make a Leadership test after the battle. If he is
-successful, you may re-roll any one dice in the Exploration
-phase.
-```
-#### Encampment Equipment
-
-##### Barricade
-
-A warrior defending a barricade can only be hit by his
-opponent on an unmodified D6 score of 6. Each section is 6"
-long and 1" high.
-
-##### Ditch
-
-It counts as difficult terrain, reducing movement by half.
-Each section is 6" long and 1" deep.
-
-##### Heads on spikes
-
-These cause Fear and may be attached to barricades or
-palisades (the enemy must pass a Leadership test if they wish
-to assault them)
-
-##### Kennel
-
-All War hounds get a +1 to their WS and a +1 to their
-leadership.
-Beast handler: To setup the Kennel at the encampment you must
-first hirer a Dog Handler (Beast handler) to train your War hounds
-first.
-Upkeep: The Kennel requires constant repairs; to show this the
-Kennel has an upkeep of 5 GC per battle.
-
-##### Ladders
-
-These are useful for assaulting another warband’s
-encampment and negate the effects of barricades and
-palisades
-
-##### Palisade
-
-A warrior defending a palisade can only be hit by his
-opponent on an unmodified D6 score of 6. Each section is 6"
-long and 2" high.
-
-##### Scout Tower
-
-This gives the defender a high platform to shoot from (this
-may be as tall as 8"). The scout towers are usually made from
-wood and so are flammable and Counts as light cover (-1).
-Upkeep: The Scout Tower require constant repairs; to show this the
-Scout Tower has an upkeep of 5 GC per battle, also to repair any
-fire damage will increase the upkeep by D6, for each time.
-
-##### Stable
-
-All horse and war-horse get a +1 to their WS and a +1 to their
-leadership, including the war-horse of a freelance Knight.
-Beast handler: To setup the Stable at the encampment you must
-first hirer a Horse Master (Beast handler) to train your Horses / War
-horses first.
-Upkeep: The Stable require constant repairs; to show this the Stable
-has an upkeep of 5 GC per horse plus 10 GC per War horse per
-battle.
-
-##### Stakes
-
-It counts as difficult terrain, reducing movement by half. In
-addition, those attempting to cross must roll a D6 – on a 5+
-the warrior takes a Strength 3 hit with no armour saves
-allowed. Each section is 6" long.
-
-##### Tents
-
-```
-Those that travel require shelter from the freezing nights and
-often-fierce wind and rain. The tent can offer protection from
-the elements. The tent normally has one entrance and can
-sleep up to six models. Because of the tent’s narrow entrance,
-it is unusual for more than one model to be able to shoot from
-the tent or fight in hand-to-hand combat (depending on your
-model tent).
-Damaging Tents: Tents are made of a tough, hard wearing material
-but can be slashed and cut open using natural claws, a dagger or
-other bladed weapon (but not a hammer, dogs’ paws, etc). In game
-terms they have a Toughness of 2, 4 Wounds and count as
-flammable.
-If a sharp weapon causes a ‘wound’, a hole has been opened. Place a
-marker to indicate where this improvised opening is. However, a
-successful Initiative test must be made to enter, otherwise the
-warrior has become tangled in the tent’s fabric and can do nothing
-else this turn. A warrior, thus entangled, may be attacked from
-inside or outside the tent, and the entangled warrior is at half WS
-when defending himself. If reduced to 0 Wounds, the tent collapses.
-All inside must make a successful Initiative test to free themselves.
-They may do nothing else until freed, nor may they be attacked.
-Tent Models: The tent models should be made with one entrance
-and so that no more than six models (20mm bases) can fit inside.
-They can be round or rectangular (rectangular is easier for game
-play) – both are appropriate for the setting. Make the tents such that
-the canvas can be lifted off to leave a floor area with some wall
-(about an inch or so) so that the entrance is clearly marked.
-```
-##### Tunnels
-
-```
-These allow one Henchmen group to be held in reserve at the
-start of the game and may be placed anywhere on the
-battlefield at the start of the defender’s turn but no closer than
-within 8" of an enemy model, however model moving
-through a tunnel must roll a D6 on a 1 the Tunnel has
-collapsed in, the model now counts as been taken Out of
-Action.
-Upkeep: The tunnels require constant repairs; to show this the
-tunnels has an upkeep of 10 GC per battle.
-```
-##### Traps
-
-```
-The defender may place up to three trap markers (per trap if
-you have more than one) anywhere within their encampment.
-Each marker is marked with either ‘Trap’ or ‘Decoy’ on the
-underside. When a model touches the marker, flip it over. If it
-says ‘Decoy’, nothing happens. If it says ‘Trap’ then that
-model takes a Strength 4 hit with no armour save
-```
-##### Watchtower
-
-```
-This gives the defender a high platform to shoot from (this
-may be as tall as 8") The Watchtower are usually made from
-stone Counts as hard cover (-2).
-Upkeep: The Watchtower requires constant repairs; to show this the
-Watchtower has an upkeep of 15 GC per battle.
-```
-Assembled By Paul H Page 39 (knights_templar@hotmail.com)
-
-
-#### Equipment from Khemri
-
-##### Bota Bag
-
-Like a wine skin it allows the owner to carry one more water
-unit than normal. Each character may only take one Bota
-Bag.
-
-##### Lamp of the Djinn
-
-These are exceptionally rare items that date back to the time of the
-Sultan Jaffar. It was said that the Sultan used magic and dark ritual
-to bind strange daemonic entities to mundane, everyday items so
-that he could call upon their powers but hide their true identity.
-Occasionally, one of these items finds its way into the hands of those
-foolhardy or reckless enough to try to use the powers of the dread
-Djinn.
-Each time a hero uses the lamp it grants him three wishes but
-each time you roll on the ‘Light table’ you must roll on the
-‘Dark table’ and apply the results.
-D6 Light
-1 Gain D6 Experience points
-2 Gain one skill from your skill list
-3 Gain D6x10 GC
-4 Gain a random item from the equipment list
-5 Choose an item from the equipment list
-6 Roll twice more on this chart
-
-D6 Dark
-1 Nothing happens
-2 Nothing happens
-3 Lose D6x10 GC
-4 Lose D6 weapons
-5 Lose the lamp
-6 Roll once on the injury chart
-
-##### Magic Carpet
-
-These wondrous items from a forgotten age are even rarer than the
-lamps of the Djinn and are thought to have originated from the
-distant long dead Sorcerer’s Isles.
-A magic carpet is indeed just that – a carpet that flies! It
-counts as a mount and allows movement of 16" with no
-restrictions for terrain. You can move onto the roofs of
-buildings and other high places with no penalty. The carpet
-may carry up to three men or one large creature and a man.
-One of the riders must be a character. Due to its magical
-nature it cannot be destroyed.
-
-##### Magic Gourd
-
-The power of the gourd may be used at the end of each battle.
-It will supply 1D3 units of water. Once the amount of water
-is determined, roll an additional D6 – on a roll of 6, the
-gourd’s magic is exhausted and it shatters.
-
-##### Monkey’s paw
-
-Fashioned during the strange religious rites of the nomadic Tuareg
-people, this item is of similar potency to the Lamp of the Djinn. As
-with the fickle powers of the Djinn the, Monkey’s paw is not always
-beneficial to its owner.
-Each time a Hero uses the paw it grants three wishes but you
-only have to roll once on the dark side. If you roll this item
-you must take it. Every two games you have it and don’t use
-it you have to roll on the dark side. You may not get rid of
-
-```
-the paw unless you use it three times or roll lose the paw.
-After the third use it disappears.
-D6 Light
-1 Gain D6 Experience points
-2 Gain one skill from your Skill list
-3 Gain D6x10 GC
-4 Gain an extra Hero even if it is above your maximum
-allowed
-5 Gain an extra Henchman even if it is above your
-maximum allowed
-6 Roll twice more on this chart
-```
-```
-D6 Dark
-1 Lose D6 Experience points
-2 Lose one random skill
-3 Lose D6x10 GC
-4 Lose a Hero
-5 Lose a Henchman
-6 Lose the paw
-```
-##### Nehekharan Map
-
-```
-Maps of the Land of the Dead are rare. Accurate ones are even
-rarer. The shifting sands and dry riverbeds can render a map
-obsolete in a season.
-Use the rules for the Mordheim map in the rulebook.
-```
-##### Nomad Robes
-
-```
-Woven by native desert dwellers these robes enable the wearer to
-suffer only half penalties from Weather Conditions.
-The robes affect the following results on the Weather table:
-It’s Raining: The robe protects the warrior’s equipment.
-When rolling a D6 each time that you fire a black powder
-weapon, the shot is only wasted on a 1.
-Hot as Hades: A warrior wearing a Nomad Robe only
-suffers a penalty of -1 to WS and BS and he only requires the
-normal amount of water.
-Hot: A warrior wearing a Nomad Robe suffers no penalty to
-WS or BS. If at least half of the warband are wearing Nomad
-Robes, they only require the normal amount of water.
-Dust Storm: The robe has no effect – not even the Nomad
-Robes can protect the warrior from the ferocity of the storm.
-Apply rules for a Dust Storm as normal.
-```
-##### Scorpion Ring
-
-```
-At the beginning of the battle the warrior is able to call forth
-a single Tomb Scorpion to fight for the warband if he can
-pass a Leadership test. The summoned scorpion will fight for
-a single battle only (use Tomb Scorpion from Tomb
-Guardians list).
-```
-##### Snake Charmer’s Flute
-
-```
-A warrior who possesses this item is able to transfix and
-control serpents. If the warrior does nothing for a whole turn,
-he may play the flute. If this happens, any serpent within 6"
-may not move or attack in their subsequent turn.
-```
-##### Venom Ring
-
-```
-The Venom Ring renders the wearer immune to the effects of
-all poisons.
-```
-(knights_templar@hotmail.com) Page 40 Assembled by Paul H
-
-
-#### Equipment from Lustria
-
-##### Amulet of the Moon
-
-Once activated, this ancient device creates a shimmering aura
-around the wearer that makes it harder for enemies to see them.
-Any missile fire directed at a model equipped with the amulet
-suffers a penalty of -1 to hit. The amulet also confers a
-special save of 5+ against missile fire.
-
-##### Cloak of Mists
-
-Only a Hero can have this item. There is an additional -1
-penalty to hit for any attacks against the wearer (close combat
-or missile fire). There is also a -1 penalty to Initiative when
-trying to spot the wearer if he is Hidden.
-
-##### Enchanted Skins
-
-```
-The protective skins and charms that the Amazons wear have
-been warded with defensive magic. To represent this, any
-model wearing Skins and Charms receives a 6+ special save
-versus any wounds inflicted. In addition, the wearer of Skins
-and Charms is unaffected by enemy magic on a roll of 5+.
-```
-##### Conch Shell Horn
-
-```
-The Conch shell Horn is used by experienced Piranha warriors to
-warn the warband of approaching enemies.
-[Piranha warriors only]
-At the beginning of the game a Piranha warrior may use the
-horn to re-roll when deciding who deploys first and who goes
-first. Multiple models that have the horn cannot force a
-second re-roll.
-```
-#### Magic, Books & Scrolls
-
-##### Book of the Dead
-
-This is a book that contains transcripts from the Famous
-books of Nagash, the Great Necromancer. A Model can learn
-Necromantic Magic with Arcane Lore skill and this book. A
-Necromancer will gain a new spell permanently.
-
-##### Dispel Scroll
-
-This scroll contains a powerful counter-spell. It may be read
-aloud immediately after an opponent has successfully cast a
-spell (but before results have been determined) to negate its
-effects. When used roll a D6. The enemy spell is cancelled on
-a roll of 4 or more. After one use, the scroll will disintegrate
-and is useless.
-
-##### Elven Runestones
-
-[Shadow Weavers Only]
-High Elven mages are well known as the masters of
-defensive magic. To aid them, they have developed several
-mystic runes of power. They often inscribe these runes on
-semiprecious stones, which can help strengthen an Elven
-Mage’s magical defences. A mage with Elven Runestones
-may use them to attempt to dispel a spell that has been
-successfully cast against himself or another member of his
-warband. To dispel such a spell, the mage must roll against
-the spell’s Difficulty (Sorcery does not help here). If he
-succeeds, the spell fails to work. If the roll fails, the spell
-works normally.
-
-##### Halfling Cookbook
-
-All Halfling chefs have their own secret recipes, and these are
-recorded in tomes handwritten in Mootland, the home country of the
-Halflings. Food prepared according to these recipes will attract
-warriors during these lean times.
-The maximum number of warriors allowed in your warband
-is increased by +1 (note that neither an Undead warband nor
-a Carnival of Chaos warband can use this item).
-
-##### Hammer of Witches
-
-[Witch Hunters Only]
-The pages in this tome describe the servants of Chaos, witches,
-heretics, deviants, mutants, warlocks, blasphemers, necromancers,
-sinners and other enemies of Sigmar in all their foulness.
-Special Rules
-
-```
-A Hero with the Hammer of Witches will hate all Possessed,
-Skaven, Beastmen, Chaos, Daemons, Dark Elf, Orc &
-Goblins and Sigmarite Sisters.
-```
-##### Holy (Unholy) Relic
-
-```
-In this age of superstition and religious fanaticism, holy objects are
-an important part of life. Relics abound in the Old World: hairs of
-Sigmar, pieces from Ulric’s hammer, teeth of Daemon Princes, all
-are sold to men needing encouragement before battle and as charms
-against sorcery.
-[Rare 6 for warrior-priests and Sisters of Sigmar]
-A model with a holy relic will automatically pass the first
-Leadership test he is required to make in the game. If worn
-by the leader, it will allow him to automatically pass the first
-Rout test if he has not taken any Leadership tests before.
-You can only ignore the first Leadership test in any single
-game – owning two or more holy relics will not allow you to
-ignore second and subsequent tests.
-```
-##### Holy Tome
-
-```
-Books of prayers and descriptions of the holy deeds of religious
-heroes like Sigmar Heldenhammer are copied by hand in the
-scriptoriums of Sigmar and Ulric, and given or sold to the faithful.
-Of these tomes, the Deus Sigmar is the most common and well
-known, but other texts such as the Scriptures of Sigmar are also sold
-to those who follow the faith. A holy man can recite his prayers from
-such a book, strengthening his faith and belief.
-[Warrior-Priests & Sisters of Sigmar Only]
-A Warrior Priest or Sister of Sigmar with a holy tome can
-add +1 to the score when determining whether he (or she) can
-recite a spell successfully or not.
-```
-##### Liber Bubonicus
-
-```
-[Skaven, Clan Pestilens Only]
-If a Clan Pestilens warband includes a Pestilens Sorcerer, he
-may use the Liber Bubonicus to permanently learn an
-additional spell randomly chosen from the Horned Rat spell
-list. A Plague Priest may use the Liber Bubonicus to learn the
-Horned Rat magic if he has the Magical Aptitude skill: that
-means he would gain the special rule "Spellcaster: is a
-spellcaster and may cast spells from the Horned Rat spell
-list." and permanently learn a randomly chosen spell from the
-Horned Rat spell list. The Liber Bubonicus may be used a
-single time, and a warband cannot have and use more than
-```
-Assembled By Paul H Page 41 (knights_templar@hotmail.com)
-
-
-one Liber Bubonicus in a given campaign (Clan Pestilens
-members use this item instead of the Tome of Magic).
-
-##### Liturgicus Infecticus
-
-```
-[Skaven, Pestilens Only]
-A Clan Pestilens member, usually a Plague Monk, may carry
-with him a scroll with the holy Liturgicus Infecticus inscribed
-on it. This is the Clan Pestilens chant in favour of diseases
-and contagion. At the beginning of a turn, or just before
-taking a Route Test, the warband may chant the Liturgicus
-Infecticus, and benefit of a +1 Leadership bonus until the end
-of the turn. (Clan Pestilens members use this item instead of
-the War horn).
-```
-##### Magic Gugginz
-
-```
-[Greenskins Only]
-These are odds and ends carried around by the Shaman to
-focus his powers. Most are bat feet, lizard lips, and the like,
-but still seem to provide benefits to their owner. The Shaman
-may re-roll a failed magic test on a D6 roll of 4+.
-● Rare: Greenskins may consider Magic Gugginz as a Rare
-9.
-```
-##### Mordheim Map
-
-```
-Some survivors of the cataclysm still remain in the many settlements
-around Mordheim, and make a living by preparing maps of the city
-from memory. Many of these maps are faked, and even real ones are
-often crude and inaccurate.
-A map can help a warband find their way through the
-confusing maze of streets and into areas with rich buildings
-to loot. When you buy a map, roll a D6:
-1 Fake: The map is a fake, and is completely worthless.
-It leads you on a fool’s errand. Your opponent may
-automatically choose the next scenario you play.
-2-3 Vague: Though crude, the map is generally accurate
-(well... parts of it are... perhaps!). You may re-roll
-any one dice during the next exploration phase if you
-wish but you must accept the result of the second roll
-4 Catacomb Map: The map shows a way through the
-catacombs into the city. You may automatically
-choose the scenario next time you fight a battle.
-5 Accurate: The map is recently made and very
-detailed. You may re-roll up to three dice during the
-next exploration phase if you wish. You must accept
-the result of the second roll.
-6 Master Map: This is one of the twelve master maps
-of Mordheim made for Count von Steinhardt of
-Ostermark. From now on you may always re-roll one
-dice when rolling on the Exploration chart as long as
-the Hero who possesses this map was not taken out of
-action in the battle.
-```
-(knights_templar@hotmail.com) Page 42 Assembled by Paul H
-
-
-Assembled By Paul H Page 43 (knights_templar@hotmail.com)
-
-##### Scroll of the Rat Familiar
-
-[Skaven Only]
-The Scroll of the Rat Familiar has a spell inscribed on it,
-usable by a Pestilens Sorcerer as many times as he wants. If
-the warband includes at least a Giant Rat, the spell may be
-cast on it before the combat begins, transforming it in a Rat
-Familiar. If his Rat Familiar is within 6'', the sorcerer may
-reroll once in a game the dice to overcome the difficulty of a
-spell. A sorcerer may only have one Rat Familiar at any one
-time, it is a henchman and it counts normally toward the
-maximum number of models permitted to the warband. If the
-sorcerer dies, his Rat Familiar turns back to Giant Rat form.
-
-```
-(Clan Pestilens members use this item instead of the normal
-Familiar).
-```
-##### Tome of Magic
-
-```
-[Not available to Witch Hunters or Sisters of Sigmar]
-Sometimes books of forbidden lore are offered for sale in the
-markets and dark alleys of the settlements around Mordheim.
-If a warband includes a wizard, he will gain an extra spell
-from the tome, permanently. He may randomly generate this
-new spell from his own list or the Lesser Magic list. See the
-Magic section for details. The benefits from each Tome of
-Magic apply to only one model.
-```
-
-#### Musical Instruments
-
-A musician must have an instrument to play so he can sing songs, tell tales and make hideous noises.
-
-##### Drum
-
-[Musician only]
-These are barrels with a tanned hide stretched over them to make
-the sound.
-The mallet may be used as a club and the drum as a shield.
-
-##### Flute
-
-[Musician only]
-These are made of wood or bone.
-They add +1 to your leadership roll.
-
-##### Horn
-
-[Musician only]
-These are brass or silver horns that can make a lot of noise when
-used.
-They increase the range of Cacophony by 6 inches.
-
-##### Lyre
-
-[Musician only]
-These are made of wood with strings strung to play tunes.
-When using this with the minstrel skill it adds 1d6 to the gold
-earned.
-
-##### War Horn
-
-```
-The blaring sound of a war horn can be enough to stir the
-hearts of any warband which it is attempting to bolster. It
-grants men courage and gives them the will to fight on
-defiantly. A war horn may be sounded once per battle at the
-beginning of any of the player's turn. It allows the warband to
-increase its Leadership by +1. The effect will last until the
-start of the next turn. The war horn can be used just before a
-warband is about to take a Rout test.
-```
-##### War Horn of Nagarythe
-
-```
-[Shadow Warriors Only]
-Similar to the Standard of Nagarythe, units of Shadow
-Warriors sent into Mordheim often bring with them a war
-horn to rally around. The rules for the War Horn of
-Nagarythe are the same as for a normal War Horn.
-```
-#### Explosives
-
-##### Fire Bomb
-
-Designed by the dwarf engineers of the Worlds Edge
-Mountains, fire bombs are a rare and deadly weapon. A small
-batch of gunpowder is sealed within an iron casting with a
-short fuse fed into it. When lit, the thrower has only seconds
-before the gunpowder ignites and explodes. This can often
-prove to be dangerous, as if the fire bomb is fused incorrectly
-it could be the thrower who finds himself amidst the
-explosion... The fire bomb may be thrown in the Shooting
-phase in the same way as blessed water (p53 Mordheim
-rulebook). If the bomb lands on target, the warrior hit takes
-D3 Strength 4 hits with no saves for armour and all warriors,
-friend or foe, within 1” of him take 1 Strength 3 hit with
-saves as normal. If the throwing warrior rolls 1 when rolling
-to hit, the bomb misfires and explodes just as if the throwing
-warrior had been hit by his own fire bomb.
-
-##### Flash Powder
-
-An ancient Dwarf creation, flash powder is used in mines to
-illuminate darkened fissures in the search for gold and other
-precious minerals. In Mordheim, small bags of this substance
-can be used to blind enemies, throwing them into disarray as
-you launch your attack. Flash Powder can be thrown as and
-enemy charges the wielder (as an interrupt). The charger
-must take and immediate Initiative test in order to cover their
-eyes. If he fails, he is temporarily blinded and it counts as a
-failed charge. There is only enough flash powder for one use
-during the battle.
-
-##### Smoke Bombs
-
-```
-When thrown these bags of powder explode with a small bang and
-release a cloud of smoke that obscures vision and confuses anyone
-caught within the explosion.
-When a smoke bomb goes off it makes a column of smoke 2"
-wide that blocks line of sight for one turn. Any model caught
-in the smoke should make an Initiative test so you see if he
-can move to the right direction. Otherwise use a scatter dice
-(or similar) to see where he moves to. At the end of each turn
-roll a D6.
-Dissipation chart
-D6 Result
-1 The smoke hasn't changed. Leave it in place at the
-same size.
-2 - 5 It shrinks half it size (when it get less than a haft
-inch the smoke dissipate).
-6 the wind catches it and blows it away
-Inside: If the smoke bomb goes off indoors (or in dwarven
-tunnels, Khemri tombs, etc) there wouldn't really be much
-breeze to blow it away and you would have to wait for it to
-dissipate so subtract one from all rolls on the dissipation
-chart.
-```
-(knights_templar@hotmail.com) Page 44 Assembled by Paul H
-
-
-#### Other Items
-
-##### Caltrops
-
-Original used on the battlefield to impede cavalry charges, a caltrop
-is a small spiked iron ball. In the City of the Damned, a pouch of
-these small items can be enough to deter any attacker who risks
-serious injury should they try to charge over them.
-There are enough caltrops to last for one use only. They may
-be used when an opponent decides to charge. The defender
-simply throws the caltrops into the path of his attacker and
-they reduce his charge range by D6 inches. If this means that
-the attacker cannot reach his target then it is a failed charge.
-
-##### Lantern
-
-A model that is in possession of a lantern may add +4" to the
-distance from which he is able to spot hidden enemies.
-
-##### Lock Picks
-
-A standard piece of kit for less scrupulous characters. A set
-of lock picks may be used by those who rely more on skill-at-
-arms and speed of thought than brute strength to open doors
-that others have secured. A model equipped with a set of lock
-picks may make his test to open doors on his Initiative rather
-than his Strength characteristic if he wishes. This is done at
-the end of his Movement phase as if the model were ripping
-the door off its hinges, though he uses his Initiative rather
-than Strength, there is no -1 modifier, and there is no chance
-that the door is too damaged to be locked again later.
-
-##### Net
-
-Steel nets, such as those used by Pit Fighters, can be used in
-battles. Once per game, the net may be thrown in the shooting
-phase instead of the model shooting a missile weapon. Treat
-the net as a missile weapon in all respects with a range of 8".
-Use the model’s BS to determine whether the net hits or not –
-there are no movement or range penalties. If it hits, the target
-must immediately roll a D6. If the result is equal to, or lower
-than his Strength, he rips the net apart. If the result is higher,
-he may not move, shoot or cast spells in his next turn,
-although he is not otherwise affected. In either case the net is
-lost.
-
-##### Opulent Coach
-
-```
-Truly successful warband leaders are quite willing to waste their
-money on extravagant excesses such as rare wines, jewel-encrusted
-weapons and armour and Cathayan spices. The height of such
-indulgence is an opulent coach, which the warband leader can use
-for driving around the settlements surrounding Mordheim. There
-are few things that will impress commoners, or incur the wrath and
-envy of other, less successful leaders, as much as an opulent coach.
-Special Rules
-The opulent coach impresses even the most suspicious
-merchant and they will flock to offer their most exotic wares
-to the obviously rich warband leader. The warband leader
-gains +3 to any rolls to locate rare items.
-```
-##### Rope & Hook
-
-```
-A warrior using a rope & hook will find it much easier to move
-amongst the ruins of Mordheim.
-A warrior equipped with a rope & hook may re-roll failed
-Initiative tests when climbing up and down.
-```
-##### Telescope
-
-```
-Common to the great astronomers in the observatories at
-Nuln, telescopes are a useful, if highly rare, item to have in
-the City of the Damned. The keen view offered by these
-instruments makes shooting easier and gives an unparalleled
-awareness of a warrior's surroundings. Any Hero using a
-telescope may increase the range of any missile weapon he is
-using by D6” each turn. Furthermore, he triples the distance
-at which he can spot hidden enemies.
-```
-##### Torch
-
-```
-Warriors lacking the funds for a lantern may have to make do
-with torches. Torches act exactly as lanterns, adding +4" to
-the range the model may spot hidden enemies, but has a few
-other special rules as well. A torch will only last one game. A
-model armed with a torch counts as causing fear in animals
-(Hunting Dogs, all riding steeds, Bears, Wolves, etc), and
-may use a torch as a makeshift club. When used in combat, a
-torch is treated as a normal club, though with a -1 to hit
-modifier. Any models that have a Regeneration special rule
-(like Trolls) will not be able to regenerate wounds caused by
-a torch during the battle. (Torches may also cause buildings
-to catch fire.)
-```
-Assembled By Paul H Page 45 (knights_templar@hotmail.com)
-
-
-### Magic
-
-There have always been those who have used magic: witches
-and wizards, wise women and warlocks. But as all scholars
-know, all magic is dangerous, for it originates from Chaos,
-the source of corruption and change. Indeed, during these
-times, sorcery is illegal and punishable by death.
-Wizards have little say in whether the world of magic touches
-them or not. They are born with second sight and to them the
-world of magical energies and spells is much more real than
-the mundane world of normal mortals. With all the
-persecution, fear and hatred it is little wonder that wizards
-become reclusive and suspicious, and many are downright
-insane. Some even turn to the worship of the dark gods, and
-others follow the forbidden path of necromancy.
-Mordheim has become home to many magic users and they
-roam the ruins hiding from Witch Hunters. But there are
-other ways of gaining power over and above that of a normal
-mortal man. The gods watch over their subjects and a priest
-of strong faith can call upon them to assist him in battle. Of
-these, the Priests of Sigmar are the most common, for Sigmar
-is the patron god of the Empire, and his following is strong
-during these times of strife.
-
-#### Allocated spells
-
-```
-The chart below summarises the different kinds of magic and
-explains who can use what spells.
-Type of Magic Wizard
-Prayers of Sigmar ............... Sisters of Sigmar, Warrior-
-Priests, Monks & Clerics
-Prayers of Shallaya ............. Priestess of Shallaya & Clerics
-Prayers of Taal ................... Priest of Taal & Cleric
-Prayers of Ulric .................. Wolf Priest & Cleric
-Funerary Rites .................... Priest of Morr
-Prayers of Ranald ............... Priest of Ranald
-Norse Runes ....................... Norse Shaman
-Shadow Warrior Magic ...... Shadow Weaver
-Fey Magic........................... Spellsinger
-Spells of the Djed’hi ........... Elf Mage
-Lesser Magic ...................... Warlocks
-Charms and Hexes .............. Witches
-Dark Elf Magic ................... Dark Elf Sorceresses
-Necromancy ....................... Necromancers
-Chaos Rituals ..................... Chaos Magisters, Beastmen
-Shamans
-Nurgle Rituals .................... Carnival Masters
-Magic of the Horned Rat .... Eshin Sorcerers, Vermin Lord
-Call of the Pack .................. Harbinger of Mutation, Vermin
-Lord
-Prayers of Corruption ......... Festering Chantor, Vermin Lord
-Machine Curses .................. Chief Engineer, Warlock
-engineer, Vermin Lord
-Waaagh! Magic .................. Orc Shamans
-Forest Goblin Spells ........... Forest Goblin Shamans
-Magic of the Steppes .......... Hobgoblin Shamans
-Lore of Light ...................... Truthsayer
-Lore of Darkness ................ Dark Emissary
-Most wizard starts with one randomly determined spell, but
-may gain more. Roll a D6 and consult the appropriate chart.
-If you get the same spell twice, roll again or lower the spell’s
-difficulty by 1.
-```
-#### Casting spells
-
-```
-Spells are cast in the shooting phase, and can be used even if
-the caster is in hand-to-hand combat. To use a spell, the
-wizard must roll equal to or greater than the spell’s Difficulty
-score on 2D6. If he fails, he may not cast a spell that turn. If
-the test is passed the spell may be used as described overleaf.
-A wizard may cast one spell per turn and may not use missile
-weapons if he wants to cast a spell. He can however run!
-A wizard may not use magic if he is wearing armour or has a
-shield or buckler. The only exception is the Prayers of
-Sigmar. Sisters of Sigmar and Warrior-Priests may wear
-armour and use their prayers.
-```
-#### Damage
-
-```
-Some spells cause direct damage, and are resolved the same
-way as damage from shooting or blows in hand-to-hand
-combat. Spells do not cause critical hits. Models always
-receive armour saves against wounds caused by spells unless
-noted otherwise.
-```
-(knights_templar@hotmail.com) Page 46 Assembled by Paul H
-
-
-#### Spell Lists
-
-##### Prayers of Sigmar
-
-Those with great faith in the gods can call upon their divine power. The priests of Sigmar can pray for many miracles:
-healing of wounds, strengthening the resolve of their comrades or the banishment of Daemonic creatures and the Undead.
-The Prayers of Sigmar can be used by Witch Hunter Warrior Priests and Sigmarite Matriarchs. A warrior may use the divine
-power of Sigmar while wearing armour. Prayers of Sigmar are not regarded as spells, so any special protection against spells
-does not affect them.
-D6 Result
-1 The Hammer of Sigmar Difficulty 7
-This weapon of the faithful glows with a golden light, imbued as it is with the righteous power of Sigmar.
-The wielder gains +2 Strength in hand-to-hand combat and all hits he inflicts cause double damage (e.g., 2 wounds
-instead of 1). The Priest must test each shooting phase he wants to use the Hammer.
-2 Hearts of Steel Difficulty 8
-As the three words of power are spoken, waves of glory surround the servant of Sigmar. The faithful are heartened by
-the warrior god’s presence.
-Any allied warriors within 8" of the warrior become immune to Fear and All Alone tests. In addition, the whole
-warband gains +1 to any Rout tests they have to make. The effects of this spell last until the caster is knocked down,
-stunned or put out of action. If cast again the effects are not cumulative, i.e., the maximum bonus to Rout tests remains
-+1.
-3 Soulfire Difficulty 9
-The wrath of Sigmar comes to earth. Purifying flames surround the Priest and wipe out those who resist the righteous
-fury of the God-Emperor!
-All enemy models within 4" of the servant of Sigmar suffer a Strength 3 hit. No armour saves are allowed. The servants
-of darkness and Chaos are especially susceptible to Sigmar’s holy power.
-Undead and Possessed models in range suffer a Strength 5 hit instead.
-4 Shield of Faith Difficulty 6
-A shield of pure white light appears in front of the Priest. As long as his faith remains strong the shield will protect him.
-The Priest is immune to all spells. Roll at the beginning of each turn in the recovery phase. On a roll of 1 or 2 the shield
-disappears.
-5 Healing Hand Difficulty 5
-Laying hands upon a wounded comrade, the servant of Sigmar calls upon his Lord to heal the warrior’s wounds.
-Any one model within 2" of the Priest (including himself) may be healed. The warrior is restored to his full quota of
-Wounds. In addition, if any friendly models within 2" are stunned or knocked down, they immediately come to their
-senses, stand up, and continue fighting as normal.
-6 Armour of Righteousness Difficulty 9
-Impenetrable armour covers the Priest and the fiery image of a twin-tailed comet burns above his head.
-The Priest has an armour save of 2+ which replaces his normal armour save. In addition, he causes fear in his enemies
-and is therefore immune to fear himself.
-The power of the Armour of Righteousness lasts until the beginning of the Priest’s next Shooting phase.
-
-Assembled By Paul H Page 47 (knights_templar@hotmail.com)
-
-
-##### Prayers of Shallaya
-
-D6 Result
-1 Regeneration Difficulty Auto
-After the game the Priestess may Heal 1 serious Injury of any 1 Hero. Optionally, 1 Hero may reroll a 'Dead' result,
-ignoring Robbed, Captured, Horrible Scars, and Sold to the Pits;
-2 Heal Difficulty 5
-Restores a single unit (including self) to full wounds, Stunned models become knocked down, Knocked Down stand up:
-Range: 2".
-Note: If the priestess deliberately Heals an opponent, she gains an additional experience point.
-3 Mass Heal Difficulty 7
-Restores 1 wound to all units within 2" of the priestess including enemies except true Undead and Possessed, whom it
-causes a wound to. Stunned models become knocked down, Knocked Down stand up: range: 2" radius
-4 Antidote Difficulty 6
-Nullifies all effect of any poison or drug on any one model, friendly or enemy: Range: 12"
-5 Helping Hands Difficulty 7
-Target stunned model instantly recovers their feet and may fight as normal in the ensuing Hand-to-Hand action. Range:
-12"
-6 Protection of Shayalla Difficulty 8
-The target model (may cast on self) gains a 4+ Unmodified save against any attack that causes a wound, in addition to
-any other save. The effect persists, but a roll must be made for the affected model during their own recovery phase; on a
-1 or a 2 the effect fizzles. Range: 6"
-
-(knights_templar@hotmail.com) Page 48 Assembled by Paul H
-
-
-##### Prayers of Taal
-
-Taal is the God of Nature and demands the respect of all those who enter the wild regions of the Empire. He is
-portrayed as a tall, broad-shouldered man with long wild hair and a thick beard. He wears a stag skull as a helm and is
-clothed in bison and bear skins. He is often called the Lord of Beasts. His followers include rangers, trappers and those
-who live in the wilds of the Empire.
-Prayers of Taal work like the Prayers of Sigmar although the Taal Priest never wears armour.
-D6 Result
-1 Stag’s Leap Difficulty 7
-Many of Taal’s priests wear a stag skull as a symbol of their devotion and the Forest Lord’s power can be used to
-emulate the speed and beauty of this magnificent beast.
-The Priest of Taal may immediately move anywhere within 9", including into base-contact with the enemy, in which
-case he counts as charging and gains a +1 Strength to his first round of attacks. If he engages a fleeing enemy, in the
-close combat phase he will score one automatic hit at +1 Strength and then his opponent will flee again (if he survives).
-2 Blessed Ale Difficulty 5
-Like his brother Ulric, Taal has a great appetite for the strong ales of the Northern Empire. During the summer equinox
-each village in Ostland opens one keg of ale (at least!) in Taal’s honour.
-Drinking a flask of Taal-blessed ale (the priest is assumed to carry as many flasks as are needed) may heal any one
-model within 2" of the Priest (including himself). The warrior is restored to his full quota of Wounds. In addition, any
-living enemy models (not Undead or Possessed) within 2" of the Priest will be lose 1 Attack during the next round of
-combat due to the potent fumes of the ale.
-3 Bear’s Paw Difficulty 7
-Many an armoured knight has been knocked to the ground by the surprising Strength of the followers of Taal. Although
-traditionally called ‘Bear’s Paw’ this spell is sometimes referred to as ‘Moose’s Breath’ by those Ostlander’s who have
-felt its power.
-The Priest invokes the blessing of Taal on himself or a single friendly model within 6". The target receives a bonus of
-+2 to his Strength until the Priest’s next turn.
-4 Earthshudder Difficulty 9
-Taal’s domain includes both the earth and the skies and his power can reach out even into the dark streets of
-Mordheim. When his name is invoked three times and the blood of an eagle is poured on the ground, the Lord of the
-Wild will cause thunder to rumble and the earth to shake.
-The spell is cast on a single building within 4". Any enemy models touching the building will suffer a single S3 hit. In
-addition the building will collapse and any models on it will count as having fallen to the ground (for example a model
-falling 5" to the tabletop must pass two Initiative tests to avoid taking D3 S5 hits.) Remove the terrain feature from the
-board for the rest of the game.
-5 Tanglefoot Difficulty 8
-It is said that when Taal walked the earth, living things would spring up behind him as he passed. A portion of his
-power can be summoned by his followers to help regrow forests and aid in the return of the land to its natural state.
-Plants, vines and even small trees burst forth from the earth, hindering all those who attempt to move through them. All
-models (friend as well as foe) with the exception of Ostlander Jaeger within 12" of the Priest can only move at 1/2
-speed until the next shooting phase.
-6 Summon Squirrels Difficulty 7
-Taal is the master of all beasts both great and small. Those who anger him may be mauled by a mountain lion or
-drowned in a flood caused by an angry beaver.
-With this spell the Priest invokes the wrath of the Lord of Beasts, summoning forth dozens upon dozens of enraged
-squirrels. The furious rodents assault one enemy within 12" of the Priest, crawling inside the warrior’s clothing and
-armour, pelting him with nuts and causing numerous tiny bites and welts. The target suffers 2D6 Strength 1 hits. No
-armour saves allowed.
-
-Assembled By Paul H Page 49 (knights_templar@hotmail.com)
-
-
-##### Prayers of Ulric
-
-In a similar way to Sigmarite Sisters and Warrior-Priests and their prayers to Sigmar, Wolf Priest call upon their god
-for assistance in times of battle. Wolf Priest may use a wolf cloak and still chant these prayers. They are prayers, not
-spells, and thus any special protection against spells does not affect them. Wolf Priest use the rules for magic with the
-following prayers.
-D6 Result
-1 Snow Squall Difficulty 6
-Ulric extends his protection to the Wolf Priest in the form of a localized snow squall that engulfs the model. All enemy
-models in Hand-to-Hand combat with the abbess are at -1 to hit due to the swirling snow and winds. The spell lasts for
-the duration of the Hand-to-Hand combat.
-2 Hammerschlag Difficulty 10
-The Wolf Priest calls down a hammer blow from Ulric on any model within 6". That model suffers a S4 attack from an
-enormous ethereal hammer, including the concussion special rule.
-3 Bloodlust Difficulty 7
-The Wolf Priest is infused with a lust for battle and attacks wildly. All attacks are at S +2, and she scores a critical hit
-on a 5-6. The Abbess must test, by rolling the prayer's difficulty or greater on 2d6, each turn to see if the prayer remains
-in effect.
-4 Wolf's Hunger Difficulty 7
-One member of the warband (abbess's choice) is thrown into a Frenzy.
-5 Ulric's Howl Difficulty 10
-The Wolf Priest’s prayer is answered as an ear-shattering inhuman howl roars from him throat. For the duration of the
-battle, all members of the priest's warband are immune to Fear, Terror or All Alone tests as they feel the presence of
-their god. Additionally, all Rout tests are at +1.
-6 Call of Ulric Difficulty 10
-The Wolf Priest lets out a cry of agony as her body re-shapes itself into that of a huge, slavering wolf with the following
-profile:
-Profile M Ws Bs S T W I A Ld
-Wolf Form 6 4 0 4 4 1 5 2 6
-During the time that the Wolf Priest is in the form of a wolf, she may do nothing but attack as a wolf, therefore, no
-spell-casting or weapons use.
-He still hates Sigmar's minions, however. In each shooting phase, the Wolf Priest may choose to make a Ld test (using
-the wolf's Ld 6) to regain her human form. If she is still in wolf form at the end of the battle, she gets one last chance to
-return to human form. If she does not, then she remains a wolf forever! He is still a Hire Sword, and thus entitled to XP
-gains and attribute increases. He may only choose skills from the Speed Table, with the exception of Scale Sheer
-Surfaces. The max attributes for a wolf are:
-Profile M Ws Bs S T W I A Ld
-Wolf Form Max 7 6 0 4 4 3 7 3 7
-
-(knights_templar@hotmail.com) Page 50 Assembled by Paul H
-
-
-##### Funerary Rites
-
-By Todd Estabrook (legion@ennui.net)
-Priests of Morr use Funerary rites to insure that the dead remain dead, that their body is sanctified and sealed and
-their soul departed to pass on to Morr. They are prayers, not spells, and thus any special protection against spells does
-not affect them.
-Funerary rites work like the Prayers of Sigmar although the Priest of Morr never wears armour.
-D6 Result
-1 Morr's Protection Difficulty 6
-The priest of Morr calls out to his god when confronted by an abomination - and asks that he be shielded from the
-corrupted magics of the tainted.
-Any Magical attacks (spells) made by a Necromancer or a Magister or Daemons, which would be considered a Direct
-Attack on the priest of Morr, will be negated if this rite is successful.
-2 Death Holds No Fear Difficulty Auto
-Priests of Morr must be steadfast in their resolution and as such must, above all else, have no fear of death.
-The priest of Morr is now Fearless for the remainder of the combat.
-3 Sanctity of the Fallen Difficulty 7
-Those who fall shall be sanctified and their soul freed, in the name of Morr, god of death.
-The priest of Morr may attempt to perform the Rite of Sanctity on a model (friend or foe) who has been taken Out of
-Action. The priest of Morr must be within 6" of the model in question. If successful, that model may not be raised up by
-a Necromancer.
-4 Hand of Morr Difficulty 7
-By his hand, symbolic of the hand of Morr, the unliving shall become as dust and ashes.
-The priest of Morr must be in base-to-base contact with an undead model. Before Hand-to-Hand combat occurs, the
-priest of Morr may attempt to use the Hand of Morr rite. If successful, Zombies, Dire Wolves and Vampires
-immediately go Out of Action. Furthermore, Ghouls and Possessed will immediately (instead of engaging in Hand-to-
-Hand) flee their full Move away from the priest of Morr.
-5 Do you know who I am? Difficulty 7
-Gaze upon me, abomination, for I am a priest of Morr.
-This rite has a range of 6" and must be directed at the closest Undead model first, or if no Undead are within range, at
-the next closest human servant of the Undead (Dregs, Ghouls, Necromancers), or finally at any model. If successful,
-that model is immediately Stunned. If the model cannot be Stunned, then it is Knocked Down instead.
-6 I am death! Difficulty 8
-I am a priest of Morr, god of death!
-It is a well known fact that the priests of Morr are not martially inclined. Their divine duties involved the dead, not the
-taking of life. However, there are times when a priest of Morr will be called to engage in combat and who would be
-more feared than a representative of the god of Death? This spell gives the priest of Morr a 6+ armour save and
-increases their WS by either +1 or makes it 4, whichever is greater.
-
-Assembled By Paul H Page 51 (knights_templar@hotmail.com)
-
-
-##### Prayers of Ranald
-
-D6 Result
-1 Thief's speed Difficulty 6
-Calling upon Ranald, the priest moves with an almost supernatural speed.
-The priest may immediately make a 12" move to anywhere.
-2 Fool's Gold Difficulty 9
-With a brief mutter, a pile of gold appears on the pavements, luring the unresisting to it.
-Nominate a spot within 8" of the caster. All members of the opposing warband that can see it must run towards it,
-unless they pass a Ld test. The enemy leader is always immune, as is anyone immune to psychology. This lasts for a
-turn
-3 Ogre's Head Difficulty 7
-The priest's head suddenly takes the form of an ogre.
-The priest causes fear for a turn.
-4 Sleep Difficulty 10
-The priest causes his foes to sleep while he runs away.
-All enemy models within 4" have to take a Ld test or they become stunned, even if they have more than one wound.
-Helmets won't save them.
-5 Luck of Ranald Difficulty 6
-Ranald smiles on fools and gamblers and his blessings are upon the priest.
-The Priest may reroll any dice-roll in the next turn.
-6 Shadows of Ranald Difficulty 6
-The priest moves into the shadows, obscuring him from would be chargers.
-The priest may not be charged. If in combat, move him 1" apart.
-
-##### Norse Runes
-
-The Norse Shaman starts with two ‘Runes’ from the following chart. These are treated in the same way as Sigmarite Prayers
-and can be cast whilst wearing armour. Abilities that give saves against spells, give saves against runes.
-D6 Result
-1 Howl of the North Difficulty 9
-Icy winds sweep before the Shaman knocking missiles from their path.
-The Shaman is immune to all missile fire. Roll a dice during the Shaman’s recovery phase. On a roll of 1 or 2 the winds
-dissipate.
-2 Angvar’s Fury Difficulty 7
-The Shaman’s howls rouses the anger of the warriors around him to a fever pitch.
-All warriors within 8" of the Shaman gain a +1 to hit in hand-to-hand combat against the opposing warband. The spell
-lasts till the start of the Norse players next turn.
-3 Elvek’s Cold Spear Difficulty 7
-A razor sharp icicle flies at the Shaman’s foe.
-The icicle has a range of 18" and causes one S4 hit. It strikes the first model in its path.
-Normal armour saves applies.
-4 Gift of the Fates Difficulty 7
-The Shaman calls on the three Wyrd Sisters of Norse legend for a glimpse of the future.
-The Shaman may adjust one die roll by +/-1 between a successful casting of this rune & his next recovery phase. A to
-wound roll adjusted to or from 6 will not cause a critical.
-5 Kiss of Frost Difficulty 6
-The Shaman covers ground of his choosing with slick ice.
-A single model within 12" of the Shaman must pass an Initiative test or be knocked down.
-6 Bear’s Might Difficulty 9
-The Shaman calls upon the spirits of the great Ice Bears of the North to aid him.
-The Shaman gains +1 Attack, +2 Strength, +2 Toughness and lose -2 Initiative (to a minimum of 1). Take a Leadership
-test at the beginning of each turn (both your’s and your opponent’s). If the test fails, Bear’s Might drains away. Bear’s
-Might can only be cast successfully once per game.
-
-(knights_templar@hotmail.com) Page 52 Assembled by Paul H
-
-
-##### Shadow Warrior Magic
-
-Shadow Weavers use a strange blend of magic that differs in many ways to the traditional High Magic of their cousins
-of the Tower of Hoeth.
-Author’s note: Several of the following spells mention that the target must be within a certain distance of ‘a wall’. This is not
-literally restricted to walls, but may include any piece of terrain that could be expected to cast a man-sized shadow.
-
-D6 Result
-1 Pool of Shadow Difficulty 7
-The area immediately surrounding the mage is suddenly filled with twisting shadows that make it nearly impossible to
-see anything inside.
-This spell allows the mage and all within 6" to Hide, exactly as if there were a wall or other obstruction between them
-and their enemies. They may Hide even after marching. This Hiding is disrupted if any enemy enters the area of affect.
-In addition, all affected count as being in cover against enemy shooting. This spell lasts until the start of the Shadow
-Weaver’s next turn.
-2 The Living Shadows Difficulty 7
-Shadows around the target suddenly writhe as if alive and move to strike the victim.
-The Shadow Weaver may cast this spell at any enemy model within 12" of him and within 2" of a wall. The target
-suffers a single Strength 4 hit with no armour saves.
-3 Wings of Night Difficulty 6
-Wings of darkness unfurl from the Shadow Weaver’s back and engulf him. He disappears, only to reappear in nearby
-shadow.
-This spell may only be cast if the Shadow Weaver is within 2" of a wall. He is instantly moved up to 12" to a place that
-is also within 2" of a wall. If moved into contact with an enemy model, the Shadow Weaver counts as charging in the
-first round.
-4 Cloak of Darkness Difficulty 7
-The Shadow Weaver appears to be swallowed by shadows that even the sharpest senses cannot pierce.
-The Shadow Weaver is effectively concealed from enemy sight. As long as he does not attack (cast spells, shoot, or
-engage in close combat) any enemy models, he may not be attacked. He may intercept as normal if the player
-controlling him wishes, but he does not have to do so (and if he does not, enemy warriors may charge past him of
-course). The spell lasts until the Shadow Weaver attacks an enemy model. Note that a model engaged in close combat
-with an enemy warrior may never choose to not attack.
-5 Shadowbind Difficulty 9
-Tendrils of darkness rise from the shadows to engulf an enemy warrior, rendering him helpless to the whims of the
-Shadow Weaver.
-The Shadow Weaver may cast this spell at any enemy model within 24" of him and 2" of a wall. The target may not
-move unless it first passes a Strength test on 2D6 at the start of his turn (before the Recovery Phase). This spell lasts
-until the Shadow Weaver suffers a Wound or attempts to cast another spell. If attacked while affected by this spell, treat
-the target exactly as if he were Stunned.
-6 Shield of Shadow Difficulty 7
-Shadows congeal and become a solid barrier in front of the Shadow Weaver or one of his comrades, protecting the
-target from enemy attacks.
-The Shadow Weaver may cast this spell on himself or a member of his warband within 12". The target receives an
-armour save of 5+ that is not modified by the attacker’s Strength. The spell lasts until the start of the Shadow Weaver’s
-next turn.
-
-Assembled By Paul H Page 53 (knights_templar@hotmail.com)
-
-
-##### Fey Magic
-
-Wood elf magic draws upon the raw forces of nature granting the mage the ability to wield some of its primordial power.
-
-- Tree Singing Difficulty 5
-The Spellsinger encourages the spirits of the woods to make the forest shift and begin moving.
-This spell can be cast on any woodland, tree, shrub, etc within 24" of the caster, provided there are no enemy models
-    within. The spell makes the chosen woodland move 2D3" in a direction nominated by the caster before rolling. Any
-    friendly model within the woodland will move with the woodland. The woodland must stop 1" away from any enemy
-    models.
-D6 Result
-1 Inner fear Difficulty 6
-The mage projects the image of primordial horrors in his target.
-The Wood Elf Mage causes fear in her enemies for the duration of the battle.
-2 The Green Eye Difficulty 9
-The wizard projects a bolt of mystic green energy 18" long and 1" wide that ignores terrain and obstructions. Any
-    model who’s base is even partially under this line must roll under their Initiative or suffer d3 S4 hits. Range: 18
-3 Hunting Spear Difficulty 9
-The wizard hurls a mystical spear at any enemy model within LOS not fighting in Hand to Hand, rolling to hit using his
-    BS. Any model struck by the spell suffers a single S6 hit that causes d3 Wounds. Normal Armour saves do not apply.
-    Range: 24"
-4 Thorn Call Difficulty 8
-Thick Vines sprout out of the ground tearing and ensnaring its victim.
-This spell has a range of 12". The spell may be cast on a single enemy model entrapping the victim in constricting
-    thorny vines. The target may test to see if he can get free at the start of his next turn by rolling equal or under his
-    strength value if he fails he suffers a strength 4 hit as the thorns wound him as he struggles. While trapped by this spell
-    a warrior may do nothing at all and may not fight if engaged in hand to hand combat if he is attacked this way then he is
-    treated as been "knocked down" and if an enemy can wound him he is taken out of action.
-5 Ariel’s Blessing Difficulty 7
-Tendrils and Vines burst from the Mages arm binding and embracing a fallen warrior, filling him with life and
-    returning him to his feet filled with the power of the forest.
-The Mage may put any model who has been taken out of action back on their feet ready for action as if they had never
-    been taken out. Note if the mage himself has been taken out of action he may not bring himself back to the battle.
-    Friendly models taken out of action are left on the board where they perished and the mage may only bring them back
-    to life if he is base to base contact.
-6 Eagle’s cry Difficulty 8
-The caster utters a melodious cry, which sounds like an great eagle. This inspires the elves so much they gain the
-    legendary sight of Thuarindir.
-All elves within 6” gain +1 on to hit and +1 on the critical hit table.
-
-(knights_templar@hotmail.com) Page 54 Assembled by Paul H
-
-
-##### Spells of the Djed’hi
-
-D6 Result
-1 Divination of Shirath Difficulty 6
-Looking into the mists of the future, the Mage divines his best move.
-The Mage may re-roll all his failed dice rolls, though the second result stands. The effect lasts until the beginning of the
-Mage’s next turn.
-2 Shimmering Shield Difficulty 7
-The Mage is surrounded by a pale glow.
-This spell acts as a shield to protect the Mage. It gives him an additional unmodified 5+ save against all attacks. The
-effect lasts until the beginning of the Mage’s next turn.
-3 Statue of Light Difficulty 7
-A pillar of light transfixes the Mage as another stabs down from the heavens to pin his target.
-The Mage chooses a single enemy model he can see. That model may not move as long as the Mage remains both static
-and alive. The Mage and the target may cast spells normally, but fight in close combat at -2 WS (minimum of 1).
-4 Fleeting Shadows Difficulty 8
-The Mage slips between worlds, shimmering in and out of existence and becoming hard to pinpoint exactly.
-The first time the Mage is hit in close combat or shooting, the spell protects him and the hit is ignored. Move the Mage
-2" from his current position in a random direction (but not off a cliff, etc). This is where he really was all along. The
-spell remains in play until it saves the Mage from a hit, whereupon it is dispelled. It may not be cast again whilst it is in
-play.
-5 Hunter’s Fury Difficulty 9
-The Mage gestures at the target, and glowing arrows shoot from his fingertips to fly at the foe.
-The spell summons D3+1 arrows which the Mage can use to shoot against one enemy model following the rules for
-normal shooting. The arrows have a range of 36". Use the Mage’s own Ballistic Skill to determine whether he hits or
-not, but ignore movement, range and cover penalties. Each arrow causes one S3 hit.
-6 Silent Guardian Difficulty 9
-Glowing swords appear by the Mage, leaping to his defence if he is attacked in close combat.
-This spell acts as an invisible guardian that will defend the Mage. If the Mage is attacked in close combat then the
-guardian will fight first with WS5, S3. The guardian will make 1 attack per turn against each enemy that attacks the
-Mage. The guardian will not leave the Mage’s side, and will only fight if the Mage himself is being attacked. The
-Guardian cannot be attacked in return and will only be dispelled if the Mage casts another spell or dies.
-
-Assembled By Paul H Page 55 (knights_templar@hotmail.com)
-
-
-##### Lesser magic
-
-Those who have not been schooled in the ways of magic can cast only relatively simple spells. Many human wizards,
-lacking the tradition of sorcery and the grimoires of Necromancers and Chaos Mages, have to rely on their own natural
-aptitude and experimentation.
-Lesser Magic (or hedge magic) is used by human warlocks. It may not be as awesome as the mighty spells of Necromancers
-and Chaos Mages, but it is still dangerous.
-D6 Result
-1 Fires of U’Zhul Difficulty 7
-The wizard summons a fiery ball of flames and hurls it upon his enemies.
-The fireball has a range of 18" and causes one Strength 4 hit. It strikes the first model in its path. Armour saves are
-taken as normal (i.e., with -1 modifier).
-2 Flight of Zimmeran Difficulty 7
-Calling upon the power of the winds of magic, the wizard walks on air.
-The wizard may immediately move anywhere within 12", including into base contact with an enemy, in which case he
-counts as charging. If he engages a fleeing enemy in the close combat phase he will score 1 automatic hit and then his
-opponent will flee again (if he survives).
-3 Dread of Aramar Difficulty 7
-The wizard places a sense of mind-numbing fear into the minds of his opponents.
-A single model within 12" of the wizard must pass a Leadership test or flee 2D6" directly away from him. If he flees, he
-must test at the start of each of his own movement phases and will continue to flee until he passes a test. Note that this
-spell does not affect Undead or any model immune to fear.
-4 Silver Arrows of Arha Difficulty 7
-Silvery arrows appear from thin air and circle around the wizard, shooting out to strike his foes.
-Unlike other spells, this cannot be cast whilst in hand-to-hand combat. The spell summons D6+2 arrows which the
-wizard can use to shoot against one enemy model. The arrows have a range of 24". Use the wizard’s own Ballistic Skill
-to determine whether he hits or not, but ignore movement, range and cover penalties. The arrows cause one S3 hit each.
-5 Luck of Shemtek Difficulty 6
-The wizard summons the fickle power of magic to manipulate chance.
-The wizard may re-roll all his failed dice rolls, though the second results stand. The effect lasts until the beginning of
-his own next turn.
-6 Sword of Rezhebel Difficulty 8
-A flaming sword appears in the hand of the wizard, promising red ruin to all who stand in his way.
-The sword gives the wizard +1 Attack, +2 Strength and +2 Weapon Skill. Take a Leadership test at the beginning of
-each of the wizard’s own turns. If the test fails, the sword disappears.
-
-(knights_templar@hotmail.com) Page 56 Assembled by Paul H
-
-
-##### Charms & Hexes
-
-Charms and Hexes are the magic of Witches. They involve copious amounts of spell ingredients and painstaking
-incantations but they can be devastating reducing enemies to pitiful wrecks and infusing comrades with almost
-incomprehensible luck
-D6 Result
-1 Scry Difficulty 6
-The Witch uses ancient diving crystals to foretell the future and influence the actions of her comrades.
-For the duration of the turn one hero or henchman may re-roll D3 dice rolls and + or -1 to the result.
-2 Curse Difficulty 6
-The Witch bestows a powerful curse on one of her enemies that saps their confidence and resolve.
-One enemy model within 12" of the Witch must re-roll all successful dice rolls for the duration of this and their next
-turn.
-3 Dust of the Blind Difficulty 9
-Casting a handful of dust into the air, the Witch blows it around her, blinding her enemies.
-One enemy model within 16" of the Witch is struck instantly blind. They may not shoot, charge or run, are at half
-Weapon Skill and will move in a random direction at the start of their turn. The Blindness lasts until the Witch casts
-another spell or moves.
-4 Age of Stone Difficulty 8
-Whispering words of ancient power the Witch causes an enemy to age rapidly before their very eyes, making them weak
-and feeble!
-One enemy model within 12" of the Witch will be severely debilitated and all of their characteristics are reduced by -1
-for the duration of this and their next turn.
-5 Warrior's Bane Difficulty 7
-Muttering a dark and malicious incantation the Witch causes a warrior's grip to loosen, making it almost impossible for
-them to attack.
-One enemy model within 18" of the Witch will be unable to use any of their weapons as they perpetually slip from their
-grasp. They will be unable to shoot and count as fighting with fists in hand-to-hand combat. The enchantment lasts for
-the duration of this and their next turn.
-6 Cure Difficulty 6
-A faint aura extends from the Witch's body. All who are touched by it feel warmth and vitality flowing through their
-veins.
-All friendly models within 6" of the Witch have a single wound healed. In addition any stunned or knocked down
-models may immediately stand up.
-
-Assembled By Paul H Page 57 (knights_templar@hotmail.com)
-
-
-##### Dark Elf Magic
-
-The Dark Elves are as accomplished practitioners of magic as their arch enemies the High Elves but whereas the High
-Elves essentially use magic defensively and for the power of good, the Dark Elves utilise the evil powers of Dark Magic a
-very destructive force indeed.
-D6 Result
-1 Doombolt Difficulty 9
-Whispering an ancient incantation the Sorceress conjures a bolt of pure dark energy and unleashes it from her
-outstretched hand.
-The bolt of doom may be targeted at any enemy model in line of sight. The Doombolt has an 18" range and causes a
-Strength 5 hit. If the target model is wounded, then the next closest model within 6" is also hit on a 4+, at -1 Strength
-than the previous hit. The bolt will keep leaping until there are no more targets within range or until its Strength drops
-to a one. Each model can only be hit by a bolt once per turn. Take armour saves as normal.
-2 Word of Pain Difficulty 8
-The Sorceress calls the curse of the Witch King down on his enemy reducing their willingness to fight.
-The spell may be cast at an enemy model within 12". The victim must re-roll all successful hand to hand or missile
-attacks and all to wound rolls. If the victim wishes to charge, he must pass a successful Leadership test first. Lasts until
-the beginning of the next Dark Elf turn.
-3 Soul Stealer Difficulty 9
-At the Sorceress’s touch, the essence of life is drained from her enemy and absorbed into her body giving him renewed
-strength and vigour.
-Once successfully cast, the Sorceress has to make a to hit roll against a model in base contact. If the attack is successful
-and her opponent is struck, he suffers a wound with no armour save possible. The Sorceress feeds on this life-force and
-adds one wound to her profile. Note: the Sorceress can never have more then one extra wound from the use of this spell
-and the extra wound is lost at the end of the battle.
-4 Flamesword Difficulty 8
-Summoning Dark Magic the Sorceress engulfs a weapon in twisted black flames.
-The Sorceress may choose the hand-to-hand combat weapon of a member of her warband within 6" to be engulfed in
-flames. A weapon with these flames acts as a normal weapon of its type, but also adds a +2 bonus to the users Strength.
-Hits inflicted from the weapon ignore armour saves. Lasts until the Sorceress’ next shooting phase.
-5 Deathspasm Difficulty 10
-The Sorceress channels Dark Magic into her enemy, causing him to writhe in excruciating pain.
-The Deathspasm has a range of 6" and must be cast on the closest enemy model. The affected model must roll on the
-injury chart. If successfully cast, the casting Sorceress is immediately knocked down.
-6 Witch Flight Difficulty 7
-The Sorceress bends the winds of magic to her will and flies through the air.
-The Sorceress may immediately move anywhere within 12", and may count as charging. If she engages a fleeing enemy
-in the close combat phase she will score 1 automatic hit and then the opponent will flee again.
-
-(knights_templar@hotmail.com) Page 58 Assembled by Paul H
-
-
-##### Necromancy
-
-Necromancy is the magic of the dead. It grants Necromancers the power to raise the dead and command spirits, but also to
-destroy the vitality of the living.
-D6 Result
-1 Lifestealer Difficulty 10
-The Necromancer sucks out the very essence of life from his victim, stealing its vigour for himself.
-You may choose a single model within 6". The target suffers a wound (no save allowed) and the Necromancer gains an
-extra wound for the duration of the battle. This may take the Necromancer’s Wounds above his original maximum
-value. This spell will not affect the Possessed or any Undead models.
-2 Re-Animation Difficulty 5
-At the spoken command of the Necromancer, the dead rise to fight again.
-One Zombie that went out of action during the last hand-to-hand combat or Shooting phase immediately returns to the
-battle. Place the model within 6" of the Necromancer. The model cannot be placed straight into hand-to-hand combat
-with an enemy model.
-3 Death vision Difficulty 6
-The Necromancer calls on the power of Necromancy to reveal the moment of his enemies’ death.
-The Necromancer causes fear in his enemies for the duration of the battle.
-4 Spell of Doom Difficulty 9
-The Necromancer whispers to the sleeping dead to rise up from the ground and seize his enemies.
-Choose one enemy model within 12". The model must immediately roll equal to or less than his Strength on a D6 or the
-dead emerging from the earth will rend him with supernatural power. If he fails, you may roll on the Injury table to see
-what happens to the unfortunate warrior.
-5 Call of Vanhel Difficulty 6
-The Necromancer summons the world of the dead to invigorate his Undead servants.
-A single Zombie or Dire Wolf within 6" of the Necromancer may immediately move again up to its maximum
-Movement distance (i.e., 9" in the case of Dire Wolves). If this moves them into base contact with an enemy model,
-they count as charging.
-6 Spell of Awakening Difficulty: Auto
-The Necromancer calls the soul of a slain Hero back to his body and enslaves him with corrupt magic.
-If an enemy Hero is killed (i.e., your opponent rolls 11-16 on the Serious Injury chart after the battle) then the
-Necromancer may raise him to fight as a Zombie in his servitude.
-The dead Hero retains his characteristics and all his weapons and armour but may not use any other equipment or skills.
-He may no longer run, counts as a Henchman group on his own, and may not gain additional experience. This spell
-always succeeds (rules for Henchmen and experience are described later). The new Zombie follows all the normal
-Zombie rules (immune to poison, causes fear) except for retaining his profile, weapons and armour.
-
-Assembled By Paul H Page 59 (knights_templar@hotmail.com)
-
-
-##### Chaos Rituals
-
-Chaos rituals employ the raw power of the darkest magic, and are therefore supremely useful in bringing pain and
-suffering, as well as change and mutation.
-Chaos rituals are used by Magisters of the Cult of the Possessed, and Daemons.
-D6 Result
-1 Vision of Torment Difficulty 10
-The Chaos Mage summons horrible visions of the realm of Chaos, causing his enemy to recoil in utter horror.
-This spell has a range of 6" and must be cast on the closest enemy model. If the Chaos Mage is in hand-to-hand combat,
-he must choose his target from those in base contact with him. The affected model is immediately stunned. If the model
-cannot be stunned it is knocked down instead.
-2 Eye of God Difficulty 7
-The Chaos Mage implores the Dark gods to grant a boon to their servant.
-You may use the Eye of God successfully only once per battle. Choose any single model within 6", friend or foe. Roll a
-D6 to see what happens to the affected model.
-D6 Result
-1 The wrath of the gods descends upon the target. The model is taken out of action immediately. He does not have to
-roll on the Serious Injury chart after the battle though.
-2-5 The model gains +1 to any one of his characteristics during this battle (chosen by the player who cast the spell).
-6 The model gains +1 to all of its characteristics for the duration of the battle.
-3 Dark Blood Difficulty 8
-The Chaos Mage cuts his palm and his blood spurts out, burning flesh and armour.
-This attack has a range of 8" and causes D3 S5 hits. It hits the first model in its path. After using this spell the Chaos
-Mage must roll on the Injury table for himself to see how dangerous the wound is, though treat the out of action result
-as stunned instead.
-4 Lure of Chaos Difficulty 9
-The Chaos Mage calls upon the taint of chaos which exists in the inner soul of all living beings.
-The spell has a range of 12" and must be cast on the closest enemy model. Roll a D6 and add the Chaos Mage’s
-Leadership to the score. Then roll a D6 and add the target’s Leadership to the score. If the Chaos Mage beats his
-opponent’s score he gains control of the model until the model passes a Leadership test in his own recovery phase. The
-model may not commit suicide, but can attack models on his own side, and will not fight warriors from the Chaos
-Mage’s warband. If he was engaged in hand-to-hand combat with any warriors of the Chaos Mage’s warband, they will
-immediately move 1" apart.
-5 Wings of Darkness Difficulty 7
-The Chaos Mage is lifted from the ground by two shadowy Daemons and carried wherever he wants to go.
-The Chaos Mage may immediately move anywhere within 12", including into base contact with an enemy, in which
-case he counts as charging. If he engages a fleeing enemy, in the close combat phase he will score one automatic hit and
-then his opponent will flee again (if he survives).
-6 Word of Pain Difficulty 7
-Speaking the forbidden name of his dark god, the Chaos Mage causes indescribable pain to all who hear it.
-All models within 3" of the Chaos Mage, friend or foe, suffer one S3 hit. No armour saves are allowed.
-
-(knights_templar@hotmail.com) Page 60 Assembled by Paul H
-
-
-##### Nurgle Rituals
-
-The Carnival Master uses the rituals of Nurgle to pervert and corrupt nature, inflicting hideous diseases for which there are no
-known cures. Roll a D6.
-D6 Result
-1 Daemonic Vigour Difficulty 8
-The Master imbues his Daemonic minions with supernatural power.
-Any Plague Bearers or Nurglings within 8" of the Master increase their Daemonic Aura save from 5+ to 4+ until the
-beginning of their next turn.
-2 Buboes Difficulty 7
-The Master bestows the gift of pus-filled buboes upon his enemies.
-This spell has a range of 8" and affects a single enemy warrior. The warrior must pass a Toughness test or lose a
-Wound. No Armour saves are allowed.
-3 Stench of Nurgle Difficulty 8
-The Master spews forth a foul, stinking mist that chokes his foes.
-This spell has a range of 6" and affects all living creatures – friend or foe. Each enemy warrior in range must pass a
-Toughness test or lose an Attack until their next turn.
-4 Pestilence Difficulty 10
-The Master inflicts horrible diseases upon the unbelievers.
-All enemy models within 12" of the Master suffer a Strength 3 hit. No Armour saves are allowed.
-5 Scabrous Hide Difficulty 8
-The Master’s skin becomes tough and leathery like that of his patron god.
-The Master has an armour save of 2+ which replaces any normal Armour save. The Scabrous Hide lasts until the
-beginning of his next Shooting phase.
-6 Nurgle’s Rot Difficulty 9
-The Master bestows the blessing of the Plague God upon his foe.
-All enemy models in base contact with the Master must immediately test against their Toughness or contract Nurgle’s
-Rot (see Nurgle’s Rot opposite).
-
-Assembled By Paul H Page 61 (knights_templar@hotmail.com)
-
-
-##### Magic of the horned rat
-
-This brand of sorcery is used by the Skaven of Clan Eshin. It is a sinister form of magic which calls upon the Skaven deity,
-a loathsome daemonic god known as the Horned Rat.
-D6 Result
-1 Warpfire Difficulty 8
-A green flame leaps from the outstretched paw of the Sorcerer and burns its victims with indescribable agony.
-The spell has a range of 8", hitting the first model in its path. The spell causes D3 Strength 4 hits on its target, and one
-Strength 3 hit on each model within 2" of the target.
-2 Children of the Horned Rat Difficulty Auto
-The Sorcerer raises his paws and calls upon the Father of the Skaven to send forth his servants.
-This spell must be used before the game, and may only be used once. When cast, the spell summons D3 Giant Rats,
-which are placed within 6" of the Sorcerer. The Sorcerer may cast this spell successfully only once per battle, and the
-rats disappear after the battle. They do not count towards the maximum size of the Skaven warband.
-3 Gnawdoom Difficulty 7
-The target is attacked by rats and soon is covered from head to foot in small, bleeding wounds.
-The Gnawdoom causes 2D6 Strength 1 hits on a single model within 8" of the caster.
-4 Black Fury Difficulty 8
-With a chittering incantation the Sorcerer turns into a monstrous rat-like creature, which attacks with an insane fury.
-The Sorcerer may immediately charge any enemy model within 12" (ignoring any terrain and interposing models) and
-gains 2 extra Attacks and +1 Strength during this turn’s hand-to-hand combat phase only.
-5 Eye of the Warp Difficulty 8
-Gaze into the eye of the warp and despair!
-All standing models in base contact with the Sorcerer must take an immediate Leadership test. If they fail, they each
-suffer a Strength 3 hit and must run 2D6" directly away from the Sorcerer, exactly as if they had lost their nerve when
-fighting against more than one opponent.
-6 Sorcerer’s Curse Difficulty 6
-The Sorcerer points a claw towards one of his enemies and curses him in the name of the Horned One.
-The spell has a range of 12" and affects a single model within range. The target must re-roll any successful armour
-saves and to hit rolls during the Skaven hand-to-hand phase and his own next shooting and hand-to-hand combat
-phases.
-
-(knights_templar@hotmail.com) Page 62 Assembled by Paul H
-
-
-##### Call of the Pack
-
-This brand of sorcery is used by the Skaven of Clan Moulder. It is a sinister form of magic which calls upon the Skaven
-deity, a loathsome daemonic god known as the Horned Rat.
-D6 Result
-1 Skitterleap Difficulty 7
-The speed of the pack instils his flight.
-This spell has a range of 3”. One model within range, or the caster himself, may be placed anywhere on the battlefield.
-If the model enters close combat, then he counts as charging.
-2 Children of the Horned Rat Difficulty: Auto
-The Sorcerer raises his paws and calls upon the Father of the Skaven to send forth his servants.
-This spell must be used before the game, and may only be used once. When cast, the spell summons D3 Giant Rats,
-which are placed within 6” of the Sorcerer. The Sorcerer may cast this spell successfully only once per battle, and the
-rats disappear after the battle. They do not count toward the maximum size of the Skaven warband.
-3 Gnawdoom Difficulty: 7
-The target is attacked by rats and soon is covered from head to foot in small, bleeding wounds.
-The Gnawdoom causes 2D6 Strength 1 hits on a single model within 8” of the caster.
-4 Black Fury Difficulty 8
-With a chittering incantation the Sorcerer turns into a monstrous rat-like creature, which attacks with an insane fury.
-The Sorcerer may immediately charge any enemy model within 12” (ignoring any terrain and interposing models) and
-gains 2 extra attacks and +1 Strength during this turn’s hand-to-hand combat phase only.
-5 Curse of the Horned One Difficulty 9
-The Sorcerer causes the will of the Horned God to strike the target, creating a new Skaven warrior.
-The Sorcerer casts this spell on any enemy model within 12”. Both models, the target and Sorcerer, roll a D6 and add
-their Toughness. If the target matches or beats the score, nothing occurs. If the Sorcerer beats the score of the target,
-then the target becomes a Verminkin under the control of the Skaven player for the duration of the battle. The
-Verminkin has all of its normal statistics, but they are equipped as the model was equipped, with no penalties. At the
-end of the battle, the target reverts back to his normal state. If taken out of action, roll as normal for the model type.
-6 Madness Difficulty 8
-The Sorcerer causes the insane chattering of thousands of rats to fill the victim’s mind.
-The Sorcerer selects one enemy model within 24”. Both models roll a D6. If the Skaven player wins, the target is stupid
-for that turn, and rolls on the appropriate table.
-
-Assembled By Paul H Page 63 (knights_templar@hotmail.com)
-
-
-##### Prayers of Corruption
-
-This brand of sorcery is used by the Skaven of Clan Pestilens. It is a sinister form of magic which calls upon the Skaven
-deity, a loathsome daemonic god known as the Horned Rat.
-D6 Result
-1 Wither Difficulty 7
-The power of pestilence suffuses the hands of the Chanter, bringing contagion and suffering to the touch.
-The Chanter selects one model in base contact. This model suffers D3 Strength 6 hits, with no armour save possible.
-2 Children of the Horned Rat Difficulty Auto
-The Sorcerer raises his paws and calls upon the Father of the Skaven to send forth his servants.
-This spell must be used before the game, and may only be used once. When cast, the spell summons D3 Giant Rats,
-which are placed within 6” of the Sorcerer. The Sorcerer may cast this spell successfully only once per battle, and the
-rats disappear after the battle. They do not count toward the maximum size of the Skaven warband.
-3 Pestilent Breath Difficulty 7
-A wave of foul disease is coughed forth from the mouth of the faithful.
-The Chanter places the Breath Weapon template (see White Dwarf #242) with the tip touching the model. Any model
-touched by the template takes a single Strength 4 hit on a roll of 4+. Due to the nature of this attack, no armour saves
-are possible.
-4 Black Fury Difficulty 8
-With a chittering incantation the Sorcerer turns into a monstrous rat-like creature, which attacks with an insane fury.
-The Sorcerer may immediately charge any enemy model within 12” (ignoring any terrain and interposing models) and
-gains 2 extra attacks and +1 Strength during this turn’s hand-to-hand combat phase only.
-5 Putrefy Difficulty 7
-The incantation causes visions of plague to enter the mind of the victim, causing extreme terror.
-One target within 24” of the caster is the subject of this spell. The model must make a Leadership test. If he passes, then
-he will flee in the direction opposite the caster at his full movement rate. If he passes, he suffers a –1 to hit penalty. The
-effects last until the next shooting phase.
-6 Sorcerer’s Curse Difficulty 6
-The Chanter points a claw towards one of his enemies and curses him in the name of the Horned One.
-The spell has a range of 12” and affects a single model within range. The target must re-roll any successful armour
-saves and to hit rolls during the Skaven hand-to-hand phase and his own next shooting and hand-to-hand combat
-phases.
-
-(knights_templar@hotmail.com) Page 64 Assembled by Paul H
-
-
-##### Machine Curses
-
-This brand of sorcery is used by the Skaven of Clan Skryre. It is a sinister form of magic which calls upon the Skaven deity,
-a loathsome daemonic god known as the Horned Rat.
-D6 Result
-1 Warpfire Difficulty: 8
-A green flame leaps from the outstretched paw of the Sorcerer and burns its victims with indescribable agony.
-The spell has a range of 8”, hitting the first model in its path. The spell causes D3 Strength 4 hits on the target and one
-Strength 3 hit on each model within 2” of the target.
-2 Scorch Difficulty: 6
-The caster sends a gout of flame, endangering the model and the surrounding area.
-This spell has a range of 24”, and affects the first target in line. The flames conjured cause 1 wound on a roll of 6, with
-no armor save. If the target is in a building, then the building will burst into flames on a roll of 4+. Any models inside
-take a Strength 3 hit unless they are able to move outside in that turn, and any models within 2” of the walls take a
-Strength 2 hit from the smoke and heat unless they move farther away as well. For the rest of the game, the building
-itself will cause fear due to the intense flames, and anyone who wishes to enter must first pass a Fear test exactly as if
-they wished to charge a fear-causing enemy.
-3 Warp Lightning Difficulty: 8
-The power of the storms itself suffuses the Warlock, who unleashes the energy with devastating effects.
-This spell has a range of 24”, and the caster must have the target in line of site. When cast, this spell causes D3 Strength
-5 hits, with no armour save. Cover saves do apply as normal.
-4 Poisoned Wind Difficulty: 9
-The Warlock expels an acidic cloud that coats his enemies, melting them into nothing.
-The Warlock places the Breath Weapon template with the tip touching the model. Any model touched by the template
-takes D3 wounds on a roll of 5+, with no armour save possible.
-5 Eye of the Warp Difficulty: 8
-Gaze into the eye of the warp and despair!
-All standing models in base contact with the Warlock must take an immediate Leadership test. If they fail, they each
-suffer a Strength 3 hit and must run 2D6” directly away from the Warlock, exactly as if they had lost their nerve when
-fighting against more than one opponent.
-6 Sorcerer’s Curse Difficulty: 6
-The Chanter points a claw towards one of his enemies and curses him in the name of the Horned One.
-The spell has a range of 12” and affects a single model within range. The target must re-roll any successful armour
-saves and to hit rolls during the Skaven hand-to-hand phase and his own next shooting and hand-to-hand combat
-phases.
-
-Assembled By Paul H Page 65 (knights_templar@hotmail.com)
-
-
-##### Waaagh! Magic
-
-Waaagh! spells are used by Orc Shamans. They are rituals of a sort, howling prayers to the boisterous Orc gods Gork
-and Mork.
-D6 Result
-1 Led’z go Difficulty: 9
-The Shaman’s howling invigorates the ladz to fight even harder for Gork and Mork.
-Any Orc or Goblin within 4" of the Shaman will automatically strike first in hand-to-hand combat regardless of other
-circumstances. The spell only lasts until the caster is knocked down, stunned or taken out of action.
-2 Oi! Gerroff! Difficulty: 7
-A huge, green ectoplasmic hand pushes an enemy away.
-Range 8". Moves any enemy model within range D6" directly away from the Shaman. If the target collides with another
-model or a building, both suffer 1 S3 hit. Note: Very handy for dropping people from high buildings with. May not be
-cast on models in hand-to-hand combat.
-3 Zzap! Difficulty: 9
-A crackling green bolt of WAAAGH! energy erupts from the Shaman’s forehead to strike the skull of the closest foe.
-This energy easily overloads the brain of a weak-willed opponent.
-Range 12". Causes D3 S4 hits on the closest enemy target, with no armour saves allowed.
-4 Fooled Ya! Difficulty: 6
-The Shaman disappears in a green mist, confusing his enemies.
-No enemy may charge the Shaman during their next turn. If the Shaman is engaged in hand-to-hand combat he may
-immediately move 4" away.
-5 Clubba Difficulty: 7
-A huge, green club appears in the hand of the Shaman.
-The ectoplasmic club counts as a normal club with +2 Strength bonus and gives the Shaman +1 attack as well. This
-spell lasts until the Shaman suffers a wound.
-6 Fire of Gork Difficulty: 8
-Twin bolts of green flame shoot from the Shaman’s nose to strike the nearest enemy model.
-Range 12". Each of the two bolts causes D3 S3 hits; the bolts can either be fired both at the closest enemy target or split
-between the two closest enemy targets.
-
-##### Forest Goblin Spells
-
-D6 Result
-1 Wind of Gork Difficulty 6
-A blast of foul flatulence signals G’rrk’s Wrath.
-A blast of foul flatulence signals Gork’s wrath. Range:12" The first model in its path must roll under its Toughness or
-take a S2 hit and be knocked down automatically.
-2 Gaze of Mork Difficulty 8
-The Shaman invokes the presence of the God Mork to smite his foes with lightning.
-Range 12". D3 S3 hits strike the first model in their path.
-3 ‘Eadbanger Difficulty 8
-The Shaman channels pure Waaagh! energy through his body and vomits it toward the enemy.
-Range 6". Fire bolts equal to the number of the Shaman’s Attacks. Resolve with Strength equal to the Shaman’s
-Toughness at the first model in their path. After the bolts effects are resolved, roll a die. On a 1 the Shaman has drawn
-upon too much power. The Shaman collapses and goes out of action.
-4 Leap of Waaagh! Difficulty 7
-The Shaman summons a giant green hand to lift any Goblin and carry him into the fray.
-The Shaman or any other Goblin within 3" may be moved up to 12". If this move brings them into close combat, they
-count as charging in the close combat phase.
-5 Idol of Gork Difficulty 8
-Swirling energy crackles around the Shaman, giving him the appearance of a huge orc hero.
-The Shaman gains +1 WS, +1 S, and +1 A. This enhancement lasts until the Shaman takes a wound.
-6 ‘Ere we go! Difficulty 8
-The Shaman and nearby Goblins become filled with the essence of the Waaagh!
-All friendly models within 6" of the Shaman treat stunned results on the injury table as knocked down instead. The
-effects last until the Shaman takes a wound.
-
-(knights_templar@hotmail.com) Page 66 Assembled by Paul H
-
-
-##### Magic of the Steppes
-
-D6 Result
-1 Heart-seeker Difficulty: 7
-The shaman helps the arrows of his comrades find their mark with this spell. All hobgoblins within 6” of the shaman
-can re-roll failed missile attacks this round.
-2 Stiff Pelt Difficulty: 6
-The shaman casts this spell on a single wolf within 12”, causing the wolf’s pelt to grow thick and stiff for the spell’s
-duration. The wolf gains a special 4+ armor save that is not modified in any way. The spell remains in effect until the
-wolf is wounded. The spell can be cast on multiple wolves in successive rounds.
-3 Evil Eye Difficulty: 8
-This spell can be targeted against any model within 8” of the shaman. A successful casting blinds the opponent, making
-him unable to move or shoot. The model’s weapon skill is reduced to 1 for the duration of the spell. The spell lasts for
-the remainder of the shaman’s turn, and through the opponents next turn. The spell expires at the beginning of the
-shaman’s following turn.
-4 Wolf-form Difficulty: 10
-When cast, this spell causes the shaman to grow into a snarling and gruesome wolf-man. For the duration of the spell
-the shaman causes fear and adds +1 strength, +1 toughness, and +1 wound to his profile. The shaman must pass a
-leadership test each round to maintain wolf-form.
-5 Talons of Hobgobla Khan Difficulty: 7
-The Talons of Hobgobla Khan are vicious barbed arrows drawn into existence when the shaman casts the spell. The
-arrows can then be fired by the shaman at any single opponent using his ballistic skill, but ignoring modifiers for range,
-movement, or cover. The arrows are strength 3, and add a +1 to injury rolls. The spell summons d3 +1 such arrows,
-which have a range of 24”.
-6 Wings of the Eagle Difficulty: 7
-This spell allows the shaman to cause man-sized eagle wings to sprout from the back of any member of his warband
-within 6”. This model can use this wings to fly anywhere within 12”, and if this moves them into base-to-base contact
-with an enemy they count as charging for that round.
-
-Assembled By Paul H Page 67 (knights_templar@hotmail.com)
-
-
-##### Lore of Light
-
-Only the Truthsayers know of the strange and powerful rituals of the Lore of Light and they pass this knowledge on to a
-few.
-D6 Result
-1 Wings of Fate Difficulty 6
-Using the powers of life itself, the Truthsayer conjures a flock of birds to sweep down and attack his enemies.
-The flock has a range of 18" and may attack any model within this range of the Truthsayer. The enemy model suffers
-D3 Strength 2 hits.
-2 Light of Battle Difficulty 6
-The power of light infuses one of the Truthsayer’s allies, encasing them in a protective barrier of pure light.
-This spell may be cast upon a friendly model within 12" of the caster. That model has an additional save of 5+ that can
-be reduced in any way against all attacks until the start of the Truthsayer’s next turn.
-3 Gift of Life Difficulty 9
-Life is at the essence of the Truthsayer’s magic. Harnessing all of his power the Truthsayer restores a fallen comrade
-miraculously back to life!
-This spell may be cast upon a friendly model slain in the previous enemy turn. The model is immediately restored back
-to life with 1 wound remaining and should be placed as accurately as possible where they fell.
-4 Blessing of Valour Difficulty 8
-The Truthsayer evokes a powerful blessing, which instils an ally with the courage and strength of the immortal hunter
-gods.
-This spell may be cast upon a single friendly model within 24". The model is infused with strength and courage, gaining
-+1 to all hit rolls in close combat for the duration of the turn.
-5 Boon of Courage Difficulty 8
-A corona of reassuring energy surrounds the Truthsayer and envelops an ally with its power, instilling resolve and
-unshakeable determination.
-This spell affects all friendly models within 12". The models are completely immune to the effects of psychology and
-all alone tests until the end of the Truthsayer’s next turn.
-6 Voice of Command Difficulty 9
-The booming resonance of the voice of the Truthsayer echoes across the fens and enemies quake with indecision and
-doubt.
-This spell affects one model within 24" of the Truthsayer. That model may do nothing in its next turn other than defend
-itself in combat. It may not move, shoot, attack or perform any other action.
-
-(knights_templar@hotmail.com) Page 68 Assembled by Paul H
-
-
-##### Lore of Darkness
-
-It is whispered amongst the wise that the Dark Master taught the Lore Of Darkness to his disciples in order to spread
-corruption through the world.
-D6 Result
-1 Bolt of Dark Light Difficulty 7
-The Dark Emissary conjures a bolt of malign power to smite his enemies.
-The bolt has a range of 12" and causes a single Strength 5 hit against the first model in its path.
-2 Betrayal in Death Difficulty 8
-Summoning all the curses of the Dark Master, the Emissary instills the vigour of the undead into a slain enemy forcing
-them to attack their comrades.
-This spell will affect all enemy models slain in the shooting phase or close combat and lasts until the start of the caster’s
-next turn. The enemies will reanimate as they are killed and attack their comrades. If not in combat the model will shoot
-if able, or charge if it has no missile weapons. If in combat the enemy will only make a single attack. After attacking the
-enemy will fall once more, dead.
-3 Nightmare Difficulty 7
-A vision of a warrior’s worst nightmares manifests before him instilling inner feelings of dread.
-This spell may be cast upon an enemy model within 18" of the caster. The model must take an immediate fear test as if
-charged by a fear-causing enemy. If failed the model flees 2D6" away from the Dark Emissary.
-4 Curse of the Dark Master Difficulty 8
-The Dark Emissary has the power to enfeeble his enemies, loosening their grip on their swords and debilitating their
-will with the cold touch of fear.
-This spell can be cast upon a single model within 24" of the caster. All that model’s rolls to hit for both shooting and
-close combat are reduced by -1 until the start of the caster’s next turn.
-5 Fog of Death Difficulty 10
-A deep and impenetrable fog cloaks the entire battlefield, filled with the vicious embodiments of nightmares. Chaos and
-fear ensue.
-This spell affects every model on the board except the Dark Emissary. Enemy models are affected on a roll of 4+, while
-friendly models are only affected on a 6+. All models attacked by the nightmare creatures suffer a strength 2 hit. The
-fog lasts until the start of the caster’s next turn and reduces line of sight to 3D6" for all warriors present which will
-affect shooting, charging etc.
-6 Coils of the Serpent Difficulty 10
-The Emissary conjures a dark serpent of pure malign energy to ensnare and crush an unwitting adversary in its coils.
-This spell may be cast upon a single enemy model within 6" of the caster. The model must take an immediate toughness
-test to fight off the deadly serpent. If failed the model is crushed to death and out of action. No saves of any kind will
-protect against this magic
-
-Assembled By Paul H Page 69 (knights_templar@hotmail.com)
-
-
-(knights_templar@hotmail.com) Page 70 Assembled by Paul H
 
 ### Starting a Warband
 
@@ -5974,7 +116,6 @@ Verminkin and Mercenary Swordsmen. These Henchmen
 gain experience and become better as time goes by. They are
 bought in groups of one to five models.
 
-```
 The other type of Henchmen are those such as War hounds
 and Zombies. These are too dim or too primitive to gain
 experience.
@@ -5987,10 +128,8 @@ All Henchmen belong to a Henchmen group, which usually
 consists of between one and five individuals. Henchmen
 groups gain experience collectively and gain advances
 together.
-```
 #### Weapons and armour
 
-```
 Each warrior you recruit can be armed with up to two close
 combat weapons (in addition to his free dagger), up to two
 different missile weapons and any armour chosen from the
@@ -6012,10 +151,8 @@ Every model in each Henchman group must be armed and
 armoured in the same way. This means that if your
 Henchman group has four warriors, and you want to buy
 them swords, you must buy four swords.
-```
 #### Warband roster
 
-```
 You’ll need a warband roster sheet to record the details of
 your warband. Blank roster sheets can be found printed at the
 back of this book, one for Heroes and one for Henchman
@@ -6036,7 +173,6 @@ your warband write this down in the space marked as
 ‘Treasury’. At the end of the book you’ll find an example
 warband; you can use this if you want or choose your own –
 it’s up to you.
-```
 
 The warband roster is a record of your brave group of
 warriors and is useful to keep beside you as you play. During
@@ -6049,20 +185,15 @@ inspiration throughout this book.
 
 #### Calculate the warband rating
 
-```
 Each warband has a warband rating – the higher the rating,
 the better the warband. The warband rating is simply the
 number of warriors multiplied by 5, plus their accumulated
 experience.
 Large creatures such as Rat Ogres are worth 20 points plus
 the number of Experience points they have accumulated.
-```
 #### Ready for battle
 
-```
 The warband is now ready to start its fighting career!
-```
-Assembled By Paul H Page 71 (knights_templar@hotmail.com)
 
 
 ### Warbands
@@ -6129,7 +260,6 @@ and winter. The Priesthood of Ulric is still strong in
 Middenheim where Ulric is venerated as the patron of the
 city. The tradition of rivalry between Middenheim and
 
-```
 Reikland goes back hundreds of years, and the Count of
 Middenheim, Mannfred Todbringer, is one of the chief
 contenders for the Emperor’s throne. As a result there has
@@ -6152,10 +282,8 @@ Champions and Captains of a Middenheim warband start
 with Strength 4 instead of Strength 3.
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful, Lawful / Neutral, Neutral.
-```
 ##### Marienburg
 
-```
 Marienburg is the largest and most prosperous trading city in
 the Old World. Many call it the City of Gold which alone
 conveys a good idea of the wealth of this sprawling
@@ -6188,8 +316,6 @@ recruited from the dockland thugs, ships’ crews, and
 stevedores who favour a simpler appearance: leather coats,
 bandanas and short swords that are easy to conceal.
 Special rules
-```
-(knights_templar@hotmail.com) Page 72 Assembled by Paul H
 
 
 As natural traders with contacts in the merchant guilds
@@ -6211,7 +337,6 @@ models. You have 500 gold crowns available to spend. The
 maximum number of warriors in the warband may never
 exceed 15.
 
-```
 Captain: Each Mercenary warband must have one Captain:
 no more, no less!
 Champions: Your warband may include up to two
@@ -6224,15 +349,12 @@ Marksmen: Your warband may include no more than seven
 Marksmen.
 Swordsmen: Your warband may include no more than five
 Swordsmen.
-```
 ##### Starting experience
 
-```
 The Captain starts with 20 experience.
 Champions start with 8 experience.
 Youngbloods start with 0 experience.
 Henchmen start with 0 experience.
-```
 ##### Mercenary equipment lists
 
 The following lists are used by Mercenary warbands to pick their weapons:
@@ -6257,7 +379,6 @@ Shield .........................................................................
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
 
-```
 Marksman Equipment List
 This list is for Marksmen only
 Hand-to-hand Combat Weapons
@@ -6277,7 +398,6 @@ Armour
 Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-```
 ##### Heroes
 
 1 Mercenary Captain
@@ -6299,12 +419,10 @@ Shooting, Academic, Strength, and Speed, when he gains a
 new skill.
 Special Rules
 
-```
 Leader: Any warrior within 6" of the Mercenary Captain
 may use his Leadership characteristic when taking
 Leadership tests.
-```
-```
+ 
 0-2 Champions
 35 gold crowns to hire
 In any Mercenary warband there is one warrior who is bigger,
@@ -6321,14 +439,11 @@ list.
 Skills: The Reikland Champions may choose from Combat,
 Shooting, &, Strength, the Middenheim Champions may
 choose from Combat, Strength, & Speed, & the Marienburg
-```
-Assembled By Paul H Page 73 (knights_templar@hotmail.com)
 
 
 Champions may choose from Combat, Shooting, & Speed,
 when he gains a new skill.
 
-```
 0-2 Youngbloods
 15 gold crowns to hire
 These are young fighters who are still inexperienced, but eager to
@@ -6343,11 +458,8 @@ Skills: The Reikland & Marienburg Youngbloods may
 choose from Combat, Shooting, & Speed, The Middenheim
 Youngbloods may choose from Combat, Strength, & Speed,
 when he gains a new skill.
-```
-(knights_templar@hotmail.com) Page 74 Assembled by Paul H
 
 
-Assembled By Paul H Page 75 (knights_templar@hotmail.com)
 
 ##### Henchmen
 
@@ -6377,7 +489,6 @@ Weapons/Armour: Marksmen may be equipped with
 weapons and armour chosen from the Marksman Equipment
 list.
 
-```
 0-5 Swordsmen
 35 gold crowns to hire
 Swordsmen are professional warriors, experts at taking on and
@@ -6395,7 +506,6 @@ weapons that they may re-roll any failed hits when charging.
 Note that this only applies when they are armed with normal
 swords, and not with double-handed swords or any other
 weapons.
-```
 
 #### Averlander
 
@@ -6445,7 +555,6 @@ outrageous clothing has certainly appealed to the diminutive
 race of Halflings and tailors are constantly being asked to
 shorten sleeves and add a little extra width to the waist. Many
 
-```
 Young recruits are disheartened to learn that they are
 disallowed from wearing the stunning uniform until they
 have served at least a year in the army. These ‘Youngbloods’
@@ -6464,16 +573,12 @@ decided to flee to the militia when the angry farmers came
 too close to catching him. Whatever their background they
 are expert marksmen and well suited to a life in the bleak
 mountain wilderness.
-```
 ##### Special Rules
 
-```
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral.
-```
 ##### Choice of Warriors
 
-```
 An Averlander warband must include a minimum of three
 models. You have 500 gold crowns available to spend. The
 maximum number of warriors in the warband may never
@@ -6491,16 +596,12 @@ Marksman: Your warband may include any number of
 Marksmen.
 Halfling Scouts: Your warband may include no more than
 three Halfling Scouts.
-```
 ##### Starting Experience
 
-```
 The Captain starts with 20 experience.
 The Sergeant starts with 8 experience.
 Bergjaegers start with 4 experience.
 The Youngblood starts with 0 experience.
-```
-(knights_templar@hotmail.com) Page 76 Assembled by Paul H
 
 
 ##### Averlander equipment lists
@@ -6526,7 +627,6 @@ Light armour ................................................................ 20
 Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 
-```
 Marksman Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -6560,7 +660,6 @@ Buckler ........................................................................
 Helmet ......................................................................... 10 GC
 Miscellaneous
 Hunting arrows (Bergjaeger only) ............................... 35 GC
-```
 ##### Heroes
 
 1 Captain
@@ -6588,7 +687,6 @@ Special Rules
 Leader: Any warrior within 6" of the Captain may use his
 Leadership characteristic when taking Leadership test.
 
-```
 0-1 Sergeant
 35 gold crowns to hire
 Some captains are merchants or nobles that are looking for a
@@ -6603,8 +701,6 @@ weapons and armour chosen from the Mountainguard
 Equipment list.
 Skills: The Averlander Sergeant may choose from Combat,
 Strength, & Speed, when he gains a new skill.
-```
-Assembled By Paul H Page 77 (knights_templar@hotmail.com)
 
 
 0-2 Bergjaeger
@@ -6637,7 +733,6 @@ his move otherwise he is placed knocked Down or Stunned
 2" from the marker. Regardless whether the trap was
 triggered or not, the marker is removed.
 
-```
 0-1 Youngblood
 15 gold crowns to hire
 Although Empire armies are comprised of mature men there are
@@ -6654,7 +749,6 @@ weapons and armour chosen from the Mountainguard
 Equipment list.
 Skills: The Averlander Youngblood may choose from
 Combat, Shooting, & Speed, when he gains a new skill.
-```
 ##### Henchman
 
 (Brought in groups of 1-5)
@@ -6679,7 +773,6 @@ Weapons/Armour: Mountainguards may be equipped with
 weapons and armour chosen from the Mountainguard
 Equipment list.
 
-```
 Marksmen
 25 gold crowns to hire
 Being a Marksmen is not as simple as picking up a bow and try to
@@ -6695,8 +788,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Marksmen may be equipped with
 weapons and armour chosen from the Marksman Equipment
 list.
-```
-(knights_templar@hotmail.com) Page 78 Assembled by Paul H
 
 
 0-3 Halflings Scouts
@@ -6718,7 +809,6 @@ Promotion: A Halfling that is promoted to hero through the
 as one of his two skill lists. Halflings are not known for their
 great strength!
 
-Assembled By Paul H Page 79 (knights_templar@hotmail.com)
 
 
 #### Ostlander
@@ -6759,7 +849,6 @@ bounds.
 
 ##### Special Rules
 
-```
 Self-Sufficient: The men of Ostland have no desire to give
 their hard-earned gold to outsiders. As a result they can never
 hire any Mercenaries except for Ogres (who are not an
@@ -6779,10 +868,8 @@ carrying a double-barrelled hunting rifle from the finest
 forges of Hochland.
 Alignment: the Warband’s Alignment may be one of the
 following Lawful / Neutral, Neutral.
-```
 ##### Choice of Warriors
 
-```
 An Ostlander Warband is often made up of an extended
 family of Ostlanders. Fathers, uncles, brothers, cousins and
 even the occasion tough-as-nails aunt all join together to form
@@ -6800,16 +887,12 @@ Ruffians: Your Warband may include up to 5 Ruffians.
 Jaeger: Your Warband may include up to 7 Jaeger.
 Ogre: Your Warband may include one Ogre. There isn’t
 enough food for more than one!
-```
 ##### Starting Experience
 
-```
 The Elder starts with 20 experience.
 Blood-Brothers start with 12 experience.
 Priests of Taal start with 12 experience.
 All Henchmen start with 0 experiences
-```
-(knights_templar@hotmail.com) Page 80 Assembled by Paul H
 
 
 ##### Ostlander equipment lists
@@ -6843,7 +926,6 @@ None
 Armour
 Light armour ................................................................ 20 GC
 
-```
 Jaeger Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -6872,7 +954,6 @@ Missile Weapons
 None
 Armour
 Light armour ................................................................ 20 GC
-```
 ##### Heroes
 
 1 Elder
@@ -6894,7 +975,6 @@ Special Rules
 Leader: Any warrior within 6" of the Elder may use his
 Leadership characteristic when taking any Leadership tests.
 
-```
 0-2 Blood-Brothers
 35 Gold Crowns to hire
 Ostland villages are usually composed of a single extended family.
@@ -6910,8 +990,6 @@ list.
 Skills: The Blood-Brothers may choose from Combat &
 Strength, when he gains a new skill. In addition, the Blood-
 Brothers may choose from the Ostlander Special Skill list.
-```
-Assembled By Paul H Page 81 (knights_templar@hotmail.com)
 
 
 0-1 Priest of Taal
@@ -6929,7 +1007,6 @@ Profile M WS BS S T W I A Ld
 
 4 2 3 3 3 1 3 1 7
 
-```
 Weapons/Armour: A Priest of Taal may be equipped with
 weapons chosen from the Ostlander Equipment list.
 Skills: The Priest of Taal may choose from Combat,
@@ -6943,7 +1020,6 @@ the Priest of Taal start with one prays generated at random.
 See the Magic section for details. In addition the Priest of
 Taal may learn a new Pray instead on a new skill.
 Strictures: Priests of Taal may never wear armour.
-```
 ##### Henchmen
 
 (Brought in groups of 1-5)
@@ -6989,7 +1065,6 @@ of creatures. Ogres only gain advances at half the rate of
 everyone else (I.e. they must accrue twice as much
 experience as normal to get an advance).
 
-```
 0-7 Jaeger
 25 Gold Crowns to hire
 Some Ostlander men choose not to marry but instead to spend their
@@ -7005,8 +1080,7 @@ Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
 Weapons/Armour: Jaeger may be equipped with weapons
 and armour chosen from the Jaeger Equipment list.
-```
-```
+ 
 0-5 Ruffians
 25 Gold Crowns to hire
 Although every Ostlander loves his ale, a few men in every village
@@ -7033,8 +1107,6 @@ Leadership based tests they are required to take.
 No Respect: Ruffians are objects of a strange mix of pity and
 abject fear for their fellows and may never become a
 Warband leader.
-```
-(knights_templar@hotmail.com) Page 82 Assembled by Paul H
 
 
 #### Nuln Engineers
@@ -7100,7 +1172,6 @@ be heard even from outside the city walls.
 
 ##### Special Rules
 
-```
 Impeccable Care: Amongst one of the first things that the
 students are taught is to take proper care of their equipment
 and the right way to perform that maintenance. Once they
@@ -7133,10 +1204,8 @@ hired swords or dramatis personae, as they are hired help and
 have not received proper Nuln training).
 Alignment: the Warband’s Alignment may be one of the
 following Lawful / Neutral, Neutral, Neutral / Chaotic.
-```
 ##### Choice of Warriors
 
-```
 A Nuln Engineers warband must include a minimum of 3
 models. You have 500 gold crowns to recruit your initial
 warband. The maximum number of models in your warband
@@ -7155,15 +1224,11 @@ Sons of the Guns.
 Riflemen: The warband may include up to seven Riflemen
 Guardsmen: The warband may include up to five
 Guardsmen
-```
 ##### Starting Experience
 
-```
 The Engineer starts with 20 experience.
 The Instructor starts with 12 experience.
 The Senior Student starts with 8 experience.
-```
-Assembled By Paul H Page 83 (knights_templar@hotmail.com)
 
 
 Underclassmen & Henchmen start with 0 experience
@@ -7208,7 +1273,6 @@ Superior Black Powder ................................................ 30 GC
 
 ###### Guardsman
 
-```
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
@@ -7227,14 +1291,12 @@ Buckler ........................................................................
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Light armour ................................................................ 20 GC
-```
-```
+ 
 * Engineer Only
 ** Senior Student Only
 *** Only one Small Cannon maybe taken by a Nuln
 Engineer warband, the Small Cannon can be used by
 any members of the warband.
-```
 ##### Heroes
 
 1 Engineer
@@ -7260,7 +1322,6 @@ manner to achieve their goals. When shooting, they may
 choose any target in range that they can see, rather than the
 closest target.
 
-```
 0-1 Instructor
 45 gold crowns to hire
 The gunners of Nuln are the most respected in the Old World. They
@@ -7281,8 +1342,6 @@ the book when it comes to working with black powder
 weapons. While there is an Instructor in the warband all
 Pistol weapons receive a +3” range bonus and all other black
 powder weapons receive a +6” range bonus.
-```
-(knights_templar@hotmail.com) Page 84 Assembled by Paul H
 
 
 0-1 Senior Student
@@ -7300,7 +1359,6 @@ list.
 Skills: The Senior Student may choose from Combat,
 Shooting, Strength, & Speed when he gains a new skill.
 
-```
 0-4 Underclassmen
 20 gold crowns to hire
 This is the first excursion for these freshmen, who have had maybe
@@ -7315,7 +1373,6 @@ weapons and armour chosen from the Marksman equipment
 list.
 Skills: The Underclassmen may choose from Combat,
 Shooting, & Speed when he gains a new skill.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -7350,7 +1407,6 @@ Weapons/Armour: Guardsmen may be equipped with
 weapons and armour chosen from the Guardsmen equipment
 list.
 
-```
 0-7 Riflemen
 35 gold crowns to hire
 Most Empire generals are glad to employ regiments of Nuln
@@ -7369,8 +1425,6 @@ any other weapon. After a rifleman fires a black powder
 weapon other than a blunderbuss, roll a die. On a 4+, the gun
 is automatically reloaded and does not have to miss a turn
 before being able to fire again.
-```
-Assembled By Paul H Page 85 (knights_templar@hotmail.com)
 
 
 #### Cult of the Possessed
@@ -7414,7 +1468,6 @@ to the dark gods. All warbands of the Possessed gather
 wyrdstone for the Shadowlord who remains hidden in the Pit
 where he is said to be guarded by titanic Possessed the size of
 
-```
 houses. A few shards of the precious stone are kept by the
 warbands and used to create more of the Possessed.
 The leaders of cult warbands are called Magisters and each
@@ -7434,15 +1487,11 @@ bodies are so scarred and disfigured. The stigmata of
 mutation is borne by most, but the most unsettling of all are
 the Possessed themselves – melded flesh made of men,
 beasts, and metal driven by the implacable will of a Daemon.
-```
 ##### Special Rules
 
-```
 Alignment: the Warband’s Alignment is always Chaotic.
-```
 ##### Choice of warriors
 
-```
 A Possessed warband must include a minimum of three
 models. You have 500 gold crowns to recruit your initial
 warband. The maximum number of warriors in the warband
@@ -7455,16 +1504,12 @@ Darksouls: Your warband may include up to five Darksouls.
 Brethren: Any number of models may be Brethren.
 Beastmen: Your warband may include up to three Beastmen
 Gors.
-```
 ##### Starting experience
 
-```
 A Magister starts with 20 experience.
 Possessed start with 8 experience.
 Mutants starts with 0 experience.
 Henchmen start with 0 experience.
-```
-(knights_templar@hotmail.com) Page 86 Assembled by Paul H
 
 
 ##### Possessed equipment lists
@@ -7486,7 +1531,6 @@ Heavy armour .............................................................. 50 G
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
-```
 Darksouls Equipment List
 (This list is for Darksouls and Beastmen only)
 Hand-to-hand Combat Weapons:
@@ -7503,7 +1547,6 @@ Light armour ................................................................ 20
 Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-```
 ##### Heroes
 
 1 Magister
@@ -7528,7 +1571,6 @@ with one spells generated at random from the Chaos Rituals.
 See the Magic section for details. In addition the Magister
 may learn a new Spell instead on a new skill.
 
-```
 0-2 The Possessed
 90 gold crowns to hire (+ the cost of mutations)
 The Possessed have committed the greatest of heresies: they have
@@ -7552,8 +1594,7 @@ Fear: The Possessed are terrifying, twisted creatures and
 therefore cause fear. See the Psychology section for details.
 Mutations: Possessed may start the game with one or more
 mutations each. See the Mutations list for costs.
-```
-```
+ 
 0-2 Mutants
 25 gold crowns to hire (+ the cost of mutations)
 Mutants are revered as the favoured ones of the Dark gods, their
@@ -7568,8 +1609,6 @@ he gains a new skill.
 Special Rules
 Mutations: Mutants must start the game with one or more
 mutations each. See the Mutations list for the cost.
-```
-Assembled By Paul H Page 87 (knights_templar@hotmail.com)
 
 
 ##### Henchmen
@@ -7598,7 +1637,6 @@ Crazed: Darksouls have been driven insane by daemonic
 possession and know no fear. They automatically pass any
 Leadership tests they are required to take.
 
-```
 Brethren
 25 gold crowns to hire
 Brethren are the crazed human followers of the cults of the dark
@@ -7621,8 +1659,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Beastmen may be equipped with
 weapons and armour chosen from the Darksouls Equipment
 list.
-```
-(knights_templar@hotmail.com) Page 88 Assembled by Paul H
 
 
 #### The Carnival of Chaos
@@ -7678,7 +1714,6 @@ The Carnival of Chaos is the sick joke of the Great Lord of
 Decay, the Chaos god known as Nurgle. Thrice cursed
 Nurgle is also known as the unspeakable Master of Plague
 
-```
 and Pestilence and the players in the Carnival are his corrupt
 followers and worshippers. They are those who have sold
 their souls for a twisted form of immortality through
@@ -7704,15 +1739,11 @@ zealous Witch Hunters that traverse the lands but always
 seems to be just one step ahead of the Sigmarites and
 continues to follow its merry path, bringing the blessings of
 Nurgle to all.
-```
 ##### Special Rules
 
-```
 Alignment: the Warband’s Alignment is always Chaotic.
-```
 ##### Choice of Warriors
 
-```
 A Carnival of Chaos warband must include a minimum of
 three models. You have 500 Gold Crowns to recruit your
 initial warband. The maximum number of warriors in the
@@ -7728,16 +1759,12 @@ Brethren: Your warband may include any number of
 Brethren.
 Nurglings: Your warband may include any number of
 Nurglings.
-```
 ##### Starting Experience
 
-```
 Carnival Master starts with 20 Experience.
 Brutes starts with 8 Experience.
 Tainted Ones starts with 0 experience.
 Henchmen starts with 0 experience.
-```
-Assembled By Paul H Page 89 (knights_templar@hotmail.com)
 
 
 ##### Carnival equipment lists
@@ -7762,12 +1789,10 @@ Heavy Armour ............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
-```
 Brute Equipment list
 Dagger .............................................................. 1st free/2 GC
 Double-handed Weapon .............................................. 15 GC
 Flail ............................................................................. 10 GC
-```
 ##### Heroes
 
 1 Carnival Master
@@ -7802,7 +1827,6 @@ from the Nurgle Rituals. See the Magic section for details. In
 addition the Magister may learn a new Spell instead on a new
 skill.
 
-```
 0-2 Brutes
 60 Gold Crowns to hire
 These are a very specific type of mutant that have had their
@@ -7827,8 +1851,6 @@ Special Rules
 Unnatural Strength: Brutes start the game with the
 Strongman skill from the Strength skill list in the Mordheim
 rulebook.
-```
-(knights_templar@hotmail.com) Page 90 Assembled by Paul H
 
 
 0-2 Tainted Ones
@@ -7848,7 +1870,6 @@ horrendous maladies. These twisted creatures are exceptionally
 dangerous opponents in combat too, for it is said that they carry the
 dreaded and incurable Nurgle’s Rot.
 
-```
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
 Weapons/Armour: Tainted Ones may be equipped with
@@ -7860,7 +1881,6 @@ Special Rules
 Nurgle’s Blessings: Tainted Ones must start the game with
 one or more Blessings of Nurgle. See the Blessings of
 Nurgle.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -7894,7 +1914,6 @@ buzzing into eyes, nostrils and mouths. A Plague Bearer’s
 close combat opponent suffers a -1 to hit modifier on all
 attacks.
 
-```
 Stream of Corruption: Plague Bearers can spew forth a
 grotesque stream of maggots, entrails and filth. This is
 counted as a shooting attack with a range of 6" and is
@@ -7924,8 +1943,6 @@ injury). In addition, if the warband routs then every Plague
 Bearer in the warband must take an immediate Leadership
 test. If this test is failed, then the Plague Bearer counts as
 destroyed.
-```
-Assembled By Paul H Page 91 (knights_templar@hotmail.com)
 
 
 Nurglings
@@ -7979,7 +1996,6 @@ warband routs then every Nurgling in the warband must take
 an immediate Leadership test. If this test is failed, then
 Nurgling counts as destroyed.
 
-```
 Brethren
 25 Gold Crowns to hire
 Brethren are the crazed and devoted followers of Nurgle the Lord of
@@ -7994,8 +2010,7 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Brethren may be equipped with weapons
 and armour chosen from the Carnival of Chaos Equipment
 list.
-```
-```
+ 
 0–1 Plague Cart
 120 Gold Crowns to hire
 The Plague Cart is the embodiment of Nurgle and the core of the
@@ -8041,8 +2056,6 @@ The Plague Cart and Guardian are considered Daemonic and
 don’t know the concept of fear. The Plague Cart
 automatically passes any Leadership-based test it is required
 to take.
-```
-(knights_templar@hotmail.com) Page 92 Assembled by Paul H
 
 
 #### Beastmen Raiders
@@ -8107,7 +2120,6 @@ remain at this encampment until it makes one sizeable raid,
 whereupon the Beastman chief will move his camp to another
 area. These encampments are often positioned nearby roads
 
-```
 and settlements, for such areas are ripe for plunder. The
 Beastmen are a constant threat, and even if travellers are
 lucky enough not to encounter them, their presence can
@@ -8165,8 +2177,6 @@ armour as well as decoration.
 Apart from the most primitive clubs and wooden shields, the
 Beastmen make few weapons. It is not the nature of Chaos to
 create, but to destroy.
-```
-Assembled By Paul H Page 93 (knights_templar@hotmail.com)
 
 
 ##### Special Rules
@@ -8190,7 +2200,6 @@ recruit your initial warband. The maximum number of
 warriors in the warband is 15, though some buildings in the
 warband’s encampment may increase this.
 
-```
 Beastmen Chief: Each Beastmen warband must have one
 Chief: no more, no less!
 Shaman: Your warband may include a single Beastmen
@@ -8202,15 +2211,12 @@ Ungor: Your warband may include any number of Ungor.
 Minotaur: Your warband may include a single Minotaur.
 Warhounds of Chaos: Your warband may include up to five
 Warhounds of Chaos.
-```
 ##### Starting Experience
 
-```
 Beastman Chief starts with 20 Experience.
 Beastman Shaman starts with 11 Experience.
 Bestigors & Centigors start with 8 Experience.
 All Henchmen start with 0 experience.
-```
 ##### Beastman equipment lists
 
 The following lists are used by Beastman warbands to pick their weapons:
@@ -8230,7 +2236,6 @@ Heavy Armour ............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
-```
 Ungor Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -8241,7 +2246,6 @@ Missile Weapons
 None
 Armour
 Shield ............................................................................ 5 GC
-```
 ##### Heroes
 
 1 Beastmen Chieftain
@@ -8263,7 +2267,6 @@ Special Rules
 Leader: Any Warrior within 6" of the Beastman Chieftain
 may use his Leadership when taking Ld tests.
 
-```
 0-1 Beastmen Shaman
 45 Gold Crowns to hire
 Beastmen Shamans are prophets of the Dark Gods, and the most
@@ -8283,8 +2286,6 @@ Beastmen Shaman starts with one spells generated at random
 from the Chaos Rituals. See the Magic section for details. In
 addition the Magister may learn a new Spell instead on a new
 skill.
-```
-(knights_templar@hotmail.com) Page 94 Assembled by Paul H
 
 
 0-1 Centigors
@@ -8315,13 +2316,11 @@ Woodland Dwelling: Centigors are creatures of the deep,
 dark forests. They suffer no movement penalties for moving
 through wooded areas.
 
-```
 Trample: As well as their weapons, Centigors use their
 hooves and sheer size to crush their enemies. This counts as
 an additional attack, which does not benefit from weapon
 bonuses or penalties...
-```
-```
+ 
 0-2 Bestigors
 45 Gold Crowns to hire
 Bestigors are the largest type of Beastmen, the great horned
@@ -8334,7 +2333,6 @@ weapons chosen from the Beastmen Equipment list.
 Skills: The Bestigors may choose from Combat, & Strength
 when he gains a new skill. In addition, the Bestigors may
 choose from the Beastmen Special Skill list
-```
 ##### Henchmen
 
 (Brought in groups of 1-5)
@@ -8366,7 +2364,6 @@ Special Rules
 Animals: Chaos Hounds are animals and never gain
 Experience.
 
-```
 0-5 Gor
 35 Gold Crowns to hire
 Gor are nearly as numerous as Ungor but are larger and more
@@ -8375,8 +2372,7 @@ Profile M WS BS S T W I A Ld
 5 4 3 3 4 1 3 1 6
 Weapons/Armour: Gor may be armed with weapons and
 armour chosen from Beastmen Equipment list.
-```
-```
+ 
 0-1 Minotaur
 200 Gold Crowns to hire
 Minotaurs are gigantic, bull-headed Beastmen. Fearsome and
@@ -8398,8 +2394,6 @@ become a Hero.
 Large: A Minotaur is a huge creature and stands out from
 amongst its smaller brethren. Any model may shoot at a
 Minotaur, even if it is not the closest target.
-```
-Assembled By Paul H Page 95 (knights_templar@hotmail.com)
 
 
 #### Shadow Warrior Warbands
@@ -8461,17 +2455,14 @@ Shadow Warriors travelling the lands of the Empire, so they
 should fit right in your normal games of Mordheim.
 However, the Empire is not the only land these tireless
 
-```
 warriors travel to in their quest to rid the world of Dark
 Elves. As more settings are introduced for the game, you will
 be able to take your Shadow Warriors to other lands, such as
 the jungles of Lustria as introduced in Lustria Cities of Gold.
 You should not feel constrained to keep the Shadow Warriors
 in one city, it is their nature to wander.
-```
 ##### Special Rules
 
-```
 Hate Dark Elves: All warriors in a Shadow Warrior
 Warband (excluding any Hired Swords) have an unyielding
 Hatred for Dark Elves.
@@ -8498,10 +2489,8 @@ no Skaven, Possessed, Beastmen, Dark Elves, Undead, etc.).
 They also shun the company of anyone specialising in the use
 of poison (so no Assassins).
 Alignment: the Warband’s Alignment is Lawful.
-```
 ##### Choice of Warriors
 
-```
 A Shadow Warrior Warband must include a minimum of 3
 models. You have 500 Gold Crowns which you can use to
 recruit your initial warband. Maximum number of warriors in
@@ -8516,16 +2505,12 @@ Shadow Warriors: Any number of models may be Shadow
 Warriors.
 Shadow Novices: Any number of models may be Shadow
 Novices.
-```
 ##### Starting Experience
 
-```
 Shadow Master starts with 20 experience.
 Shadow Walkers start with 12 experience.
 Shadow Weavers start with 12 experience.
 All Henchmen start with 0 experience.
-```
-(knights_templar@hotmail.com) Page 96 Assembled by Paul H
 
 
 ##### Shadow Warrior equipment lists
@@ -8547,22 +2532,19 @@ Light armour ................................................................ 20
 Shield ............................................................................ 5 GC
 Ithilmar armour* ......................................................... 60 GC
 
-```
 Miscellaneous
 Standard of Nagarythe* ............................................... 75 GC
 War Horn of Nagarythe* ............................................. 25 GC
 Elven Cloak ................................................................. 75 GC
 Elven Wine* ................................................................ 50 GC
 Elven Runestones* ...................................................... 50 GC
-```
-```
+ 
 * – Heroes only. These special prices represent the lower
 rarity of these items in Ulthuan; when attempting to purchase
 these items in Mordheim (or Lustria), Shadow Warriors pay
 the same prices as other Warbands, and must roll to find them
 as normal. No roll is necessary to find these items when first
 starting a Shadow Warrior Warband.
-```
 ##### Heroes
 
 1 Shadow Master
@@ -8607,7 +2589,6 @@ Shooting, & Speed when he gains a new skill. In addition, the
 Shadow Walker may choose from the Shadow Warrior
 Special Skill list.
 
-```
 0-1 Shadow Weaver
 55 Gold Crowns to hire
 All High Elves have some aptitude for magic, and those with the
@@ -8636,8 +2617,6 @@ Shadow Weaver starts with one spells generated at random
 from the Shadow Magic list. See the Magic section for
 details. In addition the Shadow Weaver may learn a new
 Spell instead on a new skill.
-```
-Assembled By Paul H Page 97 (knights_templar@hotmail.com)
 
 
 ##### Henchmen
@@ -8655,7 +2634,6 @@ Weapons/Armour: Shadow Warriors may be equipped with
 weapons and armour chosen from the Shadow Warrior
 Equipment list.
 
-```
 Shadow Warrior Novices
 25 Gold Crowns to hire
 These are untested Shadow Elves, newly inducted into the warband.
@@ -8667,8 +2645,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Shadow Novices may be equipped with
 weapons and armour chosen from the Shadow Warrior
 Equipment list.
-```
-(knights_templar@hotmail.com) Page 98 Assembled by Paul H
 
 
 #### Forest-Walker Warbands
@@ -8723,7 +2699,6 @@ following: Lawful, Lawful / Neutral, Neutral.
 
 ##### Forest of Shadows
 
-```
 Before the twin-tailed comet devastated Mordheim the Forest
 of Shadows was the home of a magnificent elven settlement
 but with the fall of Mordheim horrible beasts and horrors
@@ -8742,10 +2717,8 @@ Rare items: The Forest-Walker warbands from the Forest of
 Shadows receive a bonus of +1 when finding rare items.
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful, Lawful / Neutral, Neutral.
-```
 ##### The Great Forest
 
-```
 It is Said that hidden deep inside the Great Forest of the
 Empire, high amount the trees you might find the hidden
 village of Wood Elves, they have been hiding ever sines the
@@ -8764,8 +2737,6 @@ Rare items: The Forest-Walker warbands from the Great
 Forest receive a bonus of +1 when finding rare items.
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful, Lawful / Neutral, Neutral.
-```
-Assembled By Paul H Page 99 (knights_templar@hotmail.com)
 
 
 ##### Wood Elves Special Rules
@@ -8819,7 +2790,6 @@ S5 hit if they are hit with a flammable weapon.
 
 ##### Choice of warriors
 
-```
 A Forest-Walker warband must include a minimum of three
 models. You have 500 gold crowns available to spend. The
 maximum number of warriors in the warband may never
@@ -8845,16 +2815,12 @@ Dryads: Your warband may include no more than three
 Dryads.
 Tree-Kin: Your warband may include no more than three
 Tree-Kin.
-```
 ##### Starting experience
 
-```
 The War-leader starts with 20 experience.
 The Waywatcher start with 16 experience
 The Spellsinger & the Wardancer start with 12 experience.
 Younglings & Henchmen start with 0 experience.
-```
-(knights_templar@hotmail.com) Page 100 Assembled by Paul H
 
 
 ##### Forest-Walker equipment lists
@@ -8894,7 +2860,6 @@ Dagger .............................................................. 1st free/2
 Club/Staff ...................................................................... 3 GC
 Axe ................................................................................ 5 GC
 
-```
 Sword .......................................................................... 10 GC
 Cold Metal Weapon* ............................................... 2x price
 Ithilmar Weapon* ..................................................... 3x price
@@ -8924,12 +2889,10 @@ Throwing knife ............................................................ 15 G
 Armour
 None
 Miscellaneous Equipment
-```
-```
+ 
 * Heroes Only
 ** Heroes & Eternal Guards Only
 *** War-leader & Eternal Guards Only
-```
 ##### Heroes
 
 1 War-leader
@@ -8952,7 +2915,6 @@ Archery,
 Leader: Any warrior within 6" of the War-leader may use his
 Leadership characteristic when taking Leadership tests.
 
-```
 0-1 Waywatcher
 55 gold crowns to hire
 The Waywatcher is an experienced Elven warrior of great skill and
@@ -8975,8 +2937,6 @@ Archery, Infiltration, Loner
 Infiltration: The Waywatcher starts with the skill Infiltration
 from the Wood Elf Special Skill.
 Loner: The Waywatcher is Immune to All Alone tests.
-```
-Assembled By Paul H Page 101 (knights_templar@hotmail.com)
 
 
 0-1 Spellsinger
@@ -9009,7 +2969,6 @@ Magic list as well as tree-sing. See the Magic section for
 details. In addition the Spellsinger may learn a new Spell
 instead on a new skill.
 
-```
 0-1 Wardancer
 75 gold crowns to hire
 Wardancers are perhaps the greatest and are certainly the most
@@ -9047,8 +3006,7 @@ Speed Skills
 Agile: The Wardancer have a special 6+ Unmodifiable save
 vs. any physical attack
 Talismanic Tattoos: 6+ Ward save and Magic Resistance 1
-```
-```
+ 
 0-4 Younglings
 25 gold crowns to hire
 All Younglings form small war-parties at an early age to patrol the
@@ -9068,8 +3026,6 @@ Speed, when he gains a new skill. In addition, the Younglings
 may choose from the Wood Elf Special Skill list.
 Special Rules Excellent Sight, Forest Folks, Wood Elf
 Archery,
-```
-(knights_templar@hotmail.com) Page 102 Assembled by Paul H
 
 
 ##### Henchmen
@@ -9113,7 +3069,6 @@ them self. On the first round of combat the Eternal Guards
 may re-roll any to hit dice, and always count as having a +1
 to Armour Save.
 
-```
 0-5 Archers
 35 gold crowns to hire
 Wood Elf Archers are renowned throughout the Old World as the
@@ -9128,8 +3083,7 @@ Special Rules: Excellent Sight, Forest Folks, Wood Elf
 Archery, Crossfire
 Crossfire: If more the one Archer shoots at the same target,
 they get +1 on the injury roll.
-```
-```
+ 
 0-3 Dryads
 55 gold crowns to hire
 Creatures of the forests, the Dryads are dangerous foes when
@@ -9143,8 +3097,7 @@ armed with two swords)
 Special Rules: Forest Spirits, Rating
 Rating: For Each Dryad in the Warband will add +5 to the
 Warband rating.
-```
-```
+ 
 0-1 Tree-kin
 125 gold crowns to hire
 Profile M WS BS S T W I A Ld
@@ -9156,8 +3109,6 @@ Large Target: The Tree-kin are large and so count as a large
 target.
 Rating: The Tree-kin in the Warband will add +35 to the
 Warband rating.
-```
-Assembled By Paul H Page 103 (knights_templar@hotmail.com)
 
 
 #### Witch Hunters
@@ -9203,7 +3154,6 @@ for everyone has something or someone to hide, and there are
 countless individuals who would willingly and
 enthusiastically hunt down and burn their own kin were a
 
-```
 Witch Hunter to command them to do so. Bands of Witch
 Hunters are often accompanied by zealous citizens,
 Flagellants, and even holy Priests of Sigmar as well as the
@@ -9220,15 +3170,11 @@ accompany them to Mordheim, are a far more dire sight
 indeed – crazed and self-mutilated men who have lost or
 surrendered all their worldly goods and, most likely, their
 reason as well.
-```
 ##### Special Rules
 
-```
 Alignment: The Warband’s Alignment is Lawful.
-```
 ##### Choice of Warriors
 
-```
 A Witch Hunter warband must include a minimum of three
 models. You have 500 gold crowns which you can use to
 recruit your initial warband. The maximum number of
@@ -9244,16 +3190,12 @@ Flagellants: Your warband may include up to five
 Flagellants.
 War hounds: Your warband may include up to five War
 hounds.
-```
 ##### Starting experience
 
-```
 A Witch Hunter Captain starts with 20 experience.
 Witch Hunters start with 8 experience.
 A Warrior-Priest starts with 12 experience.
 Henchmen start with 0 experience.
-```
-(knights_templar@hotmail.com) Page 104 Assembled by Paul H
 
 
 ##### Witch hunter equipment lists
@@ -9286,7 +3228,6 @@ None
 Armour
 None
 
-```
 Zealot Equipment List
 (This list is for Zealots only)
 Hand-to-hand Combat Weapons
@@ -9303,7 +3244,6 @@ Armour
 Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-```
 ##### Heroes
 
 1 Witch Hunter Captain
@@ -9328,7 +3268,6 @@ may use his Leadership value when taking Leadership tests.
 Burn the Witch!: A Witch Hunter Captain hates all models
 who can cast spells.
 
-```
 0-3 Witch Hunters
 25 gold crowns to hire
 Witch Hunters are members of the grim Order of Witch Hunters,
@@ -9346,8 +3285,6 @@ Shooting, Academic, & Speed when he gains a new skill.
 Special Rules
 Burn the Witch!: Witch Hunters hate all models who can
 cast spells.
-```
-Assembled By Paul H Page 105 (knights_templar@hotmail.com)
 
 
 0-1 Warrior-priest
@@ -9363,7 +3300,6 @@ Profile M WS BS S T W I A Ld
 
 4 3 3 3 3 1 3 1 8
 
-```
 Weapons/Armour: A Warrior-Priest may be equipped with
 weapons and armour chosen from the Witch Hunter
 Equipment list.
@@ -9375,7 +3311,6 @@ may use the Prayers of Sigmar as detailed in the Magic
 section and the Warrior-Priest start with one prays generated
 at random. See the Magic section for details. In addition the
 Warrior-Priest may learn a new Pray instead on a new skill.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -9410,7 +3345,6 @@ Special Rules
 Animals: War hounds are animals and thus do not gain
 experience.
 
-```
 0-5 Flagellants
 40 gold crowns to hire
 Flagellants are fanatics and madmen obsessed with the end of the
@@ -9435,8 +3369,6 @@ world is nigh, and nothing in this world holds any terror for
 them. Flagellants automatically pass all Leadership-based
 tests they are required to take. A Flagellant may never
 become a warband leader.
-```
-(knights_templar@hotmail.com) Page 106 Assembled by Paul H
 
 
 #### Sisters of Sigmar
@@ -9483,7 +3415,6 @@ minds against the wantonness running rampant outside their
 walls. When the blow finally came the Sisters gathered
 beneath the great temple dome of their convent which, well
 
-```
 built and fortified as it was by the prayers of the Sisters,
 protected them from the fire and heat of their master’s ire.
 The Sisters believe they have a holy mission, a task that they
@@ -9505,15 +3436,11 @@ is but the first step towards the mastery of the soul. Their
 favoured weapon is the warhammer, the instrument of
 Sigmar, seen as his holy symbol, alongside the twin-tailed
 comet.
-```
 ##### Special Rules
 
-```
 Alignment: the Warband’s Alignment is Lawful.
-```
 ##### Choice of warriors
 
-```
 A Sisters of Sigmar warband must include a minimum of
 three models. You have 500 gold crowns to recruit your
 initial warband. The maximum number of warriors in the
@@ -9525,15 +3452,12 @@ Superiors.
 Augur: Your warband may include a single Augur.
 Novices: Your warband may include up to 10 Novices.
 Sisters: Any number of models may be Sisters.
-```
 ##### Starting experience
 
-```
 A Matriarch starts with 20 experience.
 Sisters Superiors start with 8 experience.
 An Augur starts with 0 experience.
 Henchmen start with 0 experience.
-```
 ##### Sisters of Sigmar equipment lists
 
 The following lists are used by the Sisters of Sigmar to pick their equipment.
@@ -9547,7 +3471,6 @@ Double-handed weapon ............................................... 15 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
 
-```
 Armour
 Light armour ................................................................ 20 GC
 Heavy armour .............................................................. 50 GC
@@ -9558,8 +3481,6 @@ Miscellaneous Equipment
 Holy tome (Heroines only) ........................................ 120 GC
 Blessed water (Heroines only) .................................... 10 GC
 Holy relic (Heroines only) ........................................... 15 GC
-```
-Assembled By Paul H Page 107 (knights_templar@hotmail.com)
 
 
 ##### Heroines
@@ -9607,7 +3528,6 @@ Weapons/Armour: The Augurs may be equipped with
 weapons chosen from the Sisters of Sigmar Equipment list.
 They never wear armour.
 
-```
 Skills: The Augur may choose from Combat, Academic, &
 Speed when he gains a new skill. In addition, the Augur may
 choose from the Sisters of Sigmar Special Skill list.
@@ -9638,7 +3558,6 @@ Skills: The Sister Superiors may choose from Combat,
 Academic, Strength, & Speed when he gains a new skill. In
 addition, the Sister Superiors may choose from the Sisters of
 Sigmar Special Skill list.
-```
 ##### Henchwomen
 
 (Bought in groups of 1-5)
@@ -9655,7 +3574,6 @@ Weapons/Armour: The Sigmarite Sisters may be equipped
 with weapons and armour chosen from the Sisters of Sigmar
 Equipment list.
 
-```
 0-10 Novices
 15 gold crowns (dowry to the temple)
 By tradition, the Sisters draw their recruits only from the most noble
@@ -9671,8 +3589,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: The Novices may be equipped with
 weapons and armour chosen from the Sisters of Sigmar
 Equipment list.
-```
-(knights_templar@hotmail.com) Page 108 Assembled by Paul H
 
 
 #### Bretonnia Crusades
@@ -9723,7 +3639,6 @@ incalculable hardships.
 
 ##### Special Rules
 
-```
 Before heading into battle Bretonnian Knights kneel and pray
 to the Lady of the Lake, avowing to fight to the death for
 honour and justice. Before playing a game of Mordheim
@@ -9744,10 +3659,8 @@ enemy model wishes to shoot at a Bretonnian Knight
 (Questing Knights and Errants only), then they must first roll
 a 4+ on a D6 to overcome the curse.
 Alignment: the Warband’s Alignment is Lawful.
-```
 ##### Choice of Warriors
 
-```
 A Questing Knight’s warband must include a minimum of
 three models. You have 500 gold crowns to recruit your
 initial warband. The maximum number of warriors in the
@@ -9763,15 +3676,11 @@ Men-at-arms: Your warband may include any number of
 Men-at-Arms.
 Bowmen: Your warband may include any number of
 Bowmen.
-```
 ##### Starting Experience
 
-```
 The Questing Knight starts with 20 experience.
 Knights Errant starts with 8 experience.
 Squires & all Henchmen start with 0 experience.
-```
-Assembled By Paul H Page 109 (knights_templar@hotmail.com)
 
 
 ##### Bretonnian equipment lists
@@ -9808,7 +3717,6 @@ Light armour ................................................................ 20
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
-```
 Squires Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -9825,8 +3733,7 @@ Shield .........................................................................
 Helmet ......................................................................... 10 GC
 Buckler .......................................................................... 5 GC
 Horse ........................................................................... 40 GC
-```
-```
+ 
 Bowmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -9838,7 +3745,6 @@ Longbow ..................................................................... 15
 Armour
 Light armour ................................................................ 20 GC
 Helmet ......................................................................... 10 GC
-```
 ##### Heroes
 
 1 Questing Knight
@@ -9867,7 +3773,6 @@ who is superior to ordinary warriors. He will never panic and
 break from combat and so does not have to pass a Leadership
 test for being all alone.
 
-```
 0-2 Knights Errant
 50 gold crowns to hire
 Knight Errant are the sons of nobles, eager to prove their mettle by
@@ -9890,8 +3795,6 @@ Knights Virtue: A Knight Errant is a chivalrous warrior who
 is superior to ordinary warriors. He will never panic and
 break from combat and so does not have to pass a Leadership
 test for being all alone.
-```
-(knights_templar@hotmail.com) Page 110 Assembled by Paul H
 
 
 0-3 Squires
@@ -9906,7 +3809,6 @@ Profile M WS BS S T W I A Ld
 
 4 2 2 3 3 1 3 1 6
 
-```
 Weapons/Armour: Squires may be equipped with weapons
 and armour chosen from the Squires section of the
 Bretonnian Equipment list. A Squire may not ride a horse
@@ -9915,7 +3817,6 @@ warband are riding warhorses.
 Skills: The Squires may choose from Combat & Strength
 when he gains a new skill. In addition, the Squires may
 choose from the Bretonnian Special Skills Special Skill list.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -9933,7 +3834,6 @@ Weapons/Armour: Men-at-arms may have weapons and
 equipment chosen from the Men-at-arms section of the
 Bretonnian Equipment list.
 
-```
 Bowmen
 20 gold crowns to hire
 Bowmen are common folk who regularly practice archery at the
@@ -9946,8 +3846,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Bowmen may be equipped with weapons
 chosen from the Bowmen section of the Bretonnian
 Equipment list.
-```
-Assembled By Paul H Page 111 (knights_templar@hotmail.com)
 
 
 #### Kislevite Warband
@@ -9996,7 +3894,6 @@ people. Kislevites are known to be extremely brave warriors,
 and they hold a loathing for Chaos that is much stronger than
 most of the peoples of the Old World. While many citizens of
 
-```
 the Empire may remain ignorant to the initial signs of a
 Chaos cult, Kislevite citizens will immediately seek out any
 signs of depravity and cleanse the infected individuals with
@@ -10007,19 +3904,15 @@ anything less than constant vigilance could lead to their
 downfall. They are therefore unrelenting in their resolve
 against their ancient enemies. Give the forces of Chaos no
 quarter, and expect none in return.
-```
 ##### Special Rules
 
-```
 Ancient Enemies: Kislevite warbands may never ally with
 Neutral / Chaotic or Chaotic warbands (see the ‘Multiplayer
 Rules for more details on warband alliances).
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral.
-```
 ##### Choice of Warriors
 
-```
 A Kislevite warband must include a minimum of 3 models.
 You have 500 Gold Crowns which you can use to recruit and
 equip your warband. The maximum number of warriors in
@@ -10039,16 +3932,12 @@ Streltsi: Your warband may include up to 3 Streltsi.
 Trained Bear: Your warband may include up to 1 Trained
 Bear. Note however that a Kislevite warband may not include
 a Trained Bear if it does not first include a Bear Tamer!
-```
 ##### Starting Experience
 
-```
 Druzhina Captain starts with 20 experience.
 Bear Tamer starts with 10 experience.
 Esaul starts with 8 experience.
 All Henchmen start with 0 experience.
-```
-(knights_templar@hotmail.com) Page 112 Assembled by Paul H
 
 
 ##### Kislevite Equipment List
@@ -10076,7 +3965,6 @@ Buckler ........................................................................
 Helmet ......................................................................... 10 GC
 Light Armour .............................................................. 20 GC
 
-```
 Heavy Armour ............................................................. 50 GC
 Streltsi Equipment List
 Hand-to-hand Combat Weapons
@@ -10098,7 +3986,6 @@ Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Light Armour .............................................................. 20 GC
-```
 ##### Heroes
 
 1 Druzhina Captain
@@ -10124,7 +4011,6 @@ Leader: Any warrior within 6" of the Druzhina Captain may
 use his Leadership characteristic when taking any Leadership
 tests.
 
-```
 Inheritance: When the Kislevite warband is first created, the
 Druzhina Captain is allowed to purchase one item from the
 Kislevite Warrior equipment list at half the normal cost. This
@@ -10140,8 +4026,7 @@ normal price. This higher cost represents the fine detail and
 valuable materials used in the item’s manufacture. Until the
 item is replaced, the Captain suffers a -1 penalty to all tests
 and rolls to hit.
-```
-```
+ 
 0-1 Esaul
 35 gold crowns to hire
 Esaul is an ancient Cossack term that means ‘Best Warrior’, and
@@ -10158,8 +4043,6 @@ Weapons/Armour: An Esaul may be equipped with
 weapons chosen from the Kislevite Warrior Equipment list.
 Skills: The Esaul may choose from Combat, Shooting, &
 Speed when he gains a new skill.
-```
-Assembled By Paul H Page 113 (knights_templar@hotmail.com)
 
 
 0-1 Bear Tamer
@@ -10187,7 +4070,6 @@ so will automatically pass its Stupidity tests when within 6"
 of the Bear Tamer (even if the Tamer has been Knocked
 Down or Stunned).
 
-```
 0-2 Youths
 15 gold crowns to hire
 Strong, strapping lads from the countryside often join a band of
@@ -10198,7 +4080,6 @@ Weapons/Armour: Youths may be equipped with weapons
 chosen from the Kislevite Warrior Equipment list.
 Skills: The Youth may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -10236,7 +4117,6 @@ are subject to Hatred against all forces of Chaos (e.g.
 members of any warband the players would apply the
 Ancient Enemies special rule to).
 
-```
 0-3 Streltsi
 25 gold crowns to hire
 Firearms were first introduced to Kislev by Prince Boydinov of
@@ -10268,8 +4148,6 @@ receives a +1 on his ‘to hit’ roll with the handgun, as long as
 he did not move that turn (this applies even if the warrior has
 a skill that allows him to move and shoot with his handgun –
 he must not move if he is to rest the gun).
-```
-(knights_templar@hotmail.com) Page 114 Assembled by Paul H
 
 
 0-1 Trained Bear
@@ -10300,7 +4178,6 @@ control the bear without a Bear Tamer. The Trained Bear may
 not be used in any game in which the warband's Bear Tamer
 does not take part (and this means that if the warband does
 
-```
 not include a Bear Tamer at all, the warband must keep the
 bear staked back at camp until they hire a new one!).
 Fearsome: A charging bear is a very scary sight indeed! A
@@ -10327,8 +4204,6 @@ Injury table). If any of these results are rolled for the Bear
 Tamer, treat the result as a ‘Full Recovery’ instead.
 Animal: Trained Bears are animals and do not gain
 experience.
-```
-Assembled By Paul H Page 115 (knights_templar@hotmail.com)
 
 
 #### Dwarf Treasure Hunters
@@ -10379,7 +4254,6 @@ following: Lawful / Neutral, Neutral
 
 ##### Choice of warriors
 
-```
 A Dwarf warband must include a minimum of 3 models. You
 have 500 gold crowns which you can use to recruit and equip
 your warband. The maximum number of warriors in the
@@ -10395,16 +4269,12 @@ Dwarf Thunderers: Your warband may include up to 5
 Dwarf Thunderers.
 Beardlings: Your warband may include any number of
 Beardlings.
-```
 ##### Starting experience
 
-```
 A Noble starts with 20 experience.
 An Engineer starts with 10 experience.
 Troll Slayers start with 8 experience.
 All Henchmen start with 0 experience.
-```
-(knights_templar@hotmail.com) Page 116 Assembled by Paul H
 
 
 ##### Dwarf equipment lists
@@ -10430,7 +4300,6 @@ Gromril armour** ....................................................... 75 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
-```
 Thunderer Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -10458,7 +4327,6 @@ starting warband to represent the relative ease with which
 Dwarfs can find such items in their own stronghold. Later
 purchases of Gromril armour must be done using the normal
 price chart in the Mordheim rules.
-```
 ##### Heroes
 
 1 Dwarf Noble
@@ -10482,7 +4350,6 @@ Special Rules
 Leader: Any models in the warband within 6" of the Dwarf
 Noble may use his Leadership instead of their own.
 
-```
 0-1 Dwarf Engineer
 50 gold crowns to hire
 Dwarf Engineers are respected members of Dwarf society. It is they
@@ -10506,8 +4373,6 @@ warband have their range increased by 3" for Pistols and 6"
 for Crossbows and Handguns. Any range increases are only
 maintained as long as the Dwarf Engineer remains with the
 warband.
-```
-Assembled By Paul H Page 117 (knights_templar@hotmail.com)
 
 
 0-2 Dwarf Troll Slayers
@@ -10524,7 +4389,6 @@ Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
 
-```
 Weapons/Armour: Troll Slayers may be equipped with
 weapons chosen from the Dwarf Warrior equipment list.
 Slayers may never carry or use missile weapons or any form
@@ -10537,7 +4401,6 @@ Special Rules
 Deathwish: Troll Slayers seek an honourable death in
 combat. They are completely immune to all psychology and
 never need to test if fighting alone.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -10563,7 +4426,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Thunderers may be armed with weapons
 and armour chosen from the Dwarf Thunderer equipment list.
 
-```
 Beardlings
 25 gold crowns to hire
 These are young Dwarfs who have joined the retinue of an
@@ -10572,8 +4434,6 @@ Profile M WS BS S T W I A Ld
 3 3 2 3 4 1 2 1 8
 Weapons/Armour: Beardlings may be armed with weapons
 and armour chosen from the Dwarf Warrior equipment list.
-```
-(knights_templar@hotmail.com) Page 118 Assembled by Paul H
 
 
 #### Dwarf Rangers
@@ -10630,7 +4490,6 @@ following: Lawful / Neutral, Neutral
 
 ##### Choice of Warriors
 
-```
 A Dwarf Rangers warband must include a minimum of 3
 models. You have 500 Gold Crowns with which you can use
 to recruit and equip your warband. The maximum number of
@@ -10649,16 +4508,12 @@ Dwarf Crossbowmen: Your warband may include up to 5
 Dwarf Crossbowmen.
 Beardlings: Your warband may include any number of
 Beardlings.
-```
 ##### Starting experience
 
-```
 Runesmith starts with 20 experience
 Apprentice Runesmith starts with 0 experience
 Troll Slayers start with 8 experience
 All Henchmen start with 0 experience
-```
-Assembled By Paul H Page 119 (knights_templar@hotmail.com)
 
 
 ##### Dwarf Ranger Equipment list
@@ -10683,7 +4538,6 @@ Light armour ................................................................ 20
 Heavy armour .............................................................. 50 GC
 Gromril armour** ....................................................... 75 GC
 
-```
 Crossbowmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -10710,7 +4564,6 @@ starter warband to represent the relative ease with which
 Dwarfs can find such items in their own stronghold. Later
 purchases of Gromril Armour must be done using the normal
 Price Chart in the Mordheim rulebook.
-```
 ##### Heroes
 
 1 Runesmith
@@ -10739,7 +4592,6 @@ Leader: Any warrior within 6” of the Dwarf Runesmith may
 use his leadership characteristic when taking any Leadership
 tests.
 
-```
 Inscribe Runes: A Runesmith knows one minor rune (see
 list at the end of this warband list), determined randomly
 when the warband is first created. He may inscribe the rune
@@ -10749,8 +4601,7 @@ rune for that game. When a Runesmith advances and rolls a
 skill on the Hero Advance table, he may choose to learn a
 new rune instead of learning a skill (exactly like a spell caster
 advancing and learning a new spell).
-```
-```
+ 
 0-1 Apprentice Runesmith
 40 gold crowns to hire
 An Apprentice Runesmith follows his master wherever he goes and
@@ -10772,8 +4623,6 @@ that makes his master more efficient in his efforts. An
 Apprentice Runesmith in the warband allows a Master
 Runesmith to inscribe on two items before each game,
 instead of only one.
-```
-(knights_templar@hotmail.com) Page 120 Assembled by Paul H
 
 
 0-2 Troll Slayer
@@ -10790,7 +4639,6 @@ Profile M WS BS S T W I A Ld
 
 3 4 3 3 4 1 2 1 9
 
-```
 Weapons/Armour: Troll Slayers may be equipped with
 weapons chosen from the Dwarf Warrior equipment list.
 Slayers may never carry or use missile weapons or any form
@@ -10803,7 +4651,6 @@ Special Rules
 Deathwish: Troll Slayers seek an honourable death in
 combat. They are completely immune to all psychology and
 never need to test if fighting alone.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -10846,7 +4693,6 @@ Weapons/Armour: A Beardling may be equipped with
 weapons and armour chosen from the Dwarf Warrior
 equipment list.
 
-```
 0-5 Dwarf Longbeards
 50 gold crowns to hire
 Tested Dwarf veterans who’ve fought in hundreds of battle over
@@ -10869,8 +4715,6 @@ off! A Dwarf Longbeard may reroll any failed Leadership test
 he is required to take. Remember that you can never reroll a
 reroll, so the result of this second roll must always be
 accepted.
-```
-Assembled By Paul H Page 121 (knights_templar@hotmail.com)
 
 
 ##### Dwarf Runes
@@ -10900,7 +4744,6 @@ The leader of a Dwarf Rangers warband represents a younger
 Runesmith that has recently left the tutelage of his master. He
 knows one of the following minor runes:
 
-```
 D6 Result
 1 Rune of Stone Difficulty 8.
 +1 to Armour Save.
@@ -10924,8 +4767,6 @@ his Armour Save of +2. Similarly the warrior could not
 combine the Rune of Stone on his shield with some suit of
 magic elven armour (for example) that added +1 to the
 warrior’s Armour Save.
-```
-(knights_templar@hotmail.com) Page 122 Assembled by Paul H
 
 
 #### Von Carstein Warband
@@ -10969,7 +4810,6 @@ always night.
 
 ##### Special Rules
 
-```
 Habituation: Vampires' human servants rapidly have to
 become accustomed to the uncanny nature of their Master (or
 Mistresses) and their undead minions. The human members of
@@ -10978,10 +4818,8 @@ undead in their own warband, ie: skeletons, wights, vampires,
 etc. Other types of undead cause fear as normal.
 Alignment: the Warband’s Alignment may be one of the
 following: Neutral / Chaotic or Chaotic.
-```
 ##### Choice of warriors
 
-```
 An Undead warband must include a minimum of three models.
 You have 500 gold crowns to recruit your warband. The
 maximum number of warriors in the warband may never
@@ -10998,15 +4836,12 @@ Dire Wolves: Your warband may include up to five Dire
 Wolves.
 Undead Troll: Your warband may include up to one Undead
 Troll provided it includes a Necromancer in it.
-```
 ##### Starting experience
 
-```
 A Vampire starts with 20 experience.
 A Necromancer starts with 8 experience.
 Dregs start with 0 experience.
 All Henchmen start with 0 experience.
-```
 ##### Undead equipment lists
 
 The following lists are used by Undead warbands to pick their equipment.
@@ -11027,7 +4862,6 @@ Heavy armour .............................................................. 50 G
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
-Assembled By Paul H Page 123 (knights_templar@hotmail.com)
 
 
 ##### Heroes
@@ -11061,7 +4895,6 @@ poison.
 No Pain: Vampires treat a ‘stunned’ result on the Injury chart
 as ‘knocked down’.
 
-```
 0-1 Necromancer
 35 gold crowns to hire
 Necromancers are evil wizards, studying the corrupt art of
@@ -11083,8 +4916,7 @@ Necromancer starts with one spells generated at random from
 the Necromantic Magic list. See the Magic section for details.
 In addition the Necromancer may learn a new Spell instead
 on a new skill.
-```
-```
+ 
 0-3 Dregs
 20 gold crowns to hire
 Dregs are the most miserable human survivors of the demise of
@@ -11107,8 +4939,6 @@ Weapons/Armour: Dregs may be armed with weapons and
 armour chosen from the Undead Equipment list.
 Skills: The Dreg may choose from Combat & Strength when
 he gains a new skill.
-```
-(knights_templar@hotmail.com) Page 124 Assembled by Paul H
 
 
 ##### Henchmen
@@ -11171,7 +5001,6 @@ Upkeep: The Undead Troll is always in need of repair after
 battle and so the Undead Troll has an upkeep of 15 GC, or
 the Undead Troll simply fall to pieces.
 
-```
 Ghouls
 40 gold crowns to hire
 Ghouls are the descendants of evil and insane men who ate the flesh
@@ -11193,8 +5022,7 @@ from a few bones which they use as primitive weapons.
 Special Rules
 Cause Fear: Ghouls are twisted and repulsive creatures and
 therefore cause fear.
-```
-```
+ 
 0-5 Dire wolves
 50 gold crowns to hire
 Dire Wolves are slavering Undead hounds, the animated remains of
@@ -11222,8 +5050,6 @@ Unliving: Dire Wolves do not gain experience. You can’t
 teach an old dog new tricks!
 No Pain: Dire Wolves treat a ‘stunned’ result on the Injury
 chart as ‘knocked down’.
-```
-Assembled By Paul H Page 125 (knights_templar@hotmail.com)
 
 
 #### Blood Dragon Knights
@@ -11249,7 +5075,6 @@ warband may never exceed 12.
 Blood Dragon Knight: A Blood Dragon warband must
 include one Blood Dragon Knight, no more, no less.
 
-```
 Wights: A Blood Dragon warband may include up to two
 Wights.
 Bondsman: A Blood Dragon warband my include up to three
@@ -11262,14 +5087,11 @@ Grave Guards: A Blood Dragon Warband may include up to
 five Grave Guards.
 Hellhounds: A Blood Dragon Warband may include up to
 five Hellhounds.
-```
 ##### Starting Experience
 
-```
 The Blood Dragon Knight starts with 20 Experience.
 Wights starts with 8 Experience.
 Bondsmen & all henchmen start with 0 Experience.
-```
 ##### Blood Dragon Equipment List
 
 The following lists are used by Blood Dragon Knight Warbands to pick their weapons:
@@ -11294,7 +5116,6 @@ Mounts
 Nightmare ..................................................................... 95 GC
 Skeleton Steed ............................................................. 65 GC
 
-```
 Undead Warrior Equipment List
 Close Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -11311,8 +5132,6 @@ Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Light Armour .............................................................. 20 GC
-```
-(knights_templar@hotmail.com) Page 126 Assembled by Paul H
 
 
 ##### Heroes
@@ -11349,7 +5168,6 @@ by any poison.
 No Pain: Blood Dragon Knight treat a ‘stunned’ result on the
 Injury chart as ‘knocked down’.
 
-```
 0-2 Wights
 80 gold crowns to hire
 Wights are long dead heroes who are tied to the land of the living by
@@ -11380,8 +5198,7 @@ psychology (such as fear) and never leave combat.
 Immune to Poison: Wights are not affected by any poison.
 No Pain: Wights treat a ‘stunned’ result on the Injury chart
 as ‘knocked down’.
-```
-```
+ 
 0-3 Bondsman
 20 gold crowns to hire
 Bondsmen are pitiable beings, who are somehow in dept with their
@@ -11401,8 +5218,6 @@ Living: Bondsmen are living beings and therefore gain all
 benefits and drawbacks from being alive. Thus they can run
 as normal, get experience but they also have to make All-
 alone tests etc.
-```
-Assembled By Paul H Page 127 (knights_templar@hotmail.com)
 
 
 ##### Henchmen
@@ -11464,7 +5279,6 @@ allowed to charge normally.
 No Brain: Do you really think that a pile of bones can learn?
 Skeletons never gain experience!
 
-```
 0-5 Grave Guard
 35 gold crowns to hire
 Grave Guards are undead warriors, raised by the vampire to serve
@@ -11491,8 +5305,7 @@ to charge normally.
 No Brain: Grave Guards are nothing more than a pile of
 bones and rusty metal. They never can learn from mistakes
 and can get no experience.
-```
-```
+ 
 0-5 Hell Hounds
 25 gold crowns to hire
 Hell Hounds are monstrous undead wardogs raised to undead life
@@ -11511,8 +5324,6 @@ No Pain: In combat treat “Stunned” results as “Knocked
 Down”
 Animal: You can’t teach a dead dog, new tricks. The Hell
 Hound never gains experience
-```
-(knights_templar@hotmail.com) Page 128 Assembled by Paul H
 
 
 #### Lahmian Warband
@@ -11557,7 +5368,6 @@ Alignment: the Warband’s Alignment is Neutral / Chaotic.
 
 ##### Choice of Warriors
 
-```
 A Lahmian warband must consist of at least three models.
 You have 500gc to recruit and equip your initial warband.
 The maximum number of warriors in the warband may never
@@ -11577,17 +5387,14 @@ Blood Slaves: Your warband may have up to five Blood
 Slaves.
 Dire Wolves: Your warband may have up to five Dire
 Wolves.
-```
 ##### Starting Experience
 
-```
 The Lahmia Vampire starts with 20 Experience.
 Necromancer starts with 8 Experience.
 Blood sister, Thrall & all henchmen start with 0
 Experience.
 For the starting Experience of the Beloved, see the Beloved
 Entre Below for details.
-```
 ##### Lahmian Equipment List
 
 The following lists are used by Lahmian Warbands to pick their weapons:
@@ -11604,7 +5411,6 @@ Sling ..........................................................................
 Short bow ...................................................................... 5 GC
 Bow ............................................................................. 10 GC
 
-```
 Armour
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
@@ -11612,8 +5418,6 @@ Toughened leathers ....................................................... 5 GC
 Helmet ......................................................................... 10 GC
 Light armour ................................................................ 20 GC
 * Lahmia Vampire or Blood Sister only
-```
-Assembled By Paul H Page 129 (knights_templar@hotmail.com)
 
 
 ##### Heroes
@@ -11668,7 +5472,6 @@ from the Necromantic Magic list. See the Magic section for
 details. In addition the Necromancers may learn a new Spell
 instead on a new skill.
 
-```
 0-3 Thrall
 20 gold crowns to hire
 Lahmian vampires are nobility, and all nobility require servants.
@@ -11699,8 +5502,6 @@ place of the Beloved in the warband's roster. The Thrall's
 elevation to Beloved counts instead of any advance he may
 be entitled to. A new Thrall may be recruited after the
 warband's next battle.
-```
-(knights_templar@hotmail.com) Page 130 Assembled by Paul H
 
 
 0-1 Blood Sister
@@ -11735,7 +5536,6 @@ her next and all subsequent advances. Once a Blood Sister
 has become a vampire a new Blood Sister may be recruited
 into the warband after the next game.
 
-```
 0-1 Beloved
 Lahmians are attracted to mortals of strong will and strong body.
 Their seduction gives the vampires a special pleasure, and their
@@ -11760,7 +5560,6 @@ of action, the Beloved will immediately hate the model who
 did the damage and attempt to kill them at the earliest
 opportunity. The beloved will remain frenzied until the hated
 enemy is slain.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -11788,7 +5587,6 @@ as knocked down.
 No Brain: Skeletons never gain experience. They do not
 learn from their mistakes. What did you expect?
 
-```
 0-5 Dire wolves
 50 gold crowns to hire
 Dire Wolves are slavering Undead hounds, the animated remains of
@@ -11816,8 +5614,6 @@ Unliving: Dire Wolves do not gain experience. You can’t
 teach an old dog new tricks!
 No Pain: Dire Wolves treat a ‘stunned’ result on the Injury
 chart as ‘knocked down’.
-```
-Assembled By Paul H Page 131 (knights_templar@hotmail.com)
 
 
 0-5 Blood Slaves
@@ -11829,7 +5625,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Skeletons may be armed with weapons
 and armour chosen from the Lahmia Equipment list.
 
-(knights_templar@hotmail.com) Page 132 Assembled by Paul H
 
 
 #### Tilean Warband
@@ -11894,7 +5689,6 @@ following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 
 ##### Trantios
 
-```
 A warband hailing from Trantio will be the best-equipped
 and most experienced human warband in Lustria. To
 represent this a Trantio war band will always start a one-off
@@ -11902,10 +5696,8 @@ match with an extra 100 GC and in a Lustrian campaign they
 will start with an extra 20% GC added to their total.
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral, Neutral / Chaotic.
-```
 ##### Choice of Warriors
 
-```
 Your warband must include a minimum of 3 models to a
 maximum of 15 models. You have 500 points to assemble
 your warband with. The maximum characteristics for each
@@ -11921,16 +5713,12 @@ Warriors.
 Duellists: Your Warband may include up to five Duellists.
 Marksmen: Your Warband may include up to seven
 Marksmen.
-```
 ##### Starting Experience
 
-```
 A Captain starts with 20 experience.
 Champions start with 8 experience.
 Youngbloods start with 0 experience.
 Henchmen start with 0 experience.
-```
-Assembled By Paul H Page 133 (knights_templar@hotmail.com)
 
 
 ##### Tilean equipment lists
@@ -11956,7 +5744,6 @@ Armour
 Helmet ......................................................................... 10 GC
 Light armour ................................................................ 20 GC
 
-```
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Marksmen Equipment List
@@ -11975,7 +5762,6 @@ Hunting Rifle ............................................................. 175 
 Armour
 Helmet ......................................................................... 10 GC
 Light armour ................................................................ 20 GC
-```
 ##### Heroes
 
 1 Captain
@@ -11996,7 +5782,6 @@ Special Rules
 Leader: Any models in the Warband within 6" of the Captain
 may use his Leadership instead of their own.
 
-```
 0-2 Champions
 35 Gold Crowns to hire
 Champions are often the trusted sergeants of the warband captain
@@ -12010,8 +5795,7 @@ Skills: The Miraglean & Trantios Champions may choose
 from Combat, Shooting, &, Speed, the Remasens Champions
 may choose from Combat, Academic & Strength when he
 gains a new skill.
-```
-```
+ 
 0-2 Youngbloods
 15 Gold Crowns to hire
 These are young fighters who are still inexperienced but eager for
@@ -12024,8 +5808,6 @@ Skills: The Miraglean & Trantios Youngbloods may choose
 from Combat, Shooting, & Strength, The Remasens
 Youngbloods may choose from Combat, Academic &
 Strength when he gains a new skill.
-```
-(knights_templar@hotmail.com) Page 134 Assembled by Paul H
 
 
 ##### Henchmen
@@ -12052,7 +5834,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Marksmen can be armed with weapons
 and armour chosen from the Marksmen Equipment list.
 
-```
 0-5 Duellists
 35 Gold Crowns to hire
 Tilea is famous for its many vendettas from the rich noble houses
@@ -12069,8 +5850,6 @@ Cloak & Dagger: Duellists are adept at fighting using their
 billowing cloaks to swirl at an enemy distracting him and
 warding off blows. The Duellist counts as using a shield in
 close combat.
-```
-Assembled By Paul H Page 135 (knights_templar@hotmail.com)
 
 
 #### Outlaw Warband
@@ -12114,7 +5893,6 @@ groups of outlaws that they came into contact with and
 attended to their spiritual needs, and, when the occasion
 arose, also attended to their wounds.
 
-```
 In the years that followed the sighting of the twin-tailed star
 in the sky, it was inevitable that tales of Mordheim would
 have travelled down the waters of the River Stir. Tales of
@@ -12122,10 +5900,8 @@ strange sights and great riches would easily have reached the
 inhabitants of Stirwood Forest. Temptations of this enormous
 wealth that was rumoured to be in the shattered city would
 have been hard for any group of outlaws to resist.
-```
 ##### Special Rules
 
-```
 All warriors in an Outlaws warband may be equipped with
 only one missile weapon at any time. All warriors must carry
 a type of bow, but not crossbows, as part of their equipment.
@@ -12134,10 +5910,8 @@ additional ballistic weaponry, he cannot do so. The only
 exception to this is the Monk who may choose to carry a
 bow, but is not compelled to do so.
 Alignment: the Warband’s Alignment is Neutral.
-```
 ##### Choice of Warriors
 
-```
 An Outlaw warband must include a minimum of three
 models. You have 500 gold crowns that you can use to recruit
 and equip your warband. The maximum number of warriors
@@ -12155,15 +5929,12 @@ Marksmen: Your warband may include up to a maximum of
 seven Marksmen.
 Outlaws: Your warband may include any number of
 Outlaws.
-```
 ##### Starting Experience
 
-```
 The Bandit Leader starts with 20 experience.
 Champions & a Monk start with 8 experience.
 Petty Thieves start with 0 experience.
 All Henchmen start with 0 experience.
-```
 ##### Outlaws equipment lists
 
 The following lists are used by Outlaws warbands to pick their weapons:
@@ -12191,7 +5962,6 @@ Hunting Arrows: These are available to Heroes at the time of their initial recru
 wish to subsequently purchase this item during the Trading and Exploration stages of the game, then you would have to roll for
 Rarity as normal.
 
-(knights_templar@hotmail.com) Page 136 Assembled by Paul H
 
 
 ##### Heroes
@@ -12227,7 +5997,6 @@ weapons chosen from the Outlaws equipment lists.
 Skills: The Champions may choose from Combat, Shooting,
 & Strength when he gains a new skill.
 
-```
 0-1 Monk
 35 Gold Crowns to hire
 A Monk would usually spend most of his time alone in the forest in
@@ -12250,8 +6019,7 @@ detailed in the Magic section and the Monk start with one
 prays generated at random. See the Magic section for details.
 In addition the Monk may learn a new Pray instead on a new
 skill. The monk may learn neither Sorcery nor Arcane Lore.
-```
-```
+ 
 0-2 Petty Thieves
 20 Gold Crowns to hire
 Many youths who are caught by the City Guards in the act of
@@ -12264,7 +6032,6 @@ Weapons/Armour: Petty Thieves may be equipped with
 weapons chosen from the Outlaws equipment list.
 Skills: The Petty Thieves may choose from Combat,
 Shooting, & Speed when he gains a new skill.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -12279,7 +6046,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Marksmen can be armed with weapons
 and armour chosen from the Outlaws Equipment list.
 
-```
 Outlaws
 25 Gold Crowns to hire
 These warriors form the basis of any group of bandits. Ruthless to
@@ -12289,8 +6055,6 @@ Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
 Weapons/Armour: Outlaws can be armed with weapons and
 armour chosen from the Outlaws Equipment list.
-```
-Assembled By Paul H Page 137 (knights_templar@hotmail.com)
 
 
 #### Pit Fighter Warband
@@ -12356,7 +6120,6 @@ following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 
 ##### Choice of Warriors
 
-```
 A Pit Fighter Warband must include a minimum of 3 models.
 You have 500 Gold Crowns that you can use to recruit your
 initial Warband. The maximum number of warriors in the
@@ -12375,17 +6138,13 @@ Pit Fighter.
 Pursuers: Your Warband may include up to seven Pursuers.
 Pit Fighters: Your Warband may include any number of Pit
 Fighters.
-```
 ##### Starting Experience
 
-```
 A Pit King starts with 20 experience.
 Pit Fighter Veterans start with 8 experience.
 A Pit Fighter Troll Slayer starts with 8 experience.
 Initiates start with 0 experience
 Henchmen start with 0 experience
-```
-(knights_templar@hotmail.com) Page 138 Assembled by Paul H
 
 
 ##### Pit Fighter Equipment List
@@ -12414,7 +6173,6 @@ Heavy Armour ............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 
-```
 Pursuer Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -12433,7 +6191,6 @@ Light armour ................................................................ 20
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
-```
 *Only Available to the Dwarf Troll Slayer
 
 ##### Heroes
@@ -12461,7 +6218,6 @@ Leader: Any models in the Warband within 6" of the King
 may use his leadership instead of their own.
 Pit Fighter: See Strength Skill section.
 
-```
 0-2 Pit Fighter Veterans
 35 gold crowns to hire
 Pit Fighter Veterans are experienced fighters who carry out the
@@ -12477,8 +6233,7 @@ when he gains a new skill. In addition, the Veterans may
 choose from the Pit Fighter Skill list.
 Special Rules
 Pit Fighter: See Strength Skill section.
-```
-```
+ 
 0-2 Pit Fighter Initiates
 15 gold crowns to hire
 Pit Fighter Initiates, are young men have just picked up their arms
@@ -12492,8 +6247,6 @@ Equipment list.
 Skills: The Initiates may choose from Combat & Strength
 when he gains a new skill. In addition, the Initiates may
 choose from the Pit Fighter Skill list.
-```
-Assembled By Paul H Page 139 (knights_templar@hotmail.com)
 
 
 0-1 Dwarf Troll Slayer
@@ -12518,7 +6271,6 @@ form of armour.
 Skills: The Troll Slayer may choose from Combat,
 Academic, Strength & Speed when he gains a new skill. In
 
-```
 addition, the Troll Slayer may choose from the Pit Fighter
 Skill or the Troll Slayer Skill list.
 Special Rules
@@ -12540,7 +6292,6 @@ immediately, he refuses to fight alongside these pansy Elves!
 Death Wish: Troll Slayers seek an honourable death in
 combat. They are completely immune to all psychology and
 never need to test if fighting alone.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -12576,7 +6327,6 @@ Pursuer Equipment list.
 Special Rules
 Pit Fighter: See Strength Skill section.
 
-```
 0-1 Ogre Pit Fighter
 165 gold crowns to hire
 The Ogre Pit Fighter is one of the most brutal and feared of all Pit
@@ -12604,8 +6354,6 @@ experience and bettering themselves they are not the smartest
 creatures. Ogres only gain advances at half the rate of
 everyone else (I.e. they must accrue twice as much
 experience as normal to get an advance).
-```
-(knights_templar@hotmail.com) Page 140 Assembled by Paul H
 
 
 #### Norse Warband
@@ -12647,17 +6395,14 @@ temples of the Slann.
 
 ##### Special Rules
 
-```
 All Norse Warriors are subject to the following special rules:
 Seamen: The Norse are a sea faring people and spend much
 of their time rowing boats. To represent this, all Norse
 warriors get +2 to Strength when trying to row a boat.
 Alignment: the Warband’s Alignment may be one of the
 following: Neutral, Neutral / Chaotic.
-```
 ##### Choice of Warriors
 
-```
 A Norse Warband must include a minimum of three models.
 You have 500 gold crowns to recruit your initial Warband.
 The maximum number of warriors in the Warband may never
@@ -12675,16 +6420,12 @@ Marauders.
 Hunters: Your Warband may include up to five Hunters.
 Wolves: Your Warband may include up to five Wolves
 provided it includes a Wulfen in it.
-```
 ##### Starting Experience
 
-```
 A Jarl starts with 20 experience.
 Berserkers & the Wulfen start with 11 experience.
 Bondsmen start with 0 experience.
 Henchmen start with 0 experience.
-```
-Assembled By Paul H Page 141 (knights_templar@hotmail.com)
 
 
 ##### Norse equipment lists
@@ -12719,7 +6460,6 @@ Helmet .........................................................................
 Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 
-```
 Hunters Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -12734,7 +6474,6 @@ Bow ............................................................................
 Armour
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
-```
 ##### Heroes
 
 1 Jarl
@@ -12757,7 +6496,6 @@ Special Rules
 Leader: Any models in the Warband within 6" of the Jarl
 may use his Leadership instead of their own.
 
-```
 0-2 Berserkers
 50 Gold Crowns to hire
 Berserkers are some of the most ferocious warriors in any Norse
@@ -12776,8 +6514,6 @@ choose from the Norse Special Skill list.
 Special Rules
 Berserkers: Berserkers are subject to Frenzy as detailed in
 the Psychology section of the Mordheim rulebook.
-```
-(knights_templar@hotmail.com) Page 142 Assembled by Paul H
 
 
 0-1 Wulfen
@@ -12806,7 +6542,6 @@ psychology. Also despite being greatly revered by their
 barbarian fellows Wulfen are too feral and uncontrolled to
 become the leader of the warband.
 
-```
 0-2 Bondsmen
 15 Gold Crowns to hire
 These are young fighters who are still inexperienced and they are
@@ -12818,7 +6553,6 @@ weapons and armour from the Heroes Equipment list.
 Skills: The Bondsmen may choose from Combat, Strength &
 Speed when he gains a new skill. In addition, the Bondsmen
 may choose from the Norse Special Skill list.
-```
 ##### Henchmen
 
 (Bought in groups of 1-5)
@@ -12846,7 +6580,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Hunters can be armed with weapons and
 armour chosen from the Henchman Equipment list.
 
-```
 0-5 Wolves
 15 Gold Crowns to hire
 The harsh lands of Norsca are inhabit by a great many ferocious
@@ -12865,8 +6598,6 @@ Pack Leader: Wolves are feral pack animals that only
 respond to the strongest in their pack – the Wulfen. In the
 event that there are no Wulfen in the warband due to death or
 injury the wolves cannot be used until he is replaced.
-```
-Assembled By Paul H Page 143 (knights_templar@hotmail.com)
 
 
 #### Dark Elf Warband
@@ -12901,7 +6632,6 @@ High Elves for many centuries. The wars between these two
 races have been very long and bloody affairs. Dark Elves
 Hate any High Elf warriors including High Elf Hired Swords.
 
-```
 Excellent Sight: There are numerous legends detailing the
 excellent eyesight of the Elves, both Druchii and Ulthuan kin.
 Elves can spot Hidden enemies from twice as far away than
@@ -12910,10 +6640,8 @@ Black Powder Weapons: Dark Elves may never use black
 powder weapons as they find them too crude, noisy and
 unreliable.
 Alignment: the Warband’s Alignment is Neutral / Chaotic.
-```
 ##### Choice of Warriors
 
-```
 A Dark Elf warband must include a minimum of three
 models. You have 500 gold crowns to recruit your initial
 warband. The maximum number of warriors in the warband
@@ -12928,15 +6656,12 @@ Corsairs.
 Shades: Your warband may include up to five Shades.
 Cold One Hounds: Your warband may include up to two
 hounds if it also includes a Beastmaster.
-```
 ##### Starting Experience
 
-```
 High Born starts with 20 experience.
 Fellblades and Sorceress starts with 12 experience.
 Beastmaster starts with 8 experience.
 Henchmen starts with 0 experience.
-```
 ##### Dark Elf equipment lists
 
 The following lists are used by Dark Elf warbands to pick their weapons:
@@ -12963,7 +6688,6 @@ Special Equipment
 Dark Venom* .............................................................. 15 GC
 Sea Dragon Cloak** .................................................... 50 GC
 
-```
 Shades Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -12974,11 +6698,9 @@ Repeater Crossbow ...................................................... 35 GC
 Armour
 Helmet ......................................................................... 10 GC
 Light armour ................................................................ 20 GC
-```
 * May be taken by Heroes only.
 ** May be taken by Heroes and Corsairs only.
 
-(knights_templar@hotmail.com) Page 144 Assembled by Paul H
 
 
 ##### Heroes
@@ -13028,7 +6750,6 @@ Melee Specialists: Fellblades live by a strict code of close
 quarter fighting. Fellblades may not use missile weapons of
 any sort.
 
-```
 0-1 Beastmaster
 45 Gold Crowns to hire
 Whereas the High Elves have a great affinity with Dragons and
@@ -13049,8 +6770,7 @@ Special Rules
 Cold One Beasthound: The Beastmaster may be
 accompanied by up to two Cold One Beasthounds, these are
 bought as henchmen and follow all rules for listed for them.
-```
-```
+ 
 0-1 Dark Elf Sorceress
 55 Gold Crowns to hire
 Dark Elves are strange in that apart from the fell Witch King there
@@ -13076,8 +6796,6 @@ Elf Sorceress starts with one spells generated at random from
 the Dark Elf Magic list. See the Magic section for details. In
 addition the Dark Elf Sorceress may learn a new Spell instead
 on a new skill.
-```
-Assembled By Paul H Page 145 (knights_templar@hotmail.com)
 
 
 ##### Henchmen
@@ -13116,7 +6834,6 @@ is the art of moving without being seen or heard. If a Dark Elf
 is Hiding, enemy models suffer -1 to their Initiative value for
 determining if they can detect him.
 
-```
 0-2 Cold One Beasthounds
 30 Gold Crowns to hire
 The Dark Elves capture and breed many exotic creatures to fight for
@@ -13152,8 +6869,6 @@ cannot be modified beyond 6 due to strength modifiers but
 any result of ‘no save’ on the injury chart will negate the
 unmodified 6+ save.
 Fear: Cold One Beasthounds cause Fear.
-```
-(knights_templar@hotmail.com) Page 146 Assembled by Paul H
 
 
 #### Cult of Khaine
@@ -13182,7 +6897,6 @@ following: Neutral / Chaotic, Chaotic.
 
 ##### Choice of Warriors
 
-```
 A Cult of Khaine warband must include a minimum of three
 models. You have 500 gold crowns to recruit your initial
 warband. The maximum number of warriors in the warband
@@ -13195,14 +6909,11 @@ Assassin: Your warband must include up to one Assassin.
 Witch Elves: Your warband may include any number of
 Witch Elves.
 Shades: Your warband may include up to five Shades.
-```
 ##### Starting Experience
 
-```
 The Witch Hag & Assassin Starts with 20 experience
 The Executioner starts with 12 experience.
 All henchmen starts with 0 experience.
-```
 ##### Cult of Khaine Equipment List
 
 Witch Elves Equipment List
@@ -13224,7 +6935,6 @@ Special Equipment
 Dark Venom* .............................................................. 15 GC
 Black Lotus** ............................................................... 5 GC
 
-```
 Shades Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -13238,11 +6948,9 @@ Repeater Crossbow ...................................................... 35 GC
 Armour
 Helmet ......................................................................... 10 GC
 Light armour ................................................................ 20 GC
-```
-```
+ 
 * May be taken by Heroes only.
 ** May be taken by Witch Hag & Witch Elves only
-```
 ##### Heroes
 
 1 Witch Hag
@@ -13263,7 +6971,6 @@ Frenzy: Witch hag is affected by the rules for frenzy. While
 frenzied, Witch hag still hates High Elves, although normally
 immune to psychology.
 
-```
 0-3 Executioner
 60 Gold Crowns to hire
 The city of Har Ganeth holds the Cult of Khaine in the highest
@@ -13279,8 +6986,6 @@ list.
 Skills: The Executioner may choose from Combat, & Speed
 when he gains a new skill. In addition, the Executioner may
 choose from the Dark Elves Special Skill list.
-```
-Assembled By Paul H Page 147 (knights_templar@hotmail.com)
 
 
 0-1 Assassin
@@ -13296,7 +7001,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: An Assassin may be equipped with
 weapons and armour chosen from the Shards equipment list.
 
-```
 Skills: The Assassin may choose from Combat, Shooting,
 Academic, & Speed when he gains a new skill. In addition,
 the Assassin may choose from the Dark Elves Special Skill
@@ -13309,7 +7013,6 @@ Loner: Assassins are not great leaders, but are ruthless and
 highly disciplined warriors. The warband may never use the
 Assassin’s Leadership score for the purposes of Rout tests. In
 addition, the Assassin is immune to All Alone tests
-```
 ##### Henchmen
 
 Witch Elves
@@ -13330,7 +7033,6 @@ Frenzy: Witch Elves are affected by the rules for frenzy.
 While frenzied, Witch Elves still hate High Elves, although
 normally immune to psychology.
 
-```
 0-5 Shards
 30 Gold Crowns to hire
 The stealthy Dark Elf Scouts rely on their repeater crossbows to
@@ -13347,8 +7049,6 @@ Natural Stealth: The first thing that Dark Elf Scouts master
 is the art of moving without being seen or heard. If a Dark Elf
 is Hiding, enemy models suffer -1 to their Initiative value for
 determining if they can detect him.
-```
-(knights_templar@hotmail.com) Page 148 Assembled by Paul H
 
 
 #### Clan Eshin
@@ -13395,7 +7095,6 @@ secret, and for this reason has not sent his multitudinous
 armies into Mordheim. Instead, he has sent small warbands of
 Skaven skittering through secret tunnels into the city to
 
-```
 gather up the shining stones and bring them back to the clan
 nests.
 The Skaven of Clan Eshin are supremely adapted to their
@@ -13410,16 +7109,12 @@ Were rival Skaven clans to discover the secret of Mordheim
 there would come not hundreds, not thousands, but millions
 upon millions to contend for the wyrdstone in the City of the
 Damned.
-```
 ##### Special Rules
 
-```
 Alignment: the Warband’s Alignment may be one of the
 following: Neutral / Chaotic or Chaotic.
-```
 ##### Choice of warriors
 
-```
 A Clan Eshin warband must include a minimum of three
 models. You have 500 gold crowns (representing your
 resources) which you can use to recruit and equip your initial
@@ -13439,15 +7134,11 @@ Verminkin.
 Giant Rats: Your warband may include any number of Giant
 Rats.
 Rat Ogre: Your warband may include a single Rat Ogre.
-```
 ##### Starting experience
 
-```
 An Assassin Adept starts with 20 experience.
 Eshin Sorcerers and Black Skaven start with 8 experience.
 Night Runners and all Henchmen start with 0 experience.
-```
-Assembled By Paul H Page 149 (knights_templar@hotmail.com)
 
 
 ##### Clan Eshin Equipment Lists
@@ -13471,7 +7162,6 @@ Light armour ................................................................ 20
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
 
-```
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -13484,7 +7174,6 @@ Armour
 Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-```
 ##### Heroes
 
 1 Assassin adept
@@ -13526,7 +7215,6 @@ Shooting, Strength, & Speed when he gains a new skill. In
 addition, the Black Skaven may choose from the Clan Eshin
 Special Skill list.
 
-```
 0-1 Eshin sorcerer
 45 gold crowns to hire
 The Sorcerers of Clan Eshin are black magicians who manufacture
@@ -13548,8 +7236,7 @@ Sorcerer starts with one spells generated at random from the
 Magic of the Horned Rat. See the Magic section for details.
 In addition the Eshin Sorcerer may learn a new Spell instead
 on a new skill.
-```
-```
+ 
 0-2 Night runners
 20 gold crowns to hire
 Night Runners are the young apprentices of Clan Eshin. Recently
@@ -13563,8 +7250,6 @@ Equipment list.
 Skills: The Night Runners may choose from Combat &
 Shooting when he gains a new skill. In addition, the Night
 Runners may choose from the Clan Eshin Special Skill list.
-```
-(knights_templar@hotmail.com) Page 150 Assembled by Paul H
 
 
 ##### Henchmen
@@ -13602,7 +7287,6 @@ four towards the total number of models in the warband.
 Experience: Giant Rats are animals and do not gain
 experience.
 
-```
 0-1 Rat ogre
 210 gold crowns to buy
 These horrible monsters are much in demand as bodyguards to
@@ -13618,8 +7302,6 @@ Hero is within 6" of it.
 Experience: Rat Ogres do not gain experience.
 Large Target: Rat Ogres are Large Targets as defined in the
 shooting rules.
-```
-Assembled By Paul H Page 151 (knights_templar@hotmail.com)
 
 
 #### Clan Moulder
@@ -13662,21 +7344,16 @@ passive creatures goaded until they become killers. The
 bottom of Hell Pit is filled with the detritus of the clan's
 failed experiments: pale twisted monstrosities that shamble or
 
-```
 flop across the floor of the chasm and feed on one another.
 Clan Moulder is the clan with the most experience and
 knowledge about the effects of Warpstone, possible with the
 exception of the Order of Grey Seers.
-```
 ##### Special Rules
 
-```
 Alignment: the Warband’s Alignment may be one of the
 following: Neutral / Chaotic or Chaotic.
-```
 ##### Choice of Warriors
 
-```
 A Clan Moulder warband must include a minimum of three
 models. You have 500 gold crowns (representing your
 resources) which you can use to recruit and equip your initial
@@ -13698,15 +7375,12 @@ rats
 Wolf Rats: Your warband may include up to five Wolf Rats
 Clan Moulder Rat Ogre: Your warband may include up to
 one Clan Moulder Rat Ogre
-```
 ##### Starting Experience
 
-```
 A Master Moulder starts with 20 experience.
 Harbinger of Mutation and Pack Master start with 8
 experience.
 Mutant Skaven and all Henchmen start with 0 experience.
-```
 ##### Clan Moulder Equipment List
 
 The following lists are used by the Skaven of Clan Moulder to pick their equipment.
@@ -13727,7 +7401,6 @@ Helmet .........................................................................
 Light Armour .............................................................. 20 GC
 Heavy Armour ............................................................. 50 GC
 
-```
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -13741,8 +7414,6 @@ Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Light Armour .............................................................. 20 GC
-```
-(knights_templar@hotmail.com) Page 152 Assembled by Paul H
 
 
 ##### Heroes
@@ -13789,7 +7460,6 @@ random from the Call of the Pack Magic list. See the Magic
 section for details. In addition the Harbinger of Mutation may
 learn a new Spell instead on a new skill.
 
-```
 0-2 Pack Master
 40 gold crowns to hire
 Profile M WS BS S T W I A Ld
@@ -13800,8 +7470,7 @@ Skills: The Pack Master may choose from Combat, Shooting,
 Strength, & Speed when he gains a new skill. In addition, the
 Pack Master may choose from the Clan Moulder Special
 Skill list.
-```
-```
+ 
 0-2 Mutant Skaven
 20 gold crowns to hire (+ the cost of mutations)
 Insane breeders, thankfully rare, turn their attention to their
@@ -13820,8 +7489,6 @@ Special Rules
 Mutations: Each Mutant Skaven must select one mutation
 when purchased. Only one mutation may ever be purchased
 for the mutant.
-```
-Assembled By Paul H Page 153 (knights_templar@hotmail.com)
 
 
 ##### Henchmen
@@ -13864,7 +7531,6 @@ Experience: Wolf Rats are animals and do not gain
 experience.
 Frenzy: Wolf Rats is affected by the rules for frenzy.
 
-```
 Giant rats
 15 gold crowns to buy
 Giant Rats are the creation of the Clan Moulder trainees. They are
@@ -13881,8 +7547,7 @@ For example, a pack of six Giant Rats would only count as
 four towards the total number of models in the warband.
 Experience: Giant Rats are animals and do not gain
 experience.
-```
-```
+ 
 0-1 Clan Moulder Rat Ogre
 175 gold crowns to hire (+ the cost of mutations
 It is in every Moulder’s nature to improve upon something that is
@@ -13904,8 +7569,6 @@ mutations when purchased. The Clan Moulder Rat Ogre May
 have up to four mutants.
 Stupidity: A Rat Ogre is subject to stupidity unless a Skaven
 Hero is within 6" of it.
-```
-(knights_templar@hotmail.com) Page 154 Assembled by Paul H
 
 
 #### Clan Pestilens
@@ -13945,21 +7608,16 @@ some plague monks do wear underneath their putrid robes.
 
 ##### Special Rules
 
-```
 Alignment: the Warband’s Alignment may be one of the
 following: Neutral / Chaotic or Chaotic.
-```
 ##### Starting Experience
 
-```
 Plague Priest starts with 20 experience.
 Festering Chantor and Plague Monks starts with 8
 experience.
 Monk Initiates and Plague Novices start with 0 experience.
-```
 ##### Choice of Warriors
 
-```
 A Clan Pestilens band must include a minimum of 3 models.
 You start with 500 warp tokens to form your warband with.
 The warband can have a maximum of 20 models.
@@ -13977,7 +7635,6 @@ Plague Novices.
 Giant Rats: The warband may include any number of Giant
 Rats.
 Rat Ogre: The warband may include a single Rat Ogre.
-```
 ##### Clan Pestilens equipment lists
 
 The following lists are used by the Skaven of Clan Pestilens to pick their equipment.
@@ -13997,7 +7654,6 @@ Sling ..........................................................................
 Armour
 Light armour ................................................................ 20 GC
 
-```
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Henchmen Equipment List
@@ -14013,8 +7669,6 @@ Armour
 Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-```
-Assembled By Paul H Page 155 (knights_templar@hotmail.com)
 
 
 ##### Heroes
@@ -14053,7 +7707,6 @@ Shooting, Strength & Speed when he gains a new skill. In
 addition, the Plague Monks may choose from the Clan
 Pestilens Special Skill list.
 
-```
 0-2 Monk Initiates
 20 gold crowns to hire
 The Monk Initiates are young skavens devoted to the Clan Pestilens
@@ -14066,8 +7719,7 @@ Skills: The Monk Initiates may choose from Combat,
 Shooting & Speed when he gains a new skill. In addition, the
 Monk Initiates may choose from the Clan Pestilens Special
 Skill list.
-```
-```
+ 
 0-1 Festering Chantor
 45 gold crowns to hire
 The Festering Chantor is a twisted alchemist, always looking for
@@ -14088,7 +7740,6 @@ Festering Chantor starts with one spells generated at random
 from the Magic of the Horned Rat. See the Magic section for
 details. In addition the Festering Chantor may learn a new
 Spell instead on a new skill.
-```
 ##### Henchmen
 
 (Brought in groups of 1-5)
@@ -14116,7 +7767,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: None. Giant Rats never use any armour
 or weapons.
 
-```
 Pack Size: You mar recruit as many Giant Rats as you wish.
 For each Giant Rat beyond the first two, each model counts
 as only half a model towards the total size of the warband.
@@ -14139,8 +7789,6 @@ No Experience: The Rat Ogre couldn't gain any experience.
 Large Target: You can always target a Rat Ogre with
 missile weapons, even if it's not the closest target, and you
 get +1 to hit it.
-```
-(knights_templar@hotmail.com) Page 156 Assembled by Paul H
 
 
 #### Clan Skryre
@@ -14173,7 +7821,6 @@ following: Neutral / Chaotic or Chaotic.
 
 ##### Choice of Warriors
 
-```
 A Clan Skryre warband must include a minimum of three
 models. You have 500 gold crowns (representing your
 resources) which you can use to recruit and equip your initial
@@ -14195,14 +7842,11 @@ Giant Rats: Your warband may include any number of Giant
 Rats
 Clan Skryre Rat Ogre: Your warband may include up to
 one Clan Skryre Rat Ogre
-```
 ##### Starting Experience
 
-```
 A Chief Engineer starts with 20 experience.
 Warlock Engineer and Journeymen start with 8 experience.
 Apprentices and all Henchmen start with 0 experience.
-```
 ##### Clan Skryre Equipment List
 
 The following lists are used by the Skaven of Clan Skryre to pick their equipment.
@@ -14227,7 +7871,6 @@ Shield .........................................................................
 Helmet ......................................................................... 10 GC
 Light Armour .............................................................. 20 GC
 
-```
 Heavy Armour ............................................................. 50 GC
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
@@ -14248,8 +7891,6 @@ Special Weapons
 Poison Wind Globes .................................................... 25 GC
 Jezzail Rifle ............................................................... 175 GC
 Warpfire Thrower ...................................................... 300 GC
-```
-Assembled By Paul H Page 157 (knights_templar@hotmail.com)
 
 
 ##### Heroes
@@ -14295,7 +7936,6 @@ Academic, & Speed when he gains a new skill. In addition,
 the Journeymen may choose from the Clan Skryre Special
 Skill list.
 
-```
 0-1 Warlock Engineer
 45 gold crowns to hire
 Warlock Engineers are intelligent Skaven that have trained for
@@ -14318,8 +7958,7 @@ Warlock Engineer starts with one spells generated at random
 from the Machine Curses Magic list. See the Magic section
 for details. In addition the Warlock Engineer may learn a new
 Spell instead on a new skill.
-```
-```
+ 
 0-2 Apprentices
 20 gold crowns to hire
 The most junior members of the engineering discipline are called
@@ -14334,7 +7973,6 @@ Skills: The Apprentice may choose from Combat, Shooting,
 & Speed when he gains a new skill. In addition, the
 Apprentice may choose from the Clan Skryre Special Skill
 list.
-```
 ##### Henchmen
 
 Thralls
@@ -14354,7 +7992,6 @@ base contact to perform his duties, if the shooter(s) have to
 flee then they would drop the Jezzail Rifle or Warpfire
 Thrower. The Weapon counts as being lost.
 
-```
 0-5 Machinists
 30 gold crowns to hire
 Machinists are Verminkin with a greater knowledge of the Machines
@@ -14365,8 +8002,6 @@ Profile M WS BS S T W I A Ld
 Weapons/Armour: Machinist may be equipped with
 weapons and armour chosen from the Henchmen and the
 Machinist equipment lists.
-```
-(knights_templar@hotmail.com) Page 158 Assembled by Paul H
 
 
 Giant rats
@@ -14427,7 +8062,6 @@ much in its infancy and as with most Clan Skryre
 experiments is neither safe nor entirely reliable! At the
 beginning of each turn, the Skaven player should roll a D6 to
 
-```
 activate and work the Rat Ogre. On a roll of 2-6 everything is
 fine and the Rat Ogre may be moved normally. On the roll of
 a 1, something has gone drastically wrong — roll again on
@@ -14463,8 +8097,6 @@ warriors but there are warriors within range of its
 Warpfire thrower, it will fire this at them instead.
 5-6 Freezes: The Rat Ogre just freezes on the spot for this
 turn. It is hit automatically if engaged in close combat.
-```
-Assembled By Paul H Page 159 (knights_templar@hotmail.com)
 
 
 #### Orc Mob
@@ -14517,13 +8149,11 @@ any case, the warrior in question may take no other action
 this turn, though he may defend himself if attacked in hand-
 to-hand combat.
 
-```
 2-5 “Wud Yoo Say?” The warrior is fairly certain he heard
 an offensive sound from the nearest friendly Orc or Goblin,
 but he’s not quite sure. He spends the turn hurling insults at
 his mate. He may do nothing else this turn, though he may
 defend himself if attacked in hand-to-hand combat.
-```
 6. “I’ll Show Yer!” The warrior imagines that his mates are
 laughing about him behind his back and calling him silly
 names. To show them up he decides that he’ll be the first one
@@ -14541,7 +8171,6 @@ following: Neutral / Chaotic or Chaotic.
 
 ##### Choice of Warriors
 
-```
 An Orc warband must include a minimum of three models.
 You have 500 gold crowns which you can use to recruit and
 equip your warband. The maximum number of warriors in
@@ -14559,16 +8188,12 @@ Cave Squigs: Your warband may include up to five Cave
 Squigs. You may never have more Cave Squigs in your
 warband than you have Goblin Warriors.
 Troll: Your warband may include up to one Troll.
-```
 ##### Starting experience
 
-```
 A Boss starts with 20 Experience.
 A Shaman starts with 10 Experience.
 Big ’Uns start with 15 Experience.
 All Henchmen start with 0 Experience.
-```
-(knights_templar@hotmail.com) Page 160 Assembled by Paul H
 
 
 ##### Orc equipment lists
@@ -14590,7 +8215,6 @@ Light armour ................................................................ 20
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
-```
 Goblin equipment list
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
@@ -14606,7 +8230,6 @@ Miscellaneous
 Squig Prodder .............................................................. 15 GC
 Ball & Chain ............................................................... 15 GC
 Mad Cap Mushrooms .................................................. 25 GC
-```
 ##### Heroes
 
 1 Orc Boss
@@ -14651,7 +8274,6 @@ Waaagh! Magic list. See the Magic section for details. In
 addition the Orc Shaman may learn a new Spell instead on a
 new skill.
 
-```
 0-3 Orc Big ‘Uns
 40 gold crowns to hire
 Orc society is a savage hierarchy where only the toughest survive
@@ -14666,8 +8288,6 @@ weapons and armour chosen from the Orc equipment list.
 Skills: The Orc Big ‘Uns may choose from Combat,
 Shooting & Strength when he gains a new skill. In addition,
 the Orc Big ‘Uns may choose from the Orc Special Skill list.
-```
-Assembled By Paul H Page 161 (knights_templar@hotmail.com)
 
 
 ##### Henchmen
@@ -14734,12 +8354,10 @@ another model (friend or foe), it will engage the model in
 hand-to-hand combat as normal. The Cave Squig is out of the
 Orc & Goblin player’s control until the end of the game.
 
-```
 Not Orcs: See Goblin Warriors entry for rules.
 Animals: Cave Squigs are animals of a sort and so do not
 gain experience.
-```
-```
+ 
 Orc Boyz
 25 gold crowns to hire
 Orc Boyz are savage and tough. They fear nothing that they can get
@@ -14753,8 +8371,7 @@ and armour chosen from the Orc equipment list.
 Special Rules
 Animosity: Orc Boyz are subject to the rules for Animosity
 (see Special Rules for details).
-```
-```
+ 
 0-1 Troll
 200 gold crowns to hire
 Trolls are not intelligent enough to recognize the value of gold, but
@@ -14790,8 +8407,6 @@ regurgitate its highly corrosive digestive juices on an
 unfortunate hand-to-hand combat opponent. This is a single
 attack that automatically hits with a Strength of 5 and ignores
 armour saves.
-```
-(knights_templar@hotmail.com) Page 162 Assembled by Paul H
 
 
 #### Black Orc Mob
@@ -14850,7 +8465,6 @@ Goblin Henchman or Hired Sword. If none of the above
 applies, or if the nearest friendly model is an Orc Hero, the
 warrior behaves as if a 2-5 had been rolled on this chart. In
 
-```
 any case, the warrior in question may take no other action
 this turn, though he may defend himself if attacked in hand-
 to-hand combat.
@@ -14859,7 +8473,6 @@ an offensive sound from the nearest friendly Orc or Goblin,
 but he’s not quite sure. He spends the turn hurling insults at
 his mate. He may do nothing else this turn, though he may
 defend himself if attacked in hand-to-hand combat.
-```
 6. “I’ll Show Yer!” The warrior imagines that his mates are
 laughing about him behind his back and calling him silly
 names. To show them up he decides that he’ll be the first one
@@ -14885,7 +8498,6 @@ following: Neutral / Chaotic or Chaotic.
 
 ##### Choice of Warriors
 
-```
 A Black Orc warband must include a minimum of three
 models. You have 500 Gold Crowns with which you can use
 to recruit your initial warband. The maximum number of
@@ -14900,15 +8512,11 @@ warband has Boyz.
 Savage Orcs: Your warband may include up to 4 Savage
 Orcs
 Troll: You may include a single Troll in the warband.
-```
 ##### Starting experience
 
-```
 A Black Orc Boss starts with 20 experience.
 Black Orcs start with 8 experience
 Young’uns and All Henchmen start with 0 experience
-```
-Assembled By Paul H Page 163 (knights_templar@hotmail.com)
 
 
 ##### Black Orc Equipment List
@@ -14931,7 +8539,6 @@ Helmet .........................................................................
 Light armour ................................................................ 20 GC
 Heavy Armour ............................................................. 50 GC
 
-```
 Henchmen
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
@@ -14948,7 +8555,6 @@ Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Light armour ................................................................ 20 GC
-```
 ##### Heroes
 
 1 Black Orc Boss
@@ -14987,7 +8593,6 @@ Henchman with a S2 slap. If the slap fails to Knock Down,
 Stun or Out of Action the Henchman, then he adds +2 to the
 Animosity Effect roll.
 
-```
 0-2 Black Orc
 60 gold crowns to hire
 In it for the mayhem and maybe a little loyalty to the Boss of the
@@ -15026,8 +8631,6 @@ Black Orc Blood: One Young’un may be upgraded to a
 Black Orc Young’un for 10GCs. This upgrade allows him to
 take the ‘Proven Warrior’ skill upgrade, thus making him a
 fully fledged Black Orc Warrior.
-```
-(knights_templar@hotmail.com) Page 164 Assembled by Paul H
 
 
 ##### Henchmen
@@ -15082,7 +8685,6 @@ unfortunate hand-to-hand combat opponent. This is a single
 attack that automatically hits with a Strength of 5 and ignores
 armour saves.
 
-```
 Orc Shootaz
 25 gold crowns to hire
 Not all Orcs enjoy getting into a fight straight away. Some are
@@ -15101,8 +8703,7 @@ Uncommon: A warband may not hire more Shootaz than
 they have Boyz. If a boy dies and the Shootaz outnumber the
 Boyz, the next hire must be a boy so that the balance is
 restored.
-```
-```
+ 
 0-4 Savage Orcs
 40 gold crowns to hire
 Savage Orcs persist in their primitive ways to this day. Even by
@@ -15132,8 +8733,6 @@ weapons. Savage Orcs are also so primitive for other Boyz
 and can never have the Leader ability or use their Ld stat for
 rout tests, unless they are the only models from the warband
 left on the board.
-```
-Assembled By Paul H Page 165 (knights_templar@hotmail.com)
 
 
 #### Forest Goblin Mob
@@ -15197,8 +8796,7 @@ defend himself if attacked in hand-to-hand combat.
 6. “I’ll Show Yer!” The warrior imagines that his mates are
     laughing about him behind his back and calling him silly
 
-```
-names. To show them up he decides that he’ll be the first
+    names. To show them up he decides that he’ll be the first
 one to the scrap! This model must move as quickly as
 possible towards the nearest enemy model, charging into
 combat if possible. If there are no enemy models within
@@ -15218,10 +8816,8 @@ climbing attempts. The Giant Spider count as Rare 5 and
 Cost 45Gold Crown for Forest Goblins Mobs.
 Alignment: The Warband’s Alignment may be one of the
 following: Neutral / Chaotic or Chaotic.
-```
 ##### Choice of Warriors
 
-```
 A Forest Goblin warband must include a minimum of three
 models. You have 500 gold crowns which you can use to
 recruit your initial warband. The maximum number of
@@ -15238,15 +8834,11 @@ Toof Boyz.
 Sluggas: Your warband may include up to five Sluggas.
 Gigantic Spider: Your warband may include one Gigantic
 Spider.
-```
 ##### Starting Experience
 
-```
 A Chieftain starts with 17 experience.
 A Brave and Shaman starts with 6 experience.
 Henchmen start with 0 experience.
-```
-(knights_templar@hotmail.com) Page 166 Assembled by Paul H
 
 
 ##### Forest Goblin equipment lists
@@ -15274,7 +8866,6 @@ Red Toof Tribal Jewellery ........................................... 40 GC
 Giant Spider Mount ..................................................... 45 GC
 Magic Gubbinz ............................................................ 50 GC
 
-```
 Henchmen
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
@@ -15289,7 +8880,6 @@ Armour
 Shield ............................................................................ 5 GC
 Miscellaneous
 Spider Poison .............................................................. 25 GC
-```
 ##### Heroes
 
 1 Chieftain
@@ -15309,7 +8899,6 @@ Special Rules
 Leader: Any warrior within 6" of the Chieftain may use his
 Leadership value when taking Leadership tests.
 
-```
 0-4 Braves
 20 gold crowns to hire
 Forest Goblin Braves are just a tad more intelligent than their
@@ -15326,8 +8915,7 @@ choose to remove his Animosity instead of choosing a skill,
 should they earn one.
 Special Rules
 Animosity: Braves are subject to the rules for Animosity.
-```
-```
+ 
 0-1 Shaman
 20 gold crowns to hire
 Shamans use the power of the Waaagh to direct the might of G’rrk
@@ -15346,8 +8934,6 @@ casts spells like any other magicians, and the Shaman starts
 with one spells generated at random from the Forest Goblin
 Spell list. See the Magic section for details. In addition the
 Shaman may learn a new Spell instead on a new skill.
-```
-Assembled By Paul H Page 167 (knights_templar@hotmail.com)
 
 
 ##### Henchmen
@@ -15391,7 +8977,6 @@ the Mordheim rulebook. In addition, if they begin their turn
 within charge range of an enemy, they are immune to
 animosity for that turn.
 
-```
 0-5 Sluggas
 20 gold crowns to hire
 Sluggas practice the art of throwing various objects until they can
@@ -15406,8 +8991,7 @@ Animosity: are subject to the rules for Animosity.
 Sluggas: In the shooting phase, the Sluggas may throw
 thrown weapons up to three times. This may not be combined
 with Quick Shot if they should be promoted to hero status.
-```
-```
+ 
 0-1 Gigantic Spider
 200 gold crowns to hire
 Gigantic Spiders are best avoided when encountered in the wild,
@@ -15438,12 +9022,10 @@ Gigantic Spider, if you are using the optional rules for
 mounts. The chieftain gains +1 armour save, and shall move
 at the Gigantic Spider’s rate of 6. Shooting attacks hit the
 Chieftain on a die roll of 1-2, and the Gigantic Spider on a 3-
-```
 6. In close combat, the opponent may choose which to hit.
 The Gigantic Spider no longer has to check for stupidity if it
 is being ridden, as the Chieftain is directing its actions.
 
-(knights_templar@hotmail.com) Page 168 Assembled by Paul H
 
 
 #### Hobgoblins Wolf Rider Mob
@@ -15496,7 +9078,6 @@ disciplined, the hobgoblins are warbands to be reckoned with.
 
 ##### Special Rules
 
-```
 Treacherous Gits: Hobgoblins are notorious for their
 treachery in all things, including combat. For all henchmen
 not already in hand to hand combat roll a d6 at the beginning
@@ -15533,10 +9114,8 @@ must still be declared as normal, however, and you cannot
 simply 'move' into hand to hand combat.)
 Alignment: the Warband’s Alignment may be one of the
 following: Neutral / Chaotic or Chaotic.
-```
 ##### Choice of Warriors
 
-```
 A Hobgoblin Wolf Riders must include a minimum of three
 models. You have 500 gold crowns which you can use to
 recruit and equip your warband. The maximum number of
@@ -15550,8 +9129,6 @@ Shooty Gits: Your warband may include up to five Shooty
 Gits
 Giant Wolves: Your warband may include up to five Giant
 Wolves
-```
-Assembled By Paul H Page 169 (knights_templar@hotmail.com)
 
 
 ##### Starting experience
@@ -15572,7 +9149,6 @@ Spear ..........................................................................
 Scimitar ....................................................................... 15 GC
 Barbed Spear ............................................................... 15 GC
 
-```
 Missile Weapons
 Slings ............................................................................. 2 GC
 Short Bow ..................................................................... 5 GC
@@ -15583,7 +9159,6 @@ Shield .........................................................................
 Toughened leathers ....................................................... 5 GC
 Helmet ......................................................................... 10 GC
 Light Armour .............................................................. 20 GC
-```
 ##### Heroes
 
 1 Ilkhan
@@ -15603,7 +9178,6 @@ Special Rules
 Leader: Any warrior within 6" of the Ilkhan may use his
 Leadership characteristic when taking Leadership tests.
 
-```
 0-1 Shaman
 35 gold crowns to hire
 Often Hobgoblin raiding forces include one of their Shamans, gifted
@@ -15635,8 +9209,6 @@ list.
 Skills: The ‘Ard Gits may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
 ‘Ard Gits may choose from the Hobgoblin Special Skill list.
-```
-(knights_templar@hotmail.com) Page 170 Assembled by Paul H
 
 
 ##### Henchmen
@@ -15663,7 +9235,6 @@ Special Rules
 Ded shooty: The Hobgoblin Shooty Gits start with the skill
 Ded shooty, see the Hobgoblin Special Skill list for details.
 
-```
 0-5 Giant Wolves
 25 gold crowns to hire
 Profile M WS BS S T W I A Ld
@@ -15673,8 +9244,6 @@ weapons or armour
 Special Rules
 Experience: Giant wolves are animals and do not gain
 experience.
-```
-Assembled By Paul H Page 171 (knights_templar@hotmail.com)
 
 
 ### Campaigns
@@ -15745,7 +9314,6 @@ the following sequence. You do not have to work through it
 all at once (try to do the first three parts straight after the
 battle – you may wish to consider further purchases later) but
 
-```
 any dice rolls must be seen by both players or a neutral third
 party.
 1 Injuries. Determine the extent of injuries for each warrior
@@ -15775,27 +9343,21 @@ there are any in the warband’s stash in stage 9.
 as desired (provided they are eligible to use it).
 10 Update your warband rating. You are now ready to
 fight again.
-```
 #### Disbanding warbands
 
-```
 You may disband your old warband at the end of any game
 and start again with a new one. All the warriors in the
 original warband and any equipment and other benefits they
 acquired are lost. You can also dismiss any warrior in your
 warband at any time.
-```
 #### Death of a Warrior
 
-```
 When a warrior is killed (Hero or Henchman) all his weapons
 and equipment are lost. This is very important, so be clear
 about it from the start. It is not possible to reallocate a
 warrior’s weapons or equipment once he is dead.
-```
 #### Death of a Leader
 
-```
 If the leader of the warband is slain, the Hero with the next
 highest Leadership value takes command. He then gains the
 Leader ability (although he must continue to use his original
@@ -15812,8 +9374,6 @@ dead together unravel, and the warband collapses into a pile
 of bones. You can buy a Vampire after the next game, at
 which point the Necromancer will step down (whether he
 wants to or not) and lose the Leader skill.
-```
-(knights_templar@hotmail.com) Page 172 Assembled by Paul H
 
 
 If the leader of a Sisters of Sigmar, Possessed or Carnival of
@@ -15861,17 +9421,14 @@ out of action are obliged to roll on this chart.
 
 ##### Henchman with Serious Injuries
 
-```
 Henchmen who are out of action at the end of the battle are
 removed permanently from the roster sheet on a D6 roll of 1-
-```
 2. They have either suffered severe injuries, died of their
 wounds, or decided to quit the warband. On a roll of 3-6 they
 can fight in the next battle as normal.
 
 ##### Heroes with Serious Injuries
 
-```
 After a battle some of your Heroes may be taken out of
 action. You will need to determine the extent of their injuries
 before the next game.
@@ -15879,8 +9436,6 @@ To use the Heroes’ Serious Injuries chart opposite, roll two
 D6. The first dice roll represents ‘tens’ and the second
 ‘units’, so that a roll of 1 and 5 is 15, a roll of 3 and 6 is 36,
 etc. This type of dice roll is referred to as a ‘D66 roll’.
-```
-Assembled By Paul H Page 173 (knights_templar@hotmail.com)
 
 
 #### Heroes’ serious injuries chart (roll D66)
@@ -15937,7 +9492,6 @@ all while recovering.
 The warrior manages to escape, but all his weapons, armour
 and equipment are lost.
 
-```
 41-55 FULL RECOVERY
 The warrior has been knocked unconscious, or suffers a light
 wound from which he makes a full recovery.
@@ -15984,8 +9538,6 @@ to rejoin his warband with all his weapons and equipment.
 66 SURVIVES AGAINST THE ODDS
 The warrior survives and rejoins his warband. He gains +1
 Experience.
-```
-(knights_templar@hotmail.com) Page 174 Assembled by Paul H
 
 
 ### Experience
@@ -16055,14 +9607,11 @@ Difference in Warband rating Experience Bonus
 
 #### Advance rolls
 
-```
 Make Advance rolls straight after the battle so both players
 can witness the result. Roll 2D6 and consult the appropriate
 tables below.
-```
 ##### Heroes
 
-```
 2D6 Result
 2 - 5 New Skill. Select one of the Skill tables available to the
 Hero and pick a skill. If he is a wizard he may choose to
@@ -16078,10 +9627,8 @@ Magic section.
 10 - 12 New Skill. Select one of the Skill tables available to the
 Hero and pick a skill. If he is a wizard he may choose to
 randomly generate a new spell instead of a skill.
-```
 ##### Henchmen
 
-```
 Henchmen never add more than +1 point to any of their
 initial characteristics. If the dice roll indicates an increase in a
 characteristic which has already been increased (or is at its
@@ -16106,10 +9653,8 @@ new skills. He can immediately make one roll on the
 Heroes Advance table. The remaining members of the
 Henchmen group, if any, roll again for the advance that
 they have earned, re-rolling any results of 10-12.
-```
 #### New skills
 
-```
 There are several types of skill and each has a separate list.
 You may not choose the same skill twice for the same
 warrior. The skills a Hero may have are restricted by the
@@ -16117,8 +9662,6 @@ warband he belongs to and what type of Hero he is.
 To select a new skill for a Hero, pick the type of skill you
 want from those available, then choose which skill has been
 learned.
-```
-Assembled By Paul H Page 175 (knights_templar@hotmail.com)
 
 
 #### Characteristic increase
@@ -16133,7 +9676,6 @@ instead. Note that this is the only way to gain the maximum
 Movement for some races. Remember that Henchmen can
 only add +1 to any characteristic.
 
-```
 Profile M WS BS S T W I A Ld
 Human 4 6 6 4 4 3 6 4 9
 Elf 5 7 7 4 4 3 9 4 10
@@ -16152,8 +9694,6 @@ Skaven Clan Pestilens 5 6 6 4 5 3 7 4 7
 Orc 4 6 6 4 5 3 5 4 9
 Black Orc 4 7 6 5 5 3 5 4 10
 Goblin Hero 4 5 6 4 4 3 6 4 7
-```
-(knights_templar@hotmail.com) Page 176 Assembled by Paul H
 
 
 ### Skills & Abilities Lists
@@ -16220,7 +9760,6 @@ increases the warband’s rating by +10 points. If the leader has any
 other mark then Undivided all heroes must have the same mark. The
 hero may choose from the Marks of Chaos list.
 
-```
 Medical Knowledge: If you have a warrior in your warband with
 this skill you may re-roll a result on the Serious Injury table. If the
 model with this skill is not taken out of action.
@@ -16253,8 +9792,6 @@ Sewer Fighter: Warriors with this skill can choose skills from the
 Sewer Fighter Skills list. This skill cannot be given to ogres.
 Sneaky: All enemy models halve their Initiative range when trying
 to detect this model while he is Hidden.
-```
-Assembled By Paul H Page 177 (knights_templar@hotmail.com)
 
 
 #### Combat Skills
@@ -16305,7 +9842,6 @@ weaponry.
 Expert Axeman: Re-roll all failed hits with an Axe when being
 charging.
 
-```
 Finishing Move: The warrior may opt to forgo his usual number of
 attacks and make a single attack at an additional +2 Strength to its
 normal strength. This can be used in conjunction with Mighty Blow,
@@ -16343,7 +9879,6 @@ roll all to-hit rolls when using the whip. Only one re-roll is allowed
 per attempt and you must accept the second roll, even if it is worse.
 [Based on the Adventurer’s Whip Rules by Jo-Herman Haugholt
 from the Mordheim Khemri Discussion Group.]
-```
 #### Shooting Skills
 
 Quick Shot: The warrior may shoot twice per turn with a bow or
@@ -16367,7 +9902,6 @@ Nimble: The warrior may move and fire with weapons that are
 normally only used if the firer has not moved. Note that this skill
 cannot be combined with the Quick Shot skill.
 
-```
 Trick Shooter: The warrior can shoot through the tiniest gap
 without it affecting his aim. He ignores all modifiers for cover when
 using missile weapons.
@@ -16385,8 +9919,6 @@ Fletcher: The warrior makes his own arrows. When shooting a bow,
 his arrows are +1 to rolls on the Injury Chart.
 Heavy Pull: The warrior has trained to use a bow with a heavier
 draw. All attacks made by the warrior with a bow are at +1 Strength.
-```
-(knights_templar@hotmail.com) Page 178 Assembled by Paul H
 
 
 #### Academic Skills
@@ -16439,7 +9971,6 @@ This skill may only be taken by a be taken by Magic / Pray Users.
 When using a spell or prayer the warrior with this skill may reroll
 one dice roll used in the difficulty roll.
 
-```
 Tactician: This skill may only be taken by a warband leader. The
 warrior has a great tactical mind and can often find the best
 positions for his warriors to meet the oncoming attack. In any
@@ -16480,7 +10011,6 @@ must roll a 6+ on 2D6. If restoring a Complex trap, he must roll an
 Drive Chariot: Chariots are very difficult to control and a warrior
 must have this skill to drive a chariot effectively in combat. A
 charioteer without this skill cannot charge.
-```
 #### Strength Skills
 
 Mighty Blow: The warrior knows how to use his strength to
@@ -16499,7 +10029,6 @@ armour save modifiers.
 Fearsome: Such is the reputation and physique of the model that he
 causes fear in opposing models.
 
-```
 Strongman: The warrior is capable of great feats of strength. He
 may use a double-handed weapon without the usual penalty of
 always striking last. Work out order of battle as you would with
@@ -16514,8 +10043,6 @@ not just the first round of a Hand-to-Hand engagement. (Created by
 Jester.)
 Strong Legs: The Hero may use Heavy Armour and a Shield
 without suffering Movement penalties.
-```
-Assembled By Paul H Page 179 (knights_templar@hotmail.com)
 
 
 #### Speed Skills
@@ -16573,7 +10100,6 @@ number of inches the Hero flees.
 
 #### Alchemy Ability
 
-```
 By Ed Hastings (killershrike@home.com)
 Roll a D6 and consult the appropriate chart. If you get the same
 Alchemy Ability twice, roll again or increase amount by 1 Dice, i.e.
@@ -16604,8 +10130,6 @@ regains a single wound and if Stunned becomes Knocked Down.
 May also be used on self or on friendly models in Base-to-Base
 without needing to roll to hit. Unused vials of Healing Potion
 may be sold for 5 GC each after the game.
-```
-(knights_templar@hotmail.com) Page 180 Assembled by Paul H
 
 
 #### Assassin Special Skills
@@ -16666,7 +10190,6 @@ up first.
 
 #### Beastmen Raiders Special Skills
 
-```
 Shaggy Hide: The Beastman’s massively shaggy hide acts as
 armour, deflecting sword strokes and protecting him from harm. The
 model gains a 6+ Armour Save that can be combined with other
@@ -16679,10 +10202,8 @@ Bellowing Roar: Only the Beastman Chief may have this skill. He
 may re-roll any failed Rout tests.
 Manhater: Will be affected by the rules of Hatred when fighting
 any Human warbands.
-```
 #### Blessings of Nurgle
 
-```
 Those that worship at the fetid altar of the Lord of Decay suffer
 from terrible diseases and decay, which are known as Blessings of
 Nurgle.
@@ -16733,8 +10254,6 @@ Hideous: The Tainted One is so disgusting that its flesh hangs in
 tatters from its body and its entrails are rotten and exposed. It causes
 Fear.
 Cost: 40 Gold Crowns
-```
-Assembled By Paul H Page 181 (knights_templar@hotmail.com)
 
 
 #### Blood Dragon’s Bloodline Abilities
@@ -16776,7 +10295,6 @@ and before moving the model.
 
 #### Cavalry Skills
 
-```
 Skills may only be used one at a time. If two are applicable to a
 given situation, the controlling player must decide which to use.
 All bonuses are cumulative with those gained from a mount,
@@ -16835,8 +10353,6 @@ against a mounted opponent. If the model is fighting mounted
 against a mounted opponent and successfully wounds the enemy, the
 wounded model must add +1 to his roll on the Whoa Boy! Table.
 Warriors without Ride may not use this skill.
-```
-(knights_templar@hotmail.com) Page 182 Assembled by Paul H
 
 
 #### Clan Eshin Special Skills
@@ -16906,7 +10422,6 @@ a +1 bonus to their Leadership.
 
 ###### Clan Moulder Mutation
 
-```
 Corrosive Blood: If the model loses a wound in close combat,
 anyone in base contact with the model suffers a Strength 3 hit (no
 critical hits) from the spurting, corrosive blood.
@@ -16941,8 +10456,6 @@ He may grapple his opponent in close combat to reduce his attacks
 by –1, down to a minimum of 1. The mutant may decide which
 attack his opponent loses.
 Cost: 35 gold crowns.
-```
-Assembled By Paul H Page 183 (knights_templar@hotmail.com)
 
 
 #### Clan Pestilens Special Skills
@@ -17016,7 +10529,6 @@ from the any Skaven magic list or Lesser Magic List.
 
 #### Dark Elf Special Skills
 
-```
 Draich Master: The hero has chosen the aspect of the Executioner
 as his primary focus. The hero can wield a double-handed sword
 without the usual penalty of striking last, and is allowed to wear
@@ -17060,8 +10572,6 @@ capable of feats of strength. A warrior with this skill may choose
 skills from the Strength table. The Sorceress may never take this
 skill and no more than two warriors in the warband may take this
 skill at any one time.
-```
-(knights_templar@hotmail.com) Page 184 Assembled by Paul H
 
 
 #### Dirty Tricks Special Skills
@@ -17129,7 +10639,6 @@ normal Helmet special rule).
 
 #### Far-sight Ability
 
-```
 By Ed Hastings (killershrike@home.com)
 Roll a D6 and consult the appropriate chart. If you get the same Far-
 sight Ability twice, roll again or lower the Far-sight Ability’s
@@ -17163,8 +10672,6 @@ The Seer may foretell an enemies misfortune. A chosen enemy
 on the board must reroll every successful die roll for the
 remainder of the game including Serious Injury rolls between 41
 and 56.
-```
-Assembled By Paul H Page 185 (knights_templar@hotmail.com)
 
 
 #### Halfling Special Skills
@@ -17236,7 +10743,6 @@ cannot be parried.
 
 #### Kislev Ranger Skills
 
-```
 Animal Call: If hidden, the Ranger may use animal calls to
 confound the enemies. Any enemy model that is within 18” of the
 Ranger and does not declare a charge in its movement phase must
@@ -17250,10 +10756,8 @@ wound restored on a roll of 4+ in the recovery phase. The ranger
 may also heal herself. If any healing is successful, the ranger may
 not move this turn, but may shoot as normal. The ranger may not
 heal if she is in close combat.
-```
 #### Lahmia Special Skills
 
-```
 By the Khemri guys http://grafixgibs.tripod.com/Khemri/index.htm
 Swift: when moving the vampire may run but counts as having
 moved normally for all purposes.
@@ -17290,8 +10794,6 @@ background. Models wishing to charge, shoot or cast spells at the
 vampire must roll 4+ to do so, or choose another target. This skill is
 only effective if the vampire did not move in its previous movement
 phase.
-```
-(knights_templar@hotmail.com) Page 186 Assembled by Paul H
 
 
 #### Marks of Chaos
@@ -17335,7 +10837,6 @@ this skill if he has Lore.
 
 #### Mutations
 
-```
 Those who dwell in Mordheim soon develop horrible mutations, and
 the Cult of the Possessed seem to be especially susceptible. In
 addition, Mordheim attracts mutants from all over the Empire, who
@@ -17384,8 +10885,6 @@ Cost: 40 gold crowns
 Hideous: The mutant causes fear. See the Psychology section for
 details.
 Cost: 40 gold crowns
-```
-Assembled By Paul H Page 187 (knights_templar@hotmail.com)
 
 
 #### Norse Special Skill
@@ -17442,7 +10941,6 @@ hand-to-hand count as Stunned results instead.
 
 #### Ostlanders Special Skills
 
-```
 Bull Rush: This warrior is huge, even by Ostlander standards, and
 can use his massive girth to overpower his opponents. When he
 charges, this Hero may attempt to knock down his opponent rather
@@ -17484,8 +10982,6 @@ behind. Such is his determination to protect his fallen Blood-kin that
 it is extremely difficult to cause him to Rout from the field. Only a
 Warband’s leader may have this skill, which allows him to re-roll a
 single Rout test once per game.
-```
-(knights_templar@hotmail.com) Page 188 Assembled by Paul H
 
 
 #### Pit Fighters Special Skills
@@ -17542,7 +11038,6 @@ may re-roll a failed Initiative test when running over wooden planks.
 
 #### Sisters of Sigmar Special Skills
 
-```
 Sign of Sigmar: The Sister is favoured by the great god Sigmar.
 Possessed or Undead opponents lose their first attack against the
 Priestess in the first round of hand-to-hand combat (down to a
@@ -17560,10 +11055,8 @@ warbands and all models in them.
 Absolute Faith: The Sister puts her faith in Sigmar, and faces
 dangers unflinchingly. She may re-roll any Fear tests and does not
 have to test if she is fighting alone against several opponents.
-```
 #### Shadow Warrior Special Skills
 
-```
 Infiltration: A Shadow Warrior with this skill is always placed on
 the battlefield after the opposing warband and can be placed
 anywhere on the table as long as it is out of sight of the opposing
@@ -17598,8 +11091,6 @@ runes. One member of the Warband may re-roll a single failed
 armour save or Parry roll once per battle. After a single battle, the
 runes lose their glamour and must be redone. This skill may only be
 taken by Shadow Weavers.
-```
-Assembled By Paul H Page 189 (knights_templar@hotmail.com)
 
 
 #### Troll Slayer Special Skills
@@ -17626,7 +11117,6 @@ is worse than the first one.
 
 #### Von Carstein Special Skills
 
-```
 Transfixing Glare: The Vampire is able to hypnotize a victim using
 his glowing red eyes, the victim will remain passive and wait for the
 Vampire to close. The Glare may be used on any living model in
@@ -17685,11 +11175,8 @@ weapon or cast spells but can attack in close combat without a
 penalty for fighting without a weapon.
 Note: In Ratswarm, Bat or Wolf Form for the * Use the same
 characteristics as the Vampire
-```
-(knights_templar@hotmail.com) Page 190 Assembled by Paul H
 
 
-Assembled By Paul H Page 191 (knights_templar@hotmail.com)
 
 #### Wardancer Skill List
 
@@ -17714,7 +11201,6 @@ lust for combat. The warrior is immune to all psychology.
 
 #### Wood Elf Special Skills
 
-```
 Luck. The Wood Elf is blessed by Lileath, the Elven goddess of
 luck. Once per game he may re-roll any dice roll he makes (but not
 one made by other members of the warband).
@@ -17777,7 +11263,6 @@ Hunters Eye - The Wood Elf’s keen eyesight and mastery of
 the bow allow him to pinpoint weak points on opponents
 body when shooting conferring a +1 mod. On injury rolls
 after a successful wound caused by shooting.
-```
 
 ### Starting the game
 
@@ -17831,7 +11316,6 @@ Any such variation will be noted in the rules for that scenario.
 Order of play: After all warbands have been set up, players
 must determine the order of play. Players should be arrayed
 
-```
 about the table by their set-up segment (see above). Each
 player rolls a D6. The player with the highest roll gets the
 first turn. Play proceeds clockwise around the table from
@@ -17891,8 +11375,6 @@ end), or they can be very temporary (often falling apart quite
 suddenly and violently!)
 To form an alliance, a player must declare that he is doing so
 at the start of his turn. He must declare (to all players) which
-```
-(knights_templar@hotmail.com) Page 192 Assembled by Paul H
 
 
 warband(s) he wants to ally with and if they agree, the
@@ -17920,23 +11402,18 @@ throwing non-helpful spells at a member of an allied warband
 automatically breaks the alliance with that warband. Note that
 this includes attacks caused by a failed Animosity test. Your
 
-```
 allies aren’t going to be as forgiving of such behaviour as
 your own warband members might be!
-```
 #### Creating a Scenario Table
 
-```
 To create a Scenario table, firstly each players will choose a
 Scenario they wish to play then roll 2D6 for it place on the
 Table (This can be used for both Two Player or Multiplayer
 games) repeat this until all the spaces are filled. If the Place
 Roll is already fill, then +1/-1 the result, if that does not work
 then re-roll.
-```
 ##### Scenario table
 
-```
 2D6 Result
 2 The player with the lower warband rating may choose
 which scenario is played.
@@ -17951,8 +11428,6 @@ which scenario is played.
 11 Play Scenario: 8
 12 The player with the lowest warband rating may choose
 which scenario is played.
-```
-Assembled By Paul H Page 193 (knights_templar@hotmail.com)
 
 
 #### Two Player Scenarios
@@ -17998,7 +11473,6 @@ maximum of three shards per warband).
 
 ##### Scenario: Skirmish
 
-```
 In the vastness of the Mordheim ruins there is always the risk of
 running into a rival warband. While two groups sometimes pass
 each other without a fight, more often than not there is a vicious
@@ -18026,8 +11500,6 @@ battle they gain +1 Experience.
 gains +1 extra Experience.
 +1 Per Enemy Out of Action. Any Hero earns +1
 Experience for each enemy model he puts out of action.
-```
-(knights_templar@hotmail.com) Page 194 Assembled by Paul H
 
 
 ##### Scenario: Wyrdstone hunt
@@ -18086,7 +11558,6 @@ still in their possession at the end of the battle.
 
 ##### Scenario: Breakthrough
 
-```
 When news of a huge deposit of wyrdstone starts circulating,
 warbands will mount expeditions to unearth the wealth. However,
 their rivals often try to block them, eager to claim all the wyrdstone
@@ -18119,11 +11590,8 @@ Experience for each enemy he puts out of action.
 +1 Breaking Through. Any warrior earns +1 Experience for
 breaking through enemy lines. If the warrior is a Henchman,
 then the whole group gains +1 Experience.
-```
-Assembled By Paul H Page 195 (knights_templar@hotmail.com)
 
 
-(knights_templar@hotmail.com) Page 196 Assembled by Paul H
 
 ##### Scenario: Street fight
 
@@ -18166,7 +11634,6 @@ exits via the opposing table edge gains +1 Experience.
 
 ##### Scenario: Chance encounter
 
-```
 Both warbands have completed their daily search of the ruins and
 are on their way back to their encampment when they run into each
 other. Neither side was expecting a fight, and the warband that
@@ -18176,7 +11643,6 @@ Each player takes it in turn to place a piece of terrain, either a
 ruined building, tower, or other similar item. We suggest that
 the terrain is set up within an area roughly 4' x 4'.
 Set-up
-```
 1. Each player rolls a D6. The player with the higher score
 can choose to deploy first or second.
 2. The first player to deploy sets up his entire warband in one
@@ -18257,7 +11723,6 @@ the chest a very valuable acquisition – however, it could also
 mean that your warband has risked death for only three gold
 crowns!
 
-```
 ITEMS D6 ROLL REQUIRED
 3D6 GC Automatic
 D3 pieces of wyrdstone 5+
@@ -18279,8 +11744,6 @@ gains +1 Experience.
 Experience for each enemy he puts out of action.
 +2 For Finding the Chest. If a Hero finds the treasure chest
 he earns +2 Experience.
-```
-Assembled By Paul H Page 197 (knights_templar@hotmail.com)
 
 
 ##### Scenario: Occupy
@@ -18328,7 +11791,6 @@ Experience for each enemy he puts out of action.
 
 ##### Scenario: Surprise attack
 
-```
 One warband is out searching the ruins of Mordheim for loot when
 it is attacked by an enemy warband. The defenders are spread thinly
 and must muster a defence quickly to drive off their attackers.
@@ -18338,7 +11800,6 @@ a piece of terrain, either a ruined building, tower, or other
 similar item. We suggest that the terrain is set up within an
 area roughly 4' x 4'.
 Set-up
-```
 1. The defending player rolls a D6 for each Hero and
 Henchman group in his warband, in any order he chooses. On
 a 1-3, they are elsewhere in the ruins and turn up later as
@@ -18379,10 +11840,8 @@ gains +1 Experience.
 +1 Per Enemy Out of Action. A Hero earns +1 Experience
 for each enemy he puts out of action.
 
-(knights_templar@hotmail.com) Page 198 Assembled by Paul H
 
 
-Assembled By Paul H Page 199 (knights_templar@hotmail.com)
 
 ##### Scenario: The Rescue
 
@@ -18447,7 +11906,6 @@ him all of his old gear; however, the prisoner may not put on
 any armour, as a quick escape is desired (he may use a shield
 as normal).
 
-```
 Warbands
 The warband that captured the Hero is automatically the
 defender, and sets up his warband as follows:
@@ -18505,7 +11963,6 @@ present itself; as well, it shows that the attacker is attempting
 to move more stealthily than normal.
 Attackers in the open will be spotted on a d6 roll of 2+.
 Attackers in cover will be spotted on a d6 roll of 4+.
-```
 
 Attackers out of sight of a sentry and not in their frontal arc,
 but within the detection range of the sentry will be “spotted”
@@ -18542,7 +11999,6 @@ sounded. For example, if three attackers slaughter a single
 sentry, then you must roll 4 or more on the d6 for this to go
 unnoticed.
 
-```
 Reinforcements
 Once the alarm has been sounded, the defender may attempt
 to bring on the rest of his warband. For each Hero or
@@ -18578,7 +12034,6 @@ that the attacker could have Captured one of the defender's
 models, making a trade viable; also, the attacker will likely
 have a bit more money to offer, as he gets a second game
 worth of exploration (assuming any of his Heroes survived).
-```
 ##### Scenario: Stake-Out
 
 By Gavin Thorpe
@@ -18606,7 +12061,6 @@ an Initiative test or do nothing for the first turn.
 2. Defending models can escape by moving off any table
 edge, but they may not return.
 
-```
 Ending the Game: The game ends when one side fails its
 Rout Test, the defending leader is killed or manages to escape
 from the table. If the defending leader is killed, the scenario
@@ -18624,8 +12078,6 @@ earns +1 Experience (as well as +1 for “winning leader”).
 +1 Target Stopped. Whoever puts the defender’s leader Out
 of Action will earns +1 Experience (if by a Henchman then
 entire group benefit).
-```
-(knights_templar@hotmail.com) Page 200 Assembled by Paul H
 
 
 ##### Scenario: Race to the Stash
@@ -18690,7 +12142,6 @@ inside the lanes. Because the warbands are racing toward the
 goal as fast as possible, no models may be deployed on high
 ground at the start of the game.
 
-```
 Starting the game
 Each player rolls a D6 and adds the normal Initiative value of
 their leader. The player with the highest total result goes first.
@@ -18737,8 +12188,6 @@ gains +1 Experience.
 Experience for each enemy he puts out of action.
 +1 Race Winners. All heroes in the warband that reaches the
 stash of treasure first gain +1 Experience
-```
-Assembled By Paul H Page 201 (knights_templar@hotmail.com)
 
 
 Rewards
@@ -18807,7 +12256,6 @@ defender's Warband can move, and cannot stray more than
 10" from the campfires. As soon as one of the attackers
 moves within 8" of a guard, make an initiative test for the
 
-```
 guard. If passed, he spots the attackers, shouting a warning
 and rousing his comrades – the rest of the defenders can now
 act. If failed, he simply shakes his head, probably thinking
@@ -18838,8 +12286,6 @@ Experience for each enemy he puts out of action.
 +1 per Wyrdstone Counter. If a Hero or Henchman is
 carrying a Wyrdstone counter at the end of the battle he
 receives +1 Experience.
-```
-(knights_templar@hotmail.com) Page 202 Assembled by Paul H
 
 
 ##### Scenario: Happy Harpy Hunting Grounds
@@ -18891,7 +12337,6 @@ action and the other warband has routed, or the Harpies win if
 both of the warbands rout before the Harpies have all been
 taken out of action.
 
-```
 Experience
 +1 Survives. If a Hero or Henchman group survives the
 battle they gain +1 Experience.
@@ -18924,8 +12369,6 @@ D6 Item
 Harpy nest. What they had planned for him is unknown, but
 he may aid you in your Exploration phase either this game or
 next (see pg 217).
-```
-Assembled By Paul H Page 203 (knights_templar@hotmail.com)
 
 
 #### Multiplayer Scenarios
@@ -18984,7 +12427,6 @@ in their possession at the end of the battle.
 
 ##### Scenario: Street brawl
 
-```
 By Michael Havener
 Turf wars are a common sight in the ruins of Mordheim. When
 multiple warbands compete for the same area, a chaotic all-out
@@ -19014,8 +12456,6 @@ battle they gain +1 Experience.
 gains +1 Experience.
 +1 Per Enemy out of action. Any Hero earns +1 Experience
 for each enemy he puts out of action.
-```
-(knights_templar@hotmail.com) Page 204 Assembled by Paul H
 
 
 ##### Scenario: The Lost Prince
@@ -19066,7 +12506,6 @@ The game ends when one warband manages to get the
 merchant’s son off the table. That warband (and any allied
 warband) is the winner.
 
-```
 Experience
 +1 Survives. If a Hero or Henchman group survives the
 battle they gain +1 Experience.
@@ -19087,8 +12526,6 @@ Suit of light armour 4+
 Shield 4+
 Helmet 4+
 D3 gems worth 10 GC each 5+
-```
-Assembled By Paul H Page 205 (knights_templar@hotmail.com)
 
 
 ##### Scenario: The Pool
@@ -19149,7 +12586,6 @@ receives +1 Experience.
 
 ##### Scenario: Ambush!
 
-```
 By Michael Havener
 The defending warband has recently discovered a rich deposit of
 wyrdstone. Unfortunately, word has leaked out about their find and
@@ -19193,8 +12629,6 @@ for each enemy he puts out of action.
 +1 Per Wyrdstone Counter. If a Hero is carrying a
 Wyrdstone counter at the end of the battle he receives +1
 Experience.
-```
-(knights_templar@hotmail.com) Page 206 Assembled by Paul H
 
 
 ##### Scenario: Monster Hunt
@@ -19252,7 +12686,6 @@ gains +1 Experience.
 +1 Per Enemy out of action. Any Hero earns +1 Experience
 for each enemy he puts out of action.
 
-```
 Treasure hoard
 The young monster has moved its treasure hoard with it to its
 new lair. Because of its age, the young monster has not
@@ -19292,8 +12725,6 @@ forced out of the nest and have decided to set up a new lair in
 the ruined city. If a monster is desired, the players should
 either choose what type of Monster they are hunting from the
 Beasts, Monsters & Townsfolk section of the Rulebook.
-```
-Assembled By Paul H Page 207 (knights_templar@hotmail.com)
 
 
 ##### Scenario: The Writing on the Wall
@@ -19348,7 +12779,6 @@ could opt for an extra 5 or 6 in order to find something else
 entirely. This addition does not affect how many Wyrdstone
 shards the warband recovers.
 
-```
 STARTING THE GAME
 The player with the lower warband rating has first turn.
 ENDING THE GAME
@@ -19374,8 +12804,6 @@ the writing during the battle (limit 1 per warband) gains +1
 Experience.
 +1 for Ruining the Writing. Any Hero who ruins the
 writing (after it has been deciphered!) earns +1 Experience.
-```
-(knights_templar@hotmail.com) Page 208 Assembled by Paul H
 
 
 ##### Scenario: Spawn Hunting
@@ -19433,7 +12861,6 @@ Turn 1: Spawn
 Turn 2: Pursuing Band (Highest Rated)
 Turn 3-?: The remaining warbands, dice off for turn order.
 
-```
 Special Rules
 Wyrdstone Necklace: Make note of which warrior(s) deliver
 the killing blow to each of the spawn on the table. After the
@@ -19474,8 +12901,6 @@ experience for each enemy they put out of action.
 additional +1 experience for each wound they do to one of
 the Spawn. (A henchman group may not gain more than +1
 experience in this way.)
-```
-Assembled By Paul H Page 209 (knights_templar@hotmail.com)
 
 
 ##### Scenario: The West Gatehouse
@@ -19542,7 +12967,6 @@ The profiles of the Giant Oak and Dark Dryad can be found
 in the Beasts, Monsters & Townsfolk section of the
 Rulebook.
 
-```
 Warbands
 Players use normal warband set-up rules (see 'Setting up the
 warbands').
@@ -19576,8 +13000,6 @@ Oak.
 +2 For taking the Giant Oak out of action. The Hero or
 Henchman that puts the Giant Oak out of action gets a bonus
 +2 experience.
-```
-(knights_templar@hotmail.com) Page 210 Assembled by Paul H
 
 
 ##### Scenario: The Raven Barracks
@@ -19638,7 +13060,6 @@ Warbands
 Players use the normal warband set-up rules (see ‘Setting up
 the warbands’).
 
-```
 Starting the game
 Each player rolls a D6 after the terrain has been placed. The
 player rolling the highest roll has the first turn, and order
@@ -19692,8 +13113,6 @@ arrows) for one game.
 22 D3 Suits of light armour.
 23 Hunting Rifle.
 24 One suit of Gromril Amour.
-```
-Assembled By Paul H Page 211 (knights_templar@hotmail.com)
 
 
 ##### Scenario: The Wizard’s Mansion
@@ -19745,7 +13164,6 @@ Rout test. The routers automatically lose. If one of more
 warbands have allied, they may choose to share the victory
 and end the game.
 
-```
 Experience
 +1 Survives. If a Hero or Henchman group survives the
 battle they gain +1 Experience.
@@ -19782,8 +13200,6 @@ magical rituals. If used in combat, it will not hold its edge.
 For the first attack in a game, it will count as a normal
 dagger. However, for the rest of the game it will count as a
 fist attack. The Athame is worth 10 gold crowns if traded.
-```
-(knights_templar@hotmail.com) Page 212 Assembled by Paul H
 
 
 ##### Scenario: The Gaol
@@ -19818,7 +13234,6 @@ effectively a third player ie, after the last player has finished
 his turn, the Warden and the Inmates get their first turn. Play
 then continues as normal.
 
-```
 Special rules
 The Warden and his Lackeys: Hidden within the dark
 recesses of the Gaol is a thing known by local scavengers and
@@ -19852,7 +13267,6 @@ Possessed with two random mutations (players should decide
 the randomisation method for themselves). You can also use
 a Possessed model or any Chaos Spawn miniature to
 represent the Warden on the tabletop (we used a Chaos Troll
-```
 - Ed) The Warden will move towards – and charge, if in
 range – the nearest warrior. If it wins a combat it will move
 towards the next nearest warrior.
@@ -19877,7 +13291,6 @@ Inmates).
 +2 Slaying the Warden. Should a Hero or Henchman group
 put the Warden out of action they gain +2 Experience.
 
-Assembled By Paul H Page 213 (knights_templar@hotmail.com)
 
 
 ##### Scenario: Executioner’s Square
@@ -19920,7 +13333,6 @@ the first turn. If the result is a tie the player with the smaller
 warband, in terms of actual models, may choose to go first or
 second.
 
-```
 Special rules
 Anger of the Damned: The restless spirits of Executioner’s
 Square vent their eternal anger at any who roam in or close to
@@ -19960,8 +13372,6 @@ for each enemy he puts out of action.
 the gallows (or the piece of terrain representing the gallows)
 at the centre of the square for one complete turn then he gains
 +1 Experience.
-```
-(knights_templar@hotmail.com) Page 214 Assembled by Paul H
 
 
 ##### Scenario: The Great Library
@@ -20022,7 +13432,6 @@ Happenings chart even though it will already be in the middle
 of their turn. Please exempt rolls of 11, 45, 54, and 65 from
 the D66, just roll again.
 
-```
 Warbands
 Players use the normal warband set-up rules (see ‘Setting up
 the warbands’).
@@ -20056,7 +13465,6 @@ decided to open the scroll and is trying to decipher its
 abilities. Please nominate which Hero will be opening the
 scroll.
 D6 Events
-```
 1. The Hero who keeps the scroll will set out the next
     game. You may come up with some creative on why
     he cannot play the next game from opening the scroll.
@@ -20070,7 +13478,6 @@ D6 Events
 6. The Hero who opens the scroll will gain D3
     experience.
 
-Assembled By Paul H Page 215 (knights_templar@hotmail.com)
 
 
 ##### Scenario: The Middle Bridge
@@ -20112,7 +13519,6 @@ Route Tests. Trolls will ignore all route tests.
 River Trolls. Enemies attempting HTH with the Troll suffer
 a -1 to hit. A roll of a 6 will always hit.
 
-```
 Warbands
 All players roll a D6 to see who deploys first, with the player
 rolling the highest choosing the table edge.
@@ -20155,8 +13561,6 @@ table from their deployment and moving as fast as possible
 towards that warband to engage in HTH with that warband.
 You can be creative in this endeavour and punish those
 warbands who have no backbone.
-```
-(knights_templar@hotmail.com) Page 216 Assembled by Paul H
 
 
 ##### Scenario: The Cemetery of St. Voller
@@ -20208,7 +13612,6 @@ warband has a Priest of Morr, they will automatically get the
 first turn instead. Note if both warbands have this Priest of
 Morr, then the attacker goes first.
 
-```
 Special rules
 Reinforcements: The defender, at the start of his second and
 subsequent turns, may roll a D6 for each of his Henchmen
@@ -20252,8 +13655,6 @@ they gain +1 Experience.
 +1 Experience.
 +1 Per Enemy Out of Action. A Hero gains +1 Experience
 for each enemy (and Unquiet Dead) he puts out of action.
-```
-Assembled By Paul H Page 217 (knights_templar@hotmail.com)
 
 
 ##### Scenario: The Merchant Square
@@ -20315,7 +13716,6 @@ would be too narrow for the Pegasus to fly into.
 The profile of the Black Pegasus can be found in the Beasts,
 Monsters & Townsfolk section of the Rulebook.
 
-```
 Starting the game
 Each player rolls a D6. The player with the highest has the
 first turn and order of play proceeds clockwise around the
@@ -20361,8 +13761,6 @@ D3 Healing Herbs 3
 1 Gromril Weapon 4
 1 Dose Bugman's Ale 5
 1 Eleven Cloak 6
-```
-(knights_templar@hotmail.com) Page 218 Assembled by Paul H
 
 
 ### Income
@@ -20403,7 +13801,6 @@ For example, you might roll two 3’s or three 5’s, in which
 case you should refer to the chart. Choose the most numerous
 multiples if you score more than one set of multiples. So, if
 
-```
 you rolled a double 3 and a triple 5, only look up the triple 5
 on the Exploration chart. In the case of two doubles or triples
 look up the highest result. For example, if you rolled double
@@ -20411,7 +13808,6 @@ look up the highest result. For example, if you rolled double
 Any money or loot you find in these locations is added
 straight to the warband’s treasury. Any shards of wyrdstone
 you find can be sold as normal.
-```
 #### Exploration procedure
 
 1. Roll 1D6 for each of your Heroes who survived the battle and
@@ -20457,7 +13853,6 @@ TRIPLES
 555 Market Hall
 666 Returning a Favour
 
-```
 FOUR OF KIND
 1111 Gunsmith
 2222 Shrine
@@ -20465,8 +13860,7 @@ FOUR OF KIND
 4444 Armourer
 5555 Graveyard
 6666 Catacombs
-```
-```
+ 
 FIVE OF KIND
 11111 Moneylender’s House
 22222 Alchemist’s Laboratory
@@ -20474,8 +13868,7 @@ FIVE OF KIND
 44444 Merchant’s House
 55555 Shattered Building
 66666 Entrance to the Catacombs
-```
-```
+ 
 SIX OF KIND
 111111 The Pit
 222222 Hidden Treasure
@@ -20483,8 +13876,6 @@ SIX OF KIND
 444444 Slaughtered Warband
 555555 Fighting Arena
 666666 Noble’s Villa
-```
-Assembled By Paul H Page 219 (knights_templar@hotmail.com)
 
 
 ##### Doubles
@@ -20523,7 +13914,6 @@ D6 Result
 5 Sword
 6 Suit of light armour
 
-```
 (44) Straggler
 Your warband encounters one of the survivors of Mordheim,
 who has lost his sanity along with all his worldly possessions.
@@ -20540,8 +13930,7 @@ into the city. Next time you roll on the Exploration chart, roll
 one dice more than is usually allowed, and discard any one
 dice. (For example, if you have three Heroes, roll four dice
 and pick any three).
-```
-```
+ 
 (55) Overturned Cart
 Stuck in a ruined gateway is an overturned wagon – the
 covered type that nobles travel in from the city to their estates
@@ -20557,14 +13946,11 @@ at twice the value of a normal sword and dagger, but
 note that the normal selling price is half the actual cost
 (see the Trading section for rules on selling items), so
 the jewelled sword will sell for 10 GC, for instance.
-```
-```
+ 
 (66) Ruined Hovels
 The street consists of ruined hovels, which are leaning over
 at alarming angles. Not much worth looting here.
 You find loot worth D6 GC amidst the ruins.
-```
-(knights_templar@hotmail.com) Page 220 Assembled by Paul H
 
 
 ##### Triples
@@ -20620,7 +14006,6 @@ armour, you may add a new Henchman to any of your human
 Henchman groups (with the same stats as the rest of the
 group, even if they have already accumulated experience).
 
-```
 (444) Fletcher
 This hovel was once the workshop of a fletcher – a maker of
 bows and arrows. There are bundles of yew staves and
@@ -20632,8 +14017,7 @@ D6 Result
 4 D3 Long bows
 5 Quiver of hunting arrows
 6 D3 Crossbows
-```
-```
+ 
 (555) Market Hall
 The market hall was raised up on pillars, with the timbered
 corn exchange above the open market place. The upper
@@ -20642,8 +14026,7 @@ offers a good deal of shelter. The remains of the last market
 day are still lying around on the cobbles. Most of this is
 broken pottery and iron pots.
 You find several items worth 2D6 GC in total.
-```
-```
+ 
 (666) Returning a Favour
 As you are returning to your encampment, you meet one of
 your old acquaintances. He has come to repay an old favour
@@ -20653,8 +14036,6 @@ those available to your warband) for the duration of the next
 battle, free of charge. After the battle he will depart, or you
 may continue to pay for his upkeep as normal. See the Hired
 Swords section on page 219.
-```
-Assembled By Paul H Page 221 (knights_templar@hotmail.com)
 
 
 ##### Four of a kind
@@ -20697,7 +14078,6 @@ that the garret leans over so far that you can step out of the
 window into the attic of the house opposite.
 Your warband finds 3D6 GC worth of loot.
 
-```
 (4444) Armourer
 A breastplate hanging from a pole drew your attention to this
 place, obviously too high up to be easily looted. The
@@ -20711,8 +14091,7 @@ D6 Result
 4 D3 Suits of light armour
 5 D3 Suits of heavy armour
 6 Suit of Ithilmar armour
-```
-```
+ 
 (5555) Graveyard
 You find an old graveyard, crammed with sepulchres that are
 overgrown with ivy. The monuments to the dead are
@@ -20730,8 +14109,7 @@ note of this on your warband roster sheet.
 Witch Hunters and Sisters of Sigmar may seal the graves.
 They will be rewarded for their piety by D6 Experience
 points distributed amongst the Heroes of the warband.
-```
-```
+ 
 (6666) Catacombs
 You find an entrance to the catacombs and tunnels below
 Mordheim.
@@ -20743,8 +14121,6 @@ placed within 8" of any enemy models.
 This represents the warriors making their way through the
 tunnels, infiltrating enemy lines and emerging suddenly from
 below ground.
-```
-(knights_templar@hotmail.com) Page 222 Assembled by Paul H
 
 
 ##### Five of a kind
@@ -20789,7 +14165,6 @@ may keep them and displays them proudly. He will gain +1 to
 the rolls for locating rare items as merchants flock to such an
 obviously wealthy warrior.
 
-```
 (44444) Merchant’s House
 The merchant’s house stands by the waterfront. It has a
 vaulted stone undercroft which is still stacked with barrels
@@ -20802,8 +14177,7 @@ Inside you find several valuable objects which can be sold for
 2D6x5 GC. If you roll a double, instead of finding money
 you find the symbol of the Order of Freetraders. A Hero in
 possession of this gains the Haggle skill.
-```
-```
+ 
 (55555) Shattered Building
 The comet destroyed this building almost completely, making
 it unsafe for all but the most daring to explore. But places
@@ -20812,8 +14186,7 @@ You find D3 shards of wyrdstone amongst the ruins. In
 addition take a Leadership test against the warband leader’s
 Leadership value. If passed a war dog that was guarding the
 building joins the warband.
-```
-```
+ 
 (66666) Entrance to the Catacombs
 You find a well-hidden entrance to the dark catacombs which
 extend for miles beneath the city of Mordheim. Although the
@@ -20825,8 +14198,6 @@ roll on the Exploration chart. Make a note of this in your
 warband’s roster sheet. Second and subsequent catacomb
 entrances you find do not grant you any additional re-rolls,
 although you may find further re-rolls from other sources.
-```
-Assembled By Paul H Page 223 (knights_templar@hotmail.com)
 
 
 ##### Six of a kind
@@ -20874,7 +14245,6 @@ D6 Result
 5 Double-handed gromril axe
 6 Gromril armour
 
-```
 (444444) Slaughtered Warband
 You find the remains of an entire warband. Broken bodies lay
 scattered among the ruins, torn apart by some monstrous
@@ -20897,8 +14267,7 @@ D3 Swords 3+
 D3 Shields 2+
 D3 Bows 4+
 D3 Helmets 2+
-```
-```
+ 
 (555555) Fighting Arena
 During better times, Mordheim was famous for its duellists
 and pit fighters. You have found one of the areas used to
@@ -20911,8 +14280,7 @@ from Combat skills whenever he gains a new skill, and his
 WS may now be increased by an extra point above his normal
 racial maximum (for example, a Human who has the book
 would now have a maximum Weapon Skill of 7).
-```
-```
+ 
 (666666) Noble’s Villa
 You find a fine house which is partially ruined. It has been
 thoroughly ransacked and all the furniture has been stripped
@@ -20923,8 +14291,6 @@ and money to add to your treasury. On a roll of 3-4, you find
 D6 vials of Crimson Shade. On a roll of 5-6 you find a
 hidden magical artefact carefully concealed in a hidden cellar
 or behind a secret door. Roll on the Magical Artefacts table.
-```
-(knights_templar@hotmail.com) Page 224 Assembled by Paul H
 
 
 #### Magical artefacts table
@@ -20968,7 +14334,6 @@ Rune of Fortitude: The Hero has an extra wound.
 Note that this may take his total Wounds above his
 race’s maximum.
 
-```
 4 Bow of Seeking
 This bow was a gift to Count Steinhardt from the Elf lords of
 the Forest of Shadows.
@@ -20986,8 +14351,7 @@ addition, if any Dwarf is an eligible target, the arrows will
 always deviate from their intended target and try to hit the
 Dwarf instead. For obvious reasons this bow cannot be used
 to shoot at Elves.
-```
-```
+ 
 5 Executioner’s Hood
 Recovered from a shipwrecked Dark Elf vessel, this hood
 carries evil glowing runes which fill the wearer with
@@ -21003,8 +14367,7 @@ wearer’s charge range at the beginning of his turn, he will
 charge and attack the closest one, even if they are members
 of his own warband! Fight the hand-to-hand combat until one
 of the warriors is taken out of action.
-```
-```
+ 
 6 All-Seeing Eye of Numas
 This jewel was recovered from the ruins of Numas far in the
 south. It gives its wielder horrific nightmares that predict his
@@ -21020,8 +14383,6 @@ combat, as he can sense the attacks before they are made.
 All animals (such as War dogs, horses, etc) will be affected
 by frenzy when fighting against the bearer of the All-Seeing
 Eye.
-```
-Assembled By Paul H Page 225 (knights_templar@hotmail.com)
 
 
 #### Selling wyrdstone
@@ -21051,7 +14412,6 @@ added to warband’s treasury.
 
 #### Sisters of Sigmar and income
 
-```
 Worldly possessions mean little to the Sisters, but their holy
 mission to purify Mordheim of the influence of Chaos
 requires supplies and weaponry, and these are much in
@@ -21067,10 +14427,8 @@ warband represent the resources that the High Matriarch will
 put at their disposal. It does not represent money in a literal
 sense, so you may like to think of it as faith, piety,
 dedication, etc.
-```
 #### Skaven and Undead
 
-```
 Neither of these warbands puts much value on gold, but they
 send all the wyrdstone they find to their superiors and receive
 aid and resources in return. Skaven use their own currency
@@ -21080,16 +14438,12 @@ warband’s treasury represent the warp tokens which the
 Skaven use for currency, while for the Undead it represents
 the favour they enjoy in the eyes of their master, Vlad von
 Carstein of Sylvania.
-```
 #### Spending income
 
-```
 You can spend any accumulated money on weapons, armour,
 hiring new warriors, buying new equipment or simply save
 the money for a bigger purchase. See the Trading section for
 details.
-```
-(knights_templar@hotmail.com) Page 226 Assembled by Paul H
 
 
 ### Tr a ding
@@ -21162,7 +14516,6 @@ equipped in the same way as existing members of the group.
 
 #### Weapons
 
-```
 If a player wants to buy new weapons or other equipment for
 existing warriors, refer to the Price chart that follows. The
 chart lists all the equipment available in Mordheim, not just
@@ -21180,10 +14533,8 @@ battle has cooled and they are able to consider purchases
 more carefully. Determine which rare items are offered for
 sale while both players are together. The players can work
 out what they will buy later.
-```
 #### Trading
 
-```
 Trade items are divided into two sections: common and rare
 items. Common items can be bought quite readily in any of
 the numerous trading posts and settlements around
@@ -21195,10 +14546,8 @@ occasionally do such items turn up for sale and the price
 asked is often way above the true value. These items are
 often offered only to the most famous warbands, or those
 with the most money.
-```
 #### Availability
 
-```
 The Price chart has a column marked ‘Availability’. Common
 items are always available, and can be bought in any
 quantity. Items marked ‘rare’ are more difficult to find. A
@@ -21213,8 +14562,6 @@ make one roll for each Hero looking for rare items. For
 example, if your warband has four Heroes, you may make
 four rolls to locate rare items. Warriors taken out of action
 during the last battle may not look for rare items.
-```
-Assembled By Paul H Page 227 (knights_templar@hotmail.com)
 
 
 #### Selling
@@ -21237,7 +14584,6 @@ compared to the cost of equipping any new recruits you may
 get, a warband can usually find a use for its cast-off
 armaments.
 
-(knights_templar@hotmail.com) Page 228 Assembled by Paul H
 
 
 #### Price chart
@@ -21309,7 +14655,6 @@ Long Bow ........................................................ 15 GC ...... C
 Poison Wind Globes ........................................ 25 GC ........ Rare 11
 Repeater Bolt Thrower .................................. 150 GC ........ Rare 11
 
-```
 Repeater Crossbow .......................................... 40 GC .......... Rare 8
 Short Bow .......................................................... 5 GC ...... Common
 Sling................................................................... 2 GC ...... Common
@@ -21369,8 +14714,6 @@ Sea Dragon Cloak ................................... 50+2D6 GC ........ Rare 10
 Shield ................................................................. 5 GC ...... Common
 Toughened Leathers........................................... 5 GC ...... Common
 Wolfcloak ........................................................ 10 GC ......... Special
-```
-Assembled By Paul H Page 229 (knights_templar@hotmail.com)
 
 
 Miscellaneous equipment
@@ -21436,7 +14779,6 @@ Cloak of Mists ........................................ 75+5D6 GC ........ Rare 
 Enchanted Skins .............................................. 35 GC .......... Rare 9
 Conch Shell Horn ............................................ 45 GC ........ Rare 10
 
-```
 Magic, Books & Scrolls Cost Availability
 Book of the Dead .............................. 200+D6x25 GC ........ Rare 12
 Dispel Scroll ........................................... 25+2D6 GC ........ Rare 10
@@ -21503,8 +14845,6 @@ War Horse ........................................................ 80 GC .......
 War Hound ............................................. 25+2D6 GC ........ Rare 10
 Wild Hog ................................................ 30+2D6 GC .......... Rare 6
 Wolf ........................................................ 30+2D6 GC .......... Rare 7
-```
-(knights_templar@hotmail.com) Page 230 Assembled by Paul H
 
 
 ### Hired Swords
@@ -21534,7 +14874,6 @@ Rout tests.
 
 #### Hire fee
 
-```
 When a warband recruits a Hired Sword, you must pay his
 hire fee. Subsequently, after each battle he fights, including
 the first, you must pay his upkeep fee if you want him to
@@ -21548,16 +14887,12 @@ recruiting new warriors. If you don’t have enough gold to pay
 for the Hired Sword, or want to spend it on other things, he
 leaves the warband. Any experience he has gained will be
 lost, even if you hire a new Henchman of the same type.
-```
 #### Injuries
 
-```
 If a Hired Sword goes out of action during the game, roll for
 his injuries as you would roll for a Hero after a battle.
-```
 #### Hired swords and experience
 
-```
 Hired Swords gain experience in exactly the same way as a
 Hero. Refer to the scenarios to find out how much experience
 Hired Swords gain after each game. Write the name and
@@ -21567,8 +14902,6 @@ for an advance, roll on the Heroes Advancement table (as
 opposed to Henchmen) to determine which advance he gains.
 Skills available to the Hired Swords are listed under their
 entries.
-```
-Assembled By Paul H Page 231 (knights_templar@hotmail.com)
 
 
 #### Hired Sword List
@@ -21633,7 +14966,6 @@ D6 Items
 per turn at -1 strength.
 6 Blow Pipe (need ‘Weapons Training’ to use)
 
-```
 Foreign Wares
 Traders from across the seas can be found in the shady taverns and
 street corners on the outskirts of Mordheim. They have many exotic
@@ -21691,8 +15023,6 @@ him and if charged place the bodyguard in front of the
 Merchant to protect him. The bodyguard will not charge
 unless the Merchant also charges and cannot intercept an
 attack if already engaged in combat.
-```
-(knights_templar@hotmail.com) Page 232 Assembled by Paul H
 
 
 ##### Barbarian
@@ -21750,7 +15080,6 @@ Leadership. This includes rout tests.
 
 ##### Beggar
 
-```
 By Daniel Logee
 The streets of Mordheim crawl with the poor and destitute. They
 scratch an existence by digging through the wreckage of this black
@@ -21777,8 +15106,6 @@ Not a Threat: as a Beggar proves hardly a threat to any true
 warrior, warbands may ignore Beggar for purposes of
 shooting at the nearest target and charging another enemy
 within 2” of the Beggar.
-```
-Assembled By Paul H Page 233 (knights_templar@hotmail.com)
 
 
 ##### Black Orc
@@ -21833,7 +15160,6 @@ that they do not have to take All Alone tests.
 
 ##### Bounty Hunter
 
-```
 By Nick Kyme
 Villains and outlaws are rife in the Old World. In Mordheim they
 are as ubiquitous as the ruins that litter the streets. It is the false
@@ -21870,8 +15196,6 @@ gold value as payment (of which he gives the warband half)
 +D3 experience if he survives the game and the Bounty
 Hunter's side wins. After the battle do not roll on the serious
 injury table for the hero, he simply counts as captured.
-```
-(knights_templar@hotmail.com) Page 234 Assembled by Paul H
 
 
 ##### Chaos Warrior
@@ -21909,7 +15233,6 @@ Warrior with 3 wyrdstone shards instead of Gold.
 
 ##### Clan Eshin Assassin
 
-```
 This black clad Skaven is a silent and deadly infiltrator belonging to
 Clan Eshin. It’s not uncommon for an Assassin to accept
 assignments that will pit them against their own clan, they are after
@@ -21940,8 +15263,6 @@ the back if the need arose. The Clan Eshin Assassin will
 shoot in to combat with on care for the safely of others. For
 each shot roll a D6 on a 1-3 the shot hits a friendly model.
 [Thanks to Tommy Punk for the idea.]
-```
-Assembled By Paul H Page 235 (knights_templar@hotmail.com)
 
 
 ##### Clan Moulder Packmaster
@@ -22008,7 +15329,6 @@ assigned Hero is within 6" of it.
 
 ##### Clan Skryre Poisoned Wind Globadier
 
-```
 Poisoned Wind Globadiers are armed with glass balls full of acidic
 compounds that they lob into their opponents, melting them where
 they stand. Armour offers no protection from the corrosive liquid
@@ -22038,8 +15358,6 @@ lookout for himself and so they would stab (or shoot) you in
 the back if the need arose. The Poisoned Wind Globadier will
 shoot in to combat with on care for the safely of others.
 [Thanks to Tommy Punk for the idea.]
-```
-(knights_templar@hotmail.com) Page 236 Assembled by Paul H
 
 
 ##### Clan Skryre Sniper
@@ -22106,7 +15424,6 @@ skill.
 
 ##### Dark Elf Assassin
 
-```
 Few are better than the silent, black garbed killers of the Dark
 Elves, even the Skaven Clan Eshin quail at their expertise. It is not
 unusual for young apprentice assassins, when learning their dark
@@ -22133,11 +15450,8 @@ High Elven kin.
 Perfect Killer: All attacks made by the Assassin, whether in
 shooting or close combat, have an extra -1 save modifier to
 represent his skill in striking at unarmoured spots.
-```
-Assembled By Paul H Page 237 (knights_templar@hotmail.com)
 
 
-(knights_templar@hotmail.com) Page 238 Assembled by Paul H
 
 ##### Dark Elf Sorceress
 
@@ -22186,7 +15500,6 @@ on a new skill.
 
 ##### Duellist
 
-```
 By Nick Kyme
 Duellists are men of the shadows, their reputations dark and
 bloodthirsty. They are men of iron nerve who stare unflinchingly
@@ -22213,7 +15526,6 @@ combat, turning blades aside with seemingly little effort or
 concern. The Duellist may parry using his sword and buckler
 if he can roll under his weapon skill and not more than his
 opponent's highest hit roll as per the normal rules.
-```
 
 ##### Dwarf Runesmith Journeyman
 
@@ -22269,7 +15581,6 @@ Hard to Kill: Dwarfs are tough, resilient individuals who can
 only be taken out of action on a D6 roll of 6 instead of 5-6
 when rolling on the Injury chart. Treat a roll of 5 as stunned.
 
-```
 RUNE USE
 A Runesmith may inscribe Runes before a battle; they start
 knowing one Rune but may learn more as spell casters learn
@@ -22301,8 +15612,6 @@ Durable: If a Rune becomes durable roll a d6 after each
 battle, but not the first, on a roll of 1 or 2 it fades and ceases
 to be effective, otherwise it will be effective in the next
 battle.
-```
-Assembled By Paul H Page 239 (knights_templar@hotmail.com)
 
 
 ##### Dwarf Sapper
@@ -22363,7 +15672,6 @@ Should one of these shipments be lost, whether captured, wrecked,
 or lost to the depths of the sea, a great dishonour is placed on both
 captain and crew of the ship. This shame is often too much to bear,
 
-```
 and occasionally such a Dwarf seaman will undertake the Slayer
 Oath, but will retain his old habits and combat preferences to those
 of the traditional Troll Slayers.
@@ -22416,8 +15724,6 @@ Ale. A warband including a Slayer Pirate treats Bugman's Ale
 as Rare 6, but must pay an extra 2D6 gold crowns to
 compensate for the copious amounts of ale that the Slayer
 Pirate will consume.
-```
-(knights_templar@hotmail.com) Page 240 Assembled by Paul H
 
 
 ##### Dwarf Treasure Hunter
@@ -22468,7 +15774,6 @@ of these are obvious fakes, but there are many that seem
 promising. At least, on first glance. Each battle the Dwarf
 Treasure Hunter will choose one map and see where it leads.
 
-```
 Roll a D6 at the end of each battle which the Dwarf Treasure
 Hunter survives without going out of action.
 1 Ambush!: The Dwarf Treasure Hunter is ambushed by D3
@@ -22502,8 +15807,6 @@ exploration as normal. Note that these results are not
 cumulative. The Treasure Hunter consults a different map each
 battle, and so the results only apply to that battle (or, more
 accurately, to the actions between that battle and the next).
-```
-Assembled By Paul H Page 241 (knights_templar@hotmail.com)
 
 
 ##### Dwarf Troll Slayer
@@ -22551,7 +15854,6 @@ stunned.
 
 ##### Elf Mage
 
-```
 By Jake Thornton
 Unlike the staid and traditionally insular archmages of the Tower of
 Saphery, devotees of the smaller Djed’hi temple are wanderers.
@@ -22596,8 +15898,6 @@ Magic User: The Elf Mages has the ability to use magic and
 casts spells like any other magicians, and the Elf Mages starts
 with three spells generated at random from the Spells of the
 Djed’hi list. See the Magic section for details.
-```
-(knights_templar@hotmail.com) Page 242 Assembled by Paul H
 
 
 ##### Expert Marksman
@@ -22666,7 +15966,6 @@ rulebook for more details.
 
 ##### Goblin Lantern Bearer
 
-```
 By Dennis Montera
 It's tough being a goblin, especially if you feel you have talent. The
 orcs don't take you seriously, the other goblins are always starting
@@ -22707,8 +16006,6 @@ for the warband. The Goblin Lantern Bearer adds +3 to the
 total dice roll when determining the number of shards found
 (i.e. if the dice total is 15, then add +3 for a total of 18, and
 thus 4 shards found instead of 3).
-```
-Assembled By Paul H Page 243 (knights_templar@hotmail.com)
 
 
 ##### Halfling Scout
@@ -22743,7 +16040,6 @@ maximum number of Heroes you may have.
 
 ##### Halfling Thief
 
-```
 By Mark Havenor
 Halflings are well known for their nimble feet and even nimbler
 fingers. While many follow their fathers and turn their dexterous
@@ -22788,8 +16084,6 @@ battle may proceed as normal.
 6 Ignorance is Bliss: The Thief costs no upkeep as he has
 helped himself. On the bright side, whatever it is he’s
 filched the warband never knew it had.
-```
-(knights_templar@hotmail.com) Page 244 Assembled by Paul H
 
 
 ##### Highwayman
@@ -22854,7 +16148,6 @@ practiced territory.
 
 ##### Hochland Huntsmaster
 
-```
 By Philip Greig
 Hunters in the lands of Hochland are renowned for their skills.
 Coupled with their deadly long rifles, they can shoot down targets at
@@ -22888,8 +16181,6 @@ second turn of play within 16" of the player's table edge. He
 is considered Hidden after deployment. This represents the
 Huntsmaster spending the entire first turn looking for a good
 sniping position.
-```
-Assembled By Paul H Page 245 (knights_templar@hotmail.com)
 
 
 ##### Imperial Assassin
@@ -22940,7 +16231,6 @@ too conspicuous in their use for someone in his profession.
 
 ##### Imperial Tactician
 
-```
 By Daniel Logee
 The Empire is famed for its superior generals and expert field
 commanders. When not in war, these same tacticians can be found
@@ -22983,8 +16273,6 @@ member from each opposing warband D6” in any direction. This
 move may not move a warband member off the board, nor may it
 place a member of the warband in direct harm (you can't force a
 warrior to jump off a building!).
-```
-(knights_templar@hotmail.com) Page 246 Assembled by Paul H
 
 
 ##### Kislev Ranger
@@ -23038,7 +16326,6 @@ modify one Exploration die by +/-1.
 
 ##### Mule Skinner
 
-```
 Mule Skinners are quite common wherever teams of animal are
 used. They are experienced warriors, accustomed to handling teams
 of draft and pack animals such as horses and (strangely enough)
@@ -23067,10 +16354,8 @@ the Common Skills section of the rulebook for more details.
 Whip Master: The Mule Skinner starts with the Whip
 Master Skill. See the Combat Skills section of the rulebook
 for more details.
-```
 ##### Norse Shaman
 
-```
 Even mighty warriors fear the seers of the great Norse tribes. It is
 said that these seers are mighty soothsayers and can tell when a
 warrior will meet his death in combat, a knowledge that any warrior
@@ -23098,8 +16383,6 @@ detailed in the Magic section and the Norse Shaman start
 with two Runes generated at random. See the Magic section
 for details. In addition the Norse Shaman may learn a new
 Rune instead on a new skill.
-```
-Assembled By Paul H Page 247 (knights_templar@hotmail.com)
 
 
 ##### Ogre Bodyguard
@@ -23133,7 +16416,6 @@ shooting rules.
 
 ##### Ogre Slave Master
 
-```
 By Ross Franks
 As of men, Ogre's too have fallen to the dark and corrupt ways of
 evil. Certain ruthless Ogre's have been recruited by the darker,
@@ -23180,8 +16462,6 @@ Fear: Ogres are large, threatening creatures that cause fear.
 See the Psychology section for details.
 Large Target: Ogres are Large Targets as defined in the
 shooting rules.
-```
-(knights_templar@hotmail.com) Page 248 Assembled by Paul H
 
 
 ##### Pit Fighter
@@ -23216,7 +16496,6 @@ Fighter may choose from the Pit Fighters Special Skill list.
 
 ##### Priest of Morr
 
-```
 By Todd Estabrook (legion@ennui.net)
 "Although we offer blessings upon a departing soul, that Morr may
 allow it passage through the realm of death, the soul is not our
@@ -23273,8 +16552,6 @@ Save the Dead: The Priest hates all models that can cast
 necromantic magic. Furthermore, he will not require upkeep
 after a battle against warbands containing any undead.
 [The idea was by Todd Estabrook & Ed Hastings]
-```
-Assembled By Paul H Page 249 (knights_templar@hotmail.com)
 
 
 ##### Priest of Ranald
@@ -23321,7 +16598,6 @@ a new skill.
 
 ##### Priestess of Shallaya
 
-```
 Priestesses of Shallaya are pacifistic healers.
 30 Gold Crowns +15 Gold Crowns upkeep
 May be Hired: The Priestess of Shallaya may be hired by
@@ -23350,8 +16626,6 @@ warband, the Priestess of Shallaya is reluctant to enter the
 fray herself. As such the Priestess of Shallaya will never
 charge (although if charged she will defend herself).
 [The idea was by Ed Hastings: killershrike@home.com]
-```
-(knights_templar@hotmail.com) Page 250 Assembled by Paul H
 
 
 ##### Road Warden
@@ -23409,7 +16683,6 @@ practiced territory.
 
 ##### Shadow Warrior
 
-```
 Shadow Warriors are High Elves from the desolate war-ravaged
 land of Nagarythe, where the Witch King once held court. This leads
 their kin to mistrust and ostracise them. These angry lost souls are
@@ -23445,11 +16718,8 @@ Hates Dark Elves: Shadow Warriors seethe with bitterness
 when facing Dark Elves and follow the rules for Hatred
 Infiltration: A Shadow Warrior can infiltrate. See the
 Skaven special skill of the same name.
-```
-Assembled By Paul H Page 251 (knights_templar@hotmail.com)
 
 
-(knights_templar@hotmail.com) Page 252 Assembled by Paul H
 
 ##### Thief
 
@@ -23490,7 +16760,6 @@ captured by whatever authorities there may be and is hung
 
 ##### Warlock
 
-```
 Wizards, shamans, mystics, all these and more are associated with
 men who can wield the power of magic. All magic is potentially
 dangerous and originates from Chaos, so those blessed (or cursed)
@@ -23516,10 +16785,8 @@ casts spells like any other magicians, and the Warlocks starts
 with two spells generated at random from the Lesser Magic
 list. See the Magic section for details. In addition the
 Warlocks may learn a new Spell instead on a new skill.
-```
 ##### Warrior Priest of Sigmar
 
-```
 In the centre of Sigmarhaven is a wooden Temple of Sigmar and this
 attracts many fledgling warrior priests. To test their mettle against
 the horrors of the Cursed City, the priesthood hire out their acolytes
@@ -23548,7 +16815,6 @@ may use the Prayers of Sigmar as detailed in the Magic
 section and the Warrior-Priest start with two prays generated
 at random. See the Magic section for details. In addition the
 Warrior-Priest may learn a new Pray instead on a new skill.
-```
 
 ##### Witch
 
@@ -23578,7 +16844,6 @@ spells generated at random from the Charms & Hexes spell
 list. See the Magic section for details. In addition the Witch
 may learn a new Spell instead on a new skill.
 
-```
 Potions: The Witch is an expert as brewing all manner of
 curious concoctions. A single hero in the warband who have
 hired the Witch may partake of such a potion before the
@@ -23610,7 +16875,6 @@ such the Witch will never charge (although if charged she
 will defend herself) and will always try to stay at least 8"
 away from enemy models and must move away if she finds
 herself within this distance.
-```
 ##### Witch Hunter
 
 From the Nemesis Crown
@@ -23636,7 +16900,6 @@ Rating: A Witch Hunter increases a warband's rating by 15
 points plus 1 point for each Experience point Witch Hunter
 has.
 
-```
 Profile M WS BS S T W I A Ld
 Witch Hunter 4 4 4 3 3 1 4 1 8
 Weapons/Armour: Duelling or Crossbow Pistol, sword and
@@ -23657,8 +16920,6 @@ out of action the Witch Hunter waives part of his fee, at the
 end of the battle he only charges 5gc upkeep. Chaotic bands
 only includes bands truly chaotic, not merely nonhuman, e.g.
 not skaven, dark elves etc.
-```
-Assembled By Paul H Page 253 (knights_templar@hotmail.com)
 
 
 ##### Wolf Priest of Ulric
@@ -23709,7 +16970,6 @@ Companion is killed it will cost 25 GC to replace.
 
 ##### Wood Elf Ranger
 
-```
 Elves are a wondrous race: lithe, tall, beautiful, long lived and
 magical. For the most part they are feared and distrusted by
 humans, though some live in the cities amongst men and offer their
@@ -23745,8 +17005,6 @@ two times as far away as other warriors (i.e., twice his
 Initiative value in inches).
 Seeker. When rolling on the Exploration chart, the Wood Elf
 Ranger allows you to modify one dice roll by -1/+1.
-```
-(knights_templar@hotmail.com) Page 254 Assembled by Paul H
 
 
 ### Dramatis Personae
@@ -23780,16 +17038,13 @@ because they are recovering from their wounds.
 Heroes who are looking for a special character cannot look
 for rare items. Decide which special character you are
 
-```
 seeking, and how many Heroes have been sent to look for
 him. Roll a D6 for each searcher. If any of the searchers rolls
 under his Initiative he has located the special character. You
 can, of course, only find one of a particular special character,
 no matter how many searchers roll under their Initiative.
-```
 #### Hire fee
 
-```
 The warband must pay the hire fee for the special character
 when he is recruited, and after each battle he fights, including
 the first, you must pay an upkeep fee. These fees are
@@ -23797,10 +17052,8 @@ indicated in the entries. This money comes from the
 warband’s treasury in the same way as buying new weapons
 or recruiting new warriors. If you don’t have enough gold to
 pay for the special character he leaves the warband.
-```
 #### Experience, injuries and equipment
 
-```
 Special characters have their own equipment. Only they may
 use this equipment; it can’t be given to other warriors.
 Furthermore, you cannot buy extra weapons or equipment for
@@ -23811,8 +17064,6 @@ out of action.
 Each special character’s description tells you how much to
 add to your warband’s rating for including them (taking into
 account their experience and abilities).
-```
-Assembled By Paul H Page 255 (knights_templar@hotmail.com)
 
 
 ##### Aenur, the sword of twilight
@@ -23846,7 +17097,6 @@ immense size which is rumoured to have arcane properties.
 Certainly no one who has been struck by it has ever lived to tell the
 tale.
 
-```
 Hire Fee: 150 gold crowns to hire.
 May be Hired: Aenur may be hired by any Lawful, Lawful /
 Neutral or Neutral warbands except for Dwarven Warbands.
@@ -23871,8 +17121,6 @@ incredibly long single edged sword, which Aenur uses with
 consummate skill. This sword allows Aenur to parry, adds +1
 to his Strength and causes a critical hit on a roll of 5-6 when
 rolling to wound.
-```
-(knights_templar@hotmail.com) Page 256 Assembled by Paul H
 
 
 ##### Johann the knife
@@ -23907,7 +17155,6 @@ quality of Johann’s daggers is beyond compare, as he has taken
 them from the bodies of the many wealthy, but unskilful, opponents
 he has despatched in vicious duels.
 
-```
 Hire Fee: 70 gold crowns to hire; +30 gold crowns upkeep
 cost. Johann is addicted to Crimson Shade, so you may hire
 him for one portion of Crimson Shade if you wish.
@@ -23930,8 +17177,6 @@ reputation for being the greatest knifefighter in whole of the
 Empire. Unlike normal warriors, he can combine the Knife
 Fighter and Quick Shot skills (yes, he can throw six throwing
 knives in one turn if he does not move!).
-```
-Assembled By Paul H Page 257 (knights_templar@hotmail.com)
 
 
 ##### Bertha Bestraufrung, High Matriarch of the Sisterhood
@@ -23967,7 +17212,6 @@ battle. She will only come to the aid of a Sisters of Sigmar
 warband if their enemy has a higher warband rating. Consult
 the table below, and roll a D6 to see whether Bertha will aid
 
-```
 the warband. A request for Bertha to aid the warband must be
 made for each battle you wish her to help the warband.
 Difference in Rating Dice roll required
@@ -23996,8 +17240,6 @@ knows all six prays. See the Magic section for details.
 Sigmar’s Handmaiden. Bertha is favoured above all other
 Sisters in the eyes of Sigmar. She gains +2 to all her rolls to
 see whether her Prayers of Sigmar are granted.
-```
-(knights_templar@hotmail.com) Page 258 Assembled by Paul H
 
 
 ##### Veskit, high executioner of Clan Eshin
@@ -24033,7 +17275,6 @@ the dark allies of Mordheim. Veskit’s unblinking eye misses
 nothing, and those he hunts on the streets of Mordheim never return
 to the Gargoyle Gate.
 
-```
 Hire Fee: 80 gold crowns to hire; +35 gold crowns upkeep
 cost.
 May be Hired: Veskit may only be hired by Skaven
@@ -24064,8 +17305,6 @@ and so they would stab (or shoot) you in the back if the need
 arose. Veskit will shoot in to combat with on care for the
 safely of others. For each shot roll a D6 on a 1-3 the shot hits
 a friendly model.
-```
-Assembled By Paul H Page 259 (knights_templar@hotmail.com)
 
 
 ##### Ulli & Marquand
@@ -24108,7 +17347,6 @@ Marquand 4 5 4 3 3 2 5 2 8
 Weapons/Armour: Sword, Light armour, throwing knives.
 Skills: Step aside, Knife Fighter, Lightning Reflexes.
 
-```
 Ulli Leitpold
 Marquand’s sidekick and partner in crime. Little is known about this
 huge framed Middenheimer, apart from it is unwise to be caught
@@ -24127,7 +17365,6 @@ Profile M WS BS S T W I A Ld
 Ulli 4 4 4 4 3 2 4 2 7
 Weapons/Armour: Two-handed warhammer, Light armour.
 Skills: Strongman, Unstoppable charge, Combat master.
-```
 SPECIAL RULES
 These special rules apply to both Ulli and Marquand.
 Wanderer: Ulli and Marquand only ever stays with a
@@ -24153,7 +17390,6 @@ gains control of the pair until the end of the game. Only the
 player who has control of the pair is forced to pay the
 additional amount so that if the original controlling player
 
-```
 loses control of them through a bribe he doesn’t have to pay
 the counter-bid.
 This bribing business can of course get quite interesting in
@@ -24178,8 +17414,6 @@ the event that one is taken Out of Action, the other will
 attempt to drag him off of the battlefield and to safety.
 In a campaign, if one member of the partnership retires then
 the other will retire.
-```
-(knights_templar@hotmail.com) Page 260 Assembled by Paul H
 
 
 ##### Nicodemus, the cursed pilgrim
@@ -24233,7 +17467,6 @@ mistake.
 From that day on, the life of Nicodemus has been an uninterrupted
 quest, a desperate search for a way to negate the curse of
 
-```
 unstoppable growth. The only remedy he has stumbled upon is a
 powerful potion concocted by a wise hermit he met in the World’s
 Edge Mountains. The potion’s ability to delay the effects of the
@@ -24277,8 +17510,6 @@ normal club while he’s wielding the Sword of Rezhebel (see
 Lesser Magic spells) in his right hand.
 Note: the Sword of Rezhebel is a spell and not a normal
 sword, therefore it cannot be used to parry.
-```
-Assembled By Paul H Page 261 (knights_templar@hotmail.com)
 
 
 ##### The Dark Jester
@@ -24343,7 +17574,6 @@ taunts his opponents distracting them and opening up their
 defences as they recklessly try to silence him. All enemy
 models in base-to-base contact with the Dark Jester are at
 
-```
 -1 to hit in hand-to-hand combat and their opponents are
 at +1 to hit those affected.
 Trip The Dark Jester lures his opponent toward him with
@@ -24375,8 +17605,6 @@ must make injury rolls for any attacks that take him to zero
 wounds and beyond whilst he was possessed all at once! This
 may of course result in the Dark Jester being ‘out of action’
 but such is the fickle nature of chaos...
-```
-(knights_templar@hotmail.com) Page 262 Assembled by Paul H
 
 
 ##### Countess Marianna Chevaux, Vampire Assassin
@@ -24434,7 +17662,6 @@ essence of garlic, which acts as Black Lotus when used
 against Vampires. She also has quite an extensive wardrobe
 of very expensive Bretonnian silk dresses!
 
-```
 Skills: Marianna has the following skills: Combat Master,
 Step Aside, Leap, Acrobat, Lightning Reflexes, Dodge, Jump
 Up and Scale Sheer Surface.
@@ -24481,8 +17708,6 @@ Marianna.
 The Noctu: The gemstone stolen from Serutat’s lair has
 powerful cloaking properties. The veil of shadow it creates
 reduces all shooting to hit rolls against Marianna by -1.
-```
-Assembled By Paul H Page 263 (knights_templar@hotmail.com)
 
 
 ##### A Struggle for Power
@@ -24498,7 +17723,6 @@ power of the Ogham Stones for all manner of unknown and
 nefarious practices. Truthsayers, the druidic warrior-wizards, the
 benevolent protectors of the Ogham magic grant their aid and
 
-```
 wisdom to the followers of Sigmar and his allies, their only purpose
 to thwart the Dark Master and his lackeys.
 The Dark Calling has even reach as far as the isle of Albion,
@@ -24508,7 +17732,6 @@ Dark Master has sent this Dark Emissaries to the city on
 Mordheim to collect as much Wyrdstone as they can. The
 Truthsayers have found out about this and followed them to
 Mordheim.
-```
 Dark Emissary
 2 Wyrdstone Shards + 2 Shards upkeep
 May be Hired: The Dark Emissary may be hired by any
@@ -24533,7 +17756,6 @@ The Spiral: A symbol of the Dark Master. It is a potent icon
 that protects the wearer from harm. It grants the Dark
 Emissary a 5+ save that cannot be reduced by anything.
 
-```
 Truthsayer
 3 Wyrdstone Shards + 1 Shard upkeep
 May be Hired: The Truthsayer may be hired by any Lawful,
@@ -24555,8 +17777,6 @@ The Triskele: The symbol of the Truthsayer’s office this
 icon protects them from harm with its benevolent energies
 granting the Truthsayer a 4+ save, which cannot be reduced
 by anything.
-```
-(knights_templar@hotmail.com) Page 264 Assembled by Paul H
 
 
 ##### Dijin Katal, The Renegade Assassin
@@ -24591,7 +17811,6 @@ demand that he be captured alive for the Hag Queen’s pleasure. Few
 know this Druchii’s chequered past when they hire him in fact most
 are not even aware that he is Druchii, such is their ignorance.
 
-```
 Hire fee: 85 gold crowns: 40 gold crowns upkeep.
 May be Hired: Dijin Katal may be hired by any Lawful /
 Neutral, Neutral, Neutral / Chaotic or Chaotic warbands
@@ -24634,8 +17853,6 @@ Wanderer: Dijin Katal only ever stays with a warband for
 the duration of the battle. A warband who used Dijin Katal in
 their last battle may not seek him out until they have fought
 at least one battle without him.
-```
-Assembled By Paul H Page 265 (knights_templar@hotmail.com)
 
 
 ##### Drenok Johansen, Wielder of the great axe
@@ -24665,7 +17882,6 @@ Icefang, his clan. Lifting the mighty axe above his head, his hair
 braids blowing in the wind he roared in defiance of world. His quest
 would be to bring honour to the death of his father.
 
-```
 Hire fee: 70 gold crowns to hire: +30 gold crowns upkeep.
 Maybe Hired: Norse and human warbands may hire Drenok.
 Rating: Drenok increases the warbands rating by 70 points.
@@ -24688,7 +17904,6 @@ The axe is the same as a double-handed weapon but it can
 also Parry and has a +1 modifier to injury rolls.
 Sabertooth Tiger Hide: Gives Drenok a 6 save in close
 combat and 5+ against missile fire.
-```
 ##### The Emissary of the Horned Rat, The Vermin Lord
 
 By Paul H
@@ -24715,7 +17930,6 @@ Profile M WS BS S T W I A Ld
 Vermin Lord 6 4 0 5 4 2 4 3 7
 Weapons/Armour: Doom Glaive
 
-```
 Special Rules
 Doom Glaive: The Doom Glaive is heavily ensorcelled with
 death magic. A hit from the Doom Glaive allows no Armour
@@ -24736,8 +17950,6 @@ and casts spells like any other magicians, and the Vermin
 Lord knows starts all six spells generated from the Magic list
 of the Skaven Magic User who summon it. See the Magic
 section for details.
-```
-(knights_templar@hotmail.com) Page 266 Assembled by Paul H
 
 
 ##### The Salesman
@@ -24775,7 +17987,6 @@ whole old world, leaving a bloody trail on his way. There are
 rumours that the Salesman has been seen in the Twisted Goat
 inn...
 
-```
 Hire Fee: It costs 90 GC to hire
 May be Hired: The Salesman may be hired by any Lawful,
 Lawful / Neutral or Neutral warbands.
@@ -24801,8 +18012,6 @@ being behind light cover.
 Wanderer: The "Salesman" never stays longer than one
 battle with a warband. You must fight another one without
 him until you are allowed to hire him again.
-```
-Assembled By Paul H Page 267 (knights_templar@hotmail.com)
 
 
 ### Beasts, Monsters & Townsfolk
@@ -24860,7 +18069,6 @@ Multiples: Your warband may have multiple Beast handles,
 but each must be for a defend animal type (i.e. Dogs, Horses,
 etc,).
 
-```
 Blacksmith
 Blacksmiths have one of the most essential jobs in most
 communities. They fix wagon wheels, repair farming
@@ -24882,8 +18090,7 @@ all normal, metal “hand to hand” weapons and armour may
 be purchased (and sold) at 75% of the base cost. This ability
 may not be used if the Blacksmith is taken out of action as he
 is recuperating.
-```
-```
+ 
 Cartographer
 The Cartographer is a map maker they can be found all
 around the settlements of Mordheim selling their maps.
@@ -24902,8 +18109,7 @@ exploration. He allows the band one reroll per exploration.
 However, you may not reroll a die that has been rerolled for
 some other reason. This ability may not be used if the
 Cartographer is taken out of action as he is recuperating.
-```
-```
+ 
 Farmer
 Strong in both muscle and will, Farmers will fight to protect
 their homes and land. Farmers prefer to use implements of
@@ -24913,8 +18119,6 @@ Farmer 4 3 3 4 3 1 3 1 8
 Weapons/Armour: The Farmers armed with an assortment
 of farming tools. Each model counts as being armed with a
 club and or dagger.
-```
-(knights_templar@hotmail.com) Page 268 Assembled by Paul H
 
 
 Fletcher
@@ -24970,7 +18174,6 @@ Special Rules
 Sales: Allows your warband to sell equipment for 3/4 the
 initial cost of the item and you have a +1 to find rare items.
 
-```
 Sigmarhaven Watch
 They always have an uncanny way of showing up whenever
 there is trouble in Sigmarhaven. They may not be hired and
@@ -24986,8 +18189,7 @@ Dagger, wear light armour and carry shields. The Marksmen
 are also armed with bows.
 Skills: Swordsmen count as having the skill Expert
 swordsmen.
-```
-```
+ 
 Street Urchins
 Street Urchins are young adults that live by trickery, thieving
 and begging. They are generally are hard to catch for any of
@@ -24999,8 +18201,7 @@ Street Urchin 4 2 2 2 3 1 4 1 6
 Weapons/Armour: The Street Urchin normally carries a
 dagger; some have been known to have used throwing knives
 as well.
-```
-```
+ 
 Town Cryer
 The town cryers are an usually breed of man, who would
 walk the streets call out the news of the day.
@@ -25009,8 +18210,7 @@ Town Cryer 4 3 3 3 3 1 4 1 8
 Weapons/Armour: The Town Cryer normally carries a Bell
 (Counts as a Club), a dagger and a sword, the Town Cryer
 wears light Armour.
-```
-```
+ 
 Townsfolk
 Townsfolk are just that...the merchants, commoners, shop
 owners and those that are destitute,
@@ -25019,8 +18219,6 @@ Townsfolk 4 2 2 3 3 1 3 1 7
 Weapons/Armour: The Townsfolk are armed with an
 assortment of makeshift weapons. Each model counts as
 being armed with a club and or dagger.
-```
-Assembled By Paul H Page 269 (knights_templar@hotmail.com)
 
 
 #### Attack Animals
@@ -25072,7 +18270,6 @@ Experience
 or Henchman that puts the Bear out of action gets a bonus +1
 experience.
 
-```
 Birds of Prey
 Falcons and other birds of prey are much sort after by beast masters
 as they are very useful for catching game and hindering opponents
@@ -25094,8 +18291,6 @@ Experience
 +1 For taking the Attack Animal out of action. The Hero
 or Henchman that puts the Bird of Prey out of action gets a
 bonus +1 experience.
-```
-(knights_templar@hotmail.com) Page 270 Assembled by Paul H
 
 
 Cave Squig
@@ -25139,7 +18334,6 @@ Experience
 or Henchman that puts the Cave Squig out of action gets a
 bonus +1 experience.
 
-```
 Chaos Hound
 Some Warriors of Chaos control packs of snarling, vicious war
 dogs. These creatures have been cruelly mutated by their exposure
@@ -25154,8 +18348,7 @@ Experience
 +1 For taking the Attack Animal out of action. The Hero
 or Henchman that puts the Chaos Hound out of action gets a
 bonus +1 experience.
-```
-```
+ 
 Cold One Beast-hound
 (Dark Elves only)
 The Dark Elves capture and breed many exotic creatures to fight for
@@ -25183,8 +18376,6 @@ Experience
 +1 For taking the Attack Animal out of action. The Hero
 or Henchman that puts the Cold One Beasthound out of
 action gets a bonus +1 experience.
-```
-Assembled By Paul H Page 271 (knights_templar@hotmail.com)
 
 
 Familiar
@@ -25243,7 +18434,6 @@ Experience
 or Henchman that puts the Familiar out of action gets a bonus
 +1 experience.
 
-```
 Hunting Cats
 Hunting Cats are ferocious beasts capable of tearing a man to
 pieces though they themselves are vulnerable to damage.
@@ -25259,8 +18449,7 @@ Experience
 +1 For taking the Attack Animal out of action. The Hero
 or Henchman that puts the Hunting Cat out of action gets a
 bonus +1 experience.
-```
-```
+ 
 Rat Familiar
 The Rat Familiar is a Giant Rat enchanted with the Scroll of
 the Rat Familiar.
@@ -25273,8 +18462,7 @@ table, instead of the promotion to hero status gives as a result
 "Improved spell casting: if the sorcerer is within 6'' of the Rat
 Familiar, he gain a +1 bonus when rolling dice to overcome
 the difficulty of a spell. This ability is cumulative."
-```
-```
+ 
 Snotling
 Snotlings are the smallest of the green-skinned races. They are not
 very intelligent and behave very much like extremely enthusiastic
@@ -25292,11 +18480,8 @@ Experience
 +1 For taking the Attack Animal out of action. The Hero
 or Henchman that puts the Snotling out of action gets a bonus
 +1 experience.
-```
-(knights_templar@hotmail.com) Page 272 Assembled by Paul H
 
 
-Assembled By Paul H Page 273 (knights_templar@hotmail.com)
 
 War Hound
 [Not available to Skaven]
@@ -25333,7 +18518,6 @@ Experience
 or Henchman that puts the Wild Hog out of action gets a
 bonus +1 experience.
 
-```
 Wolf
 Wolves prowl the lands of the Old World, hunting other weaker
 animals for prey. Occasionally, they will become very bloodthirsty
@@ -25360,7 +18544,6 @@ Experience
 +1 For taking the Attack Animal out of action. The Hero
 or Henchman that puts the Wolf out of action gets a bonus +1
 experience.
-```
 #### Ridden Animals
 
 Humans like their horses, Orcs their boars, Goblins their
@@ -25389,7 +18572,6 @@ Experience
 Henchman that puts the Chaos Steed out of action gets a
 bonus +1 experience.
 
-```
 Cold One
 Scaly, mean and stupid, these native creatures of the New
 World make excellent mounts upon which to fight.
@@ -25407,7 +18589,6 @@ Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the Cold Ones out of action gets a bonus
 +1 experience.
-```
 
 Elven Steed
 Elven steeds are graceful animals, but have a vicious
@@ -25471,7 +18652,6 @@ Experience
 Henchman that puts the Giant Wolf out of action gets a bonus
 +1 experience.
 
-```
 Mule
 Their stubbornness is legendary, but even so, these beasts of
 burden are occasionally ridden by Halflings, Dwarfs and
@@ -25496,8 +18676,7 @@ Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the Mule out of action gets a bonus +1
 experience.
-```
-```
+ 
 Nightmare
 The Vampire Counts occasionally need fell steeds to carry
 them about their business. Who cares if they're dead? They
@@ -25518,8 +18697,7 @@ Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the Nightmare out of action gets a bonus
 +1 experience.
-```
-```
+ 
 Riding Horse
 Riding horses are not trained for battle and will not normally
 attack an enemy. However, they are useful for moving rapidly
@@ -25531,11 +18709,8 @@ Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the Horse out of action gets a bonus +1
 experience.
-```
-(knights_templar@hotmail.com) Page 274 Assembled by Paul H
 
 
-Assembled By Paul H Page 275 (knights_templar@hotmail.com)
 
 Skeletal Steed
 Skeletal Steeds are ghastly creatures. They were once normal
@@ -25581,7 +18756,6 @@ Experience
 Henchman that puts the Tuckgor out of action gets a bonus
 +1 experience.
 
-```
 War Boar
 Large, ferocious and bad-tempered – a perfect mount for an Orc
 Warlord. Orc warbands occasionally make use of these noisome
@@ -25602,8 +18776,7 @@ Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the War Boar out of action gets a bonus
 +1 experience.
-```
-```
+ 
 War horse
 Warhorses are large, well-trained horses, quite at home in
 battle. They are primarily used by human warbands.
@@ -25618,7 +18791,6 @@ Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the War house out of action gets a bonus
 +1 experience.
-```
 
 #### Beasts
 
@@ -25656,7 +18828,6 @@ Experience
 Henchman that puts the Cockatrice out of action gets a bonus
 +1 experience.
 
-```
 Chaos Spawn
 Chaos Spawn are followers of chaos who have failed to pleases
 their gods. They have been mutated into a hideous mass of limbs,
@@ -25686,8 +18857,7 @@ Spawn.
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Chaos Spawn out of action gets a
 bonus +1 experience.
-```
-```
+ 
 Drake
 The Drake is a small dragon-like beast spews fire from it’s maw and
 is itself is immune to fire. An effective offensive creature, it can fly
@@ -25715,8 +18885,6 @@ Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Drake out of action gets a bonus +1
 experience.
-```
-(knights_templar@hotmail.com) Page 276 Assembled by Paul H
 
 
 Fenbeasts
@@ -25744,7 +18912,6 @@ Experience
 Henchman that puts the Fenbeast out of action gets a bonus
 +1 experience.
 
-```
 Forest Spirits
 Forest Spirits inhabit the trees of the forests of the Old World. In
 their solid form, they resemble a miniature version of a Treeman,
@@ -25784,8 +18951,6 @@ action gets a bonus +1 experience.
 +2 For taking the Beast out of action. The Hero or
 Henchman that puts the Tree-kin or Shadow Tree-kin, out of
 action gets a bonus +2 experience.
-```
-Assembled By Paul H Page 277 (knights_templar@hotmail.com)
 
 
 Giant Bats, Scorpions, Spiders
@@ -25833,7 +18998,6 @@ Scorpions or Spiders.
 Henchman that puts the Giant Bats, Scorpions or Spiders out
 of action gets a bonus +1 experience.
 
-```
 Gorgon
 The Gorgon is a horrifying snake-headed monster with long thin
 claws and sharp teeth through which the creature hisses like a
@@ -25858,8 +19022,6 @@ Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Gorgon out of action gets a bonus +1
 experience.
-```
-(knights_templar@hotmail.com) Page 278 Assembled by Paul H
 
 
 Harpies
@@ -25906,7 +19068,6 @@ Experience
 Henchman that puts the Harpy out of action gets a bonus +1
 experience.
 
-```
 Minotaur
 Minotaurs are large creatures, and have the torso of a hugely-
 muscled human, but the horned head of a wild bull. Their immense
@@ -25931,8 +19092,7 @@ Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Minotaur out of action gets a bonus
 +1 experience.
-```
-```
+ 
 Ogres
 Ogres stand twice as tall as a man, with massive muscles, jutting
 jaws and thick bony foreheads. Once an Ogre decides to act it is all
@@ -25957,8 +19117,6 @@ Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Ogre out of action gets a bonus +1
 experience.
-```
-Assembled By Paul H Page 279 (knights_templar@hotmail.com)
 
 
 Trolls
@@ -26007,7 +19165,6 @@ Experience
 Henchman that puts the Troll out of action gets a bonus +1
 experience.
 
-```
 Tunnel Dweller
 By Donato Ranzato
 I cannot begin to describe to appearance of these horrible
@@ -26036,11 +19193,8 @@ dweller.
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Tunnel dweller out of action gets a
 bonus +1 experience.
-```
-(knights_templar@hotmail.com) Page 280 Assembled by Paul H
 
 
-Assembled By Paul H Page 281 (knights_templar@hotmail.com)
 
 Wild Boar
 Large, ferocious and bad-tempered – a perfect mount for an Orc
@@ -26066,7 +19220,6 @@ the Orc Hero. Sounds nasty, but Orcs don’t really care about
 the smell. Anyway the Orc would make a Goblin or Snotling
 clean off the wyrdstone for him.
 
-```
 Optional Rules
 For each wyrdstone shard the wild boar eats may bring on a
 mutation, Roll a D6 for each shard eaten, on a 5+ the wild
@@ -26094,7 +19247,6 @@ Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Wild Boar out of action gets a bonus
 +1 experience.
-```
 #### Daemons
 
 Daemon Special Rules
@@ -26119,7 +19271,6 @@ Immune to Poison: Daemons are created from who know
 what, and so all daemons are totally immune to all poisons
 and diseases.
 
-```
 Chaos Furies
 Profile M WS BS S T W I A Ld
 Chaos Fury 4 4 0 4 3 2 4 1 8
@@ -26133,7 +19284,6 @@ Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Chaos Fury out of action gets a
 bonus +1 experience.
-```
 
 ##### Khorne
 
@@ -26178,7 +19328,6 @@ of Khorne.
 Henchman that puts the Bloodletter of Khorne out of action
 gets a bonus +1 experience.
 
-```
 Flash Hound of Khorne
 Flesh Hounds are the hunting beasts of Khorne. They are daemonic
 hounds with heads both reptilian and canine. They have a thick hide
@@ -26196,8 +19345,6 @@ of Khorne.
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Flash Hound of Khorne out of action
 gets a bonus +1 experience.
-```
-(knights_templar@hotmail.com) Page 282 Assembled by Paul H
 
 
 ##### Nurgle
@@ -26238,7 +19385,6 @@ of Nurgle.
 Henchman that puts the Plaguebearer of Nurgle out of action
 gets a bonus +1 experience.
 
-```
 Nurglings of Nurgle
 Nurglings feed upon the pus and slime that dribble from the sores of
 a Great Unclean One. They are minute images of Nurgle himself
@@ -26266,8 +19412,7 @@ Nurgle.
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Nurglings of Nurgle out of action
 gets a bonus +1 experience.
-```
-```
+ 
 Beast of Nurgle
 The Beasts of Nurgle are gigantic and slug-like. Their heads are
 topped by a fringe of fat tentacles that ooze a paralysing slime.
@@ -26293,8 +19438,6 @@ Nurgle.
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Beast of Nurgle out of action gets a
 bonus +1 experience.
-```
-Assembled By Paul H Page 283 (knights_templar@hotmail.com)
 
 
 ##### Slaanesh
@@ -26322,7 +19465,6 @@ of Slaanesh.
 Henchman that puts the Daemonette of Slaanesh out of action
 gets a bonus +1 experience.
 
-```
 Fiends of Slaanesh
 The Fiend of Slaanesh is a bizarre daemon, a mixture of scorpion,
 reptile and human. With its long barbed tail, the Fiend can strike
@@ -26343,7 +19485,6 @@ Slaanesh.
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Fiend of Slaanesh out of action gets a
 bonus +1 experience.
-```
 ##### Tzeentch
 
 Tzeentch is the Great Sorcerer, the god of magic. He is known as the
@@ -26371,7 +19512,6 @@ Experience
 +1 Experience for each wound he inflicts on the Horror of
 Tzeentch.
 
-```
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Horror of Tzeentch out of action gets
 a bonus +1 experience.
@@ -26394,8 +19534,6 @@ Tzeentch.
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Flamer of Tzeentch out of action gets
 a bonus +1 experience.
-```
-(knights_templar@hotmail.com) Page 284 Assembled by Paul H
 
 
 #### Undead
@@ -26450,7 +19588,6 @@ Experience
 Henchman that puts the Ghost out of action gets a bonus +1
 experience.
 
-```
 Ghosts
 Made by McAber (Mats Carlsson), with input from the
 Mordheim E-group list, especially David Stillberg.
@@ -26511,8 +19648,6 @@ Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Ghost out of action gets a bonus +1
 experience.
-```
-Assembled By Paul H Page 285 (knights_templar@hotmail.com)
 
 
 Skeletons
@@ -26538,7 +19673,6 @@ Experience
 Henchman that puts the Skeleton out of action gets a bonus
 +1 experience.
 
-```
 Zombies
 Zombies are fresh corpses brought back to life by foul necromancy.
 Being more recently dead than Skeletons they retain more of their
@@ -26559,7 +19693,6 @@ Experience
 +1 For taking the Beast out of action. The Hero or
 Henchman that puts the Zombie out of action gets a bonus +1
 experience.
-```
 #### Monsters
 
 Black Pegasus
@@ -26598,7 +19731,6 @@ Pegasus.
 Henchman that puts the Black Pegasus out of action gets a
 bonus +2 experience.
 
-```
 Enormous Worm
 These are enormous carnivores that burrow straight through
 solid ground in search of small (adventurer sized) morsels.
@@ -26613,7 +19745,6 @@ day light, this is why the Enormous Worm has D3+2
 initiative. If the Enormous Worm is fighting at night in
 counts as having an initiative 6.
 Poisoned Attack: The Enormous Worm attacks are poisoned
-```
 - attacks are considered as strength 6, but this will not
 modify any armour saves.
 Scaly Skin: The Enormous Worm has scaly Skin. (4+
@@ -26628,7 +19759,6 @@ Enormous Worm.
 Henchman that puts the Enormous Worm out of action gets a
 bonus +2 experience.
 
-(knights_templar@hotmail.com) Page 286 Assembled by Paul H
 
 
 Treeman (Giant Oak)
@@ -26659,7 +19789,6 @@ Treeman.
 Henchman that puts the Treeman out of action gets a bonus
 +2 experience.
 
-```
 Young Giants
 Giants are said to be forged from the earth itself. They are powerful
 creatures given to rage easily and often rampage throughout the
@@ -26705,8 +19834,6 @@ Giant.
 +2 For taking the Monster out of action. The Hero or
 Henchman that puts the Young Giant out of action gets a
 bonus +2 experience.
-```
-Assembled By Paul H Page 287 (knights_templar@hotmail.com)
 
 
 Young Hydra
@@ -26768,7 +19895,6 @@ results will cause it to lose multiple attacks in this way (if
 taken to 0 Attacks or fewer, the Hydra may not attack until it
 recovers).
 
-```
 Experience
 +1 For wounding the Monster. Any Hero or Henchman
 earns +1 Experience for each wound he inflicts on the Young
@@ -26776,8 +19902,7 @@ Hydra.
 +2 For taking the Monster out of action. The Hero or
 Henchman that puts the Young Hydra out of action gets a
 bonus +2 experience.
-```
-```
+ 
 Young Dragon
 Profile M WS BS S T W I A Ld
 Young Dragon 6 4 0 5 5 5 6 4 7
@@ -26821,8 +19946,6 @@ Dragon.
 +2 For taking the Monster out of action. The Hero or
 Henchman that puts the Young Dragon out of action gets a
 bonus +2 experience.
-```
-(knights_templar@hotmail.com) Page 288 Assembled by Paul H
 
 
 Young Wyvern
@@ -26874,7 +19997,6 @@ Wyvern.
 Henchman that puts the Young Wyvern out of action gets a
 bonus +2 experience.
 
-```
 Young Griffon
 Profile M WS BS S T W I A Ld
 Young Griffon 6 4 0 5 4 4 4 3 8
@@ -26909,19 +20031,12 @@ Griffon.
 +2 For taking the Monster out of action. The Hero or
 Henchman that puts the Young Griffon out of action gets a
 bonus +2 experience.
-```
-Assembled By Paul H Page 289 (knights_templar@hotmail.com)
-
-
-(knights_templar@hotmail.com) Page 290 Assembled by Paul H
 
 Young Hippogriff
 Profile M WS BS S T W I A Ld
 
-```
 Young Chimera
 Profile M WS BS S T W I A Ld
-```
 Young Hippogriff 8 4 0 5 4 4 4 2 8 Young Chimera 6 3 0 5 5 4 4 4 8
 Special Rules Special Rules
 Fear: Despite its smaller size and useless wings, the young
@@ -26936,7 +20051,6 @@ paper. An opponent damaged by this attack suffers an
 additional -1 penalty to his armour save, for a total armour
 save penalty of -3 (-1 for the bite and -2 for Strength).
 
-```
 Dragon Head: One of the Chimera’s three heads is that of a
 Dragon. When the Dragon head breathes, flames leap from its
 mouth. It can use these flames as a weapon if it wishes. This
@@ -26947,7 +20061,6 @@ flames on a dice roll of 4+. A model hit by flames takes a S3
 hit. Normal armour saves apply. Do not worry about any
 buildings the template may cover; the Chimera’s fire is too
 weak to set them alight without prolonged exposure.
-```
 Will not Rout: The Hippogriff is far too greedy to abandon
 its hoard. It will automatically pass any Rout test or any other
 test that would cause it to leave its lair. It will not leave its
@@ -26969,7 +20082,6 @@ it recovers (during the Recovery phase of its next turn).
 Multiple knocked down results will cause it to lose multiple
 attacks in this way.
 
-```
 Lion Head: The last of the Chimera’s heads is that of a
 ferocious golden-maned lion with jaws of steel and razor-
 sharp teeth. One of the Chimera’s attacks is a bite by the lion
@@ -26980,7 +20092,6 @@ Will not Rout: The Chimera is far too greedy to abandon its
 hoard. It will automatically pass any Rout test or any other
 test that would cause it to leave its lair. It will not leave its
 lair for any reason.
-```
 Experience
 +1 For wounding the Monster. Any Hero or Henchman
 earns +1 Experience for each wound he inflicts on the Young
@@ -27006,3141 +20117,4 @@ Chimera.
 +2 For taking the Monster out of action. The Hero or
 Henchman that puts the Young Chimera out of action gets a
 bonus +2 experience.
-
-
-### Optional Rules
-
-This section includes a variety of rules that add an extra
-dimension to your battles in Mordheim. As they are additions
-to the basic rules they are not an essential part of the game,
-and you should agree with your opponent beforehand
-whether you are going to use any of them.
-We recommend that new players ignore this section to begin
-with, at least until you are familiar with the way the game
-works. If you consider yourself to be an experienced gamer
-then you’ll have no problem incorporating these elements.
-Some of these additional rules alter the game quite
-dramatically, and you are under no obligation to use any of
-them. They have simply been included for players who want
-to explore different aspects of the game.
-
-```
-This section includes a variety of rules that add an extra
-dimension to your battles in Mordheim. As they are additions
-to the basic rules they are not an essential part of the game,
-and you should agree with your opponent beforehand
-whether you are going to use any of them.
-We recommend that new players ignore this section to begin
-with, at least until you are familiar with the way the game
-works. If you consider yourself to be an experienced gamer
-then you’ll have no problem incorporating these elements.
-Some of these additional rules alter the game quite
-dramatically, and you are under no obligation to use any of
-them. They have simply been included for players who want
-to explore different aspects of the game.
-```
-#### New critical hit charts
-
-Depending on what weapon your warrior is using, you may roll on one of the following Critical Hit charts. For example, if
-your warrior is using a sword, roll on the Bladed Weapons chart. All the rules governing critical hits given in the main rules
-also apply to these tables.
-
-##### Missile weapons
-
-(Bows, crossbows, blackpowder weapons, throwing knives etc.)
-1-2 Hits a Weak Spot. The missile penetrates its target’s armour.
-Ignore all armour saves.
-3-4 Ricochet. If there are any other models within 6", the closest
-enemy model is also hit. Roll to wound and take any saves as
-normal for both targets.
-5-6 Master Shot. The missile hits an eye, the throat, or some other
-vulnerable part. The target suffers 2 wounds instead of 1. There is
-no armour save.
-
-##### Bludgeoning weapons
-
-(Clubs, maces, hammers, flails, double-handed hammers etc.)
-1-2 Hammered. The target is knocked off balance. Your opponent
-may not fight this turn if he hasn’t already fought.
-3-4 Clubbed. The hit ignores armour saves and saves from helmets.
-5 Wild Sweep. Your opponent’s weapon is knocked from his hand.
-If he is carrying two weapons, roll to see which one he loses. He
-must fight with whatever back-up weapon he has in his equipment
-for the rest of this combat (or fight unarmed if he has no other
-weapons). Roll to wound and take armour saves as normal.
-6 Bludgeoned. The victim automatically goes out of action if he fails
-his armour save. Even if he has several wounds remaining, he will
-be taken out of action by this attack.
-
-##### Bladed weapons
-
-(Swords, axes, double-handed swords etc.)
-1-2 Flesh Wound. This attack hits an unprotected area, so there is no
-armour save.
-3-4 Bladestorm. The warrior unleashes a virtual hail of blows. The
-attack causes 2 wounds instead of 1. Take armour saves separately
-for each wound. Remember that, as with other critical hits, if an
-attack causes multiple wounds for other reasons as well, you choose
-the highest number of wounds.
-5-6 Sliced! The strike ignores armour saves, causes 2 wounds, and
-your warrior gains +2 to any Injury rolls.
-
-##### Unarmed combat
-
-```
-(War dogs, warhorses, Zombies, Possessed, animals etc.)
-1-2 Body Blow. Your opponent staggers, allowing you to seize the
-initiative and make an additional attack. Immediately roll to hit and
-to wound. Any saves are taken as normal.
-3-4 Crushing Blow. The blow lands with tremendous force. You
-gain +1 to the Injury roll if your opponent fails his save.
-5-6 Mighty Blow. With a mighty punch or flying kick, you send
-your opponent sprawling to the ground. The attack ignores armour
-saves and you gain +2 to any Injury rolls.
-```
-##### Thrusting weapons
-
-```
-(Spears, halberds, lances etc.)
-1-2 Stab. With a quick strike, you penetrate your opponent’s
-defences. You gain +1 to any Injury rolls. Armour saves are taken as
-normal.
-3-4 Thrust. The thrust lands with great force and the target is
-knocked down. Take armour saves as normal and see whether the
-model suffers a wound.
-5-6 Kebab! The thrust knocks the target back with titanic force,
-ripping apart armour and puncturing flesh. The attack ignores
-armour saves and you gain +2 to any Injury rolls. The victim is
-knocked backwards D6" and the attacker follows, staying in base
-contact. Any other models involved in the combat are separated and
-only the model which struck the blow and his target are still
-considered to be in combat. If the target collides with another
-model, the other model is hit once at S3.
-```
-Assembled By Paul H Page 291 (knights_templar@hotmail.com)
-
-
-#### Escaping from combat
-
-Warriors that are engaged in hand-to-hand combat at the start
-of their own turn may try to escape from combat during their
-movement phase. Such fighters are assumed to have realised
-that the odds are against them and decided that it is just too
-dangerous for them to continue.
-Declare which of your warriors will try to escape from
-combat at the start of your movement phase, at the same time
-as you declare charges. Turn the models around to show this.
-Take a Leadership test for each warrior trying to escape from
-combat. This represents his efforts to find the right time to
-escape. If he passes, the warrior can move up to double his
-normal Movement rate away from combat and the enemy he
-was fighting, in any direction.
-
-```
-If he fails, his opponent is allowed to make 1 automatic hit
-against the warrior who is trying to escape, and the fleeing
-warrior (provided he survives) will run 2D6" directly away
-from combat. He will have to take a Leadership test at the
-beginning of his next turn.
-If successful he will stop, but may not do anything else
-during that turn. If the test is failed, he will continue to run
-2D6" towards the closest table edge and must test again the
-following turn if he is still on the table.
-If a warrior is charged whilst he is fleeing, the charger is
-moved into base contact with him as normal, but the fleeing
-warrior will then immediately run a further 2D6" towards the
-table edge, before any blows can be struck.
-```
-#### Rewards of the Shadowlord
-
-When a Magister or Mutant from a Possessed warband has accumulated enough experience, instead of picking a skill,
-he may roll on the Rewards table below. This represents the pilgrimage of the Mutant or Magister to the Pit, where he
-can beseech a favour from the Shadowlord himself. Roll 2D6.
-2 Wrath of the Shadowlord! The warrior is mutated
-beyond recognition and vanishes into the ruins,
-joining the many other horrors that roam Mordheim.
-3-6 Nothing Happens. The capricious Shadowlord
-ignores the pleas of his servant.
-7-8 Mutation. The warrior develops a severe mutation.
-Roll a D6. On a roll of 1 you lose a single point from
-one of your warrior’s characteristics (chosen by
-you), due to atrophy, or some such degrading
-mutation. On a roll of 2 or more you may choose
-which one of the mutations listed in the Cult of the
-Possessed Warbands section your warrior has been
-rewarded with.
-9-10 Chaos Armour. The warrior’s body becomes
-encrusted with an arcane, all enveloping suit of
-armour. This confers a basic 4+ save, but does not
-affect the model’s ability to cast spells or move in
-any way.
-
-```
-11 Daemon Weapon. The warrior receives a weapon
-with a bound Daemon inside it. This weapon adds
-+1 to his Strength in close combat, grants a +1
-bonus on all to hit rolls using it. The user may
-choose the weapon’s form (a sword, an axe, etc),
-though it will not have any of the special abilities
-normally associated with common weapons of that
-type. An axe with a bound Daemon, for example,
-will not benefit from the usual extra save modifier.
-12 Possessed! A Daemon takes over the soul and body
-of the warrior. He immediately gains +1 Weapon
-Skill, +1 Strength, +1 Attacks and +1 Wounds.
-These increases do not count towards his maximum
-characteristics. The warrior loses D3 of his skills
-(chosen by the player) and may no longer use
-weapons or armour, except for Chaos Armour or
-Daemon weapons.
-```
-(knights_templar@hotmail.com) Page 292 Assembled by Paul H
-
-
-#### Mounted Warriors
-
-By Robert J. Walker and Roger Latham
-Horses are rare and expensive in Mordheim, but they do allow warriors to move quickly, so as long as the steed stays on the
-streets and does not venture into the ruined buildings, where it could easily stumble and fall. By using the following rules, you
-can include mounted Heroes in your games.
-
-##### Model Representation
-
-If you wish to include riding beasts or tamed animals you
-will need to have models to represent them. For mounted
-warriors you will need both a mounted miniature and a model
-on foot. It is advised not to glue the rider on but to use ‘blue-
-tack’ or something similar so that he may be removed when
-on foot and his mount is unridden.
-
-##### Riding Animals
-
-Most warriors in Mordheim can only dream of owning a
-riding animal. Expensive to buy, expensive to keep and
-requiring skill to ride, they are a mark of status beyond the
-reach of lowly henchmen. To those with the necessary wealth
-and skill, however, they are a priceless possession, enabling
-their rider to move rapidly across the battlefield, aiding him
-in combat with an advantage of height and weight, and in
-some cases, fighting in their own right.
-
-##### Mounted models in Mordheim
-
-A warrior and his horse are treated in all respects as a single
-model. Should the rider be taken out of action, then the entire
-model is removed from the battle.
-Mounted warriors use the rider’s Leadership value for all
-Leadership-based tests. When the warrior is attacked, use the
-rider’s Toughness and Wounds.
-In close combat, a warhorse can make 1 attack, but a normal
-horse has no Attacks characteristic and therefore does not
-attack in close combat.
-Armour, called barding, may be purchased for a warhorse,
-(refer to the Trading chart). It adds a further +1 bonus to the
-model’s armour save, but subtracts one from its Movement.
-A normal horse may not wear barding. A barded warhorse is
-only killed on a serious injury roll of ‘1’ if the model goes
-out of action.
-
-##### Special Rules
-
-Mounting Animals: It requires a full move to mount or
-dismount a riding creature and the rider may not shoot or cast
-magic whilst doing so. A mount or its rider may not run or
-charge in the same turn that the warrior mounts or dismounts
-unless the rider has a Cavalry Skill that allows this.
-Not Indoors: Mounts cannot normally be ridden indoors or
-underground, unless playing a specially devised scenario that
-allows this.
-Dense Terrain: Riding mounts are rare both amongst the
-ruins of Mordheim and in the claustrophobic jungles of
-Lustria. The dense terrain makes riding difficult and large
-numbers of riders are highly ineffective. Thus in those
-settings a warband may only have a maximum of two mounts
-(not including those belonging to Hired Swords). In more
-open settings, such as the open fields in the countryside
-around Mordheim or the deserts of Khemri, a warband may
-have as many mounts as they can afford.
-Controlling a Mount: The Cavalry Skills may be used by
-warriors who have a riding animal, but only after the skill
-Ride has been gained; warriors which come provided with a
-riding animal are assumed to possess the Ride skill already.
-
-```
-Warriors without this skill may still ride animals, but must
-test against their Leadership if hit by any missile and at the
-beginning of any combat phase when a standing enemy is in
-base contact. If the test is failed they lose control of their
-mount and must roll on the Whoa, Boy! Table (see below).
-Note if an enemy is not standing, the mounted warrior is not
-considered to be in combat and thus does not need to test for
-loss of control.
-Two Weapon Fighting: Mounted warriors may not fight
-with two weapons, although a shield or buckler may be used
-as normal. Two-handed weapons are not permitted. The use
-of a pistol in the first round of hand-to-hand combat replaces
-the model’s usual weapon.
-Armour Bonus: All riding animals give their riders a +1
-armour save bonus.
-Bolting Mounts: In certain circumstances, a mount may bolt.
-A bolting mount must make a Leadership test at the
-beginning of the owning player’s turn; if successful it stops
-running, otherwise it continues fleeing. The easiest way to
-determine the direction a mount bolts is to use an scatter dice.
-If you do not have one, then roll 2D6 and use the clock-face
-method. Taking the direction the horse is facing as 12 and
-directly behind as 6, the horse will bolt in the appropriate
-direction on the clock-face.
-Stunned Riders: Stunned riders will fall from their mounts
-as indicated on the Whoa Boy! Table. Mounts which
-subsequently bolt may be remounted should the warrior make
-base contact with the horse before it leaves the table. Note
-that whether the mount leaves the table or not, it will be
-recovered unscathed after the battle.
-Leading Animals: On occasion, a warrior may want to lead
-a riding animal rather than riding it. A warrior may only lead
-one riding animal unless he has the Animal Handling skill,
-for that particular animal, in which case he can lead as many
-as he wishes. Groups of led animals are tethered together and
-must maintain base contact with each other; at least one must
-be in base contact with the warrior leading them. Riding
-animals that are being led do not roll for loss of control. If
-required to make a Leadership test (e.g. when attacked by a
-fear causing enemy) they use the Ld of the warrior leading
-them. A warrior leading riding animals may move and fight
-as normal, but must maintain base contact at all times.
-Unled Animals: Riding animals which are not being either
-led or ridden will remain stationary but must make a
-Leadership test at the beginning of their turn. If this is failed,
-they will bolt, using the rules above.
-Jumping: A horse or warhorse may jump over an obstacle up
-to 2" in height with no movement penalty.
-Shooting at mounted warriors: Because of the size of a
-mounted warrior, any shooter may always pick one as a
-target, even if there are enemies closer.
-Targeting Mounted Warriors: Enemies may not target a
-ridden horse, whether by missiles or in hand-to-hand combat.
-The rider will always be seen as the greater threat. Due to
-their prominence, any mounted warrior may always be
-```
-Assembled By Paul H Page 293 (knights_templar@hotmail.com)
-
-
-chosen as a target by a shooter even if there are enemies
-closer. However the shooters do NOT gain +1 to hit - the
-rider is still the same size as before.
-Mounts and campaigns: If a mounted warrior is taken out of
-action, roll a D6 after the battle. On a 1-2, the mount is killed
-and removed from the warband roster.
-
-##### Losing Control
-
-If a mounted warrior is wounded, then the player must roll on
-the Whoa Boy! Table. This replaces the normal injuries chart.
-If critical hits are suffered then roll as many times as are
-required, taking the most serious result.
-
-##### Whoa Boy! Table
-
-```
-1-2 The rider is temporarily disorientated and his mount rears
-up. The rider keeps his seat but must spend his next turn
-stationary regaining control, unable to move or shoot. If
-attacked, treat the rider as fallen down.
-3-4 The rider falls off his mount and is stunned, taking an
-additional S2 hit in the process with no armour save. In
-addition, roll 1D6: on a roll of 1-3, the mount immediately
-bolts 3D6" in a random direction and continues until it has
-left the table – the mount may be recovered after the battle;
-on a roll of 4-6, the mount remains stationary and the
-warrior may remount once recovered. Note: the mount does
-not count as unridden or unled in this instance.
-5-6 The rider and his mount crash to the ground together. The
-rider and mount are automatically out of action. In addition,
-roll a D6: on a roll of 1-2 the mount lands on top of its rider,
-crushing him. If this happens the warrior must roll twice on
-the serious injuries chart after the battle. In addition, after
-the battle roll a D6: on a roll of 1-2 the mount was crippled
-or killed by the fall and removed from the warband roster.
-```
-(knights_templar@hotmail.com) Page 294 Assembled by Paul H
-
-
-#### Vehicles of the Empire
-
-From The Empire in Flames
-There are three principal modes of transport in the Empire: travel by boat, by riding animals, such as horses and mules, and
-travel by wagon or coach. Riding animals have already been covered above. Here we will cover the rules for travel via boat
-and wagon.
-
-##### Wagons
-
-This covers carts, stagecoaches and all two- and four-wheeled
-forms of transport commonly found in the Empire.
-Movement
-A wagon’s movement is determined by how laden it is with
-passengers and cargo. Therefore throughout a game, a
-wagon’s move may alter due to unloading or loading up of
-more passengers and cargo. Consult the table below to
-determine movement. Wagons cannot charge, climb, hide,
-run or flee.
-Turns
-Wagons, regardless of size, may make a single turn of up to
-45 degrees at the end of its movement. It may then apply the
-lash if desired. Make turns by pivoting the vehicle from its
-mid-point.
-Applying the Lash!
-There are many reasons why a wagon driver would want to
-urge his beasts to go faster – if he is being pursued by bandits
-or mutants, for example! By applying the lash to his draft
-beasts, the driver of a wagon can attempt to gain some extra
-movement. After the wagon has moved normally, the player
-may roll a D6. On the score of 2+ this indicates how many
-extra inches the wagon may move ahead in a straight line. On
-the roll of a 1 something drastic has happened. Roll on the
-table below:
-D6 Result
-1-2 Steeds Tiring – The draft animals are growing tired – if the
-driver applies the lash next turn you must halve the score
-rounding fractions up.
-3-4 Driver Shaken – Due to the wagon’s speed the driver is
-thrown all over the place and may not apply the lash next
-turn as he recovers his composure.
-5-6 Out of control – Make a roll on the Out of Control
-Wagon Movement
-No. of passengers / cargo quota Applying the lash!
-Standard Movement
-1 (driver – compulsory) 10 +D6
-2-3 8 +D6
-4-6 6 +D6
-
-Terrain
-Difficult Ground: If a wagon enters difficult ground roll a
-D6. On a score of a 1 immediately make a roll on the Out of
-Control table, otherwise the wagon is fine.
-Very Difficult Ground: If a wagon enters very difficult
-ground immediately make a roll on the Out of Control table
-with a modifier of +1.
-Walls/Obstacles: If a wagon collides with a wall or other
-solid obstacle it comes to an immediate halt. The wagon
-suffers D3 hits at a Strength of 7 (see below).
-Impassable Ground: If a wagon moves onto impassable
-ground it is immediately destroyed and each crew
-member/draft animal must make an Injury roll. Remove the
-wagon and place any surviving crew within 3" of the crash
-site.
-
-```
-Collisions
-If a wagon collides with another wagon both suffer D3
-Strength 7 hits (roll location and damage as normal below).
-In the case that either attackers or defenders block the way of
-a wagon and it cannot move around them then the wagon will
-move through the models, even if they are from the defending
-warband. All of the models touched by a wagon that is forced
-to move through them must roll lower or equal to their
-Initiative or suffer a S4 hit with all of the consequences.
-Warriors that are out of action cannot get out of the way of a
-wagon and are therefore automatically hit. Whenever a
-wagon collides with anything roll a D6, on a score of a 1
-make an Out of Control test.
-Transport
-For the sake of simplicity all wagons and coaches may
-transport up to six human-sized warriors or smaller (let’s be
-having no Ogre wagoneers now!) or the equivalent in cargo
-(this will be covered in greater detail in the Scenarios
-section). One crewman must be allocated as the driver and
-one may ‘ride shotgun’ with him. The driver may do nothing
-else but drive whilst the wagon is moving as he is too busy
-controlling the reins. In the event that the driver is knocked
-down, stunned or taken out of action a crew member riding
-shotgun may take over the reins and become the new driver.
-Mounting/Dismounting
-A friendly warrior may board a stationary wagon by simply
-moving into contact with it (wagons are only considered
-stationary if they didn’t move in their last turn). Place the
-model either on the wagon or move it with the wagon in base
-contact to simulate it being transported. Similarly, a warrior
-may dismount from a stationary wagon by moving away
-from contact. Warriors may attempt to mount or dismount
-from a moving wagon by passing an Initiative test. If they
-fail, they take falling damage of D3 automatic hits at a
-Strength equal to half the vehicle’s speed. Warriors may
-attempt to board a moving wagon from either another moving
-wagon or from a moving mount with a modifier of -1 to their
-Initiative test – this counts as a charge.
-Losing Control of the Draft Animals
-Apart from if a wagon becomes a runaway, control may also
-be lost by attackers attempting to wrestle away the control of
-the draft animals from the driver. Apart from eliminating the
-driver and taking control of the reins, the easiest way to
-control the draft animals is for a warrior to leap onto the back
-of one and ride it. A warrior can successfully leap onto a draft
-animal by passing an Initiative test (the warrior may add +1 if
-they have the Ride skill). If the test is failed then the warrior
-takes falling damage as usual. The warrior must pass a
-Leadership test to control the beast and therefore control the
-direction and speed of the wagon. The driver can only wrestle
-back control of the wagon by eliminating the warrior (any
-injury will suffice). If a warrior has successfully mounted a
-draft animal he may attempt to cut it free from the team on a
-4+ although he will lose control of the wagon itself in doing
-so.
-```
-Assembled By Paul H Page 295 (knights_templar@hotmail.com)
-
-
-Shooting
-Shooting from a wagon: Crew may fire from aboard a
-wagon and have a 360 degree arc of fire. Shooters suffer a
-penalty of -1 to hit for firing from a moving surface.
-Profile M WS BS S T W I A Ld
-
-Wagon - - - - 8 4 - - -
-Wheel - - - - 6 1 - - -
-Horse 8 - - 3 3 1 3 - -
-Horse 6 - - 3 3 1 2 - -
-Shooting at a wagon: Warriors may shoot at a vehicle and
-gain a +1 to hit because it is a large target. If a hit is scored
-against a wagon then a roll must be made on the Location
-table opposite to decide what part of the vehicle has been hit.
-Loss of a Draft Creature
-Any time a steed is hit, regardless of whether or not it is
-injured, make a roll on the Out of Control table. If a steed is
-stunned or knocked down it will be dragged along by its
-associates until it recovers – next turn reduce speed by 1/2
-(with a draft of two animals) or 1/4 (with a draft of four
-animals) and the driver may not apply the lash. If the steed is
-taken out of action then permanently reduce the speed by the
-previous amount until the driver can cut the animal free on
-the roll of a 5+. If the last steed is stunned, knocked down or
-taken out of action then the wagon comes to a halt and cannot
-move unless the steed recovers – make an Out of Control roll
-with +2 to the result.
-
-```
-Out of Control
-D6 Result
-1-3 Swerve – The driver temporarily loses control and the
-wagon veers wildly off course. Roll a D6:
-1-3 – Swerves 45 degrees to the left.
-4-6 – Swerves 45 degrees to the right.
-The wagon then moves another 6" in the predetermined
-direction.
-4-5 Runaway – The steeds bolt and the driver loses control of
-them. Each turn randomly determine the direction that the
-wagon goes in. Roll a D6:
-1-2 – Swerves 45 degrees to the left.
-3-4 – Swerves 45 degrees to the right.
-5-6 – moves straight ahead.
-The wagon will always move at full speed and roll for
-applying the lash discounting the effects of a 1 all the time it
-is a runaway. Each turn the driver may attempt to take
-control of the steeds. The driver must pass a Leadership test
-to regain control of the beasts. The crew may not fire missile
-weapons all the time the wagon is a runaway as they are
-trying to hold on for dear life.
-6 Loss of control – The wagon goes wildly out of control.
-Roll a D6:
-1 – The wagon swerves to the right (see above).
-2 – The wagon swerves to the left (see above).
-3-4 – The wagon comes to an immediate halt.
-5 – The wagon’s yoke pole snaps and the draft animals
-gallop off. The vehicle moves 6" straight ahead and then
-comes to a halt. The vehicle may no longer move.
-6 – The wagon either jack-knifes or hits a rock or a
-depression in the road and goes into a roll! The wagon
-moves D6" in a random direction determined by the
-Artillery Scatter dice. Any warriors/beasts it collides with
-take the usual collision damage. All the crew and draft
-animals take D3 Strength 4 hits. The wagon is now wrecked.
-Wagon Location
-D6 Result
-1-2 Draft creature – Roll to wound and injure as normal – see
-loss of draft creature below for effects.
-3 Crew– Randomly select a crew member and roll to wound
-and injure as normal – see Loss of Driver overleaf if
-applicable. Any crew member that is wounded must make
-an immediate Initiative test – if this is failed he has fallen
-from the wagon and must test for falling damage.
-4-5 Chassis – Roll to damage the vehicle using the stat line
-below.
-6 Wheel – Roll to damage the wheel using the stat-line below.
-Wheel Damage
-D6 Result
-1-4 Wheel damaged – The wagon’s speed is permanently reduced
-by -2".
-5-6 Wheel flies off! – The wagon immediately swerves (see the
-swerve result on the Out of Control table above) and then comes to a
-halt. The wagon is now immobile. Roll a D6, on the score of 5-6 the
-wagon goes into a roll (see the roll result on the Out of Control table
-above).
-```
-(knights_templar@hotmail.com) Page 296 Assembled by Paul H
-
-
-Assembled By Paul H Page 297 (knights_templar@hotmail.com)
-
-Wheel Damage: If a wheel is damaged this is potentially
-disastrous. Randomly determine which wheel has been
-damaged and roll on the table above adding +1 to the result if
-the wheel has been damaged before.
-Chassis Damage: When the wagon loses its final point of
-damage/wound it is destroyed, comes to an immediate halt
-and each crew member/draft animal must make an Injury roll.
-Combat
-Warriors may strike a stationary wagon in close combat by
-charging and striking against the part they are in contact with
-(draft creatures / crew / wheel / chassis).
-Chassis/wheels: Attacks hit automatically – just resolve
-damage.
-Crew: Crew on board a stationary wagon are counted as
-defending an obstacle and a 6 is required to hit them
-regardless of Weapon Skill. If a crew member is taken out of
-action an attacker may enter/board the wagon in his next turn.
-Draft Animals: The draft animals may be attacked in the
-usual manner although an attacker may choose to cut the
-draft animals free instead which requires a 2+ on a D6 to be
-successful. Draft animals that are cut free count as un-led
-beasts (see above).
-
-```
-Warriors may attempt to attack a moving wagon by charging
-it in the normal way. Note: Charging a moving wagon does
-not bring it to a halt – the combat round is played out and
-then the wagon is free to move in its next Movement phase –
-if it is a runaway then it is compelled to move. Warriors are
-advised to attack to the side and rear because if they attack to
-the front they are liable to be run down in the wagon’s next
-turn! Because attacking a moving wagon is a haphazard affair
-the attacker must determine the location struck first by rolling
-on the Location table above. Both the chassis and wheels are
-hit automatically just resolve damage. The draft animals are
-attacked in the normal manner although an attacker may not
-attempt to cut the reins on moving draft animals. The crew
-are difficult to strike and therefore a 6 is require to hit them
-regardless of Weapon Skill.
-If the attackers manage to successfully board the wagon
-either when it was stationary or by leaping aboard it as it was
-moving they may engage the crew in combat in the usual
-manner without any penalties or modifiers. Note: Attackers
-or defenders that are injured fighting aboard a wagon must
-pass an Initiative test or fall off.
-```
-##### Boats
-
-This covers small rowing boats through to large river barges.
-Note that these are very basic rules to cover small skirmishes
-on the rivers of the Empire, a more inclusive set of rules to
-cover ocean-going ships is currently in development.
-Movement
-Boats move 6" when moving with the current of a river (the
-direction of the river flow must be established before the start
-of the game). Boats may move 4" when travelling against the
-current. Boats must move at least half of their movement
-allowance unless they have been anchored or tethered to the
-shore.
-Turns
-Boats, regardless of size, may make a single turn of up to 45
-degrees at the end of their movement.
-Terrain
-A boat can encounter natural terrain such as rocks or
-manmade obstacles such as logjams specifically placed to
-obstruct its movement. Both the aforementioned terrain types
-are impassable to boats and they will suffer D3 Strength 7
-hits should they move into them and also come to an
-immediate halt.
-Collision
-If a boat collides with another boat both suffer D3 Strength 7
-hits (roll location and damage as normal below). In the case
-that either attackers or defenders block the way of a boat and
-it cannot move around them then the boat will move through
-the models, even if they are from the defending warband. All
-of the models touched by a boat that is forced to move
-through them must roll lower or equal to their Initiative or
-suffer a S4 hit with all of the consequences. Warriors that are
-out of action cannot get out of the way of a wagon and are
-therefore automatically hit. Whenever a boat collides with
-anything roll a D6, on a score of a 1 make an Out of Control
-test.
-
-```
-Transport
-All the above rules for wagons apply. In addition, because
-boats are considerably bigger than wagons, they can therefore
-transport a lot more.
-A rowboat can transport up to six human-sized warriors or
-smaller, or the equivalent in cargo.
-A river boat can transport up to eight human-sized warriors
-or smaller, or the equivalent in cargo.
-A barge can transport up to twelve human-sized warriors or
-smaller, or the equivalent in cargo.
-Mounting/Dismounting
-See above for wagons, except warriors that fail an Initiative
-test for attempting to board a moving boat do not suffer
-damage but fall into the water – see the rules for swimming.
-Shooting
-Shooting from a wagon: Crew may fire from aboard a boat
-and have a 360 degree arc of fire. Shooters suffer a penalty of
--1 to hit for firing from a moving surface.
-Shooting at a wagon: Warriors may shoot at a vehicle and
-gain a +1 to hit because it is a large target. If a hit is scored
-against a boat then a roll must be made on the Location table
-opposite to decide what part of the vehicle has been hit.
-Profile M WS BS S T W I A Ld
-Rowboat - - - - 5 3 - - -
-Riverboat - - - - 8 4 - - -
-Barge - - - - 8 8 - - -
-```
-
-Boat Location
-D6 Result
-1 Propulsion – Roll to damage the boat using the stat-line
-above – if damaged roll again on the Propulsion table.
-2 Rudder – Roll to damage the rudder using the stat-line
-above – if damaged the boat may only turn from now on
-after coming to a complete halt by using a combination of
-oars/boat-hooks.
-3-4 Crew – Randomly select a crew member and roll to wound
-and injure as normal – see loss of driver above if applicable.
-Any crew member that is wounded must make an immediate
-Initiative test – if this is failed he has fallen from the boat.
-5-6 Hull – Roll to damage the boat using the stat-line above.
-
-```
-Propulsion Damage
-Propulsion Damage: Either the oars or the mast and rigging
-have been damaged. Roll a D6 and consult the table.
-D6 Result
-1-2 Sail damaged/oars splintered – The boat’s speed is
-permanently reduced by -1".
-4-5 Rigging damaged/oars splintered – The boat’s speed is
-permanently reduced by -2".
-6 Mast falls! – With the loss of the mast (or all of the oars in
-the case of an oared vessel) the boat may only drift 2" in the
-direction of the current. All crew must immediately test on
-their Initiative to avoid the falling mast (this does not apply
-to oared vessels obviously). If a crewman fails this test he
-receives an immediate Strength 6 hit.
-Hull Damage: When the boat loses its final point of
-damage/wound it is destroyed and sinks immediately. Each
-crew member falls into the water and must make the
-appropriate tests for swimming.
-Combat
-See wagons above. Note: Swimming warriors may not attack
-boats!
-```
-(knights_templar@hotmail.com) Page 298 Assembled by Paul H
-
-
-#### Blackpowder weapons
-
-During the period in which Mordheim is set, the technology
-needed to make blackpowder weapons was still rare, and
-pistols, handguns, blunderbusses, etc were prone to
-malfunctions, jams and misfires.
-The following rules were not included in the Shooting
-section, as they would have slowed down the game, but if
-you want to create more realistic games, feel free to use the
-Misfire rules below.
-If you do use these rules, you might want to reduce the cost
-of the weapons (we suggest by 20%) to keep the balance of
-the game fair.
-
-##### Misfires
-
-Each time you roll a 1 when rolling to hit with a blackpowder
-weapon (handgun, pistol, blunderbuss, warplock pistol, etc),
-roll a D6 and consult the chart below.
-
-##### Blackpowder Weapons Misfires
-
-```
-1 BOOM! The weapon explodes with a deafening roar! The
-shooter suffers an S4 hit (this does not cause critical hits)
-and the weapon is destroyed.
-2 Jammed. The weapon is jammed and useless for the
-remainder of the battle. You may use it as normal in the
-next battle.
-3 Phut. The weapon fails to fire and you must remove the
-shot. This means that the shooter must wait one extra turn
-before he can fire this weapon again.
-4-5 Click. The weapon fails to fire, but there is no additional
-effect.
-6 KA-BOOM! The weapon roars and spits a cloud of black
-smoke and flame! The shot hits the intended target and
-counts as having +1 Strength.
-```
-#### Fighting individual battles
-
-One thing we discovered during play testing Mordheim was
-that after a while very experienced warbands became
-virtually unbeatable when fighting against novice warbands.
-Whilst this might be amusing for the player with the
-experienced warband, it will result in a very one-sided
-battle, where the inexperienced warband is swiftly crushed,
-without even a chance to put up a decent fight. Although the
-underdogs system balances this out somewhat, it is often
-much more fun to play with roughly equal forces, especially
-when introducing new players to the game.
-The following rules allow both players to pick warbands up
-to an agreed equal value, say 1,000 gold crowns. This will
-make the game much more even, as the two forces will be
-roughly similar in strength. Use the Warband lists to recruit
-and equip your warband. The lists tell you which Heroes,
-Henchmen and equipment your warband is allowed to use.
-The limitations of the list ensure that the warbands are
-reasonably balanced.
-You must recruit at least three warriors, including a leader,
-and you may either follow the limitations for the maximum
-size of a warband given in the list or agree a maximum size
-with your opponent.
-
-##### Weapons & armour
-
-Each Hero you recruit may be armed with one or more
-weapons and any armour chosen from the appropriate list.
-Different types of Hero are restricted to different types of
-weapon. The Equipment lists for the individual warbands tell
-you exactly what equipment is available. You may buy rare
-weapons and armour. Pay the appropriate prices for these as
-given in the Trading charts.
-Every model in each Henchman group must take exactly the
-same weapons and armour. This means that if your
-Henchman group has four warriors, and you want to buy
-them swords, you must buy four swords.
-
-```
-The weapons you choose for your warriors must be
-represented on the models. This way your opponent will
-know what he is facing (and he will not be shocked to
-discover in the middle of the game that the warrior who looks
-like a Halfling with a bow is in fact an Ogre with a club!).
-The exceptions to this rule are knives and daggers, which you
-may assume are tucked in boots or concealed in their clothes,
-if not actually represented on the model.
-```
-##### Upgrading heroes
-
-```
-In a campaign game, you must earn statistic increases, but in
-one-off games they can be bought beforehand. You may
-increase the starting characteristics of your Heroes by paying
-the cost in gold crowns given below.
-Note that all races have maximum statistics values. These can
-be found in the Experience section of this rulebook.
-Movement +15gc per point.
-Weapon Skill +15gc per point.
-Ballistic Skill +15gc per point.
-Strength +25gc for the first increase/+35gc for each
-additional increase.
-Toughness +30gc for the first increase/+45gcfor each
-additional increase.
-Wounds +20gc for the first increase/+30gc for each
-additional increase.
-Initiative +10gc per point.
-Attacks +25 GC for the first increase/+35gc for
-each additional increase.
-Leadership +15gc per point.
-Skills +40gc for each skill. You may choose one
-skill at this price for each characteristic
-increase you take. Choose from the skills
-normally available to your warrior.
-```
-##### Ready for battle
-
-```
-The warband is now ready to fight against your opponent.
-```
-Assembled By Paul H Page 299 (knights_templar@hotmail.com)
-
-
-#### Night Fights
-
-By Donato Ranzato & Chris Van Tighem
-The night surrounded them like a blanket of darkness, and
-Yarri felt like he was wading in an sea of black. The nights at
-Mordheim are bitterly cold, and so dark the darkness seems
-to suck in and engulf all light. The monsters too, seem to
-favour the night, and the unexpected happens more than any
-warband leader would like.
-Yarri sat hushed next to his old friend, his handgun cocked
-and ready to blow away towards any sound he heard. He
-jumped as a hand touched his shoulder, but soon he calmed
-his mind thinking it was only Grum trying to gather his
-bearings. However, his calm nerves lasted only a second
-longer as the grip tightend and long claws dug into his
-shoulder.
-Yarri cried out for help, but all he received was a strangled
-cry emanating from the darkness and a brutal blow the
-head...
-
-##### Summary of rules:
-
-All missile weapons firing at short range are at -1 to hit, and
-at long range -2 to hit.
-All psychology tests (Fear, All Alone, etc,) are taken with a -
-1 modifier to Ld. This represents the increased unease of
-combatants in the dark.
-Fighters with all types of bows have the option of using
-Flaming arrows which they may search for and purchase
-prior to the game beginning instead of after the fight.
-However some restrictions do apply. The model moves at -1
-to its movement since braziers have to be carried in order to
-light the arrows. All attacks from flaming arrows count as
-flammable attacks and will cause double wounds on
-flammable creatures.
-
-```
-Creatures immune to psychology will be unaffected by
-darkness modifiers for psychology tests and will not flee
-faster. They simply shrug off the eerie effects of the darkness.
-The night is the time for wild and powerful magic. All
-spellcasters (except for those who uses prayers) benefit from
-a +1 to casting for the duration of battle. However, if a
-Wizard rolls doubles while casting they must immediately
-roll a D6. If the result of the roll is 1 the model is
-immediately taken out of action, if a 2 or 3 is rolled than the
-wizard has lost the ability to cast for the remainder of the
-battle and a roll of 4-6 no ill effects occur.
-A cavalry charges causes fear representing the visual and
-psychological impact of a cavalry charge from out of the
-gloom. However, if a one is rolled on the attack than the
-mounted figure must make an initiative check or be thrown
-from their mount (the mount had unsteady footing). The
-falling warrior takes a d3 Str.2 wounds and the mount,
-spooked by the fall will run off 3d6 inches away from the
-combat.
-While no creature can see in the dark there are a few that
-have adapted to life in darkenss. Through their use of smell,
-touch or some supernatural ability they tend to have an easier
-time after the sun sets than most. Any Skaven, Dwarf,
-Undead, or Beastmen may, once per turn reroll any result
-once. The second roll stands and if a one is rolled on the
-reroll than that warrior loses the benefit of the reroll for the
-remainder of the game.
-Note: If you are using the optional rule of random events -
-they now occur on a 1 or 2, instead of just 1.
-```
-#### The Catacombs
-
-By Donato Ranzato
-"I would not look at the marching things. That I desperately resolved as I heard their cracking joints and nitrous wheezing
-above the dead music and the dread tramping. It was merciful that they did not speak... but by Sigmar! Their crazy torches
-began to cast shadows on the surface of those stupendous columns. Foulness should not have human hands and carry
-torches... living creatures should not have the heads of sheer insanity..." - Last page of the diary of Magnus Faustlich, also
-known as Magnus the Fearless
-What most people in Mordheim don't know, is that far below
-the sewers there are tunnels that were old even before
-Mordheim existed. They were there before Sigmar was born,
-and they could even be there before the Slann arrived. The
-Skaven have known of these ancient subterranean tunnels for
-years as they have found openings to these deeper regions
-during their excavations of the sewers below the city. And
-what they found there scared them more then the cursed city
-above them. They know that there is something truly evil
-waiting in these primordial catacombs. Something older then
-the earth, maybe even older then the universe. And the
-meteor woke it up...
-
-##### Exploring the Catacombs
-
-Far below the earth the silence is ceaseless and oppressive. A
-terrible impression of the huge weight of suspended stone and
-earth is forced upon anyone who enters. Occasional gusts of
-wind pass down the main tunnel, causing candles and torches
-to gutter momentarily. There is no light, except for an
-occasional glow from livid purple or putrid green fungi -
-slimy stuff disgusting to touch. Side tunnels and tiny votary
-
-```
-alcoves frequently open to either side. Along the main tunnel,
-loathsome images panel the walls, depicting men with the
-heads of animals, animals with human limbs, and alien
-entities performing cruel, disgusting, and obscene rituals.
-Some parts of these black passages are obviously cut from
-the stone; other parts look like old watercourses or rock
-fractures; other parts look as if acids had eaten through the
-stone; still other parts have obviously been hacked clear by
-alien tooth and claw.
-It looks like the tunnels go in a straight line, and it is true that
-their direction is consistent, but the angles of the walls, floor,
-and ceiling constantly change, and the passages themselves
-may narrow as little as two feet across, or be as much as 15
-feet wide by 15 feet high. More strikingly, the ways
-constantly rise and fall; it is impossible to see very far ahead
-or very far behind. Even the glow of torches will not carry
-far. These tunnels have an organic feel, and leave the
-perception that some great alien beast had been imprisoned
-within the stone, had then gotten free, and the fighters now
-creep along the spaces left by its bones and sinews.
-```
-(knights_templar@hotmail.com) Page 300 Assembled by Paul H
-
-
-##### Rules
-
-This is not a separate scenario but more of a set of rules to be
-used by the moderator when he wants to situate a scenario in
-the catacombs deep below Mordheim. The moderator could
-read aloud the above section describing the tunnels the
-warbands walk in to give the players a general impression of
-their surroundings. Its up to the individual moderator how he
-likes to represent these ancient catacombs on his table. It is
-advised to use separate tiles or board sections to represent the
-more narrow parts of the tunnels. Most fighting between the
-warbands will probably be fought out in the larger and wider
-parts of the catacombs. Both players should place their
-warbands in a marching order, no more then two models
-wide. This marching order represents the warbands exploring
-the narrow tunnels.
-Fighters exploring the catacombs must make a Fear Test
-every other turn. If failed then that fighter won't walk any
-further until he succeeds again on his Fear test. He may test
-every turn to see if he will walk further down these ancient
-tunnels.
-Because the lines of sight will vary, if the warband include
-toters of ranged magickal or physical attacks, moderators
-should continue to monitor the march order of the warband to
-ascertain if those weapons or spells can be brought to bear.
-
-##### Encounters beneath the City
-
-```
-Not all of these encounters have an immediate effect on a
-scenario. Some of the encounters are just to try to scare the
-players and to give them a feeling for the atmosphere below
-the city. The moderator should roll once in each of the
-players Movement phases, before that player has moved.
-3D6 EVENT
-3 No encounter; warband proceed without incident.
-4 A random fighter stumbles and falls; slimy luminous moss
-coats his hands, elbows, and knees, which he is unable to
-rub off. Because the fighter is now illuminated all hits
-against him are at +1.
-5 One of the fighters hear snatches of conversation; two men
-are saying that intruders may be in the tunnels. The voices
-cannot be located.
-6 Random fighter slips and falls. That fighter suffers a S3
-hit.
-7 Warm liquid drips steadily from the tunnel ceiling; the
-stone beneath is slick and red; the blood has no source.
-8 A foul stench engulfs the warband; each fighter must take
-a Toughness test on 1D6 or the fighter is at -1S for D3
-turns.
-9 Some shapeless thing is glimsed; but it leaves neither trace
-nor track of its passage.
-10 Macabre chuckles, growls, or groans are heard in the
-blackness; maybe a single sound, maybe a hideous
-cacaphony of noise erupts without reason.
-11 A violent blast of wind extinguishes all unshielded candles
-and torches. The warband is now in complete and utter
-darkness. A fighter may try to re-lite a torche once a turn
-by rolling below his Initiative on 1D6.
-12 A small rock falls from the ceiling and strikes a random
-fighter; the fighter suffers a S4 hit on the head and if
-wounded is automatically Stunned unless he wears a
-helmet, in that case the fighter counts as being Knocked
-Down.
-13 The floor of the tunnel is seen to be bordered by jet-black
-roses.
-14 Cave-in rains rocks on the warband. Each fighter must
-make a Initiative test or suffer D3 S4 hits.
-15 Narrow, deep pit; leading fighter must make an Initiative
-test to avoid the slippery edge. If the roll fails roll a 2D6 to
-determine depth of pit. The fighter suffers D3 hits of
-Strenght equal to the depth of the pit.
-16 1D6+4 Tunnel dwellers appear. Roll one die; odd result
-indicates Tunnel dwellers come from the rear, even result
-indicates the Tunnel dwellers come from the front. See
-below for Tunnel dwellers rules.
-17 Random fighter must make a Fear test. If he fails he
-perceives that, in every direction, the brick walls of the
-tunnel are rhythmically moving in and out, like breathing
-lungs. The fighter must flee 2D6" back in the direction he
-came from.
-18 The warband stumbles upon the lair of the Ancient One.
-Luckily it is not paying attention to these puny creatures.
-Because of the sanity-blasting image of this Elder Being
-all of the members of the warband must make a Fear test
-with a –2 modifier. If more then three members succeed,
-the warband can get away with 3D6 Gold Crowns and one
-random Magic Item.
-```
-Assembled By Paul H Page 301 (knights_templar@hotmail.com)
-
-
-#### Sewer Fighting
-
-By Christian Ellegaard, Thanks to the guys on the Egroups Mailing List who have come up with ideas and suggestions for
-Sewer Fighting rules
-As every good big city in the Empire, Mordheim has its own
-sewer that helps the city staying clean. Being a big, complex
-system of corridors, water pipes and gutters to lead the water,
-all the waste of the inner as well as the outer parts of the city
-are lead through these channels to the mighty river Stir, that
-flows through Mordheim. Once in a while it happens that the
-ground collapses above a sewer tunnel and creates an
-entrance to the lower parts of the ruins, and many a warband
-has explored these dungeons.
-In addition, some of the most cold-blooded and fearless
-warriors tend to establish their lair in the sub-urban terrain,
-enjoying the humid, ill-smelling climate and the many
-different mutated beasts that provide their food when
-everything else fails. Sometimes it even happens that two
-warbands clash with each other underground, and often they
-will get into fight believing that the enemy is in possession of
-Wyrdstone, gold, treasures or whatever. Sewer fighting is
-quite different from fighting under the stars. Warriors tend to
-panic much easier - even the slightest dripping of water or a
-harmless bat crossing the corridor may scare a warrior, and
-knowing that the enemy is nearby does not make things any
-better.
-Therefore, when fighting underground, use the following
-rules:
-
-##### Sewers
-
-The sewer corridors can be represented by the standard
-Warhammer Quest floorplans, but since these may be a bit
-small for Warhammer Skirmish games it may be necessary to
-make your own terrain or use any appropriate items for
-creating a sewer-like scenery.
-Later in this article I shall come up with a suggestion of how
-you easily and quickly can make your own sewer terrain.
-
-##### Darkness
-
-Despite all warriors usually bring torches with them in the
-sewers and even a few Heroes might have some lanterns, the
-sewers are still darker than the night. Therefore, warriors in
-the sewers have a limited range of vision which makes
-shooting much harder.
-Before the game, each warrior in each warband must be given
-a special sewer Line of Sight. Roll a D6 for the warrior and
-add an additional D6 for each full 2 Initiative the warrior has.
-The result is the number of inches that the warrior can see!
-Skaven, Dwarves, Vampires, Ghouls and the Possessed, who
-are all used to the dark conditions, may roll 2D6 + D6 for
-each full 2 Initiative points they have rather than only D6. In
-addition, Skaven may automatically re-roll any results they
-do not find satisfying, but they must accept the latter result
-regardless if it is worse.
-Dogs, feeling the terror that lurks in the sewers, will never
-enter the sewers. Warbands with any kind of dogs must
-therefore leave their pets outside!
-To make things easier, however, henchman groups are
-allocated a single Line of Sight instead of an individual
-number for each warrior. Use the highest Initiative of the
-group, representing the most agile and aware warrior warning
-
-```
-his comrades or pointing out special spots that they should try
-to hit.
-A warrior can shoot no longer than his maximum Line of
-Sight, and neither can he run any longer since that would
-mean he might run into some walls or other unexpected
-obstacles. Use the standard Short and Long ranges when
-shooting as described in the Mordheim rulebook.
-You can use small cardboard counters or dice to remember
-the Line of Sight of the different warriors.
-```
-##### Lanterns
-
-```
-Lanterns are very useful when fighting in sewers. Therefore,
-when playing sewer scenarios lanterns are bought at 10 Gold
-Crowns' cost rather than the standard cost, and only Heroes
-may carry them. Use the standard rules for lanterns even in
-the sewers.
-However, lanterns do not only make it easier for the user to
-see, but it also makes it much harder for the enemy to spot
-him because he is getting blinded by the bright light of the
-lantern. Any opponents that wish to shoot with missile
-weapons against a warrior with a lantern may ignore his
-standard Line of Sight because they are, after all, easier to
-spot in the darkness, but they will always, regardless the
-distance, hit on a D6 roll of 6.
-A Hero or a Henchman group with a lantern may re-roll if
-they fail the Leadership test to see if they may move, as
-described below.
-```
-##### Psychology
-
-```
-As already mentioned, the dark, smelly, plague-infested and
-horrible sewers of Mordheim can really scare a mortal man or
-beast to death, especially in a cut-throat fight against a deadly
-opponent.
-Therefore, all warbands, except Skaven who actually live
-there and the Undead that really has no fear, are subject to the
-following rules:
-Before each turn, each Henchman group must take a
-Leadership test based on their standard Leadership value
-without penalties. If they fail, then something has scared
-them - probably nothing else than their own shadow on the
-walls or a silly little rat scuttling over the muddy and dirty
-floor. The Henchmen may do nothing this turn, and if they
-are in close combat then they are only allowed to defend and
-parry any opposing attacks.
-If they succeed the test, then they may move as normal.
-If the group has a Hero with them, then they may re-roll one
-of the failed dice representing the Hero talking encouraging
-to them.
-All warriors in a warband get a -1 Leadership penalty for
-fighting in scary surroundings. Warriors are more likely to
-turn around and flee than in daylight, and at any ordinary
-Psychology tests they use their standard Leadership value -1.
-Note, however, that this does not apply when rolling for
-Leadership before a Henchman may move.
-```
-(knights_templar@hotmail.com) Page 302 Assembled by Paul H
-
-
-##### Dirty slimy floor
-
-Many of the major tunnels in a sewer are used for leading the
-worst dirt, faces and waste away from the city while other
-rooms are simply used for containing waste. Often it can be
-difficult to see if it is possible to trespass the floor, and
-therefore it sometimes appears that warriors jump into deep
-holes that are filled with old refuse.
-Generally there are 4 different kinds of floors:
-Muddy but clear: Old waste is laying here and there,
-although not in thick layers. The floor is rather clear, and it is
-possible to enter the floor and move as normal.
-Water: The floor is lowered so that it can lead water through
-the sewer, and the water reaches a normal man to his waist.
-That means that the warrior can choose to swim rather than
-walk through the water! In the beginning of any turn a
-warrior in water may swim. A warrior may swim no more
-than his total Movement rate. When a warrior is swimming it
-is impossible to hit him with any missile weapon. It is
-impossible to run through water despite warriors may walk
-normally.
-Deep sludge: The floor is covered by a thick layer of sludge
-and waste, and it makes it harder to move through. A warrior
-crossing a sludgy floor gets a -1 Movement penalty and
-becomes unable to run. In addition, enemies shooting at a
-warrior wading through deep sludge will suffer a -1 To Hit
-penalty because the sewage might take some of the shots that
-are directed against the warrior. If the warrior is engaged in
-Close Combat he will suffer a -1 To Hit penalty too because
-fighting in deep dirt is indeed harder than fighting on normal
-ground.
-Messy slippery floor: The floor is very slippery, and the
-warriors tend to trip over especially when running across the
-section. Each time a warrior walks over or moves from a
-merry slippery floor, roll a D6: On a result of 1 the warrior
-trips over and is knocked down. If the warrior is running,
-then he will fall over on a D6 roll of 1-3!
-You can either decide before the battle which type of floor
-the different sewer sections contain which is especially
-appropriate when fighting over your own, modeled terrain
-where you can represent the sludge, water or whatever on the
-floorplans, or you can decide it randomly while the battle is
-on. If you choose the latter option, roll 2D6 every time a
-warrior enters a new sewer section:
-Random floor table
-2D6 Result
-2-5 Deep sludge
-6-8 Muddy but clear
-9-10 Water
-11-12 Messy slippery floor
-
-##### Rotten planks
-
-```
-In many a sewer channel, wooden sidewalks have been built
-so that the sewer workers could easier pass through the
-tunnels. However, the bad climate in the sewers have meant
-that the wooden planks have rot, and here and there they are
-broken too.
-A warrior who wishes to run over a wooden bridge, sidewalk
-etc. or jump down on it must first pass an Initiative test,
-subtracting 1 from the die (natural 6's always fail). If the
-warrior fails he has crashed through the bridge and will fall
-down as described below.
-Place a special Crashed Planks counter (no, you can't find it
-in the boxed set - you got to make your own!) on the spot
-where the warrior's movement ended. Other warriors that
-might wish to cross a Crashed Planks counter must jump!
-Skaven, being very used to the tunnels, know exactly where
-to place their paws on the walkways without falling through.
-Therefore, Skaven automatically pass this Initiative test and
-may run freely over wooden walkways and bridges.
-```
-##### Face down in the sludge
-
-```
-Sometimes it happens that warriors fall down in the sewage
-or become knocked down in a close combat. This is very
-uncomfortable indeed!
-A warrior falling into the sewage from a higher point will get
-plunged into the slimy muddy sludge, and this is hard to
-escape! Measure the distance the warrior fell in inches, the
-distance being the number of turns the warrior will be in the
-sewage. However, no damage is done when hitting the
-sewage unlike falling down on a normal ground.
-If the warrior is wearing Heavy Armor then there is no
-mercy: The heavy metal plates are dragging the warrior
-down, and being unable to cut off the straps he will slowly
-suffocate... Tip: Do not run with warriors that are wearing
-Heavy Armor!
-In close combat it is also quite hard getting up again if being
-knocked down. Therefore, when a warrior wishes to get up
-after having being knocked down or stunned he must pass an
-Initiative test on a D6. Otherwise he will remain knocked
-down.
-```
-Assembled By Paul H Page 303 (knights_templar@hotmail.com)
-
-
-#### Fire
-
-By Steve Hart with help from the guys at the Mordheim e-mail list
-Mordheim even though now in ruins is still plagued with
-fires. Now left alone these fires can spread quickly through
-the ruins. These fires have many causes and on occasions
-warbands have been known to get caught in the midst of a
-raging fire while fighting.
-
-##### When and Where
-
-These fire rules are not for any specific scenario. The use of
-these rules is to add a bit more chaos to the battles that rage
-across the city. They can be added to any game as long as
-both players agree.
-
-##### Starting
-
-Before the game starts but after the terrain has been set up
-randomly choose one building to be on fire. Mark this
-building with a counter or plumes of smoke or any other way
-that you can think of.
-NOTE: If you are playing a scenario that focuses on a
-specific building (like defend the find) then the objective
-building cannot start the game on fire.
-
-##### It spreads!
-
-As the buildings burn, their flames can jump to other building
-quickly setting them ablaze. At the end of each players turn
-roll a dice for each building that is on fire and consult the
-chart below:
-1 GOES OUT: The fire has exhausted all the flammable
-materials in the building and goes out as quickly as it
-appeared.
-2 - 3 KEEPS BURNING: The flames continue the ravage the
-building but do not spread this turn.
-5 - 6 SPREADS: The fire spreads to the nearest (non-burning)
-building within 10"
-Roads cannot set on fire due to the lack of substantial burning
-items. If however you have a road that is covered in
-flammable object you can count this as the nearest building.
-
-##### Entering buildings on fire
-
-Entering a building that is surrounded in flame is a risky
-option but some will dare to venture into the flames.
-You must declare that a model is entering a building on fire
-before he/she does so. The model must now make a
-leadership test to overcome the fear of entering the building.
-If they pass this test they may enter the building. If the model
-fails then that model will not enter the building and cannot
-move for the rest of the turn.
-
-##### Moving inside
-
-Models inside the building have to constantly dodge flames
-and falling timber (like in the action films), and one mistake
-can stop even a hero in his tracks.
-
-```
-Models wishing to move while inside an ablaze building
-must pass an initiative test to do so, otherwise they cannot
-move (blocked by falling timber, flames etc.).
-```
-##### Climbing
-
-```
-Models may never climb the wall of building that are
-burning.
-```
-##### Damage
-
-```
-Funnily enough running around inside a building that is
-currently on fire is not good for ones health! At the end of
-each turn all models inside buildings that are ablaze must roll
-under their toughness on a D6.
-If a models rolls equal to his toughness then the smoke from
-the flames fill their lungs and prevents them from breathing
-for a turn. The model instantly becomes stunned.
-If the roll is over the models toughness statistic then the
-model instantly suffers D3 strength 3 hits that ignore all
-armour saves except magical ones.
-```
-##### Frenzy
-
-```
-The more unhinged inhabitants of Mordheim are less likely to
-care for the fact that the building they are entering is on fire
-(or they just don’t notice)
-Models that are subject to the frenzy rules are unaffected by
-the rules for entering and moving around inside buildings that
-are burning (they just don't care), but they still have to make
-a test on their toughness at the end of their turn.
-```
-##### Starting Fires
-
-```
-Models cannot start fire unless stated in their rules or by
-equipment that they are carrying.
-```
-##### Shooting
-
-```
-The roaring flames block most site into the buildings and the
-heat distorts the air around it causing it impossible to aim.
-You cannot shoot out of or into a building that is on fire.
-Neither may you shot through a building on fire.
-```
-##### Combat
-
-```
-Sometimes the fire will spread to buildings where opponents
-are fighting in hand to hand combat. Event though very
-dramatic the fighters are put into an even more reason to win
-(and then run).
-Hand to hand combat within a burning building is unaffected
-except that the models must roll at the end of their turn to see
-if they take damage from the flames.
-To charge another model while you are inside a burning
-building you must pass an initiative test. If this test is failed
-the model may do nothing in that movement phase. To charge
-from outside you must make a leadership test. Failing this
-test will also result in being able to do nothing in that
-movement phase.
-```
-(knights_templar@hotmail.com) Page 304 Assembled by Paul H
-
-
-#### Random Happenings
-
-Mordheim is a dark and sinister city – dangers lurk around every corner. Even the basic laws of nature cannot be relied upon.
-Mark Havener and Tim Huckelbery explain how these dangers can be introduced to your battles.
-These rules represent the weird and wonderful things that can
-happen in Mordheim which are beyond the control of players.
-These rules are intended to be optional and should only be
-used if agreed on by all players taking part. To determine if a
-random encounter occurs, roll a D6 at the start of each
-player’s turn. A result of 1 indicates a random encounter.
-Roll a D66 for the random encounter on the chart opposite to
-see what exactly is encountered and follow the directions.
-The player whose turn it is places any models that represent
-the encounter and they will act in each of his turns (that
-player doesn’t control their actions though, see the individual
-descriptions to see how the models act). This player is known
-as the ‘Encountering Player’, even though random encounters
-will frequently affect only his opponent or both players
-indiscriminately. The models that represent a random
-encounter must all be placed within 6" of a randomly
-determined board edge and they will remain within 2" of
-another member of their group at all times. Random
-
-```
-encounter members must be placed (and will remain, unless
-their description indicates otherwise) at ground level in the
-open. The Encountering Player places the models
-representing the random encounter, but note that they cannot
-initially be placed within 12" of any warband models.
-After being placed, many encounters will travel as quickly as
-possible (without running) towards the nearest warband
-model. For this purpose the nearest model is the model that
-the encounter can reach most quickly and encounter models
-will never climb the sides of a building to get at a warband
-member. What each encounter does from there is listed in its
-description. Note that charging models will engage as many
-warband members as they can reach, ganging up if some of
-them can’t reach different models. No more than one random
-encounter will ever take place in a single game, so after a
-random encounter is rolled, the players no longer need to roll
-at the start of their turns. Several of the entries below refer to
-game turns, this includes both players’ turns.
-```
-###### Random Encounters Chart
-
-Roll D66
-11 Ogre Mercenary
-An Ogre Mercenary (see the Hired Swords section of the Mordheim
-rules for details on the Ogre Mercenary) appears further down the
-street. Sensing trouble brewing, he decides to seize the opportunity
-and offer his services to the warband with the lowest warband rating
-(if there are two warbands with the same rating, roll a dice to see
-whom he offers his help to). The warband that he offers to help must
-add the Hired Sword to its roster for this game. At the end of the
-game, the Ogre demands payment for services rendered. The
-warband that he joined must pay his hire and upkeep fee. If the
-warband cannot (or will not) pay him, he leaves, but not before
-taking out his frustration on a random member of the warband (only
-roll among members of the warband who were not taken out of
-action during the game). Roll for injuries to this unfortunate
-member just as if he had been taken out of action.
-12 Swarm of Rats
-Something in the sewers has frightened the rats that live there. The
-rats are in a hurry to get away and will attack anything that stands in
-their way. Use a template 80mm x 120mm to represent the rats. Six
-monster bases (use rat swarms if you have them), placed in a
-rectangle with one short side representing the front, will do nicely.
-The rats move 2D6" each turn. They will always move forward
-down the centre of the street and if they come to an intersection roll
-randomly to determine which direction they take (example: for a
-normal four-way cross-intersection roll a D6: 1-2 right, 3-4 straight
-forward, 5-6 left). The rats cannot be engaged in close combat and if
-they make contact with a model they will run right over him. Any
-model moved over by the rats will suffer D3 Strength 2 hits, normal
-armour saves apply.
-13 Earthquake
-Powerful magical energies from the crater at the centre of the city
-shake the local landscape. The ground heaves and buckles violently
-and warband members find it hard to keep their footing. Roll a D3 to
-determine how many game turns the earthquake lasts. While the
-shaking persists, all movement is halved, all Initiative tests
-(climbing, etc) suffer a -2 penalty and all Shooting and Close
-Combat to hit rolls are made with a -1 penalty.
-14 High Winds
-
-```
-A powerful wind screams through the area, wildly scattering debris
-and knocking down anything that is not firmly anchored to the
-ground. Warband members now suffer a -1 penalty to all Initiative
-tests (climbing, jumping, etc) and to hit rolls (close combat and
-shooting) for the rest of the game.
-15 Blood for the Blood God!
-Unfortunately for the warbands involved, the scent of blood has
-brought the attention of one of Khorne’s minions. Reality is
-breached as a vicious Bloodletter emerges from the Realm of Chaos
-to shed even more blood for its master. The Bloodletter has the
-following characteristics in the Beast, Monsters & townsfolk section
-Special Rule: The Bloodletter will stay for D6 turns after which it
-will disappear.
-16 Lucky Find
-One random model, on his feet and not in hand-to-hand combat or
-fleeing, has stumbled upon a shard of wyrdstone! Assuming he
-doesn’t go out of action, this is added to any other shards the
-warband finds after the game. If he is taken out of action in close
-combat, the enemy model steals the shard away! Note that only non-
-animal models can find or steal a shard, not Dire Wolves, Hunting
-Dogs, etc.
-21 Restless Spirit
-Countless unfortunates have suffered agonising deaths in countless
-forms since the comet crashed into the city. Not all of these
-individuals can easily accept their new condition and they refuse to
-rest. Perhaps they left some important task unfinished or seek
-revenge on those who did them harm. The warbands have stumbled
-upon one such ghost. Any warband member who is within 8" of the
-spirit at the start of its Movement phase must make a Leadership test
-or flee (exactly as if he were fleeing from combat). Models that are
-immune to psychology automatically pass this test. This creature is
-unable to affect (or be affected by) the physical world, but it is very
-frightening nonetheless. The spirit moves 4" in a random direction,
-moving through walls, obstacles or warband members as if they
-were not there. It will not charge and cannot be harmed by the
-warband members in any way. The only exception to this is if the
-spirit comes into contact with a Sigmarite Matriarch or a Warrior-
-Priest of Sigmar. These models may choose to put the dead to rest.
-If the player controlling such a model decides to do this, the spirit is
-```
-Assembled By Paul H Page 305 (knights_templar@hotmail.com)
-
-
-immediately banished (disappears and does not return) and the priest
-gains one Experience point.
-
-```
-22 Burning Building
-Suddenly, one of the buildings (chosen at random) bursts into
-flames, ignited by smouldering embers from a fire thought
-extinguished long ago. Any models inside take a S3 hit unless they
-move outside in that turn and any models within 2" of the walls take
-a S2 hit from the smoke and heat unless they move further away as
-well. For the rest of the game, the building itself will cause fear due
-to the intense flames and anyone who wishes to enter it must first
-pass a Fear test exactly as if they wished to charge a fear-causing
-enemy.
-23 Man-Eater
-One of the trees growing in the area has been changed into a
-carnivorous predator by exposure to the Chaos magic inundating the
-area. Randomly determine which member of the Encountering
-Player’s warband finds the plant. That model is attacked as a large
-mouth opens up in the trunk of the tree and its branches whip down
-to grab its unfortunate victim. Place a tree next to the victim. He is
-now considered to be in close combat with the tree, which has the
-following characteristics:
-Profile M WS BS S T W I A Ld
-Tree 0 3 0 4 6 3 3 2 10
-The tree automatically passes any Leadership tests it is required to
-make. Any result on the Injury table will cause the Man-Eater to
-stop attacking, though it is not possible to actually take it out of
-action or knock it down. Opponents are +1 to hit the tree, due to the
-fact that it is rooted to the spot!
-24 Skeletons
-While the intense magic of the area rapidly dissolves skeletons to
-dust, shambling hordes of them spring up at random from the bones
-of the fallen. Uncontrolled, they roam the city wasteland, blindly
-attacking everything they find before falling apart.
-Use the Profile of the Skeleton in Beasts Monsters & Townsfolk
-Section. 2D6 Skeletons appear.
-with the following profile:
-They are armed with simple weapons or bony fists (treat as daggers
-in close combat). The skeletons will move towards and attack the
-closest models as quickly as possible. Roll a D3 when they appear,
-after that many turns they crumble back to inanimate bones (count
-the current turn as the first one).
-25 The Twisting of the Air
-Reality itself seems to twist, warping perceptions until no one can be
-sure of what their senses tell them. Roll a D6 at the start of each
-player’s turn. For the next D3 game turns, the distance within which
-warriors can use their Leader’s Leadership value and the distance
-for being All Alone is the value rolled instead of the normal 6". All
-distances between models are also increased by the same D6" roll
-for purposes of weapon ranges and charging. Note that the actual
-models are not moved, but only the shooting/charging model’s
-perception of the distance.
-```
-(knights_templar@hotmail.com) Page 306 Assembled by Paul H
-
-
-26 Spawn
-The warbands have stumbled upon one of the many former
-inhabitants of the city that got too close to the crater at the centre of
-the city and was turned into a mindless spawn. Spawn have the
-following characteristics:
-Profile M WS BS S T W I A Ld
-Spawn 2D6 3 0 4 4 2 3 2D6 10
-Fear: Spawn are disgusting and revolting blasphemies against
-nature and cause fear.
-Psychology: They are mindless creatures, knowing no fear of pain
-or death. Spawn automatically pass any Leadership based test they
-are required to make.
-Movement: The Spawn moves 2D6" towards the nearest model in
-each of its Movement phases. It does not double its movement for
-charging, instead if its movement takes it into contact with a model
-it counts as charging and engages that model in close combat.
-Attacks: Roll at the beginning of each Close Combat phase to
-determine the spawn’s number of Attacks for that phase.
-31 Collapsing Building
-Pick one building at random. Any models inside must pass an
-Initiative test or suffer a S5 hit, armour saves applying as normal, as
-the building collapses. Remove the building from the table
-(replacing with ruins if possible), and place the models back on the
-table where it stood. Any models climbing the sides of a building or
-on the roof when it collapses automatically fall from whatever
-height they were at.
-32 Scrawling on a Wall
-A randomly determined warband member who is within 4" of a
-building (if there are no models this close to a building, ignore this
-encounter), sees writing suddenly appear in blood on the wall
-closest to him. Roll on the following table to find out what the
-writing says:
-D6 Result
-1 The writings are a map of the area. The model’s warband
-receives a +1 on the roll to pick the scenario for the next
-game they take part in.
-2 Reading the writing accidentally sets off a spell on the
-reader. The model suffers a minor curse and now has a -1
-penalty to all dice rolls for the rest of the game.
-3 The warband member learns of the remains of some booty
-inside the building. If he moves inside he finds a D6 gold
-crowns.
-4 The writings reveal all the hiding places in the area. The
-model can hide, even in the open, for rest of the game.
-5 The warband member learns of a secret passage inside the
-building – if he moves inside, he can pop out next turn in
-any other building.
-6 A fun read, but nothing else happens (Veskit was here!).
-33 Thick Fog
-A fog rolls in, thick as pea soup. Models can only see 2D6" (roll
-once for the distance all models can see; do not roll individually for
-each model). Re-roll at start of each Encountering Player’s turn to
-see what the visibility is for that turn. The fog lasts for the rest of the
-game.
-34 Hands of Stone
-Hands of earth and stone suddenly jut out of the ground in a small
-area of the battlefield. The Encountering Player must pick a spot
-anywhere on the battlefield and anything within 3" of that spot is
-affected. The area is now very difficult ground as the hands grasp
-and attempt to hold anyone passing near them. This encounter lasts
-one game turn, at the end of which the hands sink back into the
-ground.
-
-```
-35 Dog Pack
-Recent events in Mordheim have caused many of the city’s dogs to
-suddenly find themselves without homes. Groups of these animals
-have turned feral and formed into hunting packs. The warbands have
-been discovered by one such (very hungry) pack. The pack consists
-of 2D3 wild dogs (use the Hunting Dog stats from the Witch Hunter
-warband list). The dogs move as quickly as they can toward the
-nearest models, dividing themselves as evenly as they can between
-multiple targets if they are available. If members of a dog pack take
-a warband member out of action, he will be eaten if not rescued. If
-no friendly model comes within 6" of where the model fell by the
-end of that warband’s next turn, the fallen member is considered lost
-(dog food). If a dog pack fails a Rout test, they leave without taking
-their ‘food’ with them, any warband members taken out of action in
-the last turn of the game have not been eaten and follow the normal
-rules for models taken out of action.
-36 Possessed!
-One randomly selected member of the Encountering Player’s
-warband is suddenly possessed by a minor spirit. This spirit is far
-too weak to control the model’s entire body, but is instead limited to
-controlling one of his or her limbs (usually an arm). The model
-takes an automatic hit at his or her own Strength during each of his
-or her Close Combat phases until the possession is over and may do
-nothing else. The possession lasts D3 game turns. Note that
-Sigmarite Matriarchs and Warrior-Priests are immune to this
-possession, as are non-living warband members. If such a warband
-member is the object of the spirit’s attention, randomly determine
-another warband member to suffer the effect instead.
-41 Fountain of Blood
-The city itself seems to weep as even more blood is shed on its
-streets. For the rest of the game, whenever a model is taken out of
-action in close combat, the model that did the deed must take a
-Strength test or be knocked down as he is hit by a torrent of blood
-pouring from the ground. If there were others involved in the
-combat they are not affected, as the steaming liquid seems to be
-directed only at those who have called it into being by their
-bloodthirsty actions.
-42-44 Storm of Chaos
-Clouds rapidly gather above the city in an unnatural, sickly yellow-
-green mass and warp lightning begins to dance from one cloud to
-another. Thunder rocks the air, screaming out in almost intelligible
-noises. The clouds themselves seem to take on the shapes of
-monstrous creatures and both warbands in the conflict look at each
-other with fear on their faces. Roll a D6 to see what the storm
-manifestation will bring:
-```
-Assembled By Paul H Page 307 (knights_templar@hotmail.com)
-
-
-D6 Result
-1 Warp lightning begins to strike the ground in search of a
-victim. It will hit the warrior with the best armour save,
-attracted to the large amount of metal. That warrior takes a
-S5 hit, with no armour save possible. If multiple warriors all
-have the highest armour save, randomly determine which is
-struck. The warp lightning will strike for D3 turns before
-moving on towards another part of the city.
-2 Fish suddenly fall out of the sky to pelt the area! All
-movement is halved for one turn (due to wet, flapping fish
-underfoot), but there is no other effect.
-3 Wyrdstone dust has mixed with the water vapour in the area
-and produced the strange looking clouds from which a
-tainted rain begins to fall. The rain burns flesh and eats into
-stone and metal. Each warband member in the open takes a
-single S2 hit (normal armour saves apply) every turn the rain
-lasts until he gets under cover. The rain lasts D3 turns.
-4 A magical mass of lightning forms near the ground,
-illuminating the area with an eerie greenish glow. It begins
-to move about the area, drawn to magical powers from
-which it feeds. Place a counter as per the normal Encounter
-rules to represent the mass and each turn move it 2D6"
-towards the highest level spell user (the one with the most
-spells – each turn roll a D6 if two or more spell users have
-the highest number of spells). If there are no magic users in
-the game, the mass will move towards the opposite table
-edge, doing nothing but blocking line of sight as it moves. If
-the model the mass is moving towards casts a spell,
-immediately move the counter another D6" towards the
-model. If the ball of lightning touches the target model, the
-model is frozen in time and cannot do anything. While
-frozen, the model cannot be attacked or harmed in any way
-
-- the lightning mass protects its prey! After freezing a
-model, the lightning will no longer move but will instead
-remain near its victim to feed. The lightning will feed for D3
-turns on the magical energy of its victim and then flies back
-towards the warp clouds above, freeing the magic user. If
-the game ends before the feeding is done, the victim is
-immediately released. Victims suffer no long-term ill effects
-from their exposure to the lightning.
-5 A rumbling is heard from overhead, as thunder erupts from
-the strange clouds. The thunderclaps become more intense
-and the heavy pulses of air brings warriors to their knees as
-if they had been hit by cannonballs of solid air. D6 randomly
-selected models are knocked down by the air bursts. If any of
-these models are in close combat, all other members of that
-melee are knocked down as well.
-6 Tendrils of smoke drift down from the clouds, winding
-around the heads of members of each warband. Randomly
-select one Hero from each warband – these warriors have
-been chosen by rival storm gods as their champions. The
-chosen models must move towards each other every turn
-and get into close combat as quickly as possible. Once in
-combat, they will automatically pass all Leadership tests and
-will fight until only one remains (the combat will end when
-one of the models puts his rival out of action). If a warband
-does not have any Heroes left in play when the storm gods
-choose their champions, a random Henchman will be chosen
-from that warband instead.
-45 Pit Fighter
-This encounter is identical to the Ogre Mercenary encounter before,
-except the Hired Sword encountered is a Pit Fighter, not an Ogre
-Mercenary.
-
-```
-46 Plague of Flies
-An enormous cloud of flies appears in the sky and swoops down on
-the warbands below. All models have an extra -1 to hit penalty when
-shooting or fighting in close combat as flies buzz around them and
-into open orifices. The flies remain for D3 game turns and then fly
-away.
-51 Sinkhole
-An enormous mouth suddenly opens up under the feet of one
-randomly determined warband member. Make an Initiative test for
-the model. If the test is failed, the model falls into the pit. If a 1 is
-rolled for the test, the model is sucked underground and taken out of
-action. Any other failure results in the model catching himself in the
-opening, which closes around him. Treat the model as being
-knocked down for the rest of the game, though he may not move at
-all.
-52 The Horror in the House
-Randomly select one warrior lurking alone inside a building (if there
-are no warband members inside a building, ignore this result and re-
-roll on the Random Encounters table). Unfortunately for him, he’s
-not as alone as he thought. He hears a slight ripping sound as if the
-air itself is being torn apart and something manifests itself behind
-him. The warrior must make a Fear test and if he fails, in his next
-Movement phase he will run screaming 2D6" from the building
-towards the nearest table edge and can do nothing else in that turn. If
-he passes the test, the unnatural presence still forces him D6"
-outside, but he suffers no other effects. At the start of his subsequent
-turn, a fleeing model can try to recover from his ordeal by passing a
-Leadership test, but at a -1 penalty. If he does, he stops, but cannot
-do anything else that turn other than catch his breath. If he fails, he
-again moves 2D6", trying in vain to erase the terrifying images from
-his memory. For the rest of the game, the building itself will cause
-fear, and anyone who wishes to enter it must first pass a Fear test
-exactly as if they wished to charge a fear-causing enemy.
-53 Plague Victims
-Disease is a common occurrence among the few survivors left in the
-ruins of the city. This group of a D6 citizens has contracted a
-particularly nasty plague known as Nurgle’s Rot. They move at
-normal rate (4") towards the nearest warband members, seeking
-their help. If they come into contact with a warband member, they
-will not attack, but will instead cling to him as they beseech his aid,
-hindering him greatly. A model with Plague Victims in contact with
-him acts as if he had just recovered from being knocked down
-(moves at half rate, may not charge or run, etc. See the Mordheim
-rules for details). If one or more of the Plague Victims is charged,
-shot at, or otherwise attacked, these pitiful victims will rout
-immediately. At the end of the game, roll a dice for each warband
-member in play when the Plague Victims appeared and on a roll of
-1, that member has contracted Nurgle’s Rot. Roll again to see what
-effect the disease has on that member:
-D6 Result
-1 Major Symptoms: The plague races through the victim’s
-system, producing horrible disfiguring lesions before killing
-him. If the model is a Henchman, he dies. If the model is a
-Hero, roll D3 times on the Serious Injury table (ignoring
-Robbed, Bitter Enmity, Captured and Sold to the Pits
-results) to determine the long term effects of the disease.
-2-5 Minor Symptoms: The plague takes its toll on the victim as
-it takes its course. Without proper bed rest the victim will
-die. The warband member must miss the next game as he
-recovers.
-6 Full Recovery! The victim has an especially hardy
-constitution or gets an extremely mild case of the disease.
-The victim suffers no ill effects.
-```
-(knights_templar@hotmail.com) Page 308 Assembled by Paul H
-
-
-54 Last One Standing
-The horrors of Mordheim can drive even the strongest mind past the
-point of madness. This Sigmarite Matriarch (for stats see the Sisters
-of Sigmar section of the Mordheim rules) has seen her entire
-warband cut down around her and the experience has proven too
-much for. She now seeks revenge and is not particular about who
-gets to pay! She is armed with a Sigmarite Hammer and steel whip
-and wears heavy armour and a helm. She carries Blessed Water and
-a Holy Relic on her person as well. She knows the prayers The
-Hammer of Sigmar and Armour of Righteousness (see the Prayers of
-Sigmar chart in the Mordheim rules for details). Roll randomly to
-determine which she casts on herself each turn. She has the skills
-Absolute Faith, Jump Up and Step Aside. The Matriarch will move
-as quickly as possible towards the nearest model and engage them in
-close combat if able. She will not rout and must be taken out of
-action to make her stop. If the Matriarch is taken out of action, leave
-her body where it fell, any non-animal warband member may loot
-her body by moving into contact with it during their Movement
-phase. If this warrior is later taken out of action as well, place a
-counter where the warrior fell to represent the Matriarch’s
-equipment. This can then be picked up by a different model, as
-above.
-55 Booby Traps
-Some nefarious individuals have trapped the whole area the
-warbands are searching. These traps may take the form of spiked
-pits, deadfalls, spring-driven spiked boards, etc. When this
-encounter is rolled, the Encountering Player must randomly
-determine which of his warband members has discovered the first
-trap. This unfortunate individual springs a trap immediately. If the
-trap is not avoided by passing an Initiative test, the model takes a
-Strength 3 hit; armour saves apply as normal. From this point until
-the end of the game, each player will roll a D6 at the start of his or
-her Movement phase. A roll of 1 means that one member of that
-player’s warband has sprung a trap and must make an Initiative test
-to avoid it. If the trap is not avoided, the model takes a S3 hit as
-above; apply any damage before the model is moved.
-56 Catacombs
-The ground gives way under one randomly selected warrior and he
-falls into the depths of the catacombs below the city. He takes a S3
-hit from the fall unless he passes an Initiative test, and lands near the
-remains of others who have fallen before him. Assuming he’s not
-taken out of action by the fall, he discovers one of the following
-after a quick search (roll a D6):
-D6 Result
-1 A helmet
-2 A small pouch containing 2D6 gold crowns
-3 A lantern
-4 A net
-5 A vial of Black Lotus
-6 A sword
-Unless he has a rope & hook, the warrior is stuck in the catacombs
-and cannot rejoin the game. He will count as being out of action for
-Rout purposes, but will rejoin his warband after the game with no
-other untoward effects. If he does have a rope & hook, he can climb
-out D3 turns later, appearing inside a randomly determined building.
-
-```
-61 Forbidden Fruit
-Ghostly white flowers suddenly open on a tree in the area and emit a
-powerful fragrance. Randomly determine a member of the
-Encountering Player’s warband who happens to be standing next to
-the tree when it comes to life. Place the tree within 2" of this model.
-Any warband members within 8" of the tree must make a
-Leadership test at the start of each of their turns or move as quickly
-as possible towards the tree. If within 1" of the tree, a spellbound
-model will pick and eat one of the swollen, blood-red fruit hanging
-from its branches. Any model eating one of the fruit is automatically
-taken out of action, as powerful poisons incapacitate him or her. A
-non-spellbound warband model may keep another model from
-moving toward the tree by moving into base to base contact with
-him or her and holding him back. Neither model may do anything
-else while the spellbound model attempts to move to the tree and the
-restraining model attempts to prevent him from doing so. Both
-spellbound and restraining models can react normally if attacked in
-close combat and a restraining model can give up his attempts at any
-time. This encounter lasts the remainder of the game. Close
-inspection of the tree reveals the bones of several animals
-overgrown with grass and leaves lying at its base.
-62 The Lost
-Many view the destruction of Mordheim as a sign that the world is
-coming to an end. Groups of these lunatics are often drawn to the
-city where they attack anyone they come across, certain that they are
-in some way helping to avert this cataclysm. This group of D3
-Flagellants (see the Witch Hunter section of the Mordheim rules for
-stats and special rules) will move as quickly as possible towards the
-nearest warband members and engage them in close combat as soon
-as they are able. They are armed with flails.
-63 Reflecting Pool
-One warrior on the ground (selected at random from the
-Encountering Player’s warband) notices a small pool of what looks
-to be still water. Reflecting the gloomy sky above, it appears to be
-liquid metal or unnaturally deep silvery water, rippling only slightly
-with the dank breeze blowing through the city. He can ignore it, or
-bend quickly to peer into its depths. If he’s brave enough to gaze
-into the murky liquid, roll a D6:
-D6 Result
-1 The water reflects back nightmare images of his own
-demise, filling him with fear for his own safety. For the rest
-of the game, no matter how far away he is from friendly
-models, he will always count as being all alone in close
-combat.
-2 The warrior glimpses an image of what is yet to come. For
-the rest of the current turn he may re-roll (once!) any
-shooting or close combat rolls to hit.
-3 A faint image of his personal god appears, be it Sigmar or
-even the dread Shadowlord. Filled with courage, the warrior
-may ignore any and all Leadership-based tests he is required
-to make for the rest of the game.
-4 The warrior peers into the depths of his own mind,
-unlocking untapped abilities. He can detect any enemy
-models hidden that turn, even those not in his normal line of
-sight, and passes the information on to the rest of his
-compatriots. All enemy models lose their hidden status.
-5 A slender arm reaches out from the pool, leaving no ripples
-in the smooth liquid, and pale fingers touch the warrior’s
-chest. The soft caress causes a faint glow, which spreads
-throughout his body. Though it quickly dims away, a strong
-feeling of strength and vitality is left behind. The warrior
-may ignore the next wounding hit he receives, even if it is a
-critical hit.
-```
-Assembled By Paul H Page 309 (knights_templar@hotmail.com)
-
-
-(knights_templar@hotmail.com) Page 310 Assembled by Paul H
-
-6 The city chooses to reveal its true visage to the warrior,
-unveiling the monstrous intelligence that lurks behind the
-facade of simple ruins and rubble. The warrior’s mind is
-overwhelmed by the enormity of the impression and he
-stumbles away in stark terror. For the rest of the game, all
-enemy models count as causing fear to the warrior and he
-will refuse to enter any buildings or get within 2" of any
-walls or ruins. After the game the effects will wear off,
-though he will always hesitate slightly before entering an
-unlit room from now on...
-Note: Only warriors who can gain in experience can choose to look
-into the pool, all others simply lack the curiosity to bother!
-64 Screaming Walls
-Faces appear in the walls of one randomly determined building and
-start to emit a piercing shriek. Any warband members within 8" of
-the building take a S1 hit (no armour saves allowed) and are at -1 on
-all to hit rolls (close combat and shooting) while the screaming lasts.
-Spellcasters are even more sensitive to the noise than others and so
-no spells may be cast from within this radius. Roll a D3 to determine
-how many game turns the screaming lasts.
-65 Peddler
-
-```
-No matter which turn it is rolled on, this encounter happens at the
-end of the game. The winning warband sees a peddler wandering
-through the ruins. This travelling merchant keeps his entire stock on
-his back and offers to sell part of it to the warband. He has the
-following items at half their normal price: mace, hammer, sword,
-dagger, axe, helmet, crossbow, pistol, duelling pistol, rope & hook,
-any poison, lucky charm, blessed water, hunting arrows, garlic,
-healing herbs, holy (or unholy) relic, lantern and Mordheim map.
-Roll a D3 for each item to find the quantity the peddler carries.
-66 Itsy-Bitsy Spider
-The presence of the wyrdstone has mutated this common household
-pest into a monster of titanic proportions! This Gigantic Spider has
-the following characteristics:
-Profile M WS BS S T W I A Ld
-Spider 5 3 0 5 4 4 1 2 10
-Fearsome Beast: The Gigantic Spider causes fear.
-Chitinous Hide: It has an armour save of 4+.
-Poisonous Bite: Any to wound rolls of 5 or 6 (rather than just a 6)
-are treated as critical hits.
-The Gigantic Spider moves from the table edge it starts from to the
-opposite table edge, attacking any warband members that get in its
-path.
-```
-
-#### Power in the Stones
-
-By Daniel Carlson
-“Of course there’s magic in those stones... but it is dark magic, and only the desperate or the foolish would seek to
-use it. Woe to us that our times are rich in both desperation and fools.” – Fabergus Reinhardt, Witch Hunter
-The value of the wyrdstone shards is not simply the coin that
-nobles and merchants are willing to pay for them. It is a well-
-known fact that the stones are rich in magic, and they are said
-to grant a variety of powers to those that learn to use them.
-Tales are told among the common folk of stones that caused a
-certain farmer’s harvest to double, or of the stone that made
-old Herr Grutenbauer's dog speak like a man. True or not,
-these tales hint at the powerful and chaotic forces at work in
-the stones. The most common use for the stones’ magic has
-to do with the discovery of the famed alchemist van Hoffman
-of Reikland. It was he who first observed that Wyrdstone can
-serve as a catalyst in the transmutation of base metals into
-gold. This usage of the stones has come to be the primary
-obsession of those who seek it, for many are willing to pay
-princely sums for stones that will make them an even larger
-fortune. Yet there are those who continue to seek the stones
-for their more arcane uses, and even mercenaries have been
-known to keep a stone or two that was thought to bring luck,
-healing, or other magical benefits.
-Yet the stones are ultimately the work of Chaos, and those
-who seek to use them often learn to fear their magic rather
-than harness it. For every tale of a harvest that doubled, there
-are two about the harvests that rotted in the field when
-exposed to the strange glow of the stones; and for every tale
-of a dog that learned to speak like a man there are darker tales
-of animals that turned into a gruesome parody of a man-beast.
-The tales of magical healings are mixed with many of
-mutation and death brought on by exposure to the stones. Yet
-greed is the downfall of many in the City of the Damned, and
-the greed for power is perhaps the greatest of all...
-Note: Witch Hunters, Sisters of Sigmar, Bretonnians, High
-Elf Shadow Warriors and Dwarfs are all too aware of the
-corrupting power of the stones, and will not make use of
-them under any circumstances.
-
-##### Evaluating Stones
-
-Instead of selling or storing all of a warband's wyrdstone
-shards, a player may choose to have one or more of their
-stones evaluated by an alchemist for useful magical
-properties. This is done during the trading phase of the post-
-battle sequence (consequently, this means if a stone is chosen
-to be evaluated and yields no special power, it cannot
-subsequently be sold until after the next battle). Instead of
-searching for a rare item, a hero may take one shard of the
-warband’s wyrdstone to an alchemist. Numerous alchemists
-have flocked to Mordheim to study the stones, and they ply
-their trade from tents and wagons in the encampments around
-the city. Alchemists are known for their greed, however, and
-they do not provide their services for free; for each stone
-evaluated, the warband must pay 20 gold crowns. When the
-stone is evaluated, roll 2D6 on the chart opposite:
-
-```
-2 Spell Stone. Any model who carries this stone into battle
-may cast one randomly determined spell for the duration of
-the battle, using the normal rules for spell casting. The spell
-should be determined at random from the Lesser Magic spell
-list, and a different spell should be generated before each
-game in which the stone is used. This means the stone will
-be more useful in certain battles than others, depending on
-which spell it happens to provide for that game.
-3 Stone of Regeneration. Any model who caries this stone
-into battle will regenerate lost wounds at a rate of one
-Wound regained each recovery phase. A model carrying this
-stone treats all stunned results it suffers on the Injury Chart
-as knocked down.
-4 Stone of Might. A model who carries this stone into battle
-will have one characteristic increased for the duration of the
-battle. Roll a D6 to see which characteristic is affected
-before each battle:
-1 +1 Initiative 2 +1 Movement
-3 +1 Strength 4 +l Toughness
-5 +1 Attacks 6 +1 Wounds
-Note that this temporary boost may take a characteristic
-above normal racial maximums.
-5 Stone of Warding. A model who carries this stone will not
-be affected by hostile magic spells on a D6 roll of 4+.
-6-8 No beneficial powers.
-9 Stone of Luck. A model who carries this stone may re-roll
-any dice roll he makes once per game. The second roll must
-be taken. This power may not be combined with other 'luck
-enhancements' like the spell Luck of Shemtek to yield re-
-rolls on top of re-rolls, though it may be used to give a
-model affected by these enhancements one additional re-roll
-during the battle as normal.
-10 Stone of Skill. A model who carries this stone into battle
-will have one characteristic increased for the duration of the
-battle. Roll a D6 to see which characteristic is affected
-before each battle:
-1-2+1 Weapon Skill 3-4+1 Ballistic Skill 5-6+1 Leadership
-Note that this temporary boost may take a characteristic
-above normal racial maximums.
-11 Stone of Healing. A model who carries this stone may heal
-one model within 2" of him (including himself) during each
-recovery phase. The warrior regains one lost Wound. Note
-that this healing is only beneficial to models who have more
-than one Wound on their profile.
-12 Stone of Protection. A model who carries this stone has
-their armour save improved by one point (i.e. a 5+ save
-becomes a 4+ save). Note that no model may ever have a
-save better than 1+. If the model has no armour, the stone
-gives him a 6+ armour save.
-```
-Assembled By Paul H Page 311 (knights_templar@hotmail.com)
-
-
-###### Using Stones
-
-Stones may only be used by heroes, just like other equipment.
-No hero may ever carry more than one stone at a time (the
-combined Chaotic magic would instantly turn them into
-Chaos Spawn). Using a wyrdstone’s power is always a
-dangerous undertaking and to represent this, after every
-battle, each hero who carried a stone must make a check to
-see if they have been adversely affected by their usage of the
-stone’s power. Make the check by rolling 2D6 for each hero:
-a roll of 2, 3, 11 or 12 indicates that they have been affected.
-Skaven, having a natural tolerance for warpstone, are only
-affected on the roll of 2 or 12. Roll a D6 on the following
-chart over the page to see what has happened to affected
-models.
-1 Spawn! The model has succumbed to the raw mutating
-force of Chaos, and becomes a terrible Chaos Spawn. See
-'Becoming a Chaos Spawn' below.
-2 Weakened. The model has lost some of its life force to the
-stone. One of the model's characteristics is permanently
-reduced by one. Roll 2D6 to see which characteristic suffers:
-1-2 Movement 3 Weapon Skill
-4 Ballistic Skill 5-6 Strength
-7-8 Toughness 9-10 Initiative
-11-12 Leadership
-If any characteristic is reduced to 0 as a result of the
-weakening, the model becomes a Chaos Spawn. See
-'Becoming a Chaos Spawn' below.
-3-4 Sickened. Exposure to the stone's magic has made the
-warrior physically ill. He must miss the next battle while he
-recovers.
-5-6 Mutation! The corrupting power of Chaos has caused the
-model to gain a mutation. Roll on the Random Mutation
-Table (see below).
-
-###### Becoming a Chaos Spawn
-
-Chaos Spawn are the wretched remains of one who has tasted
-the power of Chaos and proved unable to withstand its
-mutating touch. Wracked with waves of mutation and
-change, a warrior is reduced to a monstrous beast of fangs,
-tentacles, eyeballs, and other horrific growths. Their mind is
-forever shattered, and they become a gibbering and mindless
-servant of Chaos. Typically, when a being meets this fate, his
-former comrades will put him out of his misery with a swift
-death... unless that seems like too dangerous a task to
-attempt, in which case they will simply herd the beast away
-down one of Mordheim’s winding alleys or into the sewers.
-There are, however, some who have a desire for and affinity
-with Chaos Spawn that allows them to keep their mutated
-friend among their ranks as a weapon and pet to use against
-their enemies.
-If one of your heroes becomes a Chaos Spawn he is
-considered to be lost to the warband, unless your warband is
-from the Cult of the Possessed or Skaven. Followers of
-Chaos have a sort of semi-reverence for these mindless
-beasts, and the Skaven have long been adept at training and
-using the products of wyrdstone-induced mutation.
-When the hero ‘Spawns’, any armour they were wearing is
-lost in the storm of violent mutation that overtakes the
-unfortunate warrior. Weapons and equipment are abandoned
-by the creature, however, and may be reclaimed by the
-warband. The new Spawn retains its previous characteristic
-profile and any existing mutations, and immediately gains an
-additional D6 mutations which should be generated on the
-
-```
-Random Mutation Table. If the hero was previously a spell
-caster, all spell casting ability is lost. If the model became a
-Spawn as the result of a characteristic being taken down to
-zero, that characteristic becomes a 1 on the Spawn’s profile.
-The Spawn's Movement characteristic may be deleted, as the
-Spawn is now subject to a special rule that governs its
-movement on the table top. The Spawn is now subject to the
-following special rules:
-Fear: The Spawn now causes fear.
-Psychology: The Spawn is immune to all psychology rules.
-Movement: Instead of normal movement, each movement
-phase, the Spawn moves 2D6" towards any enemy model.
-The Spawn must move straight towards an enemy, though
-this need not be the nearest enemy, and may be an enemy the
-Spawn cannot even see (Spawn have a plethora of senses,
-magical and otherwise that tell them where their foes are). If
-this movement brings the Spawn into contact with any model,
-friend or foe, the Spawn immediately attacks it, and will
-continue to fight in following rounds until the other model
-has been taken out of action or fled. Spawn may move up
-ladders and stairs, and may even attempt to climb walls
-subject to the normal climbing rules.
-The Spawn will not gain any experience points from future
-battles; it is far too mindless to learn from its actions.
-The Spawn should be represented by an appropriate model.
-While this could be one of the Chaos Spawn models from the
-Warhammer line, it's probably more satisfying and fun to
-make your own. Spawn are the ultimate you-can-do-no-
-wrong conversion project, where you can throw together all
-sorts of stray bits to make a really unique model.
-```
-###### Random Mutation Table
-
-```
-Mordheim is a city under the sway of Chaos, and with Chaos
-comes mutation and change. There are numerous ways by
-which a warrior can be afflicted with mutation, and there are
-some who actually seek out mutation as a 'reward’ of the
-Chaos Powers. While mutations are not always harmful, and
-indeed can often be helpful, they are a mark of Chaos, and as
-such those who bear them are feared, shunned and persecuted
-throughout the Empire.
-The following is a table used to generate the colourful,
-exotic, and sometimes debilitating mutations that will be
-visited upon certain warriors at certain times (i.e. as a result
-of exposure to Wyrdstone, for example). The table may also
-prove useful to Game Masters who want to quickly generate
-some interesting mutants for a special scenario. The table
-uses a D66 roll, just like the Heroes Serious Injuries table in
-the rulebook. If the mutant rolls a mutation that it already
-possesses, re-roll it until a new mutation is generated.
-Note: The great danger of mutation is that it will ultimately
-overwhelm the victim with the corrupting power of Chaos,
-reducing them to a monstrous and mindless Chaos Spawn. To
-represent this danger, if a warrior ever has a characteristic
-reduced to zero as the result of a mutation, they immediately
-degenerate into a loathsome Chaos Spawn (see the full rules
-for Chaos Spawn above).
-Any member of a human, mercenary warband (this includes
-both Ostlanders and Averlanders) that receives a mutation
-marked with * is immediately drummed out of the warband
-by his suspicious peers. Remove the hero from the roster, his
-equipment is lost.
-```
-(knights_templar@hotmail.com) Page 312 Assembled by Paul H
-
-
-Random Mutation Table
-Roll a D66
-11 Acid Spray*: The mutant can spit acid at its foes. The acid spray
-uses the mutant’s Ballistic Skill to hit, just as if the mutant were
-firing a missile weapon. The spray has a range of 8", and a Strength
-of 4. The mutant does not suffer any penalty for spraying a target at
-long range, nor does the mutant suffer any penalty for moving and
-spraying in the same turn.
-12 Atrophy: A part of the mutant’s body has become shrivelled and
-atrophied. Roll a D6:
-1 Head - The mutant is now subject to stupidity.
-2-4 Arm - The mutant loses the usage of one arm. The
-mutant may only use a single one-handed weapon from
-now on. If both arms are lost the mutant must be retired
-from the warband unless it possesses a tail or bite attack
-of some kind.
-5-6 Leg - The mutant loses the usage of one leg. Divide the
-mutant's Movement in half, rounding up. If both legs are
-lost, the mutant must be retired from the warband.
-13 Beaked*: The mutant has a beak like that of a bird or octopus,
-though its other facial features remain unchanged. Unless the mutant
-already possesses a bite attack, the mutant may make an additional
-attack in each hand-to-hand combat phase due to its vicious bite.
-14 Beweaponed Extremities*: The mutant’s hands are turned into
-weapons! The mutant may no longer use other weapons or
-equipment that would require the usage of hands.
-On the plus side, it no longer has to worry about being caught
-without a weapon! The mutant will gain the normal extra attack in
-hand-to-hand for using an additional hand weapon, and the weapon
-extremities follow the normal rules for weapons of their type (i.e.
-sword extremities may be used to parry).
-Roll a D6 for each arm to see what it becomes:
-1-2 sword, 3-4 mace, 5-6 axe.
-If the mutant grows two sword extremities, it may re-roll failed
-parries just as if it had a sword and a buckler.
-15 Blackblood: If the model loses a wound in close combat, anyone
-in base contact with the model suffers a Strength 3 hit (no critical
-hits) from the spurting corrosive blood.
-16 Brightly Patterned Skin*: The mutant's skin becomes brightly
-coloured with contrasting stripes, spots, or other patterns. No effect
-on play, but a great excuse to paint an interesting new model!
-21 Burning Body*: The mutant's body is constantly burning with
-flickering tongues of hellish flame and burns with unnatural light.
-The warrior may not carry any weapons or armour unless they are
-magical, or forged from Gromril or Ithilmar. The mutant does not
-suffer the usual penalties for fighting with his fists (no -1 to the
-mutant's Strength, enemies do not add +l to armour saves). The
-mutant always counts as having a lantern. Any model in base
-contact with the mutant suffers an automatic Strength 2 hit at the
-beginning of each close combat phase. The flames cannot cause
-critical hits.
-22 Cloud of Flies: The mutant is permanently surrounded by a great
-swirling mass of flies. Opponents in close combat with the mutant
-are at -1 on all to hit rolls, as the flies buzz into eyes, noses, and
-mouths.
-23 Cloven Hooves*: The warrior gains +l Movement.
-24 Crystalline Body*: The mutant's body becomes living crystal,
-which is tough, but easily shattered. The mutant's Toughness
-becomes 6, while its Wounds become 1.
-Neither of these attributes can subsequently be altered by experience
-or mutation. If an experience advance indicates a change in one of
-these characteristics, re-roll the advance until a different
-characteristic advance is obtained.
-
-```
-25 Elastic Limbs*: The mutant's arms can stretch out, allowing the
-mutant to attack from a distance. If the mutant is not in base contact
-with an enemy model at the beginning of the hand-to-hand combat
-phase, it may make one hand-to-hand attack against a single visible
-enemy within 6" of the mutant. The enemy does not get a chance to
-fight back.
-26 Enormously Fat: The mutant becomes enormously fat and
-bloated. Divide its Movement in half, rounding up; add +1 to its
-Toughness; and reduce its Initiative by 1.
-31 Extra Arm*: The mutant may use any single-handed weapon in
-the extra arm, giving him +1 attack when fighting in hand-to-hand
-combat. Alternatively, he may carry a shield or buckler in the extra
-arm. If a mutant who is unable to use weaponry (i.e. Possessed,
-Chaos Spawn, etc.) gains this mutation, they simply gain an extra
-attack; they are still not permitted to use weapons.
-32 Extremely Thin: The mutant becomes a matchstick figure,
-sickly thin and bony. Divide its Toughness in half, rounding up.
-33 Eyestalks*: The mutant has stalked eyes, similar to a crab. The
-mutant now causes fear.
-34 Fangs*: The mutant grows huge fangs, giving it an extra bite
-attack (unless it already has one) in each hand-to-hand combat
-phase. The bite attack uses the mutant's normal Strength.
-35 Furry*: The mutant grows a covering of long, dense fur. The
-mutation changes the mutant's appearance only; and has no effect on
-its profile.
-36 Great Claw*: One of the mutant's arms ends in a great, crab-like
-claw. He may carry no weapons in this arm, but gains an extra
-attack in hand-to-hand combat with a +1 Strength bonus.
-41 Hideous: The mutant causes fear, and is seldom invited to
-parties.
-42 Horns*: The mutant's head grows horns, and it gains an extra
-gore attack in hand-to-hand combat at the mutant's normal Strength
-The mutant may no longer wear a helmet.
-43 Iron Hard Skin*: The mutant's skin is covered in iron and steel
-scales. The mutant's armour save is improved by +1 (i.e. a 5+ save
-becomes a 4+). Note that a warrior's armour save may never
-improve to better than a 1+ save. If the mutant has no armour, their
-skin alone gives them a 6+ armour save.
-44 Mace Tail*: The mutant grows a flexible tail with a mace-like
-bony tip. Unless it already has a tail, the mutant gains an extra tail
-attack in each hand-to-hand combat phase at the mutant's Strength
-+1. If the mutant already has a tail, it will have to decide at the
-beginning of each hand-to-hand phase which tail it wishes to use.
-45 Moronic: The mutant's mind shrinks. The mutant is now subject
-to stupidity.
-46 Plague Bearer*: The mutant carries a hideous, Chaos-tainted
-disease. The mutant's limbs are covered in open sores, and the
-mutant is dramatically weakened by its condition.
-Reduce the mutant's Movement and Initiative by -1. Any time the
-mutant hits an enemy in hand-to-hand combat, there is a chance they
-have infected their foe with this debilitating disease: the enemy
-model must roll equal to or less than its Toughness on a D6 to avoid
-contracting the sickness. If the roll is higher than the model's
-Toughness, they suffer the -1 to Movement and Initiative penalty for
-the rest of the battle, (after which it is assumed they get immediate
-herbal remedies and plenty of rest to keep the disease from setting in
-permanently!). The Plague Bearer may not infect the same model
-more than once in a single battle. In addition, the Plague Bearer's
-ghastly appearance means it now causes fear.
-```
-Assembled By Paul H Page 313 (knights_templar@hotmail.com)
-
-
-51 Poisonous Bite: The mutant grows small fangs which can secrete
-a potent poison.
-Unless the warrior already has a bite attack, it gains an extra attack
-in each hand-to-hand combat phase due to its deadly bite. The
-poisonous bite is a Strength 5 attack, but is reduced to Strength 2 if
-the target of the bite is immune to poison. If the mutant already
-possesses a bite attack, it is simply upgraded to include the
-poisonous effect described above.
-52 Prehensile Tail*: The mutant grows a prehensile tail. Unless the
-mutant already has a tail attack, he gains an additional attack with
-this tail in each hand-to-hand combat phase. The mutant may hold
-and use any singlehanded weapon in the tail, or alternatively, he
-may carry and use a shield or buckler with it. If a mutant with other
-tail attacks does use an equipped prehensile tail in a hand-to-hand
-combat phase, he may not use any of his other tail attacks during
-that phase; a single tail must be selected for use at the beginning of
-each hand-to-hand phase. If a mutant unable to use weaponry (i.e.
-Possessed, Chaos Spawn, etc.) gains this mutation, they simply gain
-an extra attack (unless they already possess a tail attack); they
-remain unable to use weapons.
-53 Regeneration: The mutant can often heal instantly from wounds
-it suffers in battle. When the mutant suffers one or more Wounds, it
-may try to regenerate the damage. Roll a D6: on the roll of a 4+, the
-mutant has instantly healed itself back to full Wounds. If less than a
-4 is rolled, the mutant's regenerative powers have been temporarily
-exhausted, and it may not attempt further regenerations for the
-remainder of the battle.
-54 Resilient: The mutant's skin thickens, or becomes scaly, or
-otherwise increases its resilience to damage. Increase the mutant's
-Toughness by +1.
-
-```
-55 Scorpion Tail*: The mutant has a long barbed tail with an
-envenomed tip, allowing him to make an extra Strength 5 attack in
-each hand-to-hand combat phase (unless the mutant already has a
-tail attack, in which case it will have to select a single one of its
-available tail attacks in each hand-to-hand phase). If the model hit
-by the tail is immune to poison, the Strength of the hit is reduced to
-2.
-56 Skull Face*: The flesh of the mutant's face dissolves, leaving a
-skull. The mutant now causes fear.
-61 Spines*: Any model in base contact with the mutant suffers an
-automatic Strength 1 hit at the beginning of each close combat
-phase. Spines will never cause critical hits.
-62 Stunted: The mutant's body becomes hunchbacked and stiffened.
-Reduce the mutant's Movement and Initiative by -1.
-63 Suckers*: The mutant's limbs are covered in adhesive suckers.
-The mutant automatically passes Initiative tests when climbing.
-64 Tentacle*: One of the mutant's arms ends in a tentacle. He may
-grapple his opponent in close combat to reduce his attacks by -1,
-down to a minimum of 1. The mutant may decide which attack his
-opponent loses.
-65 Warts: The mutant is covered in repellent warts. The mutant's
-profile is unaffected.
-66 Wings*: The mutant grows a pair of feathered or bat-like wings.
-The wings are not strong enough to allow the mutant to fly in the
-proper sense, but they do allow the mutant to glide down from an
-elevated position. If the mutant is above the table-top surface (on a
-roof, walkway, etc.) it may glide down at a rate of 2" horizontally
-for each inch of downward vertical movement.
-```
-(knights_templar@hotmail.com) Page 314 Assembled by Paul H
-
-
-#### Encampments
-
-These rules are based from the ones by Steven Gibbs
-Since the cataclysm that smashed the city of Mordheim, crude shantytowns have cropped up beyond the crumbling city walls. At first these
-pitiful settlements housed the sparse remnants of Mordheim’s population. However, as soon as word reached the other towns and cities of
-the Empire of the magical Wyrdstone that could be found in the blackened shell of Mordheim, the treasure seekers came. The existing
-settlements were practically overrun by bands of mercenaries and bandits who would set up their camps in whatever tumbledown buildings
-were available or pitch their tents behind crude barricades. Soon there was a flood of greedy souls, many of which were not human as the
-stench of Wyrdstone tempted many from afar.
-There are three main settlements in and around Mordheim. Sigmarhaven is inhabited mainly by the loyal followers of Sigmar and is a place
-of law and relative order. It also attracts a large following of Witch Hunters and their ilk, and understandably mutants and the Possessed are
-not tolerated there. Paid and equipped watchmen are maintained for the security of those who camp within it. There are, though, far more
-lawless settlements around Mordheim where scum such as Orcs and even the Possessed are known to walk freely. Nowhere is more infamous
-than thrice cursed Cutthroat’s Den. Here life is cheap and the only law is that of the sword. Although a foul and dangerous place, there are
-many things that can be bought and sold here because of the shady sorts this place attracts. The last place even the toughest, most brutal of
-scum would think twice before making their camp there is within the haunted ruins of Mordheim itself. The dead are said to walk here and
-the foul servants of the Shadow Lord are everywhere, waiting to claim the souls of the unwary. There are those, however, that brave the
-mutant infested cursed city even after nightfall but then again they seem quite suited to it. Foul Ratmen scurry about the sewers,
-Necromancers make their homes, confidant that the foolish righteous won’t disturb their unholy practices and, of course, the children of the
-Shadow Lord, the Possessed, claim the ruins as their domain.
-
-##### Experimental Rules
-
-When starting a new campaign, all players must decide or not
-to use the encampment rules. Only after their first battle may
-each player then try to find a settlement and make camp.
-First, they must decide which of the settlements they wish to
-set up camp in (obviously dependent upon which settlements
-will let them in!) or if they want to risk actually staying in the
-cursed city. When you decide where you want them to stay.
-A warband may only have one camp at a time and may only
-reroll for a new camp if they lose their original one or they
-have upgraded to a new site after three rounds. Any effects
-that a camp provides start after the warband’s next battle.
-After each battle you may find out if you gain income, if
-other warriors join the warband, or if repairs need be made to
-the camp.
-After each battle you may choose to visit locations within the
-settlement to procure goods and entertainment. If you don’t,
-you may use the Trading chart as normal. Different locations
-can help you find items, receive healing, make money or
-other things. Between location visits, you must roll on the
-Events table to find out what happens to the warband as it
-carouses around the town.
-
-##### Special Rules
-
-```
-Warband Size: With a camp to call home many warriors
-will come knotting. The size of the warband may increase to
-three times greater than the warband’s maximum starting
-size. Also your warband may have up to twice the number of
-marked heroes (other than the Leader) and henchmen groups,
-also you may have up to 5 model with the ‘Lad’s Got Talent’,
-However the normal maximum on a warband will apply
-when fighting a Scenario (only if Scenario: Defend the
-Camp, then the whole warband may be used.)
-Upkeep Cost: Any Hired Sword which is left behind at the
-encampment will only charge haft the standard upkeep for
-that battle. Hired swords that are recovering from wounds
-may only charge haft the standard upkeep, roll a D6 for each
-wounded Hired Sword on a 4+ he will not charge for upkeep.
-Any Dramatis Personae will not wait around in some camp,
-so if a Dramatis Personae if left behind they will leave the
-warband.
-```
-Assembled By Paul H Page 315 (knights_templar@hotmail.com)
-
-
-##### Types of Encampment
-
-Barracks: The Barracks are used by most of the Human
-warbands, Any Mercenaries warbands increasing the
-maximum number of warband member by +1 model.
-Caves: There are many caves found all around Mordheim,
-and most of these caves are home to some sort of monsters.
-The caves are commonly used by the Beastmen raiders and
-Green-skins warbands. But the Cults of the Possessed also
-have been known to uses the caves. Beastmen raiders may
-recruit a Minotaur at haft the normal price. Green-skins may
-recruit a Troll at haft the normal price. If the cave is used by
-any other warbands, then on every other game, Roll a d6, on
-a 5+ you have to defend against: Beastmen raiders, Green-
-skins, or Possessed warband.
-Cellars: When the building above is burn away the cellar is
-all that is left. With no one left to rebuild, the cellars become
-places of refuges of many warbands, been underground the
-equipment can hidden away from prying eyes. The Skaven
-warbands may have D3 extra giant rats for free.
-Churches: The church is a holy place for many warbands
-and for some an unholy place. Witch Hunter & Sister of
-Sigmar warbands may have D3 vile of Holy water every
-game, Any human warbands (non-chaotic), dwarven
-warbands or elven warbands may hire a Cleric, Warrior Priest
-or Wolf Priest at haft the normal hiring cost, upkeep is as
-normal. The church may be fitted with bell tower. This act as
-a scout tower and have the following special rule:
-Church Bells - Then defending the base camp, the defender may
-ring the church bells at the start of the assault phase. If rung all
-defending model gain a +1 Initiative and cause fear for that turn
-(this may be rung in the attacker’s turn). At the end of turn roll a D6
-on a 5+ the bell breaks from it mountings, the bell cannot be used
-for the rest of the game, and will cost 25 gold crown to repair and
-the upkeep increases by +2D6 for each time the bell breaks.
-Crypt/Mausoleum: You have found a graveyard to your
-liking. With nice mausoleums and plenty of corpses. The
-grave corpses tend to be better preserved and good for
-reanimating, this encampment has the following special rule:
-Grave Robbing - The income of a warband that set up in a
-Crypt/Mausoleum and Grave Robbing will increase to 3D6. Undead
-warbands will dig up suitable corpses on a 9 or less.
-
-```
-Farmhouse: In your meandering you have found a deserted
-farm. Your warband may work it to earn some extra cash, this
-encampment has the following special rule:
-Working the land - The income of a warband that set up in a Farm
-and Working the land will increase to 2D3 and will gain +1
-Experience on a 5 or 6.
-Guardhouse: Normally Guardhouse are made out of stone
-and look like a watchtower built onto the side of a Barracks.
-The Guardhouse gives your warband the advantage of having
-a high place to shoot from and Counts as hard cover (-2).
-House: the House is just that, a house with three (maybe
-four) walls and sometimes a roof.
-Manor: In your meandering you have found a Manor. Your
-warband has taken it over and fixed it up to your liking.
-Merchants see the house as a sign of wealth and are more apt
-to stop by to sell their wares. Add +2 to find items roll on the
-trading chart.
-Safe House (Sister of Sigmar only): The Save Houses are
-only used be the Sister of Sigmar. The house comes with a
-fence, wall or some other barrier to keep out riffraff. The Safe
-House gives the Sister of Sigmar warband one reroll per
-battle.
-Sewers: You have found a lovely section of sewer to set up
-camp in. It even has some nice tunnels running off of it to
-who knows where. Skaven may have an extra rat ogre.
-Allows up to three Henchmen group to be held in reserve at
-the start of the game and placed anywhere on the board at the
-start of your turn - no closer than 8" to an enemy model,
-Sewer sickness - Roll a D6 for each person staying here on a 1 they
-are sick and can’t fight in the next game. Skaven roll 2D6 and on a
-12 they can’t fight.
-Tavern: You have gotten your warband a deed to a Tavern.
-You get to earn extra cash for renting out rooms and selling
-food, but have become more noticeable as a warband. This
-encampment has the following special rule:
-Drunken Pay - The income of a warband that set up in a Tavern
-and Drunken Pay will increase to 2D4 and times it by 4.
-Tents: See encampment equipment for the Full rules for tents
-in Mordheim.
-Ruins: There are many runes in the City of Mordheim and
-around the outer walls. Any warband staying in the runes
-may roll an extra dice on the Exploration chart; however you
-may only pick a maximum of six dice out of all.
-```
-(knights_templar@hotmail.com) Page 316 Assembled by Paul H
-
-
-##### Income
-
-The warbands can be supplement their income, members of a
-warband which stay behind can work to gain extra income or
-other benefits for the warband. Recovering warband members
-cannot work. The some jobs that a warband can do, is based
-on location of encampment, type of encampment and type of
-warband.
-Working the land: Any member of the warband may work
-the common farmland, for each member of the warband
-which work the land get D3 GC for their time and roll D6 for
-each hero/henchmen group and on a 6 they gain +1
-Experience.
-Part of the Watch: Any member of the warband may help
-out the City Watch for a day, for each hero/henchmen group
-helping the City Watch gains 30 GC for their trouble. If a
-warband get in trouble with the City Watch roll at the start of
-the next time your warband meets on a 5+ the enemy
-warband hate your warband. Note that this will only applies
-for that one game.
-Drunken Pay: The location Tavern is always looking for
-help. Any member of the warband may help out, as bar staffs,
-bounces or as a kitchen hands. For each five members roll D6
-and times it by 5 GC.
-Morr’s Work: Any member of the warband may help out
-around the Temple of Morr, Digging Graves, helping with
-repairs, etc. For each two members gets 2D6 GC. Also for
-each member roll a D6 on a 6, the member has injury
-
-```
-themselves, Roll on the serious injury charts (treat like they
-had been taken Out Of Action).
-Grave Robbing: Any member of the warband may choose to
-dig up a fresh grave and take what they can find. For each
-two members gets 2D6 GC. Also for each member roll a D6
-on a 6, the member has injury themselves, Roll on the serious
-injury charts (treat like they had been taken Out Of Action).
-Undead warbands may just dig up corpses instead, Roll 2D6
-if the roll is 7 or less then they have dug up a corpse suitable
-to become a Zombie, one zombie should be added free to the
-warband Roster.
-```
-##### Hired Help
-
-```
-With an encampment setup, a warband may hire some help
-from the locals to employ their skills for the warband. Your
-warband may get the help from a displace Beast Handle,
-Blacksmith, Cartographer, Fletcher, or Gunsmith. Each hired
-help act like a Hired Sword. Use the profiles in the Beasts,
-Monster & Townsfolk section for the Hired Help.
-Names Hired Cost Upkeep
-Alchemist 40 GC 20 GC
-Beast Handle 40 GC 15 GC
-Blacksmith 50 GC 15 GC
-Cartographer 15 GC 5 GC
-Fletcher 45 GC 15 GC
-Gunsmith 45 GC 15 GC
-Merchant 30 GC 10 GC
-```
-##### Locations
-
-After each battle you may choose to visit locations within the
-settlement to procure goods and entertainment. If you don’t,
-you may use the Trading chart as normal. Different locations
-can help you find items, receive healing, make money or
-other things. Between location visits you must roll on the
-Events table to find out what happens to the warband as it
-carouses around the town.
-
-A Visit to the Apothecary
-Each warrior may only attempt to get treatment for one injury
-at a time, and only one attempt at treatment per Hero may be
-made during each post battle sequence. The cost for treatment
-will vary from location to location per attempt (one attempt =
-one roll on the table), and this money must be paid before
-rolling on the table – Mordheim physicians demand payment
-in advance, while the patient is still capable of doing so!
-When you visit an Apothecary you may add +1 to find the
-drugs or potions that you are looking for.
-Necromancers often visit the surgeon looking for body parts
-and bodies for their creations and zombies. A necromancer
-may stop by the surgeon to find bodies for zombies and
-reanimate them. Roll a d6 if you roll a 6 you may add a
-zombie to your warband at 1/2 the cost.
-The following injuries cannot be treated: Chest Wound,
-Blinded in One Eye, and Old Battle Wound. They are
-permanent damage the afflicted warrior will carry to his
-grave.
-The following injuries use the Limb Surgery table: Leg
-Wound, Smashed Leg, and Hand Injury.
-The following injuries use the Brain Surgery table:
-Madness and Nervous Condition.
-
-```
-Surgery table
-2D6 Result
-2-3 ‘Someone fetch a priest!’
-The unfortunate patient has expired due to excessive blood
-loss. The Hero is dead and must be stricken from the
-warband record, but his equipment is retained by the
-warband.
-4 ‘This has got to come off!’
-The surgeon has felt the need to amputate, ostensibly to
-‘keep the rot out’. If a leg was being treated, the model now
-has its Movement halved (rounding up); if a hand was being
-treated, the warrior may only use a single-handed weapon
-from now on.
-5-6 ‘Sorry, lad!' Done my best!’
-The surgery was unsuccessful, and the warrior must miss the
-next battle while he recovers.
-7-8 ‘No luck!’
-The surgery was unsuccessful.
-9-10 ‘Mind you stay off it for a bit!’
-The surgery was successful! The warrior may remove the
-injury and its adverse effects from his profile. He must,
-however, miss the next battle while he recovers.
-11-12 ‘Shallaya be praised!’
-The surgery was a complete success! The warrior may
-remove the injury and its adverse effects from his profile.
-```
-Assembled By Paul H Page 317 (knights_templar@hotmail.com)
-
-
-Brain Surgery table
-2D6 Result
-2-3 ‘Someone fetch a priest!’
-The physician has been a bit too zealous in his treatment.
-The Hero is dead and must be stricken from the warband
-record, but his equipment is retained by the warband.
-4-5 ‘Erm... that’s not right!’
-The treatment has not only failed to help the warrior, it has
-actually worsened his condition! The warrior is now subject
-to Stupidity. If the warrior was being treated for Stupidity,
-there is no change in his condition (except perhaps, a bit
-more drooling than usual).
-6 ‘A bit unhinged, that one!’
-The treatment has failed, and the warrior emerges from the
-treatment as something of a raving lunatic. The warrior
-suffers a -1 Initiative penalty (down to a minimum of 1). He
-is now so unsettling to behold that he causes fear.
-7-8 ‘Sorry lad! Done my best!’
-The treatment was unsuccessful, and the warrior must miss
-the next battle while he recovers.
-9-10 ‘A bit of rest, and you’ll be fine!’
-The treatment was successful! The warrior may remove the
-injury and its adverse effects from his profile. He must,
-however, miss the next battle while he recovers.
-11-12 ‘Shallaya be praised!’
-The treatment was a complete success! The warrior may
-remove the injury and its adverse effects from his profile.
-
-Cartographer
-A cartographer will help the band with their exploration. He
-also carries many different maps. You may purchase maps
-here without searching for them but the rules for maps from
-the Mordheim rulebook still apply. The cartographer is also a
-wealth of little titbits of information that he is willing to sell.
-Most of it is useless but some isn’t. If you pay him 5 GC he
-will divulge some of this info to you.
-Roll a D6 on the following chart:
-1 You may re-roll one of your Exploration dice after the next
-battle.
-2-5 The information was interesting but utterly useless.
-6 You may increase or decrease the result of one Exploration
-dice by 1 after the next battle.
-
-Fletcher
-The fletcher is a master at making bows and arrows, along
-with other missile weapons. He does not have the craft or
-know how to create Black Powder weapons though. When
-you visit a fletcher you may add +2 to find the missile
-
-```
-weapon you are looking for (this does not count towards
-Black Powder weapons though).
-Smithy
-Hearty blacksmiths work at the smithy where they fashion all
-kinds of metals into a variety of useful items. Mainly though
-they create weapons and armour. When visiting a blacksmith
-you may add +2 to your Search rolls when trying to find
-armour or close combat weapons.
-Muleskinner
-A beast master takes care of the animals. He feeds, houses
-and trains horses, ponies and dogs. He reduces the difficulty
-of finding animals by adding +2 to your dice roll on the
-Trading chart.
-Merchant
-The merchant is a purveyor of a great variety of goods. He
-sells just about anything that’s not nailed down. The
-merchant gives you +1 to find Rare items.
-```
-(knights_templar@hotmail.com) Page 318 Assembled by Paul H
-
-
-Drinking Den
-This is a tavern where you may play a game of chance, look for new recruits or just get smashed! You may gamble at any time
-in the Dancing Pig. To find out what else you can do, roll a D6 and consult the following chart.
-D6 Effects
-1 Drugged. One of your Heroes (select randomly) partakes of
-a curious drink offered to him by a stranger. After one swig
-he feels the effect of the liquid take hold – he has been
-drugged! Roll a D6 on the following table:
-1-3 Your Hero has been poisoned and is at -1 Toughness
-for the duration of the next battle.
-4-6 The liquid in question is actually a very strong ale, and
-your hero quickly gains a taste for it. He wakes up the
-next morning with a pounding head.
-2-3 Taken with the joys of hot food and a good too many bottles
-of Bugman’s, your leader and his men overspend on such
-luxuries by D6x10 GC.
-4-5 Hireling. Whilst carousing in the bar you meet many
-different characters and warriors. You sit down to have a
-few drinks with some. Roll a D6 on the following chart:
-1 You are drinking with a Halfling who, impressed with
-your propensity for ale, offers you his services at half
-the normal rate for the next battle.
-2 An Ogre challenges you to a drinking contest. Roll a
-D6:
-1-4 He drinks you under the table – you wake the next
-day with a terrible hangover.
-5-6 You drink him under the table and he is in such
-awe that he offers you his services for the next
-battle for free.
-3 You sit down with a mysterious Elven Ranger and
-start to tell tales of your exploits. One of your tales
-moves him so much, he offers you his services at half
-the cost for the next battle.
-4 You sit down and share a drink with a Freelancer. As
-the night wears on you find that he and your father
-served in the same company together. He offers you
-his services for the next battle for free.
-5 You find yourself drinking with a young fellow who is
-itching to test his metal in the Cursed City – you may
-add an extra henchman to your party (not above your
-warband’s maximum number of warriors however).
-6 You sit with a fellow who looks battle hardened. As
-you talk, you discover that the rest of his warband was
-slain searching the ruins. You may ask him to join
-your warband as a Hero. You may add a Hero to your
-warband for free, although only if you haven’t got the
-maximum number of Heroes already.
-6 Bar Room Brawl. Your leader gets into an argument with
-another patron in the tavern. The argument soon escalates
-quickly. Roll a D6 on the following table:
-1 Your leader is thrashed and must make an immediate
-roll on the Injury table.
-2 Your leader takes quite a beating and leaves D6 GC
-poorer.
-3 Your leader knocks the patron to the ground and takes
-D6x3 GC from his purse for his impudence.
-4 The patron is joined by his warband and an all-out
-brawl ensues. Roll a D6: 1-4 you send the warband
-fleeing and gain D6x5 GC, for your trouble. 5-6 you
-are routed and lose D6x5 GC
-5 The brawl attracts the attention of the watch, who
-arrive to throw the patron in the stocks.
-6 The brawl attracts the attention of the watch who
-arrive to throw everyone into the stocks. You must pay
-D6x10 GC to get everyone out.
-
-```
-Gambling
-Your leader gets involved in a rather dubious game of dice.
-Roll a D6 and consult the table below:
-D6 Result
-1 Your leader loses 3D6 GC and comes away a little wiser.
-2-5 Your leader manages to break even.
-6 Your leader gambles away a fortune before Lady Luck
-smiles on him and he wins it all back with interest. Collect
-3D6 GC in winnings.
-```
-Assembled By Paul H Page 319 (knights_templar@hotmail.com)
-
-
-##### Sigmarhaven
-
-Sigmarhaven, bastion of hope and goodwill, is located to the
-north-east of Mordheim where the River Stir still runs pure. It
-is not the largest of the settlements around Mordheim but is
-by far the safest. The settlement is surrounded by a wooden
-palisade and has a well-armed militia, which is paid for and
-maintained by tithes from all of the warbands that reside
-there.
-Sigmarhaven was originally founded by the Sigmar-fearing
-folk who managed to flee the cursed city but has since
-become the refuge of Witch Hunters and Reiklanders alike. A
-makeshift wooden temple stands in the centre of this shanty
-of wooden shacks and canvas tents, and the priests of Sigmar
-preside over the settlement and deal with the day-to-day
-running of the place. The centre of the settlement is a bustling
-market place where traders and merchants can buy and sell
-their wares – everything from food, ale and weapons to
-horses and even Wyrdstone. Most honest, decent folk are
-welcomed here from many of the Empire’s outlying
-provinces, and even the odd Elf or Dwarf can be found
-wandering around the morass of camps.
-Who may camp here: The Warbands which are allowed the
-stay inside the wall of Sigmarhaven are of a Lawful, Lawful /
-Neutral or Neutral Alignment, apart from the Outlaw, Pit
-Fighter and Norse Warbands.
-Housing: Most of Sigmarhaven housing is of tents or small
-wooden shacks, when a new warbands arrives they are
-assigned a block, it is up the warband’s leader to work out
-how to best use the block.
-Apothecary Cost: 20 gold crowns per attempt
-Special Rules:
-Upkeep: For any warband residing within Sigmarhaven is
-responsible for the upkeep and defence of the place – as a
-result a tithe of two shards of Wyrdstone must be paid after
-each battle.
-Type Cost Upkeep Availability
-Barracks 25 10 Common
-Caves * ** Common
-Cellars * ** Common
-Churches 100 15 Common
-Crypt/Mausoleum 50 10 Common
-Farmhouse 10 5 Common
-Guardhouse 50 20 Rare 10
-House * ** Common
-Manors 150 30 Rare 10
-Safe Houses * ** Common
-Sewers 25 10 Rare 8
-Tavern 150 30 Rare 8
-Tent X ** Common
-Ruins * ** Common
-
-##### Brigandsburg
-
-```
-Brigandsburg tends to house the more unsavoury characters.
-Middenheimers abound here as do Witch Hunters. Some
-Reiklanders set up camp here and very few Marienburgers
-(after all it is too filthy for them). The Sisters have a presence
-here but it is only a safe house. Possessed are a rare site but
-do appear at times.
-Who may camp here: Most Warbands are welcome the stay
-at Brigandsburg apart from the Beastmen raiders.
-Housing: Most of Brigandsburg housing is of tents or
-wooden shacks,
-Apothecary Cost: 15 gold crowns per attempt
-Special Rules:
-Hired Swords: Here you will find the most hired swords. If
-hired out of Brigandsburg they are hired at 75% of the base
-cost but their upkeep is the same.
-Type Cost Upkeep Availability
-Barracks 25 10 Common
-Caves * ** Common
-Cellars * ** Rare 9
-Churches 100 15 Rare 11
-Crypt/Mausoleum 50 10 Common
-Farmhouse 10 5 Common
-Guardhouse 50 20 Rare 9
-House * ** Common
-Manors 150 30 Rare 10
-Safe Houses * ** Rare 10
-Sewers 25 10 Rare 9
-Tavern 150 30 Rare 8
-Tent X ** Common
-Ruins * ** Common
-```
-(knights_templar@hotmail.com) Page 320 Assembled by Paul H
-
-
-Assembled By Paul H Page 321 (knights_templar@hotmail.com)
-
-##### Cutthroat’s Den
-
-Cutthroat’s Den is a place of villainy and evil. It is located on
-the west side of Mordheim. Anyone with gold is allowed in
-and those without tend to find their hands in other people's
-pockets.
-Cutthroat’s Den does not have much in the range of defence
-(it is up to the warband to defence themself). As for the City
-Watch, it works for the City’s Crime boss and would only
-defence itself.
-There are a few brave souls (or fools as some have said) that
-stay in Cutthroat to make money. The famous Twisted Goat
-is located here. Despite being in a bad town the owner keeps
-it clean and safe as brawls are at a minimum. The infamous
-Pit resides in the centre of town. Many have lost their lives
-here and many have made their fortunes. The slaver Ashen
-Pettyflesh has a thriving business here. He sales any
-humanoid for a price to anyone with the right amount of
-money. When visiting Cutthroat’s Den you may find many
-special locations. You may choose to skip visiting locations
-and use the trading chart to get equipment.
-Who may camp here: The warbands that are welcome (kind
-of) at Cutthroat’s Den are Lawful / Neutral, Neutral, Neutral /
-Chaotic, Chaotic Alignment, apart from the Beastmen
-raiders.
-Housing: the Houses at Cutthroat’s Den wooden shacks,
-tents or haft stone/wood buildings.
-Apothecary Cost: 5 gold crowns per attempt
-Special Rules:
-All goods are at a +2 to find but cost price and a half what
-they would normally.
-Type Cost Upkeep Availability
-Barracks 25 10 Common
-Caves * ** Common
-Cellars * ** Common
-Churches 100 15 Rare 12
-Crypt/Mausoleum 50 10 Common
-Farmhouse 10 5 Common
-Guardhouse 50 20 Rare 10
-House * ** Common
-Manors 150 30 Rare 12
-Safe Houses * ** Rare 12
-Sewers 25 10 Common
-Tavern 150 30 Rare 6
-Tent X ** Common
-Ruins * ** Common
-
-##### Mordheim
-
-```
-Mordheim the dammed city itself, where the surviving
-townsfolk fled and the adventures head for. Most of the once
-great city now lies in runes, cause by the impact and the
-following fire.
-Who may camp here: Any Warbands may choose to stay
-within the wall of the curse city.
-Housing: Most of housing in Mordheim are runes,
-Apothecary Cost: 35 gold crowns per attempt
-Special Rules:
-(Unknown)
-Type Cost Upkeep Availability
-Barracks 25 10 Rare 12
-Caves * ** Common
-Cellars * ** Common
-Churches 100 15 Rare 10
-Crypt/Mausoleum 50 10 Common
-Farmhouse 10 5 Rare 8
-Guardhouse 50 20 Rare 9
-House * ** Common
-Manors 150 30 Rare 8
-Safe Houses * ** Rare 7
-Sewers 25 10 Common
-Tavern 150 30 Rare 8
-Tent X ** Common
-Ruins * ** Common
-```
-```
-X = You will find the cost of a tent on the Price Chart in
-the Trading section.
-* = The cost of purchase change depending on the size
-of the warband, for the first 6 members of the 15
-GC, for each 6 members (or part of) after the first
-will increase the Cost by D6+5 GC.
-** = The upkeep of the Encampment may increase
-depending on the size of the warband, for the first 12
-members of the 10 GC, for each 6 members (or part
-of) after the first will increase the Cost by D6+5 GC.
-```
-
-##### Hired Sword Availability
-
-Every settlement around the city of Mordheim has different Hired Swords Availability to the location. Roll 2D6 to work out if
-the Warband can find the Hired Sword that they are looking for, by rolling on the Hired Sword Availability Table below.
-
-Hired Sword Availability Table
-Hired Sword Sigmarhaven Brigandsburg Cutthroat’s Den Mordheim Other Areas
-Arabian Merchant 6 6 - - 10
-Barbarian 11 9 7 7 8
-Bard 5 7 11 12 9
-Beggar Common Common Common Common Common
-Black Orc - - 9 8 10
-Bounty Hunter 7 6 6 9 9
-Chaos Warrior - - 11 7 11
-Clan Eshin Assassin - 11 8 7 9
-Clan Moulder Packmaster - 11 8 7 9
-Clan Moulder Rat Ogre Bodyguard - - 9 7 11
-Clan Skryre Poisoned Wind Globadier - 12 8 7 10
-Clan Skryre Sniper - 11 8 7 9
-Cleric 6 8 - 10 9
-Dark Elf Assassin - - 11 7 11
-Dark Elf Sorceress - - 9 9 10
-Duellist 7 8 7 10 10
-Dwarf Runesmith Journeyman 9 10 - 11 10
-Dwarf Sapper 10 10 11 10 10
-Dwarf Slayer Pirate 10 10 7 7 9
-Dwarf Treasure Hunter 10 8 - 8 9
-Dwarf Troll Slayer 10 10 7 7 9
-Elf Mage 10 10 - - 10
-Expert Marksman 7 8 9 10 9
-Freelancer 8 10 - 12 10
-Goblin Lantern Bearer - 11 8 6 9
-Halfling Scout 6 8 - - 9
-Halfling Thief - 8 6 - 8
-Highwayman - 10 6 8 10
-Hochland Huntsmaster 10 9 - - 9
-Imperial Assassin 10 8 7 - 9
-Imperial Tactician 8 8 - - 10
-Kislev Ranger 8 10 10 11 9
-Mule Skinner 8 9 11 - 9
-Norse Shaman - 9 8 - 9
-Ogre Bodyguard 10 8 7 7 9
-Ogre Slave Master - - 8 8 11
-Pit Fighter 9 9 7 7 10
-Priest of Morr 7 10 - 9 9
-Priest of Ranald 10 7 - - 9
-Priestess of Shallaya 6 8 - - 8
-Road Warden Common Common - - 9
-Shadow Warrior 9 12 - 12 11
-Thief 8 8 8 8 9
-Warlock - 10 9 6 10
-Warrior Priest of Sigmar Common 10 - 12 7
-Witch - 10 8 7 10
-Witch Hunter Common 10 10 8 10
-Wolf Priest of Ulric - 9 - 9 9
-Wood Elf Ranger 10 10 - - 11
-
-(knights_templar@hotmail.com) Page 322 Assembled by Paul H
-
 
