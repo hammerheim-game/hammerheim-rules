@@ -1,4 +1,4 @@
-Optional Rules
+# Optional Rules
 
 Including: 
 - Mounted Warriors
@@ -12,6 +12,76 @@ Including:
 - Random Happenings
 - Power in the Stones
 - Encampments
+
+<!-- MarkdownTOC -->
+
+- Optional Rules
+    - Escaping from combat
+    - Rewards of the Shadowlord
+    - Mounted Warriors
+        - Model Representation
+        - Riding Animals
+        - Mounted models in Mordheim
+        - Special Rules
+        - Losing Control
+        - Whoa Boy! Table
+    - Vehicles of the Empire
+        - Wagons
+        - Boats
+    - Blackpowder weapons
+        - Misfires
+        - Blackpowder Weapons Misfires
+    - Fighting individual battles
+        - Weapons & armor
+        - Upgrading heroes
+        - Ready for battle
+    - Night Fights
+        - Summary of rules:
+    - The Catacombs
+        - Exploring the Catacombs
+        - Rules
+        - Encounters beneath the City
+    - Sewer Fighting
+        - Sewers
+        - Darkness
+        - Lanterns
+        - Psychology
+        - Dirty slimy floor
+        - Rotten planks
+        - Face down in the sludge
+    - Fire
+        - When and Where
+        - Starting
+        - It spreads!
+        - Entering buildings on fire
+        - Moving inside
+        - Climbing
+        - Damage
+        - Frenzy
+        - Starting Fires
+        - Shooting
+        - Combat
+    - Random Happenings
+            - Random Encounters Chart
+    - Power in the Stones
+        - Evaluating Stones
+            - Using Stones
+            - Becoming a Chaos Spawn
+            - Random Mutation Table
+    - Encampments
+        - Experimental Rules
+        - Special Rules
+        - Types of Encampment
+        - Income
+        - Hired Help
+        - Locations
+        - Sigmarhaven
+        - Brigandsburg
+        - Cutthroat’s Den
+        - Mordheim
+        - Hired Sword Availability
+
+<!-- /MarkdownTOC -->
 
 
 ### Optional Rules

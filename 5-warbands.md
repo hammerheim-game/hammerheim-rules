@@ -1,50 +1,467 @@
 # Warbands
 
 ## Contents
+<!-- MarkdownTOC -->
 
-Starting a Warband ............................................................. pg 69
-Mercenaries ........................................................................ pg 71
-Averlander .......................................................................... pg 74
-Ostlander............................................................................. pg 78
-Nuln Engineers ................................................................... pg 81
-Cult of the Possessed .......................................................... pg 84
-The Carnival of Chaos ........................................................ pg 87
-Beastmen Raiders ............................................................... pg 91
-Shadow Warrior Warbands ................................................. pg 94
-Forest-Walker Warbands .................................................... pg 97
-Witch Hunters ..................................................................... pg 102
-Sisters of Sigmar ................................................................. pg 105
-Bretonnia Crusades ............................................................. pg 107
-Kislevite Warband .............................................................. pg 111
-Dwarf Treasure Hunters ..................................................... pg 117
-Dwarf Rangers .................................................................... pg 117
-Von Carstein Warband ....................................................... pg 121
-Blood Dragon Knights ........................................................ pg 124
-Lahmian Warband .............................................................. pg 127
-Tilean Warband .................................................................. pg 131
-Outlaw Warband ................................................................. pg 134
-Pit Fighter Warband ............................................................ pg 136
-Norse Warband ................................................................... pg 139
-Dark Elf Warband ............................................................... pg 142
-Cult of Khaine .................................................................... pg 145
-Clan Eshin .......................................................................... pg 147
-Clan Moulder ...................................................................... pg 150
-Clan Pestilens ..................................................................... pg 153
-Clan Skryre ......................................................................... pg 155
-Orc Mob ............................................................................. pg 158
-Black Orcs Mob .................................................................. pg 161
-Forest Goblin Mob .............................................................. pg 164
-Hobgoblin Wolf Rider Mob ................................................ pg 167
-Campaigns
-Campaigns .......................................................................... pg 170
-Experience .......................................................................... pg 173
-Two Player Scenarios ......................................................... pg 192
-Multiplayer Scenarios ......................................................... pg 202
-Income ................................................................................ pg 217
-Trading ............................................................................... pg 225
-Hired Swords ...................................................................... pg 229
-Dramatis Personae .............................................................. pg 253
-Beasts, Monsters & Townsfolk ........................................... pg 266
+- Starting a Warband
+    - Skill tables and starting experience
+    - Heroes and henchmen
+    - Heroes
+    - Leader
+    - Other heroes
+    - Henchmen
+    - Weapons and armor
+    - Warband roster
+    - Calculate the warband rating
+    - Ready for battle
+- Warbands
+    - Mercenaries
+        - Reikland
+        - Middenheim
+        - Marienburg
+        - Choice of warriors
+        - Starting experience
+        - Mercenary equipment lists
+        - Heroes
+        - Henchmen
+    - Averlander
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Averlander equipment lists
+        - Heroes
+        - Henchman
+    - Ostlander
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Ostlander equipment lists
+        - Heroes
+        - Henchmen
+    - Nuln Engineers
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Nuln Engineers Equipment List
+            - Marksman
+            - Guardsman
+        - Heroes
+        - Henchmen
+    - Cult of the Possessed
+        - Special Rules
+        - Choice of warriors
+        - Starting experience
+        - Possessed equipment lists
+        - Heroes
+        - Henchmen
+    - The Carnival of Chaos
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Carnival equipment lists
+        - Heroes
+        - Henchmen
+    - Beastmen Raiders
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Beastman equipment lists
+        - Heroes
+        - Henchmen
+    - Shadow Warrior Warbands
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Shadow Warrior equipment lists
+        - Heroes
+        - Henchmen
+    - Forest-Walker Warbands
+        - Forest of Athel Loren
+        - Forest of Shadows
+        - The Great Forest
+        - Wood Elves Special Rules
+        - Choice of warriors
+        - Starting experience
+        - Forest-Walker equipment lists
+        - Heroes
+        - Henchmen
+    - Witch Hunters
+        - Special Rules
+        - Choice of Warriors
+        - Starting experience
+        - Witch hunter equipment lists
+        - Heroes
+        - Henchmen
+    - Sisters of Sigmar
+        - Special Rules
+        - Choice of warriors
+        - Starting experience
+        - Sisters of Sigmar equipment lists
+        - Heroines
+        - Henchwomen
+    - Bretonnia Crusades
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Bretonnian equipment lists
+        - Heroes
+        - Henchmen
+    - Kislevite Warband
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Kislevite Equipment List
+        - Heroes
+        - Henchmen
+    - Dwarf Treasure Hunters
+        - Special Rules
+        - Choice of warriors
+        - Starting experience
+        - Dwarf equipment lists
+        - Heroes
+        - Henchmen
+    - Dwarf Rangers
+        - Special Rules
+        - Choice of Warriors
+        - Starting experience
+        - Dwarf Ranger Equipment list
+        - Heroes
+        - Henchmen
+        - Dwarf Runes
+    - Von Carstein Warband
+        - Special Rules
+        - Choice of warriors
+        - Starting experience
+        - Undead equipment lists
+        - Heroes
+        - Henchmen
+    - Blood Dragon Knights
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Blood Dragon Equipment List
+        - Heroes
+        - Henchmen
+    - Lahmian Warband
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Lahmian Equipment List
+        - Heroes
+        - Henchmen
+    - Tilean Warband
+        - Miragleans
+        - Remasens
+        - Trantios
+        - Choice of Warriors
+        - Starting Experience
+        - Tilean equipment lists
+        - Heroes
+        - Henchmen
+    - Outlaw Warband
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Outlaws equipment lists
+        - Heroes
+        - Henchmen
+    - Pit Fighter Warband
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Pit Fighter Equipment List
+        - Heroes
+        - Henchmen
+    - Norse Warband
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Norse equipment lists
+        - Heroes
+        - Henchmen
+    - Dark Elf Warband
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Dark Elf equipment lists
+        - Heroes
+        - Henchmen
+    - Cult of Khaine
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Cult of Khaine Equipment List
+        - Heroes
+        - Henchmen
+    - Clan Eshin
+        - Special Rules
+        - Choice of warriors
+        - Starting experience
+        - Clan Eshin Equipment Lists
+        - Heroes
+        - Henchmen
+    - Clan Moulder
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Clan Moulder Equipment List
+        - Heroes
+        - Henchmen
+    - Clan Pestilens
+        - Special Rules
+        - Starting Experience
+        - Choice of Warriors
+        - Clan Pestilens equipment lists
+        - Heroes
+        - Henchmen
+    - Clan Skryre
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Clan Skryre Equipment List
+        - Heroes
+        - Henchmen
+    - Orc Mob
+        - Special Rules
+        - Choice of Warriors
+        - Starting experience
+        - Orc equipment lists
+        - Heroes
+        - Henchmen
+    - Black Orc Mob
+        - Special Rules
+        - Choice of Warriors
+        - Starting experience
+        - Black Orc Equipment List
+        - Heroes
+        - Henchmen
+    - Forest Goblin Mob
+        - Special Rules
+        - Choice of Warriors
+        - Starting Experience
+        - Forest Goblin equipment lists
+        - Heroes
+        - Henchmen
+    - Hobgoblins Wolf Rider Mob
+        - Background
+        - Special Rules
+        - Choice of Warriors
+        - Starting experience
+        - Hobgoblin equipment lists
+        - Heroes
+        - Henchmen
+- Campaigns
+    - Starting a campaign
+    - Playing a campaign game
+    - Warband rating
+    - Post battle sequence
+    - Disbanding warbands
+    - Death of a Warrior
+    - Death of a Leader
+    - Buying new equipment between games
+    - Serious injuries
+        - Henchman with Serious Injuries
+        - Heroes with Serious Injuries
+    - Heroes’ serious injuries chart \(roll D66\)
+- Experience
+    - Earning experience
+    - Experience advances
+    - Underdogs
+    - Advance rolls
+        - Heroes
+        - Henchmen
+    - New skills
+    - Characteristic increase
+- Skills & Abilities Lists
+    - Common Skills
+    - Combat Skills
+    - Shooting Skills
+    - Academic Skills
+    - Strength Skills
+    - Speed Skills
+    - Alchemy Ability
+    - Assassin Special Skills
+    - Beastmen Raiders Special Skills
+    - Blessings of Nurgle
+    - Blood Dragon’s Bloodline Abilities
+    - Bretonnian Knights Special Skills
+    - Cavalry Skills
+    - Clan Eshin Special Skills
+    - Clan Moulder Special Skill
+            - Clan Moulder Mutation
+    - Clan Pestilens Special Skills
+    - Clan Skryre Special Skills
+    - Dark Elf Special Skills
+    - Dirty Tricks Special Skills
+    - Dwarf Special Skills
+    - Far-sight Ability
+    - Halfling Special Skills
+    - Hobgoblin Special Skills
+    - Kislev Ranger Skills
+    - Lahmia Special Skills
+    - Marks of Chaos
+    - Musicians Skills
+    - Mutations
+    - Norse Special Skill
+    - Orcs Special Skills
+    - Ostlanders Special Skills
+    - Pit Fighters Special Skills
+    - Sewer Fighter Special Skills
+    - Sisters of Sigmar Special Skills
+    - Shadow Warrior Special Skills
+    - Troll Slayer Special Skills
+    - Von Carstein Special Skills
+    - Wardancer Skill List
+    - Wood Elf Special Skills
+- Starting the game
+    - Pre-battle sequence
+    - Rules for playing multiplayer games
+    - Creating a Scenario Table
+        - Scenario table
+    - Two Player Scenarios
+        - Scenario: Defend the find
+        - Scenario: Skirmish
+        - Scenario: Wyrdstone hunt
+        - Scenario: Breakthrough
+        - Scenario: Street fight
+        - Scenario: Chance encounter
+        - Scenario: Hidden treasure
+        - Scenario: Occupy
+        - Scenario: Surprise attack
+        - Scenario: The Rescue
+        - Scenario: Stake-Out
+        - Scenario: Race to the Stash
+        - Scenario: Camp Assault
+        - Scenario: Happy Harpy Hunting Grounds
+    - Multiplayer Scenarios
+        - Scenario: Treasure hunt
+        - Scenario: Street brawl
+        - Scenario: The Lost Prince
+        - Scenario: The Pool
+        - Scenario: Ambush!
+        - Scenario: Monster Hunt
+        - Scenario: The Writing on the Wall
+        - Scenario: Spawn Hunting
+        - Scenario: The West Gatehouse
+        - Scenario: The Raven Barracks
+        - Scenario: The Wizard’s Mansion
+        - Scenario: The Gaol
+        - Scenario: Executioner’s Square
+        - Scenario: The Great Library
+        - Scenario: The Middle Bridge
+        - Scenario: The Cemetery of St. Voller
+        - Scenario: The Merchant Square
+- Income
+    - Rolling multiples
+    - Exploration procedure
+    - Exploration chart
+        - Doubles
+        - Triples
+        - Four of a kind
+        - Five of a kind
+        - Six of a kind
+    - Magical artefacts table
+    - Selling wyrdstone
+    - Sisters of Sigmar and income
+    - Skaven and Undead
+    - Spending income
+- Tr a ding
+    - Spending cash
+    - New recruits
+    - Recruiting hired swords
+    - New recruits and existing henchmen
+    - groups
+    - Weapons
+    - Trading
+    - Availability
+    - Selling
+    - Price chart
+- Hired Swords
+    - Recruiting hired swords
+    - Hire fee
+    - Injuries
+    - Hired swords and experience
+    - Hired Sword List
+        - Arabian Merchant
+        - Barbarian
+        - Bard
+        - Beggar
+        - Black Orc
+        - Bounty Hunter
+        - Chaos Warrior
+        - Clan Eshin Assassin
+        - Clan Moulder Packmaster
+        - Clan Moulder Rat Ogre Bodyguard
+        - Clan Skryre Poisoned Wind Globadier
+        - Clan Skryre Sniper
+        - Cleric
+        - Dark Elf Assassin
+        - Dark Elf Sorceress
+        - Duellist
+        - Dwarf Runesmith Journeyman
+        - Dwarf Sapper
+        - Dwarf Slayer Pirate
+        - Dwarf Treasure Hunter
+        - Dwarf Troll Slayer
+        - Elf Mage
+        - Expert Marksman
+        - Freelancer
+        - Goblin Lantern Bearer
+        - Halfling Scout
+        - Halfling Thief
+        - Highwayman
+        - Hochland Huntsmaster
+        - Imperial Assassin
+        - Imperial Tactician
+        - Kislev Ranger
+        - Mule Skinner
+        - Norse Shaman
+        - Ogre Bodyguard
+        - Ogre Slave Master
+        - Pit Fighter
+        - Priest of Morr
+        - Priest of Ranald
+        - Priestess of Shallaya
+        - Road Warden
+        - Shadow Warrior
+        - Thief
+        - Warlock
+        - Warrior Priest of Sigmar
+        - Witch
+        - Witch Hunter
+        - Wolf Priest of Ulric
+        - Wood Elf Ranger
+- Dramatis Personae
+    - Looking for special characters
+    - Hire fee
+    - Experience, injuries and equipment
+        - Aenur, the sword of twilight
+        - Johann the knife
+        - Bertha Bestraufrung, High Matriarch of the Sisterhood
+        - Veskit, high executioner of Clan Eshin
+        - Ulli & Marquand
+        - Nicodemus, the cursed pilgrim
+        - The Dark Jester
+        - Countess Marianna Chevaux, Vampire Assassin
+        - A Struggle for Power
+        - Dijin Katal, The Renegade Assassin
+        - Drenok Johansen, Wielder of the great axe
+        - The Emissary of the Horned Rat, The Vermin Lord
+        - The Salesman
+- Beasts, Monsters & Townsfolk
+    - Townsfolk
+    - Attack Animals
+    - Ridden Animals
+    - Beasts
+    - Daemons
+        - Khorne
+        - Nurgle
+        - Slaanesh
+        - Tzeentch
+    - Undead
+    - Monsters
+
+<!-- /MarkdownTOC -->
 
 
 ### Starting a Warband

@@ -1,5 +1,102 @@
 # Core Rules
 
+<!-- MarkdownTOC -->
+
+- Tabletop conflict
+- Building a warband
+        - New players
+        - Warhammer players
+        - What you will need
+            - Citadel models
+            - Playing surface
+            - Terrain
+            - Counters
+            - Hidden Counter Wyrdstone Counter
+            - Dice
+            - Tape measure
+            - Other equipment
+    - Characteristics
+        - Zero level characteristics
+        - Characteristic profiles
+        - Characteristic tests
+        - Leadership tests
+    - The Turn
+        - Phases
+        - Recovery phase
+    - Movement
+        - Moving
+        - Running
+        - Charge!
+        - Charging more than one opponent
+        - Hiding
+        - Terrain
+        - Climbing
+        - Jumping down
+        - Diving charge
+        - Jumping over gaps
+        - Warriors knocked down or stunned
+        - Falling
+        - Swimming
+    - Shooting
+        - Who can shoot
+        - Closest target
+        - Cover
+        - Shooting from an elevated position
+        - Range
+        - Hitting the target
+        - Hit modifiers
+        - Roll to Wound
+        - Critical Hits
+            - Missile weapons
+            - Bludgeoning weapons
+            - Bladed weapons
+            - Unarmed combat
+            - Thrusting weapons
+        - Armor
+        - Armor save modifiers
+        - Injuries
+        - Knocked down
+        - Stunned
+        - Out of action
+    - Close Combat
+        - Who can fight
+        - Who strikes first
+            - Which models fight
+        - Hitting the enemy
+            - Fighting with two weapons
+        - Weapon modifiers
+        - Roll to wound
+        - Armor
+        - Armor save modifiers
+        - Parry
+        - Warriors knocked down
+        - Warriors stunned
+        - Attacking stunned and knocked down
+        - warriors
+        - Moving from combat
+        - Breaking from combat
+    - Leadership & psychology
+        - The rout test
+        - Voluntary rout
+        - Leaders
+        - All alone
+        - Fear
+        - Frenzy
+        - Hatred
+        - Stupidity
+    - Alignment
+        - Multi-player Games
+            - Distrusted Alliance
+        - Bonuses
+            - Lawful
+            - Lawful / Neutral
+            - Neutral
+            - Neutral / Chaotic
+            - Chaotic
+
+<!-- /MarkdownTOC -->
+
+
 ## Tabletop conflict
 
 In Mordheim, the opposing factions – warbands – are represented by models, assembled and painted by you, each representing a single warrior. Your tabletop becomes part of the City of the Damned: the scene of the action, with ruined buildings, overhangs and walkways where the battles take place. 

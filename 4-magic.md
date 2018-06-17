@@ -1,6 +1,39 @@
-
-
 ### Magic
+
+<!-- MarkdownTOC -->
+
+- Allocated spells
+- Casting spells
+- Damage
+- Spell Lists
+    - Prayers of Sigmar
+    - Prayers of Shallaya
+    - Prayers of Taal
+    - Prayers of Ulric
+    - Funerary Rites
+    - Prayers of Ranald
+    - Norse Runes
+    - Shadow Warrior Magic
+    - Fey Magic
+    - Spells of the Djed’hi
+    - Lesser magic
+    - Charms & Hexes
+    - Dark Elf Magic
+    - Necromancy
+    - Chaos Rituals
+    - Nurgle Rituals
+    - Magic of the horned rat
+    - Call of the Pack
+    - Prayers of Corruption
+    - Machine Curses
+    - Waaagh! Magic
+    - Forest Goblin Spells
+    - Magic of the Steppes
+    - Lore of Light
+    - Lore of Darkness
+
+<!-- /MarkdownTOC -->
+
 
 There have always been those who have used magic: witches
 and wizards, wise women and warlocks. But as all scholars

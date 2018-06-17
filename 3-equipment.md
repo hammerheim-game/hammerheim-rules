@@ -1,5 +1,221 @@
 # Weapons & Armor
 
+<!-- MarkdownTOC -->
+
+- Close Combat Weapons
+    - Axe
+    - Ball and Chain
+    - Barbed Spear
+    - Beastlash
+    - Boss Pole
+    - Brazier Iron
+    - Censer
+    - Claw of the Old Ones
+    - Dagger
+    - Disease Dagger
+    - Double-Handed Weapon
+    - Dwarf Axe
+    - Fighting Claws
+    - Fist
+    - Flail
+    - Halberd
+    - Hammer, staff, mace or club
+    - Horseman’s Hammer
+    - Katar
+    - Lance
+    - Morning Star
+    - Pike
+    - Plague Sword
+    - Punisher Whip
+    - Rapier
+    - Saerath
+    - Scythe
+    - Serpent Whip
+    - Sigmarite Warhammer
+    - Spear
+    - Spiked Gauntlet
+    - Squig Prodder
+    - Star-Blade
+    - Star-Sword
+    - Steel Whip
+    - Sword
+    - Sword Breaker
+    - Weeping Blades
+    - Whip
+- Close Combat Upgrades
+    - Fog-enhancing Warpstone Shards
+- Special Weapon Types
+    - Cold Metal Weapons
+    - Dark Steel Weapons
+    - Gromril Weapons
+    - Ithilmar Weapons
+- Missile Weapons
+    - Blowpipe
+    - Bolas
+    - Bolt Thrower
+    - Bow
+    - Crossbow Pistol
+    - Crossbow
+    - Elf Bow
+    - Javelins
+    - Long Bow
+    - Poison Wind Globes
+    - Repeater Bolt Thrower
+    - Repeater Crossbow
+    - Short Bow
+    - Sling
+    - Sunstaff
+    - Sun Gauntlet
+    - Throwing Stars/Knives
+    - Tufenk
+- Missile Weapon Upgrades
+    - Black Arrow
+    - Composite / Compound
+    - Fire Arrows
+    - Hunting Arrows
+- Blackpowder Weapons
+    - Blunderbuss
+    - Duelling Pistol
+    - Hand-held Mortar
+    - Handgun
+    - Hochland Long Hunting Rifle
+    - Jezzail Rifle
+    - Nuln Shotgun
+    - Pistol
+    - Repeater Handgun
+    - Repeater Pistol
+    - Rifle
+    - Small Cannon
+    - Warpfire Thrower
+    - Warplock Pistol
+- Blackpowder Weapons Upgrades
+    - Bayonet
+    - Double-barrelled
+    - Heavier Ammunition
+    - Modified Gunsight
+    - Silver Bullets
+    - Superior Blackpowder
+- Armor & Clothing
+    - Barding
+    - Bracers
+    - Buckler
+    - Cathayan Silk Clothes
+    - Cold Metal Armor
+    - Dark Steel Armor
+    - Elven Cloak
+    - Forest Cloak
+    - Gromril Armor
+    - Heavy Armor
+    - Helmet
+    - Ithilmar Armor
+    - Light Armor
+    - Pavise
+    - Reinforced Plate Armor
+    - Sea Dragon Cloak
+    - Shield
+    - Toughened Leathers
+- desperate of buyers!
+    - Wolfcloak
+    - Miscellaneous equipment
+- Alcohol, Drugs, Poisons & Potions
+    - Black Lotus
+    - Blessed Water
+    - Bugman’s Ale
+    - Crimson Shade
+    - Dark Venom
+    - Elven Wine
+    - Garlic
+    - Healing Herbs
+    - Healing Potion
+    - Liquor Flask
+    - Mad Cap Mushrooms
+    - Mandrake Root
+    - Potion of Strength
+    - Speed Potion
+    - Spider’s Poison
+    - Tears of Shallaya
+    - Vial of Pestilens
+    - Vodka
+- Banners
+    - Banner
+    - Clan Pestilens Banner
+    - Standard of Nagarythe
+- Charms & Amulets
+    - Bear-Claw Necklace
+    - Lucky Charm
+    - Rabbit's Foot
+    - Red Toof Tribal Jewellery
+    - Tarot Cards
+    - Warpstone Amulet
+    - Wyrdstone Pendulum
+- Encampment Equipment
+    - Barricade
+    - Ditch
+    - Heads on spikes
+    - Kennel
+    - Ladders
+    - Palisade
+    - Scout Tower
+    - Stable
+    - Stakes
+    - Tents
+    - Tunnels
+    - Traps
+    - Watchtower
+- Equipment from Khemri
+    - Bota Bag
+    - Lamp of the Djinn
+    - Magic Carpet
+    - Magic Gourd
+    - Monkey’s paw
+    - Nehekharan Map
+    - Nomad Robes
+    - Scorpion Ring
+    - Snake Charmer’s Flute
+    - Venom Ring
+- Equipment from Lustria
+    - Amulet of the Moon
+    - Cloak of Mists
+    - Enchanted Skins
+    - Conch Shell Horn
+- Magic, Books & Scrolls
+    - Book of the Dead
+    - Dispel Scroll
+    - Elven Runestones
+    - Halfling Cookbook
+    - Hammer of Witches
+    - Holy \(Unholy\) Relic
+    - Holy Tome
+    - Liber Bubonicus
+    - Liturgicus Infecticus
+    - Magic Gugginz
+    - Mordheim Map
+    - Scroll of the Rat Familiar
+    - Tome of Magic
+- Musical Instruments
+    - Drum
+    - Flute
+    - Horn
+    - Lyre
+    - War Horn
+    - War Horn of Nagarythe
+- Explosives
+    - Fire Bomb
+    - Flash Powder
+    - Smoke Bombs
+- Other Items
+    - Caltrops
+    - Lantern
+    - Lock Picks
+    - Net
+    - Opulent Coach
+    - Rope & Hook
+    - Telescope
+    - Torch
+
+<!-- /MarkdownTOC -->
+
+
 Life and death in Mordheim is decided by the quantity and quality of the weapons a warrior carries. This section describes the different weapons and other equipment such as armor and shields.
 
 ## Close Combat Weapons

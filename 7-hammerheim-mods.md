@@ -1,5 +1,27 @@
 # Warhammer Fantasy Units
 
+<!-- MarkdownTOC -->
+
+- Combining warbands
+- Starting a warband
+- Purchasing units
+    - Unit prices
+    - Unit starting experience
+    - Unit limits
+    - Restrictions & misc.
+- Warhammer Magic
+- House Rules:
+- Warhammer Special Rules Edits:
+- Racial house rules
+    - Vampire counts
+    - Ogres
+    - Warriors of Chaos
+    - Beastmen
+    - Daemons of Chaos
+
+<!-- /MarkdownTOC -->
+
+
 ## Combining warbands
 
 ## Starting a warband
