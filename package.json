@@ -1,0 +1,42 @@
+{
+  "name": "hammerheim-rules",
+  "version": "1.0.0",
+  "description": "Hammerheim rules project",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.{css,scss,js}'",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/generatePDF"
+  },
+  "pre-commit": [
+    "build"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammerheim-game/hammerheim-rules.git"
+  },
+  "keywords": [
+    "hammerheim",
+    "rules",
+    "mordheim",
+    "warhammer",
+    "tabletop",
+    "game"
+  ],
+  "author": "Max Clayton Clowes <maxcc@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hammerheim-game/hammerheim-rules/issues"
+  },
+  "homepage": "https://github.com/hammerheim-game/hammerheim-rules#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "html-pdf": "^2.2.0",
+    "marked": "^0.4.0",
+    "mdpdf": "^1.6.0",
+    "merge-md": "^1.0.3",
+    "path": "^0.12.7",
+    "pre-commit": "^1.2.2",
+    "prettier": "^1.13.5"
+  }
+}

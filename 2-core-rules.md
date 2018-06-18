@@ -4,95 +4,95 @@
 
 - Tabletop conflict
 - Building a warband
-        - New players
-        - Warhammer players
-        - What you will need
-            - Citadel models
-            - Playing surface
-            - Terrain
-            - Counters
-            - Hidden Counter Wyrdstone Counter
-            - Dice
-            - Tape measure
-            - Other equipment
-    - Characteristics
-        - Zero level characteristics
-        - Characteristic profiles
-        - Characteristic tests
-        - Leadership tests
-    - The Turn
-        - Phases
-        - Recovery phase
-    - Movement
-        - Moving
-        - Running
-        - Charge!
-        - Charging more than one opponent
-        - Hiding
-        - Terrain
-        - Climbing
-        - Jumping down
-        - Diving charge
-        - Jumping over gaps
-        - Warriors knocked down or stunned
-        - Falling
-        - Swimming
-    - Shooting
-        - Who can shoot
-        - Closest target
-        - Cover
-        - Shooting from an elevated position
-        - Range
-        - Hitting the target
-        - Hit modifiers
-        - Roll to Wound
-        - Critical Hits
-            - Missile weapons
-            - Bludgeoning weapons
-            - Bladed weapons
-            - Unarmed combat
-            - Thrusting weapons
-        - Armor
-        - Armor save modifiers
-        - Injuries
-        - Knocked down
-        - Stunned
-        - Out of action
-    - Close Combat
-        - Who can fight
-        - Who strikes first
-            - Which models fight
-        - Hitting the enemy
-            - Fighting with two weapons
-        - Weapon modifiers
-        - Roll to wound
-        - Armor
-        - Armor save modifiers
-        - Parry
-        - Warriors knocked down
-        - Warriors stunned
-        - Attacking stunned and knocked down
-        - warriors
-        - Moving from combat
-        - Breaking from combat
-    - Leadership & psychology
-        - The rout test
-        - Voluntary rout
-        - Leaders
-        - All alone
-        - Fear
-        - Frenzy
-        - Hatred
-        - Stupidity
-    - Alignment
-        - Multi-player Games
-            - Distrusted Alliance
-        - Bonuses
-            - Lawful
-            - Lawful / Neutral
-            - Neutral
-            - Neutral / Chaotic
-            - Chaotic
+		- New players
+		- Warhammer players
+		- What you will need
+			- Citadel models
+			- Playing surface
+			- Terrain
+			- Counters
+			- Hidden Counter Wyrdstone Counter
+			- Dice
+			- Tape measure
+			- Other equipment
+	- Characteristics
+		- Zero level characteristics
+		- Characteristic profiles
+		- Characteristic tests
+		- Leadership tests
+	- The Turn
+		- Phases
+		- Recovery phase
+	- Movement
+		- Moving
+		- Running
+		- Charge!
+		- Charging more than one opponent
+		- Hiding
+		- Terrain
+		- Climbing
+		- Jumping down
+		- Diving charge
+		- Jumping over gaps
+		- Warriors knocked down or stunned
+		- Falling
+		- Swimming
+	- Shooting
+		- Who can shoot
+		- Closest target
+		- Cover
+		- Shooting from an elevated position
+		- Range
+		- Hitting the target
+		- Hit modifiers
+		- Roll to Wound
+		- Critical Hits
+			- Missile weapons
+			- Bludgeoning weapons
+			- Bladed weapons
+			- Unarmed combat
+			- Thrusting weapons
+		- Armor
+		- Armor save modifiers
+		- Injuries
+		- Knocked down
+		- Stunned
+		- Out of action
+	- Close Combat
+		- Who can fight
+		- Who strikes first
+			- Which models fight
+		- Hitting the enemy
+			- Fighting with two weapons
+		- Weapon modifiers
+		- Roll to wound
+		- Armor
+		- Armor save modifiers
+		- Parry
+		- Warriors knocked down
+		- Warriors stunned
+		- Attacking stunned and knocked down
+		- warriors
+		- Moving from combat
+		- Breaking from combat
+	- Leadership & psychology
+		- The rout test
+		- Voluntary rout
+		- Leaders
+		- All alone
+		- Fear
+		- Frenzy
+		- Hatred
+		- Stupidity
+	- Alignment
+		- Multi-player Games
+			- Distrusted Alliance
+		- Bonuses
+			- Lawful
+			- Lawful / Neutral
+			- Neutral
+			- Neutral / Chaotic
+			- Chaotic
 
 <!-- /MarkdownTOC -->
 
@@ -104,6 +104,8 @@ In Mordheim, the opposing factions – warbands – are represented by models, a
 The aim of the game is to outfight your opponent, which requires a mixture of skill and luck. You’ll soon learn how to arm and equip your warband effectively, and how to exploit the ruins and other terrain to your best advantage. 
 
 You’ll probably want to expand your basic warband as you and they gain experience. This is easy as there are lots of models available for the warbands and new miniatures will be coming out all the time. With these you can expand your warband, equip your warriors with different weapons and armor, and hire mercenaries to join them. 
+
+//page
 
 ## Building a warband
 
@@ -599,21 +601,21 @@ Players should establish which way the river is flowing at the
 start of the game. To represent how models interact with
 water these basic rules apply:
 1. All rivers count as difficult (or worse) terrain for all
-    models except those considered as aquatic.
+	models except those considered as aquatic.
 2. Models swimming with the current will double their
-    base move.
+	base move.
 3. Models swimming against the current of a slow
-    moving river may only move a quarter of their base
-    move, but you may not swim against the current of a
-    fast moving river.
+	moving river may only move a quarter of their base
+	move, but you may not swim against the current of a
+	fast moving river.
 4. Aquatic models suffer no reduction of their base move
-    when swimming against the current of a slow moving
-    river but may not swim against the current of a fast
-    moving river.
+	when swimming against the current of a slow moving
+	river but may not swim against the current of a fast
+	moving river.
 5. Models wearing armor may not attempt to move
-    through any water deeper than shallow. Shields and
-    bucklers do not count for this as they are assumed to
-    be strapped on the backs.
+	through any water deeper than shallow. Shields and
+	bucklers do not count for this as they are assumed to
+	be strapped on the backs.
 Aquatic models in water, either swamp, streams or rivers can
 elect to be Hidden at the discretion of the player. Models
 cannot move upstream in fast moving rivers without floating
