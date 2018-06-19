@@ -6,11 +6,19 @@
   "scripts": {
     "format": "prettier --write '**/*.{css,scss,js}'",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node scripts/generatePDF"
+    "build": "node --harmony scripts/createRulebooks"
   },
   "pre-commit": [
     "build"
   ],
+  "babel": {
+    "presets": [
+      "mcclowes"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "mcclowes"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hammerheim-game/hammerheim-rules.git"
@@ -30,13 +38,17 @@
   },
   "homepage": "https://github.com/hammerheim-game/hammerheim-rules#readme",
   "dependencies": {
-    "fs": "0.0.1-security",
-    "html-pdf": "^2.2.0",
+    "handbooker": "^1.0.0",
     "marked": "^0.4.0",
-    "mdpdf": "^1.6.0",
     "merge-md": "^1.0.3",
     "path": "^0.12.7",
-    "pre-commit": "^1.2.2",
+    "pre-commit": "^1.2.2"
+  },
+  "devDependencies": {
+    "mcclowes-scripts": "^0.3.5",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "eslint": "^4.18.2",
     "prettier": "^1.13.5"
   }
 }

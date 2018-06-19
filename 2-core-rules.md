@@ -8,8 +8,6 @@ The aim of the game is to outfight your opponent, which requires a mixture of sk
 
 You’ll probably want to expand your basic warband as you and they gain experience. This is easy as there are lots of models available for the warbands and new miniatures will be coming out all the time. With these you can expand your warband, equip your warriors with different weapons and armor, and hire mercenaries to join them. 
 
-//page
-
 ## Building a warband
 
 At first you will probably want to play individual games (see the Warbands section for more details) rather than a campaign. This will allow you to learn the rules, and also give you the opportunity to decide which type of warband is most suited to your particular style of play. 
@@ -31,8 +29,6 @@ There may be a Games Workshop store near to you where you can buy models, paint 
 If you already play Warhammer, the basic rules of Mordheim will be familiar to you. Remember though, Warhammer is designed for fighting battles between entire armies, whilst Mordheim represents individual action between a dozen or so warriors. 
 
 As a result, some of the rules developed for mass combat in Warhammer do not apply to Mordheim, such as unit Break tests and rank bonuses. On the other hand, there are new rules for wounded warriors, climbing, parrying and other aspects of individual combat. 
-
-//page
 
 #### What you will need
 
@@ -84,6 +80,8 @@ and speed the game up.
  
 ##### Hidden Counter Wyrdstone Counter
 Above are some examples of counters you could photocopy and stick onto thin card if you wish.
+
+//page
 
 ##### Dice
 
