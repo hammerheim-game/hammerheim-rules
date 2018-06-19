@@ -79,7 +79,7 @@ and speed the game up.
 ##### Hidden Counter Wyrdstone Counter
 Above are some examples of counters you could photocopy and stick onto thin card if you wish.
 
-//page
+\page
 
 ##### Dice
 
@@ -173,7 +173,7 @@ The Attacks value indicates how many blows the model can make in hand-to-hand co
 
 Leadership represents raw courage, self control and charisma. The higher the model’s Leadership value, the more likely he is to remain steadfast in combat while others run off or are slain. For example, a cowardly Skaven may have a Leadership of 5, while a cool, calm Elf could have a Leadership of 8 or higher. 
 
-//page
+\page
 
 #### Zero level characteristics
 
@@ -309,7 +309,7 @@ distance, or at all if you do not want them to. All exceptions
 are explained later and invariably involve either charging or
 compulsory moves.
 
-//page
+\page
 
 #### Running
 
