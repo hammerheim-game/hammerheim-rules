@@ -1,102 +1,5 @@
 # Core Rules
 
-<!-- MarkdownTOC -->
-
-- Tabletop conflict
-- Building a warband
-		- New players
-		- Warhammer players
-		- What you will need
-			- Citadel models
-			- Playing surface
-			- Terrain
-			- Counters
-			- Hidden Counter Wyrdstone Counter
-			- Dice
-			- Tape measure
-			- Other equipment
-	- Characteristics
-		- Zero level characteristics
-		- Characteristic profiles
-		- Characteristic tests
-		- Leadership tests
-	- The Turn
-		- Phases
-		- Recovery phase
-	- Movement
-		- Moving
-		- Running
-		- Charge!
-		- Charging more than one opponent
-		- Hiding
-		- Terrain
-		- Climbing
-		- Jumping down
-		- Diving charge
-		- Jumping over gaps
-		- Warriors knocked down or stunned
-		- Falling
-		- Swimming
-	- Shooting
-		- Who can shoot
-		- Closest target
-		- Cover
-		- Shooting from an elevated position
-		- Range
-		- Hitting the target
-		- Hit modifiers
-		- Roll to Wound
-		- Critical Hits
-			- Missile weapons
-			- Bludgeoning weapons
-			- Bladed weapons
-			- Unarmed combat
-			- Thrusting weapons
-		- Armor
-		- Armor save modifiers
-		- Injuries
-		- Knocked down
-		- Stunned
-		- Out of action
-	- Close Combat
-		- Who can fight
-		- Who strikes first
-			- Which models fight
-		- Hitting the enemy
-			- Fighting with two weapons
-		- Weapon modifiers
-		- Roll to wound
-		- Armor
-		- Armor save modifiers
-		- Parry
-		- Warriors knocked down
-		- Warriors stunned
-		- Attacking stunned and knocked down
-		- warriors
-		- Moving from combat
-		- Breaking from combat
-	- Leadership & psychology
-		- The rout test
-		- Voluntary rout
-		- Leaders
-		- All alone
-		- Fear
-		- Frenzy
-		- Hatred
-		- Stupidity
-	- Alignment
-		- Multi-player Games
-			- Distrusted Alliance
-		- Bonuses
-			- Lawful
-			- Lawful / Neutral
-			- Neutral
-			- Neutral / Chaotic
-			- Chaotic
-
-<!-- /MarkdownTOC -->
-
-
 ## Tabletop conflict
 
 In Mordheim, the opposing factions – warbands – are represented by models, assembled and painted by you, each representing a single warrior. Your tabletop becomes part of the City of the Damned: the scene of the action, with ruined buildings, overhangs and walkways where the battles take place. 
@@ -115,6 +18,8 @@ If you are playing in a campaign, you will have the chance to expand and improve
 
 In a campaign, every time your warband fights, its warriors gain in skill and experience. Raw recruits quickly progress to become fully fledged warriors, and your Heroes will learn new skills which will make them even better in combat. Each warband has its own objective and motivation for fighting in Mordheim: be it riches or political influence. Through countless battles and street skirmishes you can try to achieve your ambition and emerge victorious from the city! 
 
+//page
+
 #### New players
 
 If you’re new to Games Workshop games you’ll be reassured to know that finding other players is not normally a problem - you’ll be surprised how many there are!
@@ -126,6 +31,8 @@ There may be a Games Workshop store near to you where you can buy models, paint 
 If you already play Warhammer, the basic rules of Mordheim will be familiar to you. Remember though, Warhammer is designed for fighting battles between entire armies, whilst Mordheim represents individual action between a dozen or so warriors. 
 
 As a result, some of the rules developed for mass combat in Warhammer do not apply to Mordheim, such as unit Break tests and rank bonuses. On the other hand, there are new rules for wounded warriors, climbing, parrying and other aspects of individual combat. 
+
+//page
 
 #### What you will need
 
