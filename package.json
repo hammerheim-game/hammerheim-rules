@@ -6,7 +6,8 @@
   "scripts": {
     "format": "prettier --write '**/*.{css,scss,js}'",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node --harmony scripts/createRulebooks"
+    "build": "node --harmony scripts/createRulebooks",
+    "watch": "node --harmony scripts/createRulebooks"
   },
   "pre-commit": [
     "build"

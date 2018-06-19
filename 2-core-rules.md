@@ -16,8 +16,6 @@ If you are playing in a campaign, you will have the chance to expand and improve
 
 In a campaign, every time your warband fights, its warriors gain in skill and experience. Raw recruits quickly progress to become fully fledged warriors, and your Heroes will learn new skills which will make them even better in combat. Each warband has its own objective and motivation for fighting in Mordheim: be it riches or political influence. Through countless battles and street skirmishes you can try to achieve your ambition and emerge victorious from the city! 
 
-//page
-
 #### New players
 
 If you’re new to Games Workshop games you’ll be reassured to know that finding other players is not normally a problem - you’ll be surprised how many there are!
@@ -85,7 +83,30 @@ Above are some examples of counters you could photocopy and stick onto thin card
 
 ##### Dice
 
-All dice rolls use a standard six-sided dice (usually shortened to D6). Sometimes you will be asked to modify the result of the dice roll. This is noted as D6 plus or minus a number, such as D6+1 or D6-2. Roll the dice and add or subtract the number indicated to get the final result. You may have to roll a number of dice in one go. For example, 2D6 means roll two dice and add the scores together. You may also come across the term D3. As there is no such thing as a three-sided dice, use the following method for determining a score between 1 and 3. Roll a D6 and halve the score, rounding up: 1 or 2 equals 1, 3 or 4 equals 2 and 5 or 6 equals 3. If you are given the opportunity to re-roll a dice roll, you must accept the second score, even if it’s worse than the original. Artillery Dice: The Artillery Dice is one of the more Specialise dice used in Games Workshop Games; the dice is a standard six-sided dice but numbers 2, 4, 6, 8 & 10, and the final side is marked with misfire. A standard six-sided dice can be used in places of an Artillery Dice, just double the face value of the dice, and a Six would count as the Misfire. Scatter Dice: this is another more Specialise dice used in Games Workshop Games; this is a standard six-sided dice that has no numbers but has Arrows and a hit marker. A standard six-sided dice can be used in places of a Scatter Dice, clockwise, the top of the Dice = 1, right side = 2, Bottom = 3, left side = 4 and a 5 or 6 means that the shot was on target and did not move. 
+All dice rolls use a standard six-sided dice (usually shortened to D6). Sometimes you will be asked to modify the result of the dice roll. This is noted as D6 plus or minus a number, such as D6 + 1 or D6 - 2. 
+
+Roll the dice and add or subtract the number indicated to get the final result. You may have to roll a number of dice in one go. For example, 2D6 means roll two dice and add the scores together.
+
+You may also come across the term D3. As there is no such thing as a three-sided dice, use the following method for determining a score between 1 and 3. Roll a D6 and halve the score, rounding up: 1 or 2 equals 1, 3 or 4 equals 2 and 5 or 6 equals 3. 
+
+If you are given the opportunity to re-roll a dice roll, you must accept the second score, even if it’s worse than the original. 
+
+###### Artillery Dice
+
+The Artillery Dice is one of the more specialised dice used in Games Workshop Games. The dice is a standard six-sided dice but featuring the numbers 2, 4, 6, 8, and 10, with the final side is marked with misfire. A standard six-sided dice can be used in place of an Artillery Dice, just double the face value of the dice, and a Six would count as the Misfire. 
+
+
+###### Scatter Dice
+
+This is another more Specialise dice used in Games Workshop Games; this is a standard six-sided dice that has no numbers but has Arrows and a hit marker. A standard six-sided dice can be used in places of a Scatter Dice:
+
+| | |
+| : - : | : - : | 
+| 1 | Top side |
+| 2 | Right side |
+| 3 | Bottom |
+| 4  | Left side |
+| 5 or 6 | Direct hit | 
 
 ##### Tape measure
 
@@ -104,6 +125,7 @@ warrior is represented in the form of characteristics and
 skills. Right now don’t worry about skills – these come later
 with practice and battle experience. For now we just need to
 consider a warrior’s characteristics.
+
 Each model is defined by a set of characteristics: Movement,
 Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds,
 Initiative, Attacks and Leadership. Each characteristic is
@@ -111,53 +133,48 @@ assigned a value of (usually) between 1 and 10. The higher
 the value your model has for any characteristic the better –
 for example, a model with a Strength of 6 is stronger than a
 model that has a Strength of 2.
-MOVEMENT (M): A model’s Movement rate shows how
+
+#### MOVEMENT (M)
+
+A model’s Movement rate shows how
 far the model can move in a turn, under normal conditions.
 For example, a typical Human has a move of 4", while a
 fleet-footed nimble Skaven has a move of 5".
-WEAPON SKILL (WS): Weapon Skill is a measure of
-close combat ability (i.e., how good the warrior is at hand-to-
-hand fighting). A deadly swordsman or a crazed berserker
-would have a high value compared to a lowly acolyte, for
-example. The higher the WS, the more likely your warrior is
-to hit his opponent.
-BALLISTIC SKILL (BS): This shows how good a shot the
-individual is. When you shoot a bow or fire a pistol, the
-chance of hitting a target depends upon your model’s
-Ballistic Skill. A normal Human has a BS of 3, though an
-experienced marksman might have a BS of 4, 5 or even
-higher.
-STRENGTH (S): Strength indicates how strong a warrior is!
-It is especially important for hand-to-hand combat, because
-the stronger you are the harder you can hit. A Strength value
-of 3 is about average.
-TOUGHNESS (T): This is a measure of how easily an
-individual can withstand a hit from a weapon or a blow from
-a club or fist. The tougher you are, the harder you are to
-wound or kill. An average Toughness value is 3, though a
-gnarled old warrior might have a Toughness of 4!
-WOUNDS (W): A model’s Wounds value shows how many
-times the model can be wounded before it collapses, is killed
-or incapacitated. Most individuals have only 1 Wound but
-veteran warriors or large creatures such as Ogres might have
-more.
-INITIATIVE (I): The Initiative value indicates how fast and
-nimble the warrior is. It determines the attacking order in
-hand-to-hand combat, and is particularly important when the
-model is climbing and moving amidst the ruins of Mordheim.
-ATTACKS (A): The Attacks value indicates how many
-blows the model can make in hand-to-hand combat. Most
-warriors have an Attacks value of 1, but powerful fighters
-may have more. The more Attacks you have, the greater the
 
-chance you’ve got of beating your opponents into an
-unrecognisable pulp!
-LEADERSHIP (Ld): Leadership represents raw courage,
-self control and charisma. The higher the model’s Leadership
-value, the more likely he is to remain steadfast in combat
-while others run off or are slain. For example, a cowardly
-Skaven may have a Leadership of 5, while a cool, calm Elf
-could have a Leadership of 8 or higher.
+#### WEAPON SKILL (WS)
+
+Weapon Skill is a measure of close combat ability (i.e., how good the warrior is at hand-to- hand fighting). A deadly swordsman or a crazed berserker would have a high value compared to a lowly acolyte, for example. The higher the WS, the more likely your warrior is to hit his opponent. 
+
+#### BALLISTIC SKILL (BS)
+
+This shows how good a shot the individual is. When you shoot a bow or fire a pistol, the chance of hitting a target depends upon your model’s Ballistic Skill. A normal Human has a BS of 3, though an experienced marksman might have a BS of 4, 5 or even higher. 
+
+#### STRENGTH (S)
+
+Strength indicates how strong a warrior is! It is especially important for hand-to-hand combat, because the stronger you are the harder you can hit. A Strength value of 3 is about average. 
+
+#### TOUGHNESS (T)
+
+This is a measure of how easily an individual can withstand a hit from a weapon or a blow from a club or fist. The tougher you are, the harder you are to wound or kill. An average Toughness value is 3, though a gnarled old warrior might have a Toughness of 4! 
+
+#### WOUNDS (W)
+
+A model’s Wounds value shows how many times the model can be wounded before it collapses, is killed or incapacitated. Most individuals have only 1 Wound but veteran warriors or large creatures such as Ogres might have more. 
+
+#### INITIATIVE (I)
+
+The Initiative value indicates how fast and nimble the warrior is. It determines the attacking order in hand-to-hand combat, and is particularly important when the model is climbing and moving amidst the ruins of Mordheim. 
+
+#### ATTACKS (A)
+
+The Attacks value indicates how many blows the model can make in hand-to-hand combat. Most warriors have an Attacks value of 1, but powerful fighters may have more. The more Attacks you have, the greater the chance you’ve got of beating your opponents into an unrecognisable pulp! 
+
+#### LEADERSHIP (Ld)
+
+Leadership represents raw courage, self control and charisma. The higher the model’s Leadership value, the more likely he is to remain steadfast in combat while others run off or are slain. For example, a cowardly Skaven may have a Leadership of 5, while a cool, calm Elf could have a Leadership of 8 or higher. 
+
+//page
+
 #### Zero level characteristics
 
 Some creatures in Mordheim have been given a ‘0’ for
@@ -291,6 +308,8 @@ In normal circumstances models don’t have to move their full
 distance, or at all if you do not want them to. All exceptions
 are explained later and invariably involve either charging or
 compulsory moves.
+
+//page
 
 #### Running
 
