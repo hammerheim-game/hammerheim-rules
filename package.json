@@ -4,7 +4,7 @@
   "description": "Hammerheim rules project",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --write '**/*.{css,scss,js}'",
+    "format": "mcclowes-scripts format",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node --harmony scripts/createRulebooks",
     "watch": "node --harmony scripts/createRulebooks"
@@ -43,10 +43,6 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
-    "eslint": "^4.18.2",
-    "mcclowes-scripts": "^0.3.6",
-    "prettier": "^1.13.5"
+    "mcclowes-scripts": "^0.3.6"
   }
 }
