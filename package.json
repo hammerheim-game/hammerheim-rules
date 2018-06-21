@@ -43,10 +43,10 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "mcclowes-scripts": "^0.3.5",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "eslint": "^4.18.2",
+    "mcclowes-scripts": "^0.3.6",
     "prettier": "^1.13.5"
   }
 }
