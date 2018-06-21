@@ -1,4 +1,4 @@
-import { handbooker, } from "handbooker";
+const { handbooker, } = require( "handbooker" );
 
 // ---------------------------------
 
