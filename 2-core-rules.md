@@ -34,32 +34,13 @@ As well as this book, you will need the following items to play Mordheim.
 
 ##### Citadel models
 
-You will need enough miniatures of the appropriate race/type
-to represent the warriors in your warband. It is a good idea to
-work out your warband on paper first and then purchase the
-miniatures that you require. Almost all possible weapon
-variations can be added using the Mordheim equipment
-spurs.
-As you will see in the Warbands section, each warband fights
-in a particular way – some are expert bowmen while others
-are better in hand-to-hand combat. When choosing which
-warband you want to lead you could choose one that reflects
-your preferred playing style, or you could read the
-background section and choose one that really captures your
-imagination. A good way of picking a warband is simply to
-pick the one with the models you like the best.
+You will need enough miniatures of the appropriate race/type to represent the warriors in your warband. It is a good idea to work out your warband on paper first and then purchase the miniatures that you require. Almost all possible weapon variations can be added using the Mordheim equipment spurs. 
+
+ s you will see in the Warbands section, each warband fights in a particular way – some are expert bowmen while others are better in hand-to-hand combat. When choosing which warband you want to lead you could choose one that reflects your preferred playing style, or you could read the background section and choose one that really captures your imagination. A good way of picking a warband is simply to pick the one with the models you like the best. 
 
 ##### Playing surface
 
-You will also need something to play your battles on. Any
-firm, level surface is best, such as a tabletop or an area of
-floor – most kitchen tables will do. It’s a good idea to use an
-old sheet or blanket to protect the table from scratches. Some
-players make a special gaming board from chipboard or other
-similar material (divided into two or more pieces for ease of
-storage) which they can use on top of a table to extend the
-playing area. Whatever you use, you will find that a square
-area approximately 4 x 4' is about right for most battles.
+You will also need something to play your battles on. Any firm, level surface is best, such as a tabletop or an area of floor – most kitchen tables will do. It’s a good idea to use an old sheet or blanket to protect the table from scratches. Some players make a special gaming board from chipboard or other similar material (divided into two or more pieces for ease of storage) which they can use on top of a table to extend the playing area. Whatever you use, you will find that a square area approximately 4 x 4' is about right for most battles. 
 
 ##### Terrain
 
@@ -71,11 +52,8 @@ Throughout the book you will find photographs, drawings and descriptions of Mord
 
 ##### Counters
 
-Counters can help you keep track of things on the tabletop.
-You can always keep notes about who is hidden, carrying
-treasure, etc, but counters are a convenient memory jogger
-and speed the game up.
- 
+Counters can help you keep track of things on the tabletop. You can always keep notes about who is hidden, carrying treasure, etc, but counters are a convenient memory jogger and speed the game up.  
+
 ##### Hidden Counter Wyrdstone Counter
 Above are some examples of counters you could photocopy and stick onto thin card if you wish.
 
@@ -100,7 +78,7 @@ The Artillery Dice is one of the more specialised dice used in Games Workshop Ga
 
 This is another more Specialise dice used in Games Workshop Games; this is a standard six-sided dice that has no numbers but has Arrows and a hit marker. A standard six-sided dice can be used in places of a Scatter Dice:
 
-| | |
+| -| Direction |
 | : - : | : - : | 
 | 1 | Top side |
 | 2 | Right side |
@@ -177,27 +155,17 @@ Leadership represents raw courage, self control and charisma. The higher the mod
 
 #### Zero level characteristics
 
-Some creatures in Mordheim have been given a ‘0’ for
-certain characteristics which means that they have no ability
-in that field whatsoever. This usually applies to creatures
-unable to use missile weapons (who would have a BS of 0)
-but it might equally apply to other characteristics as well.
-If a model has a WS of 0 then it cannot defend itself in hand-
-to-hand combat, and any blows struck against it will
-automatically hit.
+Some creatures in Mordheim have been given a ‘0’ for certain characteristics which means that they have no ability in that field whatsoever. This usually applies to creatures unable to use missile weapons (who would have a BS of 0) but it might equally apply to other characteristics as well. If a model has a WS of 0 then it cannot defend itself in hand- to-hand combat, and any blows struck against it will automatically hit. 
+
 #### Characteristic profiles
 
-A model’s characteristic values are written in the form of a
-chart called a characteristics profile (or just profile).
-Profile M WS BS S T W I A Ld
-Dieter Stahl 4 3 3 3 3 1 3 1 7
-The example above is a typical profile for a Human warrior.
-As you fight in more games against other players, your
-warriors will get better and their characteristics may increase.
-All these details are recorded using the Warband roster sheets
-provided at the back of this book. This is explained properly
-later on. For now it is enough to know what each
-characteristic is for and how their values vary.
+A model’s characteristic values are written in the form of a chart called a characteristics profile (or just profile).
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| Dieter Stahl | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+
+The example above is a typical profile for a Human warrior. As you fight in more games against other players, your warriors will get better and their characteristics may increase. All these details are recorded using the Warband roster sheets provided at the back of this book. This is explained properly later on. For now it is enough to know what each characteristic is for and how their values vary. 
+
 #### Characteristic tests
 
 Often in the game a model will be required to take a test on
@@ -212,6 +180,7 @@ Initiative value of 3 on his characteristic profile and therefore
 will be successful if he rolls a 1, 2 or 3 on a D6. If he rolls a
 4, 5 or 6 he will fail the test and fall down, suffering all the
 painful consequences!
+
 #### Leadership tests
 
 Tests against the Leadership characteristic are done in a
@@ -525,21 +494,21 @@ Players should establish which way the river is flowing at the
 start of the game. To represent how models interact with
 water these basic rules apply:
 1. All rivers count as difficult (or worse) terrain for all
-	models except those considered as aquatic.
+    models except those considered as aquatic.
 2. Models swimming with the current will double their
-	base move.
+    base move.
 3. Models swimming against the current of a slow
-	moving river may only move a quarter of their base
-	move, but you may not swim against the current of a
-	fast moving river.
+    moving river may only move a quarter of their base
+    move, but you may not swim against the current of a
+    fast moving river.
 4. Aquatic models suffer no reduction of their base move
-	when swimming against the current of a slow moving
-	river but may not swim against the current of a fast
-	moving river.
+    when swimming against the current of a slow moving
+    river but may not swim against the current of a fast
+    moving river.
 5. Models wearing armor may not attempt to move
-	through any water deeper than shallow. Shields and
-	bucklers do not count for this as they are assumed to
-	be strapped on the backs.
+    through any water deeper than shallow. Shields and
+    bucklers do not count for this as they are assumed to
+    be strapped on the backs.
 Aquatic models in water, either swamp, streams or rivers can
 elect to be Hidden at the discretion of the player. Models
 cannot move upstream in fast moving rivers without floating
@@ -1156,46 +1125,22 @@ the battle.
 
 #### Hatred
 
-Hatred is a very powerful emotion, and during this era of
-strife and war, bitter rivalry is commonplace.
-Warriors who fight enemies they hate in hand-to-hand
-combat may re-roll any misses when they attack in the first
-turn of each hand-to-hand combat. This bonus applies only in
-the first turn of each combat and represents the warrior
-venting his pent-up hatred on his foe. After the initial round
-of hand-to-hand combat he loses some impetus and
-subsequently fights as normal for the rest of the combat.
-
+Hatred is a very powerful emotion, and during this era of strife and war, bitter rivalry is commonplace. Warriors who fight enemies they hate in hand-to-hand combat may re-roll any misses when they attack in the first turn of each hand-to-hand combat. This bonus applies only in the first turn of each combat and represents the warrior venting his pent-up hatred on his foe. After the initial round of hand-to-hand combat he loses some impetus and subsequently fights as normal for the rest of the combat. 
 
 #### Stupidity
 
-Many large and powerful creatures, as well as some of the
-more unhinged individuals in Mordheim, are unfortunately
-rather stupid.
-Models that are stupid test at the start of their turn to see if
-they overcome their stupidity. Make a test for each model
-affected by stupidity. If you pass the test by rolling their
-Leadership value or less on 2D6 then all is well – the
-creatures behave reasonably intelligently and the player may
-move and fight with them as normal.
-If the test is failed all is not well. Until the start of his next
-turn (when it takes a new Stupidity test) the model will not
-cast spells or fight in hand-to-hand combat (though his
-opponent will still have to roll to hit him as normal).
+Many large and powerful creatures, as well as some of the more unhinged individuals in Mordheim, are unfortunately rather stupid. 
 
-If a model who fails a Stupidity test is not in hand-to-hand
-combat, roll a D6.
-1-3 The warrior moves directly forward at half speed in a
-shambling manner. He will not charge an enemy (stop his
-movement 1" away from any enemy he would have come
-into contact with). He can fall down from the edge of a sheer
-drop (see the Falling rules) or hit an obstacle, in which case
-he stops. The model will not shoot this turn.
-4-6 The warrior stands inactive and drools a bit during this
-turn. He may do nothing else, as drooling is so demanding.
-Regardless of whether the test is passed or failed, the result
-applies until the start of the model’s following turn (when it
-takes a new Stupidity test).
+ odels that are stupid test at the start of their turn to see if they overcome their stupidity. Make a test for each model affected by stupidity. If you pass the test by rolling their Leadership value or less on 2D6 then all is well – the creatures behave reasonably intelligently and the player may move and fight with them as normal. 
+
+ f the test is failed all is not well. Until the start of his next turn (when it takes a new Stupidity test) the model will not cast spells or fight in hand-to-hand combat (though his opponent will still have to roll to hit him as normal). 
+
+If a model who fails a Stupidity test is not in hand-to-hand combat, roll a D6. 
+
+1-3 The warrior moves directly forward at half speed in a shambling manner. He will not charge an enemy (stop his movement 1" away from any enemy he would have come into contact with). He can fall down from the edge of a sheer drop (see the Falling rules) or hit an obstacle, in which case he stops. The model will not shoot this turn. 
+
+4-6 The warrior stands inactive and drools a bit during this turn. He may do nothing else, as drooling is so demanding. Regardless of whether the test is passed or failed, the result applies until the start of the model’s following turn (when it takes a new Stupidity test). 
+
 ### Alignment
 
 With so many warbands roaming in Mordheim and its
