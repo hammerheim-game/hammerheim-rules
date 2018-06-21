@@ -1,11 +1,15 @@
-const { handbooker } = require("handbooker");
+import { handbooker, } from "handbooker";
+
+// ---------------------------------
 
 const options = {
-debug: true,
+	debug: true,
 	style: "./node_modules/handbooker/lib/styles/homebrewery-styles.css",
 	printOptions: {
-		displayHeaderFooter: false
-	}
+		displayHeaderFooter: false,
+	},
 };
 
-handbooker("./2-core-rules.md", "./rules.pdf", options);
+// ---------------------------------
+
+handbooker( "./2-core-rules.md", "./rules.pdf", options, );
