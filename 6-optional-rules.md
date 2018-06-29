@@ -101,6 +101,7 @@ game turns, this includes both players’ turns.
 ###### Random Encounters Chart
 
 Roll D66
+
 11 Ogre Mercenary
 An Ogre Mercenary (see the Hired Swords section of the Mordheim
 rules for details on the Ogre Mercenary) appears further down the
@@ -116,6 +117,7 @@ taking out his frustration on a random member of the warband (only
 roll among members of the warband who were not taken out of
 action during the game). Roll for injuries to this unfortunate
 member just as if he had been taken out of action.
+
 12 Swarm of Rats
 Something in the sewers has frightened the rats that live there. The
 rats are in a hurry to get away and will attack anything that stands in
@@ -130,21 +132,13 @@ forward, 5-6 left). The rats cannot be engaged in close combat and if
 they make contact with a model they will run right over him. Any
 model moved over by the rats will suffer D3 Strength 2 hits, normal
 armor saves apply.
-13 Earthquake
-Powerful magical energies from the crater at the centre of the city
-shake the local landscape. The ground heaves and buckles violently
-and warband members find it hard to keep their footing. Roll a D3 to
-determine how many game turns the earthquake lasts. While the
-shaking persists, all movement is halved, all Initiative tests
-(climbing, etc) suffer a -2 penalty and all Shooting and Close
-Combat to hit rolls are made with a -1 penalty.
-14 High Winds
 
-A powerful wind screams through the area, wildly scattering debris
-and knocking down anything that is not firmly anchored to the
-ground. Warband members now suffer a -1 penalty to all Initiative
-tests (climbing, jumping, etc) and to hit rolls (close combat and
-shooting) for the rest of the game.
+13 Earthquake
+PLACEHOLDER
+
+14 High Winds
+PLACEHOLDER
+
 15 Blood for the Blood God!
 Unfortunately for the warbands involved, the scent of blood has
 brought the attention of one of Khorne’s minions. Reality is
@@ -153,6 +147,7 @@ to shed even more blood for its master. The Bloodletter has the
 following characteristics in the Beast, Monsters & townsfolk section
 Special Rule: The Bloodletter will stay for D6 turns after which it
 will disappear.
+
 16 Lucky Find
 One random model, on his feet and not in hand-to-hand combat or
 fleeing, has stumbled upon a shard of wyrdstone! Assuming he
@@ -161,6 +156,7 @@ warband finds after the game. If he is taken out of action in close
 combat, the enemy model steals the shard away! Note that only non-
 animal models can find or steal a shard, not Dire Wolves, Hunting
 Dogs, etc.
+
 21 Restless Spirit
 Countless unfortunates have suffered agonising deaths in countless
 forms since the comet crashed into the city. Not all of these
@@ -172,16 +168,13 @@ spirit at the start of its Movement phase must make a Leadership test
 or flee (exactly as if he were fleeing from combat). Models that are
 immune to psychology automatically pass this test. This creature is
 unable to affect (or be affected by) the physical world, but it is very
-frightening nonetheless. The spirit moves 4" in a random direction,
+frightening nonetheless. The spirit moves 4" per turn towards the opposite edge of the board,
 moving through walls, obstacles or warband members as if they
 were not there. It will not charge and cannot be harmed by the
 warband members in any way. The only exception to this is if the
 spirit comes into contact with a Sigmarite Matriarch or a Warrior-
 Priest of Sigmar. These models may choose to put the dead to rest.
 If the player controlling such a model decides to do this, the spirit is
-Assembled By Paul H Page 305 (knights_templar@hotmail.com)
-
-
 immediately banished (disappears and does not return) and the priest
 gains one Experience point.
 
@@ -195,6 +188,7 @@ well. For the rest of the game, the building itself will cause fear due
 to the intense flames and anyone who wishes to enter it must first
 pass a Fear test exactly as if they wished to charge a fear-causing
 enemy.
+
 23 Man-Eater
 One of the trees growing in the area has been changed into a
 carnivorous predator by exposure to the Chaos magic inundating the
@@ -211,6 +205,7 @@ make. Any result on the Injury table will cause the Man-Eater to
 stop attacking, though it is not possible to actually take it out of
 action or knock it down. Opponents are +1 to hit the tree, due to the
 fact that it is rooted to the spot!
+
 24 Skeletons
 While the intense magic of the area rapidly dissolves skeletons to
 dust, shambling hordes of them spring up at random from the bones
@@ -224,6 +219,7 @@ in close combat). The skeletons will move towards and attack the
 closest models as quickly as possible. Roll a D3 when they appear,
 after that many turns they crumble back to inanimate bones (count
 the current turn as the first one).
+
 25 The Twisting of the Air
 Reality itself seems to twist, warping perceptions until no one can be
 sure of what their senses tell them. Roll a D6 at the start of each
@@ -234,7 +230,6 @@ distances between models are also increased by the same D6" roll
 for purposes of weapon ranges and charging. Note that the actual
 models are not moved, but only the shooting/charging model’s
 perception of the distance.
-(knights_templar@hotmail.com) Page 306 Assembled by Paul H
 
 
 26 Spawn
@@ -255,6 +250,7 @@ charging, instead if its movement takes it into contact with a model
 it counts as charging and engages that model in close combat.
 Attacks: Roll at the beginning of each Close Combat phase to
 determine the spawn’s number of Attacks for that phase.
+
 31 Collapsing Building
 Pick one building at random. Any models inside must pass an
 Initiative test or suffer a S5 hit, armor saves applying as normal, as
@@ -263,6 +259,7 @@ the building collapses. Remove the building from the table
 table where it stood. Any models climbing the sides of a building or
 on the roof when it collapses automatically fall from whatever
 height they were at.
+
 32 Scrawling on a Wall
 A randomly determined warband member who is within 4" of a
 building (if there are no models this close to a building, ignore this
@@ -285,20 +282,12 @@ model can hide, even in the open, for rest of the game.
 building – if he moves inside, he can pop out next turn in
 any other building.
 6 A fun read, but nothing else happens (Veskit was here!).
+
 33 Thick Fog
-A fog rolls in, thick as pea soup. Models can only see 2D6" (roll
-once for the distance all models can see; do not roll individually for
-each model). Re-roll at start of each Encountering Player’s turn to
-see what the visibility is for that turn. The fog lasts for the rest of the
-game.
+PLACEHOLDER
+
 34 Hands of Stone
-Hands of earth and stone suddenly jut out of the ground in a small
-area of the battlefield. The Encountering Player must pick a spot
-anywhere on the battlefield and anything within 3" of that spot is
-affected. The area is now very difficult ground as the hands grasp
-and attempt to hold anyone passing near them. This encounter lasts
-one game turn, at the end of which the hands sink back into the
-ground.
+PLACEHOLDER
 
 35 Dog Pack
 Recent events in Mordheim have caused many of the city’s dogs to
@@ -316,6 +305,7 @@ end of that warband’s next turn, the fallen member is considered lost
 their ‘food’ with them, any warband members taken out of action in
 the last turn of the game have not been eaten and follow the normal
 rules for models taken out of action.
+
 36 Possessed!
 One randomly selected member of the Encountering Player’s
 warband is suddenly possessed by a minor spirit. This spirit is far
@@ -328,15 +318,10 @@ Sigmarite Matriarchs and Warrior-Priests are immune to this
 possession, as are non-living warband members. If such a warband
 member is the object of the spirit’s attention, randomly determine
 another warband member to suffer the effect instead.
+
 41 Fountain of Blood
-The city itself seems to weep as even more blood is shed on its
-streets. For the rest of the game, whenever a model is taken out of
-action in close combat, the model that did the deed must take a
-Strength test or be knocked down as he is hit by a torrent of blood
-pouring from the ground. If there were others involved in the
-combat they are not affected, as the steaming liquid seems to be
-directed only at those who have called it into being by their
-bloodthirsty actions.
+PLACEHOLDER
+
 42-44 Storm of Chaos
 Clouds rapidly gather above the city in an unnatural, sickly yellow-
 green mass and warp lightning begins to dance from one cloud to
@@ -345,8 +330,6 @@ noises. The clouds themselves seem to take on the shapes of
 monstrous creatures and both warbands in the conflict look at each
 other with fear on their faces. Roll a D6 to see what the storm
 manifestation will bring:
-Assembled By Paul H Page 307 (knights_templar@hotmail.com)
-
 
 D6 Result
 1 Warp lightning begins to strike the ground in search of a
@@ -408,6 +391,7 @@ one of the models puts his rival out of action). If a warband
 does not have any Heroes left in play when the storm gods
 choose their champions, a random Henchman will be chosen
 from that warband instead.
+
 45 Pit Fighter
 This encounter is identical to the Ogre Mercenary encounter before,
 except the Hired Sword encountered is a Pit Fighter, not an Ogre
@@ -419,6 +403,7 @@ the warbands below. All models have an extra -1 to hit penalty when
 shooting or fighting in close combat as flies buzz around them and
 into open orifices. The flies remain for D3 game turns and then fly
 away.
+
 51 Sinkhole
 An enormous mouth suddenly opens up under the feet of one
 randomly determined warband member. Make an Initiative test for
@@ -428,6 +413,7 @@ action. Any other failure results in the model catching himself in the
 opening, which closes around him. Treat the model as being
 knocked down for the rest of the game, though he may not move at
 all.
+
 52 The Horror in the House
 Randomly select one warrior lurking alone inside a building (if there
 are no warband members inside a building, ignore this result and re-
@@ -446,6 +432,7 @@ again moves 2D6", trying in vain to erase the terrifying images from
 his memory. For the rest of the game, the building itself will cause
 fear, and anyone who wishes to enter it must first pass a Fear test
 exactly as if they wished to charge a fear-causing enemy.
+
 53 Plague Victims
 Disease is a common occurrence among the few survivors left in the
 ruins of the city. This group of a D6 citizens has contracted a
@@ -501,20 +488,10 @@ phase. If this warrior is later taken out of action as well, place a
 counter where the warrior fell to represent the Matriarch’s
 equipment. This can then be picked up by a different model, as
 above.
+
 55 Booby Traps
-Some nefarious individuals have trapped the whole area the
-warbands are searching. These traps may take the form of spiked
-pits, deadfalls, spring-driven spiked boards, etc. When this
-encounter is rolled, the Encountering Player must randomly
-determine which of his warband members has discovered the first
-trap. This unfortunate individual springs a trap immediately. If the
-trap is not avoided by passing an Initiative test, the model takes a
-Strength 3 hit; armor saves apply as normal. From this point until
-the end of the game, each player will roll a D6 at the start of his or
-her Movement phase. A roll of 1 means that one member of that
-player’s warband has sprung a trap and must make an Initiative test
-to avoid it. If the trap is not avoided, the model takes a S3 hit as
-above; apply any damage before the model is moved.
+PLACEHOLDER
+
 56 Catacombs
 The ground gives way under one randomly selected warrior and he
 falls into the depths of the catacombs below the city. He takes a S3
@@ -556,6 +533,7 @@ close combat and a restraining model can give up his attempts at any
 time. This encounter lasts the remainder of the game. Close
 inspection of the tree reveals the bones of several animals
 overgrown with grass and leaves lying at its base.
+
 62 The Lost
 Many view the destruction of Mordheim as a sign that the world is
 coming to an end. Groups of these lunatics are often drawn to the
@@ -565,14 +543,13 @@ Flagellants (see the Witch Hunter section of the Mordheim rules for
 stats and special rules) will move as quickly as possible towards the
 nearest warband members and engage them in close combat as soon
 as they are able. They are armed with flails.
+
 63 Reflecting Pool
 One warrior on the ground (selected at random from the
 Encountering Player’s warband) notices a small pool of what looks
 to be still water. Reflecting the gloomy sky above, it appears to be
 liquid metal or unnaturally deep silvery water, rippling only slightly
-with the dank breeze blowing through the city. He can ignore it, or
-bend quickly to peer into its depths. If he’s brave enough to gaze
-into the murky liquid, roll a D6:
+with the dank breeze blowing through the city. Peering into its depths, roll a D6:
 D6 Result
 1 The water reflects back nightmare images of his own
 demise, filling him with fear for his own safety. For the rest
@@ -598,11 +575,6 @@ throughout his body. Though it quickly dims away, a strong
 feeling of strength and vitality is left behind. The warrior
 may ignore the next wounding hit he receives, even if it is a
 critical hit.
-Assembled By Paul H Page 309 (knights_templar@hotmail.com)
-
-
-(knights_templar@hotmail.com) Page 310 Assembled by Paul H
-
 6 The city chooses to reveal its true visage to the warrior,
 unveiling the monstrous intelligence that lurks behind the
 facade of simple ruins and rubble. The warrior’s mind is
@@ -615,6 +587,7 @@ though he will always hesitate slightly before entering an
 unlit room from now on...
 Note: Only warriors who can gain in experience can choose to look
 into the pool, all others simply lack the curiosity to bother!
+
 64 Screaming Walls
 Faces appear in the walls of one randomly determined building and
 start to emit a piercing shriek. Any warband members within 8" of
@@ -623,17 +596,10 @@ all to hit rolls (close combat and shooting) while the screaming lasts.
 Spellcasters are even more sensitive to the noise than others and so
 no spells may be cast from within this radius. Roll a D3 to determine
 how many game turns the screaming lasts.
-65 Peddler
 
-No matter which turn it is rolled on, this encounter happens at the
-end of the game. The winning warband sees a peddler wandering
-through the ruins. This travelling merchant keeps his entire stock on
-his back and offers to sell part of it to the warband. He has the
-following items at half their normal price: mace, hammer, sword,
-dagger, axe, helmet, crossbow, pistol, duelling pistol, rope & hook,
-any poison, lucky charm, blessed water, hunting arrows, garlic,
-healing herbs, holy (or unholy) relic, lantern and Mordheim map.
-Roll a D3 for each item to find the quantity the peddler carries.
+65 Peddler
+PLACEHOLDER
+
 66 Itsy-Bitsy Spider
 The presence of the wyrdstone has mutated this common household
 pest into a monster of titanic proportions! This Gigantic Spider has
