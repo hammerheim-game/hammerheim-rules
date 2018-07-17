@@ -1,66 +1,15 @@
 # Optional Rules
 
 Including: 
-- Mounted Warriors
-- Vehicles of the Empire
-- Blackpowder weapons
-- Fighting individual battles
-- Night Fights
-- The Catacombs
-- Sewer Fighting
-- Fire
+
 - Random Happenings
-- Power in the Stones
-- Encampments
+- Power in the Stones & Random Happenings
+- The Apothocary
 
 <!-- MarkdownTOC -->
 
 - Optional Rules
-    - Escaping from combat
-    - Rewards of the Shadowlord
-    - Mounted Warriors
-        - Model Representation
-        - Riding Animals
-        - Mounted models in Mordheim
-        - Special Rules
-        - Losing Control
-        - Whoa Boy! Table
-    - Vehicles of the Empire
-        - Wagons
-        - Boats
-    - Blackpowder weapons
-        - Misfires
-        - Blackpowder Weapons Misfires
-    - Fighting individual battles
-        - Weapons & armor
-        - Upgrading heroes
-        - Ready for battle
-    - Night Fights
-        - Summary of rules:
-    - The Catacombs
-        - Exploring the Catacombs
-        - Rules
-        - Encounters beneath the City
-    - Sewer Fighting
-        - Sewers
-        - Darkness
-        - Lanterns
-        - Psychology
-        - Dirty slimy floor
-        - Rotten planks
-        - Face down in the sludge
-    - Fire
-        - When and Where
-        - Starting
-        - It spreads!
-        - Entering buildings on fire
-        - Moving inside
-        - Climbing
-        - Damage
-        - Frenzy
-        - Starting Fires
-        - Shooting
-        - Combat
+   
     - Random Happenings
             - Random Encounters Chart
     - Power in the Stones
@@ -68,18 +17,10 @@ Including:
             - Using Stones
             - Becoming a Chaos Spawn
             - Random Mutation Table
-    - Encampments
-        - Experimental Rules
-        - Special Rules
-        - Types of Encampment
-        - Income
-        - Hired Help
-        - Locations
-        - Sigmarhaven
-        - Brigandsburg
-        - Cutthroat’s Den
-        - Mordheim
-        - Hired Sword Availability
+    - The Apothocarys
+        - Surgeon
+        - Brain Surgeon
+
 
 <!-- /MarkdownTOC -->
 
@@ -114,1254 +55,6 @@ dramatically, and you are under no obligation to use any of
 them. They have simply been included for players who want
 to explore different aspects of the game.
 
-#### Escaping from combat
-
-Warriors that are engaged in hand-to-hand combat at the start
-of their own turn may try to escape from combat during their
-movement phase. Such fighters are assumed to have realised
-that the odds are against them and decided that it is just too
-dangerous for them to continue.
-Declare which of your warriors will try to escape from
-combat at the start of your movement phase, at the same time
-as you declare charges. Turn the models around to show this.
-Take a Leadership test for each warrior trying to escape from
-combat. This represents his efforts to find the right time to
-escape. If he passes, the warrior can move up to double his
-normal Movement rate away from combat and the enemy he
-was fighting, in any direction.
-
-If he fails, his opponent is allowed to make 1 automatic hit
-against the warrior who is trying to escape, and the fleeing
-warrior (provided he survives) will run 2D6" directly away
-from combat. He will have to take a Leadership test at the
-beginning of his next turn.
-If successful he will stop, but may not do anything else
-during that turn. If the test is failed, he will continue to run
-2D6" towards the closest table edge and must test again the
-following turn if he is still on the table.
-If a warrior is charged whilst he is fleeing, the charger is
-moved into base contact with him as normal, but the fleeing
-warrior will then immediately run a further 2D6" towards the
-table edge, before any blows can be struck.
-#### Rewards of the Shadowlord
-
-When a Magister or Mutant from a Possessed warband has accumulated enough experience, instead of picking a skill,
-he may roll on the Rewards table below. This represents the pilgrimage of the Mutant or Magister to the Pit, where he
-can beseech a favour from the Shadowlord himself. Roll 2D6.
-2 Wrath of the Shadowlord! The warrior is mutated
-beyond recognition and vanishes into the ruins,
-joining the many other horrors that roam Mordheim.
-3-6 Nothing Happens. The capricious Shadowlord
-ignores the pleas of his servant.
-7-8 Mutation. The warrior develops a severe mutation.
-Roll a D6. On a roll of 1 you lose a single point from
-one of your warrior’s characteristics (chosen by
-you), due to atrophy, or some such degrading
-mutation. On a roll of 2 or more you may choose
-which one of the mutations listed in the Cult of the
-Possessed Warbands section your warrior has been
-rewarded with.
-9-10 Chaos Armor. The warrior’s body becomes
-encrusted with an arcane, all enveloping suit of
-armor. This confers a basic 4+ save, but does not
-affect the model’s ability to cast spells or move in
-any way.
-
-11 Daemon Weapon. The warrior receives a weapon
-with a bound Daemon inside it. This weapon adds
-+1 to his Strength in close combat, grants a +1
-bonus on all to hit rolls using it. The user may
-choose the weapon’s form (a sword, an axe, etc),
-though it will not have any of the special abilities
-normally associated with common weapons of that
-type. An axe with a bound Daemon, for example,
-will not benefit from the usual extra save modifier.
-12 Possessed! A Daemon takes over the soul and body
-of the warrior. He immediately gains +1 Weapon
-Skill, +1 Strength, +1 Attacks and +1 Wounds.
-These increases do not count towards his maximum
-characteristics. The warrior loses D3 of his skills
-(chosen by the player) and may no longer use
-weapons or armor, except for Chaos Armor or
-Daemon weapons.
-(knights_templar@hotmail.com) Page 292 Assembled by Paul H
-
-
-#### Mounted Warriors
-
-By Robert J. Walker and Roger Latham
-Horses are rare and expensive in Mordheim, but they do allow warriors to move quickly, so as long as the steed stays on the
-streets and does not venture into the ruined buildings, where it could easily stumble and fall. By using the following rules, you
-can include mounted Heroes in your games.
-
-##### Model Representation
-
-If you wish to include riding beasts or tamed animals you
-will need to have models to represent them. For mounted
-warriors you will need both a mounted miniature and a model
-on foot. It is advised not to glue the rider on but to use ‘blue-
-tack’ or something similar so that he may be removed when
-on foot and his mount is unridden.
-
-##### Riding Animals
-
-Most warriors in Mordheim can only dream of owning a
-riding animal. Expensive to buy, expensive to keep and
-requiring skill to ride, they are a mark of status beyond the
-reach of lowly henchmen. To those with the necessary wealth
-and skill, however, they are a priceless possession, enabling
-their rider to move rapidly across the battlefield, aiding him
-in combat with an advantage of height and weight, and in
-some cases, fighting in their own right.
-
-##### Mounted models in Mordheim
-
-A warrior and his horse are treated in all respects as a single
-model. Should the rider be taken out of action, then the entire
-model is removed from the battle.
-Mounted warriors use the rider’s Leadership value for all
-Leadership-based tests. When the warrior is attacked, use the
-rider’s Toughness and Wounds.
-In close combat, a warhorse can make 1 attack, but a normal
-horse has no Attacks characteristic and therefore does not
-attack in close combat.
-Armor, called barding, may be purchased for a warhorse,
-(refer to the Trading chart). It adds a further +1 bonus to the
-model’s armor save, but subtracts one from its Movement.
-A normal horse may not wear barding. A barded warhorse is
-only killed on a serious injury roll of ‘1’ if the model goes
-out of action.
-
-##### Special Rules
-
-Mounting Animals: It requires a full move to mount or
-dismount a riding creature and the rider may not shoot or cast
-magic whilst doing so. A mount or its rider may not run or
-charge in the same turn that the warrior mounts or dismounts
-unless the rider has a Cavalry Skill that allows this.
-Not Indoors: Mounts cannot normally be ridden indoors or
-underground, unless playing a specially devised scenario that
-allows this.
-Dense Terrain: Riding mounts are rare both amongst the
-ruins of Mordheim and in the claustrophobic jungles of
-Lustria. The dense terrain makes riding difficult and large
-numbers of riders are highly ineffective. Thus in those
-settings a warband may only have a maximum of two mounts
-(not including those belonging to Hired Swords). In more
-open settings, such as the open fields in the countryside
-around Mordheim or the deserts of Khemri, a warband may
-have as many mounts as they can afford.
-Controlling a Mount: The Cavalry Skills may be used by
-warriors who have a riding animal, but only after the skill
-Ride has been gained; warriors which come provided with a
-riding animal are assumed to possess the Ride skill already.
-
-Warriors without this skill may still ride animals, but must
-test against their Leadership if hit by any missile and at the
-beginning of any combat phase when a standing enemy is in
-base contact. If the test is failed they lose control of their
-mount and must roll on the Whoa, Boy! Table (see below).
-Note if an enemy is not standing, the mounted warrior is not
-considered to be in combat and thus does not need to test for
-loss of control.
-Two Weapon Fighting: Mounted warriors may not fight
-with two weapons, although a shield or buckler may be used
-as normal. Two-handed weapons are not permitted. The use
-of a pistol in the first round of hand-to-hand combat replaces
-the model’s usual weapon.
-Armor Bonus: All riding animals give their riders a +1
-armor save bonus.
-Bolting Mounts: In certain circumstances, a mount may bolt.
-A bolting mount must make a Leadership test at the
-beginning of the owning player’s turn; if successful it stops
-running, otherwise it continues fleeing. The easiest way to
-determine the direction a mount bolts is to use an scatter dice.
-If you do not have one, then roll 2D6 and use the clock-face
-method. Taking the direction the horse is facing as 12 and
-directly behind as 6, the horse will bolt in the appropriate
-direction on the clock-face.
-Stunned Riders: Stunned riders will fall from their mounts
-as indicated on the Whoa Boy! Table. Mounts which
-subsequently bolt may be remounted should the warrior make
-base contact with the horse before it leaves the table. Note
-that whether the mount leaves the table or not, it will be
-recovered unscathed after the battle.
-Leading Animals: On occasion, a warrior may want to lead
-a riding animal rather than riding it. A warrior may only lead
-one riding animal unless he has the Animal Handling skill,
-for that particular animal, in which case he can lead as many
-as he wishes. Groups of led animals are tethered together and
-must maintain base contact with each other; at least one must
-be in base contact with the warrior leading them. Riding
-animals that are being led do not roll for loss of control. If
-required to make a Leadership test (e.g. when attacked by a
-fear causing enemy) they use the Ld of the warrior leading
-them. A warrior leading riding animals may move and fight
-as normal, but must maintain base contact at all times.
-Unled Animals: Riding animals which are not being either
-led or ridden will remain stationary but must make a
-Leadership test at the beginning of their turn. If this is failed,
-they will bolt, using the rules above.
-Jumping: A horse or warhorse may jump over an obstacle up
-to 2" in height with no movement penalty.
-Shooting at mounted warriors: Because of the size of a
-mounted warrior, any shooter may always pick one as a
-target, even if there are enemies closer.
-Targeting Mounted Warriors: Enemies may not target a
-ridden horse, whether by missiles or in hand-to-hand combat.
-The rider will always be seen as the greater threat. Due to
-their prominence, any mounted warrior may always be
-Assembled By Paul H Page 293 (knights_templar@hotmail.com)
-
-
-chosen as a target by a shooter even if there are enemies
-closer. However the shooters do NOT gain +1 to hit - the
-rider is still the same size as before.
-Mounts and campaigns: If a mounted warrior is taken out of
-action, roll a D6 after the battle. On a 1-2, the mount is killed
-and removed from the warband roster.
-
-##### Losing Control
-
-If a mounted warrior is wounded, then the player must roll on
-the Whoa Boy! Table. This replaces the normal injuries chart.
-If critical hits are suffered then roll as many times as are
-required, taking the most serious result.
-
-##### Whoa Boy! Table
-
-1-2 The rider is temporarily disorientated and his mount rears
-up. The rider keeps his seat but must spend his next turn
-stationary regaining control, unable to move or shoot. If
-attacked, treat the rider as fallen down.
-3-4 The rider falls off his mount and is stunned, taking an
-additional S2 hit in the process with no armor save. In
-addition, roll 1D6: on a roll of 1-3, the mount immediately
-bolts 3D6" in a random direction and continues until it has
-left the table – the mount may be recovered after the battle;
-on a roll of 4-6, the mount remains stationary and the
-warrior may remount once recovered. Note: the mount does
-not count as unridden or unled in this instance.
-5-6 The rider and his mount crash to the ground together. The
-rider and mount are automatically out of action. In addition,
-roll a D6: on a roll of 1-2 the mount lands on top of its rider,
-crushing him. If this happens the warrior must roll twice on
-the serious injuries chart after the battle. In addition, after
-the battle roll a D6: on a roll of 1-2 the mount was crippled
-or killed by the fall and removed from the warband roster.
-(knights_templar@hotmail.com) Page 294 Assembled by Paul H
-
-
-#### Vehicles of the Empire
-
-From The Empire in Flames
-There are three principal modes of transport in the Empire: travel by boat, by riding animals, such as horses and mules, and
-travel by wagon or coach. Riding animals have already been covered above. Here we will cover the rules for travel via boat
-and wagon.
-
-##### Wagons
-
-This covers carts, stagecoaches and all two- and four-wheeled
-forms of transport commonly found in the Empire.
-Movement
-A wagon’s movement is determined by how laden it is with
-passengers and cargo. Therefore throughout a game, a
-wagon’s move may alter due to unloading or loading up of
-more passengers and cargo. Consult the table below to
-determine movement. Wagons cannot charge, climb, hide,
-run or flee.
-Turns
-Wagons, regardless of size, may make a single turn of up to
-45 degrees at the end of its movement. It may then apply the
-lash if desired. Make turns by pivoting the vehicle from its
-mid-point.
-Applying the Lash!
-There are many reasons why a wagon driver would want to
-urge his beasts to go faster – if he is being pursued by bandits
-or mutants, for example! By applying the lash to his draft
-beasts, the driver of a wagon can attempt to gain some extra
-movement. After the wagon has moved normally, the player
-may roll a D6. On the score of 2+ this indicates how many
-extra inches the wagon may move ahead in a straight line. On
-the roll of a 1 something drastic has happened. Roll on the
-table below:
-D6 Result
-1-2 Steeds Tiring – The draft animals are growing tired – if the
-driver applies the lash next turn you must halve the score
-rounding fractions up.
-3-4 Driver Shaken – Due to the wagon’s speed the driver is
-thrown all over the place and may not apply the lash next
-turn as he recovers his composure.
-5-6 Out of control – Make a roll on the Out of Control
-Wagon Movement
-No. of passengers / cargo quota Applying the lash!
-Standard Movement
-1 (driver – compulsory) 10 +D6
-2-3 8 +D6
-4-6 6 +D6
-
-Terrain
-Difficult Ground: If a wagon enters difficult ground roll a
-D6. On a score of a 1 immediately make a roll on the Out of
-Control table, otherwise the wagon is fine.
-Very Difficult Ground: If a wagon enters very difficult
-ground immediately make a roll on the Out of Control table
-with a modifier of +1.
-Walls/Obstacles: If a wagon collides with a wall or other
-solid obstacle it comes to an immediate halt. The wagon
-suffers D3 hits at a Strength of 7 (see below).
-Impassable Ground: If a wagon moves onto impassable
-ground it is immediately destroyed and each crew
-member/draft animal must make an Injury roll. Remove the
-wagon and place any surviving crew within 3" of the crash
-site.
-
-Collisions
-If a wagon collides with another wagon both suffer D3
-Strength 7 hits (roll location and damage as normal below).
-In the case that either attackers or defenders block the way of
-a wagon and it cannot move around them then the wagon will
-move through the models, even if they are from the defending
-warband. All of the models touched by a wagon that is forced
-to move through them must roll lower or equal to their
-Initiative or suffer a S4 hit with all of the consequences.
-Warriors that are out of action cannot get out of the way of a
-wagon and are therefore automatically hit. Whenever a
-wagon collides with anything roll a D6, on a score of a 1
-make an Out of Control test.
-Transport
-For the sake of simplicity all wagons and coaches may
-transport up to six human-sized warriors or smaller (let’s be
-having no Ogre wagoneers now!) or the equivalent in cargo
-(this will be covered in greater detail in the Scenarios
-section). One crewman must be allocated as the driver and
-one may ‘ride shotgun’ with him. The driver may do nothing
-else but drive whilst the wagon is moving as he is too busy
-controlling the reins. In the event that the driver is knocked
-down, stunned or taken out of action a crew member riding
-shotgun may take over the reins and become the new driver.
-Mounting/Dismounting
-A friendly warrior may board a stationary wagon by simply
-moving into contact with it (wagons are only considered
-stationary if they didn’t move in their last turn). Place the
-model either on the wagon or move it with the wagon in base
-contact to simulate it being transported. Similarly, a warrior
-may dismount from a stationary wagon by moving away
-from contact. Warriors may attempt to mount or dismount
-from a moving wagon by passing an Initiative test. If they
-fail, they take falling damage of D3 automatic hits at a
-Strength equal to half the vehicle’s speed. Warriors may
-attempt to board a moving wagon from either another moving
-wagon or from a moving mount with a modifier of -1 to their
-Initiative test – this counts as a charge.
-Losing Control of the Draft Animals
-Apart from if a wagon becomes a runaway, control may also
-be lost by attackers attempting to wrestle away the control of
-the draft animals from the driver. Apart from eliminating the
-driver and taking control of the reins, the easiest way to
-control the draft animals is for a warrior to leap onto the back
-of one and ride it. A warrior can successfully leap onto a draft
-animal by passing an Initiative test (the warrior may add +1 if
-they have the Ride skill). If the test is failed then the warrior
-takes falling damage as usual. The warrior must pass a
-Leadership test to control the beast and therefore control the
-direction and speed of the wagon. The driver can only wrestle
-back control of the wagon by eliminating the warrior (any
-injury will suffice). If a warrior has successfully mounted a
-draft animal he may attempt to cut it free from the team on a
-4+ although he will lose control of the wagon itself in doing
-so.
-Assembled By Paul H Page 295 (knights_templar@hotmail.com)
-
-
-Shooting
-Shooting from a wagon: Crew may fire from aboard a
-wagon and have a 360 degree arc of fire. Shooters suffer a
-penalty of -1 to hit for firing from a moving surface.
-Profile M WS BS S T W I A Ld
-
-Wagon - - - - 8 4 - - -
-Wheel - - - - 6 1 - - -
-Horse 8 - - 3 3 1 3 - -
-Horse 6 - - 3 3 1 2 - -
-Shooting at a wagon: Warriors may shoot at a vehicle and
-gain a +1 to hit because it is a large target. If a hit is scored
-against a wagon then a roll must be made on the Location
-table opposite to decide what part of the vehicle has been hit.
-Loss of a Draft Creature
-Any time a steed is hit, regardless of whether or not it is
-injured, make a roll on the Out of Control table. If a steed is
-stunned or knocked down it will be dragged along by its
-associates until it recovers – next turn reduce speed by 1/2
-(with a draft of two animals) or 1/4 (with a draft of four
-animals) and the driver may not apply the lash. If the steed is
-taken out of action then permanently reduce the speed by the
-previous amount until the driver can cut the animal free on
-the roll of a 5+. If the last steed is stunned, knocked down or
-taken out of action then the wagon comes to a halt and cannot
-move unless the steed recovers – make an Out of Control roll
-with +2 to the result.
-
-Out of Control
-D6 Result
-1-3 Swerve – The driver temporarily loses control and the
-wagon veers wildly off course. Roll a D6:
-1-3 – Swerves 45 degrees to the left.
-4-6 – Swerves 45 degrees to the right.
-The wagon then moves another 6" in the predetermined
-direction.
-4-5 Runaway – The steeds bolt and the driver loses control of
-them. Each turn randomly determine the direction that the
-wagon goes in. Roll a D6:
-1-2 – Swerves 45 degrees to the left.
-3-4 – Swerves 45 degrees to the right.
-5-6 – moves straight ahead.
-The wagon will always move at full speed and roll for
-applying the lash discounting the effects of a 1 all the time it
-is a runaway. Each turn the driver may attempt to take
-control of the steeds. The driver must pass a Leadership test
-to regain control of the beasts. The crew may not fire missile
-weapons all the time the wagon is a runaway as they are
-trying to hold on for dear life.
-6 Loss of control – The wagon goes wildly out of control.
-Roll a D6:
-1 – The wagon swerves to the right (see above).
-2 – The wagon swerves to the left (see above).
-3-4 – The wagon comes to an immediate halt.
-5 – The wagon’s yoke pole snaps and the draft animals
-gallop off. The vehicle moves 6" straight ahead and then
-comes to a halt. The vehicle may no longer move.
-6 – The wagon either jack-knifes or hits a rock or a
-depression in the road and goes into a roll! The wagon
-moves D6" in a random direction determined by the
-Artillery Scatter dice. Any warriors/beasts it collides with
-take the usual collision damage. All the crew and draft
-animals take D3 Strength 4 hits. The wagon is now wrecked.
-Wagon Location
-D6 Result
-1-2 Draft creature – Roll to wound and injure as normal – see
-loss of draft creature below for effects.
-3 Crew– Randomly select a crew member and roll to wound
-and injure as normal – see Loss of Driver overleaf if
-applicable. Any crew member that is wounded must make
-an immediate Initiative test – if this is failed he has fallen
-from the wagon and must test for falling damage.
-4-5 Chassis – Roll to damage the vehicle using the stat line
-below.
-6 Wheel – Roll to damage the wheel using the stat-line below.
-Wheel Damage
-D6 Result
-1-4 Wheel damaged – The wagon’s speed is permanently reduced
-by -2".
-5-6 Wheel flies off! – The wagon immediately swerves (see the
-swerve result on the Out of Control table above) and then comes to a
-halt. The wagon is now immobile. Roll a D6, on the score of 5-6 the
-wagon goes into a roll (see the roll result on the Out of Control table
-above).
-(knights_templar@hotmail.com) Page 296 Assembled by Paul H
-
-
-Assembled By Paul H Page 297 (knights_templar@hotmail.com)
-
-Wheel Damage: If a wheel is damaged this is potentially
-disastrous. Randomly determine which wheel has been
-damaged and roll on the table above adding +1 to the result if
-the wheel has been damaged before.
-Chassis Damage: When the wagon loses its final point of
-damage/wound it is destroyed, comes to an immediate halt
-and each crew member/draft animal must make an Injury roll.
-Combat
-Warriors may strike a stationary wagon in close combat by
-charging and striking against the part they are in contact with
-(draft creatures / crew / wheel / chassis).
-Chassis/wheels: Attacks hit automatically – just resolve
-damage.
-Crew: Crew on board a stationary wagon are counted as
-defending an obstacle and a 6 is required to hit them
-regardless of Weapon Skill. If a crew member is taken out of
-action an attacker may enter/board the wagon in his next turn.
-Draft Animals: The draft animals may be attacked in the
-usual manner although an attacker may choose to cut the
-draft animals free instead which requires a 2+ on a D6 to be
-successful. Draft animals that are cut free count as un-led
-beasts (see above).
-
-Warriors may attempt to attack a moving wagon by charging
-it in the normal way. Note: Charging a moving wagon does
-not bring it to a halt – the combat round is played out and
-then the wagon is free to move in its next Movement phase –
-if it is a runaway then it is compelled to move. Warriors are
-advised to attack to the side and rear because if they attack to
-the front they are liable to be run down in the wagon’s next
-turn! Because attacking a moving wagon is a haphazard affair
-the attacker must determine the location struck first by rolling
-on the Location table above. Both the chassis and wheels are
-hit automatically just resolve damage. The draft animals are
-attacked in the normal manner although an attacker may not
-attempt to cut the reins on moving draft animals. The crew
-are difficult to strike and therefore a 6 is require to hit them
-regardless of Weapon Skill.
-If the attackers manage to successfully board the wagon
-either when it was stationary or by leaping aboard it as it was
-moving they may engage the crew in combat in the usual
-manner without any penalties or modifiers. Note: Attackers
-or defenders that are injured fighting aboard a wagon must
-pass an Initiative test or fall off.
-##### Boats
-
-This covers small rowing boats through to large river barges.
-Note that these are very basic rules to cover small skirmishes
-on the rivers of the Empire, a more inclusive set of rules to
-cover ocean-going ships is currently in development.
-Movement
-Boats move 6" when moving with the current of a river (the
-direction of the river flow must be established before the start
-of the game). Boats may move 4" when travelling against the
-current. Boats must move at least half of their movement
-allowance unless they have been anchored or tethered to the
-shore.
-Turns
-Boats, regardless of size, may make a single turn of up to 45
-degrees at the end of their movement.
-Terrain
-A boat can encounter natural terrain such as rocks or
-manmade obstacles such as logjams specifically placed to
-obstruct its movement. Both the aforementioned terrain types
-are impassable to boats and they will suffer D3 Strength 7
-hits should they move into them and also come to an
-immediate halt.
-Collision
-If a boat collides with another boat both suffer D3 Strength 7
-hits (roll location and damage as normal below). In the case
-that either attackers or defenders block the way of a boat and
-it cannot move around them then the boat will move through
-the models, even if they are from the defending warband. All
-of the models touched by a boat that is forced to move
-through them must roll lower or equal to their Initiative or
-suffer a S4 hit with all of the consequences. Warriors that are
-out of action cannot get out of the way of a wagon and are
-therefore automatically hit. Whenever a boat collides with
-anything roll a D6, on a score of a 1 make an Out of Control
-test.
-
-Transport
-All the above rules for wagons apply. In addition, because
-boats are considerably bigger than wagons, they can therefore
-transport a lot more.
-A rowboat can transport up to six human-sized warriors or
-smaller, or the equivalent in cargo.
-A river boat can transport up to eight human-sized warriors
-or smaller, or the equivalent in cargo.
-A barge can transport up to twelve human-sized warriors or
-smaller, or the equivalent in cargo.
-Mounting/Dismounting
-See above for wagons, except warriors that fail an Initiative
-test for attempting to board a moving boat do not suffer
-damage but fall into the water – see the rules for swimming.
-Shooting
-Shooting from a wagon: Crew may fire from aboard a boat
-and have a 360 degree arc of fire. Shooters suffer a penalty of
--1 to hit for firing from a moving surface.
-Shooting at a wagon: Warriors may shoot at a vehicle and
-gain a +1 to hit because it is a large target. If a hit is scored
-against a boat then a roll must be made on the Location table
-opposite to decide what part of the vehicle has been hit.
-Profile M WS BS S T W I A Ld
-Rowboat - - - - 5 3 - - -
-Riverboat - - - - 8 4 - - -
-Barge - - - - 8 8 - - -
-
-Boat Location
-D6 Result
-1 Propulsion – Roll to damage the boat using the stat-line
-above – if damaged roll again on the Propulsion table.
-2 Rudder – Roll to damage the rudder using the stat-line
-above – if damaged the boat may only turn from now on
-after coming to a complete halt by using a combination of
-oars/boat-hooks.
-3-4 Crew – Randomly select a crew member and roll to wound
-and injure as normal – see loss of driver above if applicable.
-Any crew member that is wounded must make an immediate
-Initiative test – if this is failed he has fallen from the boat.
-5-6 Hull – Roll to damage the boat using the stat-line above.
-
-Propulsion Damage
-Propulsion Damage: Either the oars or the mast and rigging
-have been damaged. Roll a D6 and consult the table.
-D6 Result
-1-2 Sail damaged/oars splintered – The boat’s speed is
-permanently reduced by -1".
-4-5 Rigging damaged/oars splintered – The boat’s speed is
-permanently reduced by -2".
-6 Mast falls! – With the loss of the mast (or all of the oars in
-the case of an oared vessel) the boat may only drift 2" in the
-direction of the current. All crew must immediately test on
-their Initiative to avoid the falling mast (this does not apply
-to oared vessels obviously). If a crewman fails this test he
-receives an immediate Strength 6 hit.
-Hull Damage: When the boat loses its final point of
-damage/wound it is destroyed and sinks immediately. Each
-crew member falls into the water and must make the
-appropriate tests for swimming.
-Combat
-See wagons above. Note: Swimming warriors may not attack
-boats!
-(knights_templar@hotmail.com) Page 298 Assembled by Paul H
-
-
-#### Blackpowder weapons
-
-During the period in which Mordheim is set, the technology
-needed to make blackpowder weapons was still rare, and
-pistols, handguns, blunderbusses, etc were prone to
-malfunctions, jams and misfires.
-The following rules were not included in the Shooting
-section, as they would have slowed down the game, but if
-you want to create more realistic games, feel free to use the
-Misfire rules below.
-If you do use these rules, you might want to reduce the cost
-of the weapons (we suggest by 20%) to keep the balance of
-the game fair.
-
-##### Misfires
-
-Each time you roll a 1 when rolling to hit with a blackpowder
-weapon (handgun, pistol, blunderbuss, warplock pistol, etc),
-roll a D6 and consult the chart below.
-
-##### Blackpowder Weapons Misfires
-
-1 BOOM! The weapon explodes with a deafening roar! The
-shooter suffers an S4 hit (this does not cause critical hits)
-and the weapon is destroyed.
-2 Jammed. The weapon is jammed and useless for the
-remainder of the battle. You may use it as normal in the
-next battle.
-3 Phut. The weapon fails to fire and you must remove the
-shot. This means that the shooter must wait one extra turn
-before he can fire this weapon again.
-4-5 Click. The weapon fails to fire, but there is no additional
-effect.
-6 KA-BOOM! The weapon roars and spits a cloud of black
-smoke and flame! The shot hits the intended target and
-counts as having +1 Strength.
-#### Fighting individual battles
-
-One thing we discovered during play testing Mordheim was
-that after a while very experienced warbands became
-virtually unbeatable when fighting against novice warbands.
-Whilst this might be amusing for the player with the
-experienced warband, it will result in a very one-sided
-battle, where the inexperienced warband is swiftly crushed,
-without even a chance to put up a decent fight. Although the
-underdogs system balances this out somewhat, it is often
-much more fun to play with roughly equal forces, especially
-when introducing new players to the game.
-The following rules allow both players to pick warbands up
-to an agreed equal value, say 1,000 gold crowns. This will
-make the game much more even, as the two forces will be
-roughly similar in strength. Use the Warband lists to recruit
-and equip your warband. The lists tell you which Heroes,
-Henchmen and equipment your warband is allowed to use.
-The limitations of the list ensure that the warbands are
-reasonably balanced.
-You must recruit at least three warriors, including a leader,
-and you may either follow the limitations for the maximum
-size of a warband given in the list or agree a maximum size
-with your opponent.
-
-##### Weapons & armor
-
-Each Hero you recruit may be armed with one or more
-weapons and any armor chosen from the appropriate list.
-Different types of Hero are restricted to different types of
-weapon. The Equipment lists for the individual warbands tell
-you exactly what equipment is available. You may buy rare
-weapons and armor. Pay the appropriate prices for these as
-given in the Trading charts.
-Every model in each Henchman group must take exactly the
-same weapons and armor. This means that if your
-Henchman group has four warriors, and you want to buy
-them swords, you must buy four swords.
-
-The weapons you choose for your warriors must be
-represented on the models. This way your opponent will
-know what he is facing (and he will not be shocked to
-discover in the middle of the game that the warrior who looks
-like a Halfling with a bow is in fact an Ogre with a club!).
-The exceptions to this rule are knives and daggers, which you
-may assume are tucked in boots or concealed in their clothes,
-if not actually represented on the model.
-##### Upgrading heroes
-
-In a campaign game, you must earn statistic increases, but in
-one-off games they can be bought beforehand. You may
-increase the starting characteristics of your Heroes by paying
-the cost in gold crowns given below.
-Note that all races have maximum statistics values. These can
-be found in the Experience section of this rulebook.
-Movement +15gc per point.
-Weapon Skill +15gc per point.
-Ballistic Skill +15gc per point.
-Strength +25gc for the first increase/+35gc for each
-additional increase.
-Toughness +30gc for the first increase/+45gcfor each
-additional increase.
-Wounds +20gc for the first increase/+30gc for each
-additional increase.
-Initiative +10gc per point.
-Attacks +25 GC for the first increase/+35gc for
-each additional increase.
-Leadership +15gc per point.
-Skills +40gc for each skill. You may choose one
-skill at this price for each characteristic
-increase you take. Choose from the skills
-normally available to your warrior.
-##### Ready for battle
-
-The warband is now ready to fight against your opponent.
-Assembled By Paul H Page 299 (knights_templar@hotmail.com)
-
-
-#### Night Fights
-
-By Donato Ranzato & Chris Van Tighem
-The night surrounded them like a blanket of darkness, and
-Yarri felt like he was wading in an sea of black. The nights at
-Mordheim are bitterly cold, and so dark the darkness seems
-to suck in and engulf all light. The monsters too, seem to
-favour the night, and the unexpected happens more than any
-warband leader would like.
-Yarri sat hushed next to his old friend, his handgun cocked
-and ready to blow away towards any sound he heard. He
-jumped as a hand touched his shoulder, but soon he calmed
-his mind thinking it was only Grum trying to gather his
-bearings. However, his calm nerves lasted only a second
-longer as the grip tightend and long claws dug into his
-shoulder.
-Yarri cried out for help, but all he received was a strangled
-cry emanating from the darkness and a brutal blow the
-head...
-
-##### Summary of rules:
-
-All missile weapons firing at short range are at -1 to hit, and
-at long range -2 to hit.
-All psychology tests (Fear, All Alone, etc,) are taken with a -
-1 modifier to Ld. This represents the increased unease of
-combatants in the dark.
-Fighters with all types of bows have the option of using
-Flaming arrows which they may search for and purchase
-prior to the game beginning instead of after the fight.
-However some restrictions do apply. The model moves at -1
-to its movement since braziers have to be carried in order to
-light the arrows. All attacks from flaming arrows count as
-flammable attacks and will cause double wounds on
-flammable creatures.
-
-Creatures immune to psychology will be unaffected by
-darkness modifiers for psychology tests and will not flee
-faster. They simply shrug off the eerie effects of the darkness.
-The night is the time for wild and powerful magic. All
-spellcasters (except for those who uses prayers) benefit from
-a +1 to casting for the duration of battle. However, if a
-Wizard rolls doubles while casting they must immediately
-roll a D6. If the result of the roll is 1 the model is
-immediately taken out of action, if a 2 or 3 is rolled than the
-wizard has lost the ability to cast for the remainder of the
-battle and a roll of 4-6 no ill effects occur.
-A cavalry charges causes fear representing the visual and
-psychological impact of a cavalry charge from out of the
-gloom. However, if a one is rolled on the attack than the
-mounted figure must make an initiative check or be thrown
-from their mount (the mount had unsteady footing). The
-falling warrior takes a d3 Str.2 wounds and the mount,
-spooked by the fall will run off 3d6 inches away from the
-combat.
-While no creature can see in the dark there are a few that
-have adapted to life in darkenss. Through their use of smell,
-touch or some supernatural ability they tend to have an easier
-time after the sun sets than most. Any Skaven, Dwarf,
-Undead, or Beastmen may, once per turn reroll any result
-once. The second roll stands and if a one is rolled on the
-reroll than that warrior loses the benefit of the reroll for the
-remainder of the game.
-Note: If you are using the optional rule of random events -
-they now occur on a 1 or 2, instead of just 1.
-#### The Catacombs
-
-By Donato Ranzato
-"I would not look at the marching things. That I desperately resolved as I heard their cracking joints and nitrous wheezing
-above the dead music and the dread tramping. It was merciful that they did not speak... but by Sigmar! Their crazy torches
-began to cast shadows on the surface of those stupendous columns. Foulness should not have human hands and carry
-torches... living creatures should not have the heads of sheer insanity..." - Last page of the diary of Magnus Faustlich, also
-known as Magnus the Fearless
-What most people in Mordheim don't know, is that far below
-the sewers there are tunnels that were old even before
-Mordheim existed. They were there before Sigmar was born,
-and they could even be there before the Slann arrived. The
-Skaven have known of these ancient subterranean tunnels for
-years as they have found openings to these deeper regions
-during their excavations of the sewers below the city. And
-what they found there scared them more then the cursed city
-above them. They know that there is something truly evil
-waiting in these primordial catacombs. Something older then
-the earth, maybe even older then the universe. And the
-meteor woke it up...
-
-##### Exploring the Catacombs
-
-Far below the earth the silence is ceaseless and oppressive. A
-terrible impression of the huge weight of suspended stone and
-earth is forced upon anyone who enters. Occasional gusts of
-wind pass down the main tunnel, causing candles and torches
-to gutter momentarily. There is no light, except for an
-occasional glow from livid purple or putrid green fungi -
-slimy stuff disgusting to touch. Side tunnels and tiny votary
-
-alcoves frequently open to either side. Along the main tunnel,
-loathsome images panel the walls, depicting men with the
-heads of animals, animals with human limbs, and alien
-entities performing cruel, disgusting, and obscene rituals.
-Some parts of these black passages are obviously cut from
-the stone; other parts look like old watercourses or rock
-fractures; other parts look as if acids had eaten through the
-stone; still other parts have obviously been hacked clear by
-alien tooth and claw.
-It looks like the tunnels go in a straight line, and it is true that
-their direction is consistent, but the angles of the walls, floor,
-and ceiling constantly change, and the passages themselves
-may narrow as little as two feet across, or be as much as 15
-feet wide by 15 feet high. More strikingly, the ways
-constantly rise and fall; it is impossible to see very far ahead
-or very far behind. Even the glow of torches will not carry
-far. These tunnels have an organic feel, and leave the
-perception that some great alien beast had been imprisoned
-within the stone, had then gotten free, and the fighters now
-creep along the spaces left by its bones and sinews.
-(knights_templar@hotmail.com) Page 300 Assembled by Paul H
-
-
-##### Rules
-
-This is not a separate scenario but more of a set of rules to be
-used by the moderator when he wants to situate a scenario in
-the catacombs deep below Mordheim. The moderator could
-read aloud the above section describing the tunnels the
-warbands walk in to give the players a general impression of
-their surroundings. Its up to the individual moderator how he
-likes to represent these ancient catacombs on his table. It is
-advised to use separate tiles or board sections to represent the
-more narrow parts of the tunnels. Most fighting between the
-warbands will probably be fought out in the larger and wider
-parts of the catacombs. Both players should place their
-warbands in a marching order, no more then two models
-wide. This marching order represents the warbands exploring
-the narrow tunnels.
-Fighters exploring the catacombs must make a Fear Test
-every other turn. If failed then that fighter won't walk any
-further until he succeeds again on his Fear test. He may test
-every turn to see if he will walk further down these ancient
-tunnels.
-Because the lines of sight will vary, if the warband include
-toters of ranged magickal or physical attacks, moderators
-should continue to monitor the march order of the warband to
-ascertain if those weapons or spells can be brought to bear.
-
-##### Encounters beneath the City
-
-Not all of these encounters have an immediate effect on a
-scenario. Some of the encounters are just to try to scare the
-players and to give them a feeling for the atmosphere below
-the city. The moderator should roll once in each of the
-players Movement phases, before that player has moved.
-3D6 EVENT
-3 No encounter; warband proceed without incident.
-4 A random fighter stumbles and falls; slimy luminous moss
-coats his hands, elbows, and knees, which he is unable to
-rub off. Because the fighter is now illuminated all hits
-against him are at +1.
-5 One of the fighters hear snatches of conversation; two men
-are saying that intruders may be in the tunnels. The voices
-cannot be located.
-6 Random fighter slips and falls. That fighter suffers a S3
-hit.
-7 Warm liquid drips steadily from the tunnel ceiling; the
-stone beneath is slick and red; the blood has no source.
-8 A foul stench engulfs the warband; each fighter must take
-a Toughness test on 1D6 or the fighter is at -1S for D3
-turns.
-9 Some shapeless thing is glimsed; but it leaves neither trace
-nor track of its passage.
-10 Macabre chuckles, growls, or groans are heard in the
-blackness; maybe a single sound, maybe a hideous
-cacaphony of noise erupts without reason.
-11 A violent blast of wind extinguishes all unshielded candles
-and torches. The warband is now in complete and utter
-darkness. A fighter may try to re-lite a torche once a turn
-by rolling below his Initiative on 1D6.
-12 A small rock falls from the ceiling and strikes a random
-fighter; the fighter suffers a S4 hit on the head and if
-wounded is automatically Stunned unless he wears a
-helmet, in that case the fighter counts as being Knocked
-Down.
-13 The floor of the tunnel is seen to be bordered by jet-black
-roses.
-14 Cave-in rains rocks on the warband. Each fighter must
-make a Initiative test or suffer D3 S4 hits.
-15 Narrow, deep pit; leading fighter must make an Initiative
-test to avoid the slippery edge. If the roll fails roll a 2D6 to
-determine depth of pit. The fighter suffers D3 hits of
-Strenght equal to the depth of the pit.
-16 1D6+4 Tunnel dwellers appear. Roll one die; odd result
-indicates Tunnel dwellers come from the rear, even result
-indicates the Tunnel dwellers come from the front. See
-below for Tunnel dwellers rules.
-17 Random fighter must make a Fear test. If he fails he
-perceives that, in every direction, the brick walls of the
-tunnel are rhythmically moving in and out, like breathing
-lungs. The fighter must flee 2D6" back in the direction he
-came from.
-18 The warband stumbles upon the lair of the Ancient One.
-Luckily it is not paying attention to these puny creatures.
-Because of the sanity-blasting image of this Elder Being
-all of the members of the warband must make a Fear test
-with a –2 modifier. If more then three members succeed,
-the warband can get away with 3D6 Gold Crowns and one
-random Magic Item.
-Assembled By Paul H Page 301 (knights_templar@hotmail.com)
-
-
-#### Sewer Fighting
-
-By Christian Ellegaard, Thanks to the guys on the Egroups Mailing List who have come up with ideas and suggestions for
-Sewer Fighting rules
-As every good big city in the Empire, Mordheim has its own
-sewer that helps the city staying clean. Being a big, complex
-system of corridors, water pipes and gutters to lead the water,
-all the waste of the inner as well as the outer parts of the city
-are lead through these channels to the mighty river Stir, that
-flows through Mordheim. Once in a while it happens that the
-ground collapses above a sewer tunnel and creates an
-entrance to the lower parts of the ruins, and many a warband
-has explored these dungeons.
-In addition, some of the most cold-blooded and fearless
-warriors tend to establish their lair in the sub-urban terrain,
-enjoying the humid, ill-smelling climate and the many
-different mutated beasts that provide their food when
-everything else fails. Sometimes it even happens that two
-warbands clash with each other underground, and often they
-will get into fight believing that the enemy is in possession of
-Wyrdstone, gold, treasures or whatever. Sewer fighting is
-quite different from fighting under the stars. Warriors tend to
-panic much easier - even the slightest dripping of water or a
-harmless bat crossing the corridor may scare a warrior, and
-knowing that the enemy is nearby does not make things any
-better.
-Therefore, when fighting underground, use the following
-rules:
-
-##### Sewers
-
-The sewer corridors can be represented by the standard
-Warhammer Quest floorplans, but since these may be a bit
-small for Warhammer Skirmish games it may be necessary to
-make your own terrain or use any appropriate items for
-creating a sewer-like scenery.
-Later in this article I shall come up with a suggestion of how
-you easily and quickly can make your own sewer terrain.
-
-##### Darkness
-
-Despite all warriors usually bring torches with them in the
-sewers and even a few Heroes might have some lanterns, the
-sewers are still darker than the night. Therefore, warriors in
-the sewers have a limited range of vision which makes
-shooting much harder.
-Before the game, each warrior in each warband must be given
-a special sewer Line of Sight. Roll a D6 for the warrior and
-add an additional D6 for each full 2 Initiative the warrior has.
-The result is the number of inches that the warrior can see!
-Skaven, Dwarves, Vampires, Ghouls and the Possessed, who
-are all used to the dark conditions, may roll 2D6 + D6 for
-each full 2 Initiative points they have rather than only D6. In
-addition, Skaven may automatically re-roll any results they
-do not find satisfying, but they must accept the latter result
-regardless if it is worse.
-Dogs, feeling the terror that lurks in the sewers, will never
-enter the sewers. Warbands with any kind of dogs must
-therefore leave their pets outside!
-To make things easier, however, henchman groups are
-allocated a single Line of Sight instead of an individual
-number for each warrior. Use the highest Initiative of the
-group, representing the most agile and aware warrior warning
-
-his comrades or pointing out special spots that they should try
-to hit.
-A warrior can shoot no longer than his maximum Line of
-Sight, and neither can he run any longer since that would
-mean he might run into some walls or other unexpected
-obstacles. Use the standard Short and Long ranges when
-shooting as described in the Mordheim rulebook.
-You can use small cardboard counters or dice to remember
-the Line of Sight of the different warriors.
-##### Lanterns
-
-Lanterns are very useful when fighting in sewers. Therefore,
-when playing sewer scenarios lanterns are bought at 10 Gold
-Crowns' cost rather than the standard cost, and only Heroes
-may carry them. Use the standard rules for lanterns even in
-the sewers.
-However, lanterns do not only make it easier for the user to
-see, but it also makes it much harder for the enemy to spot
-him because he is getting blinded by the bright light of the
-lantern. Any opponents that wish to shoot with missile
-weapons against a warrior with a lantern may ignore his
-standard Line of Sight because they are, after all, easier to
-spot in the darkness, but they will always, regardless the
-distance, hit on a D6 roll of 6.
-A Hero or a Henchman group with a lantern may re-roll if
-they fail the Leadership test to see if they may move, as
-described below.
-##### Psychology
-
-As already mentioned, the dark, smelly, plague-infested and
-horrible sewers of Mordheim can really scare a mortal man or
-beast to death, especially in a cut-throat fight against a deadly
-opponent.
-Therefore, all warbands, except Skaven who actually live
-there and the Undead that really has no fear, are subject to the
-following rules:
-Before each turn, each Henchman group must take a
-Leadership test based on their standard Leadership value
-without penalties. If they fail, then something has scared
-them - probably nothing else than their own shadow on the
-walls or a silly little rat scuttling over the muddy and dirty
-floor. The Henchmen may do nothing this turn, and if they
-are in close combat then they are only allowed to defend and
-parry any opposing attacks.
-If they succeed the test, then they may move as normal.
-If the group has a Hero with them, then they may re-roll one
-of the failed dice representing the Hero talking encouraging
-to them.
-All warriors in a warband get a -1 Leadership penalty for
-fighting in scary surroundings. Warriors are more likely to
-turn around and flee than in daylight, and at any ordinary
-Psychology tests they use their standard Leadership value -1.
-Note, however, that this does not apply when rolling for
-Leadership before a Henchman may move.
-(knights_templar@hotmail.com) Page 302 Assembled by Paul H
-
-
-##### Dirty slimy floor
-
-Many of the major tunnels in a sewer are used for leading the
-worst dirt, faces and waste away from the city while other
-rooms are simply used for containing waste. Often it can be
-difficult to see if it is possible to trespass the floor, and
-therefore it sometimes appears that warriors jump into deep
-holes that are filled with old refuse.
-Generally there are 4 different kinds of floors:
-Muddy but clear: Old waste is laying here and there,
-although not in thick layers. The floor is rather clear, and it is
-possible to enter the floor and move as normal.
-Water: The floor is lowered so that it can lead water through
-the sewer, and the water reaches a normal man to his waist.
-That means that the warrior can choose to swim rather than
-walk through the water! In the beginning of any turn a
-warrior in water may swim. A warrior may swim no more
-than his total Movement rate. When a warrior is swimming it
-is impossible to hit him with any missile weapon. It is
-impossible to run through water despite warriors may walk
-normally.
-Deep sludge: The floor is covered by a thick layer of sludge
-and waste, and it makes it harder to move through. A warrior
-crossing a sludgy floor gets a -1 Movement penalty and
-becomes unable to run. In addition, enemies shooting at a
-warrior wading through deep sludge will suffer a -1 To Hit
-penalty because the sewage might take some of the shots that
-are directed against the warrior. If the warrior is engaged in
-Close Combat he will suffer a -1 To Hit penalty too because
-fighting in deep dirt is indeed harder than fighting on normal
-ground.
-Messy slippery floor: The floor is very slippery, and the
-warriors tend to trip over especially when running across the
-section. Each time a warrior walks over or moves from a
-merry slippery floor, roll a D6: On a result of 1 the warrior
-trips over and is knocked down. If the warrior is running,
-then he will fall over on a D6 roll of 1-3!
-You can either decide before the battle which type of floor
-the different sewer sections contain which is especially
-appropriate when fighting over your own, modeled terrain
-where you can represent the sludge, water or whatever on the
-floorplans, or you can decide it randomly while the battle is
-on. If you choose the latter option, roll 2D6 every time a
-warrior enters a new sewer section:
-Random floor table
-2D6 Result
-2-5 Deep sludge
-6-8 Muddy but clear
-9-10 Water
-11-12 Messy slippery floor
-
-##### Rotten planks
-
-In many a sewer channel, wooden sidewalks have been built
-so that the sewer workers could easier pass through the
-tunnels. However, the bad climate in the sewers have meant
-that the wooden planks have rot, and here and there they are
-broken too.
-A warrior who wishes to run over a wooden bridge, sidewalk
-etc. or jump down on it must first pass an Initiative test,
-subtracting 1 from the die (natural 6's always fail). If the
-warrior fails he has crashed through the bridge and will fall
-down as described below.
-Place a special Crashed Planks counter (no, you can't find it
-in the boxed set - you got to make your own!) on the spot
-where the warrior's movement ended. Other warriors that
-might wish to cross a Crashed Planks counter must jump!
-Skaven, being very used to the tunnels, know exactly where
-to place their paws on the walkways without falling through.
-Therefore, Skaven automatically pass this Initiative test and
-may run freely over wooden walkways and bridges.
-##### Face down in the sludge
-
-Sometimes it happens that warriors fall down in the sewage
-or become knocked down in a close combat. This is very
-uncomfortable indeed!
-A warrior falling into the sewage from a higher point will get
-plunged into the slimy muddy sludge, and this is hard to
-escape! Measure the distance the warrior fell in inches, the
-distance being the number of turns the warrior will be in the
-sewage. However, no damage is done when hitting the
-sewage unlike falling down on a normal ground.
-If the warrior is wearing Heavy Armor then there is no
-mercy: The heavy metal plates are dragging the warrior
-down, and being unable to cut off the straps he will slowly
-suffocate... Tip: Do not run with warriors that are wearing
-Heavy Armor!
-In close combat it is also quite hard getting up again if being
-knocked down. Therefore, when a warrior wishes to get up
-after having being knocked down or stunned he must pass an
-Initiative test on a D6. Otherwise he will remain knocked
-down.
-Assembled By Paul H Page 303 (knights_templar@hotmail.com)
-
-
-#### Fire
-
-By Steve Hart with help from the guys at the Mordheim e-mail list
-Mordheim even though now in ruins is still plagued with
-fires. Now left alone these fires can spread quickly through
-the ruins. These fires have many causes and on occasions
-warbands have been known to get caught in the midst of a
-raging fire while fighting.
-
-##### When and Where
-
-These fire rules are not for any specific scenario. The use of
-these rules is to add a bit more chaos to the battles that rage
-across the city. They can be added to any game as long as
-both players agree.
-
-##### Starting
-
-Before the game starts but after the terrain has been set up
-randomly choose one building to be on fire. Mark this
-building with a counter or plumes of smoke or any other way
-that you can think of.
-NOTE: If you are playing a scenario that focuses on a
-specific building (like defend the find) then the objective
-building cannot start the game on fire.
-
-##### It spreads!
-
-As the buildings burn, their flames can jump to other building
-quickly setting them ablaze. At the end of each players turn
-roll a dice for each building that is on fire and consult the
-chart below:
-1 GOES OUT: The fire has exhausted all the flammable
-materials in the building and goes out as quickly as it
-appeared.
-2 - 3 KEEPS BURNING: The flames continue the ravage the
-building but do not spread this turn.
-5 - 6 SPREADS: The fire spreads to the nearest (non-burning)
-building within 10"
-Roads cannot set on fire due to the lack of substantial burning
-items. If however you have a road that is covered in
-flammable object you can count this as the nearest building.
-
-##### Entering buildings on fire
-
-Entering a building that is surrounded in flame is a risky
-option but some will dare to venture into the flames.
-You must declare that a model is entering a building on fire
-before he/she does so. The model must now make a
-leadership test to overcome the fear of entering the building.
-If they pass this test they may enter the building. If the model
-fails then that model will not enter the building and cannot
-move for the rest of the turn.
-
-##### Moving inside
-
-Models inside the building have to constantly dodge flames
-and falling timber (like in the action films), and one mistake
-can stop even a hero in his tracks.
-
-Models wishing to move while inside an ablaze building
-must pass an initiative test to do so, otherwise they cannot
-move (blocked by falling timber, flames etc.).
-##### Climbing
-
-Models may never climb the wall of building that are
-burning.
-##### Damage
-
-Funnily enough running around inside a building that is
-currently on fire is not good for ones health! At the end of
-each turn all models inside buildings that are ablaze must roll
-under their toughness on a D6.
-If a models rolls equal to his toughness then the smoke from
-the flames fill their lungs and prevents them from breathing
-for a turn. The model instantly becomes stunned.
-If the roll is over the models toughness statistic then the
-model instantly suffers D3 strength 3 hits that ignore all
-armor saves except magical ones.
-##### Frenzy
-
-The more unhinged inhabitants of Mordheim are less likely to
-care for the fact that the building they are entering is on fire
-(or they just don’t notice)
-Models that are subject to the frenzy rules are unaffected by
-the rules for entering and moving around inside buildings that
-are burning (they just don't care), but they still have to make
-a test on their toughness at the end of their turn.
-##### Starting Fires
-
-Models cannot start fire unless stated in their rules or by
-equipment that they are carrying.
-##### Shooting
-
-The roaring flames block most site into the buildings and the
-heat distorts the air around it causing it impossible to aim.
-You cannot shoot out of or into a building that is on fire.
-Neither may you shot through a building on fire.
-##### Combat
-
-Sometimes the fire will spread to buildings where opponents
-are fighting in hand to hand combat. Event though very
-dramatic the fighters are put into an even more reason to win
-(and then run).
-Hand to hand combat within a burning building is unaffected
-except that the models must roll at the end of their turn to see
-if they take damage from the flames.
-To charge another model while you are inside a burning
-building you must pass an initiative test. If this test is failed
-the model may do nothing in that movement phase. To charge
-from outside you must make a leadership test. Failing this
-test will also result in being able to do nothing in that
-movement phase.
-(knights_templar@hotmail.com) Page 304 Assembled by Paul H
 
 
 #### Random Happenings
@@ -1408,6 +101,7 @@ game turns, this includes both players’ turns.
 ###### Random Encounters Chart
 
 Roll D66
+
 11 Ogre Mercenary
 An Ogre Mercenary (see the Hired Swords section of the Mordheim
 rules for details on the Ogre Mercenary) appears further down the
@@ -1423,6 +117,7 @@ taking out his frustration on a random member of the warband (only
 roll among members of the warband who were not taken out of
 action during the game). Roll for injuries to this unfortunate
 member just as if he had been taken out of action.
+
 12 Swarm of Rats
 Something in the sewers has frightened the rats that live there. The
 rats are in a hurry to get away and will attack anything that stands in
@@ -1437,21 +132,13 @@ forward, 5-6 left). The rats cannot be engaged in close combat and if
 they make contact with a model they will run right over him. Any
 model moved over by the rats will suffer D3 Strength 2 hits, normal
 armor saves apply.
-13 Earthquake
-Powerful magical energies from the crater at the centre of the city
-shake the local landscape. The ground heaves and buckles violently
-and warband members find it hard to keep their footing. Roll a D3 to
-determine how many game turns the earthquake lasts. While the
-shaking persists, all movement is halved, all Initiative tests
-(climbing, etc) suffer a -2 penalty and all Shooting and Close
-Combat to hit rolls are made with a -1 penalty.
-14 High Winds
 
-A powerful wind screams through the area, wildly scattering debris
-and knocking down anything that is not firmly anchored to the
-ground. Warband members now suffer a -1 penalty to all Initiative
-tests (climbing, jumping, etc) and to hit rolls (close combat and
-shooting) for the rest of the game.
+13 Blast From The Past
+A randomly generated character from the MVP roster arrives on the battlefield! Determine their spawn point in the usual manner, the character will ignore any rules for Stupidity they may have and will be hostile to all warbands. Ranged characters will be stationary where possible and shoot at the nearest enemy, only moving if there are no enemies within sight in which case they will move towards the closest enemy not in line of sight. Hybrid characters will walk towards the closest enemy and fire every turn too. Combat characters will run towards the closest enemy. MVP characters award +1xp point for each wound they suffer, as well as the usual +1xp for taking them out of action.
+
+14 Aetherstorm
+Reality isn't quite as consistent a thing in the wyrdstone-infected atmosphere of Mordheim. Even the stone seems to distort and flex under particular concentrations of the crystals, unwary adventurers finding themselves looking back over their shoulder to see their surroundings nothing like what it was mere moments ago as existence folds in on itself. Select two random buildings on the battlefield. In their movement phase models inside the building are immediately transported into the other building - they may not charge or shoot in that turn as they struggle to reorient themselves and ensure they don't end up warping inside a wall. The owning player may choose where in the building the models are transported to, but this may not place them in combat with enemy models. The Aetherstorm lasts for D3 turns.
+
 15 Blood for the Blood God!
 Unfortunately for the warbands involved, the scent of blood has
 brought the attention of one of Khorne’s minions. Reality is
@@ -1460,6 +147,7 @@ to shed even more blood for its master. The Bloodletter has the
 following characteristics in the Beast, Monsters & townsfolk section
 Special Rule: The Bloodletter will stay for D6 turns after which it
 will disappear.
+
 16 Lucky Find
 One random model, on his feet and not in hand-to-hand combat or
 fleeing, has stumbled upon a shard of wyrdstone! Assuming he
@@ -1468,6 +156,7 @@ warband finds after the game. If he is taken out of action in close
 combat, the enemy model steals the shard away! Note that only non-
 animal models can find or steal a shard, not Dire Wolves, Hunting
 Dogs, etc.
+
 21 Restless Spirit
 Countless unfortunates have suffered agonising deaths in countless
 forms since the comet crashed into the city. Not all of these
@@ -1479,16 +168,13 @@ spirit at the start of its Movement phase must make a Leadership test
 or flee (exactly as if he were fleeing from combat). Models that are
 immune to psychology automatically pass this test. This creature is
 unable to affect (or be affected by) the physical world, but it is very
-frightening nonetheless. The spirit moves 4" in a random direction,
+frightening nonetheless. The spirit moves 4" per turn towards the opposite edge of the board,
 moving through walls, obstacles or warband members as if they
 were not there. It will not charge and cannot be harmed by the
 warband members in any way. The only exception to this is if the
 spirit comes into contact with a Sigmarite Matriarch or a Warrior-
 Priest of Sigmar. These models may choose to put the dead to rest.
 If the player controlling such a model decides to do this, the spirit is
-Assembled By Paul H Page 305 (knights_templar@hotmail.com)
-
-
 immediately banished (disappears and does not return) and the priest
 gains one Experience point.
 
@@ -1502,6 +188,7 @@ well. For the rest of the game, the building itself will cause fear due
 to the intense flames and anyone who wishes to enter it must first
 pass a Fear test exactly as if they wished to charge a fear-causing
 enemy.
+
 23 Man-Eater
 One of the trees growing in the area has been changed into a
 carnivorous predator by exposure to the Chaos magic inundating the
@@ -1518,6 +205,7 @@ make. Any result on the Injury table will cause the Man-Eater to
 stop attacking, though it is not possible to actually take it out of
 action or knock it down. Opponents are +1 to hit the tree, due to the
 fact that it is rooted to the spot!
+
 24 Skeletons
 While the intense magic of the area rapidly dissolves skeletons to
 dust, shambling hordes of them spring up at random from the bones
@@ -1531,6 +219,7 @@ in close combat). The skeletons will move towards and attack the
 closest models as quickly as possible. Roll a D3 when they appear,
 after that many turns they crumble back to inanimate bones (count
 the current turn as the first one).
+
 25 The Twisting of the Air
 Reality itself seems to twist, warping perceptions until no one can be
 sure of what their senses tell them. Roll a D6 at the start of each
@@ -1541,7 +230,6 @@ distances between models are also increased by the same D6" roll
 for purposes of weapon ranges and charging. Note that the actual
 models are not moved, but only the shooting/charging model’s
 perception of the distance.
-(knights_templar@hotmail.com) Page 306 Assembled by Paul H
 
 
 26 Spawn
@@ -1562,6 +250,7 @@ charging, instead if its movement takes it into contact with a model
 it counts as charging and engages that model in close combat.
 Attacks: Roll at the beginning of each Close Combat phase to
 determine the spawn’s number of Attacks for that phase.
+
 31 Collapsing Building
 Pick one building at random. Any models inside must pass an
 Initiative test or suffer a S5 hit, armor saves applying as normal, as
@@ -1570,6 +259,7 @@ the building collapses. Remove the building from the table
 table where it stood. Any models climbing the sides of a building or
 on the roof when it collapses automatically fall from whatever
 height they were at.
+
 32 Scrawling on a Wall
 A randomly determined warband member who is within 4" of a
 building (if there are no models this close to a building, ignore this
@@ -1592,24 +282,16 @@ model can hide, even in the open, for rest of the game.
 building – if he moves inside, he can pop out next turn in
 any other building.
 6 A fun read, but nothing else happens (Veskit was here!).
-33 Thick Fog
-A fog rolls in, thick as pea soup. Models can only see 2D6" (roll
-once for the distance all models can see; do not roll individually for
-each model). Re-roll at start of each Encountering Player’s turn to
-see what the visibility is for that turn. The fog lasts for the rest of the
-game.
-34 Hands of Stone
-Hands of earth and stone suddenly jut out of the ground in a small
-area of the battlefield. The Encountering Player must pick a spot
-anywhere on the battlefield and anything within 3" of that spot is
-affected. The area is now very difficult ground as the hands grasp
-and attempt to hold anyone passing near them. This encounter lasts
-one game turn, at the end of which the hands sink back into the
-ground.
+
+33 Energizing Winds
+Like a bizarre green version of cocaine the saturation of Wyrdstone dust in the air brings a rush of energy and seemingly endless stamina to the warband members. In the encountering player's turn roll a D3, all characters' base movement for all warbands is increased by that amount for that round turn. The winds last for D3 turns.
+
+34 Light as a Feather
+Gravity has not been acting the same recently in this particular area of Mordheim. For the rest of the game all climbing tests and diving charges may be rerolled if unsuccessful, and all falling damage is taken at half strength (rounding up).
 
 35 Dog Pack
 Recent events in Mordheim have caused many of the city’s dogs to
-suddenly find themselves without homes. Groups of these animals
+suddenly find themselves without homes. Groups of these animalsSt
 have turned feral and formed into hunting packs. The warbands have
 been discovered by one such (very hungry) pack. The pack consists
 of 2D3 wild dogs (use the Hunting Dog stats from the Witch Hunter
@@ -1623,6 +305,7 @@ end of that warband’s next turn, the fallen member is considered lost
 their ‘food’ with them, any warband members taken out of action in
 the last turn of the game have not been eaten and follow the normal
 rules for models taken out of action.
+
 36 Possessed!
 One randomly selected member of the Encountering Player’s
 warband is suddenly possessed by a minor spirit. This spirit is far
@@ -1635,15 +318,10 @@ Sigmarite Matriarchs and Warrior-Priests are immune to this
 possession, as are non-living warband members. If such a warband
 member is the object of the spirit’s attention, randomly determine
 another warband member to suffer the effect instead.
-41 Fountain of Blood
-The city itself seems to weep as even more blood is shed on its
-streets. For the rest of the game, whenever a model is taken out of
-action in close combat, the model that did the deed must take a
-Strength test or be knocked down as he is hit by a torrent of blood
-pouring from the ground. If there were others involved in the
-combat they are not affected, as the steaming liquid seems to be
-directed only at those who have called it into being by their
-bloodthirsty actions.
+
+41 Sticky Feet
+One randomly determined non-mounted member of the encountering player's warband finds themselves adopting strangely adhesive properties. That warband member may now move horizontally along walls as if it was open ground for the rest of the game, as long as they do not enter water. They do not need initiative tests in order to climb down either (though climbing upwards and jumping will still do).
+
 42-44 Storm of Chaos
 Clouds rapidly gather above the city in an unnatural, sickly yellow-
 green mass and warp lightning begins to dance from one cloud to
@@ -1652,8 +330,6 @@ noises. The clouds themselves seem to take on the shapes of
 monstrous creatures and both warbands in the conflict look at each
 other with fear on their faces. Roll a D6 to see what the storm
 manifestation will bring:
-Assembled By Paul H Page 307 (knights_templar@hotmail.com)
-
 
 D6 Result
 1 Warp lightning begins to strike the ground in search of a
@@ -1715,6 +391,7 @@ one of the models puts his rival out of action). If a warband
 does not have any Heroes left in play when the storm gods
 choose their champions, a random Henchman will be chosen
 from that warband instead.
+
 45 Pit Fighter
 This encounter is identical to the Ogre Mercenary encounter before,
 except the Hired Sword encountered is a Pit Fighter, not an Ogre
@@ -1726,6 +403,7 @@ the warbands below. All models have an extra -1 to hit penalty when
 shooting or fighting in close combat as flies buzz around them and
 into open orifices. The flies remain for D3 game turns and then fly
 away.
+
 51 Sinkhole
 An enormous mouth suddenly opens up under the feet of one
 randomly determined warband member. Make an Initiative test for
@@ -1735,6 +413,7 @@ action. Any other failure results in the model catching himself in the
 opening, which closes around him. Treat the model as being
 knocked down for the rest of the game, though he may not move at
 all.
+
 52 The Horror in the House
 Randomly select one warrior lurking alone inside a building (if there
 are no warband members inside a building, ignore this result and re-
@@ -1753,6 +432,7 @@ again moves 2D6", trying in vain to erase the terrifying images from
 his memory. For the rest of the game, the building itself will cause
 fear, and anyone who wishes to enter it must first pass a Fear test
 exactly as if they wished to charge a fear-causing enemy.
+
 53 Plague Victims
 Disease is a common occurrence among the few survivors left in the
 ruins of the city. This group of a D6 citizens has contracted a
@@ -1808,20 +488,10 @@ phase. If this warrior is later taken out of action as well, place a
 counter where the warrior fell to represent the Matriarch’s
 equipment. This can then be picked up by a different model, as
 above.
-55 Booby Traps
-Some nefarious individuals have trapped the whole area the
-warbands are searching. These traps may take the form of spiked
-pits, deadfalls, spring-driven spiked boards, etc. When this
-encounter is rolled, the Encountering Player must randomly
-determine which of his warband members has discovered the first
-trap. This unfortunate individual springs a trap immediately. If the
-trap is not avoided by passing an Initiative test, the model takes a
-Strength 3 hit; armor saves apply as normal. From this point until
-the end of the game, each player will roll a D6 at the start of his or
-her Movement phase. A roll of 1 means that one member of that
-player’s warband has sprung a trap and must make an Initiative test
-to avoid it. If the trap is not avoided, the model takes a S3 hit as
-above; apply any damage before the model is moved.
+
+55 The Wrong Trousers
+Possession? Again? Fortunately the demonic power in question isn't quite as vindictive as others, rather than posessing a character's arms and attempting to kill them this demon is more of an impish sort of creature. The legs of a randomly determined warband member become posessed by this devious entity, and in each of its movement phases it will move 2D6" in a direction determined by the scatter dice instead of its normal move. This movement will ascend and descend walls without the need for a climbing test at no movement penalty, placing models inside the building on a floor closest to their end point should their movement leave them stuck on the outside of a building. This movement ignores all collision with bases, the possessed model moving through allied and enemy bases alike at no penalty, and this movement will cause the character to leave any combat it is in. The character may shoot as normal.
+
 56 Catacombs
 The ground gives way under one randomly selected warrior and he
 falls into the depths of the catacombs below the city. He takes a S3
@@ -1863,6 +533,7 @@ close combat and a restraining model can give up his attempts at any
 time. This encounter lasts the remainder of the game. Close
 inspection of the tree reveals the bones of several animals
 overgrown with grass and leaves lying at its base.
+
 62 The Lost
 Many view the destruction of Mordheim as a sign that the world is
 coming to an end. Groups of these lunatics are often drawn to the
@@ -1872,14 +543,13 @@ Flagellants (see the Witch Hunter section of the Mordheim rules for
 stats and special rules) will move as quickly as possible towards the
 nearest warband members and engage them in close combat as soon
 as they are able. They are armed with flails.
+
 63 Reflecting Pool
 One warrior on the ground (selected at random from the
 Encountering Player’s warband) notices a small pool of what looks
 to be still water. Reflecting the gloomy sky above, it appears to be
 liquid metal or unnaturally deep silvery water, rippling only slightly
-with the dank breeze blowing through the city. He can ignore it, or
-bend quickly to peer into its depths. If he’s brave enough to gaze
-into the murky liquid, roll a D6:
+with the dank breeze blowing through the city. Peering into its depths, roll a D6:
 D6 Result
 1 The water reflects back nightmare images of his own
 demise, filling him with fear for his own safety. For the rest
@@ -1905,11 +575,6 @@ throughout his body. Though it quickly dims away, a strong
 feeling of strength and vitality is left behind. The warrior
 may ignore the next wounding hit he receives, even if it is a
 critical hit.
-Assembled By Paul H Page 309 (knights_templar@hotmail.com)
-
-
-(knights_templar@hotmail.com) Page 310 Assembled by Paul H
-
 6 The city chooses to reveal its true visage to the warrior,
 unveiling the monstrous intelligence that lurks behind the
 facade of simple ruins and rubble. The warrior’s mind is
@@ -1922,6 +587,7 @@ though he will always hesitate slightly before entering an
 unlit room from now on...
 Note: Only warriors who can gain in experience can choose to look
 into the pool, all others simply lack the curiosity to bother!
+
 64 Screaming Walls
 Faces appear in the walls of one randomly determined building and
 start to emit a piercing shriek. Any warband members within 8" of
@@ -1930,17 +596,10 @@ all to hit rolls (close combat and shooting) while the screaming lasts.
 Spellcasters are even more sensitive to the noise than others and so
 no spells may be cast from within this radius. Roll a D3 to determine
 how many game turns the screaming lasts.
-65 Peddler
 
-No matter which turn it is rolled on, this encounter happens at the
-end of the game. The winning warband sees a peddler wandering
-through the ruins. This travelling merchant keeps his entire stock on
-his back and offers to sell part of it to the warband. He has the
-following items at half their normal price: mace, hammer, sword,
-dagger, axe, helmet, crossbow, pistol, duelling pistol, rope & hook,
-any poison, lucky charm, blessed water, hunting arrows, garlic,
-healing herbs, holy (or unholy) relic, lantern and Mordheim map.
-Roll a D3 for each item to find the quantity the peddler carries.
+65 Wyrdstone Comet
+The spell "Comet of Cassandora" from the Lore of Heavens is cast at a scattered point 4D6" from the centre of the board. Instead of doing 2D6 hits to all units as stated in the book it will do a single hit on all models instead within the specified range and at the same strength. Once the comet lands it may be mined to harvest the wyrdstone it consists of. Models may collect wyrdstone from it in the same way as usual, and the comet will hold shards of Wyrdstone equal to its strength when it landed. 
+
 66 Itsy-Bitsy Spider
 The presence of the wyrdstone has mutated this common household
 pest into a monster of titanic proportions! This Gigantic Spider has
@@ -2383,227 +1042,6 @@ for each inch of downward vertical movement.
 (knights_templar@hotmail.com) Page 314 Assembled by Paul H
 
 
-#### Encampments
-
-These rules are based from the ones by Steven Gibbs
-Since the cataclysm that smashed the city of Mordheim, crude shantytowns have cropped up beyond the crumbling city walls. At first these
-pitiful settlements housed the sparse remnants of Mordheim’s population. However, as soon as word reached the other towns and cities of
-the Empire of the magical Wyrdstone that could be found in the blackened shell of Mordheim, the treasure seekers came. The existing
-settlements were practically overrun by bands of mercenaries and bandits who would set up their camps in whatever tumbledown buildings
-were available or pitch their tents behind crude barricades. Soon there was a flood of greedy souls, many of which were not human as the
-stench of Wyrdstone tempted many from afar.
-There are three main settlements in and around Mordheim. Sigmarhaven is inhabited mainly by the loyal followers of Sigmar and is a place
-of law and relative order. It also attracts a large following of Witch Hunters and their ilk, and understandably mutants and the Possessed are
-not tolerated there. Paid and equipped watchmen are maintained for the security of those who camp within it. There are, though, far more
-lawless settlements around Mordheim where scum such as Orcs and even the Possessed are known to walk freely. Nowhere is more infamous
-than thrice cursed Cutthroat’s Den. Here life is cheap and the only law is that of the sword. Although a foul and dangerous place, there are
-many things that can be bought and sold here because of the shady sorts this place attracts. The last place even the toughest, most brutal of
-scum would think twice before making their camp there is within the haunted ruins of Mordheim itself. The dead are said to walk here and
-the foul servants of the Shadow Lord are everywhere, waiting to claim the souls of the unwary. There are those, however, that brave the
-mutant infested cursed city even after nightfall but then again they seem quite suited to it. Foul Ratmen scurry about the sewers,
-Necromancers make their homes, confidant that the foolish righteous won’t disturb their unholy practices and, of course, the children of the
-Shadow Lord, the Possessed, claim the ruins as their domain.
-
-##### Experimental Rules
-
-When starting a new campaign, all players must decide or not
-to use the encampment rules. Only after their first battle may
-each player then try to find a settlement and make camp.
-First, they must decide which of the settlements they wish to
-set up camp in (obviously dependent upon which settlements
-will let them in!) or if they want to risk actually staying in the
-cursed city. When you decide where you want them to stay.
-A warband may only have one camp at a time and may only
-reroll for a new camp if they lose their original one or they
-have upgraded to a new site after three rounds. Any effects
-that a camp provides start after the warband’s next battle.
-After each battle you may find out if you gain income, if
-other warriors join the warband, or if repairs need be made to
-the camp.
-After each battle you may choose to visit locations within the
-settlement to procure goods and entertainment. If you don’t,
-you may use the Trading chart as normal. Different locations
-can help you find items, receive healing, make money or
-other things. Between location visits, you must roll on the
-Events table to find out what happens to the warband as it
-carouses around the town.
-
-##### Special Rules
-
-Warband Size: With a camp to call home many warriors
-will come knotting. The size of the warband may increase to
-three times greater than the warband’s maximum starting
-size. Also your warband may have up to twice the number of
-marked heroes (other than the Leader) and henchmen groups,
-also you may have up to 5 model with the ‘Lad’s Got Talent’,
-However the normal maximum on a warband will apply
-when fighting a Scenario (only if Scenario: Defend the
-Camp, then the whole warband may be used.)
-Upkeep Cost: Any Hired Sword which is left behind at the
-encampment will only charge haft the standard upkeep for
-that battle. Hired swords that are recovering from wounds
-may only charge haft the standard upkeep, roll a D6 for each
-wounded Hired Sword on a 4+ he will not charge for upkeep.
-Any Dramatis Personae will not wait around in some camp,
-so if a Dramatis Personae if left behind they will leave the
-warband.
-Assembled By Paul H Page 315 (knights_templar@hotmail.com)
-
-
-##### Types of Encampment
-
-Barracks: The Barracks are used by most of the Human
-warbands, Any Mercenaries warbands increasing the
-maximum number of warband member by +1 model.
-Caves: There are many caves found all around Mordheim,
-and most of these caves are home to some sort of monsters.
-The caves are commonly used by the Beastmen raiders and
-Green-skins warbands. But the Cults of the Possessed also
-have been known to uses the caves. Beastmen raiders may
-recruit a Minotaur at haft the normal price. Green-skins may
-recruit a Troll at haft the normal price. If the cave is used by
-any other warbands, then on every other game, Roll a d6, on
-a 5+ you have to defend against: Beastmen raiders, Green-
-skins, or Possessed warband.
-Cellars: When the building above is burn away the cellar is
-all that is left. With no one left to rebuild, the cellars become
-places of refuges of many warbands, been underground the
-equipment can hidden away from prying eyes. The Skaven
-warbands may have D3 extra giant rats for free.
-Churches: The church is a holy place for many warbands
-and for some an unholy place. Witch Hunter & Sister of
-Sigmar warbands may have D3 vile of Holy water every
-game, Any human warbands (non-chaotic), dwarven
-warbands or elven warbands may hire a Cleric, Warrior Priest
-or Wolf Priest at haft the normal hiring cost, upkeep is as
-normal. The church may be fitted with bell tower. This act as
-a scout tower and have the following special rule:
-Church Bells - Then defending the base camp, the defender may
-ring the church bells at the start of the assault phase. If rung all
-defending model gain a +1 Initiative and cause fear for that turn
-(this may be rung in the attacker’s turn). At the end of turn roll a D6
-on a 5+ the bell breaks from it mountings, the bell cannot be used
-for the rest of the game, and will cost 25 gold crown to repair and
-the upkeep increases by +2D6 for each time the bell breaks.
-Crypt/Mausoleum: You have found a graveyard to your
-liking. With nice mausoleums and plenty of corpses. The
-grave corpses tend to be better preserved and good for
-reanimating, this encampment has the following special rule:
-Grave Robbing - The income of a warband that set up in a
-Crypt/Mausoleum and Grave Robbing will increase to 3D6. Undead
-warbands will dig up suitable corpses on a 9 or less.
-
-Farmhouse: In your meandering you have found a deserted
-farm. Your warband may work it to earn some extra cash, this
-encampment has the following special rule:
-Working the land - The income of a warband that set up in a Farm
-and Working the land will increase to 2D3 and will gain +1
-Experience on a 5 or 6.
-Guardhouse: Normally Guardhouse are made out of stone
-and look like a watchtower built onto the side of a Barracks.
-The Guardhouse gives your warband the advantage of having
-a high place to shoot from and Counts as hard cover (-2).
-House: the House is just that, a house with three (maybe
-four) walls and sometimes a roof.
-Manor: In your meandering you have found a Manor. Your
-warband has taken it over and fixed it up to your liking.
-Merchants see the house as a sign of wealth and are more apt
-to stop by to sell their wares. Add +2 to find items roll on the
-trading chart.
-Safe House (Sister of Sigmar only): The Save Houses are
-only used be the Sister of Sigmar. The house comes with a
-fence, wall or some other barrier to keep out riffraff. The Safe
-House gives the Sister of Sigmar warband one reroll per
-battle.
-Sewers: You have found a lovely section of sewer to set up
-camp in. It even has some nice tunnels running off of it to
-who knows where. Skaven may have an extra rat ogre.
-Allows up to three Henchmen group to be held in reserve at
-the start of the game and placed anywhere on the board at the
-start of your turn - no closer than 8" to an enemy model,
-Sewer sickness - Roll a D6 for each person staying here on a 1 they
-are sick and can’t fight in the next game. Skaven roll 2D6 and on a
-12 they can’t fight.
-Tavern: You have gotten your warband a deed to a Tavern.
-You get to earn extra cash for renting out rooms and selling
-food, but have become more noticeable as a warband. This
-encampment has the following special rule:
-Drunken Pay - The income of a warband that set up in a Tavern
-and Drunken Pay will increase to 2D4 and times it by 4.
-Tents: See encampment equipment for the Full rules for tents
-in Mordheim.
-Ruins: There are many runes in the City of Mordheim and
-around the outer walls. Any warband staying in the runes
-may roll an extra dice on the Exploration chart; however you
-may only pick a maximum of six dice out of all.
-(knights_templar@hotmail.com) Page 316 Assembled by Paul H
-
-
-##### Income
-
-The warbands can be supplement their income, members of a
-warband which stay behind can work to gain extra income or
-other benefits for the warband. Recovering warband members
-cannot work. The some jobs that a warband can do, is based
-on location of encampment, type of encampment and type of
-warband.
-Working the land: Any member of the warband may work
-the common farmland, for each member of the warband
-which work the land get D3 GC for their time and roll D6 for
-each hero/henchmen group and on a 6 they gain +1
-Experience.
-Part of the Watch: Any member of the warband may help
-out the City Watch for a day, for each hero/henchmen group
-helping the City Watch gains 30 GC for their trouble. If a
-warband get in trouble with the City Watch roll at the start of
-the next time your warband meets on a 5+ the enemy
-warband hate your warband. Note that this will only applies
-for that one game.
-Drunken Pay: The location Tavern is always looking for
-help. Any member of the warband may help out, as bar staffs,
-bounces or as a kitchen hands. For each five members roll D6
-and times it by 5 GC.
-Morr’s Work: Any member of the warband may help out
-around the Temple of Morr, Digging Graves, helping with
-repairs, etc. For each two members gets 2D6 GC. Also for
-each member roll a D6 on a 6, the member has injury
-
-themselves, Roll on the serious injury charts (treat like they
-had been taken Out Of Action).
-Grave Robbing: Any member of the warband may choose to
-dig up a fresh grave and take what they can find. For each
-two members gets 2D6 GC. Also for each member roll a D6
-on a 6, the member has injury themselves, Roll on the serious
-injury charts (treat like they had been taken Out Of Action).
-Undead warbands may just dig up corpses instead, Roll 2D6
-if the roll is 7 or less then they have dug up a corpse suitable
-to become a Zombie, one zombie should be added free to the
-warband Roster.
-##### Hired Help
-
-With an encampment setup, a warband may hire some help
-from the locals to employ their skills for the warband. Your
-warband may get the help from a displace Beast Handle,
-Blacksmith, Cartographer, Fletcher, or Gunsmith. Each hired
-help act like a Hired Sword. Use the profiles in the Beasts,
-Monster & Townsfolk section for the Hired Help.
-Names Hired Cost Upkeep
-Alchemist 40 GC 20 GC
-Beast Handle 40 GC 15 GC
-Blacksmith 50 GC 15 GC
-Cartographer 15 GC 5 GC
-Fletcher 45 GC 15 GC
-Gunsmith 45 GC 15 GC
-Merchant 30 GC 10 GC
-##### Locations
-
-After each battle you may choose to visit locations within the
-settlement to procure goods and entertainment. If you don’t,
-you may use the Trading chart as normal. Different locations
-can help you find items, receive healing, make money or
-other things. Between location visits you must roll on the
-Events table to find out what happens to the warband as it
-carouses around the town.
 
 A Visit to the Apothecary
 Each warrior may only attempt to get treatment for one injury
@@ -2684,358 +1122,4 @@ however, miss the next battle while he recovers.
 11-12 ‘Shallaya be praised!’
 The treatment was a complete success! The warrior may
 remove the injury and its adverse effects from his profile.
-
-Cartographer
-A cartographer will help the band with their exploration. He
-also carries many different maps. You may purchase maps
-here without searching for them but the rules for maps from
-the Mordheim rulebook still apply. The cartographer is also a
-wealth of little titbits of information that he is willing to sell.
-Most of it is useless but some isn’t. If you pay him 5 GC he
-will divulge some of this info to you.
-Roll a D6 on the following chart:
-1 You may re-roll one of your Exploration dice after the next
-battle.
-2-5 The information was interesting but utterly useless.
-6 You may increase or decrease the result of one Exploration
-dice by 1 after the next battle.
-
-Fletcher
-The fletcher is a master at making bows and arrows, along
-with other missile weapons. He does not have the craft or
-know how to create Black Powder weapons though. When
-you visit a fletcher you may add +2 to find the missile
-
-weapon you are looking for (this does not count towards
-Black Powder weapons though).
-Smithy
-Hearty blacksmiths work at the smithy where they fashion all
-kinds of metals into a variety of useful items. Mainly though
-they create weapons and armor. When visiting a blacksmith
-you may add +2 to your Search rolls when trying to find
-armor or close combat weapons.
-Muleskinner
-A beast master takes care of the animals. He feeds, houses
-and trains horses, ponies and dogs. He reduces the difficulty
-of finding animals by adding +2 to your dice roll on the
-Trading chart.
-Merchant
-The merchant is a purveyor of a great variety of goods. He
-sells just about anything that’s not nailed down. The
-merchant gives you +1 to find Rare items.
-(knights_templar@hotmail.com) Page 318 Assembled by Paul H
-
-
-Drinking Den
-This is a tavern where you may play a game of chance, look for new recruits or just get smashed! You may gamble at any time
-in the Dancing Pig. To find out what else you can do, roll a D6 and consult the following chart.
-D6 Effects
-1 Drugged. One of your Heroes (select randomly) partakes of
-a curious drink offered to him by a stranger. After one swig
-he feels the effect of the liquid take hold – he has been
-drugged! Roll a D6 on the following table:
-1-3 Your Hero has been poisoned and is at -1 Toughness
-for the duration of the next battle.
-4-6 The liquid in question is actually a very strong ale, and
-your hero quickly gains a taste for it. He wakes up the
-next morning with a pounding head.
-2-3 Taken with the joys of hot food and a good too many bottles
-of Bugman’s, your leader and his men overspend on such
-luxuries by D6x10 GC.
-4-5 Hireling. Whilst carousing in the bar you meet many
-different characters and warriors. You sit down to have a
-few drinks with some. Roll a D6 on the following chart:
-1 You are drinking with a Halfling who, impressed with
-your propensity for ale, offers you his services at half
-the normal rate for the next battle.
-2 An Ogre challenges you to a drinking contest. Roll a
-D6:
-1-4 He drinks you under the table – you wake the next
-day with a terrible hangover.
-5-6 You drink him under the table and he is in such
-awe that he offers you his services for the next
-battle for free.
-3 You sit down with a mysterious Elven Ranger and
-start to tell tales of your exploits. One of your tales
-moves him so much, he offers you his services at half
-the cost for the next battle.
-4 You sit down and share a drink with a Freelancer. As
-the night wears on you find that he and your father
-served in the same company together. He offers you
-his services for the next battle for free.
-5 You find yourself drinking with a young fellow who is
-itching to test his metal in the Cursed City – you may
-add an extra henchman to your party (not above your
-warband’s maximum number of warriors however).
-6 You sit with a fellow who looks battle hardened. As
-you talk, you discover that the rest of his warband was
-slain searching the ruins. You may ask him to join
-your warband as a Hero. You may add a Hero to your
-warband for free, although only if you haven’t got the
-maximum number of Heroes already.
-6 Bar Room Brawl. Your leader gets into an argument with
-another patron in the tavern. The argument soon escalates
-quickly. Roll a D6 on the following table:
-1 Your leader is thrashed and must make an immediate
-roll on the Injury table.
-2 Your leader takes quite a beating and leaves D6 GC
-poorer.
-3 Your leader knocks the patron to the ground and takes
-D6x3 GC from his purse for his impudence.
-4 The patron is joined by his warband and an all-out
-brawl ensues. Roll a D6: 1-4 you send the warband
-fleeing and gain D6x5 GC, for your trouble. 5-6 you
-are routed and lose D6x5 GC
-5 The brawl attracts the attention of the watch, who
-arrive to throw the patron in the stocks.
-6 The brawl attracts the attention of the watch who
-arrive to throw everyone into the stocks. You must pay
-D6x10 GC to get everyone out.
-
-Gambling
-Your leader gets involved in a rather dubious game of dice.
-Roll a D6 and consult the table below:
-D6 Result
-1 Your leader loses 3D6 GC and comes away a little wiser.
-2-5 Your leader manages to break even.
-6 Your leader gambles away a fortune before Lady Luck
-smiles on him and he wins it all back with interest. Collect
-3D6 GC in winnings.
-Assembled By Paul H Page 319 (knights_templar@hotmail.com)
-
-
-##### Sigmarhaven
-
-Sigmarhaven, bastion of hope and goodwill, is located to the
-north-east of Mordheim where the River Stir still runs pure. It
-is not the largest of the settlements around Mordheim but is
-by far the safest. The settlement is surrounded by a wooden
-palisade and has a well-armed militia, which is paid for and
-maintained by tithes from all of the warbands that reside
-there.
-Sigmarhaven was originally founded by the Sigmar-fearing
-folk who managed to flee the cursed city but has since
-become the refuge of Witch Hunters and Reiklanders alike. A
-makeshift wooden temple stands in the centre of this shanty
-of wooden shacks and canvas tents, and the priests of Sigmar
-preside over the settlement and deal with the day-to-day
-running of the place. The centre of the settlement is a bustling
-market place where traders and merchants can buy and sell
-their wares – everything from food, ale and weapons to
-horses and even Wyrdstone. Most honest, decent folk are
-welcomed here from many of the Empire’s outlying
-provinces, and even the odd Elf or Dwarf can be found
-wandering around the morass of camps.
-Who may camp here: The Warbands which are allowed the
-stay inside the wall of Sigmarhaven are of a Lawful, Lawful /
-Neutral or Neutral Alignment, apart from the Outlaw, Pit
-Fighter and Norse Warbands.
-Housing: Most of Sigmarhaven housing is of tents or small
-wooden shacks, when a new warbands arrives they are
-assigned a block, it is up the warband’s leader to work out
-how to best use the block.
-Apothecary Cost: 20 gold crowns per attempt
-Special Rules:
-Upkeep: For any warband residing within Sigmarhaven is
-responsible for the upkeep and defence of the place – as a
-result a tithe of two shards of Wyrdstone must be paid after
-each battle.
-Type Cost Upkeep Availability
-Barracks 25 10 Common
-Caves * ** Common
-Cellars * ** Common
-Churches 100 15 Common
-Crypt/Mausoleum 50 10 Common
-Farmhouse 10 5 Common
-Guardhouse 50 20 Rare 10
-House * ** Common
-Manors 150 30 Rare 10
-Safe Houses * ** Common
-Sewers 25 10 Rare 8
-Tavern 150 30 Rare 8
-Tent X ** Common
-Ruins * ** Common
-
-##### Brigandsburg
-
-Brigandsburg tends to house the more unsavoury characters.
-Middenheimers abound here as do Witch Hunters. Some
-Reiklanders set up camp here and very few Marienburgers
-(after all it is too filthy for them). The Sisters have a presence
-here but it is only a safe house. Possessed are a rare site but
-do appear at times.
-Who may camp here: Most Warbands are welcome the stay
-at Brigandsburg apart from the Beastmen raiders.
-Housing: Most of Brigandsburg housing is of tents or
-wooden shacks,
-Apothecary Cost: 15 gold crowns per attempt
-Special Rules:
-Hired Swords: Here you will find the most hired swords. If
-hired out of Brigandsburg they are hired at 75% of the base
-cost but their upkeep is the same.
-Type Cost Upkeep Availability
-Barracks 25 10 Common
-Caves * ** Common
-Cellars * ** Rare 9
-Churches 100 15 Rare 11
-Crypt/Mausoleum 50 10 Common
-Farmhouse 10 5 Common
-Guardhouse 50 20 Rare 9
-House * ** Common
-Manors 150 30 Rare 10
-Safe Houses * ** Rare 10
-Sewers 25 10 Rare 9
-Tavern 150 30 Rare 8
-Tent X ** Common
-Ruins * ** Common
-(knights_templar@hotmail.com) Page 320 Assembled by Paul H
-
-
-Assembled By Paul H Page 321 (knights_templar@hotmail.com)
-
-##### Cutthroat’s Den
-
-Cutthroat’s Den is a place of villainy and evil. It is located on
-the west side of Mordheim. Anyone with gold is allowed in
-and those without tend to find their hands in other people's
-pockets.
-Cutthroat’s Den does not have much in the range of defence
-(it is up to the warband to defence themself). As for the City
-Watch, it works for the City’s Crime boss and would only
-defence itself.
-There are a few brave souls (or fools as some have said) that
-stay in Cutthroat to make money. The famous Twisted Goat
-is located here. Despite being in a bad town the owner keeps
-it clean and safe as brawls are at a minimum. The infamous
-Pit resides in the centre of town. Many have lost their lives
-here and many have made their fortunes. The slaver Ashen
-Pettyflesh has a thriving business here. He sales any
-humanoid for a price to anyone with the right amount of
-money. When visiting Cutthroat’s Den you may find many
-special locations. You may choose to skip visiting locations
-and use the trading chart to get equipment.
-Who may camp here: The warbands that are welcome (kind
-of) at Cutthroat’s Den are Lawful / Neutral, Neutral, Neutral /
-Chaotic, Chaotic Alignment, apart from the Beastmen
-raiders.
-Housing: the Houses at Cutthroat’s Den wooden shacks,
-tents or haft stone/wood buildings.
-Apothecary Cost: 5 gold crowns per attempt
-Special Rules:
-All goods are at a +2 to find but cost price and a half what
-they would normally.
-Type Cost Upkeep Availability
-Barracks 25 10 Common
-Caves * ** Common
-Cellars * ** Common
-Churches 100 15 Rare 12
-Crypt/Mausoleum 50 10 Common
-Farmhouse 10 5 Common
-Guardhouse 50 20 Rare 10
-House * ** Common
-Manors 150 30 Rare 12
-Safe Houses * ** Rare 12
-Sewers 25 10 Common
-Tavern 150 30 Rare 6
-Tent X ** Common
-Ruins * ** Common
-
-##### Mordheim
-
-Mordheim the dammed city itself, where the surviving
-townsfolk fled and the adventures head for. Most of the once
-great city now lies in runes, cause by the impact and the
-following fire.
-Who may camp here: Any Warbands may choose to stay
-within the wall of the curse city.
-Housing: Most of housing in Mordheim are runes,
-Apothecary Cost: 35 gold crowns per attempt
-Special Rules:
-(Unknown)
-Type Cost Upkeep Availability
-Barracks 25 10 Rare 12
-Caves * ** Common
-Cellars * ** Common
-Churches 100 15 Rare 10
-Crypt/Mausoleum 50 10 Common
-Farmhouse 10 5 Rare 8
-Guardhouse 50 20 Rare 9
-House * ** Common
-Manors 150 30 Rare 8
-Safe Houses * ** Rare 7
-Sewers 25 10 Common
-Tavern 150 30 Rare 8
-Tent X ** Common
-Ruins * ** Common
- 
-X = You will find the cost of a tent on the Price Chart in
-the Trading section.
-* = The cost of purchase change depending on the size
-of the warband, for the first 6 members of the 15
-GC, for each 6 members (or part of) after the first
-will increase the Cost by D6+5 GC.
-** = The upkeep of the Encampment may increase
-depending on the size of the warband, for the first 12
-members of the 10 GC, for each 6 members (or part
-of) after the first will increase the Cost by D6+5 GC.
-
-##### Hired Sword Availability
-
-Every settlement around the city of Mordheim has different Hired Swords Availability to the location. Roll 2D6 to work out if
-the Warband can find the Hired Sword that they are looking for, by rolling on the Hired Sword Availability Table below.
-
-Hired Sword Availability Table
-Hired Sword Sigmarhaven Brigandsburg Cutthroat’s Den Mordheim Other Areas
-Arabian Merchant 6 6 - - 10
-Barbarian 11 9 7 7 8
-Bard 5 7 11 12 9
-Beggar Common Common Common Common Common
-Black Orc - - 9 8 10
-Bounty Hunter 7 6 6 9 9
-Chaos Warrior - - 11 7 11
-Clan Eshin Assassin - 11 8 7 9
-Clan Moulder Packmaster - 11 8 7 9
-Clan Moulder Rat Ogre Bodyguard - - 9 7 11
-Clan Skryre Poisoned Wind Globadier - 12 8 7 10
-Clan Skryre Sniper - 11 8 7 9
-Cleric 6 8 - 10 9
-Dark Elf Assassin - - 11 7 11
-Dark Elf Sorceress - - 9 9 10
-Duellist 7 8 7 10 10
-Dwarf Runesmith Journeyman 9 10 - 11 10
-Dwarf Sapper 10 10 11 10 10
-Dwarf Slayer Pirate 10 10 7 7 9
-Dwarf Treasure Hunter 10 8 - 8 9
-Dwarf Troll Slayer 10 10 7 7 9
-Elf Mage 10 10 - - 10
-Expert Marksman 7 8 9 10 9
-Freelancer 8 10 - 12 10
-Goblin Lantern Bearer - 11 8 6 9
-Halfling Scout 6 8 - - 9
-Halfling Thief - 8 6 - 8
-Highwayman - 10 6 8 10
-Hochland Huntsmaster 10 9 - - 9
-Imperial Assassin 10 8 7 - 9
-Imperial Tactician 8 8 - - 10
-Kislev Ranger 8 10 10 11 9
-Mule Skinner 8 9 11 - 9
-Norse Shaman - 9 8 - 9
-Ogre Bodyguard 10 8 7 7 9
-Ogre Slave Master - - 8 8 11
-Pit Fighter 9 9 7 7 10
-Priest of Morr 7 10 - 9 9
-Priest of Ranald 10 7 - - 9
-Priestess of Shallaya 6 8 - - 8
-Road Warden Common Common - - 9
-Shadow Warrior 9 12 - 12 11
-Thief 8 8 8 8 9
-Warlock - 10 9 6 10
-Warrior Priest of Sigmar Common 10 - 12 7
-Witch - 10 8 7 10
-Witch Hunter Common 10 10 8 10
-Wolf Priest of Ulric - 9 - 9 9
-Wood Elf Ranger 10 10 - - 11
-
-(knights_templar@hotmail.com) Page 322 Assembled by Paul H
-
 
