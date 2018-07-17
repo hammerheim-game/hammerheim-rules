@@ -16,6 +16,8 @@ Including:
             - Using Stones
             - Becoming a Chaos Spawn
             - Random Mutation Table
+    - 14 Beweaponed Extremities*:
+    - A Visit to the Apothecary
 
 <!-- /MarkdownTOC -->
 
@@ -714,8 +716,6 @@ their armor save improved by one point (i.e. a 5+ save
 becomes a 4+ save). Note that no model may ever have a
 save better than 1+. If the model has no armor, the stone
 gives him a 6+ armor save.
-Assembled By Paul H Page 311 (knights_templar@hotmail.com)
-
 
 ###### Using Stones
 
@@ -813,6 +813,7 @@ Warhammer line, it's probably more satisfying and fun to
 make your own. Spawn are the ultimate you-can-do-no-
 wrong conversion project, where you can throw together all
 sorts of stray bits to make a really unique model.
+
 ###### Random Mutation Table
 
 Mordheim is a city under the sway of Chaos, and with Chaos
@@ -839,13 +840,12 @@ represent this danger, if a warrior ever has a characteristic
 reduced to zero as the result of a mutation, they immediately
 degenerate into a loathsome Chaos Spawn (see the full rules
 for Chaos Spawn above).
+
 Any member of a human, mercenary warband (this includes
 both Ostlanders and Averlanders) that receives a mutation
 marked with * is immediately drummed out of the warband
 by his suspicious peers. Remove the hero from the roster, his
 equipment is lost.
-(knights_templar@hotmail.com) Page 312 Assembled by Paul H
-
 
 Random Mutation Table
 Roll a D66
@@ -870,7 +870,10 @@ lost, the mutant must be retired from the warband.
 though its other facial features remain unchanged. Unless the mutant
 already possesses a bite attack, the mutant may make an additional
 attack in each hand-to-hand combat phase due to its vicious bite.
-14 Beweaponed Extremities*: The mutant’s hands are turned into
+
+#### 14 Beweaponed Extremities*:
+
+The mutant’s hands are turned into
 weapons! The mutant may no longer use other weapons or
 equipment that would require the usage of hands.
 On the plus side, it no longer has to worry about being caught
@@ -878,10 +881,14 @@ without a weapon! The mutant will gain the normal extra attack in
 hand-to-hand for using an additional hand weapon, and the weapon
 extremities follow the normal rules for weapons of their type (i.e.
 sword extremities may be used to parry).
+
 Roll a D6 for each arm to see what it becomes:
+
 1-2 sword, 3-4 mace, 5-6 axe.
+
 If the mutant grows two sword extremities, it may re-roll failed
 parries just as if it had a sword and a buckler.
+
 15 Blackblood: If the model loses a wound in close combat, anyone
 in base contact with the model suffers a Strength 3 hit (no critical
 hits) from the spurting corrosive blood.
@@ -910,7 +917,6 @@ Neither of these attributes can subsequently be altered by experience
 or mutation. If an experience advance indicates a change in one of
 these characteristics, re-roll the advance until a different
 characteristic advance is obtained.
-
 25 Elastic Limbs*: The mutant's arms can stretch out, allowing the
 mutant to attack from a distance. If the mutant is not in base contact
 with an enemy model at the beginning of the hand-to-hand combat
@@ -970,9 +976,6 @@ herbal remedies and plenty of rest to keep the disease from setting in
 permanently!). The Plague Bearer may not infect the same model
 more than once in a single battle. In addition, the Plague Bearer's
 ghastly appearance means it now causes fear.
-Assembled By Paul H Page 313 (knights_templar@hotmail.com)
-
-
 51 Poisonous Bite: The mutant grows small fangs which can secrete
 a potent poison.
 Unless the warrior already has a bite attack, it gains an extra attack
@@ -1003,7 +1006,6 @@ remainder of the battle.
 54 Resilient: The mutant's skin thickens, or becomes scaly, or
 otherwise increases its resilience to damage. Increase the mutant's
 Toughness by +1.
-
 55 Scorpion Tail*: The mutant has a long barbed tail with an
 envenomed tip, allowing him to make an extra Strength 5 attack in
 each hand-to-hand combat phase (unless the mutant already has a
@@ -1032,87 +1034,83 @@ proper sense, but they do allow the mutant to glide down from an
 elevated position. If the mutant is above the table-top surface (on a
 roof, walkway, etc.) it may glide down at a rate of 2" horizontally
 for each inch of downward vertical movement.
-(knights_templar@hotmail.com) Page 314 Assembled by Paul H
 
+#### A Visit to the Apothecary
 
+Each warrior may only attempt to get treatment for one injury at a time, and only one attempt at treatment per Hero may be made during each post battle sequence. The cost for treatment will vary from location to location per attempt (one attempt = one roll on the table), and this money must be paid before rolling on the table – Mordheim physicians demand payment in advance, while the patient is still capable of doing so! When you visit an Apothecary you may add +1 to find the drugs or potions that you are looking for. 
 
-A Visit to the Apothecary
-Each warrior may only attempt to get treatment for one injury
-at a time, and only one attempt at treatment per Hero may be
-made during each post battle sequence. The cost for treatment
-will vary from location to location per attempt (one attempt =
-one roll on the table), and this money must be paid before
-rolling on the table – Mordheim physicians demand payment
-in advance, while the patient is still capable of doing so!
-When you visit an Apothecary you may add +1 to find the
-drugs or potions that you are looking for.
-Necromancers often visit the surgeon looking for body parts
-and bodies for their creations and zombies. A necromancer
-may stop by the surgeon to find bodies for zombies and
-reanimate them. Roll a d6 if you roll a 6 you may add a
-zombie to your warband at 1/2 the cost.
-The following injuries cannot be treated: Chest Wound,
-Blinded in One Eye, and Old Battle Wound. They are
-permanent damage the afflicted warrior will carry to his
-grave.
+Necromancers often visit the surgeon looking for body parts and bodies for their creations and zombies. A necromancer may stop by the surgeon to find bodies for zombies and reanimate them. Roll a d6 if you roll a 6 you may add a zombie to your warband at 1/2 the cost. 
+
+The following injuries cannot be treated: Chest Wound, Blinded in One Eye, and Old Battle Wound. They are permanent damage the afflicted warrior will carry to his grave. 
 The following injuries use the Limb Surgery table: Leg
 Wound, Smashed Leg, and Hand Injury.
-The following injuries use the Brain Surgery table:
-Madness and Nervous Condition.
 
-Surgery table
+The following injuries use the Brain Surgery table: _Madness_ and _Nervous Condition_.
+
+####### Surgery table
+
 2D6 Result
-2-3 ‘Someone fetch a priest!’
+
+######## 2-3 ‘Someone fetch a priest!’
 The unfortunate patient has expired due to excessive blood
 loss. The Hero is dead and must be stricken from the
 warband record, but his equipment is retained by the
 warband.
-4 ‘This has got to come off!’
+
+######## 4 ‘This has got to come off!’
 The surgeon has felt the need to amputate, ostensibly to
 ‘keep the rot out’. If a leg was being treated, the model now
 has its Movement halved (rounding up); if a hand was being
 treated, the warrior may only use a single-handed weapon
 from now on.
-5-6 ‘Sorry, lad!' Done my best!’
+
+######## 5-6 ‘Sorry, lad!' Done my best!’
 The surgery was unsuccessful, and the warrior must miss the
 next battle while he recovers.
-7-8 ‘No luck!’
+
+######## 7-8 ‘No luck!’
 The surgery was unsuccessful.
-9-10 ‘Mind you stay off it for a bit!’
+
+######## 9-10 ‘Mind you stay off it for a bit!’
 The surgery was successful! The warrior may remove the
 injury and its adverse effects from his profile. He must,
 however, miss the next battle while he recovers.
-11-12 ‘Shallaya be praised!’
+
+######## 11-12 ‘Shallaya be praised!’
 The surgery was a complete success! The warrior may
-remove the injury and its adverse effects from his profile.
-Assembled By Paul H Page 317 (knights_templar@hotmail.com)
+remove the injury and its adverse effects from his profile
 
-
-Brain Surgery table
+####### Brain Surgery table
 2D6 Result
-2-3 ‘Someone fetch a priest!’
+
+######## 2-3 ‘Someone fetch a priest!’
 The physician has been a bit too zealous in his treatment.
 The Hero is dead and must be stricken from the warband
 record, but his equipment is retained by the warband.
-4-5 ‘Erm... that’s not right!’
+
+######## 4-5 ‘Erm... that’s not right!’
 The treatment has not only failed to help the warrior, it has
 actually worsened his condition! The warrior is now subject
 to Stupidity. If the warrior was being treated for Stupidity,
 there is no change in his condition (except perhaps, a bit
 more drooling than usual).
-6 ‘A bit unhinged, that one!’
+
+######## 6 ‘A bit unhinged, that one!’
 The treatment has failed, and the warrior emerges from the
 treatment as something of a raving lunatic. The warrior
 suffers a -1 Initiative penalty (down to a minimum of 1). He
 is now so unsettling to behold that he causes fear.
-7-8 ‘Sorry lad! Done my best!’
+
+######## 7-8 ‘Sorry lad! Done my best!’
 The treatment was unsuccessful, and the warrior must miss
 the next battle while he recovers.
-9-10 ‘A bit of rest, and you’ll be fine!’
+
+######## 9-10 ‘A bit of rest, and you’ll be fine!’
 The treatment was successful! The warrior may remove the
 injury and its adverse effects from his profile. He must,
 however, miss the next battle while he recovers.
-11-12 ‘Shallaya be praised!’
+
+######## 11-12 ‘Shallaya be praised!’
 The treatment was a complete success! The warrior may
 remove the injury and its adverse effects from his profile.
 

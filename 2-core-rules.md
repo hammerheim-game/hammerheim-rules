@@ -1143,70 +1143,35 @@ If a model who fails a Stupidity test is not in hand-to-hand combat, roll a D6.
 
 ### Alignment
 
-With so many warbands roaming in Mordheim and its
-surrounding landscape and many of them having different
-alignment, some warbands are Lawful while others are
-Chaotic and then you have those that are Neutral. The
-Alignment of a warband will help in many ways, like which
-Hired Swords you can hire, the cost of hiring and upkeep of
-Hired Swords, the maximum size of your Warband and other
-bonuses. The Player must choose an alignment when they are
-building a warband. Some warbands can only have one
-alignment choice (i.e. all Witch Hunters warbands are always
-Lawful).
+With so many warbands roaming in Mordheim and its surrounding landscape and many of them having different alignment, some warbands are Lawful while others are Chaotic and then you have those that are Neutral. The Alignment of a warband will help in many ways, like which Hired Swords you can hire, the cost of hiring and upkeep of Hired Swords, the maximum size of your Warband and other bonuses. The Player must choose an alignment when they are building a warband. Some warbands can only have one alignment choice (i.e. all Witch Hunters warbands are always Lawful). 
 
 #### Multi-player Games
 
-In some Campaigns and Scenarios warbands may ally
-themselves with other warbands, by doing this trust becomes
-a problem, like Lawful warbands will not work alongside
-Chaotic warbands, but both will work alongside a Neutral
-warbands, this would be a distrusted alliance,
+In some Campaigns and Scenarios warbands may ally themselves with other warbands, by doing this trust becomes a problem, like Lawful warbands will not work alongside Chaotic warbands, but both will work alongside a Neutral warbands, this would be a distrusted alliance.
 
 ##### Distrusted Alliance
 
-A Distrusted Alliance may form in many ways; the first is by
-a Neutral warband allied with a Lawful or Chaotic warband,
-the second is between races of the Dwarves and Elves, and
-the third is between warbands that hate each other for some
-reason.
-If two distrusted alliance model are within 6” of each other
-then both models have a -1 leadership penalty. They also stop
-each other from running.
+A Distrusted Alliance may form in many ways; the first is by a Neutral warband allied with a Lawful or Chaotic warband, the second is between races of the Dwarves and Elves, and the third is between warbands that hate each other for some reason. 
+
+If two distrusted alliance model are within 6” of each other then both models have a -1 leadership penalty. They also stop each other from running. 
 
 #### Bonuses
 
 ##### Lawful
 
-The warbands that are Lawful aligned with other Lawful
-warbands as well as Lawful / Neutral and Neutral warbands.
-Hate all chaotic warbands. Lawful warbands get D3 rerolls
-per battle; the rerolls can be uses in the Exploration Phase if
-not used in battle. All Neutral / Chaotic warbands will count
-as being Chaotic in the eyes of Lawful warbands.
+The warbands that are Lawful aligned with other Lawful warbands as well as Lawful / Neutral and Neutral warbands. Hate all chaotic warbands. Lawful warbands get D3 rerolls per battle; the rerolls can be uses in the Exploration Phase if not used in battle. All Neutral / Chaotic warbands will count as being Chaotic in the eyes of Lawful warbands. 
 
 ##### Lawful / Neutral
 
-The warbands that are Lawful / Neutral aligned with other
-Lawful / Neutral warbands as well as Lawful and Neutral
-warbands. Lawful / Neutral warbands get 1 reroll per battle;
-the reroll can be uses in the Exploration Phase if not used in
-battle.
+The warbands that are Lawful / Neutral aligned with other Lawful / Neutral warbands as well as Lawful and Neutral warbands. Lawful / Neutral warbands get 1 reroll per battle; the reroll can be uses in the Exploration Phase if not used in battle.
 
 ##### Neutral
 
-The warbands that are Neutral aligned with any other
-warbands including Lawful and Chaotic warbands.
+The warbands that are Neutral aligned with any other warbands including Lawful and Chaotic warbands.
 
 ##### Neutral / Chaotic
 
-The warbands that are Neutral / Chaotic aligned with other
-Neutral / Chaotic warbands as well as Neutral and Chaotic
-warbands. Any member of a Neutral / Chaotic warband
-which is afflicted by a mutation may still stay on the roster
-even if normally he would have to leave. Neutral / Chaotic
-warbands get 1 reroll per battle; the reroll can be uses in the
-Exploration Phase if not used in battle.
+The warbands that are Neutral / Chaotic aligned with other Neutral / Chaotic warbands as well as Neutral and Chaotic warbands. Any member of a Neutral / Chaotic warband which is afflicted by a mutation may still stay on the roster even if normally he would have to leave. Neutral / Chaotic warbands get 1 reroll per battle; the reroll can be uses in the Exploration Phase if not used in battle. 
 
 ##### Chaotic
 
