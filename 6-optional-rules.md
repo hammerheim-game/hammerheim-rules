@@ -133,11 +133,11 @@ they make contact with a model they will run right over him. Any
 model moved over by the rats will suffer D3 Strength 2 hits, normal
 armor saves apply.
 
-13 Earthquake
-PLACEHOLDER
+13 Blast From The Past
+A randomly generated character from the MVP roster arrives on the battlefield! Determine their spawn point in the usual manner, the character will ignore any rules for Stupidity they may have and will be hostile to all warbands. Ranged characters will be stationary where possible and shoot at the nearest enemy, only moving if there are no enemies within sight in which case they will move towards the closest enemy not in line of sight. Hybrid characters will walk towards the closest enemy and fire every turn too. Combat characters will run towards the closest enemy. MVP characters award +1xp point for each wound they suffer, as well as the usual +1xp for taking them out of action.
 
-14 High Winds
-PLACEHOLDER
+14 Aetherstorm
+Reality isn't quite as consistent a thing in the wyrdstone-infected atmosphere of Mordheim. Even the stone seems to distort and flex under particular concentrations of the crystals, unwary adventurers finding themselves looking back over their shoulder to see their surroundings nothing like what it was mere moments ago as existence folds in on itself. Select two random buildings on the battlefield. In their movement phase models inside the building are immediately transported into the other building - they may not charge or shoot in that turn as they struggle to reorient themselves and ensure they don't end up warping inside a wall. The owning player may choose where in the building the models are transported to, but this may not place them in combat with enemy models. The Aetherstorm lasts for D3 turns.
 
 15 Blood for the Blood God!
 Unfortunately for the warbands involved, the scent of blood has
@@ -283,15 +283,15 @@ building – if he moves inside, he can pop out next turn in
 any other building.
 6 A fun read, but nothing else happens (Veskit was here!).
 
-33 Thick Fog
-PLACEHOLDER
+33 Energizing Winds
+Like a bizarre green version of cocaine the saturation of Wyrdstone dust in the air brings a rush of energy and seemingly endless stamina to the warband members. In the encountering player's turn roll a D3, all characters' base movement for all warbands is increased by that amount for that round turn. The winds last for D3 turns.
 
-34 Hands of Stone
-PLACEHOLDER
+34 Light as a Feather
+Gravity has not been acting the same recently in this particular area of Mordheim. For the rest of the game all climbing tests and diving charges may be rerolled if unsuccessful, and all falling damage is taken at half strength (rounding up).
 
 35 Dog Pack
 Recent events in Mordheim have caused many of the city’s dogs to
-suddenly find themselves without homes. Groups of these animals
+suddenly find themselves without homes. Groups of these animalsSt
 have turned feral and formed into hunting packs. The warbands have
 been discovered by one such (very hungry) pack. The pack consists
 of 2D3 wild dogs (use the Hunting Dog stats from the Witch Hunter
@@ -319,8 +319,8 @@ possession, as are non-living warband members. If such a warband
 member is the object of the spirit’s attention, randomly determine
 another warband member to suffer the effect instead.
 
-41 Fountain of Blood
-PLACEHOLDER
+41 Sticky Feet
+One randomly determined non-mounted member of the encountering player's warband finds themselves adopting strangely adhesive properties. That warband member may now move horizontally along walls as if it was open ground for the rest of the game, as long as they do not enter water. They do not need initiative tests in order to climb down either (though climbing upwards and jumping will still do).
 
 42-44 Storm of Chaos
 Clouds rapidly gather above the city in an unnatural, sickly yellow-
@@ -489,8 +489,8 @@ counter where the warrior fell to represent the Matriarch’s
 equipment. This can then be picked up by a different model, as
 above.
 
-55 Booby Traps
-PLACEHOLDER
+55 The Wrong Trousers
+Possession? Again? Fortunately the demonic power in question isn't quite as vindictive as others, rather than posessing a character's arms and attempting to kill them this demon is more of an impish sort of creature. The legs of a randomly determined warband member become posessed by this devious entity, and in each of its movement phases it will move 2D6" in a direction determined by the scatter dice instead of its normal move. This movement will ascend and descend walls without the need for a climbing test at no movement penalty, placing models inside the building on a floor closest to their end point should their movement leave them stuck on the outside of a building. This movement ignores all collision with bases, the possessed model moving through allied and enemy bases alike at no penalty, and this movement will cause the character to leave any combat it is in. The character may shoot as normal.
 
 56 Catacombs
 The ground gives way under one randomly selected warrior and he
@@ -597,8 +597,8 @@ Spellcasters are even more sensitive to the noise than others and so
 no spells may be cast from within this radius. Roll a D3 to determine
 how many game turns the screaming lasts.
 
-65 Peddler
-PLACEHOLDER
+65 Wyrdstone Comet
+The spell "Comet of Cassandora" from the Lore of Heavens is cast at a scattered point 4D6" from the centre of the board. Instead of doing 2D6 hits to all units as stated in the book it will do a single hit on all models instead within the specified range and at the same strength. Once the comet lands it may be mined to harvest the wyrdstone it consists of. Models may collect wyrdstone from it in the same way as usual, and the comet will hold shards of Wyrdstone equal to its strength when it landed. 
 
 66 Itsy-Bitsy Spider
 The presence of the wyrdstone has mutated this common household
