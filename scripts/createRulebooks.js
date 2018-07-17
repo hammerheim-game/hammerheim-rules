@@ -23,6 +23,6 @@ const targets = [
 
 handbooker( 
 	targets,
-	"hammerheim-rules",
+	"hammerheim-rules.pdf",
 	options, 
 );
