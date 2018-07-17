@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/hammerheim-game/hammerheim-rules#readme",
   "dependencies": {
-    "handbooker": "^1.1.2",
+    "handbooker": "^1.3.1",
     "html-pdf-chrome": "^0.5.0",
     "marked": "^0.4.0",
     "merge-md": "^1.0.3",

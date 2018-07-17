@@ -9,7 +9,6 @@ Including:
 <!-- MarkdownTOC -->
 
 - Optional Rules
-   
     - Random Happenings
             - Random Encounters Chart
     - Power in the Stones
@@ -17,10 +16,6 @@ Including:
             - Using Stones
             - Becoming a Chaos Spawn
             - Random Mutation Table
-    - The Apothocarys
-        - Surgeon
-        - Brain Surgeon
-
 
 <!-- /MarkdownTOC -->
 
@@ -54,8 +49,6 @@ Some of these additional rules alter the game quite
 dramatically, and you are under no obligation to use any of
 them. They have simply been included for players who want
 to explore different aspects of the game.
-
-
 
 #### Random Happenings
 

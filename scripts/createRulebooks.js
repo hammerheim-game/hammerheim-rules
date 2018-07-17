@@ -4,12 +4,25 @@ const { handbooker, } = require( "handbooker" );
 
 const options = {
 	debug: true,
-	style: "./node_modules/handbooker/lib/styles/homebrewery-styles.css",
 	printOptions: {
 		displayHeaderFooter: false,
 	},
 };
 
+const targets = [ 
+	"./1-introduction.md", 
+	"./2-core-rules.md", 
+	"./3-equipment.md", 
+	"./4-magic.md", 
+	"./5-warbands.md", 
+	"./6-optional-rules.md", 
+	"./7-hammerheim-mods.md",  
+];
+
 // ---------------------------------
 
-handbooker( "./2-core-rules.md", "./rules.pdf", options, );
+handbooker( 
+	targets,
+	"hammerheim-rules",
+	options, 
+);
