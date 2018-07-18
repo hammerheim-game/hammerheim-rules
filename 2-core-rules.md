@@ -457,14 +457,7 @@ and +1 to hit bonus but only during the following hand-to-
 hand combat phase.
 #### Jumping over gaps
 
-Models may jump over gaps (up to a maximum of 3") and
-streets, (e.g., from the roof of a building to another). Deduct
-the distance jumped from the model’s movement but
-remember that you cannot measure the distance before
-jumping. If your model does not have enough movement to
-jump the distance, he automatically falls. If your model is
-able to cover the distance, he must pass an Initiative test or
-fall. A model may jump over a gap and still fire a missile
+Models may traverse gaps of up to 3" wide substituted from their base movement as if they were climbing. Jumps may only be horizontal or downwards (with falls of more than 1" requiring an initiative test upon landing). A model may jump over a gap and still fire a missile
 weapon if it is not running. It may also jump as part of its
 charge or running move.
 
@@ -549,7 +542,7 @@ moving.
 
 #### Closest target
 
-You must shoot at the closest enemy, as he represents the
+You must shoot at the closest standing enemy, as he represents the
 most immediate threat and therefore the most obvious target.
 However, you may shoot at a more distant target if it is easier
 to hit or if closer models are stunned or knocked down (see
@@ -873,7 +866,7 @@ score needed to hit.
 Some maniac warriors carry two weapons, one in each hand,
 so they can rain a flurry of blows on their enemies. A warrior
 armed with two one-handed weapons may make 1 extra
-Attack with the additional weapon. Note that this is added to
+Attack with the additional weapon though will suffer -1 WS to compensate for the difficulty in making precision blows while flailing wildly. Note that this is added to
 the total of the warrior’s attacks after other modifiers, such as
 frenzy, have been applied. If he is armed with two different
 weapons (sword and dagger, for example), he will make a
@@ -971,8 +964,7 @@ stopped.
 #### Warriors knocked down
 
 If an enemy is fighting a warrior who is knocked down, he
-may attack him to put him out of his misery. All attacks
-against a warrior who is knocked down hit automatically. If
+may attack him to put him out of his misery. If
 any of the attacks wound the knocked down model and he
 fails his armor save, he is automatically taken out of action
 as explained previously. A knocked down model may not
@@ -980,9 +972,8 @@ parry.
 
 #### Warriors stunned
 
-A stunned warrior is at the mercy of his enemies. A stunned
-model is automatically taken out of action if an enemy can
-attack him in hand-to-hand combat.
+A stunned warrior is at the mercy of his enemies. Attacks against stunned warriors automatically hit, but otherwise follow the same rules for Knocked Down.
+
 #### Attacking stunned and knocked down
 
 #### warriors
@@ -1060,7 +1051,7 @@ for cover is obviously far from encouraging!
 Being outnumbered and alone is a nerve-racking situation for
 any warrior.
 If your warrior is fighting alone against two or more
-opponents, and there are no friendly models within 6"
+opponents of the same or larger size (infantry/war beasts/swarms<cavalry<monstrous infantry<monstrous cavalry<monsters<ridden monsters), and there are no friendly models within 6"
 (knocked down, stunned or fleeing friends do not count), he
 must make a test at the end of his combat phase. The test is
 taken against the model’s Leadership on 2D6. If the warrior
@@ -1100,6 +1091,10 @@ must take a test to overcome this. If it fails the model may not
 charge and must remain stationary for the turn. Treat this as a
 failed charge.
 
+#### Terror
+
+Terror causing models are even more frightening than fear causing ones and represent the mind-shattering and traumatising sort of creatures of which legends are told. Monsters that cause Terror will inflict the fear status even on units that cause fear themselves or are immune to fear (such as with Hardened). Immunity to Psychology will negate Terror as normal.
+
 #### Frenzy
 
 Some warriors can work themselves into a berserk state of
@@ -1110,13 +1105,7 @@ Frenzied models must always charge if there are any enemy
 models within charge range (check after charges have been
 declared). The player has no choice in this matter – the
 warrior will automatically declare a charge.
-Frenzied warriors fight with double their Attacks
-characteristic in hand-to-hand combat. Warriors with 1
-Attack therefore have 2 Attacks, warriors with 2 Attacks have
-4, etc. If a warrior is carrying a weapon in each hand, he
-receives +1 Attack for this as normal. This extra Attack is not
-doubled.
-Once they are within charge range, frenzied warriors are
+Frenzy grants the warrior +1A to their profile. Once they are within charge range, frenzied warriors are
 immune to all other psychology, such as fear and don’t have
 to take these tests as long as they remain within charge range.
 If a frenzied model is knocked down or stunned, he is no
@@ -1130,16 +1119,7 @@ Hatred is a very powerful emotion, and during this era of strife and war, bitter
 #### Stupidity
 
 Many large and powerful creatures, as well as some of the more unhinged individuals in Mordheim, are unfortunately rather stupid. 
-
- odels that are stupid test at the start of their turn to see if they overcome their stupidity. Make a test for each model affected by stupidity. If you pass the test by rolling their Leadership value or less on 2D6 then all is well – the creatures behave reasonably intelligently and the player may move and fight with them as normal. 
-
- f the test is failed all is not well. Until the start of his next turn (when it takes a new Stupidity test) the model will not cast spells or fight in hand-to-hand combat (though his opponent will still have to roll to hit him as normal). 
-
-If a model who fails a Stupidity test is not in hand-to-hand combat, roll a D6. 
-
-1-3 The warrior moves directly forward at half speed in a shambling manner. He will not charge an enemy (stop his movement 1" away from any enemy he would have come into contact with). He can fall down from the edge of a sheer drop (see the Falling rules) or hit an obstacle, in which case he stops. The model will not shoot this turn. 
-
-4-6 The warrior stands inactive and drools a bit during this turn. He may do nothing else, as drooling is so demanding. Regardless of whether the test is passed or failed, the result applies until the start of the model’s following turn (when it takes a new Stupidity test). 
+Models with the Stupidity rule are incapable of taking any voluntary action unless a model without Stupidity (who is not fleeing, knocked down, or stunned) is within 6" of them at the start of their turn. 
 
 ### Alignment
 
