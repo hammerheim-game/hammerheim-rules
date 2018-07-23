@@ -245,60 +245,32 @@ Special Rule: Two Handed, Incredible Force,
 Cumbersome, Unwieldy, Random,
 
 Special Rules
-Two Handed: A model armed with a Ball and Chain may
+_Two Handed:__ A model armed with a Ball and Chain may
 not use a shield, buckler or additional weapon in close
 combat. If the model is equipped with a shield he will still get
-a +1 bonus to his armor save against shooting
-Incredible Force: Because the Ball and Chain is so heavy,
-normal armor does very little to protect against it. No
-armor saves are allowed against wounds caused by a Ball
-and Chain. In addition, any hit from a Ball and Chain is very
-likely to take off someone’s head (or at least break some
-ribs!). Therefore, any hit that successfully wounds will do
-1D3 wounds instead of 1.
-Cumbersome: Because the Ball and Chain is so heavy, a
-model equipped with one may carry no other weapons or
-equipment. In addition, only a model under the influence of
-Mad Cap Mushrooms has the strength to wield a ball and
-chain.
+a +1 bonus to his armor save against shooting.
 
-Unwieldy: The great weight of the Ball and Chain can easily
-tear ligaments or pull a wielder’s arms out of their sockets.
-While someone under the influence of Mad Cap Mushrooms
-will not notice such effects, when the drug wears off he will
-be in great pain. To represent this, at the end of the battle the
-controlling player must roll for Injury for each model that
-used a Ball and Chain, just as if the model had been taken
-Out Of Action. If the model was actually taken Out Of
-Action normally, just roll once for Injury – there is no need to
-make a second roll.
-Random: The only way to wield a Ball and Chain is to swing
-it around in large circles, using your body as a counter-
-weight. Unfortunately this is not a very controllable fighting
-style, and as soon as he starts swinging his Ball and Chain, a
-warrior starts to lose control. The first turn he starts swinging
-the Ball and Chain, the model is moved 2D6" in a direction
-nominated by the controlling player. In his subsequent
-Movement phases, roll a D6 to determine what the model
-does:
-D6 Effect
-1 The model trips and strangles himself with the chain.
-The model is taken Out Of Action. When rolling for
-Injury after the game, a roll of 1-3 means the model is
-out permanently, instead of the normal 1-2.
-2-5 The model moves 2D6" in a direction nominated by
-the controlling player.
-6 The model moves 2D6" in a random direction. If the
-player owns a Scatter dice (available from Games
-Workshop stores), roll that to determine direction. If
-not, then roll a D6: 1 – Straight Forward, 2-3 – Right,
-4-5 – Left, 6 – Straight Back
+__Incredible Force:__ Because the Ball and Chain is so heavy, normal armor does very little to protect against it. No armor saves are allowed against wounds caused by a Ball and Chain. In addition, any hit from a Ball and Chain is very likely to take off someone’s head (or at least break some ribs!). Therefore, any hit that successfully wounds will do 1D3 wounds instead of 1. 
+
+__Cumbersome:__ Because the Ball and Chain is so heavy, a model equipped with one may carry no other weapons or equipment. In addition, only a model under the influence of Mad Cap Mushrooms has the strength to wield a ball and chain. 
+
+__Unwieldy:__ The great weight of the Ball and Chain can easily tear ligaments or pull a wielder’s arms out of their sockets. While someone under the influence of Mad Cap Mushrooms will not notice such effects, when the drug wears off he will be in great pain. To represent this, at the end of the battle the controlling player must roll for Injury for each model that used a Ball and Chain, just as if the model had been taken Out Of Action. If the model was actually taken Out Of Action normally, just roll once for Injury – there is no need to make a second roll. 
+
+__Random:__ The only way to wield a Ball and Chain is to swing it around in large circles, using your body as a counter- weight. Unfortunately this is not a very controllable fighting style, and as soon as he starts swinging his Ball and Chain, a warrior starts to lose control. The first turn he starts swinging the Ball and Chain, the model is moved 2D6" in a direction nominated by the controlling player. In his subsequent Movement phases, roll a D6 to determine what the model does: 
+
+| D6 | Effect |
+| :-: | :-: |
+| 1 | The model trips and strangles himself with the chain. The model is taken Out Of Action. When rolling for Injury after the game, a roll of 1-3 means the model is
+out permanently, instead of the normal 1-2.  |
+| 2-5 | The model moves 2D6" in a direction nominated by the controlling player. |
+| 6 | The model moves 2D6" in a random direction. If theplayer owns a Scatter dice (available from Games Workshop stores), roll that to determine direction. If not, see core rules for using D6 dice as scatter dice. |
+
 ### Barbed Spear
 
-The favoured spear of the hobgoblin warriors is equipped with
-gruesome rear-facing barbs, which rend and tear their opponents as
-the spear is withdrawn after the attack.
-[Hobgoblin Only]
+The favoured spear of the hobgoblin warriors is equipped with gruesome rear-facing barbs, which rend and tear their opponents as the spear is withdrawn after the attack. 
+
+_[Hobgoblin Only]_
+
 Range: Close Combat
 Strength: As user
 Special Rule: Strike First, Unwieldy, Cavalry Bonus, +

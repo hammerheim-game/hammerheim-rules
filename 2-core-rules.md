@@ -661,61 +661,31 @@ When a warrior is stunned, he is either badly injured or temporarily knocked out
 
 #### Out of action
 
-A warrior who is out of action is also out of the game.
-Remove the model from the tabletop. It's impossible to tell at
-this point whether the warrior is alive or dead, but for game
-purposes it makes no difference at this stage. After the battle
-you can test to see whether he survives and if he sustains any
-serious lasting injuries as a result of his wounds (see page
-170 for details).
+A warrior who is out of action is also out of the game. Remove the model from the tabletop. It's impossible to tell at this point whether the warrior is alive or dead, but for game purposes it makes no difference at this stage. After the battle you can test to see whether he survives and if he sustains any serious lasting injuries as a result of his wounds (see page 170 for details). 
+
 ### Close Combat
 
 #### Who can fight
 
-Models whose bases are touching are engaged in hand-to-
-hand combat. This can only happen once a warrior has
-charged his enemy, as models are otherwise not allowed to
-move into contact.
-All close quarter fighting is worked out in the hand-to-hand
-combat phase. Regardless of whose turn it is, all models in
-hand-to-hand combat will fight. A warrior can fight against
-enemies to his side, front, or rear. In reality the fighters are
-constantly moving, dodging, and weaving as they struggle to
-kill their adversaries.
-Models fighting in hand-to-hand combat do not shoot in the
-shooting phase. They are far too busy fighting for their lives.
-Any very close range shots they are able to make using
-pistols are treated like close combat weapon attacks (see the
-Weapons & Armor section).
+Models whose bases are touching are engaged in hand-to-hand combat. This can only happen once a warrior has charged his enemy, as models are otherwise not allowed to move into contact.
+
+All close quarter fighting is worked out in the hand-to-hand combat phase. Regardless of whose turn it is, all models in hand-to-hand combat will fight. A warrior can fight against enemies to his side, front, or rear. In reality the fighters are constantly moving, dodging, and weaving as they struggle to kill their adversaries. 
+
+Models fighting in hand-to-hand combat do not shoot in the shooting phase. They are far too busy fighting for their lives. Any very close range shots they are able to make using pistols are treated like close combat weapon attacks (see the Weapons & Armor section). 
 
 #### Who strikes first
 
-Normally, models fight in order of descending Initiative with
-the highest striking first. If their Initiatives are equal, roll a
-dice to see who strikes first. If a model stood up in the
-Recovery phase of that turn, then he will strike last
-irrespective of any other circumstances.
-Sometimes a model will be allowed to 'strike first' for some
-reason. Most commonly this is because they charged in that
-turn, but some equipment, skills and spells produce the same
-effect. If only one model 'strikes first' then it does so and the
-remainder of the combatants strike in Initiative order as
-described above.
+Models fight in order of descending Initiative with the highest striking first. If their Initiatives are equal, roll a dice to see who strikes first. 
 
-If there are several models who are each entitled to 'strike
-first', then they determine the order of combat between
-themselves by Initiative, as described above. Once all those
-that were eligible to 'strike first' have fought, any other
-combatants fight in Initiative order.
+If a model stood up in the Recovery phase of that turn, then he will strike last irrespective of any other circumstances. 
+
+Sometimes a model will be allowed to 'strike first' for some reason. Most commonly this is because they charged in that turn, but some equipment, skills and spells produce the same effect. If only one model 'strikes first' then it does so and the remainder of the combatants strike in Initiative order as described above. 
+
+If there are several models who are each entitled to 'strike first', then they determine the order of combat between themselves by Initiative, as described above. Once all those that were eligible to 'strike first' have fought, any other combatants fight in Initiative order. 
 
 ##### Which models fight
 
-A model can fight if its base is touching the base of an enemy
-model. Even models attacked from the side or rear can fight.
-If a warrior is touching more than one enemy, he can choose
-which to attack. If he has more than 1 Attack, he can divide
-them in any way the player wishes, so long as he makes this
-clear before rolling to hit.
+A model can fight if its base is touching the base of an enemy model. Even models attacked from the side or rear can fight. If a warrior is touching more than one enemy, he can choose which to attack. If he has more than 1 Attack, he can divide them in any way the player wishes, so long as he makes this clear before rolling to hit. 
 
 #### Hitting the enemy
 
@@ -777,36 +747,19 @@ A buckler or sword may only parry one blow per hand-to- hand combat phase. A par
 
 If your model is armed with a buckler and a sword, you may re-roll any failed parries once. A model armed with two swords can still only roll once, but may add +1 to the results. A model may not parry attacks made with twice (or more) his own basic Strength – they are simply too powerful to be stopped. 
 
-#### Warriors knocked down
+#### Attacking knocked down warriors
 
-If an enemy is fighting a warrior who is knocked down, he
-may attack him to put him out of his misery. If
-any of the attacks wound the knocked down model and he
-fails his armor save, he is automatically taken out of action
-as explained previously. A knocked down model may not
-parry.
+If an enemy is fighting a warrior who is knocked down, he may attack him to put him out of his misery. If any of the attacks wound the knocked down model and he fails his armor save, he is automatically taken out of action as explained previously. A knocked down model may not parry. 
 
-#### Warriors stunned
+#### Attacking stunned warriors
 
 A stunned warrior is at the mercy of his enemies. Attacks against stunned warriors automatically hit, but otherwise follow the same rules for Knocked Down.
 
-#### Attacking stunned and knocked down
+#### Attacking stunned and knocked down warriors
 
-#### warriors
+A model with multiple attacks may not stun/knock down and then automatically take a warrior out of action during the same hand-to-hand combat phase. The only way you can achieve this is to have more than one of your models attacking the same enemy. If the enemy is stunned/knocked down by the first warrior, he can be hit and put out of action by the _next_ warrior to attack. 
 
-Note that a model with multiple attacks may not stun / knock
-down and then automatically take a warrior out of action
-during the same hand-to-hand combat phase. The only way
-you can achieve this is to have more than one of your models
-attacking the same enemy. So, if the enemy is stunned /
-knocked down by the first warrior, he can be hit and put out of
-action by the next warrior to attack.
-
-If your model is engaged in close combat with an enemy who
-is still standing, he cannot attack any other models that are
-stunned or knocked down, since in reality they will not pose
-an immediate threat to him and their companions will try to
-protect them.
+If your model is engaged in close combat with an enemy who is still standing, he cannot attack any other models that are stunned or knocked down, since in reality they will not pose an immediate threat to him and their companions will try to protect them. 
 
 #### Moving from combat
 
@@ -818,7 +771,7 @@ A warrior who panics whilst fighting in hand-to-hand combat will break off and m
 
 When a fighter breaks from combat he simply turns and runs off. His opponents automatically hit the warrior as he breaks, each inflicting 1 hit which is worked out immediately.
 
-Note that warriors cannot choose to leave a fight voluntarily.
+_Note:_ warriors cannot choose to leave a fight voluntarily.
 
 \page
 
@@ -826,23 +779,13 @@ Note that warriors cannot choose to leave a fight voluntarily.
 
 #### The rout test
 
-A player must make a Rout test at the start of his turn if a
-quarter (25%) or more of his warband is out of action. For
-example, in a warband that has twelve warriors a test is
-needed if three or more are out of action. Even warbands who
-are normally immune to psychology (such as Undead) must
-make Rout tests.
-If the Rout test is failed, the warband automatically loses the
-fight. The game ends immediately and surviving warriors
-retreat from the area. A failed Rout test is the most common
-way in which a fight ends.
-To take a Rout test roll 2D6. If the score is equal to or less
-than the warband leader's Leadership, the player has passed
-the test and may continue to fight.
-If the warband's leader is out of action or stunned, then the
-player may not use his Leadership to take the test. Instead,
-use the highest Leadership characteristic amongst any
-remaining fighters who are not stunned or out of action.
+A player must make a Rout test at the start of his turn if a quarter (25%) or more of his warband is out of action. For example, in a warband that has twelve warriors a test is needed if three or more are out of action. Even warbands who are normally immune to psychology (such as Undead) must make Rout tests. 
+
+If the Rout test is failed, the warband automatically loses the fight. The game ends immediately and surviving warriors retreat from the area. A failed Rout test is the most common way in which a fight ends. 
+
+To take a Rout test roll 2D6. If the score is equal to or less than the warband leader's Leadership, the player has passed the test and may continue to fight. 
+
+If the warband's leader is out of action or stunned, then the player may not use his Leadership to take the test. Instead, use the highest Leadership characteristic amongst any remaining fighters who are not stunned or out of action. 
 
 #### Voluntary rout
 
@@ -856,30 +799,22 @@ A leader cannot confer this bonus if he is knocked down, stunned or fleeing hims
 
 #### All alone
 
-Being outnumbered and alone is a nerve-racking situation for any warrior.
+Being outnumbered and alone is a nerve-racking situation for any warrior. If your warrior is fighting alone against two or more opponents of the same or larger size (refer to the size chart), and there are no friendly models within 6" (knocked down, stunned or fleeing friends do not count), he must make a test at the end of his combat phase. 
 
-If your warrior is fighting alone against two or more opponents of the same or larger size (refer to the size chart), and there are no friendly models within 6" (knocked down, stunned or fleeing friends do not count), he must make a test at the end of his combat phase. The test is taken against the model's Leadership on 2D6. If the warrior scores equal to or under his Leadership his nerve holds. If the score is greater than his Leadership, the warrior breaks from combat and runs. Each one of his opponents may make one automatic hit against him as he turns to run. If the model survives, he runs 2D6" directly away from his enemies. At the start of each of his turns, the warrior must take another Leadership test. If he passes, he stops but can do nothing else during his own turn except cast spells. If he fails or is charged, he runs 2D6" towards the nearest table edge, avoiding any enemy models. If he reaches the table edge before he has managed to recover his nerves, he is removed from combat. 
+The test is taken against the model's Leadership on 2D6. If the warrior scores equal to or under his Leadership his nerve holds. If the score is greater than his Leadership, the warrior breaks from combat and runs. Each one of his opponents may make one automatic hit against him as he turns to run. If the model survives, he runs 2D6" directly away from his enemies. 
+
+At the start of each of his turns, the warrior must take another Leadership test. If he passes, he stops but can do nothing else during his own turn except cast spells. If he fails or is charged, he runs 2D6" towards the nearest table edge, avoiding any enemy models. If he reaches the table edge before he has managed to recover his nerves, he is removed from combat. 
 
 If a warrior is charged while he is fleeing, the charger is moved into base contact as normal, but the fleeing warrior will then run a further 2D6" towards the table edge, before any blows can be struck.
 
 #### Fear
 
-Fear is a natural reaction to huge or unnerving creatures. A
-model must take a Fear test (i.e., test against his Leadership)
-in the following situations. Note that creatures that cause fear
-can ignore these tests.
-a) If the model is charged by a warrior or a creature
-which causes fear.
-If a warrior is charged by an enemy that he fears then he must
-take a test to overcome that fear. Test when the charge is
-declared and is determined to be within range. If the test is
-passed the model may fight as normal. If it is failed, the
-model must roll 6s to score hits in that round of combat.
-b) If the model wishes to charge a fear causing enemy.
-If a warrior wishes to charge an enemy that it fears then it
-must take a test to overcome this. If it fails the model may not
-charge and must remain stationary for the turn. Treat this as a
-failed charge.
+Fear is a natural reaction to huge or unnerving creatures. A model, unless they cause Fear themselves, must take a Fear test (i.e., test against his Leadership), in the following situations:
+
+1. If the model is charged by a warrior or a creature which causes fear. If a warrior is charged by an enemy that he fears then he must take a test to overcome that fear. Test when the charge is declared and is determined to be within range. If the test is passed the model may fight as normal. If it is failed, the model must roll 6s to score hits in that round of combat. 
+
+2. If the model wishes to charge a fear-causing enemy. If a warrior wishes to charge an enemy that it fears then it must take a test to overcome this. If it fails the model may not charge and must remain stationary for the turn. Treat this as a failed charge. 
+
 
 #### Terror
 
@@ -887,20 +822,11 @@ Terror causing models are even more frightening than fear causing ones and repre
 
 #### Frenzy
 
-Some warriors can work themselves into a berserk state of
-fury, a whirlwind of destruction in which all concern for their
-own personal safety is ignored in favour of mindless
-violence. These warriors are described as being frenzied.
-Frenzied models must always charge if there are any enemy
-models within charge range (check after charges have been
-declared). The player has no choice in this matter – the
-warrior will automatically declare a charge.
-Frenzy grants the warrior +1A to their profile. Once they are within charge range, frenzied warriors are
-immune to all other psychology, such as fear and don't have
-to take these tests as long as they remain within charge range.
-If a frenzied model is knocked down or stunned, he is no
-longer frenzied. He continues to fight as normal for the rest of
-the battle.
+Some warriors can work themselves into a berserk state of fury, a whirlwind of destruction in which all concern for their own personal safety is ignored in favour of mindless violence. 
+
+These warriors are described as being frenzied. Frenzied models must always charge if there are any enemy models within charge range (check after charges have been declared). The player has no choice in this matter – the warrior will automatically declare a charge. 
+
+Frenzy grants the warrior +1A to their profile. Once they are within charge range, frenzied warriors are immune to all other psychology, such as fear and don't have to take these tests as long as they remain within charge range. If a frenzied model is knocked down or stunned, he no longer counts as frenzied for the rest of this battle. 
 
 #### Hatred
 
@@ -909,6 +835,7 @@ Hatred is a very powerful emotion, and during this era of strife and war, bitter
 #### Stupidity
 
 Many large and powerful creatures, as well as some of the more unhinged individuals in Mordheim, are unfortunately rather stupid. 
+
 Models with the Stupidity rule are incapable of taking any voluntary action unless a model without Stupidity (who is not fleeing, knocked down, or stunned) is within 6" of them at the start of their turn. 
 
 \page
@@ -947,11 +874,4 @@ The warbands that are Neutral / Chaotic aligned with other Neutral / Chaotic war
 
 ##### Chaotic
 
-The warbands that are Chaotic aligned with other Chaotic
-warbands as well as Neutral and Neutral / Chaotic warbands.
-Any member of a chaotic warband which is afflicted by a
-mutation may still stay on the roster even if normally he
-would have to leave. Chaotic warbands get D3 rerolls per
-battle; the rerolls can be uses in the Exploration Phase if not
-used in battle. All Lawful / Neutral warbands will count as
-being Lawful in the eyes of chaotic warbands
+The warbands that are Chaotic aligned with other Chaotic warbands as well as Neutral and Neutral / Chaotic warbands. Any member of a chaotic warband which is afflicted by a mutation may still stay on the roster even if normally he would have to leave. Chaotic warbands get D3 rerolls per battle; the rerolls can be uses in the Exploration Phase if not used in battle. All Lawful / Neutral warbands will count as being Lawful in the eyes of chaotic warbands 
