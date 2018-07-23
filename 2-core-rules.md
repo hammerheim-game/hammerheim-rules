@@ -192,85 +192,47 @@ To play, one side takes a turn, then the other side, then the original side and 
 
 #### Phases
 
-To keep track of who is doing what and when, each turn is split into four phases. This is called the Turn sequence.
+To keep track of who is doing what and when, each turn is split into four phases. This is the _turn sequence_:
 
-Turn sequence
+__1. Recovery:__ During this phase you deal with incapacitated warriors, recovering models that are _knocked down_ or _stunned_ and attempting to rally _fleeing_ individuals.
 
-1 Recovery: During the recovery phase you may attempt to rally individuals who have lost their nerve and recover models that are knocked down or stunned.
+__2. Movement:__ During this phase you may move the warriors of your warband according to the rules given in the Movement section.
 
-2 Movement: During the movement phase you may move the warriors of your warband according to the rules given in the Movement section.
+__3. Shooting:__ In this phase you may shoot with any appropriate weapons as described in the rules for shooting.
 
-3 Shooting: In the shooting phase you may shoot with any appropriate weapons as described in the rules for shooting.
-
-4 Hand-to-hand combat: During the hand-to-hand combat phase all models in hand-to-hand combat may fight. Note that both sides fight in the hand-to-hand combat phase, regardless of whose turn it is.
+__4. Hand-to-hand combat:__ During this phase all models in hand-to-hand combat may fight. Both sides fight in the hand-to-hand combat phase, regardless of whose turn it is.
 
 #### Recovery phase
 
-During the recovery phase you may attempt to rally any of your models who have lost their nerve (see the Recovery Phase rules). To take a Rally test, roll 2D6. If the score is equal to or less than the model's Leadership value the model stops fleeing and has rallied; turn it to face in any direction you wish. The model cannot move or shoot for the rest of the turn, but models able to do so can cast spells. If the test is failed, the model will continue to flee towards the closest table edge. 
+During the recovery phase, warriors in your warband who have been _stunned_ become _knocked down_ instead and warriors who have been _knocked down_ may stand up. For more details, see the _Injuries_ section.
 
 \page
 
-Note that a model cannot rally if the closest model to him is an enemy model (fleeing, stunned, knocked down and hidden models are not taken into consideration for this).
-
-During the recovery phase, warriors in your warband who have been stunned become knocked down instead and warriors who have been knocked down may stand up (see the Injuries section).
+_Fleeing_ models must take a _leadership test_. If the test is passed, the model is no longer _fleeing_, but can do nothing this turn except cast spells. If the test is failed, the model will continue to _flee_ towards the closest table edge in the _compulsory move_ phase. For more details, see the rules for _fleeing_ in the _Leadership & psychology_ section.
 
 ### Movement
 
 During the movement phase models are moved in the following order:
 
-1. Charge!: If you want a model in your warband to charge
-at an enemy model and attack it in hand-to-hand combat then
-you must do this at the start of the movement phase before
-moving any of your other models. When you charge a model,
-declare to your opponent that you are doing so and indicate
-which of his models it is attacking.
+1. Charge!: If you want a model in your warband to charge at an enemy model and attack it in hand-to-hand combat then you must do this at the start of the movement phase before moving any of your other models. When you charge a model, declare to your opponent that you are doing so and indicate which of his models it is attacking.
 
-2. Compulsory Moves: Sometimes a model is forced to
-move in a certain way and this is called a compulsory move.
-For example, a fighter whose nerve breaks must run away
-from his enemies and take cover.
+2. Compulsory Moves: Sometimes a model is forced to move in a certain way and this is called a compulsory move. For example, a fighter whose nerve breaks must _flee_.
 
-Make all of your models' compulsory moves before finishing
-any remaining movement.
+Make all of your models' compulsory moves before finishingany remaining movement.
 
-3. Remaining Moves: Once you have moved your chargers
-and made any compulsory moves, you may move the rest of
-your warriors as you see fit.
+3. Remaining Moves: Once you have moved your chargers and made any compulsory moves, you may move the rest of your warriors as you see fit.
 
 #### Moving
 
-During their movement phase, models can move up to
-movement rate their in any direction. They may move
-(including running and charging) up and down ladders and
-stairs, and over low obstacles such as barrels, boxes, etc.
-In normal circumstances models don't have to move their full
-distance, or at all if you do not want them to. All exceptions
-are explained later and invariably involve either charging or
-compulsory moves.
+During their movement phase, models can move up to movement rate their in any direction. They may move (including running and charging) up and down ladders and stairs, and over low obstacles such as barrels, boxes, etc. In normal circumstances models don't have to move their full distance, or at all if you do not want them to. All exceptions are explained later and invariably involve either charging or compulsory moves. 
 
 #### Running
 
-The normal Movement value of models represents a warrior
-moving at a fairly rapid rate, but allows time for him to aim
-and shoot a weapon and generally observe what is going on
-around him. If you wish, a model may move much quicker
-than this – he can run! A running warrior can move at double
-speed (for example, 8" rather than 4"). Note that running is
-not the same as charging as it does not allow your model to
-engage the enemy in hand-to-hand combat.
-A model can only run if there are no enemy models within 8"
-of it at the start of the turn (fleeing, stunned, knocked down
-and hidden models do not count). Check this distance after
-any charges have been declared. If there are any enemies
-within 8" at the start of the turn, the model will prepare to
-fight instead and so is unable to run. The running model can
-move closer than 8" to an enemy as it moves.
-Any model that runs loses its chance to shoot during that
-turn. He is concentrating on running and is not prepared to
-fight, having sheathed or shouldered his weapons. You
-should declare that models are running as they move, as this
-will remind both players that the model is unable to shoot
-that turn. Running models can cast spells as normal.
+The normal Movement value of models represents a warrior moving at a fairly rapid rate, but allows time for him to aim and shoot a weapon and generally observe what is going on around him. If you wish, a model may move much quicker than this – he can run! A running warrior can move at double speed (for example, 8" rather than 4"). Note that running is not the same as charging as it does not allow your model to engage the enemy in hand-to-hand combat. 
+
+A model can only run if there are no enemy models within 8" of it at the start of the turn (_incapacitated_ and _hidden_ models do not count). Check this distance after any charges have been declared. If there are any enemies within 8" at the start of the turn, the model will prepare to fight instead and so is unable to run. The running model can move closer than 8" to an enemy as it moves. 
+
+Any model that runs loses its chance to shoot during that turn. He is concentrating on running and is not prepared to fight, having sheathed or shouldered his weapons. You should declare that models are running as they move, as this will remind both players that the model is unable to shoot that turn. Running models can cast spells as normal. 
 
 #### Charge!
 
@@ -331,7 +293,7 @@ A model can hide if he ends his move behind a low wall, a column or in a similar
 
 \page
 
-A model that runs, flees, is stunned or charges cannot hide that turn. His sudden burst of speed does not give him time to hide.
+A model that runs, flees, is _stunned_ or charges cannot hide that turn. His sudden burst of speed does not give him time to hide.
 
 A model may stay hidden over several turns, so long as he
 stays behind a wall or similar feature. He may even move
@@ -415,11 +377,7 @@ charge or running move.
 
 #### Warriors knocked down or stunned
 
-If a warrior is knocked down or stunned (see the Shooting
-section for details) within 1" of the edge of a roof or building,
-there is a chance that it will slip and fall off. Take an
-Initiative test. If the test is failed, the model falls over the
-edge to the ground and takes damage as detailed below.
+If a warrior is _knocked down_ or _stunned_ (see the Shooting section for details) within 1" of the edge of a roof or building, there is a chance that it will slip and fall off. Take an Initiative test. If the test is failed, the model falls over the edge to the ground and takes damage as detailed below. 
 
 #### Falling
 
@@ -468,17 +426,17 @@ Work through the models one at a time. Pick which fighter is going to shoot, nom
 
 #### Who can shoot
 
-Each model can shoot once in the shooting phase, so long as he can see a target and assuming he has a suitable weapon. He may not fire in the following circumstances: if he is engaged in hand-to-hand combat, has run or failed a charge in the movement phase, has rallied this turn or is stunned or knocked down. 
+Each model can shoot once in the shooting phase, so long as he can see a target and assuming he has a suitable weapon. He may not fire in the following circumstances: if he is engaged in hand-to-hand combat, has run or failed a charge in the movement phase, has rallied this turn or is _stunned_ or _knocked down_. 
 
 To shoot at a target, a model must be able to see it, and the only way to check this is to stoop over the tabletop for a model's eye view. Models can see all around themselves (i.e., 360°), and they may be turned freely to face in any direction before firing. Note that turning on the spot does not count as moving. 
 
 #### Closest target
 
-You must shoot at the closest standing enemy, as he represents the most immediate threat and therefore the most obvious target. However, you may shoot at a more distant target if it is easier to hit or if closer models are stunned or knocked down (see diagram on next page). For example, a closer target may be hard to hit because it is in cover, whilst a more distant target might be in the open and therefore an easier shot. You may always choose to shoot at a Large Target if you can see it, whether it is in cover or not and even if it is not the closest target. 
+You must shoot at the closest standing enemy, as he represents the most immediate threat and therefore the most obvious target. However, you may shoot at a more distant target if it is easier to hit or if closer models are _stunned_ or _knocked down_ (see diagram on next page). For example, a closer target may be hard to hit because it is in cover, whilst a more distant target might be in the open and therefore an easier shot. You may always choose to shoot at a Large Target if you can see it, whether it is in cover or not and even if it is not the closest target. 
 
-You can shoot at models that are fleeing, knocked down or stunned, but you can choose to ignore them, because they do not represent an immediate threat. It is better to shoot the closest standing enemy model instead.
+You can shoot at models that are _incapacitated_, but you can choose to ignore them, because they do not represent an immediate threat. It is better to shoot the closest standing enemy model instead.
 
-Note that you may not shoot at models that are engaged in hand-to-hand combat, as the risk of hitting your comrades is too great.
+You may not shoot at models that are engaged in hand-to-hand combat, as the risk of hitting your comrades is too great.
 
 #### Cover
 
@@ -596,7 +554,7 @@ _(Spears, halberds, lances etc.)_
 | Roll | Type | Description |
 | :-: | :-: | :-: |
 | 1-2 | Stab | With a quick strike, you penetrate your opponent's defences. You gain +1 to any Injury rolls. Armor saves are taken as normal. |
-| 3-4 | Thrust | The thrust lands with great force and the target is knocked down. Take armor saves as normal and see whether the model suffers a wound. |
+| 3-4 | Thrust | The thrust lands with great force and the target is _knocked down_. Take armor saves as normal and see whether the model suffers a wound. |
 | 5-6 | Kebab! | The thrust knocks the target back with titanic force, ripping apart armor and puncturing flesh. The attack ignores armor saves and you gain +2 to any Injury rolls. The victim is knocked backwards D6" and the attacker follows, staying in base contact. Any other models involved in the combat are separated and only the model which struck the blow and his target are still considered to be in combat. If the target collides with another model, the other model is hit once at S3. |
 
 #### Armor
@@ -643,21 +601,21 @@ Most warriors have a Wounds characteristic of 1, but some have a value of 2 or m
 
 | Roll | Result | Description |
 | :-: | :-: | :-: |
-| 1-2 | Knocked down | The force of the blow knocks the warrior down. Place the model face up to show that he has been knocked down. |
-| 3-4 | Stunned | The target falls to the ground where he lies wounded and barely conscious. Turn the model face down to show that he has been stunned. |
+| 1-2 | Knocked down | The force of the blow knocks the warrior down. Place the model face up to show that he has been _knocked down_. |
+| 3-4 | Stunned | The target falls to the ground where he lies wounded and barely conscious. Turn the model face down to show that he has been _stunned_. |
 | 5-6 | Out of action | The target has been badly hurt and falls to the ground unconscious. He takes no further part in the game and is immediately removed from the battle. |
 
 \page
 
 #### Knocked down
 
-A fighter who has been knocked down falls to the ground either because of a jarring blow he has sustained, because he has slipped, or because he has thrown himself to the ground to avoid injury. Turn the model face up to show that he has been knocked down. Knocked down models may crawl 2" during the movement phase, but may not fight in hand-to- hand combat, shoot or cast spells. If he is in base-to-base contact with an enemy, a knocked down model can crawl 2" away only if the enemy is engaged in hand-to-hand combat with another opponent, otherwise he has to stay where he is. In combat he cannot strike back and the enemy will have a good chance of putting him out of action (see the Warriors Knocked Down section of the Close Combat rules on page 13). 
+A fighter who has been _knocked down_ falls to the ground either because of a jarring blow he has sustained, because he has slipped, or because he has thrown himself to the ground to avoid injury. Turn the model face up to show that he has been _knocked down_. Knocked down models may crawl 2" during the movement phase, but may not fight in hand-to- hand combat, shoot or cast spells. If he is in base-to-base contact with an enemy, a _knocked down_ model can crawl 2" away only if the enemy is engaged in hand-to-hand combat with another opponent, otherwise he has to stay where he is. In combat he cannot strike back and the enemy will have a good chance of putting him out of action (see the _Attacking knocked down warriors_ section of the Close Combat rules on page 13). 
 
-A warrior who has been knocked down may stand up at the start of his next turn. In that turn he may move at half rate, shoot and cast spells, he cannot charge or run. If he is engaged in hand-to-hand combat, he may not move away and will automatically strike last, irrespective of weapons or Initiative. After this turn the fighter moves and fights normally, even though he has zero wounds left. If the model takes any further wounds, then roll for injury once more, exactly as if the model had just sustained its last wound. 
+A warrior who has been _knocked down_ may stand up at the start of his next turn. In that turn he may move at half rate, shoot and cast spells, he cannot charge or run. If he is engaged in hand-to-hand combat, he may not move away and will automatically strike last, irrespective of weapons or Initiative. After this turn the fighter moves and fights normally, even though he has zero wounds left. If the model takes any further wounds, then roll for injury once more, exactly as if the model had just sustained its last wound. 
 
 #### Stunned
 
-When a warrior is stunned, he is either badly injured or temporarily knocked out. Turn the model face down to show that he has been stunned. A fighter who is stunned may do nothing at all. A player may turn the model face up in the next recovery phase, and the warrior is then treated as knocked down.
+When a warrior is stunned, he is either badly injured or temporarily knocked out. Turn the model face down to show that he has been _stunned_. A fighter who is _stunned_ may do nothing at all. A player may turn the model face up in the next recovery phase, and the warrior is then treated as _knocked down_.
 
 #### Out of action
 
@@ -672,6 +630,10 @@ Models whose bases are touching are engaged in hand-to-hand combat. This can onl
 All close quarter fighting is worked out in the hand-to-hand combat phase. Regardless of whose turn it is, all models in hand-to-hand combat will fight. A warrior can fight against enemies to his side, front, or rear. In reality the fighters are constantly moving, dodging, and weaving as they struggle to kill their adversaries. 
 
 Models fighting in hand-to-hand combat do not shoot in the shooting phase. They are far too busy fighting for their lives. Any very close range shots they are able to make using pistols are treated like close combat weapon attacks (see the Weapons & Armor section). 
+
+#### Incapacitated
+
+A model that is _fleeing_, _knocked down_, or _Stunned_ counts as Incapacitated and cannot fight.
 
 #### Who strikes first
 
@@ -749,21 +711,21 @@ If your model is armed with a buckler and a sword, you may re-roll any failed pa
 
 #### Attacking knocked down warriors
 
-If an enemy is fighting a warrior who is knocked down, he may attack him to put him out of his misery. If any of the attacks wound the knocked down model and he fails his armor save, he is automatically taken out of action as explained previously. A knocked down model may not parry. 
+If an enemy is fighting a warrior who is _knocked down_, he may attack him to put him out of his misery. If any of the attacks wound the _knocked down_ model and he fails his armor save, he is automatically taken out of action as explained previously. A _knocked down_ model may not parry. 
 
 #### Attacking stunned warriors
 
-A stunned warrior is at the mercy of his enemies. Attacks against stunned warriors automatically hit, but otherwise follow the same rules for Knocked Down.
+A _stunned_ warrior is at the mercy of his enemies. Attacks against _stunned_ warriors automatically hit, but otherwise follow the same rules for Knocked Down.
 
-#### Attacking stunned and knocked down warriors
+#### Attacking _stunned_ and _knocked down_ warriors
 
 A model with multiple attacks may not stun/knock down and then automatically take a warrior out of action during the same hand-to-hand combat phase. The only way you can achieve this is to have more than one of your models attacking the same enemy. If the enemy is stunned/knocked down by the first warrior, he can be hit and put out of action by the _next_ warrior to attack. 
 
-If your model is engaged in close combat with an enemy who is still standing, he cannot attack any other models that are stunned or knocked down, since in reality they will not pose an immediate threat to him and their companions will try to protect them. 
+If your model is engaged in close combat with an enemy who is still standing, he cannot attack any other models that are _stunned_ or _knocked down_, since in reality they will not pose an immediate threat to him and their companions will try to protect them. 
 
 #### Moving from combat
 
-Once models are engaged in hand-to-hand combat they cannot move away during their movement phase. They must fight until they are either taken out of action, until they take out their enemies, or until one or the other breaks and runs. The exception to this rule is that if all a model's close combat opponents are knocked down or stunned, he may move away from the combat if you wish, and even charge other enemies within range. 
+Once models are engaged in hand-to-hand combat they cannot move away during their movement phase. They must fight until they are either taken out of action, until they take out their enemies, or until one or the other breaks and runs. The exception to this rule is that if all a model's close combat opponents are _knocked down_ or stunned, he may move away from the combat if you wish, and even charge other enemies within range. 
 
 #### Breaking from combat
 
@@ -785,7 +747,7 @@ If the Rout test is failed, the warband automatically loses the fight. The game 
 
 To take a Rout test roll 2D6. If the score is equal to or less than the warband leader's Leadership, the player has passed the test and may continue to fight. 
 
-If the warband's leader is out of action or stunned, then the player may not use his Leadership to take the test. Instead, use the highest Leadership characteristic amongst any remaining fighters who are not stunned or out of action. 
+If the warband's leader is out of action or stunned, then the player may not use his Leadership to take the test. Instead, use the highest Leadership characteristic amongst any remaining fighters who are not _stunned_ or out of action. 
 
 #### Voluntary rout
 
@@ -793,28 +755,33 @@ A player may choose to voluntarily Rout at the start of any of his own turns if 
 
 #### Leaders
 
-A warrior within 6" of his leader may use his leader's Leadership value when taking Leadership tests. This represents the leader's ability to encourage his warriors and push them beyond normal limits. 
+A warrior within 6" of his leader may use his leader's Leadership value when taking Leadership tests. This represents the leader's ability to encourage their warriors and push them beyond normal limits. 
 
-A leader cannot confer this bonus if he is knocked down, stunned or fleeing himself. The sight of your leader running for cover is obviously far from encouraging!
+A leader cannot confer this bonus if they are _incapacitated_. The sight of your leader running for cover is obviously far from encouraging!
+
+#### Fleeing
+
+If a warrior _flees_ from combat, each enemy warrior in base contact makes one automatic hit against the _fleeing_ warrior as they turn to run. If the model survives, they flee 2D6" towards the nearest table edge, avoiding any enemy models.
+
+At the start of each of their turns, a _fleeing_ warrior must take a _leadership test_. If they pass, they no longer count as fleeing, but can do nothing during the rest of this turn except cast spells. 
+
+If they fail, they will flee _2D6"_ towards the nearest table edge in the _compulsory move_ phase. If they reach the table edge before they have managed to recover their nerves, they are removed from the board.
+
+If a warrior is charged while they are _fleeing_, the charger is moved into base contact as normal, but the _fleeing_ warrior will then move an additional _2D6"_ towards the table edge immediately.
 
 #### All alone
 
-Being outnumbered and alone is a nerve-racking situation for any warrior. If your warrior is fighting alone against two or more opponents of the same or larger size (refer to the size chart), and there are no friendly models within 6" (knocked down, stunned or fleeing friends do not count), he must make a test at the end of his combat phase. 
+Being outnumbered and alone is a nerve-racking situation for any warrior. If your warrior is fighting alone against two or more opponents of the same or larger size (refer to the model size chart), and there are no friendly models (_incapacitated_ models do not count) within _6"_, they must make a _leadership test_ at the end of their combat phase.
 
-The test is taken against the model's Leadership on 2D6. If the warrior scores equal to or under his Leadership his nerve holds. If the score is greater than his Leadership, the warrior breaks from combat and runs. Each one of his opponents may make one automatic hit against him as he turns to run. If the model survives, he runs 2D6" directly away from his enemies. 
-
-At the start of each of his turns, the warrior must take another Leadership test. If he passes, he stops but can do nothing else during his own turn except cast spells. If he fails or is charged, he runs 2D6" towards the nearest table edge, avoiding any enemy models. If he reaches the table edge before he has managed to recover his nerves, he is removed from combat. 
-
-If a warrior is charged while he is fleeing, the charger is moved into base contact as normal, but the fleeing warrior will then run a further 2D6" towards the table edge, before any blows can be struck.
+If the warrior passes the test, their nerve holds. If the warrior fails, the warrior breaks from combat and _flees_.
 
 #### Fear
 
-Fear is a natural reaction to huge or unnerving creatures. A model, unless they cause Fear themselves, must take a Fear test (i.e., test against his Leadership), in the following situations:
+_Fear_ is a natural reaction to huge or unnerving creatures. A model, unless they cause Fear themselves, must take a _leadership test_, in the following situations:
 
-1. If the model is charged by a warrior or a creature which causes fear. If a warrior is charged by an enemy that he fears then he must take a test to overcome that fear. Test when the charge is declared and is determined to be within range. If the test is passed the model may fight as normal. If it is failed, the model must roll 6s to score hits in that round of combat. 
+1. If the model is charged by a warrior or a creature which causes fear. If a warrior is charged by an enemy that he fears then he must take a test to overcome that fear. Test when the charge is declared and is determined to be within range. If the test is passed the model may fight as normal. If it is failed, the model must roll _6_s to score hits in that round of combat. 
 
-2. If the model wishes to charge a fear-causing enemy. If a warrior wishes to charge an enemy that it fears then it must take a test to overcome this. If it fails the model may not charge and must remain stationary for the turn. Treat this as a failed charge. 
-
+2. If the model wishes to charge a fear-causing enemy. If a warrior wishes to charge an enemy that it fears then it must take a test to overcome this. If it fails, the model may not charge and must remain stationary for the turn. Treat this as a failed charge. 
 
 #### Terror
 
@@ -826,7 +793,7 @@ Some warriors can work themselves into a berserk state of fury, a whirlwind of d
 
 These warriors are described as being frenzied. Frenzied models must always charge if there are any enemy models within charge range (check after charges have been declared). The player has no choice in this matter – the warrior will automatically declare a charge. 
 
-Frenzy grants the warrior +1A to their profile. Once they are within charge range, frenzied warriors are immune to all other psychology, such as fear and don't have to take these tests as long as they remain within charge range. If a frenzied model is knocked down or stunned, he no longer counts as frenzied for the rest of this battle. 
+Frenzy grants the warrior +1A to their profile. Once they are within charge range, frenzied warriors are immune to all other psychology, such as fear and don't have to take these tests as long as they remain within charge range. If a frenzied model is _incapacitated_, he no longer counts as frenzied for the rest of this battle. 
 
 #### Hatred
 
@@ -836,7 +803,7 @@ Hatred is a very powerful emotion, and during this era of strife and war, bitter
 
 Many large and powerful creatures, as well as some of the more unhinged individuals in Mordheim, are unfortunately rather stupid. 
 
-Models with the Stupidity rule are incapable of taking any voluntary action unless a model without Stupidity (who is not fleeing, knocked down, or stunned) is within 6" of them at the start of their turn. 
+Models with the Stupidity rule are incapable of taking any voluntary action unless a model without Stupidity (who is not _Incapacitated_) is within 6" of them at the start of their turn. 
 
 \page
 
