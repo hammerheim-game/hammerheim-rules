@@ -28,6 +28,8 @@
 
 Equipment bought with your initial 500 gold may not be sold, and any unspent gold is lost when creating your warband. After playing your first match you may buy units from a Warhammer army book of your choice, fluff depending. Models are bought as induviduals and function in the same way as in Mordheim.
 
+All Mordheim character starting experience is halved (rounding up).
+
 ## Purchasing units
 
 ### Unit prices
@@ -85,6 +87,7 @@ Warhammer Wizards function in the same way as Mordheim Wizards except:
 - Spells that automatically target the closest enemy will not target enemies in combat.
 - One use only items can only be used once per game.
 - Bound Spell items that miscast are destroyed.
+- Spells that inflict a certain number of hits to all units in an area will instead deal 1 hit on all models within range for each dice used in the spell: So a spell that does 2D6 S4 hits to all units within 12" will instead do 2 S4 hits to all models within 12".
 
 ## House Rules:
 
@@ -106,11 +109,21 @@ Warhammer Wizards function in the same way as Mordheim Wizards except:
 
 ## Racial house rules
 
+### Dwarfs
+
+Longbeards are now Special rather than Core.
+
 ### Vampire counts
 
 Players may not summon more than three times the number of models that have been bought for their warband. (eg: Three zombies on the roster, no more than nine may be on the table at once). Summoned models must be placed into a unit (base to base).
 
 The Mortis Engine is prohibited.
+
+Mordheim vampires and necromancers count as vampires/necromancers for the purposes of crumbling/marching etc.
+
+### Tomb Kings
+
+Mordheim liches may be the warband's heirophant
 
 ### Ogres
 
@@ -118,7 +131,11 @@ When a model with the Ogre Charge rule charges, roll 2D6. If the result is 10 or
 
 ### Warriors of Chaos
 
-When a model with Eye of The Gods puts an enemy hero out of action roll on the table as normal. If the enemy survives at the end of the game then the Eye of The Gods bonus is lost, if they die then the effect remains permanent. Chaos Spawn or Daemon Prince results are always permanent. The warband must remain compliant with the rule about number of core characters in relation to special, rare, heroes, and lords however - if it cannot comply then the evolved character may not be fielded. It may remain on the roster, but will not participate in any way - including exploration.
+When a model with Eye of The Gods puts an enemy hero out of action roll on the table as normal. If the enemy survives at the end of the game then the Eye of The Gods bonus is lost, if they die then the effect remains permanent. Chaos Spawn or Daemon Prince results are always permanent. The warband must remain compliant with the rule about number of core characters in relation to special, rare, heroes, and lords however - if it cannot comply then the evolved character will leave the warband. The Chaos Spawn will be uncontrollable, and the Demon Prince will not waste its time with warbands too small to be worthy of their time.
+
+Chaos Warriors are Special rather than Core.
+
+Chosen Warriors are Rare rather than Special.
 
 ### Beastmen
 
@@ -128,6 +145,6 @@ Henchmen that move into base-to-base due to failing Infighting tests will fight 
 
 Even though Henchmen normally do not gain experience, henchmen put out of action due to Infighting will give the killer's group an experience point. 
 
-###Daemons of Chaos
+### Daemons of Chaos
 
 When Horrors successfully generate more Horrors through their lore attribute, the new Horrors must form a unit with the original caster. These Horrors must remain a part of the unit with the original at all times - any who become seperated through initiative/out of actions/random happenings immediately disappear. 
