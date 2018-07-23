@@ -85,7 +85,7 @@ The Artillery Dice is one of the more specialised dice used in Games Workshop Ga
 
 This is another more Specialise dice used in Games Workshop Games; this is a standard six-sided dice that has no numbers but has Arrows and a hit marker. A standard six-sided dice can be used in places of a Scatter Dice:
 
-| - | Direction |
+| Roll | Direction |
 | : - : | : - : | 
 | 1 | Top side |
 | 2 | Right side |
