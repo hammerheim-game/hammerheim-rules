@@ -3317,12 +3317,12 @@ Proven themselves in countless combats. The War-leader has been
 appointed by the elders to lead the warband.
 Profile M WS BS S T W I A Ld
 
-5 5 5 4 3 1 6 1 8
+5 5 5 3 3 1 6 1 8
 Weapons/Armor: A War-leader may be equipped with
 weapons and armor chosen from the Forest-Walker
 Equipment list.
 Skills: The War-leader may choose from Combat, Shooting,
-Academic, Strength, and Speed, when he gains a new skill. In
+Academic, and Speed, when he gains a new skill. In
 addition, the War-leader may choose from the Wood Elf
 Special Skill list.
 Special Rules Excellent Sight, Forest Folks, Wood Elf
@@ -3331,7 +3331,7 @@ Leader: Any warrior within 6" of the War-leader may use his
 Leadership characteristic when taking Leadership tests.
 
 0-1 Waywatcher
-55 gold crowns to hire
+85 gold crowns to hire
 The Waywatcher is an experienced Elven warrior of great skill and
 acumen. Incredibly stealthy and with senses honed to a razors
 sharpness he provides a formidable presence to any Wood Elf band,
@@ -3395,8 +3395,7 @@ Profile M WS BS S T W I A Ld
 Weapons/Armor: Wardancer may be equipped with
 weapons and armor chosen from the Wardancer Equipment
 list.
-Skills: The Wardancer may choose from Combat, Strength,
-and Speed, when he gains a new skill. In addition, the
+Skills: The Wardancer may choose from Combat and Speed when he gains a new skill. In addition, the
 Wardancer may choose from the Wood Elf Special Skill list
 and the Wardancer skill list.
 Special Rules Excellent Sight, Forest Folks, Wood Elf
@@ -3458,7 +3457,7 @@ they also know that the young of the wild must learn their hard
 lessons first hand, there is no respite in the wild – eat or be eaten.
 Profile M WS BS S T W I A Ld
 
-5 3 3 3 3 1 6 1 7
+5 3 3 3 3 1 5 1 7
 Weapons/Armor: Glade Guards may be equipped with
 weapons and armor chosen from the Forest-Walker
 Equipment list.
@@ -3473,7 +3472,7 @@ During this time, guardianship of the most sacred of places falls to
 the Eternal Guard; sons and daughters of noble houses.
 Profile M WS BS S T W I A Ld
 
-5 4 3 3 3 1 6 1 7
+5 4 3 3 3 1 5 1 7
 Weapons/Armor: Eternal Guards may be equipped with
 weapons and armor chosen from the Forest-Walker
 Equipment list.
@@ -3485,13 +3484,13 @@ may re-roll any to hit dice, and always count as having a +1
 to Armor Save.
 
 0-5 Archers
-35 gold crowns to hire
+45 gold crowns to hire
 Wood Elf Archers are renowned throughout the Old World as the
 finest archers. This reputation is rightly deserved. The Longbow is
 the first weapon a Wood Elf is taught to use and the skill of archery
 is practiced every day.
 Profile M WS BS S T W I A Ld
-5 3 4 3 3 1 6 1 7
+5 3 4 3 3 1 5 1 7
 Weapons/Armor: Archers may be equipped with weapons
 and armor chosen from the Scout Equipment list.
 Special Rules: Excellent Sight, Forest Folks, Wood Elf
@@ -3506,9 +3505,9 @@ angered. They fight with their Elven allies to prevent harm coming
 to their lands. Some few were moved to assist the Shadow-Hunters
 in their task.
 Profile M WS BS S T W I A Ld
-5 4 0 4 4 2 6 2 8
+5 4 0 4 4 1 6 2 8
 Weapons/Armor: Razor Sharp Talons (Counts as being
-armed with two swords)
+unarmed but with no combat penalties)
 Special Rules: Forest Spirits, Rating
 Rating: For Each Dryad in the Warband will add +5 to the
 Warband rating.
