@@ -3150,11 +3150,10 @@ Familiar).
 [Not available to Witch Hunters or Sisters of Sigmar]
 Sometimes books of forbidden lore are offered for sale in the
 markets and dark alleys of the settlements around Mordheim.
-If a warband includes a wizard, he will gain an extra spell
-from the tome, permanently. He may randomly generate this
-new spell from his own list or the Lesser Magic list. See the
-Magic section for details. The benefits from each Tome of
-Magic apply to only one model.
+A tome of magic may be consumed by a wizard in order to add +1 to their wizard level
+and in the case of Mordheim wizards unlocks access to one lore of magic
+appropriate to their closest Warhammer counterpart. A wizard may consume multiple
+tomes but may not increase their wizard level above 4.
 
 ## Musical Instruments
 
@@ -3172,13 +3171,6 @@ The mallet may be used as a club and the drum as a shield.
 [Musician only]
 These are made of wood or bone.
 They add +1 to your leadership roll.
-
-### Horn
-
-[Musician only]
-These are brass or silver horns that can make a lot of noise when
-used.
-They increase the range of Cacophony by 6 inches.
 
 ### Lyre
 
