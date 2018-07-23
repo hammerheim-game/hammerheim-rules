@@ -194,7 +194,7 @@ To play, one side takes a turn, then the other side, then the original side and 
 
 To keep track of who is doing what and when, each turn is split into four phases. This is the _turn sequence_:
 
-__1. Recovery:__ During this phase you deal with incapacitated warriors, recovering models that are _knocked down_ or _stunned_ and attempting to rally _fleeing_ individuals.
+__1. Recovery:__ During this phase you deal with _incapacitated_ warriors, recovering models that are _knocked down_ or _stunned_, and attempting to rally _fleeing_ individuals.
 
 __2. Movement:__ During this phase you may move the warriors of your warband according to the rules given in the Movement section.
 
