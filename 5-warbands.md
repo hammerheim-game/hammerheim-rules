@@ -466,12 +466,10 @@
 
 ### Starting a Warband
 
-Before you begin to play you must recruit a warband to take part in the battle for Mordheim. The warbands are
-represented by a whole range of Citadel models available as boxed sets and blister packs. The boxed sets are designed
-to form an ideal starting point for your collection and further models can be added as your warband grows and thrives.
-In this section of the book we take a detailed look at each of
-the warbands and provide the information you need to recruit
-a warband of that type.
+Before you begin to play you must recruit a warband to take part in the battle for Mordheim. The warbands are represented by a whole range of Citadel models available as boxed sets and blister packs. The boxed sets are designed to form an ideal starting point for your collection and further models can be added as your warband grows and thrives.
+
+In this section of the book we take a detailed look at each of the warbands and provide the information you need to recruit a warband of that type.
+
 Use the lists that follow to recruit and equip your warband
 (an example warband has been included at the back of the
 book.) You have 500 gold crowns to spend. Each model and

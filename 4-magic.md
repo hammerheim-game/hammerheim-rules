@@ -61,61 +61,45 @@ during these times of strife.
 
 The chart below summarises the different kinds of magic and
 explains who can use what spells.
-Type of Magic Wizard
-Prayers of Sigmar ............... Sisters of Sigmar, Warrior-
-Priests, Monks & Clerics
-Prayers of Shallaya ............. Priestess of Shallaya & Clerics
-Prayers of Taal ................... Priest of Taal & Cleric
-Prayers of Ulric .................. Wolf Priest & Cleric
-Funerary Rites .................... Priest of Morr
-Prayers of Ranald ............... Priest of Ranald
-Norse Runes ....................... Norse Shaman
-Shadow Warrior Magic ...... Shadow Weaver
-Fey Magic........................... Spellsinger
-Spells of the Djed’hi ........... Elf Mage
-Lesser Magic ...................... Warlocks
-Charms and Hexes .............. Witches
-Dark Elf Magic ................... Dark Elf Sorceresses
-Necromancy ....................... Necromancers
-Chaos Rituals ..................... Chaos Magisters, Beastmen
-Shamans
-Nurgle Rituals .................... Carnival Masters
-Magic of the Horned Rat .... Eshin Sorcerers, Vermin Lord
-Call of the Pack .................. Harbinger of Mutation, Vermin
-Lord
-Prayers of Corruption ......... Festering Chantor, Vermin Lord
-Machine Curses .................. Chief Engineer, Warlock
-engineer, Vermin Lord
-Waaagh! Magic .................. Orc Shamans
-Forest Goblin Spells ........... Forest Goblin Shamans
-Magic of the Steppes .......... Hobgoblin Shamans
-Lore of Light ...................... Truthsayer
-Lore of Darkness ................ Dark Emissary
-Most wizard starts with one randomly determined spell, but
-may gain more. Roll a D6 and consult the appropriate chart.
-If you get the same spell twice, roll again or lower the spell’s
-difficulty by 1.
+
+
+| Type of Magic | Wizard |
+| :-: | :-: |
+| Prayers of Sigmar | Sisters of Sigmar, Warrior Priests, Monks & Clerics |
+| Prayers of Shallaya | Priestess of Shallaya & Clerics |
+| Prayers of Taal | Priest of Taal & Cleric
+| Prayers of Ulric | Wolf Priest & Cleric |
+| Funerary Rites | Priest of Morr |
+| Prayers of Ranald | Priest of Ranald |
+| Norse Runes | Norse Shaman |
+| Shadow Warrior Magic | Shadow Weaver |
+| Fey Magic| Spellsinger |
+| Spells of the Djed’hi | Elf Mage |
+| Lesser Magic | Warlocks |
+| Charms and Hexes | Witches |
+| Dark Elf Magic | Dark Elf Sorceresses |
+| Necromancy | Necromancers |
+| Chaos Rituals | Chaos Magisters, Beastmen Shamans |
+| Nurgle Rituals | Carnival Masters |
+| Magic of the Horned Rat | Eshin Sorcerers, Vermin Lord |
+| Call of the Pack | Harbinger of Mutation, Vermin Lord |
+| Prayers of Corruption | Festering Chantor, Vermin Lord |
+| Machine Curses | Chief Engineer, Warlock engineer, Vermin Lord |
+| Waaagh! Magic | Orc Shamans |
+| Forest Goblin Spells | Forest Goblin Shamans |
+| Magic of the Steppes | Hobgoblin Shamans |
+| Lore of Light | Truthsayer |
+| Lore of Darkness | Dark Emissary |
+
+Most wizard starts with one randomly determined spell, but may gain more. Roll a D6 and consult the appropriate chart. If you get the same spell twice, roll again or lower the spell’s difficulty by 1. 
+
 #### Casting spells
 
-Spells are cast in the shooting phase, and can be used even if
-the caster is in hand-to-hand combat. To use a spell, the
-wizard must roll equal to or greater than the spell’s Difficulty
-score on 2D6. If he fails, he may not cast a spell that turn. If
-the test is passed the spell may be used as described overleaf.
-A wizard may cast one spell per turn and may not use missile
-weapons if he wants to cast a spell. He can however run!
-A wizard may not use magic if he is wearing armor or has a
-shield or buckler. The only exception is the Prayers of
-Sigmar. Sisters of Sigmar and Warrior-Priests may wear
-armor and use their prayers.
+Spells are cast in the shooting phase, and can be used even if the caster is in hand-to-hand combat. To use a spell, the wizard must roll equal to or greater than the spell’s Difficulty score on 2D6. If he fails, he may not cast a spell that turn. If the test is passed the spell may be used as described overleaf. A wizard may cast one spell per turn and may not use missile weapons if he wants to cast a spell. He can however run! A wizard may not use magic if he is wearing armor or has a shield or buckler. The only exception is the Prayers of Sigmar. Sisters of Sigmar and Warrior-Priests may wear armor and use their prayers. 
+
 #### Damage
 
-Some spells cause direct damage, and are resolved the same
-way as damage from shooting or blows in hand-to-hand
-combat. Spells do not cause critical hits. Models always
-receive armor saves against wounds caused by spells unless
-noted otherwise.
-
+Some spells cause direct damage, and are resolved the same way as damage from shooting or blows in hand-to-hand combat. Spells do not cause critical hits. Models always receive armor saves against wounds caused by spells unless noted otherwise. 
 
 #### Spell Lists
 
