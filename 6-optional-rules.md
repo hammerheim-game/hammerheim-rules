@@ -38,7 +38,7 @@ Something in the sewers has frightened the rats that live there. The rats are in
 
 #### 13. Blast From The Past
 
-A randomly generated character from the MVP roster arrives on the battlefield! Determine their spawn point in the usual manner, the character will ignore any rules for Stupidity they may have and will be hostile to all warbands. Ranged characters will be stationary where possible and shoot at the nearest enemy, only moving if there are no enemies within sight in which case they will move towards the closest enemy not in line of sight. Hybrid characters will walk towards the closest enemy and fire every turn too. Combat characters will run towards the closest enemy. MVP characters award +1xp point for each wound they suffer, as well as the usual +1xp for taking them out of action.
+A randomly generated character from the MVP roster arrives on the battlefield! Determine their spawn point in the usual manner, the character will ignore any rules for Stupidity they may have and will be hostile to all warbands. Ranged characters will be stationary where possible and shoot at the nearest enemy, only moving if there are no enemies within sight in which case they will move towards the closest enemy not in line of sight. Hybrid characters will walk towards the closest enemy and fire every turn too. Combat characters will run towards the closest enemy. When defeated the MVP may drop an item of some sort - these are treated in the same way as wyrdstone shards (though will award loot specified in the MVP character description).
 
 #### 14. Aetherstorm
 
@@ -50,7 +50,7 @@ Unfortunately for the warbands involved, the scent of blood has brought the atte
 
 #### 16. Lucky Find
 
-One random model, on his feet and not in hand-to-hand combat or
+One random model selected from all warbands, on his feet and not in hand-to-hand combat or
 fleeing, has stumbled upon a shard of wyrdstone! Assuming he
 doesn’t go out of action, this is added to any other shards the
 warband finds after the game. If he is taken out of action in close
@@ -68,7 +68,7 @@ The only exception to this is if the spirit comes into contact with a Sigmarite 
 
 #### 22. Burning Building
 
-Suddenly, one of the buildings (chosen at random) bursts into flames, ignited by smouldering embers from a fire thought extinguished long ago. Any models inside take a S3 hit unless they move outside in that turn and any models within 2" of the walls take a S2 hit from the smoke and heat unless they move further away as well. For the rest of the game, the building itself will cause fear due to the intense flames and anyone who wishes to enter it must first pass a Fear test exactly as if they wished to charge a fear-causing enemy. 
+Suddenly, one of the buildings (chosen at random) bursts into flames, ignited by smouldering embers from a fire thought extinguished long ago. Any models inside take a S3 hit unless they move outside in that turn and any models within 2" of the walls take a S2 hit from the smoke and heat unless they move further away as well at the end of their movement phase. For the rest of the game, the building itself will cause fear due to the intense flames and anyone who wishes to enter it must first pass a Fear test exactly as if they wished to charge a fear-causing enemy. 
 
 #### 23. Man-Eater
 
@@ -85,11 +85,11 @@ The tree automatically passes any Leadership tests it is required to make. Any r
 
 While the intense magic of the area rapidly dissolves skeletons to dust, shambling hordes of them spring up at random from the bones of the fallen. Uncontrolled, they roam the city wasteland, blindly attacking everything they find before falling apart. 
 
-Use the Profile of the Skeleton in Beasts Monsters & Townsfolk Section. 2D6 Skeletons appear, armed with daggers. The skeletons will move towards and attack the closest models as quickly as possible. 
+Use the Profile of the Skeleton in Beasts Monsters & Townsfolk Section. 2D6 Skeletons appear, armed with daggers. The skeletons will move towards and attack the closest models as quickly as possible. The Skeletons do not award experience.
 
 #### 25. The Twisting of the Air
 
-Reality itself seems to twist, warping perceptions until no one can be sure of what their senses tell them. Roll a D6 at the start of each player’s turn. For the next D3 game turns, the distance within which warriors can use their Leader’s Leadership value and the distance for being All Alone is the value rolled instead of the normal 6". All distances between models are also increased by the same D6" roll for purposes of weapon ranges and charging. Note that the actual models are not moved, but only the shooting/charging model’s perception of the distance. 
+Reality itself seems to twist, warping perceptions until no one can be sure of what their senses tell them. Roll a D6 at the start of each player’s turn. For the next D3 game turns, all distances between models are considered to be increased by that same D6" roll for purposes of All Alone tests, benefitting from the leader's leadership, weapon ranges, and charging. Note that the actual models are not moved, but only the shooting/charging model’s perception of the distance nor does it effect regular movement. 
 
 #### 26. Spawn
 
@@ -127,7 +127,7 @@ height they were at.
 
 #### 32. Scrawling on a Wall
 
-A randomly determined warband member who is within 4" of a building (if there are no models this close to a building, ignore this encounter), sees writing suddenly appear in blood on the wall closest to him. Roll on the following table to find out what the writing says: 
+A randomly determined warband member of the Encountering Player's warband who is within 4" of a building (if there are no models this close to a building, re-roll this encounter), sees writing suddenly appear in blood on the wall closest to him. Roll on the following table to find out what the writing says: 
 
 D6 Result:
 
@@ -200,7 +200,7 @@ This encounter is identical to the Ogre Mercenary encounter before, except the H
 An enormous cloud of flies appears in the sky and swoops down on the warbands below. All models have an extra -1 to hit penalty when shooting or fighting in close combat as flies buzz around them and into open orifices. The flies remain for D3 game turns and then fly away. 
 
 #### 51. Sinkhole
-An enormous mouth suddenly opens up under the feet of one randomly determined warband member. Make an Initiative test for the model. If the test is failed, the model falls into the pit. If a 1 is rolled for the test, the model is sucked underground and taken out of action. Any other failure results in the model catching himself in the opening, which closes around him. Treat the model as being knocked down for the rest of the game, though he may not move at all. 
+An enormous mouth suddenly opens up under the feet of one randomly determined warband member. Make an Initiative test for the model. If the test is failed, the model falls into the pit. If a 6 is rolled for the test, the model is sucked underground and taken out of action. Any other failure results in the model catching himself in the opening, which closes around him. Treat the model as being knocked down for the rest of the game, though he may not crawl. 
 
 #### 52. The Horror in the House
 
@@ -225,9 +225,9 @@ D6 Result
 
 The horrors of Mordheim can drive even the strongest mind past the point of madness. This Sigmarite Matriarch (for stats see the Sisters of Sigmar section of the Mordheim rules) has seen her entire warband cut down around her and the experience has proven too much for. She now seeks revenge and is not particular about who gets to pay! She is armed with a Sigmarite Hammer and steel whip and wears heavy armor and a helm. She carries Blessed Water and a Holy Relic on her person as well. She knows the prayers The Hammer of Sigmar and Armor of Righteousness (see the Prayers of Sigmar chart in the Mordheim rules for details). Roll randomly to determine which she casts on herself each turn. She has the skills Absolute Faith, Jump Up and Step Aside. The Matriarch will move as quickly as possible towards the nearest model and engage them in close combat if able. She will not rout and must be taken out of action to make her stop. If the Matriarch is taken out of action, leave her body where it fell, any non-animal warband member may loot her body by moving into contact with it during their Movement phase. If this warrior is later taken out of action as well, place a counter where the warrior fell to represent the Matriarch’s equipment. This can then be picked up by a different model, as above. 
 
-55 The Wrong Trousers
+#### 55. The Wrong Trousers
 
-Possession? Again? Fortunately the demonic power in question isn't quite as vindictive as others, rather than posessing a character's arms and attempting to kill them this demon is more of an impish sort of creature. The legs of a randomly determined warband member become posessed by this devious entity, and in each of its movement phases it will move 2D6" in a direction determined by the scatter dice instead of its normal move. This movement will ascend and descend walls without the need for a climbing test at no movement penalty, placing models inside the building on a floor closest to their end point should their movement leave them stuck on the outside of a building. This movement ignores all collision with bases, the possessed model moving through allied and enemy bases alike at no penalty, and this movement will cause the character to leave any combat it is in. The character may shoot as normal.
+Possession? Again? Fortunately the demonic power in question isn't quite as vindictive as others, rather than posessing a character's arms and attempting to kill them this demon is more of an impish sort of creature. The legs of a randomly determined warband member from the Encountering Player's warband become posessed by this devious entity, and in each of its movement phases it will move 2D6" in a direction determined by the scatter dice instead of its normal move. This movement will ascend and descend walls without the need for a climbing test at no movement penalty, placing models inside the building on a floor closest to their end point should their movement leave them stuck on the outside of a building. This movement ignores all collision with bases, the possessed model moving through allied and enemy bases alike at no penalty, and this movement will cause the character to leave any combat it is in. The character may shoot as normal.
 
 
 
@@ -302,7 +302,7 @@ walls or ruins. After the game the effects will wear off,
 though he will always hesitate slightly before entering an
 unlit room from now on...
 
-Note: Only warriors who can gain in experience can choose to look
+Note: Only warriors who can gain experience will choose to look
 into the pool, all others simply lack the curiosity to bother!
 
 #### 64. Screaming Walls
