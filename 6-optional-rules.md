@@ -223,7 +223,7 @@ D6 Result
 
 #### 54. Last One Standing
 
-The horrors of Mordheim can drive even the strongest mind past the point of madness. This Sigmarite Matriarch (for stats see the Sisters of Sigmar section of the Mordheim rules) has seen her entire warband cut down around her and the experience has proven too much for. She now seeks revenge and is not particular about who gets to pay! She is armed with a Sigmarite Hammer and steel whip and wears heavy armor and a helm. She carries Blessed Water and a Holy Relic on her person as well. She knows the prayers The Hammer of Sigmar and Armor of Righteousness (see the Prayers of Sigmar chart in the Mordheim rules for details). Roll randomly to determine which she casts on herself each turn. She has the skills Absolute Faith, Jump Up and Step Aside. The Matriarch will move as quickly as possible towards the nearest model and engage them in close combat if able. She will not rout and must be taken out of action to make her stop. If the Matriarch is taken out of action, leave her body where it fell, any non-animal warband member may loot her body by moving into contact with it during their Movement phase. If this warrior is later taken out of action as well, place a counter where the warrior fell to represent the Matriarch’s equipment. This can then be picked up by a different model, as above. 
+The horrors of Mordheim can drive even the strongest mind past the point of madness. This Sigmarite Matriarch (for stats see the Sisters of Sigmar section of the Mordheim rules) has seen her entire warband cut down around her and the experience has proven too much. She now seeks revenge and is not particular about who has to pay! She is armed two Sigmarite Warhammers and wears heavy armor and a helmet. She carries Blessed Water and a Holy Relic on her person as well. She knows the prayers The Hammer of Sigmar and Armor of Righteousness (see the Prayers of Sigmar chart in the Mordheim rules for details). Roll randomly to determine which she casts on herself each turn. She has the skills Absolute Faith, Jump Up and Step Aside. The Matriarch will move as quickly as possible towards the nearest model and engage them in close combat if able. She will not rout and must be taken out of action to make her stop. If the Matriarch is taken out of action, leave her body where it fell, any non-animal warband member may loot her body by moving into contact with it during their Movement phase. If this warrior is later taken out of action as well, place a counter where the warrior fell to represent the Matriarch’s equipment. This can then be picked up by a different model, as above. 
 
 #### 55. The Wrong Trousers
 
@@ -233,7 +233,7 @@ Possession? Again? Fortunately the demonic power in question isn't quite as vind
 
 #### 56. Catacombs
 
-The ground gives way under one randomly selected warrior and he falls into the depths of the catacombs below the city. He takes a S3 hit from the fall unless he passes an Initiative test, and lands near the remains of others who have fallen before him. Assuming he’s not taken out of action by the fall, he discovers one of the following after a quick search (roll a D6): 
+The ground gives way under one randomly selected warrior from the encountering player's warband and he falls into the depths of the catacombs below the city. He takes a S3 hit from the fall unless he passes an Initiative test, and lands near the remains of others who have fallen before him. Assuming he’s not taken out of action by the fall, he discovers one of the following after a quick search (roll a D6): 
 
 D6 Result
 
@@ -258,7 +258,7 @@ Many view the destruction of Mordheim as a sign that the world is coming to an e
 
 #### 63. Reflecting Pool
 
-One warrior on the ground (selected at random from the Encountering Player’s warband) notices a small pool of what looks to be still water. Reflecting the gloomy sky above, it appears to be liquid metal or unnaturally deep silvery water, rippling only slightly with the dank breeze blowing through the city. Peering into its depths, roll a D6: 
+One warrior on the ground selected at random from the Encountering Player’s warband notices a small pool of what looks to be still water. Reflecting the gloomy sky above, it appears to be liquid metal or unnaturally deep silvery water, rippling only slightly with the dank breeze blowing through the city. Peering into its depths, roll a D6: 
 
 D6 Result
 
