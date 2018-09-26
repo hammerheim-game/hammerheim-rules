@@ -68,21 +68,18 @@ The following modifiers apply:
 ### Restrictions & misc.
 - No named characters.
 - Monsters do not gain experience, and count as Heroes when rolling for injury. 
-- Routing is determined by the % lost of your warband's unit strength.
 - Characters may only wield equipment they come with and this equipment may not be sold or transferred. Different equipment can be used only if the Weapon Master skill is taken.
 - Models that come with a "Hand Weapon" must choose between Sword, Dagger, Mace, or Axe at the time of purchase. 
 - Common items (heavy armor, Hand Weapon etc) bought from the Warhammer book may not be transferred or sold.
-- Weapons behave according to Mordheim rules, not Warhammer rules (particularly looking at spears).
+- All weapons behave according to their section in the Mordheim book, unless explicitly detailed in their own Army Book.
 - Models of same type (eg, Infantry) that move into base contact may be considered a unit for the purposes of spells/effects that target units (such as buffing banners, or spells). 
 - Magic Items are unique to your warband. If you purchase a magic item and it is subsequently lost, stolen, or destroyed you may not purchase it again.
 
 ## Warhammer Magic
 
 Warhammer Wizards function in the same way as Mordheim Wizards except:
-- During a player turn Wizards can channel dice equal to their wizard level, succeeding on a 6. These dice remain attached to the wizard and may be spent in order to:
-- Attempt to dispell an enemy spell (requires 4+)
-- Boost casting attempts.
-- Channeling dice may only be used by the wizard that generated them, and any dice that are unused by the player's next turn are wasted.
+- During a player turn Wizards can channel dice equal to their wizard level, succeeding on a 6. These dice remain attached to the wizard and may be spent in order to either attempt to dispell an enemy spell (requires 4+) or to add to their casting roll.
+- Channeling dice may only be used by the wizard that generated them, and any dice that are unused by the start of the owning player's following turn are wasted.
 - Miscasts are included, and cannot be re-rolled for any reason.
 - Spells that automatically target the closest enemy will not target enemies in combat.
 - One use only items can only be used once per game.
@@ -93,7 +90,7 @@ Warhammer Wizards function in the same way as Mordheim Wizards except:
 
 - In the Monster Hunt scenario the winning player can forgo their rolls to instead gain a magic item of up to 50pts for lesser creatures, 100pts for greater creatures.
 - Only things that roll a normal 'to hit' dice can critical hit.
-- Fliers, Cavalry, and Chariots treat any terrain that is neither street level or a boardwalk as dangerous terrain.
+- Fliers, Cavalry, and Chariots treat any terrain features (buildings, rubble, boardwalks etc) as Dangerous Terrain. Cavalry can use stairs without having to roll.
 - Infantry Characters may ride in chariots if they learn the Ride Chariot skill, even if they cannot normally do so.
 - Siege Weapons (not magic vortexes or grenades) that score a direct hit on a building may attempt to wound the building on T10. If a successful wound is caused everybody in the building must roll as if suffering the 'Collapsing Building' random happening. The building will not be removed from play however.
 - New Common Skill: Magic Item. Character may equip up to 25pts of Magic Items. May be stacked up to 4 times.
@@ -102,10 +99,11 @@ Warhammer Wizards function in the same way as Mordheim Wizards except:
 
 ## Warhammer Special Rules Edits:
 
-- Stupidity is treated as per Coreheim rules.
-- Frenzy gives +1A rather than double attacks.
 - Killing Blow causes critical hits that put heroes out of action to always cause serious injury. Henchmen put out of action by a Killing Blow are automatically killed. You can still use Medical Knowledge as normal.
-- Stubborn units may choose to remain on the battlefield even if their warband fails a Rout check. Units that choose to do so lose the ability to rout for the rest of the battle.
+- Stubborn characters may simply refuse to flee no matter how dire the situation. If a warband routs any Stubborn characters in it may choose take their own induvidual rout checks. If passed they will remain in the game and lose the ability to rout.
+- Unbreakable characters will only ever rout voluntarily.
+- Sniper allows the shooting model to always choose its target, rather than having to shoot the closest.
+
 
 ## Racial house rules
 
