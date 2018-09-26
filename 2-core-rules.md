@@ -815,30 +815,11 @@ With so many warbands roaming in Mordheim and its surrounding landscape and many
 
 In some Campaigns and Scenarios warbands may ally themselves with other warbands, by doing this trust becomes a problem, like Lawful warbands will not work alongside Chaotic warbands, but both will work alongside a Neutral warbands, this would be a distrusted alliance.
 
-##### Distrusted Alliance
+##### Allying with other Warbands
 
-A Distrusted Alliance may form in many ways; the first is by a Neutral warband allied with a Lawful or Chaotic warband, the second is between races of the Dwarves and Elves, and the third is between warbands that hate each other for some reason. 
+There are two types of allegiance in Mordheim: Formal and informal. A formal allegiance is a pre-arranged agreement between warbands with little to no quarrel with eachother, a meeting of minds to come together in the face of an otherwise insurmountable foe. Formal allegiances are clunky, expensive, and unwieldy, but it is the price some warbands pay for security. In a formal allegiance warbands are fully allied to eachother and considered the same; they will not count as the closest enemies for the purposes of shooting, will not count as enemies for the purposes of frenzied models, will not prevent eachother from running, and for the purposes of rout tests both warbands are combined. Formal alliances may not be broken during the game and must be negotiated before the first turn takes place - warbands require such extensive briefing to believe that these dangerous strangers are their friends that coordinating shifting formal alliances during battle is impossible. If a scenario is won on the grounds of there being one last remaining warband, allied warbands will share the victory. Warbands that share victories in this way may each roll no more than three exploration dice, as there is far more competition for resources when scouring the city post-battle.
 
-If two distrusted alliance model are within 6” of each other then both models have a -1 leadership penalty. They also stop each other from running. 
+Formal allegiances may only be negotiated between warbands with one degree of seperation in alignment (So Neutral warbands may only ally with Neutral, Lawful/Neutral, or Chaotic/Neutral for example) and may not take take place if either your warband has the 'Distrust' rule (for example, Dwarfs distrusting Elves) or your warband leader has a Hatred of the other warband's leader. 
 
-#### Bonuses
 
-##### Lawful
-
-The warbands that are Lawful aligned with other Lawful warbands as well as Lawful / Neutral and Neutral warbands. Hate all chaotic warbands. Lawful warbands get D3 rerolls per battle; the rerolls can be uses in the Exploration Phase if not used in battle. All Neutral / Chaotic warbands will count as being Chaotic in the eyes of Lawful warbands. 
-
-##### Lawful / Neutral
-
-The warbands that are Lawful / Neutral aligned with other Lawful / Neutral warbands as well as Lawful and Neutral warbands. Lawful / Neutral warbands get 1 reroll per battle; the reroll can be uses in the Exploration Phase if not used in battle.
-
-##### Neutral
-
-The warbands that are Neutral aligned with any other warbands including Lawful and Chaotic warbands.
-
-##### Neutral / Chaotic
-
-The warbands that are Neutral / Chaotic aligned with other Neutral / Chaotic warbands as well as Neutral and Chaotic warbands. Any member of a Neutral / Chaotic warband which is afflicted by a mutation may still stay on the roster even if normally he would have to leave. Neutral / Chaotic warbands get 1 reroll per battle; the reroll can be uses in the Exploration Phase if not used in battle. 
-
-##### Chaotic
-
-The warbands that are Chaotic aligned with other Chaotic warbands as well as Neutral and Neutral / Chaotic warbands. Any member of a chaotic warband which is afflicted by a mutation may still stay on the roster even if normally he would have to leave. Chaotic warbands get D3 rerolls per battle; the rerolls can be uses in the Exploration Phase if not used in battle. All Lawful / Neutral warbands will count as being Lawful in the eyes of chaotic warbands 
+Informal alliances are moments where warbands warily take a step back from eachother, perhaps each sizing the other up as being a little too strong to be worth fighting - or taking a momentary reprieve to recover and prepare for their next attack. These alliances are the second-to-second judgements made by Warband leaders, and often communicated with little more than body language. These allegiances are momentary at best, and often nothing more than an attempt by one warband to get the other to expose its back. There are no restrictions on these informal alliances but also are nothing more than agreements between Leaders to temporarily focus their attentions elsewhere. For all intents and purposes the two warbands are still hostile to eachother - they are still the closest enemies for shooting, will still count as hostile for the purposes of frenzh, and will still prevent eachother from running. They also may not share a victory in a scenario where the victor is determined by routing.
