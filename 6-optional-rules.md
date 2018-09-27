@@ -95,25 +95,8 @@ Reality itself seems to twist, warping perceptions until no one can be sure of w
 
 The warbands have stumbled upon one of the many former
 inhabitants of the city that got too close to the crater at the centre of
-the city and was turned into a mindless spawn. Spawn have the
-following characteristics:
-
-Profile M WS BS S T W I A Ld
-Spawn 2D6 3 0 4 4 2 3 2D6 10
-
-__Fear:__ Spawn are disgusting and revolting blasphemies against
-nature and cause fear.
-
-__Psychology:__ They are mindless creatures, knowing no fear of pain
-or death. Spawn automatically pass any Leadership based test they
-are required to make.
-
-__Movement:__ The Spawn moves 2D6" towards the nearest model in
-each of its Movement phases. It does not double its movement for
-charging, instead if its movement takes it into contact with a model
-it counts as charging and engages that model in close combat.
-Attacks: Roll at the beginning of each Close Combat phase to
-determine the spawn’s number of Attacks for that phase.
+the city and was turned into a mindless spawn. The Spawn uses the same
+statline as a generic Chaos Spawn.
 
 #### 31. Collapsing Building
 
@@ -431,7 +414,7 @@ force of Chaos, and becomes a terrible Chaos Spawn. See
 2 Weakened. The model has lost some of its life force to the
 stone. One of the model's characteristics is permanently
 reduced by one. Roll 2D6 to see which characteristic suffers:
-1-2 Movement 3 Weapon Skill
+2 Movement 3 Weapon Skill
 4 Ballistic Skill 5-6 Strength
 7-8 Toughness 9-10 Initiative
 11-12 Leadership
@@ -462,6 +445,7 @@ There are, however, some who have a desire for and affinity
 with Chaos Spawn that allows them to keep their mutated
 friend among their ranks as a weapon and pet to use against
 their enemies.
+
 If one of your heroes becomes a Chaos Spawn he is
 considered to be lost to the warband, unless your warband is
 from the Cult of the Possessed or Skaven. Followers of
@@ -472,32 +456,9 @@ When the hero ‘Spawns’, any armor they were wearing is
 lost in the storm of violent mutation that overtakes the
 unfortunate warrior. Weapons and equipment are abandoned
 by the creature, however, and may be reclaimed by the
-warband. The new Spawn retains its previous characteristic
-profile and any existing mutations, and immediately gains an
-additional D6 mutations which should be generated on the
+warband. The hero is removed from your roster, and you gain
+a Chaos Spawn henchmen. They may never gain experience.
 
-Random Mutation Table. If the hero was previously a spell
-caster, all spell casting ability is lost. If the model became a
-Spawn as the result of a characteristic being taken down to
-zero, that characteristic becomes a 1 on the Spawn’s profile.
-The Spawn's Movement characteristic may be deleted, as the
-Spawn is now subject to a special rule that governs its
-movement on the table top. The Spawn is now subject to the
-following special rules:
-Fear: The Spawn now causes fear.
-Psychology: The Spawn is immune to all psychology rules.
-Movement: Instead of normal movement, each movement
-phase, the Spawn moves 2D6" towards any enemy model.
-The Spawn must move straight towards an enemy, though
-this need not be the nearest enemy, and may be an enemy the
-Spawn cannot even see (Spawn have a plethora of senses,
-magical and otherwise that tell them where their foes are). If
-this movement brings the Spawn into contact with any model,
-friend or foe, the Spawn immediately attacks it, and will
-continue to fight in following rounds until the other model
-has been taken out of action or fled. Spawn may move up
-ladders and stairs, and may even attempt to climb walls
-subject to the normal climbing rules.
 The Spawn will not gain any experience points from future
 battles; it is far too mindless to learn from its actions.
 The Spawn should be represented by an appropriate model.
@@ -534,39 +495,38 @@ reduced to zero as the result of a mutation, they immediately
 degenerate into a loathsome Chaos Spawn (see the full rules
 for Chaos Spawn above).
 
-Any member of a human, mercenary warband (this includes
-both Ostlanders and Averlanders) that receives a mutation
-marked with * is immediately drummed out of the warband
-by his suspicious peers. Remove the hero from the roster, his
-equipment is lost.
+Warbands that are not at least somewhat Chaotic lack the open-
+mindedness to tolerate the more visible mutations. Warriors
+from these warbands that acquire a mutation marked with a *
+will be immediately removed from the roster.
 
 Random Mutation Table
 Roll a D66
+
 11 Acid Spray*: The mutant can spit acid at its foes. The acid spray
 uses the mutant’s Ballistic Skill to hit, just as if the mutant were
 firing a missile weapon. The spray has a range of 8", and a Strength
 of 4. The mutant does not suffer any penalty for spraying a target at
 long range, nor does the mutant suffer any penalty for moving and
 spraying in the same turn.
+
 12 Atrophy: A part of the mutant’s body has become shrivelled and
 atrophied. Roll a D6:
 1 Head - The mutant is now subject to stupidity.
 2-4 Arm - The mutant loses the usage of one arm. The
 mutant may only use a single one-handed weapon from
-now on. If both arms are lost the mutant must be retired
-from the warband unless it possesses a tail or bite attack
-of some kind.
+now on. If all arms are lost the mutant's maximum Weapon Skill is 
+reduced to 0.
 5-6 Leg - The mutant loses the usage of one leg. Divide the
 mutant's Movement in half, rounding up. If both legs are
 lost, the mutant must be retired from the warband.
+
 13 Beaked*: The mutant has a beak like that of a bird or octopus,
 though its other facial features remain unchanged. Unless the mutant
 already possesses a bite attack, the mutant may make an additional
 attack in each hand-to-hand combat phase due to its vicious bite.
 
-#### 14 Beweaponed Extremities*:
-
-The mutant’s hands are turned into
+14 Beweaponed Extremities*: The mutant’s hands are turned into
 weapons! The mutant may no longer use other weapons or
 equipment that would require the usage of hands.
 On the plus side, it no longer has to worry about being caught
@@ -574,87 +534,99 @@ without a weapon! The mutant will gain the normal extra attack in
 hand-to-hand for using an additional hand weapon, and the weapon
 extremities follow the normal rules for weapons of their type (i.e.
 sword extremities may be used to parry).
-
 Roll a D6 for each arm to see what it becomes:
-
 1-2 sword, 3-4 mace, 5-6 axe.
-
 If the mutant grows two sword extremities, it may re-roll failed
 parries just as if it had a sword and a buckler.
 
 15 Blackblood: If the model loses a wound in close combat, anyone
-in base contact with the model suffers a Strength 3 hit (no critical
-hits) from the spurting corrosive blood.
+in base contact with the model suffers a Strength 3 hit 
+from the spurting corrosive blood.
+
 16 Brightly Patterned Skin*: The mutant's skin becomes brightly
 coloured with contrasting stripes, spots, or other patterns. No effect
 on play, but a great excuse to paint an interesting new model!
+
 21 Burning Body*: The mutant's body is constantly burning with
 flickering tongues of hellish flame and burns with unnatural light.
 The warrior may not carry any weapons or armor unless they are
-magical, or forged from Gromril or Ithilmar. The mutant does not
-suffer the usual penalties for fighting with his fists (no -1 to the
-mutant's Strength, enemies do not add +l to armor saves). The
-mutant always counts as having a lantern. Any model in base
-contact with the mutant suffers an automatic Strength 2 hit at the
-beginning of each close combat phase. The flames cannot cause
-critical hits.
+magical, or forged from Gromril or Ithilmar. The model may
+never go into Hiding. Any model in base contact with the mutant suffers
+an automatic Strength 3 hit at the beginning of each close combat phase
+with the Flaming Attacks special rule.
+
 22 Cloud of Flies: The mutant is permanently surrounded by a great
 swirling mass of flies. Opponents in close combat with the mutant
 are at -1 on all to hit rolls, as the flies buzz into eyes, noses, and
 mouths.
+
 23 Cloven Hooves*: The warrior gains +l Movement.
+
 24 Crystalline Body*: The mutant's body becomes living crystal,
 which is tough, but easily shattered. The mutant's Toughness
 becomes 6, while its Wounds become 1.
 Neither of these attributes can subsequently be altered by experience
 or mutation. If an experience advance indicates a change in one of
 these characteristics, re-roll the advance until a different
-characteristic advance is obtained.
+characteristic advance is obtained. They may not ride mounts.
+
 25 Elastic Limbs*: The mutant's arms can stretch out, allowing the
 mutant to attack from a distance. If the mutant is not in base contact
 with an enemy model at the beginning of the hand-to-hand combat
 phase, it may make one hand-to-hand attack against a single visible
 enemy within 6" of the mutant. The enemy does not get a chance to
 fight back.
+
 26 Enormously Fat: The mutant becomes enormously fat and
 bloated. Divide its Movement in half, rounding up; add +1 to its
 Toughness; and reduce its Initiative by 1.
+
 31 Extra Arm*: The mutant may use any single-handed weapon in
 the extra arm, giving him +1 attack when fighting in hand-to-hand
 combat. Alternatively, he may carry a shield or buckler in the extra
 arm. If a mutant who is unable to use weaponry (i.e. Possessed,
 Chaos Spawn, etc.) gains this mutation, they simply gain an extra
 attack; they are still not permitted to use weapons.
+
 32 Extremely Thin: The mutant becomes a matchstick figure,
 sickly thin and bony. Divide its Toughness in half, rounding up.
+
 33 Eyestalks*: The mutant has stalked eyes, similar to a crab. The
 mutant now causes fear.
+
 34 Fangs*: The mutant grows huge fangs, giving it an extra bite
 attack (unless it already has one) in each hand-to-hand combat
 phase. The bite attack uses the mutant's normal Strength.
+
 35 Furry*: The mutant grows a covering of long, dense fur. The
 mutation changes the mutant's appearance only; and has no effect on
 its profile.
+
 36 Great Claw*: One of the mutant's arms ends in a great, crab-like
 claw. He may carry no weapons in this arm, but gains an extra
 attack in hand-to-hand combat with a +1 Strength bonus.
+
 41 Hideous: The mutant causes fear, and is seldom invited to
 parties.
-42 Horns*: The mutant's head grows horns, and it gains an extra
-gore attack in hand-to-hand combat at the mutant's normal Strength
-The mutant may no longer wear a helmet.
+
+42 Horns*: The mutant's head grows horns, and it gains the special
+rule Impact Hits (1).
+
 43 Iron Hard Skin*: The mutant's skin is covered in iron and steel
 scales. The mutant's armor save is improved by +1 (i.e. a 5+ save
 becomes a 4+). Note that a warrior's armor save may never
 improve to better than a 1+ save. If the mutant has no armor, their
 skin alone gives them a 6+ armor save.
+
 44 Mace Tail*: The mutant grows a flexible tail with a mace-like
 bony tip. Unless it already has a tail, the mutant gains an extra tail
 attack in each hand-to-hand combat phase at the mutant's Strength
 +1. If the mutant already has a tail, it will have to decide at the
 beginning of each hand-to-hand phase which tail it wishes to use.
+
 45 Moronic: The mutant's mind shrinks. The mutant is now subject
 to stupidity.
+
 46 Plague Bearer*: The mutant carries a hideous, Chaos-tainted
 disease. The mutant's limbs are covered in open sores, and the
 mutant is dramatically weakened by its condition.
@@ -663,12 +635,12 @@ mutant hits an enemy in hand-to-hand combat, there is a chance they
 have infected their foe with this debilitating disease: the enemy
 model must roll equal to or less than its Toughness on a D6 to avoid
 contracting the sickness. If the roll is higher than the model's
-Toughness, they suffer the -1 to Movement and Initiative penalty for
-the rest of the battle, (after which it is assumed they get immediate
-herbal remedies and plenty of rest to keep the disease from setting in
-permanently!). The Plague Bearer may not infect the same model
-more than once in a single battle. In addition, the Plague Bearer's
-ghastly appearance means it now causes fear.
+Toughness, they suffer the -1 Toughness for the rest of the battle,
+(after which it is assumed they get immediateherbal remedies and plenty
+of rest to keep the disease from setting in permanently!). The Plague
+Bearer may not infect the same model more than once in a single battle.
+In addition, the Plague Bearer's ghastly appearance means it now causes fear.
+
 51 Poisonous Bite: The mutant grows small fangs which can secrete
 a potent poison.
 Unless the warrior already has a bite attack, it gains an extra attack
@@ -677,6 +649,7 @@ poisonous bite is a Strength 5 attack, but is reduced to Strength 2 if
 the target of the bite is immune to poison. If the mutant already
 possesses a bite attack, it is simply upgraded to include the
 poisonous effect described above.
+
 52 Prehensile Tail*: The mutant grows a prehensile tail. Unless the
 mutant already has a tail attack, he gains an additional attack with
 this tail in each hand-to-hand combat phase. The mutant may hold
@@ -689,16 +662,13 @@ each hand-to-hand phase. If a mutant unable to use weaponry (i.e.
 Possessed, Chaos Spawn, etc.) gains this mutation, they simply gain
 an extra attack (unless they already possess a tail attack); they
 remain unable to use weapons.
-53 Regeneration: The mutant can often heal instantly from wounds
-it suffers in battle. When the mutant suffers one or more Wounds, it
-may try to regenerate the damage. Roll a D6: on the roll of a 4+, the
-mutant has instantly healed itself back to full Wounds. If less than a
-4 is rolled, the mutant's regenerative powers have been temporarily
-exhausted, and it may not attempt further regenerations for the
-remainder of the battle.
+
+53 Regeneration: The Mutant gains the Regeneration special rule.
+
 54 Resilient: The mutant's skin thickens, or becomes scaly, or
 otherwise increases its resilience to damage. Increase the mutant's
 Toughness by +1.
+
 55 Scorpion Tail*: The mutant has a long barbed tail with an
 envenomed tip, allowing him to make an extra Strength 5 attack in
 each hand-to-hand combat phase (unless the mutant already has a
@@ -706,39 +676,41 @@ tail attack, in which case it will have to select a single one of its
 available tail attacks in each hand-to-hand phase). If the model hit
 by the tail is immune to poison, the Strength of the hit is reduced to
 2.
+
 56 Skull Face*: The flesh of the mutant's face dissolves, leaving a
-skull. The mutant now causes fear.
+skull. The mutant now causes fear. They may no longer search for
+rare items between games.
+
 61 Spines*: Any model in base contact with the mutant suffers an
 automatic Strength 1 hit at the beginning of each close combat
-phase. Spines will never cause critical hits.
+phase. 
+
 62 Stunted: The mutant's body becomes hunchbacked and stiffened.
 Reduce the mutant's Movement and Initiative by -1.
+
 63 Suckers*: The mutant's limbs are covered in adhesive suckers.
 The mutant automatically passes Initiative tests when climbing.
+
 64 Tentacle*: One of the mutant's arms ends in a tentacle. He may
 grapple his opponent in close combat to reduce his attacks by -1,
 down to a minimum of 1. The mutant may decide which attack his
 opponent loses.
+
 65 Warts: The mutant is covered in repellent warts. The mutant's
 profile is unaffected.
-66 Wings*: The mutant grows a pair of feathered or bat-like wings.
-The wings are not strong enough to allow the mutant to fly in the
-proper sense, but they do allow the mutant to glide down from an
-elevated position. If the mutant is above the table-top surface (on a
-roof, walkway, etc.) it may glide down at a rate of 2" horizontally
-for each inch of downward vertical movement.
 
-#### A Visit to the Apothecary
+66 Misshapen Wings*: The mutant gains the Fly special rule, though 
+their cumbersome size and awkward shape the frame of a Mutant never
+intended to have wings means that they may not run, and do not double
+their movement when charging.
 
-Each warrior may only attempt to get treatment for one injury at a time, and only one attempt at treatment per Hero may be made during each post battle sequence. The cost for treatment will vary from location to location per attempt (one attempt = one roll on the table), and this money must be paid before rolling on the table – Mordheim physicians demand payment in advance, while the patient is still capable of doing so! When you visit an Apothecary you may add +1 to find the drugs or potions that you are looking for. 
+# Visiting the Apothecary
 
-Necromancers often visit the surgeon looking for body parts and bodies for their creations and zombies. A necromancer may stop by the surgeon to find bodies for zombies and reanimate them. Roll a d6 if you roll a 6 you may add a zombie to your warband at 1/2 the cost. 
+As Warriors accumulate wounds and injuries the need to treat those more complex conditions can become more acute. The basic medical knowledge of field-doctors is essential to keeping Warband members alive, but it is insufficient for treating the more complex maladies that Warriors will inevitably accrue. Most warbands will not suffer an invalid among their ranks and will quickly dismiss them (if they're lucky!), but should a warband feel charitable (or more likely, should the injured Warrior be worth preserving) then there are opportunistic, if somewhat insane, doctors who make Mordheim their home. Each warrior may only attempt to get treatment for one injury at a time, and only one attempt at treatment per Hero may be made during each post battle sequence. Doctors are well aware that their prices will vary based on the value of the person whose life they intend to save, and so will charge gold equal to double the Hero's experience, plus 20 if they are Monstrous. If a Monster requires treatment the cost is a flat 100 gold.
 
-The following injuries cannot be treated: Chest Wound, Blinded in One Eye, and Old Battle Wound. They are permanent damage the afflicted warrior will carry to his grave. 
-The following injuries use the Limb Surgery table: Leg
-Wound, Smashed Leg, and Hand Injury.
+The following injuries use the Surgery table: Leg Wound, Smashed Leg, Chest Wound, Blinded in One Eye, Old Battle Wound, Hand Injury.
 
-The following injuries use the Brain Surgery table: _Madness_ and _Nervous Condition_.
+The following injuries use the Brain Surgery table: Madness, Nervous Condition
 
 ####### Surgery table
 
@@ -755,7 +727,7 @@ The surgeon has felt the need to amputate, ostensibly to
 ‘keep the rot out’. If a leg was being treated, the model now
 has its Movement halved (rounding up); if a hand was being
 treated, the warrior may only use a single-handed weapon
-from now on.
+from now on. The missing limb cannot be found for some reason.
 
 ######## 5-6 ‘Sorry, lad!' Done my best!’
 The surgery was unsuccessful, and the warrior must miss the
@@ -773,8 +745,11 @@ however, miss the next battle while he recovers.
 The surgery was a complete success! The warrior may
 remove the injury and its adverse effects from his profile
 
+
+
 ####### Brain Surgery table
 2D6 Result
+
 
 ######## 2-3 ‘Someone fetch a priest!’
 The physician has been a bit too zealous in his treatment.
