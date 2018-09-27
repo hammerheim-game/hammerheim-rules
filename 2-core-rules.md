@@ -657,7 +657,11 @@ The dice roll needed to score a hit on your enemy depends upon the Weapon Skills
 
 ##### Fighting with two weapons
 
-Some maniac warriors carry two weapons, one in each hand, so they can rain a flurry of blows on their enemies. A warrior armed with two one-handed weapons may make 1 extra Attack with the additional weapon though will suffer -1 WS to compensate for the difficulty in making precision blows while flailing wildly. Note that this is added to the total of the warrior's attacks after other modifiers, such as frenzy, have been applied. If he is armed with two different weapons (sword and dagger, for example), he will make a single attack with whichever weapon he chooses, and all others with the remaining weapon. Roll to hit and wound for each weapon separately. 
+Some maniac warriors carry two weapons, one in each hand, so they can rain a flurry of blows on their enemies. A warrior armed with two one-handed weapons must make 1 extra Attack with the additional weapon though will suffer -1 WS to all attacks compensate for the difficulty in making precision blows while flailing wildly. If they are armed with two different weapons (sword and dagger, for example), they will make a single attack with whichever weapon they choose, and all others with the remaining weapon. Roll to hit and wound for each weapon separately. 
+
+#### Multiple loadouts
+
+Some warriors arrive to battle prepared for every situation, weighing themselves down with a halberd, a shield, a backup axe, a backup-backup axe, and a brace of pistols etc. While this allows them versatility when picking fights it is impossible in practice to switch weapons in and out in the middle of combat, fiddling with shieldstraps while fighting for your life simply isn't practical! Once in combat a Warrior may not change what weapons they use, if they begin a combat using an axe and shield they will continue to fight with it until the combat ends. For Warriors using multiple loadouts it is worth using some sort of token so that players know what weapons they are using.
 
 #### Weapon modifiers
 
@@ -688,12 +692,12 @@ The higher a creature's Strength the more easily it can pierce armor. The follow
 | Strength | Save modifier |
 | :-: | :-: |
 | 1-3 | None |
-| 4 | - |
-| 5 | - |
-| 6 | - |
-| 7 | - |
-| 8 | - |
-| 9+ | - |
+| 4 | -1 |
+| 5 | -2 |
+| 6 | -3 |
+| 7 | -4 |
+| 8 | -5 |
+| 9+ | -6 |
 
 Some weapons also confer a bonus to the user's Strength, making it more likely that any hits will pierce the opponent's armor. These bonuses are given in the Weapons & Armor section.
 
