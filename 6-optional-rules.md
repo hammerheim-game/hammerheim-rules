@@ -28,7 +28,7 @@ Roll D66
 
 #### 11. Ogre Mercenary
 
-An Ogre Mercenary (see the Hired Swords section of the Mordheim rules for details on the Ogre Mercenary) appears further down the street. Sensing trouble brewing, he decides to seize the opportunity and offer his services to the warband with the lowest warband rating (if there are two warbands with the same rating, roll a dice to see whom he offers his help to). The warband that he offers to help must add the Hired Sword to its roster for this game. At the end of the game, the Ogre demands payment for services rendered. The warband that he joined must pay his hire and upkeep fee. If the warband cannot (or will not) pay him, he leaves, but not before taking out his frustration on a random member of the warband (only roll among members of the warband who were not taken out of action during the game). Roll for injuries to this unfortunate member just as if he had been taken out of action. 
+An Ogre Mercenary (see the Ostlander section of the Mordheim rules for stats, equipped with a Two-handed Weapon) appears further down the street. Sensing trouble brewing he decides to seize the opportunity to offer his services to the Encountering Player's warband! The warband that he 'offers' to help gains control of the Ogre for the rest of the game, though he does not count as being a member of your warband for the purposes of warband size or rout tests. At the end of the game the Ogre demands payment for services rendered. The warband that he joined must pay a total of 80g. If the warband cannot (or will not) pay him, he leaves, but not before taking out his frustration on a random member of the warband (only roll among members of the warband who were not taken out of action during the game). Roll for injuries to this unfortunate member just as if he had been taken out of action. If the warband did pay the Ogre they may keep him on as a henchman who will gain experience in the usual way, though will demand a further 20g BEFORE each battle and his equipment may not be sold. If the owning player fails to pay the Ogre before a battle he will leave the warband at no further penalty.
 
 \page
 
@@ -193,7 +193,7 @@ from their exposure to the lightning.
 
 #### 45. Pit Fighter
 
-This encounter is identical to the Ogre Mercenary encounter before, except the Hired Sword encountered is a Pit Fighter, not an Ogre Mercenary. 
+This encounter is identical to the Ogre Mercenary encounter before, except the Hired Sword encountered is a Pit Fighter. He has the statline of a Pit King from the Pit Fighter warband and is equipped with a Morningstar, Helmet, and Shield. He has the same fee.
 
 #### 46. Plague of Flies
 
