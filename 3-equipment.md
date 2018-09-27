@@ -653,8 +653,7 @@ made with double or more its own Strength – they are simply
 too powerful to be stopped.
 Contagion: Each blow of the plague sword carries with it a
 host of diseases and pestilence. Every successful hit with the
-plague sword causes two wounds. Armor saves may be
-applied as normal.
+plague sword allows two 'To Wound' rolls rather than just one.
 ### Punisher Whip
 
 Punisher whips are used by the Pack Masters of Clan Moulder to
@@ -959,9 +958,8 @@ the highest 'to hit' of your opponent, you have parried the
 attack and the blow is wasted.
 Trap Blade: Whenever you make a successful parry attempt
 roll a D6. If you score a 4+, you break the weapon your
-opponent was using. The weapon is now useless and they
-must use another one, or if they have no other weapon, resort
-to unarmed combat.
+opponent was using. The weapon is removed from the characters
+inventory permamently. Magical Weapons may not be broken.
 
 ### Weeping Blades
 
@@ -1423,10 +1421,9 @@ so your model may only fire every other turn.
 ## Missile Weapon Upgrades
 
 ### Black Arrow
-
-One shot, non recoverable item. Anyone wounded by the
-Arrow is immediately put Out of Action regardless of
-remaining wounds. Strength as Bow used to fire it.
+(One Use Per Battle)
+Any Infantry, Cavalry, or War Beast that is successfully wounded by the Black Arrow is immediately put Out of Action regardless of
+remaining wounds. May not be combined with Quick Shot or Multiple Shots.
 
 ### Composite / Compound
 
@@ -1447,8 +1444,7 @@ equipment alight. If you hit with a fire arrow roll a D6. If you
 score a 4+ your opponent has been set on fire. If the warrior
 
 survives the attack they must score a 4+ in the Recovery
-phase or suffer a Strength 4 hit each turn they are on fire and
-will be unable to do anything other then move. Other warriors
+phase or suffer a Strength 4 hit each turn they are on fire. Other warriors
 from the same warband may help to put the flames out if they
 wish. They must move into base-to-base contact and score a
 4+ in the Recovery phase.
@@ -1656,8 +1652,8 @@ general service. It is essentially a blunderbuss with a shorter, even
 more flared barrel that has been modified to shoot premade
 cartridges. What it lacks in range it makes up for in accuracy, and is
 particularly useful in cramped city fighting.
-Range: 12"
-Strength: 3
+Range: 8"
+Strength: 4
 Special Rule: Armor Piercing, Blast, Prepare Shot
 Special Rules
 Armor Piercing: Being a black powder weapon, the Nuln
@@ -1953,8 +1949,10 @@ Pistols, Handguns, Hochland long rifles, & Nuln Shotgun.
 
 Heavier Ammunition is a special round; it may use Nickel or some
 other heaver metal for the shot.
-Heavier Ammunition increases the strength of one rifle shot
-by 1. Heavy shot may only be used once.
+Heavier Ammunition increases the strength of any one blackpowder
+weapon by 1 for one shot. Heavy shot may only be used once, but may
+be used on War Machines.
+
 ### Modified Gunsight
 
 Gunsmiths are known for their innovative approach to battlefield
@@ -1978,7 +1976,8 @@ black powder weapon, and last for a single game.
 The model has acquired a better quality of blackpowder than
 is normally available. This new batch adds +1 Strength to all
 blackpowder weapons that the model has. There is enough
-superior blackpowder to last for one game.
+superior blackpowder to last for one game. May not be applied
+to War Machines.
 
 
 ## Armor & Clothing
@@ -2020,6 +2019,8 @@ tremendously durable to survive the brutal blows of hand-to-hand
 combat. Using a buckler requires great skill, but a nimble warrior
 can protect himself from blows which would otherwise cripple him.
 Special Rules
+Save: Lighter than a regular shield, the buckler does still provide
+some degree of protection. It provides a 6+ armour save.
 Parry: A model equipped with a buckler may parry the first
 blow in each round of hand-to-hand combat. When his
 opponent scores a hit, a model with a buckler may roll 1D6.
@@ -2197,8 +2198,7 @@ protection.
 [Dark Elves Only]
 Special Rules
 Scales: the model wearing a Sea Dragon Cloak will gain +2
-to his armor saves in close combat and a 4+ armor save
-against all missiles attacks.
+to his armor saves.
 
 
 
@@ -2216,6 +2216,9 @@ triangular, and carries the emblem of the province or city of its
 owner.
 Special Rules
 Save: A model with a shield has a basic save of 6 on a D6.
+Sword & Board: A model using a shield and either a Club, Axe, Dagger,
+ or Sword can combine the two for even better defense due to their weapon's
+ease of use. The Warrior gains an even better save of 5+.
 
 ### Toughened Leathers
 
@@ -2230,8 +2233,6 @@ wearer a 6+ Armor save, but cannot be combined with the
 effects of any other armor except a helmet or buckler.
 Toughened leathers cannot be sold back at the Trading Posts;
 the stench alone is enough to drive away even the most
-
-## desperate of buyers!
 
 ### Wolfcloak
 
@@ -2254,20 +2255,14 @@ armor saves against all shooting attacks.
 
 ### Miscellaneous equipment
 
-This section covers all the strange and unusual equipment your warriors can find in the ruins or buy from the
-merchants and pedlars in the settlements and villages around Mordheim.
-Only Heroes may buy and carry the equipment described in this section. You may not give it to Henchmen unless the
-rules specifically say so.
+This section covers all the strange and unusual equipment your warriors can find in the ruins or buy from the merchants and pedlars in the settlements and villages around Mordheim. If an item has the "_(One Use Per Battle)_" special rule then the item may only be used once per battle and their effects last only for one turn. The Warrior will then freely replenish their stock after the battle, as the cost of purchasing the item is essentially training the Warrior in how to acquire it for themselves.
 
 ## Alcohol, Drugs, Poisons & Potions
 
-The use of poison is almost universally abhorred, but in the ruthless and brutal battles fought in Mordheim, desperate warbands often resort
-to the use of envenomed blades.
-Poison may not be used with blackpowder weapons. When you buy a vial of poison, there is always only enough to last the duration of one
-battle. You can only poison a single weapon with one vial of poison.
+The use of poison is almost universally abhorred, but in the ruthless and brutal battles fought in Mordheim, desperate warbands often resort to the use of envenomed blades. Poison may not be used with blackpowder weapons. A Weapon may not have more than one type of poison on it at once, though Warriors may carry multiple vials of poison to last them longer. 
 
 ### Black Lotus
-
+_(One Use Per Battle)_
 In the deepest forests of the Southlands grows a plant that is
 extremely poisonous. It is known as Black Lotus and is much sought
 after by alchemists, assassins, wizards of the Western Coast and
@@ -2282,8 +2277,9 @@ roll a 6, you will inflict a critical hit with that roll. If you do
 not roll a 6, you will cause a normal wound. Take armor
 saves as normal.
 
-### Blessed Water
 
+### Blessed Water
+_(One Use Per Battle)_
 The priests of Ulric, Sigmar, Morr and Manann hold great power
 over evil. Pure water from a clear fountain, blessed by one of these
 priests, is said to burn things of darkness and evil.
@@ -2295,7 +2291,7 @@ in inches. Roll to hit using the model’s BS. No modifiers for
 range or moving apply. Blessed water causes 1 wound on
 Undead, Daemon or Possessed models automatically. There
 is no armor save. Undead or Possessed models may not use
-blessed water.
+blessed water. There is enough Blessed Water to last for one game.
 
 ### Bugman’s Ale
 
@@ -2303,28 +2299,27 @@ Of all the Dwarf brewmasters, Josef Bugman is the most famous.
 His ale is known throughout the Old World, and widely regarded as
 the best.
 A warband that drinks a barrel of Bugman’s before a battle
-will be immune to fear for the whole of the battle. Elves may
+will be immune to psychology for the whole of the battle. Elves may
 not drink Bugman’s ale as they are far too delicate to cope
 with its effects. There is only enough ale to supply the
 warband for one battle.
 
 ### Crimson Shade
-
+_(One Use Per Battle)_
 Crimson Shade is the name given by Old Worlders to the
 leaves of the blood oak of Estalia. It is an extremely addictive
-drug, but grants its users inhuman quickness and strength.
+drug, but grants its users inhuman quickness and strength for a brief period.
 Effect: A model using Crimson Shade has his Initiative
-increased by +D3 points, and Movement and Strength by +1
-(this effect lasts for one game). Crimson Shade has no effect
+increased by +D3 points, and Movement and Strength by +1. Crimson Shade has no effect
 on Undead such as Vampires and Zombies, or the Possessed.
-Side Effects: After the battle, roll 2D6. On a roll of 2-3, the
-model becomes addicted and you must try to buy him a new
-batch of Crimson Shade before every battle from now on. If
-you fail to buy any, he will leave your warband. On a roll of
+Side Effects: After the battle, roll 2D6. On a roll of 2-4, the
+model becomes addicted and requires ever stronger fixes. The Warrior gains an
+additional upkeep cost of 15 gold per game, an effect that may stack. If
+you fail to fund their increasingly expensive habit, they will leave your warband. On a roll of
 12 the model’s Initiative is increased permanently by +1.
 
 ### Dark Venom
-
+_(One Use Per Battle)_
 This is a poison extracted from Heldrakes, gigantic sea serpents that
 plague the Western Ocean and the coast of Naggaroth. The slightest
 wound infected by Dark Venom causes excruciating pain,
@@ -2334,9 +2329,8 @@ of Sigmar]
 Any hit caused by a weapon coated with Dark Venom counts
 as having +1 Strength, so, for example, if a warrior with
 Strength 3 wielding a poisoned sword hits an opponent, he
-will cause a Strength 4 hit instead. Armor saving throws are
-modified to take into account the increased Strength of the
-attack.
+will cause a Strength 4 hit instead.
+
 ### Elven Wine
 
 [Shadow Warriors Only, one use only]
@@ -2345,7 +2339,9 @@ and some are even rumoured to have magical qualities. A fine
 Elven Wine can cast out doubt and fear and leave a general
 feeling of well-being in a warrior. A Shadow Warrior
 Warband that drinks Elven Wine before a battle will be
-immune to Fear for the whole of the battle.
+Unbreakable for the whole of the battle. There is only enough wine
+to supply the warband for one battle.
+
 ### Garlic
 
 [May not be bought by Undead]
@@ -2356,7 +2352,7 @@ unable to charge a model carrying a clove of garlic. Garlic
 lasts for the duration of one battle only, whether it is used or
 not.
 ### Healing Herbs
-
+_(One Use Per Battle)_
 Certain plants that grow on the banks of the River Stir have
 curative properties. Herbalists collect their roots and leaves
 and use them to treat the sick and wounded. A Hero with
@@ -2367,7 +2363,7 @@ during the game. Amazon Warriors are master herbalists and
 may buy Healing Herbs as common items, instead of rare
 items, for 35 GC.
 ### Healing Potion
-
+_(One Use Per Battle)_
 May be used during the battle or after
 ● Effect - During Game: Restore 1 lost wound
 ● Effect - After Game: Model ignores all results on Serious
@@ -2375,21 +2371,18 @@ injury Chart except for Dead, Captured or Full Recovery.
 
 
 ### Liquor Flask
-
-May be used in the recovery phase. If used, owner is immune
-to fear until his next recovery phase. Two uses each game,
-refilled for 5 gold crowns. Available to any hero who can use
-equipment, doesn't work on any hero immune to poison.
+_(One Use Per Battle)_
+When drunk the user becomes Immune to Psychology. Doesn't work on any hero immune to poison.
 
 ### Mad Cap Mushrooms
-
+_(One Use Per Battle)_
 The feared cult of Goblin Fanatics of the Worlds Edge
 Mountains use these hallucinogenic mushrooms to drive
 themselves into a frenzied state.
 ● Effect: Any warrior who takes Mad Cap Mushrooms before
 a battle will be subject to frenzy. The Mad Cap Mushroom
 has no effect on Undead such as Vampires and Zombies, or
-the Possessed.
+the Possessed. The effect lasts for the rest of the battle.
 ● Side Effect: After the battle, roll a D6. On a roll of a 1 the
 model becomes permanently stupid.
 ● Orcs & Goblins Hordes: May consider them a common
@@ -2398,11 +2391,10 @@ Goblins, as they are a necessity for someone wishing to wield
 a ball and chain. Fortunately for Orc warbands, Mad Cap
 Mushrooms are cultivated by the Night Goblins of the
 Worlds Edge Mountains, and they are much more willing to
-trade these to other Goblins. A Goblin may take his
-mushrooms at the start of any turn.
+trade these to other Goblins. 
 
 ### Mandrake Root
-
+_(One Use Per Battle)_
 The man-shaped Mandrake Root grows in the rotting swamps
 of Sylvania. It is a noxious, deadly plant which is highly
 addictive and slowly kills its users, but also allows them to
@@ -2413,52 +2405,38 @@ battle and he treats all stunned results as knocked down
 instead. Mandrake Root has no effect on Undead, such as
 Vampires and Zombies, or on the Possessed.
 ● Side Effects: Mandrake Root is highly poisonous. At the
-end of the battle, roll 2D6. On a roll of 2-3 the model loses 1
+end of the battle, roll 2D6. On a roll of 2-4 the model loses 1
 point of Toughness permanently.
 
 ### Potion of Strength
-
+_(One Use Per Battle)_
 ● Effect: The Potion adds +D3 to strength
-● Duration: A leadership test recovery phase to see if the
-Potion’s effects wear off.
+
 
 ### Speed Potion
+_(One Use Per Battle)_
+Clear blue flasks of Quicksilver Elixir are a unique sale in Mordheim and have become favourite items of thieves, rogues, assassins, or paranoid nobles for whom a quick getaway is paramount. These potions allow a user to push their body past its normal limits, though at the cost of great exhaustion.
+● Effect: The Potion grants +2 Movement, +2 Initiative, but -1 Toughness.
 
-On the Turn the potion is taken roll to find out what happens:
-D6 Result
-
-1 unaffected
-2 - 3 M and I increase by D3
-4 - 5 I and M increase by 3, but T is at -1
-6 I and WS increase by D6, BS and M by D3
-● Duration: Roll a D6 each recovery phase, if equal to or less
-then the Toughness the effects last for another turn, when the
-Potion wears off he goes down for a turn, after that treat as
-normal.
 
 ### Spider’s Poison
-
+_(One Use Per Battle)_
 Forest Goblins commonly jab their weapon points into the
 bodies of giant spiders in hopes of coating them with deadly
-poison. Once this poison is bought, it is applied to one
-weapon, and may not be traded or sold later on. The weapon
-
-in question, once poisoned, adds +1 to any injury rolls from
-then on.
+neurotoxin. A weapon coated in Spider's Poison gains +1 to injury rolls.
 ● Common: Forest Goblins may consider Spider’s Poison as
 a common item that cost 25 gold crowns.
-### Tears of Shallaya
 
-[Not available to Possessed or Undead.]
+### Tears of Shallaya
+_(One Use Per Battle)_
+[Lawful or Lawful/Neutral Humans only.]
 Tears of Shallaya are vials of water from the holy spring in
 Couronne. Shallaya is the goddess of healing and mercy and
 it is said that this water has curative properties and is proof
 against any poison. A model who drinks a vial of the Tears of
 Shallaya at the beginning of a battle will be completely
-immune to all poisons for the duration of combat. Undead
-and Possessed warriors may not use the Tears of Shallaya.
-There is enough liquid in a vial of the Tears of Shallaya to
-last for the duration of one battle.
+immune to all poisons. Undead and Possessed warriors may not use the Tears of Shallaya.
+
 ### Vial of Pestilens
 
 This small crystal vial contains an extremely potent and rapid
@@ -2473,9 +2451,10 @@ opponent must roll equal to or under its Toughness or
 automatically be taken Out of Action, no save is allowed. If
 the opponent succumbs to the disease, he didn’t manage to go
 through with the attack and the Skaven is only Stunned not
-Out of Action. The vial may be used once.
+Out of Action. The vial may be used once, then it is removed from your
+equipment.
 ### Vodka
-
+_(One Use Per Battle)_
 [Kislevite Heroes Only]
 Kislevites live in a harsh land under constant threat of
 invasion. While this has instilled a seriousness in these
@@ -2494,14 +2473,14 @@ the long winter months and warriors indulge both for luck
 and courage. Outsiders often scoff at the reputed properties of
 this liquor, but it must be said that a Kislevite army that is
 well supplied with vodka certainly fights better and in higher
-spirits than one without. In game terms, vodka is a one-use
-item of equipment that a Kislevite Hero may give to the
-warband before the start of the game. Every warrior in the
+spirits than one without. In game terms a Kislevite Hero may give 
+Vodka to the warband before the start of the game. Every warrior in the
 warband receives +1 Leadership (up to a maximum of 10) for
 that game. In addition because of its nullifying alcoholic
 effects every warband member must test against their
 Toughness before the start of the game – a failure resulting in
--1 Initiative for the duration of the game.
+-1 Initiative for the duration of the game. Any amount of vodka may
+be used in this way for stacking effects.
 
 
 ## Banners
@@ -2519,12 +2498,7 @@ remember you can’t re-roll a failed re-roll.
 ### Clan Pestilens Banner
 
 [Skaven, Clan Pestilens Only]
-A model within 12'' of the standard bearer of the band,
-usually a Plague Monk or a Monk Initiate, may reroll once
-every failed All Alone test. The staff of the Clan Pestilens
-banner counts as a two-handed weapon. A warband may have
-a single Clan Pestilens banner at any one time. (Clan
-Pestilens members use this item instead of the normal
+Any Clan Pestilens model within 12'' of the standard bearer of the band may re-roll failed Initiative tests. The staff of the Clan Pestilens banner counts as a two-handed weapon. A warband may only have one Clan Pestilens Banner at any one time.
 Banner).
 
 ### Standard of Nagarythe
@@ -2569,24 +2543,24 @@ reputed to have magical powers.
 [Kislevite Heroes Only]
 A warrior wearing a bear-claw necklace receives some of the
 strength and wild ferocity of the bear it came from. A warrior
-wearing a bear-claw necklace becomes subject to Frenzy.
+wearing a bear-claw necklace becomes subject to Frenzy and gains +1 Strength.
 
 ### Lucky Charm
-
+(One per Warband)
 These take many shapes, but the most common are symbolic
 hammers that a pious Sigmarite Priest has touched, or carved
 heads of ancient Dwarf gods. The first time a model with a
 lucky charm is hit in a battle they roll a D6. On a 4+ the hit is
-discarded and no damage is suffered. Warbands may not contain more than one Lucky Charm.
+discarded and no damage is suffered. 
 
 ### Rabbit's Foot
-
+(One per Warband)
 The rabbit's foot is a symbol of good luck and often worn
 about the neck on a thin cord of leather by superstitious
 warriors. A rabbit's foot allows the warrior wearing it to re-
 roll one dice during the battle. If not used in the battle, it can
 be used to re-roll one dice during the Exploration phase,
-providing the hero is able to search through the ruins. Warbands may not contain more than one Rabbit's Foot.
+providing the hero is able to search through the ruins. 
 
 ### Red Toof Tribal Jewellery
 
@@ -2596,22 +2570,16 @@ of this cadre of warriors. Once inducted to the tribe, the
 warrior undertakes excessive body piercing! This cannot be
 removed. The model will now be subject to the rules for
 Frenzy as described in the rulebook.
+
 ### Tarot Cards
 
 [Not available to Witch Hunters or Sisters of Sigmar]
 Though declared blasphemous and illegal by the Grand
 Theogonist, the Tarot of Stars is said to foretell the future for
-those who dare to consult it.
+those who dare to consult it. This future almost always fortells the death of the reader funnily enough.
 SPECIAL RULE
 A Hero with a deck of tarot cards may consult them before
-each game. Make a Leadership test. If successful, the Hero
-gains a favourable insight into the future and you may modify
-the result of any one dice in the Exploration phase by -1/+1
-(even if the Hero with the cards is taken Out Of Action). If
-the Leadership test is failed by three or more (i.e., a Hero
-with Ld of 8 rolls 11 or 12) the cards show a portent of doom
-and despair and the Hero refuses to fight in the following
-battle and must miss the next game.
+each game. Make a Leadership test. If successful, the Hero may ignore the first Out of Action injury rolled against them (instead being Knocked Down). If multiple Out of Action rolls happen at once the Cards are useless, no amount or prophecising will help a Warrior plan around that sort of damage. If failed the Warrior is so spooked by the prophecising of their own demise that they will not attend the battle.
 
 
 ### Warpstone Amulet
@@ -2623,31 +2591,24 @@ game, a single die when looking for wyrdstone shards.
 
 ### Wyrdstone Pendulum
 
-Pendulums made of wyrdstone can reputedly be used to find
-even more of the magical stone.
+[Skaven Heroes Only]
+Pendulums made of wyrdstone can reputedly be used to magnetise Wyrdstone, sucking nearby shards in and clamping them against the Pendulum. This makes them excellent getting at shards in those 'hard to reach' places, such as the pockets of a rival.
 Special Rules
-If he was not taken out, the Hero using the Wyrdstone
-Pendulum may make a Leadership test after the battle. If he is
-successful, you may re-roll any one dice in the Exploration
-phase.
+A hero with a Wyrdstone Pendulum may pick up any Wyrdstone within 2" as if they had moved into contact with it, even if it is currently being held by another model (including allies).
 
 ## Magic, Books & Scrolls
 
 ### Book of the Dead
 
-This is a book that contains transcripts from the Famous
-books of Nagash, the Great Necromancer. A Model can learn
-Necromantic Magic with Arcane Lore skill and this book. A
-Necromancer will gain a new spell permanently.
+Functions in the same way as a Tome of Magic, but whoever reads it will learn spells from the Vampire Counts book.
 
 ### Dispel Scroll
-
+_(One Use Per Battle)_
 This scroll contains a powerful counter-spell. It may be read
 aloud immediately after an opponent has successfully cast a
 spell (but before results have been determined) to negate its
 effects. When used roll a D6. The enemy spell is cancelled on
-a roll of 4 or more. After one use, the scroll will disintegrate
-and is useless.
+a roll of 4 or more.
 
 ### Elven Runestones
 
@@ -2665,14 +2626,10 @@ succeeds, the spell fails to work. If the roll fails, the spell
 works normally.
 
 ### Halfling Cookbook
-
+(Halflings Only)
 All Halfling chefs have their own secret recipes, and these are
 recorded in tomes handwritten in Mootland, the home country of the
-Halflings. Food prepared according to these recipes will attract
-warriors during these lean times.
-The maximum number of warriors allowed in your warband
-is increased by +1 (note that neither an Undead warband nor
-a Carnival of Chaos warband can use this item).
+Halflings. So famous are some of these books that adventurous Halflings will venture even into places as dangerous as Mordheim to sample these recipes. A warband with a Halfling Cookbook pays 1 gold less when hiring new Halflings, and may own any number of Halfling Cookbooks (though the cost of new Halflings may never go negative. Even Halflings aren't crazy enough to pay people to get them killed)
 
 ### Hammer of Witches
 
@@ -2681,10 +2638,9 @@ The pages in this tome describe the servants of Chaos, witches,
 heretics, deviants, mutants, warlocks, blasphemers, necromancers,
 sinners and other enemies of Sigmar in all their foulness.
 Special Rules
+A Hero with the Hammer of Witches will re-roll all failed To Wound rolls against
+Undead, Demons, Possessed, and spellcasters.
 
-A Hero with the Hammer of Witches will hate all Possessed,
-Skaven, Beastmen, Chaos, Daemons, Dark Elf, Orc &
-Goblins and Sigmarite Sisters.
 ### Holy (Unholy) Relic
 
 In this age of superstition and religious fanaticism, holy objects are
@@ -2700,6 +2656,7 @@ Rout test if he has not taken any Leadership tests before.
 You can only ignore the first Leadership test in any single
 game – owning two or more holy relics will not allow you to
 ignore second and subsequent tests.
+
 ### Holy Tome
 
 Books of prayers and descriptions of the holy deeds of religious
@@ -2711,25 +2668,12 @@ to those who follow the faith. A holy man can recite his prayers from
 such a book, strengthening his faith and belief.
 [Warrior-Priests & Sisters of Sigmar Only]
 A Warrior Priest or Sister of Sigmar with a holy tome can
-add +1 to the score when determining whether he (or she) can
+add +2 to the score when determining whether he (or she) can
 recite a spell successfully or not.
+
 ### Liber Bubonicus
 
-[Skaven, Clan Pestilens Only]
-If a Clan Pestilens warband includes a Pestilens Sorcerer, he
-may use the Liber Bubonicus to permanently learn an
-additional spell randomly chosen from the Horned Rat spell
-list. A Plague Priest may use the Liber Bubonicus to learn the
-Horned Rat magic if he has the Magical Aptitude skill: that
-means he would gain the special rule "Spellcaster: is a
-spellcaster and may cast spells from the Horned Rat spell
-list." and permanently learn a randomly chosen spell from the
-Horned Rat spell list. The Liber Bubonicus may be used a
-single time, and a warband cannot have and use more than
-
-
-one Liber Bubonicus in a given campaign (Clan Pestilens
-members use this item instead of the Tome of Magic).
+Functions as a Tome of Magic, but the reader learns Spells of Clan Pestilens from the Skaven book.
 
 ### Liturgicus Infecticus
 
@@ -2742,6 +2686,7 @@ taking a Route Test, the warband may chant the Liturgicus
 Infecticus, and benefit of a +1 Leadership bonus until the end
 of the turn. (Clan Pestilens members use this item instead of
 the War horn).
+
 ### Magic Gugginz
 
 [Greenskins Only]
@@ -2751,6 +2696,7 @@ but still seem to provide benefits to their owner. The Shaman
 may re-roll a failed magic test on a D6 roll of 4+.
 ● Rare: Greenskins may consider Magic Gugginz as a Rare
 9.
+
 ### Mordheim Map
 
 Some survivors of the cataclysm still remain in the many settlements
@@ -2799,6 +2745,7 @@ sorcerer dies, his Rat Familiar turns back to Giant Rat form.
 
 (Clan Pestilens members use this item instead of the normal
 Familiar).
+
 ### Tome of Magic
 
 [Not available to Witch Hunters or Sisters of Sigmar]
@@ -2811,7 +2758,7 @@ tomes but may not increase their wizard level above 4.
 
 ## Musical Instruments
 
-A musician must have an instrument to play so he can sing songs, tell tales and make hideous noises.
+A musician must have an instrument to play so he can sing songs, tell tales and make hideous noises. A Musician may not have more than one instrument (they tend not to live long enough to become one-man bands).
 
 ### Drum
 
@@ -2819,12 +2766,13 @@ A musician must have an instrument to play so he can sing songs, tell tales and 
 These are barrels with a tanned hide stretched over them to make
 the sound.
 The mallet may be used as a club and the drum as a shield.
+Grants a further +1 Movement when using the Marching Tune skill.
 
 ### Flute
 
 [Musician only]
 These are made of wood or bone.
-They add +1 to your leadership roll.
+Allied Warriors within 6" of a Musician using a Flute (including the Musician themselves) gain +1 Leadership.
 
 ### Lyre
 
@@ -2853,7 +2801,7 @@ Nagarythe are the same as for a normal War Horn.
 ## Explosives
 
 ### Fire Bomb
-
+_(One Use Per Battle)_
 Designed by the dwarf engineers of the Worlds Edge
 Mountains, fire bombs are a rare and deadly weapon. A small
 batch of gunpowder is sealed within an iron casting with a
@@ -2864,95 +2812,58 @@ it could be the thrower who finds himself amidst the
 explosion... The fire bomb may be thrown in the Shooting
 phase in the same way as blessed water (p53 Mordheim
 rulebook). If the bomb lands on target, the warrior hit takes
-D3 Strength 4 hits with no saves for armor and all warriors,
+D3 Strength 4 Flaming hits with no saves for armor and all warriors,
 friend or foe, within 1” of him take 1 Strength 3 hit with
 saves as normal. If the throwing warrior rolls 1 when rolling
 to hit, the bomb misfires and explodes just as if the throwing
 warrior had been hit by his own fire bomb.
 
 ### Flash Powder
-
+_(One Use Per Battle)_
 An ancient Dwarf creation, flash powder is used in mines to
 illuminate darkened fissures in the search for gold and other
 precious minerals. In Mordheim, small bags of this substance
-can be used to blind enemies, throwing them into disarray as
-you launch your attack. Flash Powder can be thrown as and
-enemy charges the wielder (as an interrupt). The charger
-must take and immediate Initiative test in order to cover their
-eyes. If he fails, he is temporarily blinded and it counts as a
-failed charge. There is only enough flash powder for one use
-during the battle.
+can be used to blind enemies, throwing them into disarray as a panicked last resort.
+If the holder of Flash Powder is neither _incapacitated_ nor engaged in combat then they may 
+throw the Powder at a model that charges them as an interrupt. From where the charger began its charge the model with Powder may attempt to throw it as if they were shooting at the charger with a Thrown Weapon. If the charger was out of range or not in sight then the Powder may not be used, as the user simply wasn't expecting to be charged so abruptly! Should the user successfully hit the target the charge will fail, as if they had failed a leadership test to charge a Fear-causing opponent.
 
 ### Smoke Bombs
-
+_(One Use Per Battle)_
 When thrown these bags of powder explode with a small bang and
-release a cloud of smoke that obscures vision and confuses anyone
-caught within the explosion.
+release a cloud of dense smoke that obscures vision, enabling sneaky getaways or dastardly backstabbing.
 When a smoke bomb goes off it makes a column of smoke 2"
-wide that blocks line of sight for one turn. Any model caught
-in the smoke should make an Initiative test so you see if he
-can move to the right direction. Otherwise use a scatter dice
-(or similar) to see where he moves to. At the end of each turn
+wide and 4" high that blocks line of sight for one turn. At the end of each turn
 roll a D6.
 Dissipation chart
 D6 Result
-1 The smoke hasn't changed. Leave it in place at the
-same size.
-2 - 5 It shrinks half it size (when it get less than a haft
-inch the smoke dissipate).
-6 the wind catches it and blows it away
-Inside: If the smoke bomb goes off indoors (or in dwarven
-tunnels, Khemri tombs, etc) there wouldn't really be much
-breeze to blow it away and you would have to wait for it to
-dissipate so subtract one from all rolls on the dissipation
-chart.
+1-4: The smoke clears.
+5: The smoke moves D6" in a random direction. It will fall if this movement takes it off of a ledge etcetera, but it will not climb.
+6: The smoke stays put.
+
 
 
 ## Other Items
 
 ### Caltrops
-
-Original used on the battlefield to impede cavalry charges, a caltrop
-is a small spiked iron ball. In the City of the Damned, a pouch of
-these small items can be enough to deter any attacker who risks
-serious injury should they try to charge over them.
-There are enough caltrops to last for one use only. They may
-be used when an opponent decides to charge. The defender
-simply throws the caltrops into the path of his attacker and
-they reduce his charge range by D6 inches. If this means that
-the attacker cannot reach his target then it is a failed charge.
+_(One Use Per Battle)_
+A Warrior that uses Caltrops will for that turn cause any enemy that attempts to charge it to take a Dangerous Terrain test.
 
 ### Lantern
 
 A model that is in possession of a lantern may add +4" to the
-distance from which he is able to spot hidden enemies.
+distance from which he is able to spot hidden enemies, and gains +1 Initiative when attempting to do so.
 
 ### Lock Picks
 
-A standard piece of kit for less scrupulous characters. A set
-of lock picks may be used by those who rely more on skill-at-
-arms and speed of thought than brute strength to open doors
-that others have secured. A model equipped with a set of lock
-picks may make his test to open doors on his Initiative rather
-than his Strength characteristic if he wishes. This is done at
-the end of his Movement phase as if the model were ripping
-the door off its hinges, though he uses his Initiative rather
-than Strength, there is no -1 modifier, and there is no chance
-that the door is too damaged to be locked again later.
+A standard piece of kit for less scrupulous characters. A Warrior equipped with Lock Picks will never have to test to see if chests or crates are trapped. 
 
 ### Net
-
+_(One Use Per Battle)_
 Steel nets, such as those used by Pit Fighters, can be used in
-battles. Once per game, the net may be thrown in the shooting
+battles. A net may be thrown in the shooting
 phase instead of the model shooting a missile weapon. Treat
-the net as a missile weapon in all respects with a range of 8".
-Use the model’s BS to determine whether the net hits or not –
-there are no movement or range penalties. If it hits, the target
-must immediately roll a D6. If the result is equal to, or lower
-than his Strength, he rips the net apart. If the result is higher,
-he may not move, shoot or cast spells in his next turn,
-although he is not otherwise affected. In either case the net is
-lost.
+the net as a Thrown Weapon, rolling to hit as normal. If it hits, the target
+must immediately take a Strength test. If the test is passed the net has no effect, the target simply tears themselves free with little effort. If failed they may take not move, shoot, or cast spells in their following turn as they cut themselves free. Until their Recovery Phase they will also be reduced to Weapon Skill 1.
 
 ### Opulent Coach
 
@@ -2962,39 +2873,36 @@ weapons and armor and Cathayan spices. The height of such
 indulgence is an opulent coach, which the warband leader can use
 for driving around the settlements surrounding Mordheim. There
 are few things that will impress commoners, or incur the wrath and
-envy of other, less successful leaders, as much as an opulent coach.
+envy of other, less successful leaders, as much as an opulent coach - though quite what 'opulence' means will vary wildly from Warband to Warband. To a Goblin it may simply mean it is festooned with an extraordinarily large amount of random junk.
 Special Rules
 The opulent coach impresses even the most suspicious
 merchant and they will flock to offer their most exotic wares
 to the obviously rich warband leader. The warband leader
-gains +3 to any rolls to locate rare items.
+gains +3 to any rolls to locate rare items, and their Leadership range for the Leader ability becomes mapwide.
+A coach also functions as a Chariot with a potential crew size of 1, and may be drawn by whatever mount options are normally available to your warband (non-monstrous only, up to two). It has a Strength of 4, a Toughness of 5, and an Armour Save of 4+.
+
 ### Rope & Hook
 
 A warrior using a rope & hook will find it much easier to move
 amongst the ruins of Mordheim.
 A warrior equipped with a rope & hook may re-roll failed
 Initiative tests when climbing up and down.
+
 ### Telescope
 
 Common to the great astronomers in the observatories at
 Nuln, telescopes are a useful, if highly rare, item to have in
 the City of the Damned. The keen view offered by these
 instruments makes shooting easier and gives an unparalleled
-awareness of a warrior's surroundings. Any Hero using a
-telescope may increase the range of any missile weapon he is
-using by D6” each turn. Furthermore, he triples the distance
-at which he can spot hidden enemies.
-### Torch
+awareness of a warrior's surroundings. A Hero with a Telescope has no maximum range on their ranged weapons, though the distance for the purposes of "Long Range" penalties remains unchanged. Shooting beyond their weapon's conventional maximum range will confer an additional -1 to hit. Does not work on thrown weapons. Furthermore their Initiative is doubled for the purposes of attempting to spot hidden enemies.
 
-Warriors lacking the funds for a lantern may have to make do
-with torches. Torches act exactly as lanterns, adding +4" to
-the range the model may spot hidden enemies, but has a few
-other special rules as well. A torch will only last one game. A
-model armed with a torch counts as causing fear in animals
-(Hunting Dogs, all riding steeds, Bears, Wolves, etc), and
-may use a torch as a makeshift club. When used in combat, a
-torch is treated as a normal club, though with a -1 to hit
-modifier. Any models that have a Regeneration special rule
-(like Trolls) will not be able to regenerate wounds caused by
-a torch during the battle. (Torches may also cause buildings
-to catch fire.)
+### Torch
+_(One Use Per Battle)_
+Torches are long and durable rods the end of which is soaked in a dense tar of highly flammable material - be it a Wyrdstone-caked rag, a pitch-soaked strap, or dense and dripping Troll-wax. They are dangerous and cumbersome to use, but their ability to ward off foes and to detect hidden dangers makes them a global staple of any sentry or explorers.
+At the start of a battle Warriors with Torches must decide whether or not to use them. Once lit a torch is not so easily unlit, and are even more difficult to calmly put away - a Warrior with a lit torch may not fire ranged weapons and may only use a single-handed weapon or shield in their other hand for the rest of the game.
+Special Rules
+Scary: A model with a lit Torch causes Fear in all War Beasts and Cavalry.
+Still a Club: A Torch may be used as a Club in combat, and has the Flaming Attacks special rule - though will strike at -1 Strength.
+Sore Thumb: A Warrior with a Torch may never hide.
+Extremely Common: Any Henchmen may capable of equipping items may use a Torch.
+Bright: Enemy models may not hide within 4" of a model with a Torch.
