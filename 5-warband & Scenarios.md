@@ -10307,6 +10307,7 @@ hand combat, then before combat is fought they may take a Ld test. If the
 test is successful then the animal falls under their command. The animal then
 come under control of the Beastmaster's warband. Control of the animal is immediately
 lost if the Beastmaster either moves more than 8" away ir is _incapacitated_.
+
 #### Speed Skills
 
 Leap: The warrior may leap D6" in the movement phase in addition
@@ -10328,6 +10329,14 @@ rolls.
 
 Lightning Reflexes: The Warrior negates the 'strikes first' bonus of
 any model that charges them.
+
+Get Down Mister President!: Sometimes you've got to put your own life on
+the line to protect your leaders. Exactly how one would perform an Intercept
+to block a charging foe, a Warrior with this skill may perform an Intercept
+to move into the path of a missile or Magic Missile that would hit an ally.
+The Warrior must pass a Leadership test in order to perform this manouvre, but 
+if successful they will move into the path of the projectile and take the hit
+instead of the intended target. Damage is then resolved normally.
 
 Jump Up: The warrior can regain his footing in an instant,
 springing to his feet immediately if he is Knocked Down. The
