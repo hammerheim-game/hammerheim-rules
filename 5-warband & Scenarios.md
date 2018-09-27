@@ -253,7 +253,6 @@
 - Campaigns
     - Starting a campaign
     - Playing a campaign game
-    - Warband rating
     - Post battle sequence
     - Disbanding warbands
     - Death of a Warrior
@@ -266,7 +265,6 @@
 - Experience
     - Earning experience
     - Experience advances
-    - Underdogs
     - Advance rolls
         - Heroes
         - Henchmen
@@ -279,7 +277,6 @@
     - Academic Skills
     - Strength Skills
     - Speed Skills
-    - Alchemy Ability
     - Assassin Special Skills
     - Beastmen Raiders Special Skills
     - Blessings of Nurgle
@@ -292,9 +289,7 @@
     - Clan Pestilens Special Skills
     - Clan Skryre Special Skills
     - Dark Elf Special Skills
-    - Dirty Tricks Special Skills
     - Dwarf Special Skills
-    - Far-sight Ability
     - Halfling Special Skills
     - Hobgoblin Special Skills
     - Kislev Ranger Skills
@@ -306,7 +301,6 @@
     - Orcs Special Skills
     - Ostlanders Special Skills
     - Pit Fighters Special Skills
-    - Sewer Fighter Special Skills
     - Sisters of Sigmar Special Skills
     - Shadow Warrior Special Skills
     - Troll Slayer Special Skills
@@ -10026,62 +10020,52 @@ the attack animal will move to it owner and guard him\her until the
 Owner get up or the games ends. If the owner dies the attack animal
 is lost.
 
-Dirty Fighter: Warriors with this skill can choose skills from the
-Dirty Tricks Skills list.
 
-Far-sight: The warrior has become gifted with extra sensory
-powers. Some are able to look into the future, others more widely in
-the now. Some see multiple possible paths which can be
-manipulated, others only one inalterable path. For time outside of
-memory leaders have valued the ability to know more than their
-enemies.
-
-Warrior with this skill can choose skills from the Special Far-sight
-Ability. Only one model per warband may have this skill, this skill
-cannot be taken by Sisters of Sigmar, Dwarves, and Witch Hunters
-warbands or hired swords unless noted. Each far-sight ability is
-treated exactly like magical spells in every respect.
-
-Mark of Chaos (Heroes only): Not all who goes to Mordheim goes
-with good intensions, some see what happen as a sign that the
-Greater Chaos Powers are on the move, so they went to meet them.
+Mark of Chaos: Few who travel to Mordheim do so with good intentions,
+indeed many see the calamitous destruction of Sigmar's followers as a 
+sign that the site is clearly of great interest to the Chaos Gods.
+Eager to prove themselves to their new masters they may
+dedicate themselves to their worship.
 
 Heroes from a Neutral / Chaotic or Chaotic warbands (other than
-Skaven and undead) may bare one Mark of Chaos. Each mark
-increases the warband’s rating by +10 points. If the leader has any
-other mark then Undivided all heroes must have the same mark. The
-hero may choose from the Marks of Chaos list.
+Skaven and undead) may immediately choose one Mark of Chaos. Due to the
+brashness, arrogance, boastfulness, and self-importance instilled 
+universally upon any Chaos worshipper who recieves a visible gift of their
+patron god each Mark taken in this way will add an upkeep cost of 5 gold
+per game. If the leader has any other mark then Undivided all heroes must 
+have the same mark.
 
 Medical Knowledge: If you have a warrior in your warband with
 this skill you may re-roll a result on the Serious Injury table. If the
 model with this skill is not taken out of action.
+
 Musician: Musicians are important to a warband both during and
 after a battle. They can sing and tell tales to raise extra income, sing
 songs of valour during battle to embolden the troops, and rally the
 troops when things look bad.
 Warrior with this skill can choose skills from the Musicians Skills
-list. Only one model per warband may have this skill, this skill
-cannot be taken by the leader or hired swords unless noted.
-Mob Mentality (Heroes only): If a model with this skill is within 3”
+list. Only one model per warband may have this skill, and Musicians 
+recruited from the Warhammer books automatically have it.
+Mob Mentality: If a model with this skill is within 3”
 of at least three other models from his warband, then he gives all of
 the models in that area, including himself, immunity to fear and +1
 Initiative. If the model, with Mob Mentality, is taken out of action
 while giving bonuses, then all models who are benefiting from the
 effects will automatically fail an “All alone check” and move
 accordingly.
-Money Maker (Heroes only): The model with this skill utilizes his
+Money Maker: The model with this skill utilizes his
 talents and wares to try and make extra money after the adventure. If
 the model is not taken out of action, they may roll an additional die
-during the exploration phase and choose which one they want.
-Ride (e.g. Ride Horse): This skill is vital if a rider wishes to ride an
-animal into combat. The skill is specific to a particular type of
-animal and must be gained again if the warrior wishes to be able to
-ride a different kind of animal. For instance, a warrior with Ride
-Horse would need to gain the skill Ride Warhorse if he wanted to be
-able to ride such a spirited mount. Warriors with this skill can
-choose skills from the Cavalry Skills list
-Sewer Fighter: Warriors with this skill can choose skills from the
-Sewer Fighter Skills list. This skill cannot be given to ogres.
+during the exploration phase. There may not be more than one character
+with the Money Maker skill in your warband. There's just not enough money!
+Ride: This skill is vital if a rider wishes to ride an
+animal into combat. Taking this skill once will allow a Warrior to ride any
+War Beast class mount. Taking this skill twice will allow a Warrior to ride any
+Monstrous Mount. Taking this skill a third time will allow a Warrior to
+ride Monsters. The mount options available to each Warrior must be appropriate
+to their race however, so an Orc could not ride a Wolf (as Wolves are for Goblins!)
+Warriors with this skill can choose skills from the Cavalry Skills list
+
 Sneaky: All enemy models halve their Initiative range when trying
 to detect this model while he is Hidden.
 
@@ -10102,9 +10086,9 @@ Weapons Training: A warrior with this skill is adept at using many
 different weapons. He may use any hand-to-hand combat weapon he
 comes across, not just those in his equipment options.
 
-Web of Steel: Few can match the ability of this warrior. He fights
-with great skill, weaving a web of steel around him. The model
-gains +1 to all his rolls on Critical Hit tables in hand-to-hand
+Flashy Fighting: Few can match the ability of this warrior. He fights
+with great skill and flair, weaving a web of steel around him. The model
+gains +2 to all his rolls on Critical Hit tables in hand-to-hand
 combat.
 
 Expert Swordsman: This warrior has been expertly taught in the
@@ -10115,9 +10099,8 @@ or weeping blades, and not with double-handed swords or any other
 weapons.
 
 Step Aside: The warrior has a natural ability to avoid injury in
-combat. Each time he suffers a wound in close combat he may make
-an additional saving throw of 5+. This save is never modified and is
-taken after all other armor saves.
+combat. The warrior gains a 5+ Ward Save against wounds inflicted by
+hand-to-hand combat.
 
 Axe Master: The warrior may parry with normal axes as per normal
 parrying rules.
@@ -10129,10 +10112,10 @@ hit the foe at a -2 WS for a single handed weapon and a -3 WS for a
 2 handed weapon. If successful the opponent must fight without the
 designated weapon until he recovers it. The foe recovers his weapon
 in the first Recovery Phase out of Hand-to-Hand. Not vs. natural
-weaponry.
+weaponry such as teeth/claws etc.
 
-Expert Axeman: Re-roll all failed hits with an Axe when being
-charging.
+Expert Axeman: A Warrior with this skill may re-roll any failed to-hit
+rolls with single-handed axes in the combat phase of the turn he charges.
 
 Finishing Move: The warrior may opt to forgo his usual number of
 attacks and make a single attack at an additional +2 Strength to its
@@ -10140,37 +10123,40 @@ normal strength. This can be used in conjunction with Mighty Blow,
 Weapon Bonuses, and any other Strength enhancing abilities. The
 blow is resolved last AFTER 2 Handed Weapons. Useful for taking
 out Knocked Down models with high Toughness.
-Follow Thru: In any Hand-to-Hand combat where all of the
-warrior’s foes are knocked down, stunned, or taken out of action the
-warrior may opt to make a follow thru move of up to 2 inches in any
-direction. This move can bring him into base contact with another
-model, and he will fight in the next Hand-to-Hand phase, but neither
-model counts as charging. This move is executed at the very end of
-the Hand-to-Hand phase after everyone has finished striking. If
-multiple models have this skill, then they move in Initiative order.
-Simultaneous movers from opposing forces within range
-automatically move to intercept one another.
-Pugilist: The warrior may fight barehanded with no penalty one or
-two handed. The model always gets an extra attack for having 2
-weapons when fighting barehanded or with one weapon and no
-shield or buckler. Fight barehanded w/o penalty, +1 Attack
+
+Follow-Through: If a Warrior manages to take all of their opponents
+Out of Action in the same combat phase in which they charged they may
+immediately make an additional 2" movement. This move may bring them 
+into base contact with another model in which case they are considering
+as having charged them too and will immediately fight in that turn's
+combat. A Warrior may not Follow-Through more than once per turn, and
+will be at -1 Strength for that combat phase (including for the purposes
+of Impact Hits, also applying to their mount if they have one). 
+
+Pugilist: The warrior may treat their bare fists as clubs. They will
+never count as being Unarmed, and will count as being equipped with
+clubs equal to their number of arms. Yes, you can be a mutant Pugilist
+who boxes with their extra tentacles and crab hand.
+
 Shield Smash: The warrior has trained to integrate his shield into
 his fighting style. When using a Shield or Buckler in Hand-to-Hand
 he may make a single additional attack resolved at the warriors
-Strength. The Shield Smash cannot cause critical hits. +1 Attack
+Strength. The Shield Smash cannot cause critical hits. 
+
 Sweeping Blow: The warrior may opt to make a single sweep attack
 against all the models in base to base contact with him instead of
-making his normal attacks. Rather than rolling to hit, each foe rolls
-under their Initiative to avoid the blow. Each model failing their
-Initiative roll is hit, and the warrior rolls to wound each enemy
+making his normal attacks. Rather than rolling to hit, each foe must
+take an Initiative test to avoid the blow. Each model failing their
+test is hit, and the warrior rolls to wound each enemy
 independently as normal. This maneuver can only be executed with
 a two-handed weapon (including halberds and flails, etc.), but no
 Strength bonuses granted by the weapons themselves are included.
-Whip Master: The hero is so skilled with his whip that he may re-
-roll all to-hit rolls when using the whip. Only one re-roll is allowed
-per attempt and you must accept the second roll, even if it is worse.
-[Based on the Adventurer’s Whip Rules by Jo-Herman Haugholt
-from the Mordheim Khemri Discussion Group.]
+
+Whip Master: The hero has mastered the brown hat, and may re-roll
+all failed to-hit rolls with Whipcrack. Additionally enemies must 
+re-roll any successful armour saves made from the Whipcrack attack.
+Note that this does not benefit the hero's regular attacks.
+
 #### Shooting Skills
 
 Quick Shot: The warrior may shoot twice per turn with a bow or
@@ -10185,28 +10171,33 @@ fire it in the same turn it was reloaded.
 Eagle Eyes: The warrior’s sight is exceptionally keen. He adds +6"
 to the range of any missile weapon he is using.
 
-Weapons Expert: The warrior has been trained to use some of the
+Ranged Weapons Expert: The warrior has been trained to use some of the
 more unusual weapons of the known world. He may use any missile
 weapon he comes across, not just the weapons available from his
 warband’s list.
 
 Nimble: The warrior may move and fire with weapons that are
 normally only used if the firer has not moved. Note that this skill
-cannot be combined with the Quick Shot skill.
+cannot be combined with the Quick Shot skill. This does not apply to
+War Machines.
 
 Trick Shooter: The warrior can shoot through the tiniest gap
 without it affecting his aim. He ignores all modifiers for cover when
 using missile weapons.
-Hunter: The warrior is an expert at getting his weapon loaded and
-ready. He may fire each turn with a handgun or Hochland long rifle.
-Knife-Fighter: The warrior is an unrivalled expert at using
-throwing knives and throwing stars. He can throw a maximum of
-three of these missiles in his shooting phase and may divide his
-shots between any targets within range as he wishes. Note that this
-skill cannot be combined with the Quick Shot skill.
+
+Action Hero: Ammunition somehow doesn't appear to be a problem for this
+hero! The Warrior never needs to reload their weapons.
+
+Knife-Fighter: The warrior is an unrivalled expert at using lightweight
+throwing weapons. They can throw a maximum of three of these missiles in 
+their shooting phase and may divide their shots between any targets 
+within range as they wish. This only works with generic throwing weapons,
+not Throwing Axes or Javellins for example.
+
 Vitals Shot: The warrior is adept at shooting where it hurts the
 most. He adds +1 to rolls on the Critical Wound effect chart when
 using ranged attacks.
+
 Fletcher: The warrior makes his own arrows. When shooting a bow,
 his arrows are +1 to rolls on the Injury Chart.
 Heavy Pull: The warrior has trained to use a bow with a heavier
@@ -10235,17 +10226,8 @@ haggling. He may deduct 2D6 gold crowns from the price of any
 single item (to a minimum cost of 1gc) once per post battle
 sequence.
 
-Arcane Lore: Witch Hunters, Sisters of Sigmar and Warrior-Priests
-may not have this skill. Any warrior with this skill may learn Lesser
-Magic if he owns a Tome of Magic.
-
-Wyrdstone Hunter: The warrior has an uncanny ability to find
-hidden shards of wyrdstone. If a Hero with this skill is searching the
-ruins in the exploration phase you may re-roll one dice when rolling
-on the Exploration chart. The second result stands.
-
-Warrior Wizard: This skill may only be taken by Magic / Pray
-Users. The mental powers of the wizard allow him to wear armor
+Warrior Wizard: This skill may only be taken by Magic Users. 
+The mental powers of the wizard allow him to wear armor
 and cast spells.
 
 Scribe: The warrior is a natural adept at writing and making scrolls.
@@ -10265,59 +10247,42 @@ one dice roll used in the difficulty roll.
 
 Tactician: This skill may only be taken by a warband leader. The
 warrior has a great tactical mind and can often find the best
-positions for his warriors to meet the oncoming attack. In any
-scenario the warband leader may reposition his warriors after his
-opponent has set up and may even advance them up to 12 inch onto
-the board instead of 8 inch.
+positions for his warriors to meet the oncoming attack. In any scenario
+the player may deploy their Warband 4" further onto the board than usual.
+
 Hunch: This skill may only be taken by the warband leader. The
-warrior has an uncanny knack of placing his men in the right place
-at the right time, as if he senses danger through instinct alone. In any
-scenario the warband leader may position up to 3 of his men capable
-of earning experience in any ruined building on the board that is at
-least 12 inch away from an enemy model and not in the enemy
-deployment zone.
+warrior has an uncanny knack of placing their men in the right place
+at the right time, as if they sense danger through instinct alone. The warband
+leader may position up to 3 of their Warriors capable of earning experience 
+in any building on the board that is atleast 12 inch away from an enemy 
+model and not in the enemy deployment zone.
+
 Magical Aptitude: This skill may only be taken by a Magic User. It
 may not be used by pray-users. The warrior has a keep aptitude for
-magic and can push himself beyond normal limits to produce a
-storm of spells. The warrior may attempt to cast two spells each turn
-as long as he is not in hand-to-hand combat. After attempting the
-first spell, he must take a toughness test. If he passes he may attempt
-a second spell that turn or even cast the same spell twice. If he fails
-he must roll on the injury table immediately with no saves treating
+magic and can push themself beyond normal limits to produce a
+storm of spells, allowing them to cast twice per turn. After attempting the
+first spell, they must take a toughness test. If they pass they may attempt
+a second spell that turn or even cast the same spell twice. If they fail
+they must roll on the injury table immediately with no saves treating
 Out Of Action results as Stunned instead.
-Trap Expert: This Hero is able to detect traps in the tombs with
-relative ease. A character who possesses this skill will never set off
-traps himself (but may be subject to their effects if he is too close to
-one if it goes off). He can attempt to disarm any traps he comes
-across. He must stop at the trap during his Movement phase, and
-may do nothing else that turn. To disarm a Simple trap, he must roll
-6+ on 2D6. To disarm a Complex trap, he must roll 8+ on 2D6. If
-unsuccessful, he must test against his Initiative. A failed test means
-he has inadvertently set off the trap himself!
-He is also able to restore dud traps or previously de-activated traps
-back into active traps. To determine what a Dud trap becomes, roll
-a D6: 1-4: Simple, 5-6: Complex. Obviously a previously disarmed
-trap will revert back to what it was. If restoring a Simple trap, he
-must roll a 6+ on 2D6. If restoring a Complex trap, he must roll an
-8+. Failure will mean that the trap has failed to activate.
-Drive Chariot: Chariots are very difficult to control and a warrior
-must have this skill to drive a chariot effectively in combat. A
-charioteer without this skill cannot charge.
+
+Drive Chariot: Taking this skill will allow a Hero ride a Chariot.
+
 #### Strength Skills
 
 Mighty Blow: The warrior knows how to use his strength to
-maximum effect and has a +1 Strength bonus in close combat
-(excluding pistols). As his Strength is used for close combat
-weapons, the bonus applies to all such weapons.
+maximum effect and has a +1 Strength bonus in close combat. 
+
 Pit Fighter: The warrior has learned how to fight in enclosed spaces
-from his time in the dangerous fighting pits of the Empire. He is an
-expert at fighting in confined areas and adds +1 to his WS and +1 to
-his Attacks if he is fighting inside buildings or ruins. It’s a good idea
+from their time in the dangerous fighting pits of the Empire. They are an
+expert at fighting in confined areas and adds +1WS and +1A Attacks if they
+are fighting inside buildings or ruins. It’s a good idea
 to define which bits of your terrain collection count as ‘buildings or
 ruins’ at the start of a battle to avoid confusion later.
-Resilient: The warrior is covered in battle scars. Deduct -1 Strength
-from all hits against him in close combat. This does not affect
-armor save modifiers.
+
+Resilient: The warrior is covered in battle scars. They gain +1 Toughness
+against attacks made in close combat. Does not effect being shot with pistols.
+
 Fearsome: Such is the reputation and physique of the model that he
 causes fear in opposing models.
 
@@ -10325,18 +10290,23 @@ Strongman: The warrior is capable of great feats of strength. He
 may use a double-handed weapon without the usual penalty of
 always striking last. Work out order of battle as you would with
 other weapons.
-Unstoppable Charge: When he charges, the warrior is almost
-impossible to halt. He adds +1 to his Weapon Skill when charging.
+
 Bell Ringer: 1 Attack Only, +1 to hit, +1 S, no Weapon Bonuses,
 foe Stunned on a 2-5 on Injury Chart.
+
 Untiring: When wielding Flails and Morning Stars, the Hero may
 use the Strength Bonuses every Hand-to-Hand phase of the game,
 not just the first round of a Hand-to-Hand engagement. (Created by
 Jester.)
+
 Strong Legs: The Hero may use Heavy Armor and a Shield
 without suffering Movement penalties.
 
-
+Beastmaster: If the model confronts an animal (not mount!) in hand-to- 
+hand combat, then before combat is fought they may take a Ld test. If the
+test is successful then the animal falls under their command. The animal then
+come under control of the Beastmaster's warband. Control of the animal is immediately
+lost if the Beastmaster either moves more than 8" away ir is _incapacitated_.
 #### Speed Skills
 
 Leap: The warrior may leap D6" in the movement phase in addition
@@ -10348,131 +10318,79 @@ The leap may also be used to leap over gaps, but in this case you
 must commit the warrior to making the leap before rolling the dice
 to see how far he jumps. If he fails to make it all the way across, he
 falls through the gap (see page 6).
+
 Sprint: The warrior may triple his Movement rate when he runs or
 charges, rather than doubling it as normal.
 Acrobat: The warrior is incredibly supple and agile. He may fall or
 jump from a height of up to 12" without taking any damage if he
 passes a single Initiative test, and can re-roll failed Diving Charge
-rolls. He can still only make a diving charge from a height of up to
-6".
-Lightning Reflexes: If the warrior is charged he will ‘strike first’
-against those that charged that turn. As the charger(s) will also
-normally ‘strike first’ (for charging), the order of attack between the
-charger(s) and the warrior with this skill will be determined by
-comparing Initiative values.
+rolls. 
+
+Lightning Reflexes: The Warrior negates the 'strikes first' bonus of
+any model that charges them.
+
 Jump Up: The warrior can regain his footing in an instant,
 springing to his feet immediately if he is Knocked Down. The
 warrior may ignore Knocked Down results when rolling for injuries,
 unless he is Knocked Down because of a successful save from
 wearing a helmet or because he has the No Pain special rule.
 Dodge: A warrior with this skill is nimble and as fast as quicksilver.
-He can avoid any hits from a missile weapon on a D6 roll of 5+.
-Note that this roll is taken against missiles as soon as a hit is scored
-to see whether the warrior dodges it or not, before rolling to wound,
-and before any effects from other skills or equipment (such as lucky
-charms).
-Scale Sheer Surfaces: A warrior with this skill can scale even the
-highest wall or fence with ease. He can climb up or down a height
-equal to twice his normal Movement, and does not need to make
-Initiative tests when doing so.
-Fast Strike: The warrior may choose to make a single Fast Strike in
-Hand-to-Hand instead of his normal complement of Attacks. The
-warrior picks which weapon he is striking with and adds a d6 to his
-Initiative to determine at what order the strike is resolved, max of
+They gain a 5+ Ward Save against all missiles and Magic Missiles.
 
-10. Not usable with any weapon that requires 2 Hands to use.
+Scale Sheer Surfaces: A warrior with this skill can scale even the
+highest wall or fence with ease. They no longer require Initiative tests
+for climbing. (Jumping down still requires them).
+
 Roll Dodge: The warrior can ignore the 2" Interception rule when
 charging in to Hand-to-Hand combat.
+
 Fleet Footed: The warrior gains +1 to his base Movement.
-Flee: If the Hero breaks and runs while in Hand-to-Hand combat,
-his opponents do not get an automatic hit upon him. Rather, they hit
-on a 4+. Additionally, the Hero's player may roll 3d6 instead of the
-normal 2d6 and pick which 2 dice he prefers to determine the
-number of inches the Hero flees.
 
-#### Alchemy Ability
-
-By Ed Hastings (killershrike@home.com)
-Roll a D6 and consult the appropriate chart. If you get the same
-Alchemy Ability twice, roll again or increase amount by 1 Dice, i.e.
-D3 becomes 2D3, D6 becomes 2D6, etc
-D6 Alchemy Ability
-1 Make Firebomb: The Alchemist may prepare 1D3 Firebombs
-for this battle. Unused Fire bombs may be sold for 25 GC each
-after the game is over.
-2 Make Fire Arrows: The Alchemist prepares enough fire arrows
-(bolts) for uses with his Crossbow Pistol. If not use during the
-game they may be sold for 15 GC after the game.
-3 Make Flash Powder: The Alchemist may prepare D3 uses of
-Flash Powder for use. Unused Flash Powder uses may be sold
-for 15 gold each after the game.
-4 Make Glue Bombs: The Alchemist prepares D6 Glue Bombs
-for use. Treat Glue Bombs exactly as Nets. Unused Glue Bombs
-may be sold for 3 GC each after the game.
-5 Make Sleep Powder: The Alchemist prepares D3 uses of Sleep
-Powder. Sleep Powder is used exactly as Blessed Water
-(Thrown Sx2, no move or range penalty), may also be used in
-Hand-to-Hand in which case WS is used to hit. If hit the target
-must roll under their Toughness or become Stunned. Unused
-sacks of Sleep Powder may be sold for 15 GC each after the
-game.
-6 Make Potion of Healing: The Alchemist prepares D6 vials of
-Healing Potion. It is used as Blessed Water. If hit the target
-regains a single wound and if Stunned becomes Knocked Down.
-May also be used on self or on friendly models in Base-to-Base
-without needing to roll to hit. Unused vials of Healing Potion
-may be sold for 5 GC each after the game.
 
 
 #### Assassin Special Skills
 
-Backstabber: The Assassin specializes in attacking his targets when
-their back is turned. The Assassin may charge an opponent he
-cannot see (he knows you’re there!) as long as the target model is
-within his charge reach. If he does this, he surprises his opponent
-and receives a +1 to hit him with all attacks and any rolls on the
-Serious Injuries chart are at +1. This bonus lasts for the first round
-of combat only, as his opponent will swiftly recover his wits if he
-survives the initial assault.
-Silent Strike: As masters of camouflage the character is allowed to
-charge out of hiding and strike silently at his opponent and then he
-disappears into the shadows again. Roll a D6 on a 5+ the character
-is allowed to charge and attack. The opponent(s) may strike back. If
-uninjured, the character disappears to his original hiding place
-again. The distance from hiding place and back into hiding, may not
-exceed the characters maximum movement (2xM, or 3xM with
-sprint, thus if more them half of the movement is spent to charge, no
-hiding is possible anymore). If he fails the die roll he charges out
-and it is treated like a normal charge.
-Ultimate Kill: The assassin goes for the kill-spot, which is almost
-an assured one way trip to the grave yard. The character in hand to
-hand combat forgoes all extra Hand-to-Hand-attacks and
-concentrates on one very well placed attack. The attack will be +1 to
-hit, +1 to wound, +1 on the injury roll. This skill can only be used if
-the character has 2 or more attacks on his profile. Does not work
-together with Ultimate specialist or strike to injure. Does not work
-with black powder weapons.
+Backstabber: The assassin specializes in attacking his targets when
+their back is turned. If The Assassin charges a foe from outside of line
+of sight (therefore needing an Initiative Test to do so) they surprise their opponent
+and receive a +1 to hit with all attacks and any Injury Rolls are at +1.
+This bonus lasts for the first round of combat only, as their opponent will 
+swiftly recover their wits if they survive the initial assault.
+
+Silent Takedown: If an Assassin manages to _incapacitate_ a target within the same
+round of combat as they charged it they may make an immediate free movement of up to
+2". Assuming this movement would put them into a position to do so, they may then
+go into hiding. This move may not take them into combat with a new enemy.
+
+Opportunistic Killer: An assassin's preferred foe is an oblivious one. If an
+assassin completes a diving charge against an unengaged foe they gain the 
+_Killing Blow_ special rule for that round of combat.
+
 Master of Poisons: The assassin is a master in brewing up different
-poisons. If the hero does not search for rare items, he has the time to
-brew up 3D-1 portions of dark venom or black lotus. He can come
-up empty, but those are the hazards of trying these intricate things
+poisons. If the hero does not search for rare items, they may
+brew up D3-1 portions of either dark venom or black lotus. It may come up
+empty, but those are the hazards of trying these intricate things
 on the move. The portions are large enough for one weapon and
 need to be used for the next battle as they are less stable then
 normally purchased poisons.
-Shadow Defence: As it is considered bad form to get injured on an
-assignment there are special defensive moves that make an assassin
-even better in surviving. The character is allowed to parry, with re-
-roll, with any weapon he uses. If the weapon already has the ability
-to parry, it is allowed to parry with an equal or higher dice roll,
-which can also be re-rolled.
-Hide in Shadows: The Assassin can blend into the shadows so that
-his opponents will not see him. As long as he is within 1" of a wall
-or other linear obstacle (hedge, fence, well, etc), opposing models
-must pass an Initiative test in order to charge or shoot at him.
-Ultimate Specialist: These characters are so highly trained that they
-can use hand-to-hand weapons in a very efficient way. They gain
-+1WS and +1 on the injury roll. Does not work together with
-Ultimate Kill or Strike to Injure.
+
+Master of Disguise: Paranoia is rewarded in Mordheim, and warriors quickly
+learn to watch the shadows and remember to look up. In the chaos of a skirmish
+innovative thinking can even turn a direct assault into a surprise! Before the 
+start of a game the Assassin's owner may choose to have the Assassin replace a
+henchman in either their own or a Formal Ally's warbands. Secretly make a note
+of which henchman has been replaced. The disguised assassin gains the equipment 
+and stats of that henchman until they are revealed. An assassin is automatically 
+revealed if they are charged, or they be revealed at the start of their owning
+player's turn. Once an assassin is revealed they immediately recover their own gear 
+and behave as normal. Assassins may not disguise themselves as Monstrous Infantry,
+no amount of low-brimmed hats and hunching will make an Elf look like a convincing Ogre.
+
+Hitman: The Assassin is a master of acting natural and hiding in plain 
+sight, allowing them to go into Hiding even if in the open and in line of sight of
+an enemy. This ability ceases to work for the rest of the battle if the
+assassin attacks an enemy or attempts to pick up loot.
+
 Infiltration: The Assassin with this skill is always placed on the
 battlefield after the opposing warband and can be placed anywhere
 on the table as long as it is out of sight of the opposing warband and
@@ -10488,12 +10406,15 @@ model gains a 6+ Armor Save that can be combined with other
 armor as normal.
 Mutant: The Beastman may buy one mutation.
 Fearless: Immune to Fear and All Alone tests.
-Horned One: The Beastman has mighty horns, and can make an
-additional Attack with its basic Strength on a turn it charges
+Giant Horns: The Beastman gains Impact Hits (1)
 Bellowing Roar: Only the Beastman Chief may have this skill. He
 may re-roll any failed Rout tests.
 Manhater: Will be affected by the rules of Hatred when fighting
 any Human warbands.
+Oppression: Beastmen henchmen within 8" of a Hero with this skill
+will not have to test for Infighting.
+Violent: The Hero now suffers from Infighting!
+
 #### Blessings of Nurgle
 
 Those that worship at the fetid altar of the Lord of Decay suffer
@@ -10505,10 +10426,9 @@ recruitment. Any Tainted may have one or more Blessings. The first
 Blessing is bought at the price indicated, but second and subsequent
 Blessings cost double.
 Stream of Corruption: The Tainted One can spew forth a
-grotesque stream of maggots, entrails and filth. This is counted as a
-shooting attack with a range of 6" and is resolved at Strength 3 with
-no saves for armor.
-Cost: 25 Gold Crowns
+grotesque stream of maggots, entrails and filth. This attack uses the
+flame template and is resolved at Strength 2 with no saves for armor.
+Cost: 50 Gold Crowns
 Cloud of Flies: The Tainted One is surrounded by a cloud of flies,
 which buzz around him and his combat opponent. They do not affect
 the Tainted One but distract foes by buzzing into eyes, nostrils and
@@ -10531,16 +10451,15 @@ Cost: 40 Gold Crowns
 
 #### Blood Dragon’s Bloodline Abilities
 
-By Natascha Chrobok
 Red Fury: The vampire falls in a horrible blood-rage, unstoppable
 for his enemies. He gains one additional Attack to his profile.
 Killing Blow: The vampire is an expert fighter and every time he
 rolls a natural 6 on the to-hit roll, he automatically wounds his
 opponent. No parries are allowed, although the opponent may make
 armor or saving throws.
-Master Strike: The vampire has an uncanny knack of hitting his
-victims where it will do most damage. He may cause a critical hit on
-a 5 or 6.
+Challenger: The vampire really doesn't put much effort into fighting
+the peasants and chaff. Only heroes are worth his time! The vampire 
+re-rolls failed 'to hit' rolls against heroes.
 Curse Of The Undead: The vampire is one of the ever-living and is
 extraordinarily difficult to kill. The vampire has 5+ ward save in
 addition to all his armor-rolls and parries.
@@ -10549,7 +10468,7 @@ a +1 Strength bonus and gets no movement penalties for wearing
 heavy armor and shield.
 Gift of Abhorash: The vampire is a very imposing leader and
 permanently raises the maximum number of Members in the
-warband by D3.
+warband by 3.
 
 #### Bretonnian Knights Special Skills
 
@@ -10568,10 +10487,7 @@ and before moving the model.
 
 #### Cavalry Skills
 
-Skills may only be used one at a time. If two are applicable to a
-given situation, the controlling player must decide which to use.
-All bonuses are cumulative with those gained from a mount,
-unless otherwise stated.
+
 Cavalry Commander. Mounted heroes are an impressive sight.
 With a good vantage point, they can see (and be seen) far more
 readily than if they were on foot. If the warband's leader has this
@@ -10585,23 +10501,16 @@ missile attacks against him suffer -1 to hit in addition to other
 modifiers. The rider must declare that he is trick riding before
 moving. He must then make an initiative test and if successful may
 move full distance. If he fails he loses control of his mount and must
-roll immediately on the Whoa Boy! Table. This skill may not be
-used with heavy armor because of the agility required. In addition,
-trick riding requires both hands, so the model may not use a shield
-or missile weapons whilst using the skill. Warriors without Ride
-may not use this skill.
+roll immediately on the Whoa Boy! Table. 
 Combat Riding. The rider has trained his mount to use its bulk to
-trample any unmounted enemy before him. A warrior with this skill
-may make a single additional S4 attack when charging an
-unmounted opponent. In subsequent rounds of combat, or if charged
-by enemy warriors, the mounted warrior fights as normal.
+trample any unmounted enemy before him. The mount of a warrior with
+this skill gains Impact Hits (1) against Infantry, Swarms, and War Beasts.
 Evade. The rider has trained his mount to swerve from side to side
 in combat, wrong footing his opponent. A rider with this skill
 always strikes first in close combat against dismounted opponents.
 When charged by an opponent, or otherwise fighting an enemy also
 entitled to strike first, attacks are carried out in order of Initiative. If
 Initiative is equal, the model with greater experience strikes first.
-Warriors without Ride may not use this skill.
 Running Dismount. The rider is able to dismount from his mount
 at speed. The rider may ride up to the mount’s normal move
 distance and then dismount immediately. No further movement or
@@ -10615,18 +10524,9 @@ onto the back of his mount and immediately spur it into a full gallop.
 Once the warrior is aboard, the mount may make a run or charge
 move as normal. The warrior must be within 2" of his steed to use
 this skill.
-Horse Archer. The rider has learned the skills of the steppe nomads
-and can shoot from a running mount. The rider may shoot in a 360
-degree arc whilst mounted, and may shoot while his mount is
-running; however the shot suffers a -1 to hit penalty in addition to
-all other normal modifiers. Warriors without Ride may not use this
-skill.
 Mounted Combat Master. The rider is especially skilled at combat
-against a mounted opponent. If the model is fighting mounted
-against a mounted opponent and successfully wounds the enemy, the
-wounded model must add +1 to his roll on the Whoa Boy! Table.
-Warriors without Ride may not use this skill.
-
+against a mounted opponent. The model may re-roll failed 'to hit' rolls
+in combat against mounted opponents.
 
 #### Clan Eshin Special Skills
 
@@ -10640,10 +10540,9 @@ armor save possible at the end of the turn.
 Tail Fighting: The Skaven may wield a shield, knife or a sword
 with its tail. The model gains an extra attack with the appropriate
 weapon or a +1 bonus to its armor save.
-Wall Runner: The Skaven does not need to take an Initiative test
-when climbing up walls and other sheer surfaces. Suggested
-Changes: May run or charge up walls, always striking last when
-charging in this manner.
+Wall Runner: The Skaven may use their running distance when traversing
+walls rather than their base movement. They may also attempt to climb laterally,
+needing Initiative tests for every 2" of movement.
 Infiltration: A Skaven with this skill is always placed on the
 battlefield after the opposing warband and can be placed anywhere
 on the table as long as it is out of sight of the opposing warband and
@@ -10679,10 +10578,9 @@ armor save possible at the end of the turn.
 Tail Fighting: The Skaven may wield a shield, knife or a sword
 with its tail. The model gains an extra attack with the appropriate
 weapon or a +1 bonus to its armor save.
-Wall Runner: The Skaven does not need to take an Initiative test
-when climbing up walls and other sheer surfaces. Suggested
-Changes: May run or charge up walls, always striking last when
-charging in this manner.
+Wall Runner: The Skaven may use their running distance when traversing
+walls rather than their base movement. They may also attempt to climb laterally,
+needing Initiative tests for every 2" of movement.
 Infiltration: A Skaven with this skill is always placed on the
 battlefield after the opposing warband and can be placed anywhere
 on the table as long as it is out of sight of the opposing warband and
@@ -10783,10 +10681,9 @@ armor save possible at the end of the turn.
 Tail Fighting: The Skaven may wield a shield, knife or a sword
 with its tail. The model gains an extra attack with the appropriate
 weapon or a +1 bonus to its armor save.
-Wall Runner: The Skaven does not need to take an Initiative test
-when climbing up walls and other sheer surfaces. Suggested
-Changes: May run or charge up walls, always striking last when
-charging in this manner.
+Wall Runner: The Skaven may use their running distance when traversing
+walls rather than their base movement. They may also attempt to climb laterally,
+needing Initiative tests for every 2" of movement.
 Infiltration: A Skaven with this skill is always placed on the
 battlefield after the opposing warband and can be placed anywhere
 on the table as long as it is out of sight of the opposing warband and
@@ -10814,25 +10711,12 @@ or missile attacks on a roll of 6. If the Elf also has Step Aside or
 Dodge this will increase to a 4+ in the relevant area. For example,
 an Elf with Fey Quickness and Step Aside avoids melee attacks on a
 4+ and missile attacks on a 6.
-Fury of Khaine: The Dark Elf is infused with an intense raging
-thirst for blood and is a whirlwind in hand-to-hand combat, moving
-from opponent to opponent. The Dark Elf may make a 4" follow up
-move if he takes all of his opponents Out Of Action. If he comes
-into contact with another enemy this starts a new combat. This new
-combat takes place in the following turn and the model counts as
-charging. May not follow up in the opponent’s turn.
 Infiltration: The Dark Elf with this skill is always placed on the
 battlefield after the opposing warband and can be placed anywhere
 on the table as long as it is out of sight of the opposing warband and
 more than 12" away from any enemy model. If both players have
 models which infiltrate, roll a D6 for each, and the lowest roll sets
 up first.
-Lethal Strike: This Dark Elf has come far in his training, and is a
-skilled practitioner of torture; the Hero knows exactly where to hit
-his foes to cause maximum damage. He can cause a Critical Hit on a
-to wound roll of 5-6, instead of only 6. If he needs a 6 to wound the
-target, he can still cause a Critical Hit on a to wound roll of 6. [Skill
-by Julian Hellstrom]
 Master of Poisons: The Dark Elf is proficient in concocting
 different poisons. If the Hero doesn’t search for rare items, he may
 make D3-1 doses of Dark Venom instead. There is a chance of
@@ -10845,40 +10729,9 @@ capable of feats of strength. A warrior with this skill may choose
 skills from the Strength table. The Sorceress may never take this
 skill and no more than two warriors in the warband may take this
 skill at any one time.
+Murderer: The Dark Elf may always choose to attack _incapacitated_ 
+foes even if there are standing foes in combat with them.
 
-
-#### Dirty Tricks Special Skills
-
-By Archeonicus (Harrald.Faessen@dsm-group.com)
-Battle... two groups who are fighting each other for a reason. More
-times, then not, people tend to do things to win, which a lot of other
-people would consider cheating. Either by non-spoken rules, official
-rules, or even taboos. In war those examples are manifold, were
-kicking somebody in the groin would be one of the least offences.
-Warbands will go, or maybe can go, very far in this. So what does
-this all leads to?
-Kick in the family jewels: (Now I’m getting in uncharted territory
-here, but someone once said to that this is painful for women too,
-not just that devastating in the long run). Instead of making your
-normal attacks, you are allowed ONE kick between your opponents
-spread legs. Use the WS. You get +1 to hit, if this attack is not used
-this battle before. Treat knockdown results as stunned. This affects
-everyone except zombies, sexless beings and people in Heavy
-armor. (yes, now you know the place to stun a vampire).
-Biting: (this ought to make up something for the vampire :-) Instead
-of your attacks you may try to bite your CC-opponent. Jawmuscles
-tend to be very powerful, so watch your teeth. People who bite tend
-to find unarmored places. This is a S3 attack with no armor save
-allowed. A successful hit means that the victim suffers the next
-round a S2 autohit and following turn a S1 hit. This is due to blood
-(or other fluid) loss.
-Sand in the eyes: When you are knocked down, instead of using
-your attacks on the round you stand up, you may try to throw sand
-in your opponent’s eyes. Use BS, on a successful hit opponent is
-hitting/shooting at –1. This is treated in initiative sequence and not
-like normal: attack last. Opponent with sand in his eyes may roll D6
-to see if it is rubbed out. First consecutive round roll 4+ D6 to see
-normally. Every next round add +1 to the roll.
 
 #### Dwarf Special Skills
 
@@ -10909,42 +10762,6 @@ Thick Skull: The Hero has a thick skull, even for a Dwarf. He has a
 Stunned result as Knocked Down instead. If the Dwarf also wears a
 helmet, this save is 2+ instead of 3+ (this takes the place of the
 normal Helmet special rule).
-
-#### Far-sight Ability
-
-By Ed Hastings (killershrike@home.com)
-Roll a D6 and consult the appropriate chart. If you get the same Far-
-sight Ability twice, roll again or lower the Far-sight Ability’s
-difficulty by 1.
-D6 Far-sight Ability
-1 Flash of Insight: Difficulty: Auto
-Up to D3 models of the warband may be positioned anywhere
-on the board outside of the enemies sight and detection ranges
-after all opponents have set up.
-2 Sixth Sense: Difficulty: 9
-4+ Unmodified save vs. any Hostile effect. Lasts for the
-duration of the game after cast.
-3 Prescient: Difficulty: Auto
-If rolling for a scenario, the Seers warband may choose whether
-to be Attacker of Defender regardless of warband ratings.
-Should an opposing warband have a simialar ability, roll a die
-and add the I of each warbands leader. High roll picks.
-4 Clairsentient: Difficulty: 7
-The Seer may see anywhere on the board; he auto-detects all
-models on the board and can point them out to fellow band
-members within 6" of him. Hidden models no longer count as
-hidden until they can legally regain that status later.
-5 Dire Warning: Difficulty: Auto
-One Hero or Warrior (including hirelings) has been warned to
-beware of death. Having taken due precaution, one Hero may
-reroll his first Serious Injury result OR 1 Henchman or Hireling
-may reroll to see if he leaves the band. In both cases the second
-roll stands.
-6 Foretold: Difficulty 11
-The Seer may foretell an enemies misfortune. A chosen enemy
-on the board must reroll every successful die roll for the
-remainder of the game including Serious Injury rolls between 41
-and 56.
 
 
 #### Halfling Special Skills
@@ -11029,9 +10846,9 @@ wound restored on a roll of 4+ in the recovery phase. The ranger
 may also heal herself. If any healing is successful, the ranger may
 not move this turn, but may shoot as normal. The ranger may not
 heal if she is in close combat.
+
 #### Lahmia Special Skills
 
-By the Khemri guys http://grafixgibs.tripod.com/Khemri/index.htm
 Swift: when moving the vampire may run but counts as having
 moved normally for all purposes.
 Transfix: at the start of the combat phase, one enemy model in base
@@ -11071,42 +10888,56 @@ phase.
 
 #### Marks of Chaos
 
-Mark of Chaos Undivided: For the Model bearing this mark may
-add +1 to his leadership tests, a 1 will always fail.
-Mark of Khorne: For the Model bearing this mark are Frenzy and a
-have natural 5 +save against all magic. If taken by a magic user
-model, the model will lose the ability to cast spells.
-Mark of Nurgle: For the Model bearing this mark may increase the
-toughness (T) and wounds (W) maximum by 1. All attacks are
-poisoned (as black lotus)
-Mark of Slaanesh: For the Model bearing this mark all enemies
-must past a leadership test to charge. All the enemies’ attacks suffer
-a -1 to hit in close combat.
-Mark of Tzeentch: For the Model bearing this mark may have one
-spell from the Chaos Rituals or the Lesser Magic list (may cast
-spells while wearing armor). The model counts as a magic user.
+Mark of Chaos Undivided: Models with the Mark of Chaos Undivided
+gain +1 Leadership. This may take them above 10.
+
+Mark of Khorne: Heroes bearing the Mark of Khorne gain Frenzy, and a 5+
+ward save against the effects of spells. A Warband containing one or more
+of this mark may never form Formal Alliances.
+
+Mark of Nurgle: The Model gains +1 Toughness, +1 Wound, but loses
+1 point of Movement and 1 point of Initiative. They are now 
+immune to poison and the effects of Plague Victims. These bonuses also
+apply to any War Beast or Monstrous Mount the rider may have, though 
+it will lose 2 points of movement rather than 1 as it has to contend with
+its own decrepitude as well as the increased weight of its rider.
+
+Mark of Slaanesh: Enemy models that wish to charge a character with the
+Mark of Slaanesh must first pass a successful Leadership test or 
+the charge is failed. Enemies are additionally at -1 to hit in melee.
+The character gains Stupidity.
+
+Mark of Tzeentch: The hero immediately learns all spells from Chaos
+Rituals and may cast spells in armour. Any roll of a double will miscast.
 
 #### Musicians Skills
 
-By Steven (Grafix) Gibbs
+
 Minstrel: The musician is a masterful taleteller and gains extra
-income for the warband. Add 2d6 gold to coffers between battles.
+income for the warband. If the Musician was not taken out of action they
+may earn an additional 2d6 gold after the game.
+
 Fighting Songs: The musician has in his selection of songs many a
 fighting ballad. These ballads dispel fear. Any musician with this
 ability sings in battle emboldening the troops. Any friendly troop
 within 12” does not suffer from fear or all alone tests.
-Charisma: A musician with this ability attracts others to the
-warband. He also is able to rally the troops when they might flee.
-You may add 1 warrior to your warband and may reroll any failed
-rout test. The second test stands.
-Cacophony: The musician is able to create awful noises with his
-instrument or voice causing anyone within 6” to run in fear.
-(including those immune to psychology)
-Lore: The musician knows the lore of the area and may +/- 1 from
-one die roll when searching.
-Master of Lore: The musician knows the lore of the area very well
-and may add one die when searching. The musician may only gain
-this skill if he has Lore.
+
+Rally!: Even the most crestfallen Warriors will take heart when gathered
+around a motivated and uplifting bard. For every allied Warrior whose
+loss would contribute to rout theshold within 6" of the Musician with
+Rally the owning player may add +1 to their warband's leadership for
+the purposes of rout tests.
+
+Marching Tune: If the Musician forms a unit with five or more allies they
+may all add 1 to their base movement as long as they stay together. 
+
+Deafening racket: A musician may choose to make a deafening racket in
+each of their shooting phases. If they choose to do so then until their
+next shooting phase (so yes, this may even cause the musician's warband to
+be more likely to rout) all non-Musicians within 8" reduce their Leadership 
+by 1.
+
+
 
 #### Mutations
 
@@ -11175,7 +11006,7 @@ Crushing Blow: Norse warriors train in almost all of their spare
 time. They are expert fighters and learn to put all of their strength
 into very powerful attacks. No enemy may parry an attack made by
 this hero because it strikes with such power that it pushes right
-threw a buckler or sword.
+through a buckler or sword.
 Battle Tongue: Only a hero with the leader skill may gain this skill.
 It allows models within 12" of him use his leadership, rather than
 the normal 6".
@@ -11259,10 +11090,6 @@ single Rout test once per game.
 
 #### Pit Fighters Special Skills
 
-Bulging Biceps: The Pit Fighter may ignore the entire ‘heavy’
-weapons special rule penalty. The Strength bonus will now apply to
-all rounds in CC. So a Morning Star will give +1 Strength in all
-turns not only the first one.
 Force of Will: When the Pit Fighter loses his last wound and is
 taken OOA, he must roll a D6 equal or under his Toughness, each
 following round he has to roll again on his toughness but then with a
@@ -11285,29 +11112,6 @@ has been close to death so many times that he has made his peace
 and the thought of Death no longer bothers him. The Pit Fighter is
 immune to all psychology.
 
-#### Sewer Fighter Special Skills
-
-By Christian Ellegaard
-Agile: The Hero may run over wooden planks without having to
-take Initiative tests to see if he crashes through.
-Brave Eye: The Hero's eyes rarely disappoint, and thus he may re-
-roll any initial Line of Sight rolls if he is not satisfied with the first
-result. However, he must accept the latter result regardless if it is
-worse than the first.
-Control: The Hero has gotten used to the special conditions in the
-sewers, and he has understood to ignore things that would scare
-others to death. Therefore the Hero may use his standard Leadership
-without any penalties.
-Nerves of steel: The Henchmen have gotten tougher, and more than
-slightly dripping water must cause them to run away. Thus a
-Henchman group with the Nerves of Steel skill may re-roll any
-failed Leadership rolls to see if they may move.
-Night sight: After hours of wandering about in the darkness of the
-sewers, the Hero has developed a slight night sight. He may add
-+D6 to his initial Line of Sight.
-Sure feet: The warriors have learned how to run over the rotten
-planks without crashing through. A warrior with the Sure Feet skill
-may re-roll a failed Initiative test when running over wooden planks.
 
 #### Sisters of Sigmar Special Skills
 
@@ -11328,6 +11132,7 @@ warbands and all models in them.
 Absolute Faith: The Sister puts her faith in Sigmar, and faces
 dangers unflinchingly. She may re-roll any Fear tests and does not
 have to test if she is fighting alone against several opponents.
+
 #### Shadow Warrior Special Skills
 
 Infiltration: A Shadow Warrior with this skill is always placed on
@@ -11345,10 +11150,7 @@ freeze in place and remain undetected, even from the heightened
 senses of their Dark Elf cousins. An enemy warrior attempting to
 detect this warrior when he is Hidden must halve his Initiative
 before measuring the distance.
-Sniper: Long years of guerrilla warfare against the Dark Elves have
-taught Shadow Warriors how to strike from the shadows without
-being seen. If Hidden, a warrior with this skill may shoot or cast
-spells and still remain Hidden.
+Sniper: Gains the Sniper special rule.
 Powerful Build: The warrior is strongly built for an Elf, and is
 capable of feats of strength not often seen among the people of
 Ulthuan. A warrior with this skill may choose skills from the
@@ -11477,12 +11279,11 @@ lust for combat. The warrior is immune to all psychology.
 Luck. The Wood Elf is blessed by Lileath, the Elven goddess of
 luck. Once per game he may re-roll any dice roll he makes (but not
 one made by other members of the warband).
-Unerring Accuracy: The warrior is a deadly archer and is famous
-for his uncanny skill to target eye-sockets or other vulnerable parts
-of his enemies body. When the Wood Elf uses a bow (of any kind)
-he or she causes a Critical Hit on the roll of 5+, instead of a 6 (but
-not if the roll To Wound is exactly 5+, just as with a normal Critical
-Hit though on 6+).
+Masterful Ricochet: Learning to ricochet arrows is a life's work for
+even an Elven archer - but learning to do so within the contorted and
+irregular shapes of Athel Loren is a whole new level of mastery. The range
+of the Ricochet critical hit effect is increased to 12" and ignores line of
+sight.
 Fey protection: The flow of the forest of Athel Loren is a bit
 stronger in this warrior and offer a degree of protection against the
 winds of magic. The Elven warrior receives a Save of 4+ against the
@@ -11493,10 +11294,7 @@ hand-to-hand combat or missile attacks on a roll of 6. If the warrior
 also has the Step Aside or Dodge skill this will increase the special
 save to 4+ in the relevant area (IE a warrior with Step Aside avoids
 hand-to-hand combat attacks on 4+ and missile attacks on 6+).
-Seeker: Being an expert Tracker, the Wood Elf is able to spot even
-hidden treasures. He may modify the result of one exploration die by
-+/- 1. Only one Wood Elf Hero may possess this skill!
-Powerful Built: The warrior is strongly built for an Wood Elf, and
+Powerful Build: The warrior is strongly built for an Wood Elf, and
 is capable of feats of strength not often seen among the Wood Elf. A
 warrior with this skill may choose skills from the Strength skill table
 from now on, in addition to his other skill tables. There may bever
@@ -11508,34 +11306,12 @@ on the table as long as it is out of sight of the opposing warband and
 more than 12” from any enemy model. The Scout may set up hidden
 if you wish. If both players have models which infiltrate, roll a D6
 for each, and the lowest roll sets up first.
-Asrai Archery: The Wood Elf dose not suffer -1 penalty for
-moving and shooting
-Sniper: Centuries of stalking the intruders of Athel Loren has taught
-the Wood Elf to strike from cover without being seen. If Hidden a
-Wood Elf with this skill may shoot or cast spells and still remain
-Hidden.
-One with the Target: The Wood Elf has trained himself to enter a
-trance like state when firing a bow. If he does not move in the
-movement phase he may automatically hit one target within range
-with a single shot.
-Set Traps: Wood Elves are expert trappers and hunters and these
-skills can be put to great use in the ruins of Mordheim. A Wood Elf
-may set a trap if he spends a turn doing nothing else (he may not set
-traps if he’s just recovered from being Knocked Down). Place a
-marker in base contact with the Wood Elf. When a model, friend or
-foe, moves within 2” of the marker he risks setting of the trap – roll
-a D6. On a score of 3+ he has triggered the trap and suffers a S4 hit
-(note that the Wood Elf won’t trigger his own traps). If the trap did
-not wound the model or it didn’t trigger, the “victim” may finish his
-move otherwise he is placed Knocked Down or Stunned 2” from the
-marker. Regardless whether the trap was triggered or not, the marker
-is removed.
+Asrai Archery: The Wood Elf does not suffer -1 penalty for
+moving and shooting.
+Sniper: Gains the Sniper special rule.
 Hide in Shadow: enemy attempting to detect a Wood Elf with this
 skill must halve his inniative
-Hunters Eye - The Wood Elf’s keen eyesight and mastery of
-the bow allow him to pinpoint weak points on opponents
-body when shooting conferring a +1 mod. On injury rolls
-after a successful wound caused by shooting.
+Confused: Gains the Hatred rule of all Forest Spirits.
 
 ### Starting the game
 
@@ -11588,31 +11364,19 @@ Note that some scenarios will have special set-up rules
 Any such variation will be noted in the rules for that scenario.
 Order of play: After all warbands have been set up, players
 must determine the order of play. Players should be arrayed
-
 about the table by their set-up segment (see above). Each
 player rolls a D6. The player with the highest roll gets the
 first turn. Play proceeds clockwise around the table from
 there.
-Underdogs: In multiplayer Mordheim, the underdog is not so
-clear. Any warband can be an underdog if it is attacked by
-two or more of its rivals! Still, there may be cases where one
-warband is simply playing out of its league. To determine if a
-warband is an underdog in multiplayer Mordheim, simply
-take the warband with the lowest warband rating and
-compare it to the warband with the next highest rating. Use
-the difference in ratings and the chart from the Experience
-section of the Mordheim rules to determine if any experience
-bonus is justified for the lower warband, just as you would
-for the lower of two warbands in a two player game.
+
 Shooting into close combat: Unlike in the regular Mordheim
 rules, it is possible to shoot into close combat in multiplayer
 games, just as long as the shooters belong to a different
-warband than the models involved in the Close Combat.
-Shooters must still fire at the closest enemy model as normal
-(unless they are in an elevated position, as per the normal
-rules). However, if the shooter hits a model involved in a
-close combat, the shot may well hit one of his opponents and
-not the model itself. Randomise any missile hits between the
+warband than the models involved in the Close Combat. Enemies in
+a combat are not considered the closest enemy for the purposes
+of being the closest target for shooting, though unless their combat
+runs the risk of hitting your own allies you may target them anyway.
+Randomise any missile hits between the
 target and any models in close combat with him.
 Close combat involving multiple warbands: In multiplayer
 Mordheim it is quite possible that one warband member gets
@@ -11633,50 +11397,6 @@ warband stays on the table for the longest is normally the
 winner, though in some scenarios the winner might be the
 warband leaving the table first, as it achieves its objective and
 leaves the scene!
-Allies: Normal games of Mordheim involve one warband
-competing or fighting against another. Obviously, in this
-environment alliances are not normally possible. However, in
-multiplayer games, alliances are not only possible; they are a
-necessity for the completion of some scenarios! A single
-warband attempting to take out a dragon will find itself
-fighting an uphill battle with very little chance of success,
-indeed, it may well find itself lacking a few members after
-failing to complete its objective! Alliances can last until the
-end of the game (for example, two warbands can decide to
-ally against a third, and split whatever booty exists at the
-end), or they can be very temporary (often falling apart quite
-suddenly and violently!)
-To form an alliance, a player must declare that he is doing so
-at the start of his turn. He must declare (to all players) which
-
-
-warband(s) he wants to ally with and if they agree, the
-alliance is formed. There is no limit to the number of
-warbands a player can ally with. The following special rules
-apply to a warband and its allies:
-Members of allied warbands do not count each other as
-enemies. Members of a warband may freely run within 8" of
-members of any warbands they are allied to. Models forced to
-charge enemy models due to some special rule (such as
-Frenzy or Orc & Goblin Animosity) are not forced to charge
-allies. Note however that an Orc or Goblin failing an
-Animosity test counts allied models as friendly Hired Swords
-so if a ‘1’ is rolled for the effects of the Animosity he will
-charge or shoot at them if they are the closest friendly
-models.
-Members of allied warbands that are in combat with one
-another when the alliance is announced will automatically
-break from combat. Place the models 1" apart from each
-other. They can move as normal in their next Movement
-phase (so models knocked down or stunned follow the normal
-rules for being knocked down or stunned, etc).
-Initiating close combat with, shooting missile weapons at, or
-throwing non-helpful spells at a member of an allied warband
-automatically breaks the alliance with that warband. Note that
-this includes attacks caused by a failed Animosity test. Your
-
-allies aren’t going to be as forgiving of such behaviour as
-your own warband members might be!
 
 
 #### Scenarios
@@ -13503,6 +13223,226 @@ towards that warband to engage in HTH with that warband.
 You can be creative in this endeavour and punish those
 warbands who have no backbone.
 
+#### Scenario: Last Orders!
+
+It can be found on the ambiguous borders of the
+Chaos Wastes. Managed by coolheaded landlord
+Knute Alsgaard, the Last Hope inn remains neutral
+ground, a sanctuary where in theory, anyone is
+permitted to enter. The Last Hope has been built to
+withstand the worst kinds of predators in the
+territory. It is as much a fortress as it is a watering
+hole for exiles.
+Visitors relinquish any weapons they are carrying
+upon strict inspection. Sometimes these are returned
+to their owners. Alsgaard is an astute dealmaker and
+the Last Hope acts as a trading post that supplies arms
+and opulent goods to travellers and warriors. Patrons
+suffer the Norse proprietor’s inflation in isolation.
+The potent house ale never disappoints a dwarf.
+An unlikely mix of clientele frequents the Last Hope.
+Here is where daring adventurers from Bretonnia may
+come to discuss music with a Vampire. It is where a
+Kossar dines frequently with warriors of the Kurgan
+tribes. Imperial soldiers exchange information with
+elves while casting a shifty gaze over at the ogres who
+brought in whoever they pleased to do illicit trade
+with.
+On this particular evening the owner of the holding
+decided to turn in early. Taking the evening off
+Alsgaard leaves his customers in the capable hands of
+a full complement of bar staff. A drink is spilled! The
+brawl begins… 
+
+Terrain
+This scenario takes place inside a large inn. The layout
+of the inn is decided by the players using any suitable
+terrain that they have available, although we would
+suggest the following:
+The site of this ‘battle’ should consist of two or three
+sections, at least 10” x 10”, and not needing to be
+more than 18” x 18”. There is one section to represent
+each floor of the inn.
+The ground floor is the location of the bar room. It
+should be relatively open. It should include a bar, a
+few tables plus several chairs or benches scattered
+around. Stairs lead up to the upper floor. There might
+be a wine cellar, a kitchen, a store room or a lavatory.
+The upper floor of the inn consists of a series of
+rooms off a main hallway. Each room might include a
+bed. Add other furnishings you desire. Do not forget
+to include a marker to represent the top of the stairs
+from below. Add another set of stairs to the next level
+if you have one! The Last Hope is a fortress so it has
+another floor, which is in the open air. The roof! 
+
+Warbands
+Animals, Mounts, and Monsters are not permitted within the tavern. That includes dogs nowadays!
+
+set-up
+The warbands are scattered about the inn when the
+trouble starts. Randomly determine which floor of the
+inn each warband member begins on. Then each
+player takes turns placing each warrior in his warband.
+Warriors may not be placed in hand-to-hand combat. 
+
+starting the game
+Each player rolls a D6. The highest scoring player
+takes the first turn. 
+
+special rules
+Diving Charges: Warriors may always attempt a Diving Charge from the tables and bar, irrespective of the
+height of the furniture. Stairs may also be used.
+Unarmed: All weapons have been confiscated for this game. Armour can be worn including helmets and
+shields. Miscellaneous equipment can be carried.
+Weapons Amnesty: Due to the generally non-lethal nature of the weapons used in this fight, players
+should roll twice for Injury for each warrior taken out
+of action during the game, and choose the best result.
+Injuries for Heroes are rolled twice. In some cases,
+which result is determined to be the best may be
+something the player has to decide for himself!
+
+ending the game
+The warriors have been indulging in the inn's
+refreshments and are now very refreshed indeed! No
+Rout tests are necessary – the winner is the player with
+the last standing model. Any player may voluntarily
+rout if the excitement becomes too much. 
+
+experience
++1 Survives. If a Hero or a Henchman group survives the battle they gain +1 Experience.
++1 Winning Leader. The leader of the winning warband gains +1 Experience.
++1 Per Enemy Out of Action. Any Hero earns +1 Experience for each enemy he puts out of action. 
+
+random happenings
+The following random happenings replace the events
+described in the Random Happenings section when
+using this scenario.
+
+At the start of each player’s turn, roll a D6. If the result
+is 1 then roll another D6 to determine which event
+takes place. Random happenings are commonplace in
+the Last Hope! 
+
+D6 Result
+1 Kitchen Hands 
+The warbands are not alone in the Last Hope. Nearly
+a dozen hardened warriors are employed to run the
+inn and keep it safe from outsiders. Kitchen workers
+and bar staff enjoy a good brawl as well!
+One randomly determined member of your warband,
+that is not knocked down or stunned, takes a single
+Strength 3 hit from the inn staff. These attacks will not
+cause Critical Hits.
+
+2 Buxom Barmaid 
+A busty serving wench flits about the bar, flirting
+with patrons. This barmaid has a body to die for…
+The barmaid will approach a randomly determined
+model from your warband and invite him to defend
+her honour against the ‘nasty man over there’. That
+warrior must pass a Leadership test or move with all
+haste, escaping from combat if necessary, to charge a
+randomly determined model. First the player must
+roll to determine which warband (including his) and
+then roll again to see which model is the target. The
+optional rules for escaping from combat can be found
+in the rulebook.
+The warrior will pursue and fight his new rival until
+one of them is taken out of action.
+Warriors that are immune to psychology may ignore
+the barmaid’s advances.
+All of the warriors know that attacking the bar staff
+can only result in them getting banned. No model will
+risk attacking the barmaid.
+
+3 Liquid Courage 
+Heavy quaffing of Alsgaard’s intoxicating home brew
+takes its toll on even the most hardened of drinkers.
+Randomly determine which model fell off the wagon.
+The effects of the ale last the remainder of the battle.
+Models that are immune to poison ignore this effect.
+ D6 Result
+ 1 Blurred. The model has -1 Ballistic Skill.
+ 2 Bungled. The model has -1 Weapon Skill
+ 3 Drowsy. The model has -1 Initiative.
+ 4 Sluggish. The model has -1 Movement.
+ 5 Fortitude. The model has +1 Wound.
+ 6 Leathered! Roll twice on this table.
+ 
+4 Renegade 
+There is a mercenary leaning against the wall. The
+veteran casually observes the mayhem, quietly
+sipping from his stein. Ducking crudely improvised
+projectiles, this renegade waits to offer his services.
+The renegade approaches a random unengaged
+warrior of your warband. The model may pay him 3
+gold crowns. Any models are assumed to be carrying
+some of the gold crowns from whatever is left in the
+warbands treasury.
+If paid, he'll toss a throwing knife at a target of the
+player’s choice. On a 1-3 the renegade pockets the
+gold and asks for more. The renegade continues to
+take a further 3 gold crowns until a knife is thrown or
+until the player chooses not to pay him.
+The thrown knife will hit the target on a roll of 4+
+with Strength 4.
+
+5 Ogre Bouncer 
+The landlord has hired an ogre to work on the door.
+The bouncer is not at all happy that he has suddenly
+got so much hard graft to do.
+Place the ogre bouncer at the doorway to the inn. See
+the Bestiary for the profile and rules of an Ogre. No
+roll for alignment is required. The bouncer is
+employed to charge towards the nearest hand-to-hand
+combat, engaging as many models as possible.
+If no hand-to-hand combat is taking place then the
+ogre bouncer will stand his ground, watching for any
+further trouble.
+Re-roll this result if the ogre has been places already.
+
+6 Ornamental Weapon 
+A member of the clientele has located a sword among
+the many trophies and decorations on display at the
+inn. The warrior sets to work trying to prise it free
+from the wall fittings. It appears to be stuck fast.
+Determine a random model from the warband. If the
+warrior passes a Strength test he finds a sword.
+
+Improvised weapons
+Being forbidden to bring their weapons into the bar
+means that the warriors must make do with whatever
+comes to hand in the Last Hope. At the start of any
+turn, a warrior can search the inn for a blunt
+implement to use as a bludgeoning weapon. This
+could be a bowl, a stein, a cooking ladle, the leg of a
+chair or a local codger’s walking stick!). Only warriors
+capable of gaining experience may attempt to search.
+
+If a search is attempted the warrior may not charge.
+Roll a D6: on a 3-6 the fighter finds something
+suitable, but on a 1-2 nothing close by will work and
+the warrior will have to make do with his fists. A
+warrior searching for a weapon in combat will strike
+last that turn, regardless of success. A warrior with a
+weapon may not improvise another. If a weapon is
+found, treat it as a club with the following features:
+
+Range: Close Combat
+Strength: As user 
+Breakable: If the warrior attempts a close combat
+attack with an improvised weapon and rolls a 1 to hit,
+the item has broken and becomes useless. The warrior
+must resort to his fists for the rest of the combat and
+may search for another weapon in the next turn.
+Projectile: Alternatively, a warrior may treat the Projectile:
+improvised weapon as a missile. The weapon is
+automatically lost after it has been thrown. A weapon
+is thrown as a missile using the following features.
+Range: 6”; Strength: As user;
+Special Rules: Thrown Weapon 
+
 
 ##### Scenario: The Statue of St. Voller
 
@@ -14222,6 +14162,7 @@ or behind a secret door. Roll on the Magical Artefacts table.
 Roll a D6 and use this table to determine which item you find when a result in the Exploration chart indicates that you have
 found a magical artefact. In a campaign none of these items can appear more than once, so if you find a magic item which
 is already in someone else’s possession roll again – even if the warrior carrying it has been killed.
+
 1 The Boots and Rope of Pieter
 Pieter, the master thief of the Guild of Shadows, was the most
 famous of all the cat burglars of Mordheim. He earned the
@@ -14243,11 +14184,11 @@ The dagger is treated as a sword. Opponents wounded by it
 are Stunned on a result of 1-3 (Undead are Knocked Down as
 normal) and put Out Of Action on a 4-6.
 
-3 Att’la’s Plate Mail
+3 Att’la’s World-Treading Mail
 This armor was given as a present by the Dwarf Lord
 Kurgan to the warlord Att’la in the time of Sigmar
 Heldenhammer.
-Att’la’s Plate Mail is a suit of Gromril armor with the
+Att’la’s World-Treading Mail is a suit of Light Armour with the
 following three runes inscribed on it:
 Rune of Spell Eating: The Hero wearing this
 armor is immune to all spells.
@@ -14255,37 +14196,25 @@ Rune of Passage: The Hero can move through solid
 objects, like walls (this does not mean that he can
 see through them).
 Rune of Fortitude: The Hero has an extra wound.
-Note that this may take his total Wounds above his
-race’s maximum.
 
-4 Bow of Seeking
+
+4 Bow of Wasting
 This bow was a gift to Count Steinhardt from the Elf lords of
-the Forest of Shadows.
-Any arrow shot using this magic bow will pursue the target
-and hit it even if the target is behind cover. Treat this as an
-Elven bow that always hits on a 2+, regardless of any to hit
-modifier. Such is its deadly precision that all the arrows shot
-with this weapon count as Hunting Arrows (+1 on all Injury
-rolls).
-Pick any enemy model in range, not just the closest, but the
-shooter must be able to see the target (even the tip of a
-target’s weapon is enough – as long as the shooter is aware of
-the presence and position of the target, he can shoot). In
-addition, if any Dwarf is an eligible target, the arrows will
-always deviate from their intended target and try to hit the
-Dwarf instead. For obvious reasons this bow cannot be used
-to shoot at Elves.
+the Forest of Shadows, its blighted quiver said to contain the
+secrets of Morr himself.
+The Bow of Wasting can be equipped by any character capable of learning Shooting Skills, has a range of 24" and a Strength of 4. If a model is successfully wounded by the Bow of Wasting then it will lose one point of Toughness in each of its recovery phases for the remainder of the game. 
  
 5 Executioner’s Hood
 Recovered from a shipwrecked Dark Elf vessel, this hood
 carries evil glowing runes which fill the wearer with
-unreasoning rage.
+unreasoning unfathomable bloodthirst.
 A warrior wearing this becomes subject to and always will be
-frenzied even if he is knocked down or stunned. He also adds
-+1 to his Strength in close combat, such is the power of his
-fury. The wearer never leaves combat under any
+frenzied even if he is knocked down or stunned and adds +1 to their strength. 
+The wearer never leaves combat under any
 circumstances, and will always attack opponents in base
-contact until they are taken out of action.
+contact until they are taken out of action. If the wearer is
+in contact with multiple enemies they may direct attacks at 
+_incapacitated_ enemies even if there are also standing foes present.
 If there are any stunned or knocked down models within the
 wearer’s charge range at the beginning of his turn, he will
 charge and attack the closest one, even if they are members
@@ -14295,15 +14224,13 @@ of the warriors is taken out of action.
 6 All-Seeing Eye of Numas
 This jewel was recovered from the ruins of Numas far in the
 south. It gives its wielder horrific nightmares that predict his
-future.
+future, but an absolute clairvoyance too.
 The bearer of the All-Seeing Eye can see all models on the
 table top, even if they are hidden or out of sight. He can guide
 his fellow warband members through the ruins (this allows
 you to roll two dice for the bearer after battle when rolling on
-the Exploration chart). The bearer also has an additional 6+
-save (which is not modified by Strength or weapon
-modifiers) against all shooting attacks and strikes in close
-combat, as he can sense the attacks before they are made.
+the Exploration chart). The bearer may also roll a D6 whenever they
+are hit by an attack. On a 6 the hit is discarded.
 All animals (such as War dogs, horses, etc) will be affected
 by frenzy when fighting against the bearer of the All-Seeing
 Eye.
@@ -14412,7 +14339,7 @@ have more than two Champions.
 
 #### New recruits and existing henchmen
 
-#### groups
+#### Groups
 
 You may add new recruits to existing Henchman groups. If
 the group is relatively inexperienced, you will have no
