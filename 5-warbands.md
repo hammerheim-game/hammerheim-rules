@@ -9931,17 +9931,7 @@ advance.
 
 #### Underdogs
 
-When a warband fights against an enemy warband with a
-higher rating, its warriors earn extra Experience points as
-shown on the table below. The higher the opposing
-warband’s rating the more points the underdog earns.
-Difference in Warband rating Experience Bonus
-0 - 50 None
-51 - 75 +1
-76 - 100 +2
-101 - 150 +3
-151 - 300 +4
-301+ +5
+If a warband is deemed to be significantly weaker than the other participating warbands it may be considered an Underdog - though this must be decided unanimously by all players. An Underdog warband will recieve a bonus +1 experience to all participating Heroes and Henchmen Groups. 
 
 #### Advance rolls
 
@@ -9967,11 +9957,7 @@ Hero and pick a skill. If he is a wizard he may choose to
 randomly generate a new spell instead of a skill.
 ##### Henchmen
 
-Henchmen never add more than +1 point to any of their
-initial characteristics. If the dice roll indicates an increase in a
-characteristic which has already been increased (or is at its
-racial maximum), roll again until an unincreased
-characteristic is rolled. All warriors in the group gain the
+All warriors in the group gain the
 same advance.
 2D6 Result
 2 - 4 Advance +1 Initiative.
@@ -9990,7 +9976,7 @@ skill types your new Hero can choose from when he gains
 new skills. He can immediately make one roll on the
 Heroes Advance table. The remaining members of the
 Henchmen group, if any, roll again for the advance that
-they have earned, re-rolling any results of 10-12.
+they have earned.
 #### New skills
 
 There are several types of skill and each has a separate list.
@@ -10000,38 +9986,6 @@ warband he belongs to and what type of Hero he is.
 To select a new skill for a Hero, pick the type of skill you
 want from those available, then choose which skill has been
 learned.
-
-
-#### Characteristic increase
-
-Characteristics for certain warriors may not be increased
-beyond the maximum limits shown on the following profiles.
-If a characteristic is at its maximum, take the other option or
-roll again if you can only increase one characteristic. If both
-are already at their racial maximum, you may increase any
-other (that is not already at its racial maximum) by +1
-instead. Note that this is the only way to gain the maximum
-Movement for some races. Remember that Henchmen can
-only add +1 to any characteristic.
-
-Profile M WS BS S T W I A Ld
-Human 4 6 6 4 4 3 6 4 9
-Elf 5 7 7 4 4 3 9 4 10
-Dwarf 3 7 6 4 5 3 5 4 10
-Ogre 6 5 4 6 6 4 5 4 7
-Halfling 4 5 7 3 3 3 9 4 10
-Gor 4 7 6 4 5 4 6 4 9
-Bestigors 5 7 6 4 5 4 6 4 9
-Centigors 9 7 6 4 5 4 6 4 9
-Possessed 6 8 0 6 6 4 7 5 10
-Vampire 6 8 6 7 6 4 9 4 10
-Ghoul 5 5 2 4 5 3 5 5 7
-Wight 4 4 5 4 4 3 4 4 7
-Skaven 6 6 6 4 4 3 7 4 7
-Skaven Clan Pestilens 5 6 6 4 5 3 7 4 7
-Orc 4 6 6 4 5 3 5 4 9
-Black Orc 4 7 6 5 5 3 5 4 10
-Goblin Hero 4 5 6 4 4 3 6 4 7
 
 
 ### Skills & Abilities Lists
@@ -13036,15 +12990,15 @@ till the next turn to move with it. No warband may use
 catacombs or other like skills as information provided only
 gave a vague area of the barracks.
 When a model First touches a crate roll a D6. If the result is a
-1 then a trap has been activated. The model takes an automatic wound, but may take saves as usual. Only one trap per crate.
+1 then a trap has been activated. The model takes an automatic wound with no armour saves allowed. Only one trap per crate.
 There are many options of supplies to have in the crates. Feel
 free to change them to your gaming groups needs.
 Supplies The supplies are in crates. Each crate can be carried
 by a single model at normal movement rate (no running
 allowed). Two models may carry a crate, in which case they
 may run. While carrying a crate, the model may not fire any
-missile weapons or use any spells. If attacked, the crate will
-be dropped, ready to be carried by anyone coming into
+missile weapons or use any spells. Cavalry, Monstrous Infantry, and Monstrous Cavalry may carry one treasure chest with no penalty. Chariots and Mounted Monsters may carry any number of chests with no penalty (though they may not move in the same turn a chest is loaded into it by another warband member) If attacked, the crate will
+be dropped (unless the crate is in a chariot), ready to be carried by anyone coming into
 contact with it. Once a model escapes off the board with the
 crate, the model and crate cannot return to the board. Each
 crate in the possession of a warband at the end of the game
@@ -13626,18 +13580,15 @@ the warbands’).
 Special rules
 Warbands will begin searching the buildings for common
 items. Each warband will roll 1D6 for each searchable
-building. If they roll a 4+ they found a common item. In the
-Merchant's Square, will be D3 crates per warband. The crates
-will be placed in the middle of the Merchant's Square. When
-a warband touches a crate they must roll a D6. Only one roll
-per crate. On a roll of a 1 on a D6, the Black Pegasus will
-appear. The Black Pegasus will appear 8” inches in on a
+building. If they roll a 4+ they found a common item. In the middle of the Merchant's Square will be D3 crates per warband, working in the same way as the Raven Barracks chests. When
+a warband touches a crate they must roll a D6, only rolling once per crate. On a roll of a 1 on a D6, the Black Pegasus will
+appear - this replaces the traps found in the Raven Barracks chests. The Black Pegasus will appear 8” inches in on a
 Random Table edge. The Black Pegasus will go in the last
 turn and will attempt to fly down on the models in the
 Merchant's Square. The Black Pegasus will target the closest
 model in the Merchant's Square. Merchant's Square is the 12”
 x 12” area in the middle of the table as the streets and alleys
-would be too narrow for the Pegasus to fly into.If the Black Pegasus is encountered after 10 games have been played in the campaign then it gains +1 to each of its attributes.
+would be too narrow for the Pegasus to fly into. If the Black Pegasus is encountered after 10 games have been played in the campaign then it gains +1 to each of its attributes.
 
 Starting the game
 Each player rolls a D6. The player with the highest has the
