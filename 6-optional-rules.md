@@ -199,8 +199,8 @@ This encounter is identical to the Ogre Mercenary encounter before, except the H
 
 An enormous cloud of flies appears in the sky and swoops down on the warbands below. All models have an extra -1 to hit penalty when shooting or fighting in close combat as flies buzz around them and into open orifices. The flies remain for D3 game turns and then fly away. 
 
-#### 51. Sinkhole
-An enormous mouth suddenly opens up under the feet of one randomly determined warband member. Make an Initiative test for the model. If the test is failed, the model falls into the pit. If a 6 is rolled for the test, the model is sucked underground and taken out of action. Any other failure results in the model catching himself in the opening, which closes around him. Treat the model as being knocked down for the rest of the game, though he may not crawl. 
+#### 51. Overload
+A tense unease sits over Warband members as an inperceptible change is felt, like a sudden increase on air pressure that weighs heavily on the chest and mind. A humidity of something other than water vapour clings to their skin, ears pop, and simply breathing begins to feel weighty and somehow 'wrong'. Only those sensitive to magic will be aware of what's going on, as the Winds of Magic that usually fuel their abilities condense into an overwhelming saturation the likes of which they have never felt. Channeling the Winds with any degree of safety is all but impossible with so much of it in the area, and like a match in a room full of hydrogen it takes but a single incantation to inadvertantly channel far more power than a Wizard could ever want. For D3 game turns all attempts to cast magic or use bound spells will automatically miscast - there is no need to roll to attempt to cast the spell. Results on the Miscast table will always be "Dimensional Cascade".
 
 #### 52. The Horror in the House
 
