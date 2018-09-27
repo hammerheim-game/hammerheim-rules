@@ -316,26 +316,17 @@
 - Starting the game
     - Pre-battle sequence
     - Rules for playing multiplayer games
-    - Creating a Scenario Table
-        - Scenario table
-    - Two Player Scenarios
-        - Scenario: Defend the find
-        - Scenario: Skirmish
+    - Scenarios
+        - Scenario: Defend the Hoard
         - Scenario: Wyrdstone hunt
         - Scenario: Breakthrough
         - Scenario: Street fight
         - Scenario: Chance encounter
         - Scenario: Hidden treasure
         - Scenario: Occupy
-        - Scenario: Surprise attack
         - Scenario: The Rescue
-        - Scenario: Stake-Out
         - Scenario: Race to the Stash
-        - Scenario: Camp Assault
         - Scenario: Happy Harpy Hunting Grounds
-    - Multiplayer Scenarios
-        - Scenario: Treasure hunt
-        - Scenario: Street brawl
         - Scenario: The Lost Prince
         - Scenario: The Pool
         - Scenario: Ambush!
@@ -351,6 +342,8 @@
         - Scenario: The Middle Bridge
         - Scenario: The Cemetery of St. Voller
         - Scenario: The Merchant Square
+        - Scenario: Getting Personal
+        - Scenario: The Canal
 - Income
     - Rolling multiples
     - Exploration procedure
@@ -13557,99 +13550,37 @@ You can be creative in this endeavour and punish those
 warbands who have no backbone.
 
 
-##### Scenario: The Cemetery of St. Voller <<REWORK ME!!!!>>
+##### Scenario: The Statue of St. Voller
 
-By Nick Kyme and Andy Hall
-A grim and foreboding place, the Cemetery of St Voller had a dire
-reputation even before the comet struck and changed Mordheim
-forever. Now, the cemetery is a haunted place, where the dead do
-not rest easy. Indeed, many of the graves are open and the numerous
-tombs and mausoleums of the city’s more opulent patrons, cracked
-like rotting wounds. Though whether this is from the attentions of
-ambitious grave robbers or the stirrings of the unquiet dead, who
-knows...
-One warband is out searching the cemetery’s grounds for loot, in
-part at their Priest’s behest and to pilfer what remains on the
-corpses of the rich and influential. The cemetery, though, is vast and
-the warband spread thin. In the shadows of a vast statue, depicting
-the cemetery’s patron they are set upon by another warband, lying
-in wait...
+The story of Saint Voller is all but lost to history, the documentation of her works largely kept within the great libraries of Mordheim. Folklore and myth is all that survives by way of her legacy, but whatever the truth may have been she is revered by the Cult of Morr as one of their matron saints. Her statue was a place of pilgrimage to many who prayed that the dead keep their rest, and due to the wild and wonton magical experimentation present in Mordheim before the meteor strike her blessings were desperately sought after lest a lost loved one be forced to live an eternity of servitude at the hands of some vile necromancer some day. When the statue miraculously survived the meteor strike many survivors deemed it a blessing of Morr itself, and survivors brought their dead by the cartload to the statue in the hopes that their deaths be consecrated and their souls kept safe. Bodies piled the pavements, and with no safe way out of the city to bury the bodies the surrounding buildings became macabre warehouses stacked to the rafters with corpses simply to keep the roads clear.
+
+So many dead and dying in one place was never going to end well. The sheer concentration of corpses and the opportunity to desecrate a shrine to a hated nemesis drew the attention of necromancers even beyond the city walls, and for a few mortifying months the plaza surrounding the statue became a Mecca for necromancers looking to practice their arts and refresh their supply of corpses. The district is lost to the undead now, for whatever riches it may hold simply aren't worth the inevitable wall of attrition that the thousands of reanimated corpses can provide, save for the statue itself. The Statue of Saint Voller maintains the properties of her patron god Morr, an anathema to all things undead. Undead who approach find their souls drained from their bodies, eventually disintegrating into nothingness without their sustenance. Harnessing the power of this statue or corrupting it to your own ends will prove a valuable asset within the City of The Damned, but warbands will need to move quickly. Noise awakens the unquiet dead within these sardine-packed buildings
+
 Terrain
-Starting with the attacker, each player takes it in turn to place
-a piece of terrain. As the warbands are battling in a cemetery,
-there should be a large number of graves, mausoleums, tombs
-etc. Some of these can be erected on mounds and some
-should be open. In the centre of the battlefield should be a
-large statue – the image representing St. Voller. We suggest
-that the terrain is set up in an area roughly 4' x 4'.
-Set-up
+The city is set up as per regular Mordheim. In the centre of the battlefield should be a
+large statue – the shrine representing Saint Voller.
 
-1. The defending player rolls a D6 for each Hero and
-Henchman group in his warband, in any order he chooses. On
-a 1-3, they are elsewhere in the ruins and turn up later as
-reinforcements. On a 4-6 they are deployed at the start of the
-game.
-Note that at least one Hero or Henchmen group will be
-present at the start. If all roll 1-3, the last Hero or Henchmen
-group will automatically be deployed at the start of the battle.
-2. The defender deploys his available Heroes and Henchmen
-on the table. No model may be closer than 8" to another
-model, as the warband is spread out wide to search the ruins.
-No model may be deployed closer than 8" to a table edge.
-3. The attacker deploys his whole warband within 8" of a
-random table edge, as shown below. He may choose which
-edge to nominate as ‘1’ before rolling to see where he
-deploys.
-    Starting the game
-The attacker always gets the first turn. However, if the
-warband has a Priest of Morr, they will automatically get the
-first turn instead. Note if both warbands have this Priest of
-Morr, then the attacker goes first.
+Starting the game
+Roll a D6, the highest roll goes first. Play then proceeds clockwise. Special deployment rules may not be used for this scenario, no scout would be mad enough to camp out in a warehouse so zombie-infested that there's no room to stand.
 
 Special rules
-Reinforcements: The defender, at the start of his second and
-subsequent turns, may roll a D6 for each of his Henchmen
-groups or Heroes not yet on the table. On a 4+ they move on
-in the movement phase from a random table edge, roll a D6
-(Starting at the table edge to nominate as ‘1’ and going
-clockwise for edges 2, 3 & 4. On a roll of a 5 the defending
-player may freely choose which edge they will deploy from,
-but on a roll of a 6 the attacking player may choose which
-edge they will deploy from) All reinforcements for that turn
-arrive from the same edge and may charge on the turn in
-which they arrive.
-Open graves: Open graves are treated like being on the edge
-of a ledge for warriors within 1" of them. If a model falls into
-an open grave they suffer a Strength 2 hit and must climb 2"
-to get out next turn.
-The Unquiet Dead: After each player has taken a turn and
-always rolling at the start player’s turn who went first, roll a
-D6. On a roll of 1 or 2, D3+1 zombies (these are the same as
-the Undead warband Henchmen on page 89 of the Mordheim
-rulebook) emerge from the graves. These models are be
-placed by the player with the lowest warband rating within 1"
-of any grave. The zombies don’t move and attack until the
-end of the second player’s turn. They will always move
-towards the nearest model, choosing a living one, if they are
-equidistant, and charging if possible. Note, they will even
-attack other Undead models but not if they are also the
-Unquiet Dead.
-The Statue of St. Voller: Though Mordheim is lost and a
-wholly depraved place, the spirit of St. Voller still exerts
-some guardianship over the cemetery. Any of the Unquiet
-Dead that rise from the graves may not move within 3" of the
-statue as its holy aura repels them.
+The Unquiet Dead: At the end of each round turn every building's occupants will begin to stir. Gnarled and withered hands pull at boarded-up windows, and mindless groans dryly echo through the decreasingly deserted streets. For every building on the map roll a D6. On a result of a 1 or 2 D3+1 Zombies will emerge, touching the building and placed between it and the nearest Warband member. This counts as their movement action. If a Warband Member is in the building and is not Hidden then the Unquiet Dead subtract 2 from the roll to see if they emerge. If the nearest Warband member is inside the building then all emerging zombies from that building will immediately go into combat with them, counting as charging, and dividing up between all warband members inside. These Zombies are the same as the Henchmen from the Undead warband, though they do not grant any Experience for taking Out of Action.
+
+Shhhhh!: The Unquiet Dead ironically prefer peace and quiet, being drawn to attack sources of noise nearby. If a Blackpowder Weapon is fired the nearest two buildings to the character who fired will immediately spawn zombies as if they had just rolled a 1 or 2 in the Unquiet Dead turn. 
+
+The Statue of Saint Voller: Though Mordheim is lost and a wholly depraved place, the spirit of Saint Voller still exerts some guardianship. Unquiet Dead will never voluntarily move within 4" of the statue, and any Undead model that ends its movement phase within this zone must take a leadership test (they may use their warband leader's leadership). For every point they fail by they suffer a wound with no armour saves allowed. The statue itself holds an inky black pendant swimming with grey and purple shadows, a Talisman of Saint Voller. This talisman may be retrieved as if it was a shard of wyrdstone, with all the same rules as wyrdstone from the Wyrdstone Hunt.
+
 Ending the game
-The game ends when one warband fails a Rout test. The
-routing warband loses.
+The game ends when either all warbands but one have failed their rout tests, or if a character escapes the board with the Talisman of Saint Voller.
 Experience
 +1 Survives. If a Hero or Henchman group survives the battle
 they gain +1 Experience.
 +1 Winning Leader. The leader of the winning warband gains
 +1 Experience.
 +1 Per Enemy Out of Action. A Hero gains +1 Experience
-for each enemy (and Unquiet Dead) he puts out of action.
+for each enemy (excluding Unquiet Dead) he puts out of action.
 
+The Talisman of Saint Voller when worn by a non-Undead character causes Terror in Undead models, even though they would usually be immune to psychology. When worn by an Undead warband leader their warband will never crumble due to the loss of a Necromancer or Heirophant, even if the leader is taken Out of Action - their studying of Morr and corruption of Voller's Talisman has made their soul-binding more potent than ever before!
 
 ##### Scenario: The Merchant Square
 
@@ -13753,6 +13684,60 @@ D3 Healing Herbs 3
 1 Gromril Weapon 4
 1 Dose Bugman's Ale 5
 1 Eleven Cloak 6
+
+#### Scenario: Getting Personal
+
+This scenario is designed for campaign games with any number of players present. A personal dispute has erupted between several famous/infamous characters in Mordheim, and eager to profit from the spoils of this sort of carnage the warbands have rushed in to pick at the remains. Unfortunately they appear to have been rather swept up in it all, and with famous names aligning themselves with warbands unexpectedly they find themselves in the midst of a sudden brawl!
+
+Terrain
+The board is set up as per normal Mordheim.
+
+Set-up
+Warbands deploy in their usual locations
+.
+Warbands
+In this scenario each warband is joined by a randomly selected character from the list of MVPs! These characters are completely controlled by the owning player, though they are treated independently from your warband. They do not count for the purposes of either warband size or as losses for routing, and if your warband routs then the player may continue to play as the MVP. They also will not drop their unique items when defeated. 
+
+Starting the game
+Determined as normal.
+
+Ending the game
+The game ends if either one warband remains and all other MVPs have been taken out of action, or if all warbands are routed and there are only MVPs left on the board. In this case there are no winners.
+
+If a warband wins the scenario AND their MVP is still alive then they recieve a bonus 3xp to be distributed as they see fit among their heroes as the MVP thanks them after the battle and tells them some stories!
+
+
+#### Scenario: The Canal (Even number of players only)
+
+Setup: This map takes place using four tiles. Leave an 8" gap between them running down the middle of the board, this represents the canal. The middle of the board will feature four buildings with two long walkways offering crossings over the canal. These are the only two crossing points, and are what the warbands are seeking to control. The rest of the board should feature dense terrain.
+
+Deployment: The warbands deploy up to 12" towards the canal from the corners and 8" towards the opposite table edge. Scout, Infiltrate, and Hunch may not be used in this scenario.
+
+Special Rules: The syrupy swamp-thick muck of Mordheim's polluted canal is home to monsters disgustingly mutated and horrific enough to chill a vampire's marrow. At the start of each round turn (before the first player's go) roll a dice for each warband member in the canal. If any of these results is a 1, then the Abomination has arrived. Randomize which end of the canal it emerges from and it will then move as quickly as possible towards the opposite table edge engaging in combat with nearest model where possible. It is unaffected by the difficult terrain, and if its movement takes it to the table edge it will stop and then turn around. It will repeat this patrolling action until the game is over or it is taken out of action.
+
+Before the comet struck the canals were infamous for their vile pollution, the canal's waters so contaminated with sewage and alchemical reagents' run-off that even droughted beggars wouldn't consider drinking it. The latent wyrdstone energies brought about by the cataclysmic meteor have hardly improved things, transforming the waters into a toxic slurry that coats the flagstones around it like bile. Attempting to leave the canal will require a climbing check as warband members struggle to find purchase on the smooth treacherous stone. This means it requires an initiative test, and mounted units will be unable to exit at all as they become bogged down in the goop. Alternatively a friendly model of the same or larger unit type can move into contact with them and take a strength test to pull them free (good luck pulling an ogre out of a swamp, Brian.) Additionally the waters are so blighted and foul that all Nurgle-aligned models suffer from Stupidity while inside it as they wantonly revel in the filth.
+
+Ending the game: After eight turns the game will end. A warband has won the scenario if either it controls at least three out of the four objective buildings by the end of the eighth turn (only contains warband members owned by the player) or is the last warband remaining.
+
+Rewards:
++1xp for Occupation. If the game ends by turn limit then for each building a warband controls it can give a bonus XP point to one of its occupying members. 
++1 xp for wounding the Abomination. Any Hero or Henchmen that successfully wounds the Abomination gains a bonus experience.
++2xp for putting the Abomination OOA. Any Hero or Henchmen that successfully puts the Abomination out of action gains a bonus experience.
+Extort Tolls: Warbands that do not rout by the end of the game gain 30 gold per building they control.
+
+
+The Abomination is a Monster and has the following profile:
+M	WS	S	T	W	I	A	Ld	Sv
+2d6	4	5	6	5	1	2D6	10	-
+
+Special Rules:
+Ravenous Maw: The Abomination's great slavering orophice is yawning enough to acommodate the largest prey. There is nothing beyond its appetites. It therefore has the Heroic Killing Blow ability.
+Magical Monstrosity: The Abomination is a Chaos Spawn so mutated by the twisting of reality caused by the saturation of Wyrdstone energy that the very Winds of Magic distort and tear around it. The Abomination has a 4+ ward save against wounds or failed characteristic tests caused by spells.
+Terror
+Large Target
+No Pain: The Abomination ignores all Knocked Down and Stunned results, instead reducing its attacks characteristic to D6 until the Abomination's next turn.
+Immune to Poison
+Immune to Psychology
 
 
 ### Income
@@ -14023,11 +14008,7 @@ You find several items worth 2D6 GC in total.
 As you are returning to your encampment, you meet one of
 your old acquaintances. He has come to repay an old favour
 or debt.
-You gain the services of any one Hired Sword (choose from
-those available to your warband) for the duration of the next
-battle, free of charge. After the battle he will depart, or you
-may continue to pay for his upkeep as normal. See the Hired
-Swords section on page 219.
+You gain the services of a single character from your Warhammer book worth up to 75pts. They may not use any magic items. They will join your warband for the next game only before leaving. They will not contribute to your exploration dice, but do not require upkeep either - they are completely free.
 
 
 ##### Four of a kind
