@@ -194,10 +194,14 @@ Life and death in Mordheim is decided by the quantity and quality of the weapons
 
 The axe is the traditional weapon of Empire woodsmen, and is also used as a weapon in poorer rural areas. Axes have a heavy blade and, if swung by a strong man, can cause a lot of damage. The blade of an axe can easily cut through armor, though it requires considerable strength from the wielder. Of all the warriors in the Old World, Dwarfs are the most adept at making axes. Their axes are invaluable to the warriors of the Old World and are some of the most sought after weapons. 
 
-Range: Close Combat
-Strength: As user
-Special Rule: Cutting Edge
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ Cutting Edge
+
+
 Cutting Edge: An axe has an extra save modifier of -1, so a
 model with Strength 4 using an axe has a -2 save modifier
 when he hits an opponent in hand-to-hand combat.
@@ -208,13 +212,18 @@ This is a huge iron ball with a chain attached, used by the dreaded
 Night Goblin Fanatics to deal out whirling death. Enormously
 heavy, it can only be used when combined with Mad Cap
 Mushrooms.
-[Goblins Only]
-Range: Close combat
-Strength: As user +
-Special Rule: Two Handed, Incredible Force,
-Cumbersome, Unwieldy, Random,
 
-Special Rules
+_[Goblins Only]_
+
+__
+__Range:____ Close combat
+
+__
+__Strength:____ As user +
+
+__
+__Special Rules:____ Two Handed, Incredible Force, Cumbersome, Unwieldy, Random,
+
 _Two Handed:__ A model armed with a Ball and Chain may
 not use a shield, buckler or additional weapon in close
 combat. If the model is equipped with a shield he will still get
@@ -230,8 +239,7 @@ __Random:__ The only way to wield a Ball and Chain is to swing it around in larg
 
 | D6 | Effect |
 | :-: | :-: |
-| 1 | The model trips and strangles himself with the chain. The model is taken Out Of Action. When rolling for Injury after the game, a roll of 1-3 means the model is
-out permanently, instead of the normal 1-2.  |
+| 1 | The model trips and strangles himself with the chain. The model is taken Out Of Action. When rolling for Injury after the game, a roll of 1-3 means the model is out permanently, instead of the normal 1-2.  |
 | 2-5 | The model moves 2D6" in a direction nominated by the controlling player. |
 | 6 | The model moves 2D6" in a random direction. If theplayer owns a Scatter dice (available from Games Workshop stores), roll that to determine direction. If not, see core rules for using D6 dice as scatter dice. |
 
@@ -241,36 +249,42 @@ The favoured spear of the hobgoblin warriors is equipped with gruesome rear-faci
 
 _[Hobgoblin Only]_
 
-Range: Close Combat
-Strength: As user
-Special Rule: Strike First, Unwieldy, Cavalry Bonus, +
-To Wound
-Special Rules
-Strike First: A warrior with a spear strikes first in the first
-turn of hand-to-hand combat.
-Unwieldy: A warrior with a spear may only use a shield or a
-buckler in his other hand. He may not use a second weapon.
-Cavalry Bonus: If using the rules for mounted models, a
-mounted warrior armed with a spear receives a +1 Strength
-bonus when he charges. This bonus only applies for that turn.
-+1 To Wound: Because of the bards on the spear the user
-gets a +1 To Wound.
+__
+__Range:____ Close Combat
+
+__
+__Strength:____ As user
+
+__
+__Special Rules:____ Strike First, Unwieldy, Cavalry Bonus, + To Wound
+
+__Strike First:__ A warrior with a spear strikes first in the first turn of hand-to-hand combat.
+
+__Unwieldy:__ A warrior with a spear may only use a shield or a buckler in his other hand. He may not use a second weapon.
+
+__Cavalry Bonus:__ If using the rules for mounted models, a mounted warrior armed with a spear receives a +1 Strength bonus when he charges. This bonus only applies for that turn. +1 To Wound: Because of the bards on the spear the user gets a +1 To Wound.
 
 
 ### Beastlash
 
-The Beastmaster make good use of their whips to goad their hounds
-and creatures into combat.
-[Dark Elves Only]
-Range: Close Combat
-Strength: As User
-Special Rule: Beastbane, Cannot Be Parried, Whipcrack
-Special Rules
-Beastbane: The Beastmaster wielding a Beastlash causes
-Fear in animals, any animal charged or wishing to charge a
-Beastmaster with one of these weapons must first take a Fear
-test as mentioned in the psychology section of the Mordheim
+The Beastmaster make good use of their whips to goad their hounds and creatures into combat.
+
+_[Dark Elves Only]_
+
+__
+__Range:____ Close Combat
+
+__
+__Strength:____ As User
+
+__
+__Special Rules:____ Beastbane, Cannot Be Parried, Whipcrack
+
+__Beastbane:__ The Beastmaster wielding a Beastlash causes Fear in animals, any animal charged or wishing to charge a Beastmaster with one of these weapons must first take a Fear test as mentioned in the psychology section of the Mordheim
 rules.
+
+\page
+
 Cannot Be Parried: The Beastlash is a flexible weapon and
 the Beastmaster use it with great expertise. Attempts to parry
 its strikes are futile. A model attacked by a Beastlash may not
@@ -289,115 +303,118 @@ whip gets the whipcrack +1A.
 
 Some influential Goblins carry badges of office, usually taking the
 form of long wooden poles with an icon or sharp blade on the end.
-[Forest Goblins Only]
-Range: Close Combat
-Strength: As user
-Special Rule: Strike First, Unwieldy, Cavalry Bonus,
+
+_[Forest Goblins Only]_
+
+__
+__Range:____ Close Combat
+
+__
+__Strength:____ As user
+
+__
+__Special Rules:____ Strike First, Unwieldy, Cavalry Bonus,
 Animosity
-Special Rules
-Strike First: A warrior with a spear strikes first in the first
-turn of hand-to-hand combat.
-Unwieldy: A warrior with a spear may only use a shield or a
-buckler in his other hand. He may not use a second weapon.
-Cavalry Bonus: If using the rules for mounted models, a
-mounted warrior armed with a spear receives a +1 Strength
-bonus when he charges. This bonus only applies for that turn.
-Animosity: The Hero with a boss pole and any Goblin
-henchmen within 6" to ignore animosity.
+
+
+__Strike First:__ A warrior with a spear strikes first in the first turn of hand-to-hand combat.
+
+__Unwieldy:__ A warrior with a spear may only use a shield or a buckler in his other hand. He may not use a second weapon.
+
+__Cavalry Bonus:__ If using the rules for mounted models, a mounted warrior armed with a spear receives a +1 Strength bonus when he charges. This bonus only applies for that turn.
+
+__Animosity:__ The Hero with a boss pole and any Goblin henchmen within 6" to ignore animosity.
 
 ### Brazier Iron
 
-The brazier iron is a weapon commonly used by witch hunters. It
-consists of a long heft topped by an iron cup filled with burning hot
-coals. In combat, the weapon takes on an eldritch quality as the
-burning embers sear the air as it is swung, opponents are sent
-reeling in flaming agony as they are set on fire
-Range: Close combat
-Strength: As user +
-Special Rule: Two-handed, Fire,
-Special Rules
-Two-handed: As a brazier requires two hands to use, a
-model using a brazier may not use a shield, buckler or
-additional weapon in close combat. If the model has a shield
-he still gets a +1 bonus to his armor save against shooting.
-Fire: Whenever you score a successful hit with the brazier
-staff roll a D6. If you roll a 5+ the victim is set on fire. If the
-warrior survives the attack they must score a 4+ in the
-Recovery phase or suffer a Strength 4 hit each turn they are
-on fire and will be unable to do anything other than move.
-Other warriors from the same warband may help to put the
-flames out if they wish. They must move into base-to-base
-contact and score a 4+in the Recovery phase.
+The brazier iron is a weapon commonly used by witch hunters. It consists of a long heft topped by an iron cup filled with burning hot coals. In combat, the weapon takes on an eldritch quality as the burning embers sear the air as it is swung, opponents are sent reeling in flaming agony as they are set on fire.
+
+__
+__Range:____ Close combat
+
+__
+__Strength:____ As user +
+
+__
+__Special Rules:____ Two-handed, Fire,
+
+__Two-handed:__ As a brazier requires two hands to use, a model using a brazier may not use a shield, buckler or additional weapon in close combat. If the model has a shield, they still gets a +1 bonus to his armor save against shooting.
+
+__Fire:__ Whenever you score a successful hit with the brazier staff roll a D6. If you roll a 5+ the victim is set on fire. If the warrior survives the attack they must score a 4+ in the Recovery phase or suffer a Strength 4 hit each turn they are on fire and will be unable to do anything other than move. Other warriors from the same warband may help to put the flames out if they wish. They must move into base-to-base contact and score a 4+in the Recovery phase.
+
 ### Censer
 
-The censer is a hollow spiked metal ball attached to a long chain
-and is swung like a flail. A plague infested shard of warpstone burns
-inside the ball and emits pestilential fumes that nauseate the
-opponents and may turn the wielder of the censer into a difficult
-target to shoot at.
-[Skaven, Clan Pestilens Only]
-Range: Close Combat
-Strength: As User +
-Special Rule: Heavy, Two-Handed, Fog of Death
-Special Rules
-Heavy: The +2 Strength bonus applies only to the first turn
-of hand to hand combat.
-Two-handed: A censer requires two hands to be used and the
-wielder cannot use a shield, buckler or additional weapon in
-close combat.
-Fog of Death: A model hit by the censer must take a
-Toughness test. Roll a D6. If the result is higher than the
-Toughness of the model taking the test, he will suffer an
-automatic wound in addition to the censer hit. A result of 6
-always inflicts a wound. Also the model wielding the censer
-must take the test and will suffer a wound with a result of 6.
-Models of undead and possessed are immune to the fog of
-death and do not take the test. If the model wielding the
-censer also has the fog-enhancing warpstone shards, he
-becomes a difficult target to shoot at, and models targeting
-him with missile weapons suffer a -1 penalty to hit.
+The censer is a hollow spiked metal ball attached to a long chain and is swung like a flail. A plague infested shard of warpstone burns inside the ball and emits pestilential fumes that nauseate the opponents and may turn the wielder of the censer into a difficult target to shoot at. 
+
+_[Skaven, Clan Pestilens Only]_
+
+__
+__Range:____ Close Combat
+
+__
+__Strength:____ As User +
+
+__
+__Special Rules:____ Heavy, Two-Handed, Fog of Death
+
+__Heavy:__ The +2 Strength bonus applies only to the first turn of hand to hand combat.
+
+__Two-handed:__ A censer requires two hands to be used and the wielder cannot use a shield, buckler or additional weapon in close combat.
+
+__Fog of Death:__ A model hit by the censer must take a Toughness test. Roll a D6. If the result is higher than the Toughness of the model taking the test, he will suffer an
+automatic wound in addition to the censer hit. A result of 6 always inflicts a wound. Also the model wielding the censer must take the test and will suffer a wound with a result of 6.
+Models of undead and possessed are immune to the fog of death and do not take the test. If the model wielding the censer also has the fog-enhancing warpstone shards, he
+becomes a difficult target to shoot at, and models targeting him with missile weapons suffer a -1 penalty to hit.
 
 
 ### Claw of the Old Ones
 
-This is a very ancient weapon made from a strange metal that is
-impervious to age and corrosion. The powers of this artefact can
-only be unleashed through a ritual known only to a handful of
-Amazons. The blade of this weapon glows white hot and can cut
-through armor as if it were paper.
-Range: Close Combat
-Strength: As User +
-Special Rule: No Save, Parry
-Special Rules
-No Save: The blade of the Claw can literally cut through
-anything. A warrior wounded by a Claw receives no armor
-save whatsoever.
-Parry: User may parry as per normal rules.
+This is a very ancient weapon made from a strange metal that is impervious to age and corrosion. The powers of this artefact can only be unleashed through a ritual known only to a handful of Amazons. The blade of this weapon glows white hot and can cut through armor as if it were paper. 
+
+__
+__Range:____ Close Combat
+
+__
+__Strength:____ As User +
+
+__
+__Special Rules:____ No Save, Parry
+
+__No Save:__ The blade of the Claw can literally cut through anything. A warrior wounded by a Claw receives no armor save whatsoever.
+
+__Parry:__ User may parry as per normal rules.
 
 ### Dagger
 
-Daggers and knives are extremely common, and men are allowed to
-carry them in enclaves where weapons are otherwise forbidden.
-Many a warrior in Mordheim has died with a dagger in his back.
-Range: Close Combat
-Strength: As user
-Special Rule: +1 Enemy Armor Save
-Special Rules
-+1 Enemy Armor Save: Daggers are not the best weapons
-to use for penetrating an enemy model’s armor. An enemy
-wounded by a dagger gains a +1 bonus to his armor save,
-and a 6+ armor save if he has none normally.
+Daggers and knives are extremely common, and men are allowed to carry them in enclaves where weapons are otherwise forbidden. Many a warrior in Mordheim has died with a dagger in his back.
+
+__
+__Range:____ Close Combat
+
+__
+__Strength:____ As user
+
+__
+__Special Rules:____ +1 Enemy Armor Save
+
+__+1 Enemy Armor Save:__ Daggers are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a dagger gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
 
 ### Disease Dagger
 
 This dagger is permanently covered with a disgusting and
 moulderish layer of green ooze that may infect those that are hit
 with terrible diseases.
-[Skaven, Clan Pestilens Only]
-Range: Close Combat
-Strength: -
-Special Rule: +1 Enemy Armor Save
-Special Rules
+
+_[Skaven, Clan Pestilens Only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ -
+
+__Special Rules:__ +1 Enemy Armor Save
+
+
 +1 Enemy Armor Save: Daggers are not the best weapons
 to use for penetrating an enemy model’s armor. An enemy
 wounded by a dagger gains a +1 bonus to his armor save,
@@ -419,10 +436,14 @@ A blow from a double-handed axe or sword can cut a foe in half and
 break armor apart. It takes a long time to learn how to use these
 weapons and even then only extremely strong men are able to wield
 them effectively.
-Range: Close Combat
-Strength: As user +
-Special Rule: Two-handed, Strike Last,
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user +
+
+__Special Rules:__ Two-handed, Strike Last,
+
+
 Two-handed: A model armed with a double-handed weapon
 may not use a shield, buckler or additional weapon in close
 combat. If the model is equipped with a shield he will still get
@@ -435,11 +456,17 @@ Dwarf axes are smaller-hafted weapons made of lighter (but
 stronger) materials than normal axes. Dwarf Warriors are specially
 trained in their use and are able to use them as deftly as a Human
 warrior might wield a sword.
-[Dwarves Only]
-Range: Close Combat
-Strength: As user
-Special Rule: Cutting Edge, Parry
-Special Rules
+
+_[Dwarves Only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ Cutting Edge, Parry
+
+
 Cutting Edge: Dwarf axes have an extra save modifier of -1,
 so a model with Strength 4 using a Dwarf axe has a -2 save
 modifier when he hits an opponent with the axe in close
@@ -465,11 +492,17 @@ weapons. The most famous of these are the Eshin Fighting Claws:
 sharp metal blades attached to the paws of a Skaven warrior. It
 takes a real expert to use them effectively, but an adept of Clan
 Eshin is a fearsome opponent when armed this way.
-[Skaven, Clan Eshin Only]
-Range: Close Combat
-Strength: As User
-Special Rule: Pair, Climb, Parry, Cumbersome
-Special Rules
+
+_[Skaven, Clan Eshin Only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As User
+
+__Special Rules:__ Pair, Climb, Parry, Cumbersome
+
+
 Pair: Fighting Claws are traditionally used in pairs, one in
 each hand. A warrior armed with Fighting Claws gets an
 additional attack.
@@ -489,10 +522,14 @@ comparable to Halflings going without food for eight hours!
 Note: The following rule only apply to warriors who have lost their
 weapons. Creatures such as Zombies, animals, etc, ignore these
 rules. Warriors using their fists can only ever make 1 attack.
-Range: Close Combat
-Strength: As user -
-Special Rule: +1 Enemy Armor Save
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user -
+
+__Special Rules:__ +1 Enemy Armor Save
+
+
 +1 Enemy Armor Save: An enemy wounded by a fist gains
 a +1 bonus to his armor save, and a 6+ armor save if he
 normally has none.
@@ -504,10 +541,14 @@ consists of heavy weights, often spiked, attached to a pole or handle
 by means of heavy chains. Flails drain the user’s stamina quickly,
 but are awesomely destructive in the hands of a skilled (or
 unhinged) warrior.
-Range: Close Combat
-Strength: As user +
-Special Rule: Heavy, Two-handed
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user +
+
+__Special Rules:__ Heavy, Two-handed
+
+
 Heavy: A flail is extremely tiring to use and thus the +
 Strength bonus applies only in the first turn of each hand-to-
 hand combat.
@@ -522,10 +563,14 @@ The halberd’s heavy blade is mounted upon a sturdy shaft of
 oak or steel and has a point like a spear and a cutting edge
 like an axe. Since it can be used to chop as well as thrust, it is
 an adaptable weapon, but is difficult to use inside buildings.
-Range: Close Combat
-Strength: As user +
-Special Rule: Two-handed
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user +
+
+__Special Rules:__ Two-handed
+
+
 Two-handed: A model armed with a halberd may not use a
 shield, buckler or additional weapon in close combat. If the
 model has a shield he still gets a +1 bonus to his armor save
@@ -536,10 +581,14 @@ Perhaps the simplest type of weapon, these brutal, bludgeoning
 instruments range from primitive wooden clubs to elaborately
 forged Dwarf hammers made from the finest steel. A blow from a
 mace can easily crush a skull or knock a man unconscious.
-Range: Close Combat
-Strength: As user
-Special Rule: Concussion
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ Concussion
+
+
 Concussion: Hammers and other bludgeoning weapons are
 excellent to use for striking your enemy senseless. When
 using a hammer, club or mace, a roll of 2-4 is treated as
@@ -550,10 +599,14 @@ This is a great hammer similar to the ones used by the Knights of the
 White Wolf. Far too bulky to use in one hand, a horseman’s hammer
 is best suited to mounted combat, when the impetus of the horse may
 be used to add to the power of the weapon.
-Range: Close Combat
-Strength: As user +
-Special Rule: Two-handed, Cavalry Charge
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user +
+
+__Special Rules:__ Two-handed, Cavalry Charge
+
+
 Two-handed: A model armed with a horseman’s hammer
 may not use a shield, buckler, or additional weapon in close
 combat. If the model is equipped with a shield he will still get
@@ -568,10 +621,14 @@ only applies for that turn.
 This is an Arabian-style punch dagger. It has a handle
 perpendicular to the blade and is used in a punching thrusting
 manner.
-Range: Close Combat
-Strength: As user
-Special Rule: -1 Enemy Armor Save
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ -1 Enemy Armor Save
+
+
 -1 Enemy Armor Save: The Katar is a better weapon to use
 for penetrating an enemy model’s armor. An enemy
 wounded by a Katar gains a -1 bonus to his armor save.
@@ -585,10 +642,14 @@ chosen weapons of Knights Templar and other wealthy warriors. To
 use a lance requires great skill and strength, and only the richest
 warriors ride the heavy warhorses needed to wield these mighty
 weapons effectively.
-Range: Close Combat
-Strength: As user +
-Special Rule: Cavalry Weapon, Cavalry Bonus
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user +
+
+__Special Rules:__ Cavalry Weapon, Cavalry Bonus
+
+
 Cavalry Weapon: A warrior must own a warhorse to use a
 lance, as it can only be used whilst he is on horseback.
 Cavalry Bonus: If using optional rules for mounted models,
@@ -600,10 +661,14 @@ when he charges. This bonus only applies for that turn.
 A morning star consists of a wooden or steel shaft with heavy chains
 that have spiked steel balls attached. It is very destructive and
 requires great skill to wield effectively.
-Range: Close Combat
-Strength: As user +
-Special Rule: Heavy, Difficult to Use
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user +
+
+__Special Rules:__ Heavy, Difficult to Use
+
+
 Heavy: The morning star is extremely tiring to use, so its +
 Strength bonus applies only in the first turn of each hand-to-
 hand combat.
@@ -617,10 +682,14 @@ normal though.
 The Pike is somewhat longer than a spear and is weighted so that it
 can be wielded efficiently between the trees, underbrush and
 between narrow buildings.
-Range: Close Combat (3”)
-Strength: As user
-Special Rule: Strike First, Unwieldy, Length
-Special Rules
+
+__Range:__ Close Combat (3”)
+
+__Strength:__ As user
+
+__Special Rules:__ Strike First, Unwieldy, Length
+
+
 Strike First: A warrior with a Pike strikes first in the first
 turn of hand-to-hand combat, even if charged with a model
 with a spear. After the initial round of combat resolve strikes
@@ -638,11 +707,17 @@ Clan Pestilens has created a hellish weapon, called the plague
 sword. These warpstone blades carry disease and corruption with
 each strike. The infection caused with each blow renders the
 wounded extremely ill, and will disable even the strongest foe.
-[Skaven, Clan Pestilens only]
-Range: Close Combat
-Strength: As user
-Special Rule: Parry, Contagion
-Special Rules
+
+_[Skaven, Clan Pestilens only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ Parry, Contagion
+
+
 Parry: Plague swords offer an excellent balance of defence
 and offence. A model armed with a plague sword may parry
 blows. When his opponent rolls to hit, the model armed with
@@ -660,12 +735,18 @@ Punisher whips are used by the Pack Masters of Clan Moulder to
 train their beasts. These fiendish devices are made of braided
 leather, filled with razor sharp spikes. A much larger spike tips the
 whip, and the Pack Masters use this quite effectively to inflict pain.
-[Skaven, Clan Moulder only]
-Range: Close Combat
-Strength: As User
-Special Rule: Animal Scourge, Cannot Be Parried,
+
+_[Skaven, Clan Moulder only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As User
+
+__Special Rules:__ Animal Scourge, Cannot Be Parried,
 Whipcrack
-Special Rules
+
+
 Animal Scourge: The Pack Masters of Clan Moulder learn
 to use these whips for the purpose of training animals. The
 beasts of Clan Moulder learn that these whips are to be feared
@@ -698,10 +779,14 @@ only the first whip gets the whipcrack +1A.
 The rapier is a long thing blade commonly used by dualists. It is a
 deadly, shard weapon capable of delivering a multitude of blows but
 lacks the power of a broadsword.
-Range: Close combat
-Strength: As user
-Special Rule: Parry, Barrage, Armor Save,
-Special Rules
+
+__Range:__ Close combat
+
+__Strength:__ As user
+
+__Special Rules:__ Parry, Barrage, Armor Save,
+
+
 Parry: Like all swords, you may use a rapier to parry in hand
 to hand combat. When your opponent scores a hit you must
 roll a D6. If you can score greater than the highest 'to hit' roll
@@ -723,11 +808,17 @@ armor saves are made at +1
 The Saerath is a weapon commonly used by the wood Elves, the
 Saerath or spear-stave is a staff with sword-like blades attached to
 each end.
-[Wood Elves Only]
-Range: Close Combat
-Strength: As user +1
-Special Rule: Parry, Extra Attack
-Special Rules
+
+_[Wood Elves Only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As user +1
+
+__Special Rules:__ Parry, Extra Attack
+
+
 Parry: Like all swords, you may use a Saerath to parry in
 hand to hand combat. When your opponent scores a hit you
 must roll a D6. If you can score greater than the highest 'to
@@ -743,10 +834,14 @@ scythe also carries with it an image of death. It is the symbol of the
 Grim Reaper, the representation of famine and starvation and
 disease through the lack of harvested food. Priests of Morr, when
 they need to, may carry a Scythe as a weapon.
-Range: Close Combat
-Strength: As User +1
-Special Rule: Difficult to use, Two-Handed
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As User +1
+
+__Special Rules:__ Difficult to use, Two-Handed
+
+
 Difficult to Use: A model with a scythe may not use a
 second weapon or buckler in his other hand because it
 requires all his skill to wield it. He may carry a shield as
@@ -758,12 +853,18 @@ his Armor save against shooting.
 
 ### Serpent Whip
 
-[Lahmia Vampires and Blood Sisters only]
-Range: Close Combat
-Strength: As User
-Special Rule: Cannot Be Parried, Whipcrack, +1 Enemy
+
+_[Lahmia Vampires and Blood Sisters only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As User
+
+__Special Rules:__ Cannot Be Parried, Whipcrack, +1 Enemy
 Armor Save, Poisoned
-Special Rules
+
+
 Cannot Be Parried: The whip is a flexible weapon and the
 warrior use it with great expertise. Attempts to parry its
 strikes are futile. A model attacked by a whip may not make
@@ -786,11 +887,17 @@ black lotus.
 
 One of the traditional weapons of the Sisterhood, the Warhammer
 echoes Ghal-Maraz, the great hammer of Sigmar himself.
-[Sister of Sigmar Only]
-Range: Close Combat
-Strength: As User +1
-Special Rule: Concussion, Holy Weapon
-Special Rules
+
+_[Sister of Sigmar Only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As User +1
+
+__Special Rules:__ Concussion, Holy Weapon
+
+
 Concussion: Warhammers are excellent at striking people
 senseless. When using a Warhammer in close combat a roll
 of 2-4 is treated as Stunned when rolling on the Injury chart.
@@ -805,10 +912,14 @@ Sigmarite Warhammers.
 
 Spears range from sharpened sticks used by Goblins to the
 impressive cavalry spears typical of the Elves.
-Range: Close Combat
-Strength: As user
-Special Rule: Strike First, Unwieldy, Cavalry Bonus
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ Strike First, Unwieldy, Cavalry Bonus
+
+
 Strike First: A warrior with a spear strikes first in the first
 turn of hand-to-hand combat.
 Unwieldy: A warrior with a spear may only use a shield or a
@@ -822,11 +933,17 @@ bonus when he charges. This bonus only applies for that turn.
 
 The Spiked Gauntlet is a weapon commonly used in the Pit Fights.
 Act like a blade and a buckler
-[Pit Fighters Only]
-Range: Close Combat
-Strength: As user
-Special Rule: Parry
-Special Rules
+
+_[Pit Fighters Only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ Parry
+
+
 Parry: Spiked Gauntlet offer an excellent balance of defence
 and offence. A model armed with a Spiked Gauntlet may
 parry blows. When his opponent rolls to hit, the model armed
@@ -841,8 +958,11 @@ your Heroes cannot learn to use it!)
 
 ### Squig Prodder
 
-[Goblins Only]
-Special Rules
+
+_[Goblins Only]_
+
+
+
 This item is a long pole with a trio of spikes at the end. It is
 used by Goblin Squig herders to keep their livestock in line.
 Cave Squigs will recognize a Squig prodder and
@@ -860,10 +980,14 @@ Of the many strange weapons the Amazons possess the Star-blade is
 built like an Amazonian dagger. It is usually painted exotic colours
 and contains magical properties that enhance the fighting prowess
 of the Amazons.
-Range: Close Combat
-Strength: As user
-Special Rule: +1 Enemy Armor Save, Parry
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ +1 Enemy Armor Save, Parry
+
+
 +1 Enemy Armor Save: Star-blades are not the best
 weapons to use for penetrating an enemy model’s armor. An
 enemy wounded by a Star-blade gains a +1 bonus to his
@@ -880,10 +1004,14 @@ not parry attacks made with double or more its own Strength
 
 This is an ancient and legendary sword that can cut through armor
 as if it were a leaf.
-Range: Close Combat
-Strength: As user +1
-Special Rule: No Save, Parry
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user +1
+
+__Special Rules:__ No Save, Parry
+
+
 No Save: The great power of the Star-sword ignores all
 armor saves except for ward and Dodge saves.
 Parry: Star-sword offers an excellent balance of defence and
@@ -898,11 +1026,17 @@ powerful to be stopped.
 
 Another weapon unique to the Sisterhood is the steel whip, made
 from barbed steel chains.
-[Sister of Sigmar Only]
-Range: Close Combat
-Strength: As User
-Special Rule: Cannot Be Parried, Whipcrack
-Special Rules
+
+_[Sister of Sigmar Only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As User
+
+__Special Rules:__ Cannot Be Parried, Whipcrack
+
+
 Cannot Be Parried: The steel whip is a flexible weapon and
 the Priestesses use it with great expertise. Attempts to parry
 its strikes are futile. A model attacked by a steel whip may
@@ -926,10 +1060,14 @@ Swords are much more effective weapons than crude clubs and axes,
 though learning to use a sword is a long and difficult process. It
 takes years to truly master this weapon – most warriors in
 Mordheim die long before they get this far!
-Range: Close Combat
-Strength: As user
-Special Rule: Parry
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ Parry
+
+
 Parry: Swords offer an excellent balance of defence and
 offence. A model armed with a sword may parry blows.
 When his opponent rolls to hit, the model armed with a sword
@@ -947,10 +1085,14 @@ The sword breaker is a specialist weapon wrought by only the most
 talented sword smiths. Next to the hilt are two prongs concealed
 within the blade that can be used to trap an opponent's blade,
 twisting and snapping it with a single, well time movement.
-Range: Close combat
-Strength: As user
-Special Rule: Parry, Trap Blade
-Special Rules
+
+__Range:__ Close combat
+
+__Strength:__ As user
+
+__Special Rules:__ Parry, Trap Blade
+
+
 Parry: The sword breaker allows the wielder to parry the
 attacks of his opponent's in close combat. When your
 opponent scores a hit, roll a D6. If you can roll greater than
@@ -967,11 +1109,17 @@ The adepts of Clan Eshin use weapons called Weeping Blades,
 murderous swords constructed with a small amount of warpstone in
 their structure. A Weeping Blade constantly sweats a deadly
 corrosive venom.
-[Skaven, Clan Eshin Only]
-Range: Close Combat
-Strength: As User
-Special Rule: Pair, Venomous, Parry
-Special Rules
+
+_[Skaven, Clan Eshin Only]_
+
+
+__Range:__ Close Combat
+
+__Strength:__ As User
+
+__Special Rules:__ Pair, Venomous, Parry
+
+
 Pair: Weeping Blades are traditionally used in pairs, one in
 each hand. A warrior armed with Weeping Blades gets an
 additional attack.
@@ -985,11 +1133,15 @@ parrying.
 
 ### Whip
 
-Range: Close Combat
-Strength: As User -1
-Special Rule: Cannot Be Parried, Whipcrack, +1 Enemy
+
+__Range:__ Close Combat
+
+__Strength:__ As User -1
+
+__Special Rules:__ Cannot Be Parried, Whipcrack, +1 Enemy
 Armor Save
-Special Rules
+
+
 Cannot Be Parried: The whip is a flexible weapon and the
 warrior use it with great expertise. Attempts to parry its
 strikes are futile. A model attacked by a whip may not make
@@ -1010,7 +1162,9 @@ he normally has none.
 
 ### Fog-enhancing Warpstone Shards
 
-[Skaven Clan Pestilens Only]
+
+_[Skaven Clan Pestilens Only]_
+
 When put inside a censer these warpstone shards have the
 peculiar characteristic of making the resulting clouds of
 pestilential fumes thicker than usual. The wielder of a censer
@@ -1027,7 +1181,8 @@ known by outsides as “Cold Forging”. Cold Forging is a mix of
 both physical and magical techniques known only to the Wood
 Elves. The Metal which comes from this Cold Forging technique is
 call Cold Metal.
-Special Rules
+
+
 Because Wood elves do not use forges, they do the smithing
 in a special, “cold“, way. This gives the weapon such a
 special flexibility in creating; it seems to have sharper edges.
@@ -1041,7 +1196,8 @@ Crag. They are fashioned from Black steel, a rare form of steel
 found deep within the mountains around the city. Dark Steel
 weapons have wicked protrusions and serrated edges, which inflict
 serious damage on an opponent.
-Special Rules
+
+
 The Weapons commonly made of Dark Steel are swords,
 daggers or other bladed weapons. These weapons upgraded to
 Dark Steel retain all of their abilities (i.e. swords can parry,
@@ -1059,7 +1215,8 @@ opponent, a roll of 2-4 on the injury table is a Stunned result.
 Only a Dwarf Runesmith can forge a weapon from Gromril, a rare
 meteoric iron. A blade fashioned from this metal will stay keen for a
 thousand years.
-Special Rules
+
+
 A Gromril weapon has an extra -1 save modifier, and costs
 four times the price of a normal weapon of its kind. You may
 choose which type of hand-to-hand weapon is offered to you
@@ -1072,7 +1229,8 @@ but strong metal, found only in the fabled Elven kingdoms. A few of
 these weapons are occasionally found in the Old World and these
 are normally spoils of war, taken by the Norse raiders who pillage
 the coastal settlements of the Elves.
-Special Rules
+
+
 An Ithilmar weapon gives its user +1 Initiative in hand-to-
 hand combat, and costs three times the price of a normal
 weapon of its kind. You may choose which hand-to-hand
@@ -1087,11 +1245,17 @@ significant damage, the poison used by the Skaven can cause
 searing agony and eventual death. The other advantage of a
 blowpipe is that it is silent, and a well-hidden shooter can fire the
 darts undetected.
-[Skaven, Forest Goblins & Lizardman Only]
-Range: 8"
-Strength: 1
-Special Rule: Save +1, Poison, Stealthy
-Special Rules
+
+_[Skaven, Forest Goblins & Lizardman Only]_
+
+
+__Range:__ 8"
+
+__Strength:__ 1
+
+__Special Rules:__ Save +1, Poison, Stealthy
+
+
 Save +1: Allows the victim +1 to their Save, or if they have
 no save roll, they may roll a 6+
 Poison: The needles fired by a blowpipe are coated in a
@@ -1116,11 +1280,17 @@ are thrown similar to a sling and are rotated around the head for
 speed. The bolas is a hunting weapon and doesn’t harm the animal.
 It immobilizes it and allows the hunter to either subdue it or put it
 out with his spear.
-[Lizardmen & Amazons Only]
-Range: 16"
-Strength: -
-Special Rule: Dangerous, Entangle, One use only
-Special Rules
+
+_[Lizardmen & Amazons Only]_
+
+
+__Range:__ 16"
+
+__Strength:__ -
+
+__Special Rules:__ Dangerous, Entangle, One use only
+
+
 Dangerous: If the to hit roll is a natural 1, the bolas brains
 the caster with a S3 hit.
 Entangle: A model hit by a bolas isn’t hurt, but is entangled
@@ -1142,9 +1312,12 @@ Profile M WS BS S T W I A Ld
 
 Bolt Thrower * - - - 5 3 - - -
 
-Range: 36"
-Strength: 5
-Special Rule: Hard to Fire, Large Target, Movement,
+
+__Range:__ 36"
+
+__Strength:__ 5
+
+__Special Rules:__ Hard to Fire, Large Target, Movement,
 Save Modifier
 Hard to Fire: Firing the Bolt Thrower requires a good crew,
 a maintained weapon, and technical knowledge. The Bolt
@@ -1169,9 +1342,12 @@ modifier.
 The bow is carried by most races and used extensively in warfare. It
 is a compact yet powerful weapon, that is cheap to make and easy to
 maintain.
-Range: 24"
-Strength: 3
-Special Rule: None
+
+__Range:__ 24"
+
+__Strength:__ 3
+
+__Special Rules:__ None
 
 ### Crossbow Pistol
 
@@ -1179,10 +1355,14 @@ Crossbow pistols are masterpieces made by expert weapon-smiths.
 They are miniature crossbows with all the power and accuracy of
 the real thing. As these weapons may be easily concealed, they are
 the favoured weapon of assassins.
-Range: 10"
-Strength: 4
-Special Rule: Shoot In Hand-to-Hand Combat
-Special Rules
+
+__Range:__ 10"
+
+__Strength:__ 4
+
+__Special Rules:__ Shoot In Hand-to-Hand Combat
+
+
 Shoot in hand-to-hand combat: A model armed with a
 crossbow pistol may shoot it in the first round of a hand-to-
 hand combat and this shot is always resolved first, before any
@@ -1202,10 +1382,14 @@ Crossbows take much longer than other bows to make, so they are
 expensive and relatively rare weapons. Still, they are the preferred
 weapon of many in Mordheim because of their power and long
 range.
-Range: 30"
-Strength: 4
-Special Rule: Move or Fire
-Special Rules
+
+__Range:__ 30"
+
+__Strength:__ 4
+
+__Special Rules:__ Move or Fire
+
+
 Move or Fire: You may not move and fire a crossbow on the
 same turn, other than to pivot on the spot to face your target
 or to stand up.
@@ -1217,10 +1401,14 @@ the hair of Elf maidens, Elven bows are far superior to any missile
 weapons made by other races. In the hands of an Elven archer, the
 Elf bow is a truly potent weapon, its long range and penetrating
 power making it far superior to any bow made by humans.
-Range: 36"
-Strength: 3
-Special Rule: -1 Save Modifier
-Special Rules
+
+__Range:__ 36"
+
+__Strength:__ 3
+
+__Special Rules:__ -1 Save Modifier
+
+
 -1 Save Modifier: An Elf bow has a -1 save modifier on
 armor saves against it.
 ### Javelins
@@ -1229,10 +1417,14 @@ Javelins are short throwing spears specially weighted to travel quite
 a distance. Although they have a much reduced range when
 compared to an arrow they can cause quite considerable damage
 when thrown by a person of great strength.
-Range: 8"
-Strength: As User
-Special Rule: Thrown Weapon
-Special Rules
+
+__Range:__ 8"
+
+__Strength:__ As User
+
+__Special Rules:__ Thrown Weapon
+
+
 Thrown Weapon: Javelins are thrown weapons and the
 warrior suffers no penalties for moving and shooting.
 ### Long Bow
@@ -1241,9 +1433,12 @@ A long bow is made of alternating layers of either yew or elm. A
 skilled archer can hit a chosen leaf on a tree from three hundred
 paces with this weapon. The long bow is favoured by experienced
 archers due to its great reach and accuracy.
-Range: 30"
-Strength: 3
-Special Rule: None
+
+__Range:__ 30"
+
+__Strength:__ 3
+
+__Special Rules:__ None
 
 
 ### Poison Wind Globes
@@ -1251,10 +1446,15 @@ Special Rule: None
 Poisoned wind globes are fragile spheres of a caustic hellish liquid
 warpstone. When the globe is thrown and the gas is released and it
 dissolves through flesh and armor with equal ease.
-[Skaven, Clan Skryre Only]
-Range: 8"
-Strength: Special
-Special Rule: Thrown Weapon
+
+_[Skaven, Clan Skryre Only]_
+
+
+__Range:__ 8"
+
+__Strength:__ Special
+
+__Special Rules:__ Thrown Weapon
 Special: Place the Small Blast template within 8” and roll to
 hit using the Ballistic Skill. If a hit is rolled, then roll a D6 for
 each model under the template. On a roll of 4+, the target
@@ -1270,11 +1470,16 @@ and the warrior suffers no penalties for moving and shooting.
 Profile M WS BS S T W I A Ld
 Repeater Bolt Thrower * - - - 5 3 - - -
 
-Range: 36"
-Strength: 5
-Special Rule: Fire Twice, Hard to Fire, Large Target,
+
+__Range:__ 36"
+
+__Strength:__ 5
+
+__Special Rules:__ Fire Twice, Hard to Fire, Large Target,
 Movement, Save Modifier
-[Elves Only]
+
+_[Elves Only]_
+
 Fire Twice: Repeater Bolt Thrower may choose to fire twice
 per turn with an extra -1 to hit penalty on both shots.
 Hard to Fire: Firing the Repeater Bolt Thrower requires a
@@ -1303,10 +1508,14 @@ acquire and difficult to make. While this makes them rare, they
 certainly have their uses: they can rain a deadly hail of bolts on
 enemies, and a warrior using one may move quite fast and still fire
 his weapon.
-Range: 24"
-Strength: 3
-Special Rule: Fire Twice
-Special Rules
+
+__Range:__ 24"
+
+__Strength:__ 3
+
+__Special Rules:__ Fire Twice
+
+
 Fire Twice: A model armed with a repeater crossbow may
 choose to fire twice per turn with an extra -1 to hit penalty on
 both shots.
@@ -1317,9 +1526,12 @@ little strength to use. Some cavalry carry a shortened bow which is
 easier to shoot from horseback than a larger bow. Halflings also use
 short bows, as they lack the strength and height required to use a
 long bow.
-Range: 16"
-Strength: 3
-Special Rule: None
+
+__Range:__ 16"
+
+__Strength:__ 3
+
+__Special Rules:__ None
 ### Sling
 
 Slings are rarely used, mainly because they are no more powerful
@@ -1330,11 +1542,16 @@ released towards the target. While this weapon is looked down upon
 by most archers, a skilled slinger can slay a man from a
 considerable distance, and the ammunition is easy to find: rocks are
 everywhere and free!
-Range: 18"
-Strength: 3
-Special Rule: Fire Twice at Half Range
-Special Rules
-Fire Twice at Half Range: A slinger may fire twice in the
+
+__Range:__ 18"
+
+__Strength:__ 3
+
+__Special Rules:__ Fire Twice at Half Range
+
+
+Fire Twice at Half 
+__Range:__ A slinger may fire twice in the
 shooting phase if he does not move in the movement phase.
 He cannot shoot over half range (9") though, if he fires twice.
 If the model fires twice then each shot is at -1 to hit.
@@ -1348,10 +1565,14 @@ White Tower of Hoeth claim to have found a similar device that they
 surmise is more than 20,000 years old – older than the Elven race
 itself!), the wielder of the Sunstaff can discharge a beam of energy
 akin to the rays of the sun.
-Range: 24"
-Strength: 4
-Special Rule: Accurate, No Save
-Special Rules
+
+__Range:__ 24"
+
+__Strength:__ 4
+
+__Special Rules:__ Accurate, No Save
+
+
 Accurate: The Sunstaff does not suffer the usual -1 modifier
 to hit for long range.
 No Save: The beam from a Sunstaff can literally cut through
@@ -1368,10 +1589,14 @@ corrosion. It is covered in strange runes and a bright gemstone is
 set into the hilt. In many ways this weapon resembles a Blackpowder
 pistol. It can be held in one hand and when pointed at an enemy
 unleashes a blinding beam of energy like the Sunstaff
-Range: 12"
-Strength: 4
-Special Rule: Accurate, No Save, Hand-to-Hand
-Special Rules
+
+__Range:__ 12"
+
+__Strength:__ 4
+
+__Special Rules:__ Accurate, No Save, Hand-to-Hand
+
+
 Accurate: The Sun Gauntlet does not suffer the usual -1
 modifier to hit for long range.
 No Save: he beam from a Sun Gauntlet can literally cut
@@ -1390,10 +1615,14 @@ the unwary. A perfectly balanced knife thrown from behind has
 ended the life of many a noble and merchant in Mordheim.
 Throwing knives are not suitable for close combat, as their balance
 makes them unwieldy in close quarters.
-Range: 6"
-Strength: As user
-Special Rule: Thrown Weapon
-Special Rules
+
+__Range:__ 6"
+
+__Strength:__ As user
+
+__Special Rules:__ Thrown Weapon
+
+
 Thrown Weapon: Models using throwing stars or knives do
 not suffer penalties for range or moving as these weapons are
 perfectly balanced for throwing. They cannot be used in close
@@ -1403,11 +1632,15 @@ combat.
 
 This is a blowpipe that projects alchemical fire about eight feet
 causing burning damage.
-Range: 8"
-Strength: 2
-Special Rule: May fire every other turn, Causes fire
+
+__Range:__ 8"
+
+__Strength:__ 2
+
+__Special Rules:__ May fire every other turn, Causes fire
 damage.
-Special Rules
+
+
 Causes fire damage: If you hit roll a D6, on a 4+ your
 opponent is set on fire. They must roll a D6 each Recovery
 phase, on a 4+ they extinguish the fire or they immediately
@@ -1476,10 +1709,14 @@ A blunderbuss is a primitive Blackpowder weapon, which fires a
 hail of lead balls, rusty bolts, bent nails, and other assorted scrap
 metal. It is a powerful, if erratic, weapon and takes such a long time
 to load that most warriors discard it after the first shot.
-Range: Special
-Strength: 3
-Special Rule: Shot, Fire Once
-Special Rules
+
+__Range:__ Special
+
+__Strength:__ 3
+
+__Special Rules:__ Shot, Fire Once
+
+
 Shot: When your model fires the blunderbuss, draw a line
 16" long and 1" wide in any direction from the firer (the line
 must be absolutely straight). Any and all models in its path
@@ -1498,11 +1735,15 @@ warriors rarely have them. Even if they do manage to steal or buy
 one, the ammunition is prohibitively expensive.
 Some of the wealthiest warriors in Mordheim carry duelling pistols
 as status symbols, commanding great respect, admiration and envy.
-Range: 10"
-Strength: 4
-Special Rule: Accuracy, Prepare Shot, Save Modifier,
+
+__Range:__ 10"
+
+__Strength:__ 4
+
+__Special Rules:__ Accuracy, Prepare Shot, Save Modifier,
 Hand-to-Hand
-Special Rules
+
+
 Accuracy: A duelling pistol is built for accuracy as a skilled
 duelist is able to hit a coin from twenty paces. All shots and
 close combat attacks from a duelling pistol have a +1 bonus
@@ -1532,9 +1773,12 @@ The explosive power of a mortar, in a small enough package to be
 carried by a single man, the Hand-Held Mortar enables a warrior to
 launch an explosive into the midst of the enemy, sowing death and
 disorder.
-Range: 24"
-Strength: 4
-Special Rule: Experimental, Explosive Radius, Move or
+
+__Range:__ 24"
+
+__Strength:__ 4
+
+__Special Rules:__ Experimental, Explosive Radius, Move or
 Fire, Prepare Shot, Save Modifier, Scatter,
 SPECIAL RULE
 Experimental: The Hand-Held Mortar is always subject to
@@ -1575,10 +1819,14 @@ range and tremendous penetrating power, making a mockery of even
 the thickest armor. In Mordheim, handguns are rare and
 expensive, but a warband which can boast such a weapon will
 command respect from all its rivals.
-Range: 24"
-Strength: 4
-Special Rule: Prepare Shot, Save Modifier,
-Special Rules
+
+__Range:__ 24"
+
+__Strength:__ 4
+
+__Special Rules:__ Prepare Shot, Save Modifier,
+
+
 Prepare Shot: A handgun takes a complete turn to reload, so
 you may only fire it every other turn.
 Move or Fire: You may not move and fire a handgun in the
@@ -1594,11 +1842,15 @@ Hochland is a province famed for its hunters, and the preferred
 weapon of its nobility when they go hunting is a long-ranged rifle.
 They are extremely rare and precious weapons, and only the most
 experienced weapon smiths are capable of manufacturing them.
-Range: 48"
-Strength: 4
-Special Rule: Move or Fire, Prepare Shot, Pick Target,
+
+__Range:__ 48"
+
+__Strength:__ 4
+
+__Special Rules:__ Move or Fire, Prepare Shot, Pick Target,
 Save Modifier
-Special Rules
+
+
 Move or Fire: You may not move and fire a Hochland long
 rifle in the same turn, other than to pivot on the spot to face
 your target or stand up from knocked down.
@@ -1616,12 +1868,18 @@ modifier.
 Jezzail are warpstone-firing rifle designed by the engineers of Clan
 Skryre. The blast of a Jezzail can be heard over great distances, as
 can the screams of the targets.
-[Skaven, Clan Skryre Only]
-Range: 36"
-Strength: 5
-Special Rule: Heavy, Move or Fire, Multiple Impacts,
+
+_[Skaven, Clan Skryre Only]_
+
+
+__Range:__ 36"
+
+__Strength:__ 5
+
+__Special Rules:__ Heavy, Move or Fire, Multiple Impacts,
 Prepare Shot, Pick Target, Save Modifier,
-Special Rules
+
+
 Heavy: The Jezzail Rifle is a large heavy weapon and at
 some times needed two to carry it. If used by only one then
 the shooter has a -1 to movement, a -1 to hit and cannot
@@ -1652,10 +1910,14 @@ general service. It is essentially a blunderbuss with a shorter, even
 more flared barrel that has been modified to shoot premade
 cartridges. What it lacks in range it makes up for in accuracy, and is
 particularly useful in cramped city fighting.
-Range: 8"
-Strength: 4
-Special Rule: Armor Piercing, Blast, Prepare Shot
-Special Rules
+
+__Range:__ 8"
+
+__Strength:__ 4
+
+__Special Rules:__ Armor Piercing, Blast, Prepare Shot
+
+
 Armor Piercing: Being a black powder weapon, the Nuln
 Shotgun benefits from an additional -1 to the enemy’s armor
 save.
@@ -1673,10 +1935,14 @@ firing, so may only be fired every other turn.
 A pistol is a small, simple Blackpowder weapon fired by a spring
 mechanism. Most pistols are expensive, unreliable, and poorly
 constructed.
-Range: 6"
-Strength: 4
-Special Rule: Prepare Shot, Save Modifier, Hand-to-Hand
-Special Rules
+
+__Range:__ 6"
+
+__Strength:__ 4
+
+__Special Rules:__ Prepare Shot, Save Modifier, Hand-to-Hand
+
+
 Prepare Shot: A pistol takes a whole turn to reload, so you
 may only fire every other turn. If you have a brace of pistols
 (i.e., two) you may fire every turn.
@@ -1703,11 +1969,15 @@ rotating cylinder, each one firing in turn. Prone to misfiring or
 other malfunction, Repeater Handguns are still highly sought after
 items, as they will launch a veritable storm of lead at the enemy if
 they don’t break down.
-Range: 24"
-Strength: 4
-Special Rule: Experimental, Fire Thrice, Move or Fire,
+
+__Range:__ 24"
+
+__Strength:__ 4
+
+__Special Rules:__ Experimental, Fire Thrice, Move or Fire,
 Save Modifier, Slow Reload,
-Special Rules
+
+
 Experimental: The Repeater Handgun is always subject to
 the optional Blackpowder Weapons rules from the Mordheim
 rulebook, even if they are not normally used in your
@@ -1740,11 +2010,15 @@ other malfunction, they have found a place in gunnery bands
 armories. Stories of calm instructors gunning down hordes of foes
 within feet of themselves are legendary and in all likelihood untrue.
 But it just could happen....
-Range: 6"
-Strength: 4
-Special Rule: Experimental, Fire Thrice, Move or Fire,
+
+__Range:__ 6"
+
+__Strength:__ 4
+
+__Special Rules:__ Experimental, Fire Thrice, Move or Fire,
 Not a Club, Quick Reload, Save Modifier,
-Special Rules
+
+
 Experimental: The Repeater Pistol is always subject to the
 optional Blackpowder Weapons rules from the Mordheim
 rulebook, even if they are not normally used in your
@@ -1778,9 +2052,12 @@ model wounded by a Repeater Pistol must take its armor
 save with a -2 modifier.
 ### Rifle
 
-Range: 36"
-Strength: 4
-Special Rule: Move or Fire, Prepare Shot, Save Modifier,
+
+__Range:__ 36"
+
+__Strength:__ 4
+
+__Special Rules:__ Move or Fire, Prepare Shot, Save Modifier,
 SPECIAL RULE
 Move or Fire: You may not move and fire a Rifle in the
 same turn, other than to pivot on the spot to face your target
@@ -1802,11 +2079,15 @@ Profile M WS BS S T W I A Ld
 
 Small Cannon * - - - 5 3 - - -
 
-Range: 8" - 36"
-Strength: 5
-Special Rule: Hard to Fire, Large Target, Movement,
+
+__Range:__ 8" - 36"
+
+__Strength:__ 5
+
+__Special Rules:__ Hard to Fire, Large Target, Movement,
 Save Modifier
-Special Rules
+
+
 Hard to Fire: Firing a Small Cannon requires a good crew, a
 maintained weapon, and technical knowledge. The Small
 Cannon can fire once every other turn with one crewman, and
@@ -1824,7 +2105,8 @@ Save Modifier: Small Cannon are even better at penetrating
 armor than their Strength 5 suggests. A warrior wounded by
 a Small Cannon must make his armor save with a -3
 modifier.
-[Thanks to Josh Alexander for the idea].
+
+_[Thanks to Josh Alexander for the idea].
 
 ### Warpfire Thrower
 
@@ -1833,13 +2115,19 @@ liquid warpstone napalm that ignites in a searing magical flaming
 conflagration. Since its magic is supported by mechanical means,
 the net result is a blast more powerful than either could achieve
 alone.
-[Skaven, Clan Skryre Only]
-Range: Special Attack (see below)
-Strength: 5
-Special Rule: Cumbersome, Heavy, Move or Fire, Pick
+
+_[Skaven, Clan Skryre Only]_
+
+
+__Range:__ Special Attack (see below)
+
+__Strength:__ 5
+
+__Special Rules:__ Cumbersome, Heavy, Move or Fire, Pick
 Target, Save Modifier, Special Attack,
 Misfire
-Special Rules
+
+
 Cumbersome: Because the Warpfire Thrower is so heavy, a
 model equipped with one may use no other weapons or
 equipment.
@@ -1883,11 +2171,17 @@ Warplock pistols are terrifying weapons, testimony to the mad
 genius of Clan Skryre engineers. Warplock pistols shoot ammunition
 made of magically treated warpstone and wounds caused by
 Warplock pistols are horrible to behold and often cause infections.
-[Skaven Only]
-Range: 8"
-Strength: 5
-Special Rule: Save -3, Fire Every Other Turn
-Special Rules
+
+_[Skaven Only]_
+
+
+__Range:__ 8"
+
+__Strength:__ 5
+
+__Special Rules:__ Save -3, Fire Every Other Turn
+
+
 Save -3: Victim suffers -3 to their Save roll.
 Fire Every Other Turn: May be fired once every other turn.
 Braces may be fired once every turn, or twice every other
@@ -1897,10 +2191,14 @@ turn.
 
 ### Bayonet
 
-Range: Close Combat
-Strength: As user
-Special Rule: Attachment, Strike First, Two-handed
-Special Rules
+
+__Range:__ Close Combat
+
+__Strength:__ As user
+
+__Special Rules:__ Attachment, Strike First, Two-handed
+
+
 Attachment: The Bayonet must be attached to a Handgun,
 Rifle or Hunting Rifle. The weapon mounted with a Bayonet
 acts like a Spear in close combat, but all Shooting attacks
@@ -1921,7 +2219,8 @@ sell it for twice the price. The Warband was so impressed with their
 new weapon that they asked him to do the same to their hunting
 rifle. Since then the Weaponsmith has been flooded with orders from
 some of the most powerful Warbands in Mordheim.
-Special Rules
+
+
 A double-barrelled weapon is a tricky piece of engineering,
 but it’s a wonderful piece for combat. When firing such a
 weapon, the bearer must declare whether he is firing one or
@@ -1997,8 +2296,11 @@ power as it is protection against weapons.
 Barding is armor for a horse in the same way that light and heavy
 armor is for a human. It covers the mount’s hide and in some cases
 the head.
-[Warhorses Only]
-Special Rules
+
+_[Warhorses Only]_
+
+
+
 A model mounted on barded horse receives an additional +1
 Armor save (+2 instead of +1 for being mounted). In
 addition, a mount wearing barding will only be killed on a D6
@@ -2006,7 +2308,8 @@ roll of a 1 if the model is taken out of action.
 
 ### Bracers
 
-Special Rules
+
+
 Wearer may Parry. Does not occupy users hands. May be
 used in conjunction with weapons that allow to parry but not
 Bucklers or Shields.
@@ -2018,7 +2321,8 @@ deflecting blows. They are usually made of steel for they need to be
 tremendously durable to survive the brutal blows of hand-to-hand
 combat. Using a buckler requires great skill, but a nimble warrior
 can protect himself from blows which would otherwise cripple him.
-Special Rules
+
+
 Save: Lighter than a regular shield, the buckler does still provide
 some degree of protection. It provides a 6+ armour save.
 Parry: A model equipped with a buckler may parry the first
@@ -2048,7 +2352,8 @@ known by outsides as “Cold Forging”. Cold Forging is a mix of
 both physical and magical techniques known only to the Wood
 Elves. The Metal which comes from this Cold Forging technique is
 call Cold Metal.
-Special Rules
+
+
 Save: Cold Metal Armor gives the wearer a 5+ basic save,
 and does not slow him down if he is also armed with a shield.
 The Cold Metal Armor is so light and strong that other
@@ -2059,7 +2364,8 @@ Armor gives the wear a -1 to hit in Close Combat.
 Dark Steel armor like Dark Steel Weapons are forged in the city of
 Hag Graef, the Dark Crag. They are fashioned from Black steel, a
 rare form of steel found deep within the mountains around the city.
-Special Rules
+
+
 Save: Dark Steel armor gives the wearer a 5+ basic save,
 and does not slow him down if he is also armed with a shield.
 The Dark Steel Armor is stronger that other armor, Dark
@@ -2082,7 +2388,9 @@ Availability: Rare 12
 
 ### Forest Cloak
 
-[Outlaw Heroes and Wood Elves only]
+
+_[Outlaw Heroes and Wood Elves only]_
+
 Some Outlaws use Forest Cloaks to camouflage themselves
 against being seen by their enemies. Any wearer of such a
 cloak would appear to blend into the surrounding forest
@@ -2106,7 +2414,8 @@ normal.
 Gromril is the rarest and strongest metal known of in the Old
 World. Only a very few Dwarf smiths know the secret of forging
 Gromril, and a suit of armor made from it fetches a huge price.
-Special Rules
+
+
 Save: Gromril armor gives the wearer a 4+ basic save, and
 does not slow him down if he is also armed with a shield.
 
@@ -2121,7 +2430,8 @@ afford it.
 There are other types of heavy armor as well, of which the best
 known are the steel breastplates and greaves worn by the foot
 knights of the Templar orders.
-Special Rules
+
+
 Save: A warrior that is wearing heavy armor has a basic D6
 saving throw of 5+.
 Movement: A warrior that is armed with both heavy armor
@@ -2136,7 +2446,8 @@ most vain fighters still use a helmet, as it can be festooned
 with plumes, horns and other decorations. Helmets come in
 varying shapes and sizes, but their basic function remains the
 same.
-Special Rules
+
+
 Avoid Stun: A model that is equipped with a helmet has a
 special 4+ save on a D6 against being stunned. If the save is
 made, treat the stunned result as knocked down instead. This
@@ -2148,7 +2459,8 @@ Ithilmar is a silvery metal which is as light as silk and stronger than
 steel. Elves are experts at fashioning weapons and armor from
 Ithilmar, and the Elven kingdom of Caledor is the only place in the
 world where this metal can be found.
-Special Rules
+
+
 Save: Ithilmar armor gives the wearer a 5+ basic save, and
 does not slow him down if he is also armed with a shield.
 ### Light Armor
@@ -2157,7 +2469,8 @@ Light armor encompasses a wide variety of materials from
 hardened leather tunics to chain shirts forged from steel. It does not
 offer complete protection against arrows or swords, but it is better
 than having nothing at all. Light armor does not inhibit movement.
-Special Rules
+
+
 Save: A warrior who is wearing light armor has a basic D6
 saving throw of 6.
 ### Pavise
@@ -2166,7 +2479,8 @@ A pavise is a huge shield commonly used by regiments of
 warriors in a battle to defend themselves from the arrows of
 their enemies. It is a weighty item and little use in a long
 protracted combat but excellent against shooting.
-Special Rules
+
+
 Cover/Save: A warrior using a pavise counts as if he is in
 cover against missile attacks (-1 to hit). In close combat, the
 pavise counts as a shield (+1 armor save) but only if the
@@ -2179,7 +2493,8 @@ Reinforced Plate is a new type of armor manufactured in the
 Gunnery School of Nuln. It is based on an ordinary suit of Heavy
 Armor, but has additional plating covering the joints and chest
 plate to add resistance against firearms.
-Special Rules
+
+
 Save: Reinforced Plate Armor gives the wearer a 5+ armor
 save. In addition, the extra plates negate Armor Piercing
 ability of black powder weapons, meaning S4 black powder
@@ -2195,8 +2510,11 @@ Dark Elf Corsairs use special cloaks fashioned from Sea Monsters
 that dwell deep in the oceans depths. These cloaks are tough and
 resilient and offer Dark Elves with a very good amount of
 protection.
-[Dark Elves Only]
-Special Rules
+
+_[Dark Elves Only]_
+
+
+
 Scales: the model wearing a Sea Dragon Cloak will gain +2
 to his armor saves.
 
@@ -2214,7 +2532,8 @@ Metal shields are heavy and cumbersome, but last much longer and
 can take a battering. A typical Empire shield is either round or
 triangular, and carries the emblem of the province or city of its
 owner.
-Special Rules
+
+
 Save: A model with a shield has a basic save of 6 on a D6.
 Sword & Board: A model using a shield and either a Club, Axe, Dagger,
  or Sword can combine the two for even better defense due to their weapon's
@@ -2227,7 +2546,8 @@ Expert leatherworkers are able to turn leather coats into armor
 jackets and coats as armor is very expensive. Covered with crusted
 salt, alcohol and other less savoury materials, toughened leather is
 hard to penetrate and offers some protection in combat.
-Special Rules
+
+
 Toughened leathers work exactly like light armor, giving the
 wearer a 6+ Armor save, but cannot be combined with the
 effects of any other armor except a helmet or buckler.
@@ -2241,8 +2561,11 @@ slay a great wolf single-handed. Warriors who accomplish such a
 deed will command the respect of their peers, and their cloaks will
 be blessed by the High Priest of the Cult of Ulric, the god of winter,
 war and wolves.
-[Middenheimers Only]
-Special Rules
+
+_[Middenheimers Only]_
+
+
+
 To acquire a Wolfcloak, a Hero must pay 10 GC (to represent
 the expense of travelling to Middenheim and taking part in a
 hunt). In addition, the Hero must roll equal to or under his
@@ -2267,9 +2590,13 @@ In the deepest forests of the Southlands grows a plant that is
 extremely poisonous. It is known as Black Lotus and is much sought
 after by alchemists, assassins, wizards of the Western Coast and
 bored wives.
-[Not available to Witch Hunters, Warrior-Priests or Sisters of
-Sigmar]
-[Rare 7 for Skaven]
+
+_[Not available to Witch Hunters, Warrior-Priests or Sisters of
+Sigmar]_
+
+
+_[Rare 7 for Skaven]_
+
 A weapon coated with the sap of the Black Lotus will wound
 its target automatically if you roll a 6 to hit. Note that you can
 still roll a dice for every wound inflicted in this way. If you
@@ -2283,8 +2610,12 @@ _(One Use Per Battle)_
 The priests of Ulric, Sigmar, Morr and Manann hold great power
 over evil. Pure water from a clear fountain, blessed by one of these
 priests, is said to burn things of darkness and evil.
-[May not be bought by Undead]
-[Common for Warrior-Priests & Sisters of Sigmar]
+
+_[May not be bought by Undead]_
+
+
+_[Common for Warrior-Priests & Sisters of Sigmar]_
+
 A vial of blessed water contains enough liquid for just one
 use, and has a thrown range of twice the thrower’s Strength
 in inches. Roll to hit using the model’s BS. No modifiers for
@@ -2324,8 +2655,10 @@ This is a poison extracted from Heldrakes, gigantic sea serpents that
 plague the Western Ocean and the coast of Naggaroth. The slightest
 wound infected by Dark Venom causes excruciating pain,
 incapacitating the bravest of men.
-[Not available to Witch Hunters, Warrior-Priests, or Sisters
-of Sigmar]
+
+_[Not available to Witch Hunters, Warrior-Priests, or Sisters
+of Sigmar]_
+
 Any hit caused by a weapon coated with Dark Venom counts
 as having +1 Strength, so, for example, if a warrior with
 Strength 3 wielding a poisoned sword hits an opponent, he
@@ -2333,7 +2666,9 @@ will cause a Strength 4 hit instead.
 
 ### Elven Wine
 
-[Shadow Warriors Only, one use only]
+
+_[Shadow Warriors Only, one use only]_
+
 High Elven wines are well known to be the best in the world,
 and some are even rumoured to have magical qualities. A fine
 Elven Wine can cast out doubt and fear and leave a general
@@ -2344,7 +2679,9 @@ to supply the warband for one battle.
 
 ### Garlic
 
-[May not be bought by Undead]
+
+_[May not be bought by Undead]_
+
 Garlic is a common herb grown in most gardens of the
 Empire. It is said to ward off Vampires and other denizens of
 the dark. A Vampire must pass a Leadership test or it will be
@@ -2429,7 +2766,9 @@ a common item that cost 25 gold crowns.
 
 ### Tears of Shallaya
 _(One Use Per Battle)_
-[Lawful or Lawful/Neutral Humans only.]
+
+_[Lawful or Lawful/Neutral Humans only.]_
+
 Tears of Shallaya are vials of water from the holy spring in
 Couronne. Shallaya is the goddess of healing and mercy and
 it is said that this water has curative properties and is proof
@@ -2444,7 +2783,9 @@ disease. A single sniff is enough to melt the airways and leave the
 victim drowning in its own blood. It is, however, short lived and
 only remains dangerous for a few seconds before it is neutralised in
 the air.
-[Skaven only]
+
+_[Skaven only]_
+
 The vial may be opened and shoved in the face of the model
 in base contact that just took the Skaven Out of Action. The
 opponent must roll equal to or under its Toughness or
@@ -2455,7 +2796,9 @@ Out of Action. The vial may be used once, then it is removed from your
 equipment.
 ### Vodka
 _(One Use Per Battle)_
-[Kislevite Heroes Only]
+
+_[Kislevite Heroes Only]_
+
 Kislevites live in a harsh land under constant threat of
 invasion. While this has instilled a seriousness in these
 people, it has not diluted their love of celebration one bit. If
@@ -2497,13 +2840,17 @@ remember you can’t re-roll a failed re-roll.
 
 ### Clan Pestilens Banner
 
-[Skaven, Clan Pestilens Only]
+
+_[Skaven, Clan Pestilens Only]_
+
 Any Clan Pestilens model within 12'' of the standard bearer of the band may re-roll failed Initiative tests. The staff of the Clan Pestilens banner counts as a two-handed weapon. A warband may only have one Clan Pestilens Banner at any one time.
 Banner).
 
 ### Standard of Nagarythe
 
-[Shadow Warriors Only]
+
+_[Shadow Warriors Only]_
+
 May only be purchased when the warband is created. While
 many Shadow Warrior Warbands are simply wandering,
 some represent groups that have been sent from Ulthuan on
@@ -2540,7 +2887,9 @@ with -1 on the to hit rolls.)
 Bears are widely regarded as sacred in Kislev, and a necklace made
 of their claws (or sometimes their teeth) is considered magical and
 reputed to have magical powers.
-[Kislevite Heroes Only]
+
+_[Kislevite Heroes Only]_
+
 A warrior wearing a bear-claw necklace receives some of the
 strength and wild ferocity of the bear it came from. A warrior
 wearing a bear-claw necklace becomes subject to Frenzy and gains +1 Strength.
@@ -2573,7 +2922,9 @@ Frenzy as described in the rulebook.
 
 ### Tarot Cards
 
-[Not available to Witch Hunters or Sisters of Sigmar]
+
+_[Not available to Witch Hunters or Sisters of Sigmar]_
+
 Though declared blasphemous and illegal by the Grand
 Theogonist, the Tarot of Stars is said to foretell the future for
 those who dare to consult it. This future almost always fortells the death of the reader funnily enough.
@@ -2584,16 +2935,21 @@ each game. Make a Leadership test. If successful, the Hero may ignore the first 
 
 ### Warpstone Amulet
 
-[Skaven Heroes Only]
+
+_[Skaven Heroes Only]_
+
 The owner of a warpstone amulet may reroll a single die
 during the battle or, if not out of combat at the end of the
 game, a single die when looking for wyrdstone shards.
 
 ### Wyrdstone Pendulum
 
-[Skaven Heroes Only]
+
+_[Skaven Heroes Only]_
+
 Pendulums made of wyrdstone can reputedly be used to magnetise Wyrdstone, sucking nearby shards in and clamping them against the Pendulum. This makes them excellent getting at shards in those 'hard to reach' places, such as the pockets of a rival.
-Special Rules
+
+
 A hero with a Wyrdstone Pendulum may pick up any Wyrdstone within 2" as if they had moved into contact with it, even if it is currently being held by another model (including allies).
 
 ## Magic, Books & Scrolls
@@ -2612,7 +2968,9 @@ a roll of 4 or more.
 
 ### Elven Runestones
 
-[Shadow Weavers Only]
+
+_[Shadow Weavers Only]_
+
 High Elven mages are well known as the masters of
 defensive magic. To aid them, they have developed several
 mystic runes of power. They often inscribe these runes on
@@ -2633,11 +2991,14 @@ Halflings. So famous are some of these books that adventurous Halflings will ven
 
 ### Hammer of Witches
 
-[Witch Hunters Only]
+
+_[Witch Hunters Only]_
+
 The pages in this tome describe the servants of Chaos, witches,
 heretics, deviants, mutants, warlocks, blasphemers, necromancers,
 sinners and other enemies of Sigmar in all their foulness.
-Special Rules
+
+
 A Hero with the Hammer of Witches will re-roll all failed To Wound rolls against
 Undead, Demons, Possessed, and spellcasters.
 
@@ -2648,7 +3009,9 @@ an important part of life. Relics abound in the Old World: hairs of
 Sigmar, pieces from Ulric’s hammer, teeth of Daemon Princes, all
 are sold to men needing encouragement before battle and as charms
 against sorcery.
-[Rare 6 for warrior-priests and Sisters of Sigmar]
+
+_[Rare 6 for warrior-priests and Sisters of Sigmar]_
+
 A model with a holy relic will automatically pass the first
 Leadership test he is required to make in the game. If worn
 by the leader, it will allow him to automatically pass the first
@@ -2666,7 +3029,9 @@ Of these tomes, the Deus Sigmar is the most common and well
 known, but other texts such as the Scriptures of Sigmar are also sold
 to those who follow the faith. A holy man can recite his prayers from
 such a book, strengthening his faith and belief.
-[Warrior-Priests & Sisters of Sigmar Only]
+
+_[Warrior-Priests & Sisters of Sigmar Only]_
+
 A Warrior Priest or Sister of Sigmar with a holy tome can
 add +2 to the score when determining whether he (or she) can
 recite a spell successfully or not.
@@ -2677,7 +3042,9 @@ Functions as a Tome of Magic, but the reader learns Spells of Clan Pestilens fro
 
 ### Liturgicus Infecticus
 
-[Skaven, Pestilens Only]
+
+_[Skaven, Pestilens Only]_
+
 A Clan Pestilens member, usually a Plague Monk, may carry
 with him a scroll with the holy Liturgicus Infecticus inscribed
 on it. This is the Clan Pestilens chant in favour of diseases
@@ -2689,7 +3056,9 @@ the War horn).
 
 ### Magic Gugginz
 
-[Greenskins Only]
+
+_[Greenskins Only]_
+
 These are odds and ends carried around by the Shaman to
 focus his powers. Most are bat feet, lizard lips, and the like,
 but still seem to provide benefits to their owner. The Shaman
@@ -2731,7 +3100,9 @@ action in the battle.
 
 ### Scroll of the Rat Familiar
 
-[Skaven Only]
+
+_[Skaven Only]_
+
 The Scroll of the Rat Familiar has a spell inscribed on it,
 usable by a Pestilens Sorcerer as many times as he wants. If
 the warband includes at least a Giant Rat, the spell may be
@@ -2748,7 +3119,9 @@ Familiar).
 
 ### Tome of Magic
 
-[Not available to Witch Hunters or Sisters of Sigmar]
+
+_[Not available to Witch Hunters or Sisters of Sigmar]_
+
 Sometimes books of forbidden lore are offered for sale in the
 markets and dark alleys of the settlements around Mordheim.
 A tome of magic may be consumed by a wizard in order to add +1 to their wizard level
@@ -2762,7 +3135,9 @@ A musician must have an instrument to play so he can sing songs, tell tales and 
 
 ### Drum
 
-[Musician only]
+
+_[Musician only]_
+
 These are barrels with a tanned hide stretched over them to make
 the sound.
 The mallet may be used as a club and the drum as a shield.
@@ -2770,13 +3145,17 @@ Grants a further +1 Movement when using the Marching Tune skill.
 
 ### Flute
 
-[Musician only]
+
+_[Musician only]_
+
 These are made of wood or bone.
 Allied Warriors within 6" of a Musician using a Flute (including the Musician themselves) gain +1 Leadership.
 
 ### Lyre
 
-[Musician only]
+
+_[Musician only]_
+
 These are made of wood with strings strung to play tunes.
 When using this with the minstrel skill it adds 1d6 to the gold
 earned.
@@ -2793,7 +3172,9 @@ start of the next turn. The war horn can be used just before a
 warband is about to take a Rout test.
 ### War Horn of Nagarythe
 
-[Shadow Warriors Only]
+
+_[Shadow Warriors Only]_
+
 Similar to the Standard of Nagarythe, units of Shadow
 Warriors sent into Mordheim often bring with them a war
 horn to rally around. The rules for the War Horn of
@@ -2874,7 +3255,8 @@ indulgence is an opulent coach, which the warband leader can use
 for driving around the settlements surrounding Mordheim. There
 are few things that will impress commoners, or incur the wrath and
 envy of other, less successful leaders, as much as an opulent coach - though quite what 'opulence' means will vary wildly from Warband to Warband. To a Goblin it may simply mean it is festooned with an extraordinarily large amount of random junk.
-Special Rules
+
+
 The opulent coach impresses even the most suspicious
 merchant and they will flock to offer their most exotic wares
 to the obviously rich warband leader. The warband leader
@@ -2900,7 +3282,8 @@ awareness of a warrior's surroundings. A Hero with a Telescope has no maximum ra
 _(One Use Per Battle)_
 Torches are long and durable rods the end of which is soaked in a dense tar of highly flammable material - be it a Wyrdstone-caked rag, a pitch-soaked strap, or dense and dripping Troll-wax. They are dangerous and cumbersome to use, but their ability to ward off foes and to detect hidden dangers makes them a global staple of any sentry or explorers.
 At the start of a battle Warriors with Torches must decide whether or not to use them. Once lit a torch is not so easily unlit, and are even more difficult to calmly put away - a Warrior with a lit torch may not fire ranged weapons and may only use a single-handed weapon or shield in their other hand for the rest of the game.
-Special Rules
+
+
 Scary: A model with a lit Torch causes Fear in all War Beasts and Cavalry.
 Still a Club: A Torch may be used as a Club in combat, and has the Flaming Attacks special rule - though will strike at -1 Strength.
 Sore Thumb: A Warrior with a Torch may never hide.

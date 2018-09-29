@@ -303,6 +303,7 @@
 
 <!-- /MarkdownTOC -->
 
+\page
 
 ### Starting a Warband
 
@@ -311,6 +312,8 @@ Before you begin to play you must recruit a warband to take part in the battle f
 Use the lists that follow to recruit and equip your warband (an example warband has been included at the back of the book.) You have 500 gold crowns to spend. Each model and their equipment (if you choose to buy any) costs a set amount of money. As you make your choices, subtract the money you have “spent” from your total until you have bought all you can. Any unspent gold crowns are put into the warband’s treasury and can be used later or hoarded to buy something more expensive. 
 
 To start with you must recruit at least three warriors including a leader. The weapons, armor and mutations you choose for your warriors must be represented on the models themselves. The exceptions are knives and daggers, which you may assume are tucked in boots or concealed in clothing if not represented on the model. 
+
+\page
 
 #### Skill tables and starting experience
 
