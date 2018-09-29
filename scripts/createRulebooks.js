@@ -12,9 +12,9 @@ const options = {
 const targets = [ 
 	"./1-introduction.md", 
 	"./2-core-rules.md", 
-	"./3-equipment.md", 
-	"./4-magic.md", 
-	"./5-warbands.md", 
+	"./3-warbands.md",
+	"./4-equipment.md", 
+	"./5-magic.md",  
 	"./6-scenarios.md", 
 	"./7-optional-rules.md", 
 	"./8-hammerheim-mods.md",  
