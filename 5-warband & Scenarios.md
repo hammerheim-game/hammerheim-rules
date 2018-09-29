@@ -464,8 +464,8 @@ together.
 #### Weapons and armor
 
 Each warrior you recruit can be armed with up to two close
-combat weapons (in addition to his free dagger), up to two
-different missile weapons and any armor chosen from the
+combat weapons (or one two-handed weapon), a single missile
+weapon, and any armor chosen from the
 appropriate list. For these purposes, a brace of pistols counts
 as a single missile weapon. Warriors may be restricted in
 regard to which types of weapons they can use. The
@@ -503,11 +503,9 @@ paper first, as you will have to juggle the weapons and
 fighters to get as close to the maximum permitted value of the
 warband as possible. If you have any cash left after choosing
 your warband write this down in the space marked as
-‘Treasury’. At the end of the book you’ll find an example
-warband; you can use this if you want or choose your own –
-it’s up to you.
+‘Treasury’. 
 
-The warband roster is a record of your brave group of
+The warband roster is a record of your 'brave' group of
 warriors and is useful to keep beside you as you play. During
 a battle you may wish to make notes on the sheet itself, to
 record details such as extra experience, equipment used, etc.
@@ -516,14 +514,7 @@ all your Heroes and each Henchman group. It’s up to you to
 invent suitable names, though you’ll find plenty of
 inspiration throughout this book.
 
-#### Calculate the warband rating
 
-Each warband has a warband rating – the higher the rating,
-the better the warband. The warband rating is simply the
-number of warriors multiplied by 5, plus their accumulated
-experience.
-Large creatures such as Rat Ogres are worth 20 points plus
-the number of Experience points they have accumulated.
 #### Ready for battle
 
 The warband is now ready to start its fighting career!
@@ -656,10 +647,7 @@ Marienburg warbands receive a +1 bonus when attempting to
 find rare items (see the Trading section for rules).
 To reflect their enormous wealth Marienburgers start off with
 an extra 100 gold crowns (600 in total) when fighting in a
-campaign. In a one-off game they are permitted an extra 20%
-gold crowns when recruiting a warband. For example, in a
-1,000 gold crown game a Marienburger warband will have
-1,200gc.
+campaign. 
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 
@@ -695,7 +683,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Morning ....................................................................... 15 GC
 Double-handed weapon ............................................... 15 GC
 Spear ............................................................................ 10 GC
@@ -718,7 +706,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace/ Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Missile Weapons
 Crossbow ..................................................................... 25 GC
 Pistol .................................................. 15 GC (30 for a brace)
@@ -945,7 +933,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
 Double-handed weapon ............................................... 15 GC
@@ -965,7 +953,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Missile Weapons
 Crossbow ..................................................................... 25 GC
 Pistol .................................................. 15 GC (30 for a brace)
@@ -983,7 +971,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Missile Weapons
 Bow ............................................................................. 10 GC
 Longbow (Bergjaeger only) ........................................ 15 GC
@@ -1235,7 +1223,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed Weapon .............................................. 15 GC
 Spear .............................................................................. 5 GC
 Missile Weapons
@@ -1252,7 +1240,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 None
@@ -1263,7 +1251,7 @@ Jaeger Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear .............................................................................. 5 GC
 Missile Weapons
 Pistol .................................................. 15 GC (30 for a brace)
@@ -1576,7 +1564,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed Weapon** .......................................... 15 GC
 Missile Weapons
 Pistol .................................................. 15 GC (30 for a brace)
@@ -1610,7 +1598,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
 Double-handed Weapon .............................................. 15 GC
@@ -1852,7 +1840,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Spear ............................................................................ 10 GC
 Missile Weapons
@@ -1870,7 +1858,7 @@ Hand-to-hand Combat Weapons:
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Flail ............................................................................. 15 GC
 Missile Weapons
@@ -2107,7 +2095,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed Weapon .............................................. 15 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
@@ -2345,7 +2333,7 @@ and armor chosen from the Carnival of Chaos Equipment
 list.
  
 0–1 Plague Cart
-120 Gold Crowns to hire
+250 Gold Crowns to hire
 The Plague Cart is the embodiment of Nurgle and the core of the
 Carnival of Chaos. Bedecked in the colourful, garish finery of the
 coaches of travelling players and thespians, the Cart easily draws
@@ -2359,37 +2347,43 @@ ramshackle wagons contain a pentagram daubed with dark runes of
 incredible potency that actually creates a portal to the realms of
 Chaos and the dwelling place of great Nurgle himself.
 Profile M WS BS S T W I A Ld
-Cart - - - - 8 4 - - -
-Wheel - - - - 6 1 - - -
-Horse 8 - - 3 3 1 3 - -
+Cart - - - - 6 4 - - -
+Horse 8 - - 3 3 1 3 1 -
 Guardian - 3 - 3 3 - 3 1 -
-Weapons/Armor: None. The Plague Cart’s Guardian does
-not use or need weapons but suffers no penalties for fighting
-unarmed. Therefore it cannot use weapons and cannot wear
-armor.
+Weapons/Armor: None. The Plague Cart’s Guardian is equipped with
+a scythe, though it may not equip anything else. The Cart
+is pulled by 2 horses and has a 5+ Armour Save.
 Special Rules
-Plague Cart: The Daemonic nature of the Plague Cart fills
-both the Daemons and mortals of the Carnival of Chaos with
-vigour. The maximum number of warriors allowed in the
-warband is increased by +2.
-In addition, the Daemonic Instability of the Daemons within
-the warband is slightly offset. Plague Bearers and Nurglings
-may re-roll Leadership tests for Instability and may +1 to
-their Injury tests if taken out of action.
+Transport: Warband members on foot may ride inside the cart by 
+moving into base contact with it - if they do so the cart may not move that
+turn (or move any further if it already did). The Cart only has space inside 
+for up to 4 wounds worth of passengers. Warriors may disembark from the Cart
+at the end of each movement phase, though doing so takes up their entire 
+movement. This move may be used to charge into combat with enemies already 
+in contact with the cart, but that is all. Any occupants still 
+inside the Cart if it is destroyed are placed in its stead and are Knocked Down.
+
+Plague Cart: The cart's enclosed cabin provides excellent protection
+to the passengers within, its wooden chassis reinforced with
+unnaturally resilient twists of blubbery yet fibrous growth.
+Warriors inside the cart may not be the target of shooting, spells, 
+or attacks - though effects that damage all models in an area will 
+effect all occupants. They also may not attack, shoot, or cast spells from
+within it.
+
+Ramshackle: Tall, wonky-wheeled, and distinctly box-like in shape these
+wagons are designed for hauling stage props through the city rather than
+for any type of speed or combat. The Plague Cart functions exactly like a
+chariot, except it causes no Impact Hits.
+
 Guardian: The Guardian comes as part of the Plague Cart. In
 fact, more often than not he is physically bonded to the cart in
 some twisted nightmare of flesh and wood. He may therefore
 never dismount from the cart or leave under any
-circumstances. In addition, as he is part of the Cart he cannot
-be injured unless the Cart is destroyed in which case so is he.
-The Guardian is considered a Daemonic creature and so
-never gains any Experience. Attacks from the Guardian cause
-Nurgle’s Rot.
-The Plague Cart and Guardian are considered Daemonic and
-don’t know the concept of fear. The Plague Cart
-automatically passes any Leadership-based test it is required
-to take.
-
+circumstances. The entire Cart rolls as one entity for injury rolls if it
+is taken Out of Action, and it may never gain experience.
+The Plague Cart and Guardian are considered Daemonic, and are 
+Immune to Psychology.
 
 #### Beastmen Raiders
 
@@ -2514,15 +2508,19 @@ create, but to destroy.
 
 ##### Special Rules
 
-Infighting: Beastmen are constantly sparring with each
-other, even in the middle of the battle. If at the start of your
-movement phase any Gor or Ungor does not see any enemy,
-make a leaderhip test on 3D6 (roll three dices and choose the
-two lowest rolls). If the Gor or Ungor fails the test, he moves
-full allowed distance directly to the nearest fellow Gor or
-Ungor who is not in hand-to-hand combat (if there is any). If
-he reaches the member, both may do nothing this turn.
-Heroes are unaffected by infighting.
+Infighting: Beastmen are creatures of abhorrant temprament, and have 
+more in common with Orcs than Humans when it comes to patience and 
+discipline. At the start of your movement phase if there are any Gors 
+or Ungors who did not charge an enemy but who are within charge range of
+an allied henchman they must take a Leadership test. If the Gor or Ungor
+fails the test, he must attempt to charge one allied henchman within range 
+(the player may choose which). The Gor or Ungor will then fight the allied
+henchman in the player's combat phase and, assuming they both survived, will
+move the combatants 1" apart at the end of their turn. A Gor or Ungor that kills
+an allied henchman in their way gains +1 experience. Hero Gors or Ungors are
+so brash and arrogant that they will even target allied heroes. Warbands in 
+Formal Alliances that are attacked by Beastmen in this way may break the alliance 
+in their turn in reparation.
 Alignment: the Warband’s Alignment is Chaotic
 
 ##### Choice of Warriors
@@ -2558,7 +2556,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club ............................................................................... 3 GC
 Battle Axe ...................................................................... 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed Weapon .............................................. 15 GC
 Halberd ........................................................................ 10 GC
 Missile Weapons
@@ -2599,6 +2597,7 @@ Skill list
 Special Rules
 Leader: Any Warrior within 6" of the Beastman Chieftain
 may use his Leadership when taking Ld tests.
+Hates Humans: The Beastman has Hatred of all humans.
 
 0-1 Beastmen Shaman
 45 Gold Crowns to hire
@@ -2630,7 +2629,7 @@ These beast centaurs are powerful creatures but they are not
 particularly agile or dexterous.
 Profile M WS BS S T W I A Ld
 
-8 4 3 4 4 1 2 1(2) 7
+8 4 3 4 4 1 2 1 7
 Weapons/Armor: Centigors may be armed with weapons
 and armor chosen from Gor Equipment list.
 Skills: The Centigor may choose from Combat, & Strength
@@ -2650,9 +2649,8 @@ dark forests. They suffer no movement penalties for moving
 through wooded areas.
 
 Trample: As well as their weapons, Centigors use their
-hooves and sheer size to crush their enemies. This counts as
-an additional attack, which does not benefit from weapon
-bonuses or penalties...
+hooves and sheer size to crush their enemies. This grants the
+Centigor Impact Hits (1).
  
 0-2 Bestigors
 45 Gold Crowns to hire
@@ -2851,7 +2849,7 @@ All Henchmen start with 0 experience.
 The following lists are used by Shadow Warrior warbands to pick their weapons:
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Spear ............................................................................ 10 GC
 Ithilmar weapon* ...................................................... 2x price
@@ -3026,7 +3024,7 @@ immediately; the new recruits must make the journey from
 Athel Loren to Mordheim. Therefore the entire group of
 reinforcements will arrive after 1d3 games have passed.
 Rare items: The Forest-Walker warbands from forest of
-Athel Loren receive a bonus of +2 when finding rare items.
+Athel Loren receive a bonus of +6 when finding rare items.
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful, Lawful / Neutral, Neutral.
 
@@ -3046,10 +3044,12 @@ Mordheim to retrieve shards of Starstone.
 Special rules
 Beast-Hunters: All the Forest-Walker warbands from the
 Forest of Shadows Hate Beastmen.
+Wardancers: Forest of Shadows warbands may not purchase
+Waywatchers, but may instead take two Wardancers.
 Rare items: The Forest-Walker warbands from the Forest of
 Shadows receive a bonus of +1 when finding rare items.
 Alignment: the Warband’s Alignment may be one of the
-following: Lawful, Lawful / Neutral, Neutral.
+following: Lawful / Neutral, Neutral, Chaotic / Neutral
 ##### The Great Forest
 
 It is Said that hidden deep inside the Great Forest of the
@@ -3163,7 +3163,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club/Staff ...................................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Double-handed weapon* ............................................. 15 GC
 Saerath*** ................................................................... 20 GC
@@ -3193,7 +3193,7 @@ Dagger .............................................................. 1st free/2
 Club/Staff ...................................................................... 3 GC
 Axe ................................................................................ 5 GC
 
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Cold Metal Weapon* ............................................... 2x price
 Ithilmar Weapon* ..................................................... 3x price
 Missile Weapons
@@ -3207,13 +3207,13 @@ Cold Metal Armor* ................................................... 50 GC
 Ithilmar Armor* ........................................................ 70 GC
 Miscellaneous Equipment
 Elven Cloak ................................................................. 50 GC
-Healing Herbs .............................................................. 25 GC
+Healing Herbs .............................................................. 35 GC
 Hunting Arrows* ......................................................... 30 GC
 WARDANCER EQUIPMENT LIST
 This list is for Wardancer only
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Cold Metal Weapon ................................................. 2x price
 Ithilmar Weapon ....................................................... 3x price
@@ -3303,13 +3303,13 @@ details. In addition the Spellsinger may learn a new Spell
 instead on a new skill.
 
 0-1 Wardancer
-75 gold crowns to hire
+105 gold crowns to hire
 Wardancers are perhaps the greatest and are certainly the most
 unusual of the Wood Elven warriors, possessing incredible
 acrobatic abilities and a strange fighting style designed to resemble
 a dance.
 Profile M WS BS S T W I A Ld
-5 5 4 3 3 1 6 1 7
+5 5 4 3 3 1 6 2 8
 Weapons/Armor: Wardancer may be equipped with
 weapons and armor chosen from the Wardancer Equipment
 list.
@@ -3317,13 +3317,13 @@ Skills: The Wardancer may choose from Combat and Speed when he gains a new skill
 Wardancer may choose from the Wood Elf Special Skill list
 and the Wardancer skill list.
 Special Rules Excellent Sight, Forest Folks, Wood Elf
-Archery, Leap, Agile, Immune to Psychology
-Combat Style: The combat style used by the Wood Elves’
-Wardancers look more like dance moves then Combat moves.
-These attacks are much stronger than normal attacks. The
-Wardancers can only use one attack at a time, but dance
-attacks can only be used ever other turn. There are four of
-these Dance Attacks used by the Wardancers as listed below:
+Archery, Leap, Immune to Psychology
+Wardancing: As the name suggests Wardancers use a truly unique style of 
+combat only practiced by Wood Elves, combining flawless grace with deadly 
+rhythm for a fighting style as beautiful as it is lethal. Wardancers 
+may only use one Dance at a time and they only last for their own 
+combat phase. The same Dance may not be used more than once in a row.
+There are four of these Dance Attacks used by the Wardancers as listed below:
 Shadow Coil: The Wardancer forgoes all of his attacks to nullify
 the attacks of a single opponent in base to base contact for that hand
 to hand phase.
@@ -3331,12 +3331,10 @@ Storm of Blades: The Wardancer may reroll any failed roll to
 wound in that hand to hand phase.
 Whirling Death: the Wardancer gains a +1 A & +1 I, but has a -1
 to hit in hand to hand combat.
-Woven Mist: the enemies must past a leadership test or only hit on
-6
+Woven Mist: the enemies must past a leadership test or may only
+make 1 attack.
 Leap: The Wardancer start with the Skill Leap from the
 Speed Skills
-Agile: The Wardancer have a special 6+ Unmodifiable save
-vs. any physical attack
 Talismanic Tattoos: 6+ Ward save and Magic Resistance 1
  
 0-4 Younglings
@@ -3426,21 +3424,18 @@ Profile M WS BS S T W I A Ld
 5 4 0 4 4 1 6 2 8
 Weapons/Armor: Razor Sharp Talons (Counts as being
 unarmed but with no combat penalties)
-Special Rules: Forest Spirits, Rating
-Rating: For Each Dryad in the Warband will add +5 to the
-Warband rating.
+Special Rules: Forest Spirits
+
  
 0-1 Tree-kin
 125 gold crowns to hire
 Profile M WS BS S T W I A Ld
 5 4 0 5 5 3 3 3 8
-Weapons/Armor: Branchlike limes (Counts as being
-armed with two clubs).
-Special Rules: Forest Spirits, Large Target, Rating
+Weapons/Armor: Swinging Boughs (Counts as being unarmed but
+with no combat penalties..
+Special Rules: Forest Spirits, Large Target
 Large Target: The Tree-kin are large and so count as a large
 target.
-Rating: The Tree-kin in the Warband will add +35 to the
-Warband rating.
 
 
 #### Witch Hunters
@@ -3537,7 +3532,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Mace, Hammer .............................................................. 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 Crossbow ..................................................................... 25 GC
@@ -3566,7 +3561,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Spear ............................................................................ 10 GC
 Missile Weapons
@@ -3598,7 +3593,7 @@ Special Rules
 Leader: Any warrior within 6" of the Witch Hunter Captain
 may use his Leadership value when taking Leadership tests.
 Burn the Witch!: A Witch Hunter Captain hates all models
-who can cast spells.
+who can cast spells. He also hates all Sisters of Sigmar.
 
 0-3 Witch Hunters
 25 gold crowns to hire
@@ -3616,7 +3611,7 @@ Skills: The Witch Hunters may choose from Combat,
 Shooting, Academic, & Speed when he gains a new skill.
 Special Rules
 Burn the Witch!: Witch Hunters hate all models who can
-cast spells.
+cast spells. He also hates all Sisters of Sigmar.
 
 
 0-1 Warrior-priest
@@ -4279,7 +4274,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Morning Star ............................................................... 15 GC
 Double-handed weapon ............................................... 15 GC
 Halberd ........................................................................ 10 GC
@@ -4303,7 +4298,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Morning Star ............................................................... 15 GC
 Double-handed weapon ............................................... 15 GC
 Halberd ........................................................................ 10 GC
@@ -4399,8 +4394,7 @@ Bear Handler: A Kislevite Warband that includes a Bear
 Tamer is allowed to purchase a Bear as a henchman. This
 bear has been trained to follow the Tamer’s commands, and
 so will automatically pass its Stupidity tests when within 6"
-of the Bear Tamer (even if the Tamer has been Knocked
-Down or Stunned).
+of the Bear Tamer (even if the Tamer is _incapacitated_).
 
 0-2 Youths
 15 gold crowns to hire
@@ -4492,7 +4486,7 @@ cannot hope for a more loyal friend or useful ally when things turn
 bad.
 Profile M WS BS S T W I A Ld
 
-6 3 0 5 5 2 2 2 6
+6 3 0 5 5 3 2 2 6
 Weapons/Armor: None, other than their claws and teeth!
 Special Rules
 Trained: A bear doesn’t care about the warband’s mission or
@@ -4618,7 +4612,7 @@ Dagger .............................................................. 1st free/2
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
 Dwarf axe .................................................................... 15 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
@@ -4637,7 +4631,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Missile Weapons
 Crossbow ..................................................................... 25 GC
 Handgun ...................................................................... 35 GC
@@ -4768,339 +4762,6 @@ Weapons/Armor: Beardlings may be armed with weapons
 and armor chosen from the Dwarf Warrior equipment list.
 
 
-#### Dwarf Rangers
-
-From the Nemesis Crown
-‘Old’ Borin was respected and revered amongst his contemporaries as he had outlived the majority of them and grown the beard to prove it.
-He was used to reverence. Yet there was more to it than simple age, even in Dwarf Society where that carried a great deal of respect. He was
-also a member of the Order of Runesmiths, it’s rites and rituals secretive and powerful.
-Now, as he struck the axe blade, forging another ancient rune into its surface, uttering the words of power that would enhance the potency of
-the weapon, Borin knew that each new runic item produced by him and his peers was another step in repairing the mistakes of the past.
-Staring at the finished axe, the Runesmith felt a surge of pride, but fought it back. Yes the weapon was complete and empowered, but it was
-no better than any produced now. Not compared to the great weapons forged in the Old Times and wielded in the hands of the greatest
-heroes of his people. Only by locating the fabled weapons of the past and studying their runes could his people usher in a new Golden Age.
-He and his fellow Runesmiths would not repeat the mistakes of the past...the new items of power that would be produced would be powerful,
-and without flaw.
-
-##### Special Rules
-
-Hard to Kill: Dwarfs are tough, resilient individuals who can
-only be taken out of action on a roll of 6 instead of 5-6 when
-rolling on the Injury chart. Treat a roll of 1-2 as knocked
-down, 3-5 as stunned, and 6 as out of action.
-Hard Head: Dwarfs ignore the special rules for maces,
-clubs, etc. They are not easy to knock out!
-Armor: Dwarfs never suffer movement penalties for
-wearing armor.
-Hate Orcs and Goblins: All Dwarfs hate Orcs and Goblins.
-See the psychology section of the Mordheim rules for details
-on the effects of hatred.
-Grudgebearers: Dwarfs hold an ancient grudge against
-Elves from the days when the two races fought for supremacy
-in the Old World. A Dwarf warband may never include any
-kind of Elven Hired Sword or Dramatis Personae.
-Incomparable Miners: Dwarfs spend much of their lives
-underground searching for precious minerals, and they are the
-best in the world at this kind of work. In the city of
-Mordheim they apply similar skills to the search for
-wyrdstone. When checking for wyrdstone at the end of a
-game, add +1 to the number of pieces found for a Dwarf
-warband.
-Don’t Trust ‘Em: While Ranger Warbands are free to ally
-with other Dwarf warbands in multi-player games, their point
-of view is so different that they do not trust them fully.
-Members of a Dwarf Rangers warband are never considered
-‘friendly models’ to other dwarfs and vice versa.
-This means that members of one warband WILL stop
-members of the other from running, they won’t keep each
-other from taking All Alone tests, etc. They don’t count as
-enemy models and may split any treasure found at the end of
-the game as normal, but the two bands are not friends, make
-no mistake!
-Alignment: the Warband’s Alignment may be one of the
-following: Lawful / Neutral, Neutral
-
-##### Choice of Warriors
-
-A Dwarf Rangers warband must include a minimum of 3
-models. You have 500 Gold Crowns with which you can use
-to recruit and equip your warband. The maximum number of
-warriors in the warband is 12.
-Runesmith: Each Dwarf Rangers warband must have one
-Runesmith: no more, no less!
-Apprentice Runesmith: Your warband may include up to 1
-Apprentice Runesmith.
-Troll Slayers: Your warband may include up to 2 Troll
-Slayers.
-Dwarf Longbeards: Your warband may include up to 5
-Dwarf Longbeards.
-Dwarf Clansmen: Your warband may include any number
-of Dwarf Warriors.
-Dwarf Crossbowmen: Your warband may include up to 5
-Dwarf Crossbowmen.
-Beardlings: Your warband may include any number of
-Beardlings.
-##### Starting experience
-
-Runesmith starts with 20 experience
-Apprentice Runesmith starts with 0 experience
-Troll Slayers start with 8 experience
-All Henchmen start with 0 experience
-
-
-##### Dwarf Ranger Equipment list
-
-Dwarf Warrior Equipment List
-Hand-to-hand Combat Weapons
-Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
-Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
-Spear ............................................................................ 10 GC
-Halberd ........................................................................ 10 GC
-Dwarf axe .................................................................... 15 GC
-Double-handed weapon ............................................... 15 GC
-Gromril weapon*.......................................... 3 times the cost
-Missile Weapons
-Pistol ............................................................................ 15 GC
-Armor
-Shield ............................................................................ 5 GC
-Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
-Gromril armor** ....................................................... 75 GC
-
-Crossbowmen Equipment List
-Hand-to-hand Combat Weapons
-Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
-Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
-Missile Weapons
-Crossbow ..................................................................... 25 GC
-Armor
-Shield ............................................................................ 5 GC
-Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
-* - Any weapon a Dwarf may normally purchase may be
-purchased as a Gromril weapon instead. This multiplies the
-cost of the weapon by three. For rules on Gromril weapons
-see the Mordheim rulebook. Note that this price is only for a
-starting warband, as it represents the Dwarfs outfitting
-themselves at their own stronghold. Later purchases of
-Gromril weapons are done using the Price Charts in the
-Mordheim rulebook.
-** - The price of a suit of Gromril armor is cheaper for a
-starter warband to represent the relative ease with which
-Dwarfs can find such items in their own stronghold. Later
-purchases of Gromril Armor must be done using the normal
-Price Chart in the Mordheim rulebook.
-##### Heroes
-
-1 Runesmith
-85 gold crowns to hire
-Dwarf Runesmiths are champions of the old ways. ‘If it was good
-enough for my ancestors, it’s good enough for me!’ is a popular
-saying. Fresh out of their decades-long apprenticeships, these
-Runesmiths are normally on a quest to prove this saying and so will
-gather together a party of like-minded individuals to seek out lost
-treasures of their ancestors to confirm this adherence to the
-traditional ways. The quest for an item like the Nemesis Crown is a
-dream come true for a young Runesmith (not to mention many of a
-more advanced age!).
-Profile M WS BS S T W I A Ld
-
-3 5 4 3 4 1 2 1 10
-Weapons/Armor: A Dwarf Runesmith may be equipped
-with weapons and armor chosen from the Dwarf Warrior
-equipment list.
-Skills: The Dwarf Runesmith may choose from Combat,
-Shooting, Academic & Strength when he gains a new skill. In
-addition, the Dwarf Runesmith may choose from the Dwarf
-Special Skill list.
-Special Rules
-Leader: Any warrior within 6” of the Dwarf Runesmith may
-use his leadership characteristic when taking any Leadership
-tests.
-
-Inscribe Runes: A Runesmith knows one minor rune (see
-list at the end of this warband list), determined randomly
-when the warband is first created. He may inscribe the rune
-on an item carried by one of the warriors of his warband, and
-(if successful, see below) the item will gain a bonus from the
-rune for that game. When a Runesmith advances and rolls a
-skill on the Hero Advance table, he may choose to learn a
-new rune instead of learning a skill (exactly like a spell caster
-advancing and learning a new spell).
- 
-0-1 Apprentice Runesmith
-40 gold crowns to hire
-An Apprentice Runesmith follows his master wherever he goes and
-is normally just as anxious to prove that the old ways are best. For
-if they aren’t, he is wasting a good portion of his life...
-Profile M WS BS S T W I A Ld
-3 3 2 3 4 1 2 1 8
-Weapons/Armor: An Apprentice Runesmith may be
-equipped with weapons and armor chosen from the Dwarf
-Warrior equipment list.
-Skills: The Apprentice Runesmith may choose from Combat,
-Academic & Strength when he gains a new skill. In addition,
-the Apprentice Runesmith may choose from the Dwarf
-Special Skill list.
-Special Rules
-Extra Set of Hands: An Apprentice Runesmith helps his
-master fashion runic items, doing all the boring grunge-work
-that makes his master more efficient in his efforts. An
-Apprentice Runesmith in the warband allows a Master
-Runesmith to inscribe on two items before each game,
-instead of only one.
-
-
-0-2 Troll Slayer
-50 gold crowns to hire
-While it may seem that Troll Slayers shouldn’t fit in with the rest of
-a Ranger warband, make no mistake – they are strict adherents to
-tradition and the old ways! Indeed they usually find it easier to get
-along with the more traditional minded Dwarfs than other dwarfs,
-who Slayers feel lack determination and the insight to see what the
-true problems are with their race. Besides, on a perilous quest such
-as this, the opportunities to achieve a death of legendary fame and
-fulfil the Slayer Oath are too great to ignore.
-Profile M WS BS S T W I A Ld
-
-3 4 3 3 4 1 2 1 9
-
-Weapons/Armor: Troll Slayers may be equipped with
-weapons chosen from the Dwarf Warrior equipment list.
-Slayers may never carry or use missile weapons or any form
-of armor.
-Skills: The Troll Slayer may choose from Combat &
-Strength, when he gains a new skill. In addition, the Troll
-Slayer may choose from the Dwarf Special Skill list or the
-Troll Slayer Skill list.
-Special Rules
-Deathwish: Troll Slayers seek an honourable death in
-combat. They are completely immune to all psychology and
-never need to test if fighting alone.
-##### Henchmen
-
-(Bought in groups of 1-5)
-Dwarf Clansman
-40 gold crowns to hire
-There are many Dwarfs who see the ‘wisdom’ in reliance on the old
-ways, and believe that they are the path to follow in order to
-recapture past glory for the Dwarf people. Most of these Dwarf
-warriors venerate Runesmiths and are honoured to be chosen as
-part of an expedition including one.
-Profile M WS BS S T W I A Ld
-
-3 4 3 3 4 1 2 1 9
-Weapons/Armor: A Dwarf Clansman may be equipped
-with weapons and armor chosen from the Dwarf Warrior
-equipment list.
-0-5 Dwarf Ranger
-40 gold crowns to hire
-Dwarf Rangers are the hunters and trailblazers of Dwarf society.
-Often seen as “a bit odd” by their people due to their inclination for
-wide-open spaces, Rangers are the perfect candidates to participate
-in a mission such as this.
-Profile M WS BS S T W I A Ld
-
-3 4 3 3 4 1 2 1 9
-Weapons/Armor: A Dwarf Ranger may be equipped with
-weapons and armor chosen from the Crossbowmen
-equipment list.
-Beardling
-25 gold crowns to hire
-Many of the proponents of the old ways are older members of Dwarf
-community. However there are still youngsters who believe and they
-often accompany a Runic warband to lend a hand as needed to the
-respected oldsters. More spry than their fellows, they are often used
-as scouts, roaming ahead with the Rangers to spy the land and
-observe enemy activity.
-Profile M WS BS S T W I A Ld
-3 3 2 3 4 1 2 1 8
-Weapons/Armor: A Beardling may be equipped with
-weapons and armor chosen from the Dwarf Warrior
-equipment list.
-
-0-5 Dwarf Longbeards
-50 gold crowns to hire
-Tested Dwarf veterans who’ve fought in hundreds of battle over
-their long lives, Longbeards are typically more than willing to
-support an expedition to prove what they’ve said all along – the old
-ways are best!
-Profile M WS BS S T W I A Ld
-3 5 3 3 4 1 3 1 9
-Weapons/Armor: A Dwarf Longbeard may be equipped
-with weapons and armor chosen from the Dwarf Warrior
-equipment list.
-Special Rules
-Stubborn: Dwarf Longbeards have seen just about
-everything in their long careers and they know it. They are
-used to fighting by themselves against impossible odds and it
-hasn’t killed them yet. On top of all this they are just
-generally more set in their ways than other Dwarfs and
-they’re not about to let a bunch of weedy goblins drive them
-off! A Dwarf Longbeard may reroll any failed Leadership test
-he is required to take. Remember that you can never reroll a
-reroll, so the result of this second roll must always be
-accepted.
-
-
-##### Dwarf Runes
-
-Runesmiths harness the magic of the Warhammer world by
-inscribing magical runes on items, imbuing them with a
-variety of wondrous abilities. When a Runesmith graduates
-from his long apprenticeship he has knowledge of one or two
-minor runes taught to him by his master. These runes are less
-powerful than normal Dwarf runes, in that they can only
-utilise magic for a short time. As the Runesmith practises and
-studies on his own, he gains the knowledge required to
-inscribe the more powerful permanent runes on to items.
-Before each game, the Runesmith may attempt to inscribe the
-rune on an item one of the warriors in his warband is
-carrying. To do so he must roll 2D6. If he rolls a number
-equal to or greater than the Difficulty Level of the rune, the
-item gains the appropriate bonus FOR THAT GAME. If he
-rolls a ‘2’ on the 2D6, he has fumbled the inscription,
-fractured the blade of the weapon or shattered the breastplate
-of the armor, etc. The item is destroyed and must be
-removed from the warrior’s list of items, though it may be
-replaced before the game if the warband has sufficient gold
-crowns. Any other failure simply means the Runesmith failed
-to inscribe the rune correctly and the warrior gains no bonus.
-The leader of a Dwarf Rangers warband represents a younger
-Runesmith that has recently left the tutelage of his master. He
-knows one of the following minor runes:
-
-D6 Result
-1 Rune of Stone Difficulty 8.
-+1 to Armor Save.
-2 Rune of Sharpness Difficulty 6.
--1 Armor Save modifier to weapon.
-3 Rune of Speed Difficulty 7.
-Initiative doubled on weapon
-4 Rune of Warding Difficulty 8.
-Special 4+ save Vs. Spells affecting target (placed on
-belt, armband, etc. Cost to replace: 1 GC).
-5 Rune of Accuracy Difficulty 9.
-+1 to hit on weapon.
-6 Rune of Striding Difficulty 8.
-+1 Movement (placed on boots, belt, etc. Cost to
-replace: 1 GC).
-The Jealousy of Runes: Bonuses from Runes are not
-cumulative with magical bonuses from other items. In other
-words, a warrior may not combine a Rune of Stone on his
-shield and a Rune of Shield on his armor for a total bonus to
-his Armor Save of +2. Similarly the warrior could not
-combine the Rune of Stone on his shield with some suit of
-magic elven armor (for example) that added +1 to the
-warrior’s Armor Save.
-
-
 #### Von Carstein Warband
 
 Count Vlad von Carstein and his wife Isabella have ruled the
@@ -5181,7 +4842,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Mace, Hammer .............................................................. 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
@@ -5386,7 +5047,6 @@ chart as ‘knocked down’.
 
 #### Blood Dragon Knights
 
-By Natascha Chrobok
 
 ##### Special Rules
 
@@ -5432,7 +5092,7 @@ Close Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Mace, Hammer .............................................................. 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
 Two-handed Weapon .................................................. 15 GC
@@ -5660,7 +5320,6 @@ Hound never gains experience
 
 #### Lahmian Warband
 
-This warband was based on one created by the Khemri guys, [http://grafixgibs.tripod.com/Khemri/index.htm.](http://grafixgibs.tripod.com/Khemri/index.htm.)
 Long ago, the nobles of Lahmia stole the secret of the elixir of eternal life from the Great Necromancer, Nagash, during the
 war in which he was expelled from the land of Nehekhara. Over time, corrupted by the secret they had stolen, they became the
 first true vampires and were themselves driven out. Banished from their ancestral home, the Lahmians became mistresses of
@@ -5734,7 +5393,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Mace, Hammer, Club, Staff ........................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Double-handed Weapon .............................................. 15 GC
 Serpent Whip* ............................................................. 25 GC
@@ -6060,7 +5719,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
 Pike .............................................................................. 12 GC
@@ -6083,7 +5742,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Missile Weapons
 Pistol ..................................................... 15 GC (30 for brace)
 Duelling Pistol ...................................... 25 GC (50 for brace)
@@ -6274,7 +5933,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Staff .......................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Double-handed weapon ............................................... 30 GC
 Missile Weapons
@@ -6488,15 +6147,13 @@ Dagger .............................................................. 1st free/2
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
 Dwarf Axe* ................................................................. 15 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Morning Star ............................................................... 15 GC
 Double-handed weapon ............................................... 15 GC
 Halberd ........................................................................ 10 GC
 Spear ............................................................................ 10 GC
 Flail ............................................................................. 15 GC
-War Chain ................................................................... 20 GC
 Fist Spike ..................................................................... 15 GC
-Brass Knuckles ............................................................ 20 GC
 Gromril Weapon* ...................................................... 3x Price
 Armor
 Helmet ......................................................................... 10 GC
@@ -6510,9 +6167,9 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club, Mace, Hammer .................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
-Trident ......................................................................... 15 GC
+Halberd ......................................................................... 15 GC
 Missile Weapons
 Throwing Knives ......................................................... 15 GC
 Javelin ......................................................................... 10 GC
@@ -6768,7 +6425,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Hammer ......................................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Flail ............................................................................. 15 GC
 Missile Weapons
@@ -6782,7 +6439,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Hammer ......................................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
@@ -6797,7 +6454,7 @@ Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Hammer ......................................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
@@ -7001,7 +6658,7 @@ Dark Elf Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Halberd ........................................................................ 10 GC
 Spear ............................................................................ 10 GC
@@ -7024,7 +6681,7 @@ Shades Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Missile Weapons
 Repeater Crossbow ...................................................... 35 GC
 Armor
@@ -7252,7 +6909,7 @@ Witch Elves Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
 Halberd ........................................................................ 10 GC
 Dark Steel Weapon* ................................................. 2x price
@@ -7271,7 +6928,7 @@ Shades Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Dark Steel Weapon* ................................................. 2x price
 Missile Weapons
 Throwing Knives ......................................................... 15 GC
@@ -7299,9 +6956,7 @@ Hag may choose from the Dark Elves Special Skill list.
 Special Rules
 Leader: Any models in the warband within 6" of the Witch
 Hag may use her Leadership instead of their own.
-Frenzy: Witch hag is affected by the rules for frenzy. While
-frenzied, Witch hag still hates High Elves, although normally
-immune to psychology.
+Frenzy: Witch hag is affected by the rules for frenzy.
 
 0-3 Executioner
 60 Gold Crowns to hire
@@ -7329,7 +6984,7 @@ could use a bit more real-world experience before serving the Witch
 King in his glorious armies.
 Profile M WS BS S T W I A Ld
 
-5 5 4 3 3 1 6 3 9
+5 5 4 3 3 1 6 2 9
 Weapons/Armor: An Assassin may be equipped with
 weapons and armor chosen from the Shards equipment list.
 
@@ -7362,8 +7017,6 @@ weapons chosen from the Witch Elves Equipment list, note
 that Witch Elves don’t uses missile weapons or wear armor.
 Special Rules
 Frenzy: Witch Elves are affected by the rules for frenzy.
-While frenzied, Witch Elves still hate High Elves, although
-normally immune to psychology.
 
 0-5 Shards
 30 Gold Crowns to hire
@@ -7478,7 +7131,7 @@ Night Runners and all Henchmen start with 0 experience.
 The following lists are used by the Skaven of Clan Eshin to pick their equipment.
 Hero’s Equipment List Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Flail ............................................................................. 15 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
@@ -7498,7 +7151,7 @@ Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club ............................................................................... 3 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
@@ -7719,7 +7372,7 @@ The following lists are used by the Skaven of Clan Moulder to pick their equipme
 Hero’s Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
 Flail ............................................................................. 15 GC
@@ -7736,7 +7389,7 @@ Heavy Armor ............................................................. 50 GC
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
 Flail ............................................................................. 15 GC
@@ -7974,7 +7627,7 @@ Hero’s Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club ............................................................................... 3 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Flail ............................................................................. 15 GC
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
@@ -7992,7 +7645,7 @@ Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club ............................................................................... 3 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Flail ............................................................................. 15 GC
 Spear ............................................................................ 10 GC
 Missile Weapons
@@ -8186,8 +7839,8 @@ Hero’s Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Halberd ........................................................................ 10 GC
-Pick .............................................................................. 10 GC
-Sword .......................................................................... 10 GC
+Axe .............................................................................. 5 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Flail ............................................................................. 15 GC
 Two-Handed Weapon ................................................. 15 GC
@@ -8208,7 +7861,7 @@ Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
 Club ............................................................................... 3 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
@@ -8551,7 +8204,7 @@ Goblin equipment list
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
 Club ............................................................................... 3 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Missile weapons
 Short bow ...................................................................... 5 GC
@@ -8857,7 +8510,7 @@ The following lists are used by Black Orc warbands to pick their equipment.
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Choppa (count as a Morning star) ............................... 11 GC
 Spear ............................................................................ 10 GC
 Double-handed weapon ............................................... 15 GC
@@ -8875,7 +8528,7 @@ Henchmen
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Choppa (count as a Morning star) ............................... 11 GC
 Spear (Boyz only)........................................................ 10 GC
 Double-handed weapon (Boyz & Savage
@@ -9182,7 +8835,7 @@ Dagger .............................................................. 1st free/2
 Club ............................................................................... 3 GC
 Axe ................................................................................ 5 GC
 Spear .............................................................................. 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Halberd ........................................................................ 10 GC
 Double-handed weapon ............................................... 15 GC
 Boss Pole ..................................................................... 20 GC
@@ -9196,14 +8849,14 @@ Miscellaneous
 Spider Poison .............................................................. 25 GC
 Red Toof Tribal Jewellery ........................................... 40 GC
 Giant Spider Mount ..................................................... 45 GC
-Magic Gubbinz ............................................................ 50 GC
+Magic Gugginz ............................................................ 50 GC
 
 Henchmen
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
 Club ............................................................................... 3 GC
 Spear .............................................................................. 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Missile weapons
 Short bow ...................................................................... 5 GC
 Throwing Weapons ..................................................... 15 GC
@@ -9429,21 +9082,8 @@ perform other actions.
 loyalty, and doesn’t need to roll further treachery tests
 for the rest of the game
 Giant Wolves: The warband may include a number of Giant
-Wolves as detailed below. These must be ridden into battle.
-You may nominate either heroes or henchmen to ride these
-wolves and the rules for mounted models in the Mordheim
-book apply, however the riders will not dismount for any
-reason during a battle, so it is generally a bad idea to have an
-entire warband mounted. If the model is taken out of action
-roll for both the rider and the wolf on the serious injury table.
-You may switch riders between battles if you like. While
-mounted models are unable to enter buildings in above-
-ground scenarios they may still be ridden in tomb raider
-scenarios, however due to their bulk and the nature of the
-tombs mounted models may not run while inside of tombs,
-and will only charge their normal move distance (a charge
-must still be declared as normal, however, and you cannot
-simply 'move' into hand to hand combat.)
+Wolves as detailed below. These must be ridden into battle, they 
+may not be used as loose animals.
 Alignment: the Warband’s Alignment may be one of the
 following: Neutral / Chaotic or Chaotic.
 ##### Choice of Warriors
@@ -9459,8 +9099,8 @@ Shaman: Your warband may include up to one Shaman.
 Gits: Your warband may include any number of Gits.
 Shooty Gits: Your warband may include up to five Shooty
 Gits
-Giant Wolves: Your warband may include up to five Giant
-Wolves
+Giant Wolves: Your warband may include any number of Giant
+Wolves.
 
 
 ##### Starting experience
@@ -9476,9 +9116,8 @@ Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
 Club ............................................................................... 3 GC
 Axe ................................................................................ 5 GC
-Sword .......................................................................... 10 GC
+Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
-Scimitar ....................................................................... 15 GC
 Barbed Spear ............................................................... 15 GC
 
 Missile Weapons
@@ -9567,8 +9206,8 @@ Special Rules
 Ded shooty: The Hobgoblin Shooty Gits start with the skill
 Ded shooty, see the Hobgoblin Special Skill list for details.
 
-0-5 Giant Wolves
-25 gold crowns to hire
+Giant Wolves
+20 gold crowns to hire
 Profile M WS BS S T W I A Ld
 9 3 0 3 3 1 4 1 4
 Weapons/Armor: Giant Wolves do not use any kind of
@@ -9626,18 +9265,6 @@ for gold, used for trading, etc. You can recruit more warriors
 or buy new weapons from traders. All this is explained in the
 Income and Trading sections, later.
 
-#### Warband rating
-
-Each warband has a warband rating – the higher the rating
-the better the warband. The warband rating is simply the
-number of warriors in it multiplied by 5, plus their
-accumulated experience.
-Large creatures such as Rat Ogres are worth 20 points plus
-the number of Experience points they have accumulated.
-The warband’s rating changes after each game, because
-surviving warriors will gain extra experience, warriors may
-have been killed, new ones added, etc. Hopefully your
-warband rating will go up, signifying your increase in power!
 
 #### Post battle sequence
 
@@ -9675,30 +9302,22 @@ there are any in the warband’s stash in stage 9.
 as desired (provided they are eligible to use it).
 10 Update your warband rating. You are now ready to
 fight again.
-#### Disbanding warbands
 
-You may disband your old warband at the end of any game
-and start again with a new one. All the warriors in the
-original warband and any equipment and other benefits they
-acquired are lost. You can also dismiss any warrior in your
-warband at any time.
 #### Death of a Warrior
 
 When a warrior is killed (Hero or Henchman) all his weapons
 and equipment are lost. This is very important, so be clear
 about it from the start. It is not possible to reallocate a
 warrior’s weapons or equipment once he is dead.
+
 #### Death of a Leader
 
 If the leader of the warband is slain, the Hero with the next
 highest Leadership value takes command. He then gains the
 Leader ability (although he must continue to use his original
-Skill list) and can use the Equipment list available to the
-leader. If there is more than one Hero eligible to assume
+Skill list). If there is more than one Hero eligible to assume
 command, the warrior with the most Experience points
-becomes the leader. In the case of a tie roll a D6 to decide the
-new leader. Note that you may not hire a new leader for your
-warband.
+becomes the leader. If that is also is even the player may choose.
 In the case of Undead warbands, the death of the Vampire
 means that the warband’s Necromancer must take over. If the
 warband doesn’t include one, the spells that hold the restless
@@ -9707,15 +9326,6 @@ of bones. You can buy a Vampire after the next game, at
 which point the Necromancer will step down (whether he
 wants to or not) and lose the Leader skill.
 
-
-If the leader of a Sisters of Sigmar, Possessed or Carnival of
-Chaos warband dies then their successor will be entitled to
-learn to use magic in their stead. The new leader may roll for
-a prayer / spell from the appropriate list, instead of rolling on
-the Advance table, the first time they are eligible for an
-advance. After this they are considered to be a Magic / Pray
-User as appropriate for their warband and use the Advance
-table as normal.
 
 #### Buying new equipment between games
 
