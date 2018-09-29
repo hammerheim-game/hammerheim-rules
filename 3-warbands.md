@@ -2682,10 +2682,6 @@ in one city, it is their nature to wander.
 Hate Dark Elves: All warriors in a Shadow Warrior
 Warband (excluding any Hired Swords) have an unyielding
 Hatred for Dark Elves.
-Excellent Sight: Elves have eyesight unmatched by mere
-humans. All the Elves in a Shadow Warrior Warband can
-spot Hidden enemies from twice as far away as other warriors
-(i.e. twice their Initiative in inches).
 Distaste for Poison: The use of poisons and various drugs is
 a Dark Elf specialty. As such, it is frowned upon by Shadow
 Warriors, even more so than by other High Elves. Warriors in
@@ -2965,10 +2961,6 @@ Rules for more details on warband alliances). If ally with any
 Dwarven warbands (not Hired swords) then both parties will
 count as having distrusted alliance even if both Parties have
 the same alliance type.
-Excellent Sight: Elves have eyesight unmatched by mere
-humans. All the Elves in a Forest-Walker Warband can spot
-Hidden enemies from twice as far away as other warriors (i.e.
-twice their Initiative in inches).
 Forest Folks: The Wood Elves spend their entire lives in the
 confines of their forest, to represent this all Wood Elves have
 the following:
