@@ -15,8 +15,9 @@ const targets = [
 	"./3-equipment.md", 
 	"./4-magic.md", 
 	"./5-warbands.md", 
-	"./6-optional-rules.md", 
-	"./7-hammerheim-mods.md",  
+	"./6-scenarios.md", 
+	"./7-optional-rules.md", 
+	"./8-hammerheim-mods.md",  
 ];
 
 // ---------------------------------
