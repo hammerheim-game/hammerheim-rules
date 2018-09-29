@@ -31,6 +31,10 @@
   ],
   "author": "Max Clayton Clowes <maxcc@me.com>",
   "license": "ISC",
+  "pre-commit": [
+    "format",
+    "build"
+  ],
   "bugs": {
     "url": "https://github.com/hammerheim-game/hammerheim-rules/issues"
   },
@@ -40,7 +44,8 @@
     "html-pdf-chrome": "^0.5.0",
     "marked": "^0.4.0",
     "merge-md": "^1.0.3",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "pre-commit": "^1.2.2"
   },
   "devDependencies": {
     "mcclowes-scripts": "^0.3.6"
