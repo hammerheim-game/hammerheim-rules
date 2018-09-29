@@ -12,7 +12,7 @@
     - Censer
     - Claw of the Old Ones
     - Dagger
-    - Disease Dagger
+    - Diseased Dagger
     - Double-Handed Weapon
     - Dwarf Axe
     - Fighting Claws
@@ -215,14 +215,11 @@ Mushrooms.
 
 _[Goblins Only]_
 
-__
-__Range:____ Close combat
+__Range:__ Close combat
 
-__
-__Strength:____ As user +
+__Strength:__ As user +
 
-__
-__Special Rules:____ Two Handed, Incredible Force, Cumbersome, Unwieldy, Random,
+__Special Rules:__ Two Handed, Incredible Force, Cumbersome, Unwieldy, Random,
 
 _Two Handed:__ A model armed with a Ball and Chain may
 not use a shield, buckler or additional weapon in close
@@ -249,14 +246,11 @@ The favoured spear of the hobgoblin warriors is equipped with gruesome rear-faci
 
 _[Hobgoblin Only]_
 
-__
-__Range:____ Close Combat
+__Range:__ Close Combat
 
-__
-__Strength:____ As user
+__Strength:__ As user
 
-__
-__Special Rules:____ Strike First, Unwieldy, Cavalry Bonus, + To Wound
+__Special Rules:__ Strike First, Unwieldy, Cavalry Bonus, + To Wound
 
 __Strike First:__ A warrior with a spear strikes first in the first turn of hand-to-hand combat.
 
@@ -271,14 +265,11 @@ The Beastmaster make good use of their whips to goad their hounds and creatures 
 
 _[Dark Elves Only]_
 
-__
-__Range:____ Close Combat
+__Range:__ Close Combat
 
-__
-__Strength:____ As User
+__Strength:__ As User
 
-__
-__Special Rules:____ Beastbane, Cannot Be Parried, Whipcrack
+__Special Rules:__ Beastbane, Cannot Be Parried, Whipcrack
 
 __Beastbane:__ The Beastmaster wielding a Beastlash causes Fear in animals, any animal charged or wishing to charge a Beastmaster with one of these weapons must first take a Fear test as mentioned in the psychology section of the Mordheim
 rules.
@@ -306,14 +297,11 @@ form of long wooden poles with an icon or sharp blade on the end.
 
 _[Forest Goblins Only]_
 
-__
-__Range:____ Close Combat
+__Range:__ Close Combat
 
-__
-__Strength:____ As user
+__Strength:__ As user
 
-__
-__Special Rules:____ Strike First, Unwieldy, Cavalry Bonus,
+__Special Rules:__ Strike First, Unwieldy, Cavalry Bonus,
 Animosity
 
 
@@ -329,14 +317,11 @@ __Animosity:__ The Hero with a boss pole and any Goblin henchmen within 6" to ig
 
 The brazier iron is a weapon commonly used by witch hunters. It consists of a long heft topped by an iron cup filled with burning hot coals. In combat, the weapon takes on an eldritch quality as the burning embers sear the air as it is swung, opponents are sent reeling in flaming agony as they are set on fire.
 
-__
-__Range:____ Close combat
+__Range:__ Close combat
 
-__
-__Strength:____ As user +
+__Strength:__ As user +
 
-__
-__Special Rules:____ Two-handed, Fire,
+__Special Rules:__ Two-handed, Fire,
 
 __Two-handed:__ As a brazier requires two hands to use, a model using a brazier may not use a shield, buckler or additional weapon in close combat. If the model has a shield, they still gets a +1 bonus to his armor save against shooting.
 
@@ -348,14 +333,11 @@ The censer is a hollow spiked metal ball attached to a long chain and is swung l
 
 _[Skaven, Clan Pestilens Only]_
 
-__
-__Range:____ Close Combat
+__Range:__ Close Combat
 
-__
-__Strength:____ As User +
+__Strength:__ As User +
 
-__
-__Special Rules:____ Heavy, Two-Handed, Fog of Death
+__Special Rules:__ Heavy, Two-Handed, Fog of Death
 
 __Heavy:__ The +2 Strength bonus applies only to the first turn of hand to hand combat.
 
@@ -371,14 +353,11 @@ becomes a difficult target to shoot at, and models targeting him with missile we
 
 This is a very ancient weapon made from a strange metal that is impervious to age and corrosion. The powers of this artefact can only be unleashed through a ritual known only to a handful of Amazons. The blade of this weapon glows white hot and can cut through armor as if it were paper. 
 
-__
-__Range:____ Close Combat
+__Range:__ Close Combat
 
-__
-__Strength:____ As User +
+__Strength:__ As User +
 
-__
-__Special Rules:____ No Save, Parry
+__Special Rules:__ No Save, Parry
 
 __No Save:__ The blade of the Claw can literally cut through anything. A warrior wounded by a Claw receives no armor save whatsoever.
 
@@ -388,18 +367,17 @@ __Parry:__ User may parry as per normal rules.
 
 Daggers and knives are extremely common, and men are allowed to carry them in enclaves where weapons are otherwise forbidden. Many a warrior in Mordheim has died with a dagger in his back.
 
-__
-__Range:____ Close Combat
+__Range:__ Close Combat
 
-__
-__Strength:____ As user
+__Strength:__ As user
 
-__
-__Special Rules:____ +1 Enemy Armor Save
+__Special Rules:__ +1 Enemy Armor Save
 
 __+1 Enemy Armor Save:__ Daggers are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a dagger gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
 
-### Disease Dagger
+\page
+
+### Diseased Dagger
 
 This dagger is permanently covered with a disgusting and
 moulderish layer of green ooze that may infect those that are hit
