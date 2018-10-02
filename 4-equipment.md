@@ -722,9 +722,9 @@ __Range:__ Close Combat
 __Strength:__ As User
 
 __Special Rules:__ Animal Scourge, Cannot Be Parried,
-Whipcrack
+Whipcrack, +1 Enemy Armor Save
 
-
+__+1 Enemy Armor Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a whip gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
 Animal Scourge: The Pack Masters of Clan Moulder learn
 to use these whips for the purpose of training animals. The
 beasts of Clan Moulder learn that these whips are to be feared
@@ -750,6 +750,7 @@ charged by two or more opponents they will still only receive
 a total of +1A. If the wielder is using two whips at the same
 time then they get +1A for the additional hand weapon, but
 only the first whip gets the whipcrack +1A.
+
 
 
 ### Rapier
@@ -840,9 +841,9 @@ __Range:__ Close Combat
 __Strength:__ As User
 
 __Special Rules:__ Cannot Be Parried, Whipcrack, +1 Enemy
-Armor Save, Poisoned
+Armor Save, Poisoned, +1 Enemy Armour Save
 
-
+__+1 Enemy Armor Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a whip gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
 Cannot Be Parried: The whip is a flexible weapon and the
 warrior use it with great expertise. Attempts to parry its
 strikes are futile. A model attacked by a whip may not make
@@ -1012,9 +1013,10 @@ __Range:__ Close Combat
 
 __Strength:__ As User
 
-__Special Rules:__ Cannot Be Parried, Whipcrack
+__Special Rules:__ Cannot Be Parried, Whipcrack, +1 Enemy
+Armour Save
 
-
+__+1 Enemy Armor Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a whip gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
 Cannot Be Parried: The steel whip is a flexible weapon and
 the Priestesses use it with great expertise. Attempts to parry
 its strikes are futile. A model attacked by a steel whip may
@@ -1113,8 +1115,6 @@ parrying.
 
 
 __Range:__ Close Combat
-
-__Strength:__ As User -1
 
 __Special Rules:__ Cannot Be Parried, Whipcrack, +1 Enemy
 Armor Save
@@ -2234,12 +2234,10 @@ be used on War Machines.
 
 Gunsmiths are known for their innovative approach to battlefield
 invention. A modified gunsight is simply the sight from a Hochland
-Long rifle that has been altered to fit a standard handgun.
-The result is a longer effective range due to the better aim. A
-Modified Gunsight increases the maximum range of a
-handgun to 30”. Note that this does not increase the
-handgun’s short range, and that shooting at targets further
-than 12” away will be subject to the usual –1 modifier.
+Long rifle that has been altered to fit some other blackpowder
+weapon. Only blackpowder weapons that roll a conventional 'to hit'
+dice may be fitted with a Modified Gunsight, and the Gunsight adds
+50% to whatever your weapon's usual range is.
 ### Silver Bullets
 
 Silver has always been rumoured to be the bane of evil creatures.
@@ -3254,7 +3252,7 @@ Common to the great astronomers in the observatories at
 Nuln, telescopes are a useful, if highly rare, item to have in
 the City of the Damned. The keen view offered by these
 instruments makes shooting easier and gives an unparalleled
-awareness of a warrior's surroundings. A Hero with a Telescope has no maximum range on their ranged weapons, though the distance for the purposes of "Long Range" penalties remains unchanged. Shooting beyond their weapon's conventional maximum range will confer an additional -1 to hit. Does not work on thrown weapons. Furthermore their Initiative is doubled for the purposes of attempting to spot hidden enemies.
+awareness of a warrior's surroundings. A Hero with a Telescope has no maximum range on their ranged weapons, though the distance for the purposes of "Long Range" penalties remains unchanged. Shooting beyond their weapon's conventional maximum range will confer an additional -1 to hit. Does not work on thrown weapons or weapons that do not roll a conventional 'to hit' dice (such as Blunderbusses, Mortars, Warpfire Throwers etcetera). Furthermore their Initiative is doubled for the purposes of attempting to spot hidden enemies.
 
 ### Torch
 _(One Use Per Battle)_
@@ -3266,4 +3264,4 @@ Scary: A model with a lit Torch causes Fear in all War Beasts and Cavalry.
 Still a Club: A Torch may be used as a Club in combat, and has the Flaming Attacks special rule - though will strike at -1 Strength.
 Sore Thumb: A Warrior with a Torch may never hide.
 Extremely Common: Any Henchmen may capable of equipping items may use a Torch.
-Bright: Enemy models may not hide within 4" of a model with a Torch.
+Bright: No model may not hide within 4" of a model with a Torch, including the bearer.
