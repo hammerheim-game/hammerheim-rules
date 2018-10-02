@@ -2395,15 +2395,15 @@ create, but to destroy.
 
 Infighting: Beastmen are creatures of abhorrant temprament, and have 
 more in common with Orcs than Humans when it comes to patience and 
-discipline. At the start of your movement phase if there are any Gors 
-or Ungors who did not charge an enemy but who are within charge range of
+discipline. At the start of your movement phase if there are any Gor 
+or Ungor henchmen who did not charge an enemy but who are within charge range of
 an allied henchman they must take a Leadership test. If the Gor or Ungor
 fails the test, he must attempt to charge one allied henchman within range 
 (the player may choose which). The Gor or Ungor will then fight the allied
 henchman in the player's combat phase and, assuming they both survived, will
 move the combatants 1" apart at the end of their turn. A Gor or Ungor that kills
-an allied henchman in their way gains +1 experience. Hero Gors or Ungors are
-so brash and arrogant that they will even target allied heroes. Warbands in 
+an allied henchman in their way gains +1 experience. Heroes who gain infighting
+are so brash and arrogant that they will even target allied heroes. Warbands in 
 Formal Alliances that are attacked by Beastmen in this way may break the alliance 
 in their turn in reparation.
 Alignment: the Warband’s Alignment is Chaotic
@@ -2471,7 +2471,7 @@ brutality. He leads the Beastmen to Mordheim to gather the Chaos
 Stones to his Herdstone.
 Profile M WS BS S T W I A Ld
 
-5 4 3 4 4 1 4 1 7
+5 4 3 4 4 1 4 1 8
 Weapons/Armor: The Beastmen Chieftain may be
 equipped with weapons and armor chosen from the
 Beastmen Equipment list.
@@ -2558,7 +2558,7 @@ Ungor are the most numerous of the Beastmen. They are small,
 spiteful creatures, but dangerous in large masses.
 Profile M WS BS S T W I A Ld
 
-5 3 3 3 3 1 3 1 6
+5 3 3 3 3 1 3 1 5
 Weapons/Armor: Ungor may be armed with weapons and
 armor chosen from Ungor Equipment list.
 Special Rules
