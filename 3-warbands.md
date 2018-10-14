@@ -9533,6 +9533,7 @@ troops when things look bad.
 Warrior with this skill can choose skills from the Musicians Skills
 list. Only one model per warband may have this skill, and Musicians 
 recruited from the Warhammer books automatically have it.
+
 Mob Mentality: If a model with this skill is within 3”
 of at least three other models from his warband, then he gives all of
 the models in that area, including himself, immunity to fear and +1
@@ -9540,11 +9541,13 @@ Initiative. If the model, with Mob Mentality, is taken out of action
 while giving bonuses, then all models who are benefiting from the
 effects will automatically fail an “All alone check” and move
 accordingly.
+
 Money Maker: The model with this skill utilizes his
 talents and wares to try and make extra money after the adventure. If
 the model is not taken out of action, they may roll an additional die
 during the exploration phase. There may not be more than one character
 with the Money Maker skill in your warband. There's just not enough money!
+
 Ride: This skill is vital if a rider wishes to ride an
 animal into combat. Taking this skill once will allow a Warrior to ride any
 War Beast class mount. Taking this skill twice will allow a Warrior to ride any
@@ -9556,6 +9559,7 @@ Warriors with this skill can choose skills from the Cavalry Skills list
 Sneaky: All enemy models halve their Initiative range when trying
 to detect this model while he is Hidden.
 
+Drive Chariot: Taking this skill will allow a Hero ride a Chariot.
 
 #### Combat Skills
 
@@ -9753,8 +9757,6 @@ a second spell that turn or even cast the same spell twice. If they fail
 they must roll on the injury table immediately with no saves treating
 Out Of Action results as Stunned instead.
 
-Drive Chariot: Taking this skill will allow a Hero ride a Chariot.
-
 #### Strength Skills
 
 Mighty Blow: The warrior knows how to use his strength to
@@ -9762,7 +9764,7 @@ maximum effect and has a +1 Strength bonus in close combat.
 
 Pit Fighter: The warrior has learned how to fight in enclosed spaces
 from their time in the dangerous fighting pits of the Empire. They are an
-expert at fighting in confined areas and adds +1WS and +1A Attacks if they
+expert at fighting in confined areas and adds +1WS and +1A if they
 are fighting inside buildings or ruins. It’s a good idea
 to define which bits of your terrain collection count as ‘buildings or
 ruins’ at the start of a battle to avoid confusion later.
@@ -9830,6 +9832,7 @@ springing to his feet immediately if he is Knocked Down. The
 warrior may ignore Knocked Down results when rolling for injuries,
 unless he is Knocked Down because of a successful save from
 wearing a helmet or because he has the No Pain special rule.
+
 Dodge: A warrior with this skill is nimble and as fast as quicksilver.
 They gain a 5+ Ward Save against all missiles and Magic Missiles.
 
@@ -9900,15 +9903,21 @@ Shaggy Hide: The Beastman’s massively shaggy hide acts as
 armor, deflecting sword strokes and protecting him from harm. The
 model gains a 6+ Armor Save that can be combined with other
 armor as normal.
-Mutant: The Beastman may buy one mutation.
+
+Mutant: The Beastman gains a Random Mutation.
+
 Fearless: Immune to Fear and All Alone tests.
+
 Giant Horns: The Beastman gains Impact Hits (1)
+
 Bellowing Roar: Only the Beastman Chief may have this skill. He
 may re-roll any failed Rout tests.
-Manhater: Will be affected by the rules of Hatred when fighting
-any Human warbands.
+
+Hateful Bloody Goat: Gains Hatred (Everyone, including allies).
+
 Oppression: Beastmen henchmen within 8" of a Hero with this skill
 will not have to test for Infighting.
+
 Violent: The Hero now suffers from Infighting!
 
 #### Blessings of Nurgle
@@ -10393,7 +10402,7 @@ of this mark may never form Formal Alliances.
 
 Mark of Nurgle: The Model gains +1 Toughness, +1 Wound, but loses
 1 point of Movement and 1 point of Initiative. They are now 
-immune to poison and the effects of Plague Victims. These bonuses also
+immune to the effects of Plague Victims. These bonuses also
 apply to any War Beast or Monstrous Mount the rider may have, though 
 it will lose 2 points of movement rather than 1 as it has to contend with
 its own decrepitude as well as the increased weight of its rider.
