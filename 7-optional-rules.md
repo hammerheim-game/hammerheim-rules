@@ -301,7 +301,7 @@ The spell "Comet of Cassandora" from the Lore of Heavens is cast at a scattered 
 The presence of the wyrdstone has mutated this common household pest into a monster of titanic proportions! This Gigantic Spider has the following characteristics:
 
 Profile M WS BS S T W I A Ld
-Spider 5 3 0 5 4 4 1 2 10
+Spider 5 3 0 5 5 6 1 4 10
 
 __Fearsome Beast:__ The Gigantic Spider causes fear.
 
@@ -331,17 +331,16 @@ Instead of selling or storing all of a warband's wyrdstone
 shards, a player may choose to have one or more of their
 stones evaluated by an alchemist for useful magical
 properties. This is done during the trading phase of the post-
-battle sequence (consequently, this means if a stone is chosen
-to be evaluated and yields no special power, it cannot
-subsequently be sold until after the next battle). Instead of
-searching for a rare item, a hero may take one shard of the
-warband’s wyrdstone to an alchemist. Numerous alchemists
-have flocked to Mordheim to study the stones, and they ply
-their trade from tents and wagons in the encampments around
-the city. Alchemists are known for their greed, however, and
-they do not provide their services for free; for each stone
-evaluated, the warband must pay 20 gold crowns. When the
-stone is evaluated, roll 2D6 on the chart opposite:
+battle sequence. Instead of searching for a rare item, a hero
+may take one shard of the warband’s wyrdstone to an alchemist.
+Numerous alchemists have flocked to Mordheim to study the stones,
+and they ply their trade from tents and wagons in the
+encampments around the city. Alchemists are known for their
+greed, however, and they do not provide their services for 
+free; for each stone evaluated, the warband must pay 20 gold 
+crowns and remove the stone from their stockpile as it is consumed
+in the process. When the stone is evaluated, roll 2D6 on the chart
+opposite:
 
 2 Spell Stone. Any model who carries this stone into battle
 may cast one randomly determined spell for the duration of
