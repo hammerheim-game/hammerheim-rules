@@ -9519,7 +9519,7 @@ Skaven and undead) may immediately choose one Mark of Chaos. Due to the
 brashness, arrogance, boastfulness, and self-importance instilled 
 universally upon any Chaos worshipper who recieves a visible gift of their
 patron god each Mark taken in this way will add an upkeep cost of 5 gold
-per game. If the leader has any other mark then Undivided all heroes must 
+per game. If the leader has any other mark then Undivided all models must 
 have the same mark.
 
 Medical Knowledge: If you have a warrior in your warband with
@@ -9770,7 +9770,7 @@ to define which bits of your terrain collection count as ‘buildings or
 ruins’ at the start of a battle to avoid confusion later.
 
 Resilient: The warrior is covered in battle scars. They gain +1 Toughness
-against attacks made in close combat. Does not effect being shot with pistols.
+against attacks made in close combat.
 
 Fearsome: Such is the reputation and physique of the model that he
 causes fear in opposing models.
@@ -9797,7 +9797,7 @@ test is successful then the animal falls under their command. The animal then
 come under control of the Beastmaster's warband. Control of the animal is immediately
 lost if the Beastmaster either moves more than 8" away ir is _incapacitated_.
 
-#### Speed Skills
+#### Speed Skills (may not be used while riding).
 
 Leap: The warrior may leap D6" in the movement phase in addition
 to his normal movement. He may move and leap, run and leap, or
@@ -10267,6 +10267,7 @@ Thick Skull: The Hero has a thick skull, even for a Dwarf. He has a
 Stunned result as Knocked Down instead. If the Dwarf also wears a
 helmet, this save is 2+ instead of 3+ (this takes the place of the
 normal Helmet special rule).
+Diplomatic: The Dwarf no longer suffers from Hatred.
 
 
 #### Halfling Special Skills
@@ -10422,25 +10423,22 @@ Minstrel: The musician is a masterful taleteller and gains extra
 income for the warband. If the Musician was not taken out of action they
 may earn an additional 2d6 gold after the game.
 
-Fighting Songs: The musician has in his selection of songs many a
-fighting ballad. These ballads dispel fear. Any musician with this
-ability sings in battle emboldening the troops. Any friendly troop
-within 12” does not suffer from fear or all alone tests.
+GET PUMPED: The musician has mastered energetic music that stirrs
+the blood of any who listen, inspiring them to feats of courage that would
+normally rattle them if they had time to think about it. Warriors within
+12" become Immune to Psychology.
 
-Rally!: Even the most crestfallen Warriors will take heart when gathered
-around a motivated and uplifting bard. For every allied Warrior whose
-loss would contribute to rout theshold within 6" of the Musician with
-Rally the owning player may add +1 to their warband's leadership for
-the purposes of rout tests.
+Rally: Even the most crestfallen Warriors will take heart when gathered
+around a motivated and uplifting bard. For each allied Warrior within 6"
+of the Musician their warband may add +1 Leadership when taking Rout Tests.
 
 Marching Tune: If the Musician forms a unit with five or more allies they
-may all add 1 to their base movement as long as they stay together. 
+may all add 1 to their base movement as long as they remain together. 
 
 Deafening racket: A musician may choose to make a deafening racket in
 each of their shooting phases. If they choose to do so then until their
-next shooting phase (so yes, this may even cause the musician's warband to
-be more likely to rout) all non-Musicians within 8" reduce their Leadership 
-by 1.
+next shooting phase all non-Musicians friend or foe within 8" reduce their
+Leadership by 1. This effect stacks.
 
 
 
@@ -10817,88 +10815,3 @@ Sniper: Gains the Sniper special rule.
 Hide in Shadow: enemy attempting to detect a Wood Elf with this
 skill must halve his inniative
 Confused: Gains the Hatred rule of all Forest Spirits.
-
-### Starting the game
-
-#### Pre-battle sequence
-
-Although you can simply decide with your opponent which
-scenario you want to play, most players prefer to generate
-their scenarios randomly. To do this, work your way through
-the following sequence before the battle.
-1 The player with the lowest warband rating rolls on the
-Scenario table to determine which scenario is played. In the
-scenarios where there is an attacker and a defender, the same
-player may choose which he is.
-2 Roll for warriors with old battle wounds to see whether
-they can take part or not.
-3 Set up the terrain and warbands according to the rules for
-the scenario you are playing. The more buildings the better,
-so you should place all the terrain you have.
-
-#### Rules for playing multiplayer games
-
-Size of playing area: Multiplayer Mordheim obviously
-requires more room to play. While Mordheim normally plays
-fine in a 4'x4' area, the size of the playing area for
-multiplayer games should be at least 4'x6'. This is important
-for set-up as detailed below.
-Attackers and defenders: In scenarios where attackers and
-defenders are defined, the defender is the player whose
-warband has the highest rating. If more than one warband
-have the same highest rating, the defender will be the one
-among them whose warband includes the most models. If
-there is still a tie, roll a dice to determine who gets to be the
-defender. There is only ever one defender, all the other
-warbands are the attackers.
-Setting up the warbands: In scenarios where there is a
-defender, that player sets up his warband first. To determine
-who among the attacking warbands sets up next (or among all
-the warbands in a scenario without defined attackers and
-defenders), each player rolls a D6. The player with the
-highest roll sets up next and the remaining players set up in
-order of descending dice rolls.
-
-When it is his turn to set up his warband, each player must
-choose one segment of table edge (see the diagram above for
-what constitutes a ‘segment’) and set up his warband within
-6" of it. No player may start a member of his warband within
-6" of a member of another warband.
-Note that some scenarios will have special set-up rules
-(usually for the defender) which are different from the above.
-Any such variation will be noted in the rules for that scenario.
-Order of play: After all warbands have been set up, players
-must determine the order of play. Players should be arrayed
-about the table by their set-up segment (see above). Each
-player rolls a D6. The player with the highest roll gets the
-first turn. Play proceeds clockwise around the table from
-there.
-
-Shooting into close combat: Unlike in the regular Mordheim
-rules, it is possible to shoot into close combat in multiplayer
-games, just as long as the shooters belong to a different
-warband than the models involved in the Close Combat. Enemies in
-a combat are not considered the closest enemy for the purposes
-of being the closest target for shooting, though unless their combat
-runs the risk of hitting your own allies you may target them anyway.
-Randomise any missile hits between the
-target and any models in close combat with him.
-Close combat involving multiple warbands: In multiplayer
-Mordheim it is quite possible that one warband member gets
-charged by models from two or more opposing warbands.
-When this occurs, a model will fight during the Close
-Combat phase of each model it is fighting. This can give a
-model many attacks during a cycle of player turns but any
-model that has been ganged up on in this way is probably
-done for in any case!
-Routing warbands: Unlike normal games of Mordheim, one
-warband failing its Rout test (or having all of its models
-taken out of action) does not necessarily end the game.
-Unless there are special victory conditions noted in the rules
-for the scenario you are using, a multiplayer game will last
-until there
-is only one warband left on the table. The player whose
-warband stays on the table for the longest is normally the
-winner, though in some scenarios the winner might be the
-warband leaving the table first, as it achieves its objective and
-leaves the scene!
