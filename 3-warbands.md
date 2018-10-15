@@ -9547,8 +9547,12 @@ weapon from now on. 2-6 = Light wound. The warrior must
 miss the next game.
 24 MADNESS
 Roll a D6. On a 1-3 the warrior suffers from stupidity; on 4-6
-the warrior suffers from frenzy from now on (see the
-Psychology section for details).
+the warrior suffers from Paranoia. Paranoia behaves exactly like
+Animosity from the Forest Goblins Warband section, except that
+on the result of a 1 on the Animosity table the character will
+attack the nearest ally regardless of whether they are a Hero or
+Henchman, and regardless of whether they also have Animosity/Paranoia.
+This effect stacks with Animosity.
 25 SMASHED LEG
 Roll again: 1 = The warrior may not run any more but he may
 still charge. 2-6 = The warrior misses the next game.
