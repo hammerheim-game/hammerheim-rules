@@ -440,7 +440,10 @@ Throughout the Empire Reiklanders are commonly supposed
 to embody the discipline and loyalty of the professional
 warrior. Brave and well-versed in the arts of war, Reiklanders
 disdain fashionable clothing in favour of well-made and
-practical wargear. In battle they often wear coloured ribbons
+practical wargear, with the exception that their officers will 
+usually wear resplentently plumed wide-brim hats to ensure their
+soldiers can identify them (and perhaps more importantly, know when they
+are being watched). In battle they often wear coloured ribbons
 as marks of identification or authority. They are justly proud
 of their dynamic and ambitious Grand Prince and
 contemptuous of other claimants to the throne, especially the
@@ -449,14 +452,12 @@ sneeringly call the ‘lap-dog of Ulric’.
 Special rules
 Reikland Mercenaries are accustomed to the demands of
 military discipline and have a strongly developed loyalty
-between officers and men. To represent this, fighters may use
-their Captain’s Leadership if within 12" rather than the usual
-6".
-A strong tradition of martial training is also responsible for
-the high standards of archery amongst the people of
-Reikland. All Marksmen therefore add +1 to their Ballistic
-Skill, whether they are recruited when the Warband is first
-formed or added later.
+between officers and men. To represent this, Reikland warbands'
+_Leader_ ability is increased by 6", stacking with other skills
+or effects.
+Furthermore officers among Reikland warbands are well aware of 
+the influence their decisions have upon their soldiers. All
+human heroes in Reikland warbands gain the _Stubborn_ rule.
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral.
 
@@ -526,15 +527,22 @@ stevedores who favour a simpler appearance: leather coats,
 bandanas and short swords that are easy to conceal.
 Special rules
 
-
-As natural traders with contacts in the merchant guilds
-Marienburg warbands receive a +1 bonus when attempting to
-find rare items (see the Trading section for rules).
 To reflect their enormous wealth Marienburgers start off with
 an extra 100 gold crowns (600 in total) when fighting in a
-campaign. 
-Alignment: the Warband’s Alignment may be one of the
-following: Lawful / Neutral, Neutral, Neutral / Chaotic.
+campaign.
+Furthermore the culture of duelling to settle disputes has
+inculcated all Marienburgers with an extreme comfort with 
+pistols and swords. Marienburg humans do not suffer the usual
+penalty for using two weapons when using any combination of
+Pistols, Duelling Pistols, or Swords. However they have also
+learned not to fight fair! Marienburg warbands treat all items
+from the Miscellaneous Equipment section as Common.
+
+Alignment: Marienburg has an infamous reputation among the
+Empire for their fluid and merchantile whims, their ethical 
+flexibility unrivaled by their more hard-line 'us and them'
+neighbours. As a result Marienburg may change their alignment during
+any post-game phase, and may choose any alignment they wish.
 
 ##### Choice of warriors
 
@@ -559,7 +567,7 @@ Swordsmen.
 
 The Captain starts with 20 experience.
 Champions start with 8 experience.
-Youngbloods start with 0 experience.
+Clerics start with 8 experience.
 Henchmen start with 0 experience.
 ##### Mercenary equipment lists
 
@@ -629,7 +637,7 @@ Leader: Any warrior within 6" of the Mercenary Captain
 may use his Leadership characteristic when taking
 Leadership tests.
  
-0-2 Champions
+0-3 Champions
 35 gold crowns to hire
 In any Mercenary warband there is one warrior who is bigger,
 stronger (and often uglier) than his comrades. These men are called
@@ -645,25 +653,34 @@ list.
 Skills: The Reikland Champions may choose from Combat,
 Shooting, &, Strength, the Middenheim Champions may
 choose from Combat, Strength, & Speed, & the Marienburg
-
-
 Champions may choose from Combat, Shooting, & Speed,
-when he gains a new skill.
+when they gain a new skill.
 
-0-2 Youngbloods
-15 gold crowns to hire
-These are young fighters who are still inexperienced, but eager to
-win their spurs in the savage fighting in and around the ruins of
-Mordheim.
+0-1 Cleric
+45 gold crowns to hire
+Most if not all humans will mutter or shout a prayer to their chosen
+deity in the midst of battle, but Clerics are capable of entire verses.
+They come in all shapes and sizes depending on which god they follow, 
+varying from the belligerent Warrior-Priests of Ulric to the mischevous
+and magpie-like Priests of Ranald, to the devout healers of Shallaya.
+
 Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 3 1 6
-Weapons/Armor: Youngbloods may be equipped with
-weapons and armor chosen from the Mercenary Equipment
-list.
-Skills: The Reikland & Marienburg Youngbloods may
-choose from Combat, Shooting, & Speed, The Middenheim
-Youngbloods may choose from Combat, Strength, & Speed,
-when he gains a new skill.
+4 3 3 3 3 1 3 1 7
+Weapons/Armor: Clerics may be equipped with weapons and
+armour chosen from the Mercenary Equipment list.
+Skills: Clerics may take Combat & Academic when they gain a new
+skill. Clerics of Ulric or Taal may also choose Strength skills.
+Clerics of Ranald may also choose Shooting and Speed skills.
+Special Rules
+Prayer User: Clerics are prayer users who dedicate themselves to a
+single deity. Upon recruitment you must decide which deity to dedicate
+your Cleric to - this will determine which prayers they are able to use.
+You may choose from: Prayers of Shallaya, Prayers of Taal, Prayers of
+Ulric (Middenland only), Funerary Rites, Prayers of Sigmar (Reikland
+only), or Prayers of Ranald.
+
+
+
 
 
 
@@ -1055,23 +1072,21 @@ bounds.
 
 ##### Special Rules
 
-Self-Sufficient: The men of Ostland have no desire to give
-their hard-earned gold to outsiders. As a result they can never
-hire any Mercenaries except for Ogres (who are not an
-uncommon sight in Ostland).
-Nouveau Riche: Ostlanders are almost universally poor.
-Many Ostlanders never see coined money in their entire life
-and those that do are often overcome with giddiness at the
-mere sight of wealth. As a result, Ostlanders MUST sell all of
-their Wyrdstone (unless they have more than 8 pieces in
-which case they must only sell 8) after every battle and after
-hiring new warriors (which may be done first) at least 50% of
-the remaining gold MUST be spent on a single item of gear.
-This means that Ostlander Warbands will often be composed
-of a dozen men wearing muddy peasant garb with one
-member wearing golden-laid heavy armor and another
-carrying a double-barrelled hunting rifle from the finest
-forges of Hochland.
+Self-Sufficient: Ostlanders are infamous for their isolationism
+and their pride in being able to pull themselves up by their 
+bootstraps in even the most trying of circumstances. As a 
+consequence they are loathe to share their hard-earned gold 
+with outsiders, and as a result they may never form Formal
+Alliances during any scenario with lootable treasure (Monster
+Hunt, Raven Barracks, Hidden Treasure etc).
+Nouveau Riche: Ostlanders are almost universally poor. Many 
+Ostlanders never see coined money in their entire life and those
+that do are often overcome with giddiness at the mere sight of
+wealth. They therefore entrust all things financial to their 
+warband leader, as no Ostlander with coin can be trusted to go
+and purchase the rare items they are instructed to find. Only 
+the warband leader may search for rare items between games, and
+they may not trade these items to other warband members.
 Alignment: the Warband’s Alignment may be one of the
 following Lawful / Neutral, Neutral.
 ##### Choice of Warriors
@@ -1180,6 +1195,16 @@ Elder may choose from the Ostlander Special Skill list.
 Special Rules
 Leader: Any warrior within 6" of the Elder may use his
 Leadership characteristic when taking any Leadership tests.
+Bling: While the Elders are the ones deemed fiscally responsible
+in Ostlander warbands the reality is that their impulse control
+is barely greater than that of their juniors, and being entrusted
+a whole warband's worth of wealth usually merits disastrous 
+consequences. As a result Ostlander warbands tend to be a group
+of ragged dirt-peasants led by an incredibly kitted-out leader.
+Elders start with Magical Aptitude (1), allowing them to take 
+up to 25 points of magic items, but no equipment after the 
+starting roster has been drawn up may be bought for the warband
+until the Elder has maxmised the amount of magic items they are carrying.
 
 0-2 Blood-Brothers
 35 Gold Crowns to hire
@@ -1220,11 +1245,11 @@ Academic, Strength, & Speed when he gains a new skill. In
 addition, the Priest of Taal may choose from the Ostlander
 Special Skill list.
 Special Rules
-Pray User: The Priest of Taal is a servant of Taal and may
+Prayer User: The Priest of Taal is a servant of Taal and may
 use the Prayers of Taal as detailed in the Magic section and
 the Priest of Taal start with one prays generated at random.
 See the Magic section for details. In addition the Priest of
-Taal may learn a new Pray instead on a new skill.
+Taal may learn a new Prayer instead on a new skill.
 Strictures: Priests of Taal may never wear armor.
 ##### Henchmen
 
@@ -5523,45 +5548,66 @@ subtle differences that reflect the rich Tilean history.
 ##### Miragleans
 
 The Miragleans are deadly accurate with the city’s official
-weapon, the crossbow. Therefore Miraglean Heroes have a
-+1 to hit when using crossbows only. Marksmen get a +1 to
-hit with any missile weapon they use (this is included in the
-marksmen’s profile). All Miragleans have a deep-seated
-hatred toward Skaven. This dates back to the red pox
-outbreak of 1812 when three quarters of the population of the
-city perished. When fighting Skaven a Miraglean warband
-will be affected by the rules for Hatred towards them. Hired
-swords are not affected by the Hatred rule.
-Hired Swords: Miragleans warband cannot have Skaven
-Hired Swords.
+weapon, the crossbow. All warriors recruited from this section
+gain +1 to hit when using crossbows. All humans in a Miraglean
+warband also gain the Hatred (Skaven) special rule. This dates
+back to the red pox outbreak of 1812 when three quarters of 
+the population of the city perished, leaving them a city in 
+decline. Many Tileans still deny the existence of Skaven, leaving 
+Miragliano's sudden decline a source of intense speculation.
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 
 ##### Remasens
 
-In 1487 a fleet of Dark Elf warships invaded the coastal city
-of Remas and ever since the people of that city have a deep
-dislike of the Druchii. A warband from Remas will fight to
-the death against any Dark Elf warband they encounter. To
-represent this, the Remasen player is allowed to re-roll any
-rout test one time and must abide by the second roll. This
-only applies when fighting Dark Elves. Remasen officers are
-steadfast individuals whose years of training have afforded
-them excellent leadership. The leadership value of a Remasen
-captain, champion and young blood are always one point
-higher regardless of whom they are fighting.
-Hired Swords: Remasens warband cannot have Dark Elf
-Hired Swords.
+The city-state republic of Remas is tolerated rather than liked
+by the other Tilean states. Their central location and easy ability
+to extort vast fortunes from tarrifs on goods crossing from one
+part of Tilea to the other enabled Remas to accrue a vast and 
+well-trained Mercenary army, becoming for a time the Jewel of
+Tilea. This lasted until 1487 when a Dark Elf navy, lured by
+the prospect of wealth and slaves, infiltrated the city under the
+cover of unseasonal mist and put it to the slaughter. The corsair raid
+was ultimately repelled by the Remasen Pikemen, whose rank and file
+wall of spikes atop their great bridge proved unbreakable to the 
+corsair's lightly armoured but rapid-striking forces. This event
+elevated the Remas Pikemen to a state of reverence by its surviving
+people who have adopted the pike as their national icon, but the
+memories of the horrific acts perpetrated by the corsairs during
+their stay remain a blight upon their public conscience.
+
+Remasen basic "Warrior" henchmen may be equipped with Pikes for
+only 5g. They also gain the Fear (Dark Elves) Special Rule.
+
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 
-##### Trantios
+##### Trantio
 
-A warband hailing from Trantio will be the best-equipped
-and most experienced human warband in Lustria. To
-represent this a Trantio war band will always start a one-off
-match with an extra 100 GC and in a Lustrian campaign they
-will start with an extra 20% GC added to their total.
+Trantio was the first city to overthrow its Prince and become
+a republic, starting the trend that would eventually see Tilea
+become a nation of vast, independent city-states. It was never
+one of the more prosperous nations however, and as its rivals
+accumulated wealth and power Trantio became an easy target for
+invasion, only managing to survive through masterful diplomacy
+and subterfuge to play off their rivals against one another.
+That all changed however when a Trantian merchant named Marco
+Colombo ventured on a mad voyage to Lustria, and returned with
+enormous wealth. Overthrowing his previous patron he took
+control of the city and by establishing close trade relations
+with the Dwarfs to the north while continuing his expeditions
+to raid for Lustrian gold he transformed Trantio into without
+doubt the wealthiest city in Tilea. As a result Tilean warbands
+start with 600g rather than the usual 500g.
+
+The fantastical tales of Marco Colombo inspired a whole generation
+of mercenaries eager to make a name for themselves too, adopting
+a flair for the dramatic and a style of combat heavily influenced
+by the duellists of Marienburg. Trantio warbands no longer
+have the 0-5 restriction on Duellists, and Duellists may
+re-roll all Diving Charge attempts.
+
+
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 ##### Choice of Warriors
@@ -5867,27 +5913,29 @@ Skills: The Champions may choose from Combat, Shooting,
 
 0-1 Monk
 35 Gold Crowns to hire
-A Monk would usually spend most of his time alone in the forest in
-contemplation of his devotion to Sigmar. However, some will see
-that Sigmar’s work can also be achieved by the purging of all that is
-corrupt from the Empire. Many will, therefore, willingly join in the
-activities of groups of outlaws. Their knowledge of healing is often
-valued by other members.
+It is surprisingly common for pious Monks to become lost in Stirland,
+wrongfully believing that their faith alone will preserve and sustain
+them. Carrying little more than their robes and the most basic
+supplies they are usually found by the native Outlaw warbands half
+starved and hopeless. Priests are often left to their fate, the overly
+zealous followers of Sigmar and Ulric being too bull-headed to be worth
+an Outlaw's time, but Monks can sometimes find themselves recipient to
+surprising charity from these warbands. These Monks often find themselves
+enamoured with the Outlaws and become a part of the famiy.
+
 Profile M WS BS S T W I A Ld
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Can be chosen from the Outlaws
-equipment list. As Prayers are not considered to be Spells, a
-Monk may wear armor, if he wishes.
-Skills: The Monk may choose from Academic when he gains
-a new skill.
+equipment list. 
+Skills: A Monk of Ranald may choose from Shooting, Academic, &
+Speed skills. A Monk of Shallya may choose from Academic skills.
+A Monk of Taal may choose from Shooting, Combat, & Speed skills.
+
 Special Rules
-Pray User: The Monk has devoted his life in the constant
-service to Sigmar and may use the Prayers of Sigmar as
-detailed in the Magic section and the Monk start with one
-prays generated at random. See the Magic section for details.
-In addition the Monk may learn a new Pray instead on a new
-skill. The monk may learn neither Sorcery nor Arcane Lore.
- 
+Prayer User: Monks must be dedicated to either Shallya, Taal, or
+Ranald upon recruitment. This will determine which prayers they
+may use, which are generated in the normal fashion. 
+
 0-2 Petty Thieves
 20 Gold Crowns to hire
 Many youths who are caught by the City Guards in the act of
@@ -5960,13 +6008,9 @@ armor known as Pit Armor.
 
 ##### Special Rules
 
-All Pit Fighters have the Pit Fighter skill as described in the
-Strength Skill List except the Pit Fighter Initiates. (Pit Fighter
-Skill: +1 WS, +1 A when fighting in ruins, buildings and The
-Pit.)
 Free the Slaves!: Pit Fighters hate all Slavers. The Pit
 Fighters will never sell their captured opponents to the
-slavers.
+slavers. 
 In the Pit!: Pit Fighters who capture an opponent may decide
 to let him fight in the infamous fighting pits of Cutthroat’s
 Haven.
@@ -5982,7 +6026,8 @@ and the +2 Experience when he wins. If the Captive wins the
 audience decides whether he gains his freedom. Roll a D6 on
 a 4+ the audience raise their thumbs and he is free. A 1-3
 means he remains the Pit Fighters Captive and may be fielded
-in the pits after future games
+in the pits after future games. Note that The Pit counts as
+a building for the purpose of the Pit Fighter skill.
 Alignment: the Warband’s Alignment may be one of the
 following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 
