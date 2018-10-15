@@ -1633,8 +1633,9 @@ so your model may only fire every other turn.
 
 ### Black Arrow
 (One Use Per Battle)
-Any Infantry, Cavalry, or War Beast that is successfully wounded by the Black Arrow is immediately put Out of Action regardless of
-remaining wounds. May not be combined with Quick Shot or Multiple Shots.
+A single shot may be fired using the Black Arrow from a Bow, 
+Longbow, Shortbow, Crossbow, or Elf Bow. Any injury rolls from
+the Black Arrow are automatically considered a 6.
 
 ### Composite / Compound
 
