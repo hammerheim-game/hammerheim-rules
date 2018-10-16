@@ -1,4 +1,4 @@
-#### Scenarios
+﻿#### Scenarios
 
 ##### Scenario: Defend the Hoard
 
@@ -313,45 +313,22 @@ Experience for each enemy he puts out of action.
 
 ##### Scenario: The Rescue
 
-By Pete Rejowski
 There are times when your most experienced Heroes are slain, and
 you mourn them greatly; however, it is often worse for them to be
 captured by the enemy, as not only will it be likely that you cannot
-get them back, but your enemy will also greatly profit from it. As the
-basic number of scenarios in the Mordheim rulebook does not
-include a Rescue mission, negotiations are the only way to go, and,
-to put it simply, there are too many reasons for negotiations to fail
-(the leader wants to sacrifice the Hero and gain experience, too
-much money to pay for the equipment, the player doesn't ever want
-to fight that Hero again, etc). This scenario addresses that flaw and
-allows a warband to attempt to regain their lost companion.
-If such a situation arises, the warband that had a Hero captured
-may opt to play the next scenario as a Rescue Mission; this cannot
-be superseded by anything, nor can the warband who captured the
-Hero deny the Rescue Mission. But if the mission is failed, the
-attacking warband cannot play another Rescue Mission immediately
-after, even if the option to choose the scenario comes up in the game
-after (or even if he had a different Hero captured!). A warband with
-the Mordheim map that allows it to “automatically choose the next
-scenario” may instead choose the scenario played after the Rescue
-Mission (that is, an attempted rescue does not ruin the potential
-gain of the Mordheim map for either player).
-Notes: This scenario plays like a combination of Defend the
-Find and Surprise Attack combined with the Rescue Mission
-from Necromunda. It borrows certain elements from the
-Necromunda scenario (namely the movement of the sentries,
-as seen below), but plays out a bit differently due to the
-altered spotting rules and the lack of loud firearms. Those
-who have access to the Necromunda version can easily draw
-comparisons between the two, but a few things have changed
-to keep it more in line with standard Mordheim scenarios.
+get them back, but your enemy will also greatly profit from it. This is
+the scenario that warbands will play if they fail to organize the
+return of a Captured warband member. If such a situation arises, 
+the warband that had a Hero captured may opt to play the next scenario 
+as a Rescue Mission; this cannot be superseded by anything, nor
+can the warband who captured the Hero deny the Rescue Mission. 
 Terrain
-Each player takes a turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. It is suggested
-that the terrain is set up within an area roughly 4' x 4'. The
-first building should be placed in the centre of the table, as
-the objective of the scenario (the captured Hero and his gear)
-will be placed within.
+This scenario takes place in the Defending player's base. This can be
+their headquarters within Mordheim or simply the few ruined buildings
+that they have chosen to sleep in for the night. In any case the 
+Defending player is the one who captured the warband member in
+question. They may set up the map as they please, with a central 
+building (or building superplex) in the middle of the board.
 Set-up
 The prisoner and his gear are set up in the central building as
 described above. The prisoner may not act until he is freed.
@@ -367,8 +344,8 @@ normally. Note that the captive has no weapons or other
 equipment until he reclaims his own (or if the friendly fighter
 gives him something).
 The attacking warband can reclaim the captive's gear by
-moving into base contact with the chest. As above, it takes an
-entire turn to open the chest. If the model who opens the
+moving into base contact with the chest. As above, it takes the
+rest of an attacker's turn to open the chest. If the model who opens the
 chest later comes in contact with the prisoner, he may give
 him all of his old gear; however, the prisoner may not put on
 any armor, as a quick escape is desired (he may use a shield
@@ -376,31 +353,10 @@ as normal).
 
 Warbands
 The warband that captured the Hero is automatically the
-defender, and sets up his warband as follows:
-1) The defending player rolls a D6 for each Hero and
-Henchman group in his warband in any order that he chooses.
-On a 1-3, they are elsewhere (patrolling a wider perimeter),
-and may turn up if the alarm is sounded (as detailed below).
-On a 4-6 they are deployed at the start of the game. Note that
-at least one Hero or Henchmen group will be present at the
-start. If all roll 1-3, the last Hero or Henchmen group will
-automatically be deployed at the start of the battle.
-2) The defender deploys his available troops on the table. No
-model may be closer than 6” to another model, as the
-warband is spread out to keep a careful lookout. No model
-may be deployed closer than 8” to a table edge. The defender
-also places the captured model anywhere in the center
-building, and also places a treasure chest (representing his
-gear) in the same building. Note that the defender cannot use
-any special set-up rules, such as Infiltration.
-3) The attacker deploys his whole warband within 8” of a
-random table edge, as shown in the diagram for the Surprise
-Attack scenario. He may choose which edge to nominate as
-“1” before rolling to see where he deploys. The attacker can
-use special set-up rules (such as Infiltration) as normal.
-However, the attacker cannot use any mounted figures in this
-battle, as they are far too noisy; the mounts will be left at
-their encampment.
+defender, and sets up his warband anywhere on the table, though
+no warrior may be within 12" of a table edge and no warrior may
+be within 6" of another warrior. This must be done before 
+rolling for table edges.
 Starting the game
 The attacker always gets the first turn.
 Special rules
@@ -417,9 +373,7 @@ Sounding the alarm: Until the alarm is sounded, sentries
 move as described above. In addition, their Weapon Skill is
 halved (rounding fractions up), and they may not shoot or
 cast spells. After the alarm is sounded, the sentries may move
-and attack freely. In addition, the defender may be able to
-bring on reinforcements as described below. The alarm can
-be sounded in a number of ways:
+and attack freely. The alarm can be sounded in a number of ways:
 Spotting: Roll 2d6 at the end of the defender's turn; this, plus
 an individual model's detection range (the range used to
 detect Hidden models; usually their Initiative value), is the
@@ -458,37 +412,27 @@ is halved until the alarm is sounded. If the raider shoots a
 black powder weapon in hand-to-hand, then you must roll as
 described above to see whether the shots sound the alarm
 even if the enemy is killed.
-In addition, the noise of fighting may cause the alarm to be
-sounded even if the sentry doesn't survive to do so himself.
-The attacker rolls a d6; if the score is not more than the
-number of attackers fighting in the hand-to-hand combat,
-then the noise of the scuffle has been noticed and the alarm is
-sounded. For example, if three attackers slaughter a single
-sentry, then you must roll 4 or more on the d6 for this to go
-unnoticed.
 
-Reinforcements
-Once the alarm has been sounded, the defender may attempt
-to bring on the rest of his warband. For each Hero or
-Henchmen group not on the table, roll a d6, and on a 4+, they
-move on in the movement phase from a random table edge as
-shown in the diagram for Surprise Attack. All reinforcements
-for that turn arrive from the same edge and may charge on the
-turn in which they arrive.
 Ending the game
-The game ends if the captive is freed and makes his escape
+The game ends if the captive is freed and makes their escape
 by moving off any table edge. The game also ends if all the
 attackers are taken Out of Action. Due to the high tension and
 stress of the situation, neither warband is forced to take Rout
 Tests until they have lost half of their warband (instead of the
-usual 25%).
+usual 25%). In a multiplayer game other participating warbands
+may attempt to steal the loot, but cannot claim the captive
+for themselves. If the captive is cut free and then their warband
+routs before they can flee the table then they must roll for
+serious injury on the first half of the table. This reflects the
+odds of a lone and unarmed warrior exhausted by captivity having
+an extremely low chance of getting back home safely by themselves.
 Experience
 +1 Survives. If a Hero or a Henchmen group survives the
 battle they gain +1 Experience.
 +1 per enemy Out of Action. A hero earns +1 Experience
-for each enemy he puts Out of Action.
-+1 Escapes. The captured model gains +1 Experience if he
-successfully exits the board.
+for each enemy they put Out of Action.
++2 Escapes. The captured model gains +2 Experience if they
+successfully exit the board.
 +1 Winning Leader (Attacker). The leader of the attacking
 warband gains +1 Experience if victorious.
 +2 Winning Leader (Defender). The leader of the defending
@@ -496,7 +440,8 @@ warband gains +2 Experience if victorious.
 Finial Notes
 Note that even if a Rescue Mission is failed, the attacker can
 still attempt to negotiate for the release of his Hero. However,
-given the fact that he just attacked the rival warband, this will
+given the fact that he just attacked the rival warband and can
+no longer attempt another Rescue mission, this will
 undoubtedly drive up the price! Of course, it is quite possible
 that the attacker could have Captured one of the defender's
 models, making a trade viable; also, the attacker will likely
@@ -2228,4 +2173,259 @@ Large Target
 No Pain: The Abomination ignores all Knocked Down and Stunned results, instead reducing its attacks characteristic to D6 until the Abomination's next turn.
 Immune to Poison
 Immune to Psychology
+
+
+
+#### Monsters of Mordheim
+
+
+Chaos Spawn
+Chaos Spawn are followers of chaos who have failed to pleases
+their gods. They have been mutated into a hideous mass of limbs,
+appendages and all manner of mutations. Their minds are gone,
+leaving nothing but a seething mass of bone and flesh.
+Profile M WS BS S T W I A Ld
+Chaos Spawn 2D6 3 0 4 5 3 2 D6+110
+Special Rules
+Fear: Despite its size, the Chaos Spawn is still a fearsome
+opponent. It causes fear.
+Immune to Psychology: Chaos Spawn are not affected by
+psychology (such as fear) and never leave combat.
+Move: To move a spawn, roll a Scatter die and move it 2D6"
+in that direction, moving around obstacles as necessary.
+Should the Scatter die come up with a 'hit' the Spawn moves
+directly towards the nearest visible enemy model on the table.
+Skull of Steel: The Spawn are virtually immune to pain, as
+normal people feel it. In any turn in which the spawn rolls an
+injury result of “Knocked Down” or “Stunned”, ignore the
+result, instead reduce the monster's attacks to a D3 result,
+instead of the D6+1 given in the profile. This hindrance will
+continue until the Spawn's next turn, then it is removed.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Chaos
+Spawn.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Chaos Spawn out of action gets a
+bonus +1 experience.
+ 
+
+Forest Spirits
+Forest Spirits inhabit the trees of the forests of the Old World. In
+their solid form, they resemble a miniature version of a Treeman,
+with soft, damp woody flesh. They are very violent if threatened and
+will use their branch like arms with claws of sharp thorns and twigs
+to their best advantage.
+Profile M WS BS S T W I A Ld
+Dryad 5 4 0 4 4 2 6 2 8
+Tree-kin 5 4 0 5 5 3 3 3 8
+Shadow Dryad 5 4 0 4 4 2 4 2 8
+Shadow Tree-kin 5 3 0 4 5 3 3 3 8
+Weapons/Armor: The Dryad and Shadow Dryad has Razor
+Sharp Talons (Counts as being armed with two swords), the
+Tree-Kin and Shadow Tree-Kin has Branchlike limes (Counts
+as being armed with two clubs).
+Special Rules
+Forest Spirits: The following rules apply to all creatures
+with are Forest Spirits:
+* All Forest Spirits are Immune to Psychology.
+* All Forest Spirits are Immune to Poison.
+* All Forest Spirits Cause Fear.
+* All Forest Spirits treat all stunned as knock down.
+* All Forest Spirits have a special save against all attacks,
+(4+ for a Tree-kin / Shadow Tree-kin, & 5+ for Dryads /
+Shadow Dryads).
+* All Forest Spirits are Flammable and will take an addition
+S5 hit if they are hit with a flammable weapon.
+Large Target: The Tree-kin and Shadow Tree-kin are large
+and so count as a large target.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the any Forest
+Spirit.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Dryads or Shadow Dryads out of
+action gets a bonus +1 experience.
++2 For taking the Beast out of action. The Hero or
+Henchman that puts the Tree-kin or Shadow Tree-kin, out of
+action gets a bonus +2 experience.
+
+
+Harpies
+The Harpies are jealously protective of the wyrdstone in their nest.
+If any model approaches within their charge range then they will
+charge. The Harpies will try and coordinate their attacks so at least
+one stays back and protects the nest. Therefore, a Harpy may
+disengage from a fallen enemy model if there is an opportunity for
+one of its companions to charge another model.
+Profile M WS BS S T W I A Ld
+
+Harpy 4 4 0 4 4 1 2 2 6
+Special Rules:
+Talons: A Harpy has talons and is accustomed to fighting
+unarmed so does not suffer a penalty for doing so.
+Fly: A Harpy may fly up to 12". After the Movement phase
+the model is assumed to have landed and may be charged. If
+on the ground, a Harpy may make a full move and then use
+its wings.
+Drop Attack: If a Harpy is successful with both attacks in
+the first round of combat then the Harpy has successfully
+grabbed on to her enemy and swoops back up in the air to
+drop the model allowing gravity to do the work instead. The
+attacks themselves do not wound, but the person controlling
+the Harpy immediately rolls a D6 and a Scatter dice. That is
+the distance and direction from the place where the attack
+took place that the model will rest. Next the player
+controlling the Harpy rolls another D6. This is the distance
+from which the model has been dropped. The result is the
+Strength of hit (Strength 1 to Strength 6). Normal falling
+rules apply. If a model falls into a building than count the fall
+to where they land and then determine if the model falls again
+if it is within 1" of the edge of the floor. Any model that is
+struck by the dropped model will suffer a S3 hit. Large
+targets may only be dropped D3 inches since their size and
+weight make them more difficult to pick up. Once its
+opponent is dropped the Harpy may continue flying and
+return to the nest, preparing for another attack. Models that
+are stunned or knocked down will not be charged as it is too
+difficult for the Harpy to fly that close to the ground and do a
+drop attack.
+Experience
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Harpy out of action gets a bonus +1
+experience.
+
+
+Trolls
+Trolls are large and foul creatures, with gangling limbs and cold,
+damp hides. Renowned for their strength and unthinking ferocity,
+Trolls can rip a man apart with their bare hands. Trolls are able to
+regenerate damaged flesh, and so are all but impossible to kill. Not
+only that, they have the ability to vomit the corrosive contents over
+their victim, melting armor, flesh and bone with ease. One
+particularly vicious form of Troll is the Stone Troll, whose hide is as
+tough as rock. They have the strange ability of sucking the very
+power of magic out of the surrounding area. River Trolls live in the
+marshlands or swamps near the banks of rivers. Their flesh exhumes
+a vile slime which chokes anyone nearby.
+Profile M WS BS S T W I A Ld
+River Troll 6 3 1 5 4 3 1 3 4
+Weapons/Armor: Trolls often carry a big club.
+Special Rules
+Fear: Trolls are frightening monsters which cause fear.
+Stupidity: A Troll is subject to the rules for stupidity.
+Regeneration: Trolls have a unique physiology that allow
+them to regenerate wounds. Whenever an enemy successfully
+inflicts a wound on a Troll roll a D6, on a result of 4 or more
+the wound is ignored and the Troll is unhurt. Trolls may not
+regenerate wounds caused by fire or fire-based magic. Trolls
+never roll for Injury after a battle.
+Vomit Attack: Instead of his normal attacks, a Trolls can regurgitate its highly corrosive digestive
+juices on an unfortunate hand-to-hand combat opponent. This
+is a single attack that automatically hits with a Strength of 5
+and ignores armor saves.
+Slime: The River Trolls skin exhumes poisonous fumes
+which make the Warriors choke. When standing adjacent to
+the River Troll any Warrior is at -1 To Hit.
+Aquatic: River Trolls may move through water terrain with
+no penalty, and count as being in cover whilst they are in the
+water.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Troll.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Troll out of action gets a bonus +1
+experience.
+
+
+Profile M WS BS S T W I A Ld
+Bloodletter of Khorne 4 6 0 4 3 2 6 2+ 8
+Weapons/Armor: The Bloodletters carry a Hellblade and
+wear Hell-Forged Brass Armor (4+ Armor Save).
+Special Rules
+Hellblade: The Bloodletter is armed with a Hellblade which
+will automatically cause a critical hit if a 4+ is rolled to hit.
+Attacks: The Bloodletter has a number of Attacks equal to
+the number of opponents it is fighting (down to a minimum
+of 2 Attacks). It will split its attacks amongst the opponents,
+and no matter how many warriors are involved it may roll to
+hit each one at least once. It will also prevent an opponent
+from taking any other warrior out of action in the massed
+combat, as they will be too concerned with the Daemon to
+finish off their other enemy!
+Combat: As if drawn by the sounds of clash of steel, The
+Bloodletter will seek out the nearest close combat and join in.
+If there are no ongoing close combats within range, it will
+charge the model with the highest Weapon Skill in order to
+do battle with a worthy opponent. If there are no enemies
+within charge range, the Daemon will run towards the nearest
+warrior, eager to do battle.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Bloodletter
+of Khorne.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Bloodletter of Khorne out of action
+gets a bonus +1 experience.
+
+
+Black Pegasus
+It is said that a few of the Pegasi escaped the destruction and their
+cages and have made their lairs around this area. Some have
+mutated horribly and are twisted diabolic parodies of their former
+selves. The infamous of these creatures is said to be a huge Black
+Pegasus with several additional horribly mutated heads, that of a
+serpent and a ram. Hunger gnaws at the stomachs of these beasts
+and they will face many times their number if they catch the scent of
+prey.
+Profile M WS BS S T W I A Ld
+
+Black Pegasus 6 3 - 4 4 5 3 5 8
+Fear: A Black Pegasus with three heads will cause Fear in
+most people.
+Fly: The Pegasus has the Fly special rule.
+Save: The Black Pegasus has a 5+ ward save due to the peternatural
+resilience that its horrendous mutations offer.
+Immune to Psychology: Same stuff that is printed in the rule
+book.
+Skull of Iron: The Pegasus's skull is much too thick for
+normal blows to penetrate. It is immune to the effects of
+being stunned. Treat any results from the Injury Table as
+knocked down results.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Black
+Pegasus.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Black Pegasus out of action gets a
+bonus +2 experience.
+
+
+Treeman (Giant Oak/Great Oak)
+Treemen have the appearance of huge trees, many times the height
+of a human. They are often mistaken for trees in the forest as their
+clawed feet look like roots, and their legs look like the trunk of the
+tree.
+Profile M WS BS S T W I A Ld
+
+Treeman 6 5 3 5 5 6 5 5 9
+Special Rules:
+Forest Spirits: The following rules apply to all creatures
+with are Forest Spirits:
+* All Forest Spirits are Immune to Psychology.
+* All Forest Spirits are Immune to Poison.
+* All Forest Spirits Cause Fear.
+* All Forest Spirits treat all stunned as knock down.
+* All Forest Spirits have a special save against all attacks,
+(3+ for a Treeman).
+* All Forest Spirits are Flammable and will take an addition
+S4 hit if they are hit with a flammable weapon.
+Large Target: The Treeman count as a large target.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the
+Treeman.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Treeman out of action gets a bonus
++2 experience.
 

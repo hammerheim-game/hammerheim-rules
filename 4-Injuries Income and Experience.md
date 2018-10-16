@@ -1,4 +1,4 @@
-
+﻿
 ### Campaigns
 
 Warbands travel to the City of the Damned from all over the
@@ -231,19 +231,23 @@ he hates the enemy leader instead.
 5 The entire warband of the warrior responsible for the injury.
 6 All warbands of that type.
 61 CAPTURED
-The warrior regains consciousness and finds himself held
-captive by the other warband.
-He may be ransomed at a price set by the captor or
-exchanged for one of their warband who is being held
-captive.
+The warrior regains consciousness and finds themself held
+captive by the warband that won the scenario. If their own
+warband won or if there was no winner then the warband that put
+them out of action captures them. If none of the above apply then
+re-roll this result. The capturing player may ransom the captive
+hero back to their owner's warband at a price of their choosing, 
+though the owning player cannot refuse a ransom of less than 20gc.
+If no ransom occurs the owning player may force the next scenario
+to be The Rescue as they attempt to retrieve their comrade.
 Captives may be sold to slavers at a price of D6x5 GC.
 Undead may kill their captive and gain a new Zombie.
 The Possessed may sacrifice the prisoner. The leader of the
-warband will gain +1 Experience if they do so.
+warband will gain +D3 Experience if they do so.
 Captives who are exchanged or ransomed retain all their
-weapons, armor and equipment; if captives are sold, killed
-or turned to Zombies, their weaponry, etc, is retained by their
-captors.
+weapons, armor and equipment. If the ransom is not met and the
+captive is sold to slavers/sacrificed etc then the capturing player
+may keep their equipment.
 62-63 HARDENED
 The warrior survives and becomes inured to the horrors of
 Mordheim. From now on he is immune to fear.

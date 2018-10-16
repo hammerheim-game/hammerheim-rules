@@ -13,6 +13,8 @@
 - House Rules:
 - Warhammer Special Rules Edits:
 - Racial house rules
+    - Orks & Goblins
+    - Dwarfs
     - Vampire counts
     - Ogres
     - Warriors of Chaos
@@ -106,6 +108,10 @@ Warhammer Wizards function in the same way as Mordheim Wizards except:
 
 
 ## Racial house rules
+
+### Orks & Goblins
+
+Units smaller than 5 in size still suffer from Animosity.
 
 ### Dwarfs
 
