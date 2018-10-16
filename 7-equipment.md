@@ -292,7 +292,7 @@ Brace of Pistol .............................................. 2x Price
 Double-barrelled ........................................... 2x Price ........ Rare 11
 Heavier Ammunition ........................... 5 GC per shot .......... Rare 8
 Modified Gunsight ........................................... 15 GC .......... Rare 9
-Silver Bullets ................................................... 30 GC ........ Rare 10
+Silver Bullets ................................................... 15 GC ........ Rare 10
 Superior Blackpowder ..................................... 30 GC ........ Rare 11
 Armor & Clothing
 Item Cost Availability
@@ -2472,13 +2472,12 @@ weapon. Only blackpowder weapons that roll a conventional 'to hit'
 dice may be fitted with a Modified Gunsight, and the Gunsight adds
 50% to whatever your weapon's usual range is.
 ### Silver Bullets
-
+(Once per battle)
 Silver has always been rumoured to be the bane of evil creatures.
 Gunsmiths are able to cast ammunition from silver, for use in any
-black powder weapons (other than Blunderbuss or Nuln shotgun).
+black powder weapons (other than siege weapons).
 Firearms using silver bullets gain a +1 bonus to wound
-undead and Possessed, Silver Bullets can be loaded into one
-black powder weapon, and last for a single game.
+undead and Possessed.
 ### Superior Blackpowder
 
 The model has acquired a better quality of blackpowder than

@@ -68,7 +68,7 @@ The following modifiers apply:
 - Monsters count as 10 characters.
 
 ### Restrictions & misc.
-- No named characters.
+- No named characters, except via "Favour From a Friend".
 - Monsters do not gain experience, and count as Heroes when rolling for injury. 
 - Characters may only wield equipment they come with and this equipment may not be sold or transferred. Different equipment can be used only if the Weapon Master skill is taken.
 - Models that come with a "Hand Weapon" must choose between Sword, Dagger, Mace, or Axe at the time of purchase. 
@@ -85,7 +85,7 @@ Warhammer Wizards function in the same way as Mordheim Wizards except:
 - Miscasts are included, and cannot be re-rolled for any reason.
 - Spells that automatically target the closest enemy will not target enemies in combat.
 - One use only items can only be used once per game.
-- Bound Spell items that miscast are destroyed.
+- Bound Spell items work as usual, though may only successfully cast once per battle. They miscast as if they were normal spells.
 - Spells that inflict a certain number of hits to all units in an area will instead deal 1 hit on all models within range for each dice used in the spell: So a spell that does 2D6 S4 hits to all units within 12" will instead do 2 S4 hits to all models within 12".
 
 ## House Rules:
