@@ -93,17 +93,27 @@ The chart below summarises the different kinds of magic and explains who can use
 | Lore of Light | Truthsayer |
 | Lore of Darkness | Dark Emissary |
 
-Most wizard starts with one randomly determined spell, but may gain more. Roll a D6 and consult the appropriate chart. If you get the same spell twice, roll again or lower the | s |pell’s | by 1. 
+Most wizards start with one randomly determined spell, but may gain more. Roll a D6 and consult the appropriate chart. If you get the same spell twice, roll again or lower the spell’s difficulty by 1. 
 
 #### Casting spells
 
-Spells are cast in the shooting phase, and can be used even if the caster is in hand-to-hand combat. To use a spell, the wizard must roll equal to or greater than the | s |pell’s | score on 2D6. If he fails, he may not cast a spell that turn. If the test is passed the spell may be used as described overleaf. A wizard may cast one spell per turn and may not use missile weapons if he wants to cast a spell. He can however run! A wizard may not use magic if he is wearing armor or has a shield or buckler. The only exception is the Prayers of Sigmar. Sisters of Sigmar and Warrior-Priests may wear armor and use their prayers. 
+In order to cast a spell, the caster must roll 2D6. If they equal or exceed the casting value of the spell then the spell has succeeded! If their roll includes 2 or more 6's then the caster has casted with Irresistable force. Their spell may not be dispelled and after resolving it they must roll on the Miscast table in the Warhammer rulebook. Note that Prayers behave exactly like spells, except they do not miscast and may be used even when wearing armour.
+
+There are several different types of spell, each behaving differently: 
+ 
+Hex: Hex spells are malific enchantments that inflict some sort of negative status on the target. The caster may freely nominate any foe to be the target of a Hex as long as they are in line of sight.   
+
+Augment: Augment spells are powerful enhancements that bestow some sort of positive status on the target. The caster may freely nominate any ally to be the target of an Augment as long as they are in line of sight. Note that many Augment spells only effect the caster.   
+
+Direct Damage: Direct Damage spells are the term used for any magic that inflicts damage but is not necessarily a projectile. This might be a snap of the fingers causing an enemy to burst into flames for instance. Direct Damage spells may freely be targeted on any enemy as long as they are within line of sight.   
+
+Magic Missile: Magic Missile spells tend to be more powerful than Direct Damage spells, or easier to cast. They represent streaming bolts of fire, or lightning lances that have to trace towards their target. Magic Missiles behave in the same way as Shooting attacks in every way, so may not be used against targets in combat or if the wizard themself is in combat.
 
 \page
 
 #### Damage
 
-Some spells cause direct damage, and are resolved the same way as damage from shooting or blows in hand-to-hand combat. Spells do not cause critical hits. Models always receive armor saves against wounds caused by spells unless noted otherwise. 
+Some spells cause direct damage, and are resolved the same way as damage from shooting or blows in hand-to-hand combat. Models always receive armor saves against wounds caused by spells unless noted otherwise. 
 
 #### Spell Lists
 
@@ -113,14 +123,14 @@ Some spells cause direct damage, and are resolved the same way as damage from sh
 
 Those with great faith in the gods can call upon their divine power. The priests of Sigmar can pray for many miracles: healing of wounds, strengthening the resolve of their comrades or the banishment of Daemonic creatures and the Undead. The Prayers of Sigmar can be used by Witch Hunter Warrior Priests and Sigmarite Matriarchs. A warrior may use the divine power of Sigmar while wearing armor. Prayers of Sigmar are not regarded as spells, so any special protection against spells does not affect them.
 
-| D6 | Result | Difficulty | Effect |
+| D6 | Result | Difficulty | Type | Effect |
 | :-: | :-: | :-: | :-: |
-| 1 | The Hammer of Sigmar | 7 | This weapon of the faithful glows with a golden light, imbued as it is with the righteous power of Sigmar.  | he wielder gains +2 Strength in hand-to-hand combat and all hits he inflicts cause double damage (e.g., 2 wounds instead of 1). The Priest must test each shooting phase he wants to use the Hammer. |
-| 2 | Hearts of Steel | 8 | Asaves of glory surround the servant of Sigmar, the faithful are heartened by the warrior god’s presence. Any allied warriors within 8" of the warrior become immune to Fear and All Alone tests. In addition, the whole warband gains +1 to any Rout tests they have to make. The effects of this spell last until the caster is knocked down, stunned or put out of action. If cast again the effects are not cumulative, i.e., the maximum bonus to Rout tests remains +1. |
-| 3 | Soulfire | 9 | Purifying flames surround the Priest and wipe out those who resist the righteous fury of the God-Emperor! All enemy models within 4" of the servant of Sigmar suffer a Strength 3 hit. No armor saves are allowed. The servants of darkness and Chaos are especially susceptible to Sigmar’s holy power. Undead and Possessed models in range suffer a Strength 5 hit instead. |
-| 4 | Shield of Faith | 6 | A shield of pure white light appears in front of the Priest. As long as his faith remains strong the shield will protect him. The Priest is immune to all spells. Roll at the beginning of each turn in the recovery phase. On a roll of 1 or 2 the shield disappears. |
-| 5 | Healing Hand | 5  | Laying hands upon a wounded comrade, the servant of Sigmar calls upon his Lord to heal the warrior’s wounds. Any one model within 2" of the Priest (including himself) may be healed. The warrior is restored to his full quota of Wounds. In addition, if any friendly models within 2" are stunned or knocked down, they immediately come to their senses, stand up, and continue fighting as normal. |
-| 6 | Armor of Righteousness | 9 | Impenetrable armor covers the Priest and the fiery image of a twin-tailed comet burns above his head. The Priest has an armor save of 2+ which replaces his normal armor save. In addition, he causes fear in his enemies and is therefore immune to fear himself. The power of the Armor of Righteousness lasts until the beginning of the Priest’s next Shooting phase. |
+| 1 | The Hammer of Sigmar | 7 | Augment | This weapon of the faithful glows with a golden light, imbued as it is with the righteous power of Sigmar. | he wielder gains +2 Strength in hand-to-hand combat and all hits he inflicts cause double damage (e.g., 2 wounds instead of 1). The Priest must test each shooting phase he wants to use the Hammer. |
+| 2 | Hearts of Steel | 8 | Augment | Asaves of glory surround the servant of Sigmar, the faithful are heartened by the warrior god’s presence. Any allied warriors within 8" of the warrior become immune to Fear and All Alone tests. In addition, the whole warband gains +1 to any Rout tests they have to make. The effects of this spell last until the caster is knocked down, stunned or put out of action. If cast again the effects are not cumulative, i.e., the maximum bonus to Rout tests remains +1. |
+| 3 | Soulfire | 9 | Direct | Purifying flames surround the Priest and wipe out those who resist the righteous fury of the God-Emperor! All enemy models within 4" of the servant of Sigmar suffer a Strength 3 hit. No armor saves are allowed. The servants of darkness and Chaos are especially susceptible to Sigmar’s holy power. Undead and Possessed models in range suffer a Strength 5 hit instead. |
+| 4 | Shield of Faith | 6 | Augment | A shield of pure white light appears in front of the Priest. As long as his faith remains strong the shield will protect him. The Priest is immune to all spells. Roll at the beginning of each turn in the recovery phase. On a roll of 1 or 2 the shield disappears. |
+| 5 | Healing Hand | 5 | Augment | Laying hands upon a wounded comrade, the servant of Sigmar calls upon his Lord to heal the warrior’s wounds. Any one model within 2" of the Priest (including himself) may be healed. The warrior is restored to his full quota of Wounds. In addition, if any friendly models within 2" are stunned or knocked down, they immediately come to their senses, stand up, and continue fighting as normal. |
+| 6 | Armor of Righteousness | 9 | Augment | Impenetrable armor covers the Priest and the fiery image of a twin-tailed comet burns above his head. The Priest has an armor save of 2+ which replaces his normal armor save. In addition, he causes fear in his enemies and is therefore immune to fear himself. The power of the Armor of Righteousness lasts until the beginning of the Priest’s next Shooting phase. |
 
 </div>
 
@@ -834,7 +844,7 @@ effects last until the Shaman takes a wound. |
 | 3 | Evil Eye |  8 | This spell can be targeted against any model within 8” of the shaman. A successful casting blinds the opponent, making him unable to move or shoot. The model’s weapon skill is reduced to 1 for the duration of the spell. The spell lasts for the remainder of the shaman’s turn, and through the opponents next turn. The spell expires at the beginning of the shaman’s following turn. |
 | 4 | Wolf-form |  10 | When cast, this spell causes the shaman to grow into a snarling and gruesome wolf-man. For the duration of the spell the shaman causes fear and adds +1 strength, +1 toughness, and +1 wound to his profile. The shaman must pass a leadership test each round to maintain wolf-form. |
 | 5 | Talons of Hobgobla Khan |  7 | The Talons of Hobgobla Khan are vicious barbed arrows drawn into existence when the shaman casts the spell. The arrows can then be fired by the shaman at any single opponent using his ballistic skill, but ignoring modifiers for range, movement, or cover. The arrows are strength 3, and add a +1 to injury rolls. The spell summons d3 +1 such arrows, which have a range of 24”. |
-| 6 | Wings of the Eagle |  7 | This spell allows the shaman to cause man-sized eagle wings to sprout from the back of any member of his  | arband within 6”. This model can use this wings to fly anywhere within 12”, and if this moves them into base-to-base contact with an enemy they count as charging for that round. |
+| 6 | Wings of the Eagle |  7 | This spell allows the shaman to cause man-sized eagle wings to sprout from the back of any member of his warband within 6”. This model can use this wings to fly anywhere within 12”, and if this moves them into base-to-base contact with an enemy they count as charging for that round. |
 
 </div>
 
