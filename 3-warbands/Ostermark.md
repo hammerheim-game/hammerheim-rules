@@ -31,8 +31,8 @@ that a Knightly Order specialising in the combating of the Undead would
 emerge. The Knights of Everlasting Light were the result; resplendent
 knights in gleaming white, blue, and gold. Those who do not understand
 Ostermark culture view it as brash borderline- Brettonian egomania, but
-in actuality these colours in Ostermark have most in common with coffins
-- the novelty of riding to battle in a steel coffin being one the
+in actuality these colours in Ostermark have most in common with coffins, 
+the novelty of riding to battle in a steel coffin being one the
 Ostermark knights could not resist. These knights were for a time the
 best in the Empire, above even the Blazing Sun, but after a disastrous
 campaign in Araby their order was cursed to live in glory but die in
@@ -66,114 +66,109 @@ Starting Experience: The Knight of Everlasting Light starts with 20
 experience. Vampire Hunters start with 8 experience. Priests of Morr
 start with 8 experience. Henchmen start with 0 experience.
 
-Ostermark Equipment Lists: Marshlander Equipment List Hand-to-hand
-Combat Weapons Dagger
-.............................................................. 1st
-free/2 GC Club, Mace, Hammer
-.................................................... 5 GC Axe
-................................................................................
-5 GC Sword
-..........................................................................
-5 GC Morning
-Star..................................................................
-15 GC Double-handed weapon
-............................................... 15 GC Spear
-............................................................................
-10 GC Halberd
-........................................................................
-10 GC Lance
-...........................................................................
-20 GC Missile Weapons Pistol
-.................................................. 15 GC (30 for a
-brace) Duelling pistol ................................... 25 GC (50 for
-a brace) Handgun
-......................................................................
-35 GC Blunderbuss
-................................................................. 30 GC
-Bow
-.............................................................................
-10 GC Armour Light armour
-................................................................ 20 GC
-Heavy armour
-.............................................................. 50 GC
-Shield
-............................................................................
-5 GC Buckler
-..........................................................................
-5 GC Helmet
-.........................................................................
-10 GC Miscellaneous Items Silver Bullets
-................................................................. 15 GC
-Garlic
-.............................................................................
-1 GC
+Ostermark Equipment Lists: Marshlander Equipment List 
+Hand-to-hand Combat Weapons 
+Dagger..................................................... 1st free/2 GC 
+Club, Mace, Hammer............................................. 5 GC 
+Axe............................................................5 GC 
+Sword.........................................................5 GC
+MorningStar.....................................................15 GC 
+Double-handed weapon............................................ 15 GC 
+Spear..........................................................10 GC
+Halberd.........................................................10 GC 
+Lance...........................................................20 GC 
+Missile Weapons
+Pistol.................................................. 15 GC (30 for a brace) 
+Duelling pistol ................................... 25 GC (50 for a brace) 
+Handgun.............................................................35 GC 
+Blunderbuss........................................................ 30 GC
+Bow.............................................................. 10 GC
+Armour
+Light armour........................................................ 20 GC
+Heavy armour..................................................... 50 GC
+Shield...........................................................5 GC 
+Buckler.............................................................5 GC 
+Helmet.............................................................10 GC
+Miscellaneous Items 
+Silver Bullets........................................................ 15 GC
+Garlic................................................................ 1 GC
 
-Pistolier Equipment List Hand-to-hand Combat Weapons Dagger
-.............................................................. 1st
-free/2 GC Club, Mace, Hammer
-.................................................... 5 GC Axe
-................................................................................
-5 GC Sword
-..........................................................................
-5 GC Spear
-............................................................................
-10 GC Missile Weapons Pistol
-.................................................. 15 GC (30 for a
-brace) Duelling pistol ................................... 25 GC (50 for
-a brace) Armour Light armour
-................................................................ 20 GC
-Horse
-...........................................................................
-40 GC Helmet
-.........................................................................
-10 GC Miscellaneous Items Silver Bullets
-................................................................. 15 GC
-Garlic
-.............................................................................
-1 GC
+Pistolier Equipment List 
+Hand-to-hand Combat Weapons 
+Dagger........................................................ 1stfree/2 GC
+Club, Mace, Hammer................................................... 5 GC
+Axe..................................................................5 GC
+Sword................................................................5 GC
+Spear................................................................10 GC 
+Missile Weapons 
+Pistol.................................................. 15 GC (30 for a brace)
+Duelling pistol ................................... 25 GC (50 for a brace) 
+Armour 
+Light armour.......................................................... 20 GC
+Horse...................................................................40 GC 
+Helmet........................................................10 GC 
+Miscellaneous Items 
+Silver Bullets........................................................ 15 GC
+Garlic.................................................................1 GC
 
-1 Knight of Everlasting Light 180 gold crowns to hire Profile WS BS S T
-W I A Ld 4 4 3 4 4 1 4 2 8 Weapons/Armour: A Knight of Everlasting Light
-may be equipped with weapons and armour chosen from the Marshlander
-Equipment List Skills: The Knight of Everlasting Light may choose from
+1 Knight of Everlasting Light 
+180 gold crowns to hire
+Profile WS BS S T W I A Ld 
+4 4 3 4 4 1 4 2 8 
+Weapons/Armour: A Knight of Everlasting Light
+may be equipped with weapons and armour chosen from the Marshlander Equipment List
+Skills: The Knight of Everlasting Light may choose from
 Combat, Strength, Academic, and Speed when they gain a new skill.
 Special Rules Leader: Any warrior within 6" of a Knight of Everlasting
-Light may use their Leadership when taking Leadership tests. Curse of
-Ignominy: Knights of Everlasting Light will fail dangerous terrain tests
+Light may use their Leadership when taking Leadership tests. 
+Curse of Ignominy: Knights of Everlasting Light will fail dangerous terrain tests
 on a result of 1 or 2, rather than just 1. Additionally henchmen
 infantry gain +1 to all injury rolls against the Knight of Everlasting
-Light. Veteran of Araby: These Knights are seasoned veterans of several
+Light.
+Veteran of Araby: These Knights are seasoned veterans of several
 campaigns and many battles, to them the prospect of fighting out of the
 saddle is inconcievable. As a result they will always own and ride a
 free Barded Warhorse, even if they are robbed - they have a backup! They
 also may never give away their horse.
 
-0-3 Vampire Hunter 30 gold crowns to hire Profile WS BS S T W I A Ld 4 3
-3 3 3 1 4 1 7 Weapons/Armour: A Vampire Hunter may be equipped with
-weapons and armour chosen from the Marshlander Equipment List. Skills: A
-Vampire Hunter may choose from Combat, Strength, Shooting, and Speed
-when they gain a new skill. Special Rules High Stakes: Vampire Hunters
-are all too aware of the inhuman speed and strength of Vampires, and
-know that going toe-to-toe with one is dangerous work. As a result they
+0-3 Vampire Hunter
+30 gold crowns to hire 
+Profile WS BS S T W I A Ld 
+4 3 3 3 3 1 4 1 7 
+Weapons/Armour: A Vampire Hunter may be equipped with weapons and armour 
+chosen from the Marshlander Equipment List. 
+Skills: A Vampire Hunter may choose from Combat, Strength, Shooting, and Speed
+when they gain a new skill.
+Special Rules High Stakes: Vampire Hunters are all too aware of the inhuman speed
+and strength of Vampires, and know that going toe-to-toe with one is dangerous work. As a result they
 always carry a lucky stake "just in case". The stake counts as a dagger,
 and if it hits a target then after resolving your 'to wound' roll it may
 not be used for the rest of the battle, as it either breaks or gets
 lodged somewhere irretrievable. Against Vampires the stake has the
 Killing Blow special rule.
 
-0-1 Cleric of Morr 45 gold crowns to hire Profile M WS BS S T W I A Ld 4
-3 3 3 3 1 3 1 7 Weapons/Armour: A Cleric of Morr may be equipped with
-weapons chosen from the Pistollier Equipment List. Skills: A Priest of
+0-1 Cleric of Morr
+45 gold crowns to hire
+Profile M WS BS S T W I A Ld 
+4 3 3 3 3 1 3 1 7 Weapons/Armour: A Cleric of Morr may be equipped with
+weapons chosen from the Pistollier Equipment List. 
+Skills: A Priest of
 Morr may choose from Combat & Academic skills when they gain a new
-skill. Prayer User: Clerics of Morr are Prayer Users who generate
+skill. 
+Prayer User: Clerics of Morr are Prayer Users who generate
 Prayers from the Funerary Rites lore.
 
 HENCHMEN
 
-0-5 Pistolier 30 gold crowns to hire Profile M WS BS S T W I A Ld 4 3 3
-3 3 1 3 1 7 Weapons/Armour: A Pistollier may be equipped with weapons
+0-5 Pistolier 
+30 gold crowns to hire 
+Profile M WS BS S T W I A Ld 
+4 3 3 3 3 1 3 1 7 
+Weapons/Armour: A Pistollier may be equipped with weapons
 chosen from the Pistollier Equipment List.
 
-Marshlander 25 gold crowns to hire Profile M WS BS S T W I A Ld 4 3 3 3
-3 1 3 1 6 Weapons/Armour: A Marshlander may be equipped with weapons and
+Marshlander 25 gold crowns to hire
+Profile M WS BS S T W I A Ld
+4 3 3 3 3 1 3 1 6 
+Weapons/Armour: A Marshlander may be equipped with weapons and
 armour chosen from the Marshlander Equipment List.
