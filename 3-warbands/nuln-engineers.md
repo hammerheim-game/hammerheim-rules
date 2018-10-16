@@ -1,4 +1,4 @@
-#### Nuln Engineers
+﻿#### Nuln Engineers
 
 Based on Imperial Gunnery School of Nuln from the Nemesis Crown and Nuln Engineers By Josh Alexander
 The Province of Nuln is renowned throughout the Empire as
@@ -130,7 +130,7 @@ The following lists are used by Nuln Engineers warbands to pick their equipment.
 
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Double-handed Weapon** .......................................... 15 GC
@@ -155,7 +155,7 @@ Helmet .........................................................................
 Light armor ................................................................ 20 GC
 Reinforced Plate Armor* ........................................... 65 GC
 Miscellaneous
-Heavier Ammunition ...................................... 5 GC pre Shot
+Heavier Ammunition ...................................... 20 GC
 Modified Gun sight ..................................................... 20 GC
 Silver Bullets ............................................................... 30 GC
 Superior Black Powder ................................................ 30 GC
@@ -164,7 +164,7 @@ Superior Black Powder ................................................ 30 GC
 
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC

@@ -1,4 +1,4 @@
-#### Clan Eshin
+﻿#### Clan Eshin
 
 Unbeknownst to man, for thousands of years he has shared
 his world with another and altogether different race. There
@@ -112,7 +112,7 @@ Helmet .........................................................................
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club ............................................................................... 3 GC
+Club ............................................................................... 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Missile Weapons

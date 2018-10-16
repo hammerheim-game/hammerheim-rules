@@ -1,4 +1,4 @@
-#### Kislevite Warband
+﻿#### Kislevite Warband
 
 The land of Kislev lies to the north and east of the Empire.
 The further east one travels the dense forests give way to
@@ -95,7 +95,7 @@ All Henchmen start with 0 experience.
 The following lists are used by Kislevite warbands to pick their weapons:
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Morning Star ............................................................... 15 GC
@@ -119,7 +119,7 @@ Heavy Armor ............................................................. 50 GC
 Streltsi Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Morning Star ............................................................... 15 GC

@@ -1,4 +1,4 @@
-#### Outlaw Warband
+﻿#### Outlaw Warband
 
 To the north of the River Stir lies the Great Forest, a vast
 expanse of woodland that fills the very heart of the Empire.
@@ -86,7 +86,7 @@ All Henchmen start with 0 experience.
 The following lists are used by Outlaws warbands to pick their weapons:
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Staff .......................................................... 3 GC
+Club, Mace, Staff .......................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC

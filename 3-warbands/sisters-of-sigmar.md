@@ -1,4 +1,4 @@
-#### Sisters of Sigmar
+﻿#### Sisters of Sigmar
 
 For centuries the nobility of the Empire has sent its wayward
 or troublesome daughters to the Holy Convent of the Order of
@@ -90,7 +90,7 @@ Henchmen start with 0 experience.
 The following lists are used by the Sisters of Sigmar to pick their equipment.
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Mace, Hammer .............................................................. 3 GC
+Mace, Hammer .............................................................. 5 GC
 Sigmarite warhammer ................................................. 15 GC
 Flail ............................................................................. 15 GC
 Steel whip .................................................................... 10 GC

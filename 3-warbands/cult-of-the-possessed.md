@@ -1,4 +1,4 @@
-#### Cult of the Possessed
+﻿#### Cult of the Possessed
 
 There is never any shortage of men willing to risk their lives
 for a chance of real power: men whose ambitions lie beyond
@@ -88,7 +88,7 @@ Henchmen start with 0 experience.
 The following lists are used by possessed warbands to pick their equipment.
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
@@ -106,7 +106,7 @@ Darksouls Equipment List
 (This list is for Darksouls and Beastmen only)
 Hand-to-hand Combat Weapons:
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC

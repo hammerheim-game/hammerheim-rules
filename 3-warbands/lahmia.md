@@ -1,4 +1,4 @@
-#### Lahmian Warband
+﻿#### Lahmian Warband
 
 Long ago, the nobles of Lahmia stole the secret of the elixir of eternal life from the Great Necromancer, Nagash, during the
 war in which he was expelled from the land of Nehekhara. Over time, corrupted by the secret they had stolen, they became the
@@ -71,7 +71,7 @@ Entre Below for details.
 The following lists are used by Lahmian Warbands to pick their weapons:
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Mace, Hammer, Club, Staff ........................................... 3 GC
+Mace, Hammer, Club, Staff ........................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC

@@ -1,4 +1,4 @@
-#### Clan Skryre
+﻿#### Clan Skryre
 
 This warband was based from the Skaven Warbands by Michael Hulsander and the Skryre Warband by Chris Haak
 After the Eshin Clan had their coffers bolstered by the
@@ -82,7 +82,7 @@ Heavy Armor ............................................................. 50 GC
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club ............................................................................... 3 GC
+Club ............................................................................... 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Missile Weapons

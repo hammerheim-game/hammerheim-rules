@@ -1,4 +1,4 @@
-#### Dwarf Treasure Hunters
+﻿#### Dwarf Treasure Hunters
 
 Dwarfs are a grim and exceptionally proud people. They respect three things above all else: age, wealth and skill. It is no
 surprise then that these grim warriors can be found in Mordheim searching for fame and fortune. Mark Havener gives full
@@ -75,7 +75,7 @@ The following lists are used by Dwarf warbands to pick their equipment.
 Dwarf Warrior Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Dwarf axe .................................................................... 15 GC
 Sword .......................................................................... 5 GC
@@ -95,7 +95,7 @@ Helmet .........................................................................
 Thunderer Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Missile Weapons

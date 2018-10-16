@@ -1,4 +1,4 @@
-#### Tilean Warband
+﻿#### Tilean Warband
 
 The land of Tilea is home to some of the most wealthy and
 aloof people in the Old World. A land that is divided by its
@@ -118,7 +118,7 @@ Henchmen start with 0 experience.
 The following lists are used by Tilean warbands to pick their weapons:
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
@@ -141,7 +141,7 @@ Buckler ........................................................................
 Marksmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Missile Weapons

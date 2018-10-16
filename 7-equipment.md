@@ -290,7 +290,7 @@ Item Cost Availability
 Bayonet ............................................................ 10 GC .......... Rare 7
 Brace of Pistol .............................................. 2x Price
 Double-barrelled ........................................... 2x Price ........ Rare 11
-Heavier Ammunition ........................... 5 GC per shot .......... Rare 8
+Heavier Ammunition ........................... 20 GC .......... Rare 8
 Modified Gunsight ........................................... 15 GC .......... Rare 9
 Silver Bullets ................................................... 15 GC ........ Rare 10
 Superior Blackpowder ..................................... 30 GC ........ Rare 11
@@ -2456,12 +2456,11 @@ Used On: This upgrade can only be used on Pistols, Duelling
 Pistols, Handguns, Hochland long rifles, & Nuln Shotgun.
 
 ### Heavier Ammunition
-
+(Once per battle)
 Heavier Ammunition is a special round; it may use Nickel or some
 other heaver metal for the shot.
-Heavier Ammunition increases the strength of any one blackpowder
-weapon by 1 for one shot. Heavy shot may only be used once, but may
-be used on War Machines.
+Heavier Ammunition increases the strength of a single shot. May not be
+used on siege weapons.
 
 ### Modified Gunsight
 

@@ -1,4 +1,4 @@
-#### Forest-Walker Warbands
+﻿#### Forest-Walker Warbands
 
 Once elves were a common sight in the Old World. After the War of The Beard they decided to leave the Old World and travel
 back to Ulthuan but some elves stayed back and settled in the big forests of Bretonnia. Most famous is the wood elf kingdom
@@ -177,7 +177,7 @@ Younglings & Henchmen start with 0 experience.
 The following lists are used by Mercenary warbands to pick their weapons:
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club/Staff ...................................................................... 3 GC
+Club/Staff ...................................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
@@ -206,7 +206,7 @@ SCOUT EQUIPMENT LIST
 This list is for Waywatcher and Archers only
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club/Staff ...................................................................... 3 GC
+Club/Staff ...................................................................... 5 GC
 Axe ................................................................................ 5 GC
 
 Sword .......................................................................... 5 GC

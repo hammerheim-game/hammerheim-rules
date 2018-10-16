@@ -1,4 +1,4 @@
-#### The Carnival of Chaos
+﻿#### The Carnival of Chaos
 
 No one knows from whence it came, the dreaded Carnival of
 Chaos. Some have rumoured that it was once a gypsy caravan
@@ -109,7 +109,7 @@ Henchmen starts with 0 experience.
 The following lists are used by the Carnival of Chaos to pick their weapons:
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Double-handed Weapon .............................................. 15 GC

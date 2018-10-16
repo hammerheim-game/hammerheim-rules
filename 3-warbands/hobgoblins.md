@@ -1,4 +1,4 @@
-#### Hobgoblins Wolf Rider Mob
+﻿#### Hobgoblins Wolf Rider Mob
 
 Based on Hobgoblin Raiders by the unnamed author and Hob Goblins Warband by Brian Coggin & James S. Mackay.
 The acrid smell of wolf musk precedes them as they drift silently through the ruins. You know they’re somewhere, but still you
@@ -99,7 +99,7 @@ All Henchmen start with 0 Experience.
 The following lists are used by Hobgoblin Wolf Riders to pick their equipment.
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
-Club ............................................................................... 3 GC
+Club ............................................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC

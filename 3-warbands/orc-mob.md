@@ -1,4 +1,4 @@
-#### Orc Mob
+﻿#### Orc Mob
 
 Orcs enjoy fighting and looting more than anything else. Because of this, an Orc’s life is spent in constant battle – either
 with his fellow Orcs or some other enemy. With its wealth of opponents and loot ready for the taking, Mordheim offers
@@ -117,7 +117,7 @@ Helmet .........................................................................
 Goblin equipment list
 Hand-to-hand combat weapons
 Dagger .............................................................. 1st free/2 GC
-Club ............................................................................... 3 GC
+Club ............................................................................... 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC
 Missile weapons

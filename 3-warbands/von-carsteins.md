@@ -1,4 +1,4 @@
-#### Von Carstein Warband
+﻿#### Von Carstein Warband
 
 Count Vlad von Carstein and his wife Isabella have ruled the
 province of Sylvania for as long as anyone can remember –
@@ -76,7 +76,7 @@ All Henchmen start with 0 experience.
 The following lists are used by Undead warbands to pick their equipment.
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Mace, Hammer .............................................................. 3 GC
+Mace, Hammer .............................................................. 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC

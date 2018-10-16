@@ -1,4 +1,4 @@
-#### Witch Hunters
+﻿#### Witch Hunters
 
 The Order of the Templars of Sigmar, universally known as
 the Witch Hunters, is an organisation dedicated to the
@@ -90,7 +90,7 @@ Henchmen start with 0 experience.
 The following lists are used by Witch Hunter warbands to pick their equipment.
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Mace, Hammer .............................................................. 3 GC
+Mace, Hammer .............................................................. 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC
@@ -119,7 +119,7 @@ Zealot Equipment List
 (This list is for Zealots only)
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Double-handed weapon ............................................... 15 GC

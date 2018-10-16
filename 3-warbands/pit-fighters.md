@@ -1,4 +1,4 @@
-#### Pit Fighter Warband
+﻿#### Pit Fighter Warband
 
 All across the world you can find gladiatorial pit fights, here
 you can find hardy fighters taking up arms against each other.
@@ -91,7 +91,7 @@ The following lists are used by Pit Fighter warbands to pick their weapons:
 Pit Fighters Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Dwarf Axe* ................................................................. 15 GC
 Sword .......................................................................... 5 GC
@@ -112,7 +112,7 @@ Buckler ........................................................................
 Pursuer Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 3 GC
+Club, Mace, Hammer .................................................... 5 GC
 Axe ................................................................................ 5 GC
 Sword .......................................................................... 5 GC
 Spear ............................................................................ 10 GC

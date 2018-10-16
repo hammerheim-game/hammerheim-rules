@@ -1,4 +1,4 @@
-#### Clan Pestilens
+﻿#### Clan Pestilens
 
 Jarod glanced down the street... All seemed clear. He could not immediately tell why, but he was sure someone, or something was there.
 Maybe it was just that strange odour hanging around the ruins here. He shivered, although Mordheim seemed to have its own special smell,
@@ -68,7 +68,7 @@ The following lists are used by the Skaven of Clan Pestilens to pick their equip
 Hero’s Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club ............................................................................... 3 GC
+Club ............................................................................... 5 GC
 Sword .......................................................................... 5 GC
 Flail ............................................................................. 15 GC
 Spear ............................................................................ 10 GC
@@ -86,7 +86,7 @@ Helmet .........................................................................
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
-Club ............................................................................... 3 GC
+Club ............................................................................... 5 GC
 Sword .......................................................................... 5 GC
 Flail ............................................................................. 15 GC
 Spear ............................................................................ 10 GC
