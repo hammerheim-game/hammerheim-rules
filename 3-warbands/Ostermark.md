@@ -113,7 +113,7 @@ Garlic.................................................................1 GC
 
 1 Knight of Everlasting Light 
 180 gold crowns to hire
-Profile WS BS S T W I A Ld 
+Profile M WS BS S T W I A Ld 
 4 4 3 4 4 1 4 2 8 
 Weapons/Armour: A Knight of Everlasting Light
 may be equipped with weapons and armour chosen from the Marshlander Equipment List
@@ -133,7 +133,7 @@ also may never give away their horse.
 
 0-3 Vampire Hunter
 30 gold crowns to hire 
-Profile WS BS S T W I A Ld 
+Profile M WS BS S T W I A Ld 
 4 3 3 3 3 1 4 1 7 
 Weapons/Armour: A Vampire Hunter may be equipped with weapons and armour 
 chosen from the Marshlander Equipment List. 

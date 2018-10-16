@@ -17,6 +17,9 @@ Youngbloods: Your warband may include any number of Youngbloods.
 Mountaineers: Your warband may include any number of Mountaineers.
 
 #### Starting Experience
+The Expedition Chief starts at 20 experience.
+Researchers & Student Wizards start at 8 experience.
+Henchmen start at 0 experience.
 
 #### Hochland Equipment List
 Hand-to-hand Combat Weapons
