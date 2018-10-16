@@ -183,6 +183,238 @@
 
 <!-- /MarkdownTOC -->
 
+\page
+
+
+
+#### Price chart
+
+The following chart indicates the cost of items available for sale at trading posts. The cost of rare items is included, but such items cannot
+be bought unless they are available, as already described. In some cases the price is variable, and includes a basic cost plus a variable
+extra amount, for example 20+3D6 gold crowns. For these items the extra variable cost reflects the rarity of the item – the premium
+which must be paid to buy it.
+Close Combat Weapons
+Item Cost Availability
+Axe .................................................................... 5 GC ...... Common
+Ball and Chain ................................................. 15 GC ...... Common
+Barbed Spear ................................................... 15 GC .......... Rare 5
+Beastlash ................................................... 10+D6 GC .......... Rare 8
+Boss Pole ......................................................... 20 GC ...... Common
+Brazier Iron ...................................................... 35 GC .......... Rare 7
+Censer .............................................................. 40 GC .......... Rare 9
+Claw of the Old Ones ...................................... 30 GC ........ Rare 12
+Dagger .................................................. 1st free/2 GC ...... Common
+Disease Dagger ................................................ 15 GC .......... Rare 8
+Double-Handed Weapon.................................. 15 GC ...... Common
+Dwarf Axe ....................................................... 15 GC .......... Rare 8
+Fighting Claws ......................................5 GC per pair .......... Rare 7
+Flail .................................................................. 15 GC ...... Common
+Halberd ............................................................ 10 GC ...... Common
+Hammer, staff, mace, club ................................. 3 GC ...... Common
+Horseman’s Hammer ....................................... 12 GC ........ Rare 10
+Katar ................................................................ 15 GC .......... Rare 7
+Lance ............................................................... 40 GC .......... Rare 8
+Morning Star .................................................... 15 GC ...... Common
+Pike .................................................................. 12 GC .......... Rare 7
+Plague Sword ................................................... 40 GC ........ Rare 11
+Punisher Whip ................................................. 15 GC .......... Rare 8
+Rapier .............................................................. 15 GC .......... Rare 5
+Saerath ............................................................. 20 GC .......... Rare 8
+Scythe .............................................................. 35 GC ...... Common
+Serpent Whip ................................................... 25 GC .......... Rare 8
+Sigmarite Warhammer ..................................... 15 GC ...... Common
+Spear ................................................................ 10 GC ...... Common
+Spiked Gauntlet ............................................... 15 GC .......... Rare 7
+Squig Prodder .................................................. 15 GC ...... Common
+Star-blade ......................................................... 35 GC ........ Rare 10
+Star-sword ........................................................ 50 GC ........ Rare 12
+Steel Whip ....................................................... 10 GC ...... Common
+Sword ............................................................... 5 GC ...... Common
+Sword Breaker ................................................. 30 GC .......... Rare 8
+Weeping Blades .................................. 50 GC per pair .......... Rare 9
+Whip ................................................................ 15 GC .......... Rare 5
+Close Combat Upgrades
+Item Cost Availability
+Fog-enhancing Warpstone Shards .... 100+D6x10 GC .......... Rare 9
+Special Weapon Types
+Item Cost Availability
+Cold Metal Weapons .................................... 3x Price ........ Rare 10
+Dark Steel Weapons ..................................... 3x Price ........ Rare 10
+Gromril Weapons ......................................... 4x Price ........ Rare 11
+Ithilmar Weapons ......................................... 3x Price .......... Rare 9
+Missile Weapons
+Item Cost Availability
+Blowpipe.......................................................... 25 GC .......... Rare 7
+Bolas .................................................................. 5 GC ...... Common
+Bolt Thrower ................................................. 115 GC .......... Rare 9
+Bow ................................................................. 10 GC ...... Common
+Crossbow Pistol ............................................... 35 GC .......... Rare 9
+Crossbow ......................................................... 25 GC ...... Common
+Elf Bow ................................................... 35+3D6 GC ........ Rare 12
+Javelins .............................................................. 5 GC ...... Common
+Long Bow ........................................................ 15 GC ...... Common
+Poison Wind Globes ........................................ 25 GC ........ Rare 11
+Repeater Bolt Thrower .................................. 150 GC ........ Rare 11
+
+Repeater Crossbow .......................................... 40 GC .......... Rare 8
+Short Bow .......................................................... 5 GC ...... Common
+Sling................................................................... 2 GC ...... Common
+Sunstaff ............................................................ 50 GC ........ Rare 12
+Sun Gauntlet .................................................... 40 GC ........ Rare 12
+Throwing Stars/Knives .................................... 15 GC .......... Rare 5
+Tufenk ............................................................. 30 GC ........ Rare 11
+Missile Weapon Upgrades
+Item Cost Availability
+Black Arrow ........................................... 25+2D6 GC .......... Rare 9
+Composite / Compound ................................ 2x Price .......... Rare 6
+Fire Arrows ............................................... 30+D6 GC .......... Rare 9
+Hunting Arrows ........................................ 25+D6 GC .......... Rare 8
+Blackpowder Weapons
+Item Cost Availability
+Blunderbuss ..................................................... 30 GC .......... Rare 9
+Duelling Pistol ................................................. 30 GC ........ Rare 10
+Hand-held Mortar ................................... 80+2D6 GC ........ Rare 12
+Handgun .......................................................... 35 GC .......... Rare 8
+Hochland Long Hunting Rifle ....................... 175 GC ........ Rare 11
+Jezzail Rifle ................................................... 165 GC ........ Rare 11
+Nuln Shotgun ................................................... 40 GC .......... Rare 9
+Pistol ................................................................ 15 GC .......... Rare 8
+Repeater Handgun .................................. 60+2D6 GC ........ Rare 11
+Repeater Pistol ........................................ 30+2D6 GC .......... Rare 9
+Rifle ................................................................. 75 GC .......... Rare 9
+Small Cannon ................................................ 150 GC ........ Rare 11
+Warpfire Thrower .......................................... 300 GC ........ Rare 10
+Warplock Pistol ............................................... 35 GC ........ Rare 11
+Blackpowder Weapons Upgrades
+Item Cost Availability
+Bayonet ............................................................ 10 GC .......... Rare 7
+Brace of Pistol .............................................. 2x Price
+Double-barrelled ........................................... 2x Price ........ Rare 11
+Heavier Ammunition ........................... 5 GC per shot .......... Rare 8
+Modified Gunsight ........................................... 15 GC .......... Rare 9
+Silver Bullets ................................................... 30 GC ........ Rare 10
+Superior Blackpowder ..................................... 30 GC ........ Rare 11
+Armor & Clothing
+Item Cost Availability
+Barding ............................................................ 30 GC ........ Rare 11
+Bracers ............................................................. 20 GC .......... Rare 8
+Buckler .............................................................. 5 GC ...... Common
+Cathayan Silk Clothes ............................. 50+2D6 GC .......... Rare 9
+Cold Metal Armor ......................................... 85 GC ........ Rare 10
+Dark Steel Armor ........................................... 95 GC ........ Rare 11
+Elven Cloak ...................................... 100+D6x10 GC ........ Rare 12
+Forest Cloak ..................................................... 50 GC ........ Rare 10
+Gromril Armor ............................................. 150 GC ........ Rare 11
+Heavy Armor ................................................. 50 GC ...... Common
+Helmet ............................................................. 10 GC ...... Common
+Ithilmar Armor ............................................... 90 GC ........ Rare 11
+Light Armor ................................................... 20 GC ...... Common
+Pavise ............................................................... 25 GC .......... Rare 8
+Reinforced Plate Armor ................................. 95 GC .......... Rare 9
+Sea Dragon Cloak ................................... 50+2D6 GC ........ Rare 10
+Shield ................................................................. 5 GC ...... Common
+Toughened Leathers........................................... 5 GC ...... Common
+Wolfcloak ........................................................ 10 GC ......... Special
+
+
+Miscellaneous equipment
+Alcohol, Drugs, Poisons & Potions Cost Availability
+Black Lotus ............................................... 10+D6 GC .......... Rare 9
+Blessed Water ......................................... 10+3D6 GC .......... Rare 6
+Bugman’s Ale ......................................... 50+3D6 GC .......... Rare 9
+Crimson Shade .......................................... 35+D6 GC .......... Rare 8
+Dark Venom ........................................... 30+2D6 GC .......... Rare 8
+Elven Wine ............................................. 50+3D6 GC ........ Rare 10
+Garlic ................................................................. 1 GC ...... Common
+Healing Herbs ......................................... 20+2D6 GC .......... Rare 8
+Healing Potion .......................................... 30+D6 GC .......... Rare 5
+Liquor Flask .............................................. 30+D6 GC .......... Rare 7
+Mad Cap Mushrooms ............................. 30+3D6 GC .......... Rare 9
+Mandrake Root ......................................... 25+D6 GC .......... Rare 8
+Potion of Strength ..................................... 30+D6 GC .......... Rare 6
+Speed Potion ............................................. 40+D6 GC ........ Rare 10
+Spider’s Poison ....................................... 25+2D6 GC .......... Rare 8
+Tears of Shallaya .................................... 10+2D6 GC .......... Rare 7
+Vial of Pestilens ...................................... 25+2D6 GC .......... Rare 9
+Vodka ..................................................... 35+2D6 GC .......... Rare 8
+Banners Cost Availability
+Banner ............................................................. 10 GC .......... Rare 5
+Clan Pestilens Banner ...................................... 10 GC .......... Rare 5
+Standard of Nagarythe ............................ 75+3D6 GC .......... Rare 9
+Charms & Amulets Cost Availability
+Bear-Claw Necklace ............................... 75+3D6 GC .......... Rare 9
+Lucky Charm ................................................... 10 GC .......... Rare 6
+Rabbit's Foot .................................................... 10 GC .......... Rare 5
+Red Toof Tribal Jewellery ............................... 40 GC .......... Rare 9
+Tarot Cards ...................................................... 50 GC .......... Rare 7
+Warpstone Amulet ........................................... 10 GC .......... Rare 5
+Wyrdstone Pendulum .............................. 25+3D6 GC .......... Rare 9
+Magic, Books & Scrolls Cost Availability
+Book of the Dead .............................. 200+D6x25 GC ........ Rare 12
+Dispel Scroll ........................................... 25+2D6 GC ........ Rare 10
+Elven Runestones ................................... 50+2D6 GC ........ Rare 11
+Halfling Cookbook ................................. 30+3D6 GC .......... Rare 7
+Hammer of Witches ....................................... 100 GC ........ Rare 10
+Holy (Unholy) Relic ............................... 15+3D6 GC .......... Rare 8
+Holy Tome ........................................ 100+D6x10 GC .......... Rare 8
+Liber Bubonicus ............................... 200+D6x25 GC ........ Rare 12
+Liturgicus Infecticus ............................... 30+2D6 GC .......... Rare 8
+Magic Gugginz ................................................ 50 GC .......... Rare 9
+Mordheim Map ....................................... 20+4D6 GC .......... Rare 9
+Scroll of the Rat Familiar........................ 25+1D6 GC .......... Rare 8
+Tome of Magic ................................. 200+D6x25 GC ........ Rare 12
+Musical Instruments Cost Availability
+Drum ................................................................ 10 GC ...... Common
+Flute ................................................................... 5 GC .......... Rare 5
+Horn ................................................................. 10 GC .......... Rare 9
+Lyre ................................................................... 5 GC .......... Rare 9
+War Horn ................................................ 30+2D6 GC .......... Rare 8
+War Horn of Nagarythe .......................... 25+1D6 GC .......... Rare 6
+Explosive Item Cost Availability
+Fire Bomb ............................................... 35+2D6 GC .......... Rare 9
+Flash Powder .......................................... 25+2D6 GC .......... Rare 8
+Smoke Bombs ................................................... 25 GC .......... Rare 5
+Other Item Cost Availability
+Caltrops .................................................. 15+2D6 GC .......... Rare 6
+Lantern ............................................................. 10 GC ...... Common
+Lock Picks ....................................................... 15 GC .......... Rare 8
+Net ..................................................................... 25 GC ...... Common
+Opulent Coach (without draft animals) ............. 250 GC ........ Rare 10
+Rope & Hook ..................................................... 5 GC ...... Common
+Telescope ................................................ 75+3D6 GC ........ Rare 10
+Torch ................................................................. 2 GC ...... Common
+Wagon / Stage Coach (without draft animals) ... 100 GC .......... Rare 7
+Beasts Cost Availability
+Bear ...................................................... 125+2D6 GC .......... Rare 8
+Cave Squig .............................................. 15+2D6 GC .......... Rare 7
+Chaos Hound .......................................... 25+2D6 GC ...... Common
+Chaos Steed ..................................................... 90 GC ........ Rare 11
+Cold One ........................................................ 100 GC ........ Rare 11
+Cold One Beast-hound ............................ 30+2D6 GC .......... Rare 9
+Eagle ....................................................... 30+2D6 GC ........ Rare 10
+Elven Steed ...................................................... 90 GC ........ Rare 10
+Falcon ..................................................... 30+2D6 GC .......... Rare 9
+Familiar .................................................. 20+1D6 GC .......... Rare 8
+Giant Spider ................................................... 100 GC ........ Rare 11
+Giant Wolf ....................................................... 85 GC ........ Rare 10
+Hawk ...................................................... 30+2D6 GC .......... Rare 9
+Horse (Riding) ................................................. 40 GC .......... Rare 8
+Kite ......................................................... 30+2D6 GC .......... Rare 9
+Leopard ................................................... 85+2D6 GC .......... Rare 9
+Lion ...................................................... 115+2D6 GC .......... Rare 9
+Mule................................................................. 30 GC .......... Rare 7
+Nightmare ........................................................ 95 GC ........ Rare 11
+Owl ......................................................... 50+2D6 GC ........ Rare 10
+Panther .................................................... 80+2D6 GC .......... Rare 9
+Skeletal Steed .................................................. 65 GC .......... Rare 8
+Snotling ...................................................... 8+D6 GC ...... Common
+Tiger ....................................................... 75+2D6 GC .......... Rare 9
+Tuckgor ........................................................... 85 GC .......... Rare 8
+War Boar ......................................................... 90 GC ........ Rare 11
+War Horse ........................................................ 80 GC ........ Rare 11
+War Hound ............................................. 25+2D6 GC ........ Rare 10
+Wild Hog ................................................ 30+2D6 GC .......... Rare 6
+Wolf ........................................................ 30+2D6 GC .......... Rare 7
 
 \page
 
@@ -3266,3 +3498,1901 @@ Still a Club: A Torch may be used as a Club in combat, and has the Flaming Attac
 Sore Thumb: A Warrior with a Torch may never hide.
 Extremely Common: Any Henchmen may capable of equipping items may use a Torch.
 Bright: No model may not hide within 4" of a model with a Torch, including the bearer.
+
+#### Attack Animals
+
+The most common attack animal in the Old World is the
+faithful war house, especially favoured by Witch Hunters.
+Other warbands have their favoured attack animals – Giant
+Rats for Skaven, Dire Wolves for Vampires, Cold One Beast-
+hounds for the Druchii. Whatever the differences between the
+species, that a warrior with several sets of claws and jaws
+behind him is a more dangerous opponent than a warrior on
+his own.
+
+Special Rules
+Model: If you purchase an Attack Animal, it will fight exactly like a
+member of your warband, though it is treated as part of the
+equipment of the Hero who bought it. You will need a model to
+represent it on a battlefield.
+Experience: Attack Animals never gain experience, and if they are
+put out of action they have exactly the same chance of recovering as
+Henchmen (i.e., 1-2: Dead; 3-6: Alive). Attack Animal count
+towards the maximum number of warriors allowed in your warband.
+
+Bear
+Bears are large animals often found in the forests of the Old World.
+Normally they are peaceful creatures but when they feel threatened
+they rip into their opponents with sharp deadly claws. Their strong
+arms can wrap around a Warrior and slowly squeeze the life out of
+him.
+Profile M WS BS S T W I A Ld
+
+Black Bear 5 3 - 4 4 2 4 2 4
+Grizzly Bear 5 3 - 5 5 2 3 3 4
+Special Rules
+Animal Companion: The Black Bear may be an Animal
+Companion to a warrior
+Bear Hug: If the Bear hits the same enemy warrior with both
+of his attacks in the same round of combat, the player may
+choose to make a single ‘Bear Hug’ attack instead of
+resolving the attacks normally. If this option is chosen, each
+player must roll a D6 and add his model’s Strength to the
+roll. If the Bear’s total is higher or the totals are equal, the
+opposing warrior takes a single automatic wound with no
+armor save allowed. If the enemy warrior’s total is higher,
+the warrior has broken the Bear’s hold and suffers no damage
+from the attack.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Bear out of action gets a bonus +1
+experience.
+
+Birds of Prey
+Falcons and other birds of prey are much sort after by beast masters
+as they are very useful for catching game and hindering opponents
+by attacking weak spots such as the face and groin of enemy models.
+Profile M WS BS S T W I A Ld
+Eagle 12 4 - 3 3 1 4 1 6
+Falcon 16 3 - 3 2 1 5 1 7
+Hawk 12 3 - 4 3 1 4 1 6
+Kite 20 3 - 2 2 1 5 1 7
+Owl 12 5 - 4 3 1 5 1 6
+Special Rules
+Animal Companion: All Birds of Prey may be an Animal
+Companion to a warrior
+Movement: A Bird of Prey can fight up to its Movement
+away from it owner and will return before the end of the turn.
+A Bird of Prey is never pinned in combat and may return
+without having to break combat.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Bird of Prey out of action gets a
+bonus +1 experience.
+
+
+Cave Squig
+Part fungus and part flesh, these strange ferocious creatures are
+almost all teeth, easily able to take a man’s leg off with a single bite.
+[Greenskins Only]
+
+Profile M WS BS S T W I A Ld
+Cave Squig 2D6 4 0 4 3 1 4 1 5
+
+Special Rules
+Animal Companion: The Cave Squig may be an Animal
+Companion to a warrior
+May Ride: A Goblin may ride the Cave Squig, if you are
+using the optional rules for mounts. The Goblin gains +1
+armor save, and shall move at the Cave Squig’s rate of 6".
+Shooting attacks hit the Goblin on a die roll of 1-2, and the
+Cave Squig on a 3-6. In close combat, the opponent may
+choose which to hit. The Cave Squig no longer has to follow
+the ‘Minderz’ rule (see below) if it is being ridden, as the
+owning model is directing its actions.
+Minderz: Each Cave Squig must always remain within 6" of
+it owning model, who keeps the creature in line. If a Cave
+Squig finds itself without the owning model within 6" at the
+start of its Movement phase, it will go wild. From that point
+on, move the Squig 2D6" in a random direction during each
+of its Movement phases. If its movement takes it into contact
+with another model (friend or foe), it will engage the model
+in hand-to-hand combat as normal. The Cave Squig is out of
+the player’s control until the end of the game.
+Movement: Cave Squigs do not have a set Movement
+characteristic but move with an ungainly bouncing stride. To
+represent this, when moving Squigs, roll 2D6 for the distance
+they move. Squigs never run and never declare charges.
+Instead, they are allowed to contact enemy models with their
+normal 2D6" movement. If this happens, they count as
+charging for the following round of close combat, just as if
+they had declared a charge.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Cave Squig out of action gets a
+bonus +1 experience.
+
+Chaos Hound
+Some Warriors of Chaos control packs of snarling, vicious war
+dogs. These creatures have been cruelly mutated by their exposure
+to Chaos, and bear barbed tails, skeletal faces and sometimes extra
+heads and limbs.
+Profile M WS BS S T W I A Ld
+Chaos Hound 7 4 0 4 3 1 3 1 5
+Special Rules
+Animal Companion: The Chaos Hound may be an Animal
+Companion to a warrior
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Chaos Hound out of action gets a
+bonus +1 experience.
+ 
+Cold One Beast-hound
+(Dark Elves only)
+The Dark Elves capture and breed many exotic creatures to fight for
+them and fights between pets are often staged as a form of
+entertainment amongst the Dark Elves. One such animal was
+discovered in Lustria. Distantly related to Cold Ones, the Cold One
+Beast-hound lives in swamps and bogs. Cold One Beast-hounds are
+larger than war dogs and of similar build but are in all other
+respects reptilian. Rows of sharp teeth fill its maw, and when
+provoked, the Cold One Beast-hound is a very aggressive beast. The
+Dark Elves capture and train these creatures to fight in battles all
+over the Warhammer world.
+Profile M WS BS S T W I A Ld
+Beast-hound 6 3 0 4 4 1 1 1 4
+Special Rules
+Stupidity: Cold One Beast-hounds may use the basic
+Leadership of it Master if they are within 6" of him.
+Scaly Skin: Cold One Beast-hounds have tough scaly skin,
+and are considered to have a 6+ armor save. This save
+cannot be modified beyond 6 due to strength modifiers but
+any result of ‘no save’ on the injury chart will negate the
+unmodified 6+ save.
+Fear: Cold One Beast-hounds cause Fear.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Cold One Beasthound out of
+action gets a bonus +1 experience.
+
+
+Familiar
+Wizards are often solitary, usually shunned by those who can barely
+conceive of, much less understand, the power these individuals
+wield. As such, they often share their lives with animal companions,
+rather than more ‘sentient’ beings. Sometimes a magical link will
+develop between one of these animals and the wizard, to the extent
+that the wizard begins to see through the animal’s eyes, and hear its
+thoughts. Wizards in different lands favour different types of
+familiars, depending on their environment: Shadow Weavers tend to
+favour darkly-coloured animals that can blend into the shadows
+with them easily- ravens or darkly-coloured cats are most common.
+Regardless of their form, familiars are actually not normal members
+of their kind at all, but rather creatures that have somehow become
+attuned to the Winds of Magic.
+Familiars cannot actually be purchased as normal equipment.
+The cost to ‘purchase’ a familiar actually represents the cost
+of materials to cast the ritual to summon a familiar and form
+a magical bond with it; the Rarity level represents the
+chances of the ritual actually working. As such, the cost of
+the familiar must always be paid if the rarity roll is attempted,
+regardless of the success of the roll. Also, only Magic User
+can attempt to ‘find’ a familiar. If a familiar is found, it
+should be modelled on the Magic User as with any other
+piece of equipment. A familiar may be placed on a separate
+base (in fact many of the familiars that GW sells come this
+way), but if this is done the familiar must always remain
+within 6" of the Magic User, may and it may attack enemy
+models or be attacked itself, other than the effect below.
+Profile M WS BS S T W I A Ld
+
+Familiar 6 4 0 4 3 1 4 1 5
+Options: The Familiar can be upgraded to one of the
+following; Combat Familiar (+35 GC), Power Familiar (+45
+GC) or Spell Familiar (+65 GC).
+Special Rules
+Animal Companion: The Familiars may be an Animal
+Companion to a Magic User.
+Re-roll: As long as the Familiar is within 1" of the Magic
+User, the Magic User may re-roll one failed roll to cast a spell
+each turn. The result of this re-roll must be accepted, even if
+it fails.
+Combat Familiar: As long as the Combat Familiar is within
+1" of the Magic User, the Magic User’s Weapon Skill and
+Attacks increases by 1. This may take the Magic User over
+the Maximum.
+Power Familiar: As long as the Power Familiar is within 1"
+of the Magic User, the range of all Magic User Spell
+increased by D6", roll for each spell when casted.
+Spell Familiar: As long as the Spell Familiar is within 1" of
+the Magic User, the Magic User may cast an extra Spell pre
+turn.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Familiar out of action gets a bonus
++1 experience.
+
+Hunting Cats
+Hunting Cats are ferocious beasts capable of tearing a man to
+pieces though they themselves are vulnerable to damage.
+Profile M WS BS S T W I A Ld
+Tiger 9 4 - 4 4 1 6 2 4
+Panther 9 4 - 4 3 1 6 2 3
+Leopard 9 4 - 4 4 1 6 2 3
+Lion 9 4 - 5 4 1 6 2 4
+Special Rules
+Animal Companion: All Hunting Cats may be an Animal
+Companion to a warrior
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Hunting Cat out of action gets a
+bonus +1 experience.
+ 
+Rat Familiar
+The Rat Familiar is a Giant Rat enchanted with the Scroll of
+the Rat Familiar.
+Profile M WS BS S T W I A Ld
+Rat Familiar 6 2 0 3 3 1 4 1 4
+SPECIAL RULES
+Enchanted Animal: The Rat Familiar earns experience as a
+henchman. A result of 10 - 12 on the henchmen advancement
+table, instead of the promotion to hero status gives as a result
+"Improved spell casting: if the sorcerer is within 6'' of the Rat
+Familiar, he gain a +1 bonus when rolling dice to overcome
+the difficulty of a spell. This ability is cumulative."
+ 
+Snotling
+Snotlings are the smallest of the green-skinned races. They are not
+very intelligent and behave very much like extremely enthusiastic
+and uncontrollable puppies. They can fetch and carry for other
+Goblin or Orc races, and do other rather limited tasks, but they are
+little use for any real work.
+Profile M WS BS S T W I A Ld
+Snotling 4 1 1 1 1 1 1 1 3
+Weapons/Armor: Snotling may be equipped with Club,
+Blow pipe or Spear.
+Special Rules
+Animal Companion: A Snotling may be an Animal
+Companion to a warrior.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Snotling out of action gets a bonus
++1 experience.
+
+
+
+War Hound
+[Not available to Skaven]
+The men of the Empire have always been experts at raising
+ferocious bloodhounds to guard their cattle and holdings against
+roaming Goblins and Beastmen. A highly trained War hound is a
+dangerous opponent and worth its weight in gold in Mordheim.
+Profile M WS BS S T W I A Ld
+
+War Hound 6 4 0 4 3 1 4 1 5
+Special Rules
+Animal Companion: The War Hound may be an Animal
+Companion to a warrior.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the War Hound out of action gets a
+bonus +1 experience.
+
+Wild Hog
+Wild Hogs are useful beasts in the streets of Mordheim as they
+trample down the street squealing and knocking people out of their
+way. They also have a terrible odour that often makes it an
+unfavourable animal to have around the camp
+Profile M WS BS S T W I A Ld
+Wild Hog 6 3 - 3 4 2 3 1 3
+Special Rules
+Animal Companion: The Wild Hog may be an Animal
+Companion to a warrior
+Mindless Charge: The Hog receives +1 Strength bonus
+when he charges to signify his powerful and destructive
+charge and his lack of care for his own safety.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Wild Hog out of action gets a
+bonus +1 experience.
+
+Wolf
+Wolves prowl the lands of the Old World, hunting other weaker
+animals for prey. Occasionally, they will become very bloodthirsty
+and attack adventurers instead, especially if they are hungry and
+are travelling in a large group.
+Profile M WS BS S T W I A Ld
+Wolf 9 4 - 3 3 1 5 1 5
+Special Rules
+Animal Companion: The wolf may be an Animal
+Companion to a warrior.
+Feed: Some wolves will feed on the bodies of the killed after
+a battle. If a wolf stuns / knock down a warrior, the wolf may
+start to feed on him, roll a D6, On a 1 the wolf takes the
+warrior out of action and for the next turn the wolf will not
+move or charge because he has started to eat at body of the
+warrior, but will defend himself. Warriors that are taker out
+of action this way do not roll on the injuries chart as normal,
+Henchmen automatically counts as being dead, Heroes &
+Hired Swords must roll twice on the Heroes’ serious injuries
+chart.
+Frenzy: When the Wolf Charges it becomes Frenzy. The
+Wolf is affected by the rules for frenzy.
+Experience
++1 For taking the Attack Animal out of action. The Hero
+or Henchman that puts the Wolf out of action gets a bonus +1
+experience.
+#### Ridden Animals
+
+Humans like their horses, Orcs their boars, Goblins their
+wolves. All agree that two legs are good, but four legs are
+better.
+Cave Squig
+See Attack Animals above.
+
+Chaos Steed
+Chaos Steeds are malformed, debased parodies of the magnificent
+warhorses of the Empire. They are used by Possessed and other
+Chaos warbands.
+[Possessed & Carnival of Chaos Warbands Only]
+
+Profile M WS BS S T W I A Ld
+Chaos Steed 8 3 0 4 3 1 3 1 5
+Special Rules
+May not be ridden by The Possessed. Even Chaos Steeds
+are skittish around the abhorrent Possessed and will not allow
+themselves to be ridden by such a being.
+Battle Schooled: The mount has been specially trained to
+fight on a battlefield. The rider may re-roll any failed loss of
+control tests. Only one re-roll is allowed per test.
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Chaos Steed out of action gets a
+bonus +1 experience.
+
+Cold One
+Scaly, mean and stupid, these native creatures of the New
+World make excellent mounts upon which to fight.
+[Dark Elves, Saurus & Skinks Only]
+Profile M WS BS S T W I A Ld
+Cold One 7 3 0 4 4 1 3 1 3
+Special Rules
+Fear: Cold Ones cause fear.
+Stupid: Roll against the rider’s Leadership each turn; if the
+rider fails the test then usual stupidity applies, otherwise
+move as normal.
+Scaly: Cold ones give an additional +1 armor save bonus
+(making +2 total).
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Cold Ones out of action gets a bonus
++1 experience.
+
+Elven Steed
+Elven steeds are graceful animals, but have a vicious
+temperament when called upon to fight. It is rumoured that
+even Dark Elves breed these fine beasts. Typically, High Elf
+steeds are grey and white, Wood Elf steeds are tan and white,
+and Dark Elf steeds are midnight black.
+[Elves Only]
+Profile M WS BS S T W I A Ld
+
+Elven Steed 9 3 0 3 3 1 4 1 5
+SPECIAL RULES
+Battle Schooled: The mount has been specially trained to
+fight on a battlefield. The rider may re-roll any failed loss of
+control tests. Only one reroll is allowed per test.
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Elven Steed out of action gets a
+bonus +1 experience.
+
+Giant Spider
+The Giant Spider is the stuff of nightmares. Typically 10 to 12
+feet long they are highly prized by Forest Goblins as mounts.
+[Goblin Only]
+
+Profile M WS BS S T W I A Ld
+Giant Spider 7 3 0 3(4) 3 1 4 1 4
+Special Rules
+Poisoned Attack: Giant Spider attacks are poisoned – attacks
+are considered as strength 4, but this will not modify any
+armor saves.
+Wall Walk: Giant Spiders (and their riders) may walk up and
+down walls without making Initiative tests. They may only
+jump up to 2" across or down, but this does count as a diving
+charge. When a spider jumps, its rider must make an
+Initiative test; if this test is failed, something has gone wrong
+
+- roll on the Whoa Boy! Table. Note even if the rider has the
+Running Dismount skill, the maximum diving charge is only
+2".
+Note: Giant Spiders cannot be used in a warband that already
+contains Giant Wolves.
+    Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Giant Spider out of action gets a
+bonus +1 experience.
+
+Giant Wolf
+The giant wolf is common in most of the mountain ranges of
+the known world. However, catching one of these nasty, fast
+moving beasts is another thing – especially if you are a
+Goblin.
+[Goblin Only]
+Profile M WS BS S T W I A Ld
+
+Giant Wolf 9 3 0 3 3 1 4 1 4
+Note: Giant Wolves cannot be used in a warband that already
+contains Giant Spiders.
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Giant Wolf out of action gets a bonus
++1 experience.
+
+Mule
+Their stubbornness is legendary, but even so, these beasts of
+burden are occasionally ridden by Halflings, Dwarfs and
+even overweight clerics!
+Profile M WS BS S T W I A Ld
+Mule 6 2 0 3 3 1 2 0 4
+Special Rules
+Slow: Mules are not the fastest of mounts and only bolt
+2D6".
+Stubborn: If a warrior is riding a mule, or is in base contact
+with a mule, he must make a Leadership test each round or
+the mule will refuse to move.
+Ornery: With no leader or rider, a mule will wander in a
+random direction. Should any close combat occur within 6",
+it will automatically bolt directly away from the combat.
+Non-combatant: Mules will not fight in combat and may not
+be used to charge into combat – they will simply refuse to
+move. If an enemy warrior charges a ridden mule,
+immediately roll on the Whoa Boy! Table. If an unridden
+mule is charged, it will bolt directly away from the charger.
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Mule out of action gets a bonus +1
+experience.
+ 
+Nightmare
+The Vampire Counts occasionally need fell steeds to carry
+them about their business. Who cares if they're dead? They
+still have legs, don't they?
+[Vampires & Necromancers Only]
+Profile M WS BS S T W I A Ld
+Nightmare 8 2 0 3 3 1 2 1 5
+Special Rules
+May Not Run: As an undead creature, a Nightmare may not
+run, but may charge as normal.
+Immune to Poison: Nightmares are not affected by poison.
+Immune to Psychology: As an Undead creature, Nightmares
+are immune to psychology, never have to make Leadership
+tests, and will always stand still if left leaderless. However, if
+the rider suffers a wound, he must roll on the Whoa Boy!
+Table as normal.
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Nightmare out of action gets a bonus
++1 experience.
+ 
+Riding Horse
+Riding horses are not trained for battle and will not normally
+attack an enemy. However, they are useful for moving rapidly
+around the site of a battle.
+[Humans Only]
+Profile M WS BS S T W I A Ld
+Horse 8 1 0 3 3 1 3 0 5
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Horse out of action gets a bonus +1
+experience.
+
+
+
+Skeletal Steed
+Skeletal Steeds are ghastly creatures. They were once normal
+horses, but when they died their flesh decomposed. When all that
+was left of them was their bones, evil Necromancers raised them
+from the dead.
+[Undead Only]
+Profile M WS BS S T W I A Ld
+
+Skeletal Steed 8 2 2 3 3 1 2 1 5
+Special Rules
+May Not Run: As an undead creature, a Skeletal Steed may
+not run, but may charge as normal.
+Immune to Poison: Skeletal Steed are not affected by
+poison.
+Immune to Psychology: As an Undead creature, Skeletal
+Steed are immune to psychology, never have to make
+Leadership tests, and will always stand still if left leaderless.
+However, if the rider suffers a wound, he must roll on the
+Whoa Boy! Table as normal.
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Skeletal Steed out of action gets a
+bonus +1 experience.
+
+Tuckgor
+Tuskgors are a cross between a boar and a ram. Their bodies are
+covered in thick brown fur and they have a large bony crest with
+sharp horns on their forehead.
+[Beastmen Only]
+Profile M WS BS S T W I A Ld
+
+Tuskgor 7 3 - 4 4 1 2 1 4
+Special Rules
+Head-butt: If the Tuckgor charge attack hits but fails to
+wound, the target must make an Initiative test or be knocked
+down.
+Thick Skinned: The thick skin and matted fur of the boar
+makes him very hard to wound. Tuskgor confer an additional
++1 bonus to the rider’s armor save (making +2 total).
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the Tuckgor out of action gets a bonus
++1 experience.
+
+War Boar
+Large, ferocious and bad-tempered – a perfect mount for an Orc
+Warlord. Orc warbands occasionally make use of these noisome
+beasts while exploring the ruins of Mordheim and beyond. It isn’t
+common though, as the bigger and meaner Orcs tend to take the
+boars for themselves.
+[Orc Only]
+Profile M WS BS S T W I A Ld
+War Boar 7 3 0 3 4 1 3 1 3
+Special Rules
+Ferocious Charge: Orc war boars attack with +2S when
+charging, due to their bulk. Note that this applies only to the
+boar, not the rider.
+Thick Skinned: The thick skin and matted fur of the boar
+makes him very hard to wound. Boars confer an additional
++1 bonus to the rider’s armor save (making +2 total).
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the War Boar out of action gets a bonus
++1 experience.
+ 
+War horse
+Warhorses are large, well-trained horses, quite at home in
+battle. They are primarily used by human warbands.
+[Humans Only]
+Profile M WS BS S T W I A Ld
+War house 8 3 0 3 3 1 3 1 5
+SPECIAL RULES
+Battle Schooled: The mount has been specially trained to
+fight on a battlefield. The rider may re-roll any failed loss of
+control tests. Only one re-roll is allowed per test.
+Experience
++1 For taking the Mount out of action. The Hero or
+Henchman that puts the War house out of action gets a bonus
++1 experience.
+
+#### Beasts
+
+Cockatrices
+If it was not for the petrified bodies of its foes that surround it, the
+Cockatrice would be a comical beast. It looks rather like a gigantic
+and somewhat ragged cockerel. Its body is covered with a
+haphazard mix of scales and feathers whilst its wings are leathery
+and bat-like. The head that sits atop this bizarre combination is a
+grotesque caricature of a proud bantam, with brilliant blood-red
+wattles and a fearsomely sharp beak.
+Profile M WS BS S T W I A Ld
+
+Cockatrice 5 3 0 4 4 2 4 2 6
+Weapons/Armor: Claws
+Special Rules
+Cause Fear: The Cockatrice is a fearsome creature which
+cause fear in it enemy.
+Flying: The Cockatrices has mighty wings, which allow
+them to fly.
+Petrify: The bleak gaze of the Cockatrice can turn its foes to
+stone. Treat this as a shooting attack with a range of 8”. It hits
+automatically, but the victim may be able to tune aside at the
+last moment and avoid its fate. Make an Initiative test for the
+victim. If pasted there is no effect, but if it is failed the victim
+is tuned to stone. Naturally, this is fatal regardless of the
+number of wounds the model has. Armor will not protect
+the victim, although Ward saves work as normal.
+Scaly Skin: The Cockatrices have scaly Skin. (5+ Armor
+Save).
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Cockatrice.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Cockatrice out of action gets a bonus
++1 experience.
+
+Chaos Spawn
+Chaos Spawn are followers of chaos who have failed to pleases
+their gods. They have been mutated into a hideous mass of limbs,
+appendages and all manner of mutations. Their minds are gone,
+leaving nothing but a seething mass of bone and flesh.
+Profile M WS BS S T W I A Ld
+Chaos Spawn 2D6 3 0 4 5 3 2 D6+110
+Special Rules
+Fear: Despite its size, the Chaos Spawn is still a fearsome
+opponent. It causes fear.
+Immune to Psychology: Chaos Spawn are not affected by
+psychology (such as fear) and never leave combat.
+Move: To move a spawn, roll a Scatter die and move it 2D6"
+in that direction, moving around obstacles as necessary.
+Should the Scatter die come up with a 'hit' the Spawn moves
+directly towards the nearest visible enemy model on the table.
+Skull of Steel: The Spawn are virtually immune to pain, as
+normal people feel it. In any turn in which the spawn rolls an
+injury result of “Knocked Down” or “Stunned”, ignore the
+result, instead reduce the monster's attacks to a D3 result,
+instead of the D6+1 given in the profile. This hindrance will
+continue until the Spawn's next turn, then it is removed.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Chaos
+Spawn.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Chaos Spawn out of action gets a
+bonus +1 experience.
+ 
+Drake
+The Drake is a small dragon-like beast spews fire from it’s maw and
+is itself is immune to fire. An effective offensive creature, it can fly
+into and out of battle in a blink.
+Profile M WS BS S T W I A Ld
+Drake 6 5 0 3 3 2 3 2 7
+Special Rules
+Breath Weapon: The Drake has a flame breath attack like a
+red dragon, with a strength of 3.
+Causes Fear: Being huge and frightening monsters, the
+Drakes cause fear.
+Flying: The Drakes may fly up to 16”
+Immune to fire: The Drake is immune to fire based attacks
+and fire based magic.
+Hit and Run: The drakes are much small and agile then there
+larger cousins and so they may those to fly in 8" attack with
+flame breath and fly out the remain 8"
+Scaly skin: The scales that cover a Drake’s hide is extremely
+hard, acting like armor that protects them from attack. This
+gives a drake an armor saving throw of 5+, regardless of the
+strength of the attack.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Drake
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Drake out of action gets a bonus +1
+experience.
+
+
+Fenbeasts
+Wrought by magical rituals from the souls of those slain in the
+marshes of Albion, the Fen beasts are unliving creatures formed
+from the earth itself. These Beasts are bought across to Mordheim
+by the Dark Emissary & Truthsayer and some have been drawn by
+other powers.
+Profile M WS BS S T W I A Ld
+
+Fenbeast 6 3 0 5 5 4 2 3 10
+Special Rules
+Fen-walker: Fenbeasts may traverse fenland, quagmires and
+any other difficult terrain as open ground.
+Fear: Fenbeasts are horrifying creatures and cause Fear.
+Immune to Psychology: Fenbeasts are not affected by
+psychology and never leave combat.
+Regenerate: When a Fenbeast is in any form of swampy
+terrain such as fenland or a quagmire they will regenerate one
+lost wound in the recovery phase on a roll of 4+.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Fenbeast.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Fenbeast out of action gets a bonus
++1 experience.
+
+Forest Spirits
+Forest Spirits inhabit the trees of the forests of the Old World. In
+their solid form, they resemble a miniature version of a Treeman,
+with soft, damp woody flesh. They are very violent if threatened and
+will use their branch like arms with claws of sharp thorns and twigs
+to their best advantage.
+Profile M WS BS S T W I A Ld
+Dryad 5 4 0 4 4 2 6 2 8
+Tree-kin 5 4 0 5 5 3 3 3 8
+Shadow Dryad 5 3 0 3 4 2 4 2 8
+Shadow Tree-kin 5 3 0 4 5 3 3 3 8
+Weapons/Armor: The Dryad and Shadow Dryad has Razor
+Sharp Talons (Counts as being armed with two swords), the
+Tree-Kin and Shadow Tree-Kin has Branchlike limes (Counts
+as being armed with two clubs).
+Special Rules
+Forest Spirits: The following rules apply to all creatures
+with are Forest Spirits:
+* All Forest Spirits are Immune to Psychology.
+* All Forest Spirits are Immune to Poison.
+* All Forest Spirits Cause Fear.
+* All Forest Spirits treat all stunned as knock down.
+* All Forest Spirits have a special save against all attacks,
+(4+ for a Tree-kin / Shadow Tree-kin, & 5+ for Dryads /
+Shadow Dryads).
+* All Forest Spirits are Flammable and will take an addition
+S5 hit if they are hit with a flammable weapon.
+Large Target: The Tree-kin and Shadow Tree-kin are large
+and so count as a large target.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the any Forest
+Spirit.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Dryads or Shadow Dryads out of
+action gets a bonus +1 experience.
++2 For taking the Beast out of action. The Hero or
+Henchman that puts the Tree-kin or Shadow Tree-kin, out of
+action gets a bonus +2 experience.
+
+
+Giant Bats, Scorpions, Spiders
+The presence of the wyrdstone has mutated these common
+household pests into a monster of titanic proportions!
+Profile M WS BS S T W I A Ld
+
+Giant Bat 1 3 0 3 3 2 3 2 7
+Giant Scorpion 6 4 0 4(5) 4 3 3 3 7
+Giant Spider 6 3 0 4(5) 4 3 2 2 7
+Weapons/Armor: Bite
+Special Rules:
+Fly: The Giant Bats may fly up to 12". After the Movement
+phase the model is assumed to have landed and may be
+charged.
+Cause Fear: All three are fearsome creatures which cause
+fear in it enemy.
+Chitinous Hide: The rigid exoskeleton of the Giant Scorpion
+& Giant Spider acts just like armor, giving the Giant
+Scorpion a 4+ armor save and the Giant Spider a 5+ armor
+save.
+Poisoned Attack: Giant Scorpion & Giant Spider attacks are
+poisoned – attacks are considered as strength 5, but this will
+not modify any armor saves.
+Wall Walk: Giant Spider may walk up and down walls
+without making Initiative tests. They may only jump up to 2"
+across or down, but this does count as a diving charge.
+Web Spit: Giant Spiders attempt to ensnare their prey in a
+web, so that they can finish it off at their leisure. Each turn a
+Spider may attempt to web a Model as many times as it has
+Attacks. If the Spider hits the Model he has been caught in its
+web - place a counter next to the Model. While webbed a
+Model may not do anything and may be hit automatically.
+The Spider’s webs hit on a 5+. At the start of the recovery
+phase roll 1D6 for each Model that has been webbed, if the
+roll less than the model’s strength, then the model has pull
+himself free from the sticky strands and may act normally
+this turn. Other models may also attempt to remove the web
+from an adjacent Warrior’s body. Hits on 5+, Range: 6".
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Giant Bats,
+Scorpions or Spiders.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Giant Bats, Scorpions or Spiders out
+of action gets a bonus +1 experience.
+
+Gorgon
+The Gorgon is a horrifying snake-headed monster with long thin
+claws and sharp teeth through which the creature hisses like a
+serpent. Like a Cockatrice the gaze of a Gorgon is magical and can
+turn a victim to stone. Gorgons sometimes carry weapons which
+they clutch awkwardly in their misshapen hands, and they dress in
+robes pulled from battle corpses.
+Profile M WS BS S T W I A Ld
+Gorgon 4 2 3 3 3 2 5 2 6
+Special Rules:
+Petrify: The bleak gaze of the Gorgon can turn its foes to
+stone. Treat this as a shooting attack with a range of 8”. It hits
+automatically, but the victim may be able to tune aside at the
+last moment and avoid its fate. Make an Initiative test for the
+victim. If pasted there is no effect, but if it is failed the victim
+is tuned to stone. Naturally, this is fatal regardless of the
+number of wounds the model has. Armor will not protect
+the victim, although Ward saves work as normal.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Gorgon.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Gorgon out of action gets a bonus +1
+experience.
+
+
+Harpies
+The Harpies are jealously protective of the wyrdstone in their nest.
+If any model approaches within their charge range then they will
+charge. The Harpies will try and coordinate their attacks so at least
+one stays back and protects the nest. Therefore, a Harpy may
+disengage from a fallen enemy model if there is an opportunity for
+one of its companions to charge another model.
+Profile M WS BS S T W I A Ld
+
+Harpy 4 4 0 4 4 1 2 1 6
+Special Rules:
+Talons: A Harpy has talons and is accustomed to fighting
+unarmed so does not suffer a penalty for doing so.
+Fly: A Harpy may fly up to 12". After the Movement phase
+the model is assumed to have landed and may be charged. If
+on the ground, a Harpy may make a full move and then use
+its wings.
+Drop Attack: If a Harpy is successful with both attacks in
+the first round of combat then the Harpy has successfully
+grabbed on to her enemy and swoops back up in the air to
+drop the model allowing gravity to do the work instead. The
+attacks themselves do not wound, but the person controlling
+the Harpy immediately rolls a D6 and a Scatter dice. That is
+the distance and direction from the place where the attack
+took place that the model will rest. Next the player
+controlling the Harpy rolls another D6. This is the distance
+from which the model has been dropped. The result is the
+Strength of hit (Strength 1 to Strength 6). Normal falling
+rules apply. If a model falls into a building than count the fall
+to where they land and then determine if the model falls again
+if it is within 1" of the edge of the floor. Any model that is
+struck by the dropped model will suffer a S3 hit. Large
+targets may only be dropped D3 inches since their size and
+weight make them more difficult to pick up. Once its
+opponent is dropped the Harpy may continue flying and
+return to the nest, preparing for another attack. Models that
+are stunned or knocked down will not be charged as it is too
+difficult for the Harpy to fly that close to the ground and do a
+drop attack.
+Experience
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Harpy out of action gets a bonus +1
+experience.
+
+Minotaur
+Minotaurs are large creatures, and have the torso of a hugely-
+muscled human, but the horned head of a wild bull. Their immense
+faces are broad, squat and evil, with beady eyes, jutting fangs and
+snorting, flared nostrils.
+Profile M WS BS S T W I A Ld
+6 4 3 4 4 3 4 3 8
+Weapons/Armor: Any variation of Axes, Clubs, and
+Swords totalling to 2 weapons, or a 2 Handed Weapon
+Special Rules
+Fear: Minotaurs are huge, bellowing monsters and cause
+fear. See Psychology section for details.
+Bloodgreed: If a Minotaur puts all of its enemies out of
+action in hand-to-hand combat, it becomes frenzied on a D6
+roll of 4+.
+Large: A Minotaur is a huge creature and stands out from
+amongst its smaller brethren. Any model may shoot at a
+Minotaur, even if it is not the closest target.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Minotaur.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Minotaur out of action gets a bonus
++1 experience.
+ 
+Ogres
+Ogres stand twice as tall as a man, with massive muscles, jutting
+jaws and thick bony foreheads. Once an Ogre decides to act it is all
+but unstoppable.
+Profile M WS BS S T W I A Ld
+Ogre 6 3 2 4 4 3 3 2 7
+Chaos Ogre 6 3 2 5 4 3 3 2 7
+Weapons/Armor: Either two swords, axes or clubs (or any
+mix of them), or a double-handed weapon (you may choose
+which). Ogres may wear light armor
+Special Rules
+Fear: Ogres are large, threatening creatures that cause fear.
+Large Target: Ogres are Large Targets as defined in the
+shooting rules.
+Mutations: Each Chaos Ogre may have one or more
+mutations. See the Chaos Mutations list (of from the Optional
+Rules; Power of the Stones, roll on the Random Mutation
+Table).
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Ogre.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Ogre out of action gets a bonus +1
+experience.
+
+
+Trolls
+Trolls are large and foul creatures, with gangling limbs and cold,
+damp hides. Renowned for their strength and unthinking ferocity,
+Trolls can rip a man apart with their bare hands. Trolls are able to
+regenerate damaged flesh, and so are all but impossible to kill. Not
+only that, they have the ability to vomit the corrosive contents over
+their victim, melting armor, flesh and bone with ease. One
+particularly vicious form of Troll is the Stone Troll, whose hide is as
+tough as rock. They have the strange ability of sucking the very
+power of magic out of the surrounding area. River Trolls live in the
+marshlands or swamps near the banks of rivers. Their flesh exhumes
+a vile slime which chokes anyone nearby.
+Profile M WS BS S T W I A Ld
+
+Troll 6 3 1 5 4 3 1 3 4
+Chaos Troll 6 4 1 5 4 3 1 3 4
+River Troll 6 3 1 5 4 3 1 3 4
+Stone Troll 6 3 1 5 5 3 1 4 4
+Weapons/Armor: Trolls often carry a big club.
+Special Rules
+Fear: Trolls are frightening monsters which cause fear.
+Stupidity: A Troll is subject to the rules for stupidity.
+Regeneration: Trolls have a unique physiology that allow
+them to regenerate wounds. Whenever an enemy successfully
+inflicts a wound on a Troll roll a D6, on a result of 4 or more
+the wound is ignored and the Troll is unhurt. Trolls may not
+regenerate wounds caused by fire or fire-based magic. Trolls
+never roll for Injury after a battle.
+Vomit Attack: Instead of his normal attacks, a Trolls and
+Chaos Trolls can regurgitate its highly corrosive digestive
+juices on an unfortunate hand-to-hand combat opponent. This
+is a single attack that automatically hits with a Strength of 5
+and ignores armor saves.
+Slime: The River Trolls skin exhumes poisonous fumes
+which make the Warriors choke. When standing adjacent to
+the River Troll any Warrior is at -1 To Hit.
+Aquatic: River Trolls may move through water terrain with
+no penalty, and count as being in cover whilst they are in the
+water.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Troll.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Troll out of action gets a bonus +1
+experience.
+
+Tunnel Dweller
+By Donato Ranzato
+I cannot begin to describe to appearance of these horrible
+creatures. Only that they come in a multitude of forms, each more
+insane then the last. To look upon them is to see madness and
+insanity given living form. To look upon them means death...
+The Tunnel dwellers are creatures which live deep under the
+City of Mordheim in it Catacombs. No one truly knows what
+or who these creatures are.
+Profile M WS BS S T W I A Ld
+Tunnel dweller 5 4 0 4 3 2 3 2 6
+Tunnel dweller (a) +1 -1 - -1 +1 - +1 -1 -
+Tunnel dweller (b) -1 +1 - +1 -1 - -1 +1 -
+Special Rules
+Cause Fear: The Tunnel Dwellers is a fearsome creatures
+which cause fear in it enemy.
+Characteristics: The profile of the Tunnel Dweller change
+between them. For each Tunnel Dweller roll D6, on a 1
+modify the Tunnel Dweller profile with Tunnel Dweller (a)
+and on a 6 modify the Tunnel Dweller profile with Tunnel
+Dweller (b).
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Tunnel
+dweller.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Tunnel dweller out of action gets a
+bonus +1 experience.
+
+
+
+Wild Boar
+Large, ferocious and bad-tempered – a perfect mount for an Orc
+Warlord. Orc warbands occasionally make use of these noisome
+beasts while exploring the ruins of Mordheim and beyond. It isn’t
+common though, as the bigger and meaner Orcs tend to take the
+boars for themselves.
+Profile M WS BS S T W I A Ld
+
+Boar 7 3 0 3 4 1 3 1 3
+A boar has an Armor Save of 5+.
+Special Rules
+Ferocious Charge: Wild boars attack with +2S when
+charging, due to their bulk. Note that this applies only to the
+boar, not the rider.
+Thick Skinned: The thick skin and matted fur of the boar
+makes him very hard to wound. Boars confer an additional
++1 bonus to the rider’s Armor Save (making +2 total). If an
+Orc Hero (not Henchmen) comes in contact with a boar he
+may roll 2D6 to try and tame it. On a 10 or higher the boar
+can be tamed and the boar will discharge D3 wyrdstone for
+the Orc Hero. Sounds nasty, but Orcs don’t really care about
+the smell. Anyway the Orc would make a Goblin or Snotling
+clean off the wyrdstone for him.
+
+Optional Rules
+For each wyrdstone shard the wild boar eats may bring on a
+mutation, Roll a D6 for each shard eaten, on a 5+ the wild
+boar begin to mutate Roll on the table below for the mutation
+each boar gets. Not on the forth mutation roll a D6 on a 1 – 2
+the Boar will die and on a 3+ the Boar will became a chaos
+spawn.
+D6 Mutation
+1 Tentacle: A tentacle emerges from the boar’s body. It may use
+this to grapple its opponent in close combat to reduce his attacks by
+-1, down to a minimum of 1. The boar may choose which attack is
+lost.
+2 Blackblood: If the boar loses a wound in close combat, anyone in
+base contact with it suffers a S3 hit (that will not cause a critical)
+from the spurting corrosive blood.
+3 Spines: Any model in base contact with the boar suffers an
+automatic S1 hit at the beginning of each Close Combat phase.
+Spines will never cause critical hits.
+4 Scorpion tail: The boar’s tail changes and grows a poisoned barb.
+It gets +1A per turn in close combat. This attack is at S5 (or S2 if
+the target is immune to poison).
+5 Hideous: The boar causes fear.
+6 Scales: Armor Save increases to 3+.
+Experience
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Wild Boar out of action gets a bonus
++1 experience.
+#### Daemons
+
+Daemon Special Rules
+All daemons have the same basic rules that they follow:
+Daemonic Aura: All Daemons have a 5+ Unmodified Save
+unless noted otherwise.
+Fear: Daemons are dark and dangerous creatures, All
+Daemons cause fear.
+Immune to Psychology: Daemons do not know the concept
+of fear. They automatically pass any Leadership-based test
+they are required to take.
+Limitation: All Daemons never gains experience and never
+gets any better.
+Daemonic Instability: daemons are bound to the world by
+Dark Sorcery that is highly volatile and unstable. If taken out
+of action the daemon is banished and effectively destroyed on
+a D6 roll of 1-3 (do not roll for injury). In addition any other
+daemon (of the same Chaos God) must take an immediate
+Leadership test. If this test is failed, then the daemon (of the
+same Chaos God) counts as destroyed.
+Immune to Poison: Daemons are created from who know
+what, and so all daemons are totally immune to all poisons
+and diseases.
+
+Chaos Furies
+Profile M WS BS S T W I A Ld
+Chaos Fury 4 4 0 4 3 2 4 1 8
+Weapons/Armor:
+Special rules:
+Fly: Furies have wings and can fly up to 12", ignoring
+difficult terrain
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Chaos Fury.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Chaos Fury out of action gets a
+bonus +1 experience.
+
+##### Khorne
+
+Khorne is the Blood God, the god of battle. He sits upon a mighty
+throne of brass upon a sea of skulls. He is a god of warriors and he
+shows favour to those who fight to become mighty champions of
+chaos. Khorne is the most powerful of all the Chaos Gods.
+Bloodletter of Khorne
+Bloodletters have red scaly hide and shiny black claws. These
+daemonic creatures are furious fighters with strong arms and
+murderous talons, but their most fearsome weapons are their
+Hellblades. These weapons glow with deadly enchantment, and
+cause terrible wounds that can slay the mightiest hero.
+Profile M WS BS S T W I A Ld
+
+Bloodletter of Khorne 4 6 0 4 3 2 6 2+ 8
+Weapons/Armor: The Bloodletters carry a Hellblade and
+wear Hell-Forged Brass Armor (4+ Armor Save).
+Special Rules
+Hellblade: The Bloodletter is armed with a Hellblade which
+will automatically cause a critical hit if a 4+ is rolled to hit.
+Attacks: The Bloodletter has a number of Attacks equal to
+the number of opponents it is fighting (down to a minimum
+of 2 Attacks). It will split its attacks amongst the opponents,
+and no matter how many warriors are involved it may roll to
+hit each one at least once. It will also prevent an opponent
+from taking any other warrior out of action in the massed
+combat, as they will be too concerned with the Daemon to
+finish off their other enemy!
+Combat: As if drawn by the sounds of clash of steel, The
+Bloodletter will seek out the nearest close combat and join in.
+If there are no ongoing close combats within range, it will
+charge the model with the highest Weapon Skill in order to
+do battle with a worthy opponent. If there are no enemies
+within charge range, the Daemon will run towards the nearest
+warrior, eager to do battle.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Bloodletter
+of Khorne.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Bloodletter of Khorne out of action
+gets a bonus +1 experience.
+
+Flash Hound of Khorne
+Flesh Hounds are the hunting beasts of Khorne. They are daemonic
+hounds with heads both reptilian and canine. They have a thick hide
+to protect them from harm and wear special collars to nullify the
+effects of magic against them.
+Profile M WS BS S T W I A Ld
+Flash Hound of Khorne 10 5 0 5 4 2 6 1 8
+Special Rules
+Collar of Khorne: Immune to all magic targeted directly at
+them or with an area of effect that would envelop them.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Flash Hound
+of Khorne.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Flash Hound of Khorne out of action
+gets a bonus +1 experience.
+
+
+##### Nurgle
+
+Nurgle is the Great Lord of Decay who loves disease and
+putrefaction. For his amusement he devises foul sicknesses and
+plagues which he inflicts upon the world.
+Plaguebearer on Nurgle
+Plaguebearers are created from all the poor mortal creatures who
+have died of the dreaded disease Nurgle’s Rot, a terrible and
+incurable contagion and one of Nurgle’s finest concoctions.
+Plaguebearers have green, putrid skin, split and rancid like that of
+Nurgle himself. They have a single eye and one horn which sticks
+straight out of their foreheads.
+Profile M WS BS S T W I A Ld
+
+Plaguebearer of Nurgle 4 4 3 4 4 2 4 2 8
+Weapons/Armor: None. Plague Bearers have huge filth
+encrusted claws, which they use to tear and slash at their foes.
+They therefore neither need nor use weapons and cannot wear
+armor.
+Special Rules
+Cloud of Flies: Plague Bearers are surrounded by a cloud of
+flies, which buzz around them and their combat opponent.
+They do not affect the Plague Bearer but distract foes by
+buzzing into eyes, nostrils and mouths. A Plague Bearer’s
+close combat opponent suffers a -1 to hit modifier on all
+attacks.
+Stream of Corruption: Plague Bearers can spew forth a
+grotesque stream of maggots, entrails and filth. This is
+counted as a shooting attack with a range of 6" and is
+resolved at Strength 3 with no saves for armor.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Plaguebearer
+of Nurgle.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Plaguebearer of Nurgle out of action
+gets a bonus +1 experience.
+
+Nurglings of Nurgle
+Nurglings feed upon the pus and slime that dribble from the sores of
+a Great Unclean One. They are minute images of Nurgle himself
+with green skin covered with boils and sores. Although Nurglings
+are tiny there are many of them and they move together in a huge,
+writhing mass. They have sharp teeth and can overwhelm an enemy
+by sheer numbers.
+Profile M WS BS S T W I A Ld
+Nurglings of Nurgle 4 3 0 3 2 1 3 1 8
+Weapons/Armor: None. Nurglings do not use weapons or
+wear armor.
+Special Rules
+Cloud of Flies: Nurglings are surrounded by a cloud of flies,
+which buzz around them and their combat opponent. They do
+not affect the Nurglings but distract foes by buzzing into
+eyes, nostrils and mouths. A Nurgling’s close combat
+opponent suffers a -1 to hit modifier on all attacks.
+Swarm: Nurglings commonly move around in small groups.
+If more than two Nurglings attack the same model then the
+Nurglings have a +1 to hit.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Nurglings of
+Nurgle.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Nurglings of Nurgle out of action
+gets a bonus +1 experience.
+ 
+Beast of Nurgle
+The Beasts of Nurgle are gigantic and slug-like. Their heads are
+topped by a fringe of fat tentacles that ooze a paralysing slime.
+These loathsome creatures also leave a slimy, corrosive trail behind
+them as they move, like that of a snail or slug, and carry all manner
+of disfiguring and fatal diseases.
+Profile M WS BS S T W I A Ld
+Beast of Nurgle 3 3 0 3 5 3 3 D6 6
+Special Rules
+Slime Trail: Any model charging the Beast from the side or
+rear takes an automatic S3 hit with no armor saves.
+Tentacles: The Beast has many tentacles, from which it
+derives its variable d6 attacks per phase. Additionally, no
+armor save is allowed.
+Unstoppable: The Beast moves d6+2" directly forward in
+the Recovery Phase. If this brings him Base-to-Base with an
+enemy, he is considered to have charged. This is in addition
+to his normal move.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Beast of
+Nurgle.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Beast of Nurgle out of action gets a
+bonus +1 experience.
+
+
+##### Slaanesh
+
+Slaanesh is the youngest of the Chaos Gods and is known as the
+Prince of Chaos. Slaanesh is seductive and beguiling, drawn to
+mortals possessed by beauty and charm. He offers temptations to his
+followers that only a God can offer, and no one can resists his lure.
+Daemonettes of Slaanesh
+The Daemonettes are the most numerous of all Slaanesh’s daemons.
+They have a perverse beauty, unnatural and disturbing, but at the
+same time are undeniably potent.
+Profile M WS BS S T W I A Ld
+
+Daemonette of Slaanesh 5 4 0 4 3 1 5 2 8
+Weapons/Armor:
+Special Rules
+Soporific Musk: All opponents in Base-to-Base suffer -1 to
+hit. (This has no effect on Undead or other Daemons.)
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Daemonette
+of Slaanesh.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Daemonette of Slaanesh out of action
+gets a bonus +1 experience.
+
+Fiends of Slaanesh
+The Fiend of Slaanesh is a bizarre daemon, a mixture of scorpion,
+reptile and human. With its long barbed tail, the Fiend can strike
+directly over its head to stab its opponents.
+Profile M WS BS S T W I A Ld
+Fiend of Slaanesh 6 3 0 3 3 2 3 2-1 8
+Special Rules
+Scorpion Tail: The Fiend gains +1 attack (included on
+profile) from its wickedly spiked tail. If this attack hits and
+applicable saves are failed it automatically wounds. (This has
+no effect on model which are Immune to Poison.)
+Soporific Musk: All opponents in Base-to-Base suffer -1 to
+hit. (This has no effect on Undead or other Daemons.)
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Fiend of
+Slaanesh.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Fiend of Slaanesh out of action gets a
+bonus +1 experience.
+##### Tzeentch
+
+Tzeentch is the Great Sorcerer, the god of magic. He is known as the
+Changer of Ways because he directs the fate of the Universe. He
+shows favour to those who use intelligence, especially wizards and
+magical creatures. He prefers manipulation and intrigue over
+violence. Tzeentch is almost as powerful as Khorne but his power is
+that of magic, not war.
+Horrors of Tzeentch
+Horrors of Tzeentch are wild creatures made from raw magic. They
+are full of boundless energy and spin like tops as they whirl around
+the dungeon.
+Profile M WS BS S T W I A Ld
+
+Horror of Tzeentch 4 2 0 3 3 2 3 1 8
+Weapons/Armor:
+Special Rules
+Unstable: The body of a horror is created from an unstable
+mass which changes the body around, whenever the Horror
+losses it last wound roll a D6; on a 5+ the Horror will reform
+and continue to fight. The horror counts as having 1 wound
+left.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Horror of
+Tzeentch.
+
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Horror of Tzeentch out of action gets
+a bonus +1 experience.
+Flamers of Tzeentch
+Flamers are amongst the strangest of all daemons. Their lower
+portions resemble inverted mushrooms with two flexible arms each
+spitting magical flames. A Flamer has no head as such, but its eyes
+and gaping maw lie between its swaying arms.
+Profile M WS BS S T W I A Ld
+Flamer of Tzeentch 9 3 5 5 4 2 4 2 8
+Special Rules
+Bounding: Flamers may leap obstacles of up to 2" high
+Flamer: Ranged: 6", no Range penalties, D6 S3 hits single
+target. In Hand-to-Hand it Causes D3 wounds instead of 1
+Wound
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Flamer of
+Tzeentch.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Flamer of Tzeentch out of action gets
+a bonus +1 experience.
+
+
+#### Undead
+
+Undead Special Rules
+All undead have the same basic rules that they follow:
+Cause Fear: Undead are terrifying creatures and therefore
+cause fear.
+Immune to Psychology: Undead are not affected by
+psychology and never leave combat.
+Immune to Poison: Undead are not affected by any poison.
+May not run: Undead are slow undead creatures and may
+not run (but may charge normally).
+
+Banshee
+A Banshee is a powerful Wraith, who wails constantly in battle. Her
+wail brings only death and despair to those who hear it.
+Profile M WS BS S T W I A Ld
+
+Banshee 8 3 0 3 4 2 3 2 8
+Weapons/Armor: None
+Special rules:
+Body: Once the Banshee’s wound is Reduced to 0 it is
+automatically out of action.
+Ethereal: Can pass through any object on a successful Ld-
+roll. Is immune to poison. Ignores Knocked Down and
+Stunned result on the injury roll. Can only be hurt by CC-
+weapons, at -1 to hit. Missile weapons pass right through the
+ethereal model. Magic weapons hit as normal. The ghost can
+also travel vertically, but must always come to rest on a
+horizontal surface at the end of its move. The ghost cannot
+run when passing through an object, and if it charges through
+an object it can only move its M, not the double distance.
+Also when moving horizontally it cannot double its move.
+Ghostly Howl: A Banshee is capable of emitting an eerie
+howl that brings death to mortals. Even the distant shriek of a
+banshee is enough to strike horror into the hearts of the
+bravest man, but anyone hearing the constant wail of a
+Banshee will almost certainly die of sheer fright.
+The Ghostly Howl of a Banshee is used in the Shooting
+phase. A Banshee may use it even if engaged in hand to hand
+combat, but only against the model(s) it is fighting. The
+attack has a range of 8". The Banshee can target any model
+within range and does not need line of sight to the model.
+Roll 2D6+2 and deduct the Leadership value of the model.
+For each point by which the roll beats the target’s leadership,
+the target suffers one wound.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Ghost.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Ghost out of action gets a bonus +1
+experience.
+
+Ghosts
+Made by McAber (Mats Carlsson), with input from the
+Mordheim E-group list, especially David Stillberg.
+Mordheim has many ghosts. Several that died with unfinished
+business now roam the desolate streets in futile attempts to find
+peace for their restless souls. Most of them are bound to specific
+locations in the city, haunting burnt out buildings and ruins. Many
+of the ghosts cannot do more than moan, groan and cause dread in
+general. Even the more active ghosts most of the time pose no great
+threat to the living. The ghost can emit a shriek that pierces the ears
+and souls of the living. It will force fainthearted to run in terror
+from the ghost, and make the more hardened warriors to shield their
+ears and stumble away. The ghost also can draw the life-force from
+a victim by touching them, but this is a fairly slow process. These
+attacks are mostly non-lethal, sometimes a victim can stumble over
+a ledge when fleeing from a shrieking ghost and fall to their death,
+but most of the time it is enough to get away from the haunted
+building to be safe.
+Profile M WS BS S T W I A Ld
+Ghost 5 3 0 0 3 2 1 2 7
+Weapons: Shriek, Cold touch, Cannot use any equipment.
+Special rules
+Haunt: Must be deployed within a building or ruin anywhere
+on the playing field not occupied by an enemy model. Cannot
+venture further than 5" from any building or ruin. (So it can
+move between buildings if they are not more than 10" apart.)
+Ethereal: Can pass through any object on a successful Ld-
+roll. Is immune to poison. Ignores Knocked Down and
+Stunned result on the injury roll. Can only be hurt by CC-
+weapons, at -1 to hit. Missile weapons pass right through the
+ethereal model. Magic weapons hit as normal. The ghost can
+also travel vertically, but must always come to rest on a
+horizontal surface at the end of its move. The ghost cannot
+run when passing through an object, and if it charges through
+an object it can only move its M, not the double distance.
+Also when moving horizontally it cannot double its move.
+Shriek: The ghost emits a soul (and ear) piercing shriek
+affecting all living models (for example ghouls, dregs and
+necromancers) in a 3" radius. They have to take a Ld test. If
+the result is equal to or lower than the model's T, it is
+unaffected altogether. If it is higher than the models T, but
+not higher than it's Ld, the model staggers d3" directly from
+the Ghost, clasping it's hand to it's ears. If the result is higher
+than the model's Ld, it breaks and flees, just as if it failed a
+Fear test. Models immune to Psychology don't break, but
+staggers 1d6" instead. Only one Shriek can be made per turn,
+but every extra attack spent shrieking gives +1 on the Ld roll.
+Cold touch: The ghost reaches inside the enemy and touches
+his inner being (it can be the soul, life-force or whatever is in
+there). The ghost uses Ld instead of S to wound, and the
+victim uses Ld instead of T to withstand the hit. The victim
+has no armor save. Instead of causing a wound it lowers the
+Toughness by 1 for the rest of the battle (accumulative). If T
+reaches 0 roll on the injury table with +2 on the roll.
+Experience
++1 For wounding the Beast. Any Hero or Henchman earns
++1 Experience for each wound he inflicts on the Ghost.
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Ghost out of action gets a bonus +1
+experience.
+
+
+Skeletons
+Skeleton Warriors claw themselves out of the earth to attack the
+living. They wield rusty swords and axes, and mouldering remnants
+of armor still cling to their frame.
+Profile M WS BS S T W I A Ld
+
+Skeleton 4 2 2 3 3 1 2 1 5
+Weapons/Armor: The Skeleton has a Dagger and Roll a
+D6 for a weapon: [1-2] bow, [3-4] spear, [5-6] sword. Roll a
+D6 for armor [1] roll for a second weapon, [2] light armor,
+[3-4] none, [5] shield, [6] light armor and shield.
+Special rules
+No Pain: Skeletons treat a stunned result on the Injury chart
+as knocked down.
+Wyrdstone: When the Skeleton is taken out of action Roll
+D6; on a 6 the Skeleton counts as having a shard of
+Wyrdstone. This is recovered by the one who took the
+Skeleton out of action.
+Experience
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Skeleton out of action gets a bonus
++1 experience.
+
+Zombies
+Zombies are fresh corpses brought back to life by foul necromancy.
+Being more recently dead than Skeletons they retain more of their
+intellect and are more like living humans, although they are totally
+under the will of the Necromancer whose conjurations created them.
+Although rejuvenated by magic they continue to decay. Their flesh is
+rank and tattered and caked with blood.
+Profile M WS BS S T W I A Ld
+Zombie 4 2 0 3 3 1 1 1 5
+Special rules:
+No Pain: Zombies treat a stunned result on the Injury chart as
+knocked down.
+Wyrdstone: When the Zombie is taken out of action Roll
+D6; on a 6 the Zombie counts as having a shard of
+Wyrdstone. This is recovered by the one who took the
+Zombie out of action.
+Experience
++1 For taking the Beast out of action. The Hero or
+Henchman that puts the Zombie out of action gets a bonus +1
+experience.
+#### Monsters
+
+Black Pegasus
+It is said that a few of the Pegasi escaped the destruction and their
+cages and have made their lairs around this area. Some have
+mutated horribly and are twisted diabolic parodies of their former
+selves. The infamous of these creatures is said to be a huge Black
+Pegasus with several additional horribly mutated heads, that of a
+serpent and a ram. Hunger gnaws at the stomachs of these beasts
+and they will face many times their number if they catch the scent of
+prey.
+Profile M WS BS S T W I A Ld
+
+Black Pegasus 3 3 - 4 4 5 3 5 8
+Fear: A Black Pegasus with three heads will cause Fear in
+most people.
+Flying: The Black Pegasus can fly or charge up to 12”inches
+with no terrain penalties. Just like the old saying “As the
+Crow flies.” The 12” inches is the furthest the Black Pegasus
+can flying, no charging or running to increase distance.
+Walking: The Black Pegasus can only walk three inches on
+the ground and cannot charge or run.
+Save: The Black Pegasus has a 5+ save that is not modified
+by strength of attacks against it.
+Immune to Psychology: Same stuff that is printed in the rule
+book.
+Skull of Iron: The Pegasus's skull is much too thick for
+normal blows to penetrate. It is immune to the effects of
+being stunned. Treat any results from the Injury Table as
+knocked down results.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Black
+Pegasus.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Black Pegasus out of action gets a
+bonus +2 experience.
+
+Enormous Worm
+These are enormous carnivores that burrow straight through
+solid ground in search of small (adventurer sized) morsels.
+Profile M WS BS S T W I A Ld
+Enormous Worm 10 4 0 5 4 3 * 5 8
+Weapons/Armor: Rows upon rows of sharp teeth
+Special Rules
+Large Target: The Enormous Worm is a towering creature
+larger than the height of a man. It is a Large Target
+Night Eyes: The Enormous Worm cannot see so well in the
+day light, this is why the Enormous Worm has D3+2
+initiative. If the Enormous Worm is fighting at night in
+counts as having an initiative 6.
+Poisoned Attack: The Enormous Worm attacks are poisoned
+- attacks are considered as strength 6, but this will not
+modify any armor saves.
+Scaly Skin: The Enormous Worm has scaly Skin. (4+
+Armor Save)
+Cause Fear: The Enormous Worm is a fearsome creature
+which cause fear in it enemy.
+    Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the
+Enormous Worm.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Enormous Worm out of action gets a
+bonus +2 experience.
+
+
+
+Treeman (Giant Oak)
+Treemen have the appearance of huge trees, many times the height
+of a human. They are often mistaken for trees in the forest as their
+clawed feet look like roots, and their legs look like the trunk of the
+tree.
+Profile M WS BS S T W I A Ld
+
+Treeman 6 5 3 5 5 6 5 5 9
+Special Rules:
+Forest Spirits: The following rules apply to all creatures
+with are Forest Spirits:
+* All Forest Spirits are Immune to Psychology.
+* All Forest Spirits are Immune to Poison.
+* All Forest Spirits Cause Fear.
+* All Forest Spirits treat all stunned as knock down.
+* All Forest Spirits have a special save against all attacks,
+(3+ for a Treeman).
+* All Forest Spirits are Flammable and will take an addition
+S5 hit if they are hit with a flammable weapon.
+Large Target: The Treeman count as a large target.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the
+Treeman.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Treeman out of action gets a bonus
++2 experience.
+
+Young Giants
+Giants are said to be forged from the earth itself. They are powerful
+creatures given to rage easily and often rampage throughout the
+land to deter would be adventurer. Most of the larger Giants
+slumber in caves and are seldom ever seen by the eyes of man. Some
+of the younger, more naive beasts are given to sleeping in the open
+however, prey to monster hunters and thieves, which is of course if
+the young Giant does not wake.
+Profile M WS BS S T W I A Ld
+Young Giant 6 3 0 5 5 4 2 3 8
+SPECIAL RULES
+Slumbering Brute: The Young Giant is initially sleeping. In
+each player’s recovery phase roll a D6, on a roll of 6 the
+Young Giant awakes (add +1 to the roll for each model
+within 2" of the beast, it instantly awakens if attacked). The
+Giant’s turn is always before the player’s who woke it. It will
+always move towards the nearest model, charging if possible
+but will not attack a Truthsayer or Dark Emissary due to their
+close affiliation.
+Fear: Huge and obese the Young Giant causes Fear.
+Enraged: Waking from its slumber the Young Giant is very
+mad and will therefore not Rout for any reason.
+Thick-headed: The Young Giant’s skull is as thick as a rock
+and as such it can never be stunned, treat any stunned results
+as knocked down instead.
+Ungainly: If a Young Giant is knocked down roll a scatter
+dice to determine the direction it falls in, then place the
+model on its back. Any model underneath the Giant must
+pass an Immediate initiative test or suffer a strength 5 hit as
+the brute crushes them. The Young Giant automatically picks
+itself up next turn.
+Rampage: When the Young Giant attacks it is a rampage of
+varied assaults. Roll a D6 to determine what it does.
+1-2 Swipe. Attacks as normal.
+3-4 Stomp. Makes a single attack at Strength 7 inflicting
+double wounds.
+5-6 Shout and Bawl. All models within 4" of the brute must
+pass an immediate Strength test or be knocked down.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Young
+Giant.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Young Giant out of action gets a
+bonus +2 experience.
+
+
+Young Hydra
+Profile M WS BS S T W I A Ld
+
+Young Hydra 6 3 0 4 4 5 3 5 8
+Special Rules
+Fear: Despite its smaller size, the young Hydra is still a
+fearsome opponent. It causes fear.
+Save: The young Hydra’s scales aren’t as strong as a normal
+Hydra’s, but they are still as strong as metal. The Hydra has
+an armor save of 6+ that is not modified by the strength of
+attacks against it (or by other save modifiers).
+Breath Weapon: When the young Hydra breathes, flames
+leap from its mouths. It can use these flames as a weapon if it
+wishes. This attack is made in the Shooting phase and may be
+made even if the Hydra is involved in close combat. Simply
+place the small teardrop shaped template with the narrow end
+at one of the Hydra’s mouths; any models under the template
+will be hit by flames on a dice roll of 4+. A model hit by
+flames takes a single S3 hit. Normal armor saves apply. Do
+not worry about any buildings the template may cover; the
+Hydra’s fire is too weak to set them alight without prolonged
+exposure.
+Loss of Heads: Each wound suffered by a Hydra represents
+one of its many heads getting taken out of action. Because of
+this, any successful (unsaved and un-regenerated) Wound to a
+Hydra reduces its Attacks characteristic by one. In addition,
+the loss of heads makes for fewer flames when it breathes, so
+for every 2 successful Wounds, the strength of the Hydra’s
+breath weapon is reduced by one (to a minimum Strength of
+1). So, for example, if the Hydra has taken 3 (unsaved and
+unregenerated) Wounds, it would have 2 attacks remaining
+and the Strength of its breath weapon would be reduced to 2.
+Regeneration: All Hydras have the ability to regrow
+damaged heads. Some can do this immediately, while for
+others it may take a matter of hours or even days to replace a
+head that is lost. To represent this ability, at the end of each
+round of close combat roll a D6 for each Wound the Hydra
+has suffered that round. On a roll of 4 or more that Wound
+has regenerated; any regenerated Wounds are reinstated. If a
+Hydra is down to its last Wound remaining, make this roll to
+regenerate before rolling on the Injury table; a successful
+Regenerate roll means that no Injury roll is made.
+Will not Rout: The Hydra is far too greedy to abandon its
+hoard. It will automatically pass any Rout test or any other
+test that would cause it to leave its lair. It will not leave its
+lair for any reason.
+Skull of Iron: The Hydra’s skulls are much too thick for
+normal blows to penetrate. It is immune to the effects of
+being stunned. Treat any stunned results from the Injury table
+as a knocked down result instead (see below).
+Staggered, but not down: Mighty blows will rock the Hydra
+but most creatures lack the ability to truly knock it into the
+dirt. Therefore, any knocked down result the Hydra receives
+will instead cause it to lose 1 Attack until it recovers (during
+the Recovery phase of its next turn). Multiple knocked down
+results will cause it to lose multiple attacks in this way (if
+taken to 0 Attacks or fewer, the Hydra may not attack until it
+recovers).
+
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Young
+Hydra.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Young Hydra out of action gets a
+bonus +2 experience.
+ 
+Young Dragon
+Profile M WS BS S T W I A Ld
+Young Dragon 6 4 0 5 5 5 6 4 7
+Special Rules
+Fear: Despite its smaller size and useless wings, the young
+Dragon is still a fearsome opponent. It causes fear.
+Save: The young Dragon’s scales aren’t as strong as a normal
+Dragon’s, but they are still as strong as metal. The young
+Dragon has an Armor save of 5+ that is not modified by the
+strength of attacks against it (or by other save modifiers).
+Breath Weapon: When the young Dragon breathes, flames
+leap from its mouth. It can use these flames as a weapon if it
+wishes. This attack is made in the Shooting phase, and may
+be made even if the Dragon is involved in close combat.
+Simply place the small teardrop shaped template supplied
+opposite with the narrow end at the Dragon’s mouth. Any
+models under the template will be hit by flames on a dice roll
+of 4+. A model hit by flames takes a single S3 hit. Normal
+armor saves apply. Do not worry about any buildings the
+template may cover; the Dragon’s fire is too weak to set them
+alight without prolonged exposure.
+Will not Rout: The Dragon is far too greedy to abandon its
+hoard. It will automatically pass any Rout test or any other
+test that would cause it to leave its lair. It will not leave its
+lair for any reason.
+Skull of Iron: The Dragon’s skull is much too thick for
+normal blows to penetrate. It is immune to the effects of
+being stunned. Treat any stunned results from the Injury table
+as knocked down results instead (see below).
+Staggered, but not down: Mighty blows will rock the
+Dragon, but most creatures lack the ability to truly knock it
+into the dirt. Therefore, any knocked down result the Dragon
+receives will instead cause it to lose 1 Attack until it recovers
+(during the Recovery phase of its next turn). Multiple
+knocked down results will cause it to lose multiple attacks in
+this way.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Young
+Dragon.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Young Dragon out of action gets a
+bonus +2 experience.
+
+
+Young Wyvern
+Profile M WS BS S T W I A Ld
+
+Young Wyvern 6 4 0 4 5 3 4 2 5
+Special Rules
+Fear: Despite its smaller size and useless wings, the Wyvern
+is still a fearsome opponent. It causes fear.
+Save: The Wyvern’s scales aren’t as strong as a normal
+Wyvern’s, but they are still as strong as metal. The Wyvern
+has an armor save 6+ that is not modified by the strength of
+attacks against it (or other save modifiers).
+Envenomed Tail: The Wyvern has a whip-like tail that is
+tipped with a deadly stinger. In combat it thrashes this tail
+forward among its enemies, either injecting them with its
+deadly venom, or simply clubbing them into submission. In
+game terms this is represented by a special tail strike that the
+Wyvern makes before its normal attacks in close combat.
+Roll a D6. Any enemy models that are in base contact with
+the Wyvern and that it may attack in the Close Combat phase
+(e.g., it is either the Wyvern’s ‘turn’ or the model’s turn) that
+have a lower Initiative than the dice score are automatically
+hit by the Wyvern’s tail. Models with Initiative equal to or
+higher than the D6 roll have successfully dodged the tail and
+are not affected. Each model struck by the Wyvern’s tail
+takes a Strength 4 hit.
+Will not Rout: The Wyvern is far too greedy to abandon its
+hoard. It will automatically pass any Rout test or any other
+test that would cause it to leave its lair. It will not leave its
+lair for any reason.
+Skull of Iron: The Wyvern’s skull is much too thick for
+normal blows to penetrate. It is immune to the effects of
+being stunned. Treat any stunned results from the Injury table
+as a knocked down result instead (see below).
+Staggered, but not down: Mighty blows will rock the
+Wyvern, but most creatures lack the ability to truly knock it
+into the dirt. Therefore, any knocked down result the Wyvern
+receives will instead cause it to lose 1 Attack until it recovers
+(during the Recovery phase of its next turn). Multiple
+knocked down results will cause it to lose multiple attacks in
+this way (if taken to 0 Attacks or fewer, the Wyvern may not
+attack until it recovers).
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Young
+Wyvern.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Young Wyvern out of action gets a
+bonus +2 experience.
+
+Young Griffon
+Profile M WS BS S T W I A Ld
+Young Griffon 6 4 0 5 4 4 4 3 8
+Special Rules
+Fear: Despite its smaller size and useless wings, the Griffon
+is still a fearsome opponent. It causes fear.
+Massive Beak: One of the Griffon’s attacks is a bite attack.
+Its maw is a massively sharp, iron-hard beak that can easily
+slice through the thickest armor as if it were made of paper.
+An opponent damaged by this attack suffers an additional -1
+penalty to his armor save, for a total armor save penalty of
+-3 (-1 for the bite and -2 for Strength).
+Will not Rout: The Griffon is far too greedy to abandon its
+hoard. It will automatically pass any Rout test or any other
+test that would cause it to leave its lair. It will not leave its
+lair for any reason.
+Skull of Iron: The Griffon’s skull is much too thick for
+normal blows to penetrate. It is immune to the effects of
+being stunned. Treat any stunned results from the Injury table
+as knocked down result instead (see below).
+Staggered, but not down: Mighty blows will rock the
+Griffon but most creatures lack the ability to truly knock it
+into the dirt. Therefore, any knocked down result the Griffon
+receives will instead cause it to lose 1 Attack until it recovers
+(during the Recovery phase of its next turn). Multiple
+knocked down results will cause it to lose multiple attacks in
+this way.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Young
+Griffon.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Young Griffon out of action gets a
+bonus +2 experience.
+
+Young Hippogriff
+Profile M WS BS S T W I A Ld
+
+Young Chimera
+Profile M WS BS S T W I A Ld
+Young Hippogriff 8 4 0 5 4 4 4 2 8 Young Chimera 6 3 0 5 5 4 4 4 8
+Special Rules Special Rules
+Fear: Despite its smaller size and useless wings, the young
+Hippogriff is still a fearsome opponent. It causes fear.
+
+Fear: Despite its smaller size and useless wings, the Chimera
+is still a fearsome opponent. It causes fear.
+Massive Beak: One of the Hippogriff ’s attacks is a bite
+attack. Its maw is a massively sharp, iron-hard beak that can
+easily slice through the thickest armor as if it were made of
+paper. An opponent damaged by this attack suffers an
+additional -1 penalty to his armor save, for a total armor
+save penalty of -3 (-1 for the bite and -2 for Strength).
+
+Dragon Head: One of the Chimera’s three heads is that of a
+Dragon. When the Dragon head breathes, flames leap from its
+mouth. It can use these flames as a weapon if it wishes. This
+attack is made in the Shooting phase. Simply place the small
+teardrop shaped template with the narrow end at the Dragon
+head’s mouth; any models under the template will be hit by
+flames on a dice roll of 4+. A model hit by flames takes a S3
+hit. Normal armor saves apply. Do not worry about any
+buildings the template may cover; the Chimera’s fire is too
+weak to set them alight without prolonged exposure.
+Will not Rout: The Hippogriff is far too greedy to abandon
+its hoard. It will automatically pass any Rout test or any other
+test that would cause it to leave its lair. It will not leave its
+lair for any reason.
+Skull of Iron: The Hippogriff ’s skull is much too thick for
+normal blows to penetrate. It is immune to the effects of
+being stunned. Treat any stunned results from the Injury table
+as a knocked down result instead (see below).
+
+Ram Head: The second head is that of a massive bloody-
+eyed ram. One of the Chimera’s attacks is a head-butt made
+by the ram head. If this attack hits but fails to do damage, the
+target must make an Initiative test or be knocked down.
+Staggered, but not down: Mighty blows will rock the
+Hippogriff but most creatures lack the ability to truly knock it
+into the dirt. Therefore, any knocked down result the
+Hippogriff receives will instead cause it to lose 1 Attack until
+it recovers (during the Recovery phase of its next turn).
+Multiple knocked down results will cause it to lose multiple
+attacks in this way.
+
+Lion Head: The last of the Chimera’s heads is that of a
+ferocious golden-maned lion with jaws of steel and razor-
+sharp teeth. One of the Chimera’s attacks is a bite by the lion
+head. An opponent damaged by this attack suffers an
+additional -1 penalty to his armor save, for a total armor
+save penalty of -3 (-1 for the bite and -2 for Strength).
+Will not Rout: The Chimera is far too greedy to abandon its
+hoard. It will automatically pass any Rout test or any other
+test that would cause it to leave its lair. It will not leave its
+lair for any reason.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Young
+Hippogriff. Skull of Iron: The Chimera’s skulls are much too thick for
+normal blows to penetrate. It is immune to the effects of
+being stunned. Treat any stunned results from the Injury table
+as a knocked down result instead (see below).
+
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Young Hippogriff out of action gets
+a bonus +2 experience.
+Staggered, but not down: Mighty blows will rock the
+Chimera but most creatures lack the ability to truly knock it
+into the dirt. Therefore, any knocked down result the Chimera
+receives will instead cause it to lose 1 Attack until it recovers
+(during the Recovery phase of its next turn). Multiple
+knocked down results will cause it to lose multiple attacks in
+this way.
+Experience
++1 For wounding the Monster. Any Hero or Henchman
+earns +1 Experience for each wound he inflicts on the Young
+Chimera.
++2 For taking the Monster out of action. The Hero or
+Henchman that puts the Young Chimera out of action gets a
+bonus +2 experience.
+
