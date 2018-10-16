@@ -13,10 +13,6 @@
     - Weapons and armor
     - Warband roster
     - Ready for battle
-- Warbands
-    - Mercenaries
-        - Reikland
-        - Middenheim
 
 <!-- /MarkdownTOC -->
 
