@@ -236,48 +236,11 @@ Any model that runs loses its chance to shoot during that turn. He is concentrat
 
 #### Charge!
 
-If you want a model to engage the enemy in hand-to-hand
-combat then you must make a special move called a charge.
-Without measuring the distance, declare that your model is
-charging and indicate which enemy model he is going to
-attack. You can charge any opposing model if you can draw
-an unobstructed line from your model to the target. If your
-warrior wants to charge an enemy model within 4" that he
-
-can't see (e.g., because it is behind a corner) but has not been
-declared as hidden, he must pass an Initiative test to detect it.
-If he fails the roll, your model may not charge this turn, but
-may move his normal distance, shoot and cast spells.
-A charge is like a running move, performed at double the
-Movement rate, but ends with the attacker moving by the
-most direct route into base-to-base contact with the enemy
-model. Once their bases are touching they are engaged in
-hand-to-hand combat. Models are also considered to be in
-hand-to-hand combat even when separated by a low wall or
-obstacle, where it is impossible for the bases to touch
-physically because the obstacle is in the way.
+If you want a model to engage the enemy in hand-to-hand combat then you must make a special move called a charge. Without measuring the distance, declare that your model is charging and indicate which enemy model he is going to attack. You can charge any opposing model if you can draw an unobstructed line from your model to the target. If your warrior wants to charge an enemy model within 4" that he can't see (e.g., because it is behind a corner) but has not been declared as hidden, he must pass an Initiative test to detect it. If he fails the roll, your model may not charge this turn, but may move his normal distance, shoot and cast spells. A charge is like a running move, performed at double the Movement rate, but ends with the attacker moving by the most direct route into base-to-base contact with the enemy model. Once their bases are touching they are engaged in hand-to-hand combat. Models are also considered to be in hand-to-hand combat even when separated by a low wall or obstacle, where it is impossible for the bases to touch physically because the obstacle is in the way.
  
-If an unengaged (i.e., not in hand-to-hand combat) enemy
-model lies within 2" of the charge route, that model may
-choose to intercept the charger if he wishes. This
-'interception area' is shown in the diagram above. Only one
-enemy model may attempt to intercept each charger. If the
-intercepting warrior would normally require a Fear test to
-engage the charger then he must pass one in order to be
-allowed to intercept. Failure means he will not move. If the
-intercepting warrior causes fear then move the models into
-contact and then take a Fear test for the original charger
-(assuming he would normally do so) as if he was the one
-being charged. Regardless of the results of this test it is still
-the original charger who counts as charging in the subsequent
-round of combat, not the intercepting warrior.
+If an unengaged (i.e., not in hand-to-hand combat) enemy model lies within 2" of the charge route, that model may choose to intercept the charger if he wishes. This 'interception area' is shown in the diagram above. Only one enemy model may attempt to intercept each charger. If the intercepting warrior would normally require a Fear test to engage the charger then he must pass one in order to be allowed to intercept. Failure means he will not move. If the intercepting warrior causes fear then move the models into contact and then take a Fear test for the original charger (assuming he would normally do so) as if he was the one being charged. Regardless of the results of this test it is still the original charger who counts as charging in the subsequent round of combat, not the intercepting warrior.
 
-Sometimes a charging warrior may not reach the enemy
-because you have miscalculated the distance. If this happens
-move your warrior his normal move distance towards the
-enemy. This is called a failed charge. The model cannot shoot
-in the same turn in which he failed a charge, but he can cast
-spells as normal.
+Sometimes a charging warrior may not reach the enemy because you have miscalculated the distance. If this happens move your warrior his normal move distance towards the enemy. This is called a failed charge. The model cannot shoot in the same turn in which he failed a charge, but he can cast spells as normal.
 
 Models cannot be moved into hand-to-hand combat except by charging – any move that brings a warrior into hand-to-hand combat is a charge by definition. A model that charges will 'strike first' in the first round of the ensuing combat.
 
@@ -295,70 +258,31 @@ A model can hide if he ends his move behind a low wall, a column or in a similar
 
 A model that runs, flees, is _stunned_ or charges cannot hide that turn. His sudden burst of speed does not give him time to hide.
 
-A model may stay hidden over several turns, so long as he
-stays behind a wall or similar feature. He may even move
-around so long as he stays hidden while doing so. If an
-enemy moves so that he can see the hidden warrior, the
-model is no longer hidden and the counter is removed. When
-hidden, a warrior cannot be seen, shot at or charged.
+A model may stay hidden over several turns, so long as he stays behind a wall or similar feature. He may even move around so long as he stays hidden while doing so. If an enemy moves so that he can see the hidden warrior, the model is no longer hidden and the counter is removed. When hidden, a warrior cannot be seen, shot at or charged.
 
-While hiding, a model cannot shoot or cast spells without
-giving away its position. If a hidden model shoots, or moves
-so that he can be seen, he is no longer hidden and can be shot
-at as normal.
+While hiding, a model cannot shoot or cast spells without giving away its position. If a hidden model shoots, or moves so that he can be seen, he is no longer hidden and can be shot at as normal.
 
-A model may not hide if he is too close to an enemy model –
-he will be seen or heard no matter how well concealed.
-Enemy warriors will always see, hear or otherwise detect
-hidden foes within their Initiative value in inches. So a
-warrior whose Initiative value is 3 will automatically spot all
-hidden enemies within 3".
+A model may not hide if he is too close to an enemy model – he will be seen or heard no matter how well concealed. Enemy warriors will always see, hear or otherwise detect hidden foes within their Initiative value in inches. So a warrior whose Initiative value is 3 will automatically spot all hidden enemies within 3".
 
 #### Terrain
 
-The ruined city of Mordheim is a dark and dangerous place,
-where tumbled down towers and blasted houses form a vast
-maze of streets and alleyways.
+The ruined city of Mordheim is a dark and dangerous place, where tumbled down towers and blasted houses form a vast maze of streets and alleyways.
 
-OPEN GROUND: The tabletop surface, floors of buildings,
-connecting overhangs, ladders and ropes are all considered to
-be open ground and will not affect movement even if the
-model is charging. It can also go through doors and hatches
-without slowing down.
+OPEN GROUND: The tabletop surface, floors of buildings, connecting overhangs, ladders and ropes are all considered to be open ground and will not affect movement even if the model is charging. It can also go through doors and hatches without slowing down.
 
-DIFFICULT GROUND: Difficult ground includes steep or
-treacherous slopes, bushes and the angled roofs of buildings.
-Models move at half speed over difficult terrain.
+DIFFICULT GROUND: Difficult ground includes steep or treacherous slopes, bushes and the angled roofs of buildings. Models move at half speed over difficult terrain.
 
-VERY DIFFICULT GROUND: This is really dangerous
-terrain, such as narrow crawl holes through the rubble.
-Models may move at a quarter rate, so if the model moves 4"
-over open ground it can only move 1" over very difficult
-ground.
+VERY DIFFICULT GROUND: This is really dangerous terrain, such as narrow crawl holes through the rubble. Models may move at a quarter rate, so if the model moves 4" over open ground it can only move 1" over very difficult ground.
 
-WALLS AND BARRIERS: Walls, hedges and other low
-obstacles form barriers that you can either go around or leap
-over. A model can leap over a barrier that is less than 1" high.
-This does not affect its movement in any way.
+WALLS AND BARRIERS: Walls, hedges and other low obstacles form barriers that you can either go around or leap over. A model can leap over a barrier that is less than 1" high. This does not affect its movement in any way.
 
 #### Climbing
 
-Often the ruined buildings of Mordheim do not have stairs or
-ladders, so your warriors will have to climb to reach the
-upper floors of buildings.
+Often the ruined buildings of Mordheim do not have stairs or ladders, so your warriors will have to climb to reach the upper floors of buildings.
 
-Any model (except animals!) can climb up or down fences,
-walls, etc. He must be touching what he wants to climb at the
-start of his movement phase. He may climb up to his total
-Movement in a single movement phase (but cannot run while
-he is climbing). Any remaining movement can be used as
-normal. If the height is more than the model's normal move,
-he cannot climb the wall.
+Any model (except animals!) can climb up or down fences, walls, etc. He must be touching what he wants to climb at the start of his movement phase. He may climb up to his total Movement in a single movement phase (but cannot run while he is climbing). Any remaining movement can be used as normal. If the height is more than the model's normal move, he cannot climb the wall.
 
-To climb, a model must take an Initiative test. If he fails it
-whilst climbing up, he cannot move that turn. If he fails it
-while climbing down, he falls from where he started his
-descent (see the Falling section).
+To climb, a model must take an Initiative test. If he fails it whilst climbing up, he cannot move that turn. If he fails it while climbing down, he falls from where he started his descent (see the Falling section).
 
 #### Jumping down
 
@@ -381,36 +305,17 @@ If a warrior is _knocked down_ or _stunned_ (see the Shooting section for detail
 
 #### Falling
 
-A model that falls takes D3 hits at a Strength equal to the
-height in inches that it fell (e.g., if the model fell 4", it would
-take D3 hits at Strength 4). No armor saves apply. Falling
-will not cause critical hits (see the Hand-to-Hand Combat
-section for the Critical Hits rules). A model that falls may not
-move any further or hide during that turn, even if it is not
-hurt.
+A model that falls takes D3 hits at a Strength equal to the height in inches that it fell (e.g., if the model fell 4", it would take D3 hits at Strength 4). No armor saves apply. Falling will not cause critical hits (see the Hand-to-Hand Combat section for the Critical Hits rules). A model that falls may not move any further or hide during that turn, even if it is not hurt.
 
 #### Swimming
 
-Players should establish which way the river is flowing at the
-start of the game. To represent how models interact with
-water these basic rules apply:
+Players should establish which way the river is flowing at the start of the game. To represent how models interact with water these basic rules apply:
 
-1. All rivers count as difficult (or worse) terrain for all
-    models except those considered as aquatic.
-2. Models swimming with the current will double their
-    base move.
-3. Models swimming against the current of a slow
-    moving river may only move a quarter of their base
-    move, but you may not swim against the current of a
-    fast moving river.
-4. Aquatic models suffer no reduction of their base move
-    when swimming against the current of a slow moving
-    river but may not swim against the current of a fast
-    moving river.
-5. Models wearing armor may not attempt to move
-    through any water deeper than shallow. Shields and
-    bucklers do not count for this as they are assumed to
-    be strapped on the backs.
+1. All rivers count as difficult (or worse) terrain for all models except those considered as aquatic.
+2. Models swimming with the current will double their base move.
+3. Models swimming against the current of a slow moving river may only move a quarter of their base move, but you may not swim against the current of a fast moving river.
+4. Aquatic models suffer no reduction of their base move when swimming against the current of a slow moving river but may not swim against the current of a fast moving river.
+5. Models wearing armor may not attempt to move through any water deeper than shallow. Shields and bucklers do not count for this as they are assumed to be strapped on the backs.
 
 \page
 
@@ -458,10 +363,7 @@ Assuming that your target is within range your warrior can proceed with the shot
 
 #### Hitting the target
 
-To determine whether a shot hits its target, roll a D6. The
-dice score needed will depend upon how good a shot the
-shooter is (as indicated by his Ballistic Skill). The chart
-below shows the minimum D6 roll needed to score a hit.
+To determine whether a shot hits its target, roll a D6. The dice score needed will depend upon how good a shot the shooter is (as indicated by his Ballistic Skill). The chart below shows the minimum D6 roll needed to score a hit.
 
 
 | BS of shooter | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -470,10 +372,7 @@ below shows the minimum D6 roll needed to score a hit.
 
 #### Hit modifiers
 
-It is easier to hit a target that is in the open compared to a
-target behind cover. Usually it is also easier to hit a target if it
-is close compared to one further away. These situations are
-represented by the following modifiers:
+It is easier to hit a target that is in the open compared to a target behind cover. Usually it is also easier to hit a target if it is close compared to one further away. These situations are represented by the following modifiers:
 
 \page
 
@@ -593,7 +492,7 @@ The higher a weapon's Strength, the more easily it can pierce armor. The chart b
 
 Some weapons are better at penetrating armor than their Strength value suggests (Elven bows, for example). This is covered in the entry for each particular weapon (see the Weapons & Armor section). 
 
-_Example: Dieter wears heavy armor and carries a shield. His armor save is 4+. He is hit by a crossbow (Strength 4) and therefore he will save on a D6 roll of 5+ (i.e., 4+ 1 = 5+). _
+_Example: Dieter wears heavy armor and carries a shield. His armor save is 4+. He is hit by a crossbow (Strength 4) and therefore he will save on a D6 roll of 5+ (i.e., 4+ 1 = 5+)._
 
 #### Injuries
 
@@ -783,7 +682,7 @@ If the warrior passes the test, their nerve holds. If the warrior fails, the war
 
 _Fear_ is a natural reaction to huge or unnerving creatures. A model, unless they cause Fear themselves, must take a _leadership test_, in the following situations:
 
-1. If the model is charged by a warrior or a creature which causes fear. If a warrior is charged by an enemy that he fears then he must take a test to overcome that fear. Test when the charge is declared and is determined to be within range. If the test is passed the model may fight as normal. If it is failed, the model must roll _6_s to score hits in that round of combat. 
+1. If the model is charged by a warrior or a creature which causes fear. If a warrior is charged by an enemy that he fears then he must take a test to overcome that fear. Test when the charge is declared and is determined to be within range. If the test is passed the model may fight as normal. If it is failed, the model must roll 6s to score hits in that round of combat. 
 
 2. If the model wishes to charge a fear-causing enemy. If a warrior wishes to charge an enemy that it fears then it must take a test to overcome this. If it fails, the model may not charge and must remain stationary for the turn. Treat this as a failed charge. 
 

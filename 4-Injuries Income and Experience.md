@@ -1,272 +1,191 @@
 ﻿
 ### Campaigns
 
-Warbands travel to the City of the Damned from all over the
-Old World. They come from many races and for many
-reasons but ultimately they must all face the dangers of the
-dim alleys and twisting, winding streets of Mordheim.
-Although it is great fun to fight individual battles, part of the
-challenge of Mordheim is to build your warband into a force
-to be reckoned with. A campaign gives your warband the
-chance to gain experience and new skills, as well as the
-opportunity to hire extra warriors as its fame and fortune
-increases.
+Warbands travel to the City of the Damned from all over the Old World. They come from many races and for many reasons but ultimately they must all face the dangers of the dim alleys and twisting, winding streets of Mordheim. Although it is great fun to fight individual battles, part of the challenge of Mordheim is to build your warband into a force to be reckoned with. A campaign gives your warband the chance to gain experience and new skills, as well as the opportunity to hire extra warriors as its fame and fortune increases.
 
 #### Starting a campaign
 
-To start a campaign you’ll need at least two players,
-preferably three or more. Players may have more than one
-warband, but most people prefer to run one at a time, as this
-allows them to devote more of their attention to painting,
-modelling and playing with their favourite warband.
-You can start a campaign as soon as two players have
-recruited their warbands. New players can join the campaign
-any time after that. Although the new warbands will be less
-experienced they will soon learn new skills. Fighting other,
-more powerful, warbands will allow them to develop more
-quickly.
+To start a campaign you’ll need at least two players, preferably three or more. Players may have more than one warband, but most people prefer to run one at a time, as this allows them to devote more of their attention to painting, modelling and playing with their favourite warband. You can start a campaign as soon as two players have recruited their warbands. New players can join the campaign any time after that. Although the new warbands will be less experienced they will soon learn new skills. Fighting other, more powerful, warbands will allow them to develop more quickly.
 
 #### Playing a campaign game
 
-To start the campaign, the two players select one of the
-scenarios to fight (see the Scenarios section). At
-the end of each game the players work out how much
-experience their warriors have earned and how much
-wyrdstone the warband has collected before returning to its
-encampment.
-Experience is expressed as Experience points which Heroes
-and Henchmen groups receive for surviving each game. This
-is covered later in the Experience section. When a Hero or a
-group of Henchmen has sufficient Experience points they
-receive an advance. An advance might improve a warrior’s
-characteristics profile, adding to his WS, BS, S etc, or he
-might gain a special skill such as Mighty Blow or Acrobat.
-After each game the warriors collect wyrdstone. This is
-recorded on the warband’s roster sheet, and can later be sold
-for gold, used for trading, etc. You can recruit more warriors
-or buy new weapons from traders. All this is explained in the
-Income and Trading sections, later.
+To start the campaign, the two players select one of the scenarios to fight (see the Scenarios section). At the end of each game the players work out how much experience their warriors have earned and how much wyrdstone the warband has collected before returning to its encampment.
+
+Experience is expressed as Experience points which Heroes and Henchmen groups receive for surviving each game. This is covered later in the Experience section. When a Hero or a group of Henchmen has sufficient Experience points they receive an advance. An advance might improve a warrior’s characteristics profile, adding to his WS, BS, S etc, or he might gain a special skill such as Mighty Blow or Acrobat. After each game the warriors collect wyrdstone. This is recorded on the warband’s roster sheet, and can later be sold for gold, used for trading, etc. You can recruit more warriors or buy new weapons from traders. All this is explained in the Income and Trading sections, later.
 
 
 #### Post battle sequence
 
-After the battle is over, both players work their way through
-the following sequence. You do not have to work through it
-all at once (try to do the first three parts straight after the
-battle – you may wish to consider further purchases later) but
+After the battle is over, both players work their way through the following sequence. You do not have to work through it all at once (try to do the first three parts straight after the battle – you may wish to consider further purchases later) but any dice rolls must be seen by both players or a neutral third party.
 
-any dice rolls must be seen by both players or a neutral third
-party.
-1 Injuries. Determine the extent of injuries for each warrior
-who is out of action at the end of the game. See the Serious
-Injuries, on page 118.
-2 Allocate experience. Heroes and Henchmen groups gain
-experience for surviving battles. See the Experience and
-Scenarios sections for details.
-3 Roll on the Exploration chart. See the Income section for
-details.
-4 Sell Wyrdstone. This can only be done once per post battle
-sequence.
-5 Check available veterans. Roll to see how much
-Experience worth of veterans is available for hire. You don’t
-have to commit to hiring any at this point.
-6 Make rarity rolls and buy rare items. Make rolls for any
-rare items you intend to buy and pay for them. These items
-go into the warband’s stash.
+1 Injuries. Determine the extent of injuries for each warrior who is out of action at the end of the game. See the Serious Injuries, on page 118.
+
+2 Allocate experience. Heroes and Henchmen groups gain experience for surviving battles. See the Experience and Scenarios sections for details.
+
+3 Roll on the Exploration chart. See the Income section for details.
+
+4 Sell Wyrdstone. This can only be done once per post battle sequence.
+
+5 Check available veterans. Roll to see how much Experience worth of veterans is available for hire. You don’t have to commit to hiring any at this point.
+
+6 Make rarity rolls and buy rare items. Make rolls for any rare items you intend to buy and pay for them. These items go into the warband’s stash.
+
 7 Look for Dramatis Personae. If you want to hire any.
-8 Hire new recruits & buy common items. New recruits
-come equipped with their free dagger and may be bought
-common items. This is done in any order and may be done
-several times. Note that newly hired recruits cannot buy rare
-items. They can, however, be equipped with rare items if
-there are any in the warband’s stash in stage 9.
-9 Reallocate equipment. Swap equipment between models
-as desired (provided they are eligible to use it).
-10 Update your warband rating. You are now ready to
-fight again.
+
+8 Hire new recruits & buy common items. New recruits come equipped with their free dagger and may be bought common items. This is done in any order and may be done several times. Note that newly hired recruits cannot buy rare items. They can, however, be equipped with rare items if there are any in the warband’s stash in stage 9.
+
+9 Reallocate equipment. Swap equipment between models as desired (provided they are eligible to use it).
+
+10 Update your warband rating. You are now ready to fight again.
 
 #### Death of a Warrior
 
-When a warrior is killed (Hero or Henchman) all his weapons
-and equipment are lost. This is very important, so be clear
-about it from the start. It is not possible to reallocate a
-warrior’s weapons or equipment once he is dead.
+When a warrior is killed (Hero or Henchman) all his weapons and equipment are lost. This is very important, so be clear about it from the start. It is not possible to reallocate a warrior’s weapons or equipment once he is dead.
 
 #### Death of a Leader
 
-If the leader of the warband is slain, the Hero with the next
-highest Leadership value takes command. He then gains the
-Leader ability (although he must continue to use his original
-Skill list). If there is more than one Hero eligible to assume
-command, the warrior with the most Experience points
-becomes the leader. If that is also is even the player may choose.
-In the case of Undead warbands, the death of the Vampire
-means that the warband’s Necromancer must take over. If the
-warband doesn’t include one, the spells that hold the restless
-dead together unravel, and the warband collapses into a pile
-of bones. You can buy a Vampire after the next game, at
-which point the Necromancer will step down (whether he
-wants to or not) and lose the Leader skill.
+If the leader of the warband is slain, the Hero with the next highest Leadership value takes command. He then gains the Leader ability (although he must continue to use his original Skill list). If there is more than one Hero eligible to assume command, the warrior with the most Experience points becomes the leader. If that is also is even the player may choose. In the case of Undead warbands, the death of the Vampire means that the warband’s Necromancer must take over. If the warband doesn’t include one, the spells that hold the restless dead together unravel, and the warband collapses into a pile of bones. You can buy a Vampire after the next game, at which point the Necromancer will step down (whether he wants to or not) and lose the Leader skill.
 
 
 #### Buying new equipment between games
 
-As explained in the Trading section, warriors may purchase
-new equipment and armaments using the warband’s treasury.
-Warriors can also swap equipment between themselves.
-Alternatively, old equipment can be hoarded and re-used at a
-later date.
-Weapons and armor purchased, swapped or taken from
-storage for your warband must be of an appropriate type for
-the warrior, as indicated by the warband lists. Record any
-changes to the warrior’s equipment on the roster sheet.
+As explained in the Trading section, warriors may purchase new equipment and armaments using the warband’s treasury. Warriors can also swap equipment between themselves. Alternatively, old equipment can be hoarded and re-used at a later date.
+
+Weapons and armor purchased, swapped or taken from storage for your warband must be of an appropriate type for the warrior, as indicated by the warband lists. Record any changes to the warrior’s equipment on the roster sheet.
 
 #### Serious injuries
 
-During a game some warriors will be taken out of action and
-removed from play. At that time it doesn’t matter whether the
-warrior is dead, unconscious, injured or just playing dead – in
-game terms he is no longer capable of fighting in the battle
-which is all that matters.
-When you are playing a campaign it matters a great deal what
-happens to warriors who are taken out of action! They might
-recover completely and be ready to fight in the next battle, or
-they might have sustained injuries. Worst of all they might
-die, or be so badly injured that they have to retire.
-When a Henchman receives a serious injury this is treated
-differently than if a Hero received one (this is to represent the
-greater effect that losing a Hero would have on your
-warband). Working out the extent of a Henchman’s injuries is
-very simple. You will need to roll on the chart opposite to
-determine what has happened to your Hero. The chart covers
-a whole range of injuries and random things that might befall
-your warrior. Bear in mind that only Heroes who are taken
-out of action are obliged to roll on this chart.
+During a game some warriors will be taken out of action and removed from play. At that time it doesn’t matter whether the warrior is dead, unconscious, injured or just playing dead – in game terms he is no longer capable of fighting in the battle which is all that matters.
+
+When you are playing a campaign it matters a great deal what happens to warriors who are taken out of action! They might recover completely and be ready to fight in the next battle, or they might have sustained injuries. Worst of all they might die, or be so badly injured that they have to retire.
+
+When a Henchman receives a serious injury this is treated differently than if a Hero received one (this is to represent the greater effect that losing a Hero would have on your warband). Working out the extent of a Henchman’s injuries is very simple. You will need to roll on the chart opposite to determine what has happened to your Hero. The chart covers a whole range of injuries and random things that might befall your warrior. Bear in mind that only Heroes who are taken out of action are obliged to roll on this chart.
 
 ##### Henchman with Serious Injuries
 
-Henchmen who are out of action at the end of the battle are
-removed permanently from the roster sheet on a D6 roll of 1-
-2. They have either suffered severe injuries, died of their
-wounds, or decided to quit the warband. On a roll of 3-6 they
-can fight in the next battle as normal.
+Henchmen who are out of action at the end of the battle are removed permanently from the roster sheet on a D6 roll of 1- 2. They have either suffered severe injuries, died of their wounds, or decided to quit the warband. On a roll of 3-6 they can fight in the next battle as normal.
 
 ##### Heroes with Serious Injuries
 
-After a battle some of your Heroes may be taken out of
-action. You will need to determine the extent of their injuries
-before the next game.
-To use the Heroes’ Serious Injuries chart opposite, roll two
-D6. The first dice roll represents ‘tens’ and the second
-‘units’, so that a roll of 1 and 5 is 15, a roll of 3 and 6 is 36,
-etc. This type of dice roll is referred to as a ‘D66 roll’.
+After a battle some of your Heroes may be taken out of action. You will need to determine the extent of their injuries before the next game.
+
+To use the Heroes’ Serious Injuries chart opposite, roll two D6. The first dice roll represents ‘tens’ and the second ‘units’, so that a roll of 1 and 5 is 15, a roll of 3 and 6 is 36, etc. This type of dice roll is referred to as a ‘D66 roll’.
 
 
 #### Heroes’ serious injuries chart (roll D66)
 
-11-15 DEAD
+##### 11-15 DEAD
+
 The warrior is dead and his body is abandoned in the dark
 alleys of Mordheim, never to be found again. All the
 weapons and equipment he carried are lost. Remove him
 from the warband’s roster.
-16-21 MULTIPLE INJURIES
+
+##### 16-21 MULTIPLE INJURIES
+
+
 The warrior is not dead but has suffered a lot of wounds. Roll
 D6 times on this table. Re-roll any ‘Dead’, ‘Captured’ and
 further ‘Multiple Injuries’ results.
-22 LEG WOUND
+
+##### 22 LEG WOUND
+
+
 The warrior’s leg is broken. He suffers a -1 Movement
 characteristic penalty from now on.
 
-23 ARM WOUND
+##### 23 ARM WOUND
 
 Roll again: 
 - 1 = Severe arm wound. The arm must be amputated. The warrior may only use a single one handed weapon from now on. 
 - 2-6 = Light wound. The warrior must miss the next game. 
 
-24 MADNESS
+##### 24 MADNESS
+
 the warrior suffers from Paranoia. Paranoia behaves exactly like Psychology section for details). Animosity from the Forest Goblins Warband section, except that on the result of a 1 on the Animosity table the character will attack the nearest ally regardless of whether they are a Hero or Henchman, and regardless of whether they also have Animosity/Paranoia. This effect stacks with Animosity.
 
-25 SMASHED LEG
+##### 25 SMASHED LEG
+
 Roll again: 1 = The warrior may not run any more but he may
 still charge. 2-6 = The warrior misses the next game.
-26 CHEST WOUND
+
+##### 26 CHEST WOUND
+
 The warrior has been badly wounded in the chest. He
 recovers but is weakened by the injury so his Toughness is
 reduced by -1.
-31 BLINDED IN ONE EYE
+
+##### 31 BLINDED IN ONE EYE
+
 The warrior survives but loses the sight in one eye; randomly
 determine which. A character that loses an eye has his
 Ballistic Skill reduced by -1. If the warrior is subsequently
 blinded in his remaining good eye he must retire from the
 warband.
-32 OLD BATTLE WOUND
+
+##### 32 OLD BATTLE WOUND
+
 The warrior survives, but his wound will prevent him from
 fighting if you roll a 1 on a D6 at the start of any battle. Roll
 at the start of each battle from now on.
-33 NERVOUS CONDITION
+
+##### 33 NERVOUS CONDITION
+
 The warrior’s nervous system has been damaged. His
 Initiative is permanently reduced by -1.
-34 HAND INJURY
+
+##### 34 HAND INJURY
+
 The warrior’s hand is badly injured. His Weapon Skill is
 permanently reduced by -1.
-35 DEEP WOUND
+
+##### 35 DEEP WOUND
+
 The warrior has suffered a serious wound and must miss the
 next D3 games while he is recovering. He may do nothing at
 all while recovering.
-36 ROBBED
+
+##### 36 ROBBED
+
 The warrior manages to escape, but all his weapons, armor
 and equipment are lost.
 
-41-55 FULL RECOVERY
+##### 41-55 FULL RECOVERY
+
 The warrior has been knocked unconscious, or suffers a light
 wound from which he makes a full recovery.
-56 BITTER ENMITY
-The warrior makes a full physical recovery, but is
-psychologically scarred by his experience. From now on the
-warrior hates the following (roll a D6):
+
+##### 56 BITTER ENMITY
+
+The warrior makes a full physical recovery, but is psychologically scarred by his experience. From now on the warrior hates the following (roll a D6):
+
 D6 Result
-1-3 The individual who caused the injury. If it was a Henchman,
+
++ 1-3 The individual who caused the injury. If it was a Henchman,
 he hates the enemy leader instead.
-4 The leader of the warband that caused the injury.
-5 The entire warband of the warrior responsible for the injury.
-6 All warbands of that type.
-61 CAPTURED
-The warrior regains consciousness and finds themself held
-captive by the warband that won the scenario. If their own
-warband won or if there was no winner then the warband that put
-them out of action captures them. If none of the above apply then
-re-roll this result. The capturing player may ransom the captive
-hero back to their owner's warband at a price of their choosing, 
-though the owning player cannot refuse a ransom of less than 20gc.
-If no ransom occurs the owning player may force the next scenario
-to be The Rescue as they attempt to retrieve their comrade.
-Captives may be sold to slavers at a price of D6x5 GC.
-Undead may kill their captive and gain a new Zombie.
-The Possessed may sacrifice the prisoner. The leader of the
-warband will gain +D3 Experience if they do so.
-Captives who are exchanged or ransomed retain all their
-weapons, armor and equipment. If the ransom is not met and the
-captive is sold to slavers/sacrificed etc then the capturing player
-may keep their equipment.
-62-63 HARDENED
-The warrior survives and becomes inured to the horrors of
-Mordheim. From now on he is immune to fear.
-64 HORRIBLE SCARS
-The warrior causes fear from now on.
-65 SOLD TO THE PITS
-The warrior wakes up in the infamous fighting pits of
-Cutthroat’s Haven and must fight against a Pit Fighter. See
-the Hired Swords section for full rules for Pit Fighters.
-Roll to see which side charges, and fight the battle as normal.
-If the warrior loses, roll to see whether he is dead or injured
-(i.e., a D66 roll of 11-35). If he is not dead, he is thrown out
-of the fighting pits without his armor and weapons and may
-re-join his warband.
-If the warrior wins he gains 50 GC, +2 Experience and is free
-to rejoin his warband with all his weapons and equipment.
-66 SURVIVES AGAINST THE ODDS
-The warrior survives and rejoins his warband. He gains +1
-Experience.
++ 4 The leader of the warband that caused the injury.
++ 5 The entire warband of the warrior responsible for the injury.
++ 6 All warbands of that type.
+
+##### 61 CAPTURED
+
+T he warrior regains consciousness and finds themself held captive by the warband that won the scenario. If their own warband won or if there was no winner then the warband that put them out of action captures them. If none of the above apply then re-roll this result. The capturing player may ransom the captive hero back to their owner's warband at a price of their choosing, though the owning player cannot refuse a ransom of less than 20gc. If no ransom occurs the owning player may force the next scenario to be The Rescue as they attempt to retrieve their comrade. Captives may be sold to slavers at a price of D6x5 GC. Undead may kill their captive and gain a new Zombie. The Possessed may sacrifice the prisoner. The leader of the warband will gain +D3 Experience if they do so. Captives who are exchanged or ransomed retain all their weapons, armor and equipment. If the ransom is not met and the captive is sold to slavers/sacrificed etc then the capturing player may keep their equipment. 
+
+##### 62-63 HARDENED
+
+The warrior survives and becomes numb to the horrors of Mordheim. From now on he is __immune to fear__.
+
+##### 64 HORRIBLE SCARS
+
+The warrior causes __fear__ from now on.
+
+##### 65 SOLD TO THE PITS
+
+The warrior wakes up in the infamous fighting pits of Cutthroat’s Haven and must fight against a Pit Fighter. See the Hired Swords section for full rules for Pit Fighters. Roll to see which side charges, and fight the battle as normal. If the warrior loses, roll to see whether he is dead or injured (i.e., a D66 roll of 11-35). If he is not dead, he is thrown out of the fighting pits without his armor and weapons and may re-join his warband. If the warrior wins he gains 50 GC, +2 Experience and is free to rejoin his warband with all his weapons and equipment.
+
+##### 66 SURVIVES AGAINST THE ODDS
+
+The warrior survives and rejoins his warband. He gains +1 Experience.
 
 
 ### Experience
@@ -494,7 +413,6 @@ SIX OF KIND
 555555 Fighting Arena
 666666 Noble’s Villa
 
-
 ##### Doubles
 
 (11) Well
@@ -568,7 +486,6 @@ the jewelled sword will sell for 10 GC, for instance.
 The street consists of ruined hovels, which are leaning over
 at alarming angles. Not much worth looting here.
 You find loot worth D6 GC amidst the ruins.
-
 
 ##### Triples
 
@@ -649,7 +566,6 @@ As you are returning to your encampment, you meet one of
 your old acquaintances. He has come to repay an old favour
 or debt.
 You gain the services of a single character from your Warhammer book worth up to 75pts. They may not use any magic items. They will join your warband for the next game only before leaving. They will not contribute to your exploration dice, but do not require upkeep either - they are completely free.
-
 
 ##### Four of a kind
 
@@ -735,7 +651,6 @@ This represents the warriors making their way through the
 tunnels, infiltrating enemy lines and emerging suddenly from
 below ground.
 
-
 ##### Five of a kind
 
 (11111) Moneylender’s House
@@ -805,13 +720,13 @@ You find a well-hidden entrance to the dark catacombs which
 extend for miles beneath the city of Mordheim. Although the
 entrance looks foreboding the tunnels will take hours off your
 searches of the city.
+
 You can use these tunnels to explore Mordheim more
 efficiently. From now on, you may re-roll one dice when you
 roll on the Exploration chart. Make a note of this in your
 warband’s roster sheet. Second and subsequent catacomb
 entrances you find do not grant you any additional re-rolls,
 although you may find further re-rolls from other sources.
-
 
 ##### Six of a kind
 

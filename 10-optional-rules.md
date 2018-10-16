@@ -93,20 +93,11 @@ Reality itself seems to twist, warping perceptions until no one can be sure of w
 
 #### 26. Spawn
 
-The warbands have stumbled upon one of the many former
-inhabitants of the city that got too close to the crater at the centre of
-the city and was turned into a mindless spawn. The Spawn uses the same
-statline as a generic Chaos Spawn.
+The warbands have stumbled upon one of the many former inhabitants of the city that got too close to the crater at the centre of the city and was turned into a mindless spawn. The Spawn uses the same statline as a generic Chaos Spawn. 
 
 #### 31. Collapsing Building
 
-Pick one building at random. Any models inside must pass an
-Initiative test or suffer a S5 hit, armor saves applying as normal, as
-the building collapses. Remove the building from the table
-(replacing with ruins if possible), and place the models back on the
-table where it stood. Any models climbing the sides of a building or
-on the roof when it collapses automatically fall from whatever
-height they were at.
+Pick one building at random. Any models inside must pass an Initiative test or suffer a S5 hit, armor saves applying as normal, as the building collapses. Remove the building from the table (replacing with ruins if possible), and place the models back on the table where it stood. Any models climbing the sides of a building or on the roof when it collapses automatically fall from whatever height they were at. 
 
 #### 32. Scrawling on a Wall
 
@@ -160,15 +151,7 @@ D6 Result
 
 3 Wyrdstone dust has mixed with the water vapour in the area and produced the strange looking clouds from which a tainted rain begins to fall. The rain burns flesh and eats into stone and metal. Each warband member in the open takes a single S2 hit (normal armor saves apply) every turn the rain lasts until he gets under cover. The rain lasts D3 turns.
 
-4 A magical mass of lightning forms near the ground, illuminating the area with an eerie greenish glow. It begins to move about the area, drawn to magical powers from which it feeds. Place a counter as per the normal Encounter rules to represent the mass and each turn move it 2D6" towards the highest level spell user (the one with the most spells – each turn roll a D6 if two or more spell users have the highest number of spells). If there are no magic users in the game, the mass will move towards the opposite table edge, doing nothing but blocking line of sight as it moves. If the model the mass is moving towards casts a spell, immediately move the counter another D6" towards the model. If the ball of lightning touches the target model, the model is frozen in time and cannot do anything. While frozen, the model cannot be attacked or harmed in any way 
-- the lightning mass protects its prey! After freezing a
-model, the lightning will no longer move but will instead
-remain near its victim to feed. The lightning will feed for D3
-turns on the magical energy of its victim and then flies back
-towards the warp clouds above, freeing the magic user. If
-the game ends before the feeding is done, the victim is
-immediately released. Victims suffer no long-term ill effects
-from their exposure to the lightning.
+4 A magical mass of lightning forms near the ground, illuminating the area with an eerie greenish glow. It begins to move about the area, drawn to magical powers from which it feeds. Place a counter as per the normal Encounter rules to represent the mass and each turn move it 2D6" towards the highest level spell user (the one with the most spells – each turn roll a D6 if two or more spell users have the highest number of spells). If there are no magic users in the game, the mass will move towards the opposite table edge, doing nothing but blocking line of sight as it moves. If the model the mass is moving towards casts a spell, immediately move the counter another D6" towards the model. If the ball of lightning touches the target model, the model is frozen in time and cannot do anything. While frozen, the model cannot be attacked or harmed in any way - the lightning mass protects its prey! After freezing a model, the lightning will no longer move but will instead remain near its victim to feed. The lightning will feed for D3 turns on the magical energy of its victim and then flies back towards the warp clouds above, freeing the magic user. If the game ends before the feeding is done, the victim is immediately released. Victims suffer no long-term ill effects from their exposure to the lightning. 
 
 5 A rumbling is heard from overhead, as thunder erupts from the strange clouds. The thunderclaps become more intense and the heavy pulses of air brings warriors to their knees as if they had been hit by cannonballs of solid air. D6 randomly selected models are knocked down by the air bursts. If any of these models are in close combat, all other members of that melee are knocked down as well. 
 
@@ -245,48 +228,20 @@ One warrior on the ground selected at random from the Encountering Player’s wa
 
 D6 Result
 
-1 The water reflects back nightmare images of his own
-demise, filling him with fear for his own safety. For the rest
-of the game, no matter how far away he is from friendly
-models, he will always count as being all alone in close
-combat.
+1 The water reflects back nightmare images of his own demise, filling him with fear for his own safety. For the rest of the game, no matter how far away he is from friendly models, he will always count as being all alone in close combat.
 
-2 The warrior glimpses an image of what is yet to come. For
-the rest of the current turn he may re-roll (once!) any
-shooting or close combat rolls to hit.
+2 The warrior glimpses an image of what is yet to come. For the rest of the current turn he may re-roll (once!) any
+shooting or close combat rolls to hit. 
 
-3 A faint image of his personal god appears, be it Sigmar or
-even the dread Shadowlord. Filled with courage, the warrior
-may ignore any and all Leadership-based tests he is required
-to make for the rest of the game.
+3 A faint image of his personal god appears, be it Sigmar or even the dread Shadowlord. Filled with courage, the warrior may ignore any and all Leadership-based tests he is required to make for the rest of the game.
 
-4 The warrior peers into the depths of his own mind,
-unlocking untapped abilities. He can detect any enemy
-models hidden that turn, even those not in his normal line of
-sight, and passes the information on to the rest of his
-compatriots. All enemy models lose their hidden status.
+4 The warrior peers into the depths of his own mind, unlocking untapped abilities. He can detect any enemy models hidden that turn, even those not in his normal line of sight, and passes the information on to the rest of his compatriots. All enemy models lose their hidden status.
 
-5 A slender arm reaches out from the pool, leaving no ripples
-in the smooth liquid, and pale fingers touch the warrior’s
-chest. The soft caress causes a faint glow, which spreads
-throughout his body. Though it quickly dims away, a strong
-feeling of strength and vitality is left behind. The warrior
-may ignore the next wounding hit he receives, even if it is a
-critical hit.
+5 A slender arm reaches out from the pool, leaving no ripples in the smooth liquid, and pale fingers touch the warrior’s chest. The soft caress causes a faint glow, which spreads throughout his body. Though it quickly dims away, a strong feeling of strength and vitality is left behind. The warrior may ignore the next wounding hit he receives, even if it is a critical hit.
 
-6 The city chooses to reveal its true visage to the warrior,
-unveiling the monstrous intelligence that lurks behind the
-facade of simple ruins and rubble. The warrior’s mind is
-overwhelmed by the enormity of the impression and he
-stumbles away in stark terror. For the rest of the game, all
-enemy models count as causing fear to the warrior and he
-will refuse to enter any buildings or get within 2" of any
-walls or ruins. After the game the effects will wear off,
-though he will always hesitate slightly before entering an
-unlit room from now on...
+6 The city chooses to reveal its true visage to the warrior, unveiling the monstrous intelligence that lurks behind the facade of simple ruins and rubble. The warrior’s mind is overwhelmed by the enormity of the impression and he stumbles away in stark terror. For the rest of the game, all enemy models count as causing fear to the warrior and he will refuse to enter any buildings or get within 2" of any walls or ruins. After the game the effects will wear off, though he will always hesitate slightly before entering an unlit room from now on...
 
-Note: Only warriors who can gain experience will choose to look
-into the pool, all others simply lack the curiosity to bother!
+Note: Only warriors who can gain experience will choose to look into the pool, all others simply lack the curiosity to bother!
 
 #### 64. Screaming Walls
 
@@ -327,383 +282,171 @@ The tales of magical healings are mixed with many of mutation and death brought 
 
 ##### Evaluating Stones
 
-Instead of selling or storing all of a warband's wyrdstone
-shards, a player may choose to have one or more of their
-stones evaluated by an alchemist for useful magical
-properties. This is done during the trading phase of the post-
-battle sequence. Instead of searching for a rare item, a hero
-may take one shard of the warband’s wyrdstone to an alchemist.
-Numerous alchemists have flocked to Mordheim to study the stones,
-and they ply their trade from tents and wagons in the
-encampments around the city. Alchemists are known for their
-greed, however, and they do not provide their services for 
-free; for each stone evaluated, the warband must pay 20 gold 
-crowns and remove the stone from their stockpile as it is consumed
-in the process. When the stone is evaluated, roll 2D6 on the chart
-opposite:
+Instead of selling or storing all of a warband's wyrdstone shards, a player may choose to have one or more of their stones evaluated by an alchemist for useful magical properties. This is done during the trading phase of the post- battle sequence. Instead of searching for a rare item, a hero may take one shard of the warband’s wyrdstone to an alchemist. Numerous alchemists have flocked to Mordheim to study the stones, and they ply their trade from tents and wagons in the encampments around the city. Alchemists are known for their greed, however, and they do not provide their services for  free; for each stone evaluated, the warband must pay 20 gold  crowns and remove the stone from their stockpile as it is consumed in the process. When the stone is evaluated, roll 2D6 on the chart opposite: 
 
-2 Spell Stone. Any model who carries this stone into battle
-may cast one randomly determined spell for the duration of
-the battle, using the normal rules for spell casting. The spell
-should be determined at random from the Lesser Magic spell
-list, and a different spell should be generated before each
-game in which the stone is used. This means the stone will
-be more useful in certain battles than others, depending on
-which spell it happens to provide for that game.
-3 Stone of Regeneration. Any model who caries this stone
-into battle will regenerate lost wounds at a rate of one
-Wound regained each recovery phase. A model carrying this
-stone treats all stunned results it suffers on the Injury Chart
-as knocked down.
-4 Stone of Might. A model who carries this stone into battle
-will have one characteristic increased for the duration of the
-battle. Roll a D6 to see which characteristic is affected
-before each battle:
+2 Spell Stone. Any model who carries this stone into battle may cast one randomly determined spell for the duration of the battle, using the normal rules for spell casting. The spell should be determined at random from the Lesser Magic spell list, and a different spell should be generated before each game in which the stone is used. This means the stone will be more useful in certain battles than others, depending on which spell it happens to provide for that game.
+
+3 Stone of Regeneration. Any model who caries this stone into battle will regenerate lost wounds at a rate of one Wound regained each recovery phase. A model carrying this stone treats all stunned results it suffers on the Injury Chart as knocked down.
+
+4 Stone of Might. A model who carries this stone into battle will have one characteristic increased for the duration of the battle. Roll a D6 to see which characteristic is affected before each battle:
+
 1 +1 Initiative 2 +1 Movement
+
 3 +1 Strength 4 +l Toughness
+
 5 +1 Attacks 6 +1 Wounds
-Note that this temporary boost may take a characteristic
-above normal racial maximums.
-5 Stone of Warding. A model who carries this stone will not
-be affected by hostile magic spells on a D6 roll of 4+.
+
+Note that this temporary boost may take a characteristic above normal racial maximums.
+
+5 Stone of Warding. A model who carries this stone will not be affected by hostile magic spells on a D6 roll of 4+.
+
 6-8 No beneficial powers.
-9 Stone of Luck. A model who carries this stone may re-roll
-any dice roll he makes once per game. The second roll must
-be taken. This power may not be combined with other 'luck
-enhancements' like the spell Luck of Shemtek to yield re-
-rolls on top of re-rolls, though it may be used to give a
-model affected by these enhancements one additional re-roll
-during the battle as normal.
-10 Stone of Skill. A model who carries this stone into battle
-will have one characteristic increased for the duration of the
-battle. Roll a D6 to see which characteristic is affected
-before each battle:
-1-2+1 Weapon Skill 3-4+1 Ballistic Skill 5-6+1 Leadership
-Note that this temporary boost may take a characteristic
-above normal racial maximums.
-11 Stone of Healing. A model who carries this stone may heal
-one model within 2" of him (including himself) during each
-recovery phase. The warrior regains one lost Wound. Note
-that this healing is only beneficial to models who have more
-than one Wound on their profile.
-12 Stone of Protection. A model who carries this stone has
-their armor save improved by one point (i.e. a 5+ save
-becomes a 4+ save). Note that no model may ever have a
-save better than 1+. If the model has no armor, the stone
-gives him a 6+ armor save.
+
+9 Stone of Luck. A model who carries this stone may re-roll any dice roll he makes once per game. The second roll must be taken. This power may not be combined with other 'luck enhancements' like the spell Luck of Shemtek to yield re- rolls on top of re-rolls, though it may be used to give a model affected by these enhancements one additional re-roll during the battle as normal.
+
+10 Stone of Skill. A model who carries this stone into battle will have one characteristic increased for the duration of the battle. Roll a D6 to see which characteristic is affected before each battle:
+
+1-2+1 Weapon Skill 
+3-4+1 Ballistic Skill 
+5-6+1 Leadership
+
+Note that this temporary boost may take a characteristic above normal racial maximums.
+
+11 Stone of Healing. A model who carries this stone may heal one model within 2" of him (including himself) during each recovery phase. The warrior regains one lost Wound. Note that this healing is only beneficial to models who have more than one Wound on their profile.
+
+12 Stone of Protection. A model who carries this stone has their armor save improved by one point (i.e. a 5+ save becomes a 4+ save). Note that no model may ever have a save better than 1+. If the model has no armor, the stone gives him a 6+ armor save.
 
 ###### Using Stones
 
-Stones may only be used by heroes, just like other equipment.
-No hero may ever carry more than one stone at a time (the
-combined Chaotic magic would instantly turn them into
-Chaos Spawn). Using a wyrdstone’s power is always a
-dangerous undertaking and to represent this, after every
-battle, each hero who carried a stone must make a check to
-see if they have been adversely affected by their usage of the
-stone’s power. Make the check by rolling 2D6 for each hero:
-a roll of 2, 3, 11 or 12 indicates that they have been affected.
-Skaven, having a natural tolerance for warpstone, are only
-affected on the roll of 2 or 12. Roll a D6 on the following
-chart over the page to see what has happened to affected
-models.
-1 Spawn! The model has succumbed to the raw mutating
-force of Chaos, and becomes a terrible Chaos Spawn. See
-'Becoming a Chaos Spawn' below.
-2 Weakened. The model has lost some of its life force to the
-stone. One of the model's characteristics is permanently
-reduced by one. Roll 2D6 to see which characteristic suffers:
-2 Movement 3 Weapon Skill
-4 Ballistic Skill 5-6 Strength
-7-8 Toughness 9-10 Initiative
-11-12 Leadership
-If any characteristic is reduced to 0 as a result of the
-weakening, the model becomes a Chaos Spawn. See
-'Becoming a Chaos Spawn' below.
-3-4 Sickened. Exposure to the stone's magic has made the
-warrior physically ill. He must miss the next battle while he
-recovers.
-5-6 Mutation! The corrupting power of Chaos has caused the
-model to gain a mutation. Roll on the Random Mutation
-Table (see below).
+Stones may only be used by heroes, just like other equipment. No hero may ever carry more than one stone at a time (the combined Chaotic magic would instantly turn them into Chaos Spawn). Using a wyrdstone’s power is always a dangerous undertaking and to represent this, after every battle, each hero who carried a stone must make a check to see if they have been adversely affected by their usage of the stone’s power. Make the check by rolling 2D6 for each hero: a roll of 2, 3, 11 or 12 indicates that they have been affected. Skaven, having a natural tolerance for warpstone, are only affected on the roll of 2 or 12. Roll a D6 on the following chart over the page to see what has happened to affected models.
+
+1 Spawn! The model has succumbed to the raw mutating force of Chaos, and becomes a terrible Chaos Spawn. See 'Becoming a Chaos Spawn' below.
+
+2 Weakened. The model has lost some of its life force to the stone. One of the model's characteristics is permanently reduced by one. Roll 2D6 to see which characteristic suffers:
+
++ 2 Movement 
++ 3 Weapon Skill
++ 4 Ballistic Skill 
++ 5-6 Strength
++ 7-8 Toughness
++ 9-10 Initiative
++ 11-12 Leadership
+
+If any characteristic is reduced to 0 as a result of the weakening, the model becomes a Chaos Spawn. See 'Becoming a Chaos Spawn' below.
+
+3-4 Sickened. Exposure to the stone's magic has made the warrior physically ill. He must miss the next battle while he recovers.
+
+5-6 Mutation! The corrupting power of Chaos has caused the model to gain a mutation. Roll on the Random Mutation Table (see below).
 
 ###### Becoming a Chaos Spawn
 
-Chaos Spawn are the wretched remains of one who has tasted
-the power of Chaos and proved unable to withstand its
-mutating touch. Wracked with waves of mutation and
-change, a warrior is reduced to a monstrous beast of fangs,
-tentacles, eyeballs, and other horrific growths. Their mind is
-forever shattered, and they become a gibbering and mindless
-servant of Chaos. Typically, when a being meets this fate, his
-former comrades will put him out of his misery with a swift
-death... unless that seems like too dangerous a task to
-attempt, in which case they will simply herd the beast away
-down one of Mordheim’s winding alleys or into the sewers.
-There are, however, some who have a desire for and affinity
-with Chaos Spawn that allows them to keep their mutated
-friend among their ranks as a weapon and pet to use against
-their enemies.
+Chaos Spawn are the wretched remains of one who has tasted the power of Chaos and proved unable to withstand its mutating touch. Wracked with waves of mutation and change, a warrior is reduced to a monstrous beast of fangs, tentacles, eyeballs, and other horrific growths. Their mind is forever shattered, and they become a gibbering and mindless servant of Chaos. Typically, when a being meets this fate, his former comrades will put him out of his misery with a swift death... unless that seems like too dangerous a task to attempt, in which case they will simply herd the beast away down one of Mordheim’s winding alleys or into the sewers. There are, however, some who have a desire for and affinity with Chaos Spawn that allows them to keep their mutated friend among their ranks as a weapon and pet to use against their enemies.
 
-If one of your heroes becomes a Chaos Spawn he is
-considered to be lost to the warband, unless your warband is
-from the Cult of the Possessed or Skaven. Followers of
-Chaos have a sort of semi-reverence for these mindless
-beasts, and the Skaven have long been adept at training and
-using the products of wyrdstone-induced mutation.
-When the hero ‘Spawns’, any armor they were wearing is
-lost in the storm of violent mutation that overtakes the
-unfortunate warrior. Weapons and equipment are abandoned
-by the creature, however, and may be reclaimed by the
-warband. The hero is removed from your roster, and you gain
-a Chaos Spawn henchmen. They may never gain experience.
+If one of your heroes becomes a Chaos Spawn he is considered to be lost to the warband, unless your warband is from the Cult of the Possessed or Skaven. Followers of Chaos have a sort of semi-reverence for these mindless beasts, and the Skaven have long been adept at training and using the products of wyrdstone-induced mutation. When the hero ‘Spawns’, any armor they were wearing is lost in the storm of violent mutation that overtakes the unfortunate warrior. Weapons and equipment are abandoned by the creature, however, and may be reclaimed by the warband. The hero is removed from your roster, and you gain a Chaos Spawn henchmen. They may never gain experience.
 
-The Spawn will not gain any experience points from future
-battles; it is far too mindless to learn from its actions.
-The Spawn should be represented by an appropriate model.
-While this could be one of the Chaos Spawn models from the
-Warhammer line, it's probably more satisfying and fun to
-make your own. Spawn are the ultimate you-can-do-no-
-wrong conversion project, where you can throw together all
-sorts of stray bits to make a really unique model.
+The Spawn will not gain any experience points from future battles; it is far too mindless to learn from its actions. The Spawn should be represented by an appropriate model. While this could be one of the Chaos Spawn models from the Warhammer line, it's probably more satisfying and fun to make your own. Spawn are the ultimate you-can-do-no- wrong conversion project, where you can throw together all sorts of stray bits to make a really unique model.
 
 ###### Random Mutation Table
 
-Mordheim is a city under the sway of Chaos, and with Chaos
-comes mutation and change. There are numerous ways by
-which a warrior can be afflicted with mutation, and there are
-some who actually seek out mutation as a 'reward’ of the
-Chaos Powers. While mutations are not always harmful, and
-indeed can often be helpful, they are a mark of Chaos, and as
-such those who bear them are feared, shunned and persecuted
-throughout the Empire.
-The following is a table used to generate the colourful,
-exotic, and sometimes debilitating mutations that will be
-visited upon certain warriors at certain times (i.e. as a result
-of exposure to Wyrdstone, for example). The table may also
-prove useful to Game Masters who want to quickly generate
-some interesting mutants for a special scenario. The table
-uses a D66 roll, just like the Heroes Serious Injuries table in
-the rulebook. If the mutant rolls a mutation that it already
-possesses, re-roll it until a new mutation is generated.
-Note: The great danger of mutation is that it will ultimately
-overwhelm the victim with the corrupting power of Chaos,
-reducing them to a monstrous and mindless Chaos Spawn. To
-represent this danger, if a warrior ever has a characteristic
-reduced to zero as the result of a mutation, they immediately
-degenerate into a loathsome Chaos Spawn (see the full rules
-for Chaos Spawn above).
+Mordheim is a city under the sway of Chaos, and with Chaos comes mutation and change. There are numerous ways by which a warrior can be afflicted with mutation, and there are some who actually seek out mutation as a 'reward’ of the Chaos Powers. While mutations are not always harmful, and indeed can often be helpful, they are a mark of Chaos, and as such those who bear them are feared, shunned and persecuted throughout the Empire.
 
-Warbands that are not at least somewhat Chaotic lack the open-
-mindedness to tolerate the more visible mutations. Warriors
-from these warbands that acquire a mutation marked with a *
-will be immediately removed from the roster.
+The following is a table used to generate the colourful, exotic, and sometimes debilitating mutations that will be visited upon certain warriors at certain times (i.e. as a result of exposure to Wyrdstone, for example). The table may also prove useful to Game Masters who want to quickly generate some interesting mutants for a special scenario. The table uses a D66 roll, just like the Heroes Serious Injuries table in the rulebook. If the mutant rolls a mutation that it already possesses, re-roll it until a new mutation is generated. Note: The great danger of mutation is that it will ultimately overwhelm the victim with the corrupting power of Chaos, reducing them to a monstrous and mindless Chaos Spawn. To represent this danger, if a warrior ever has a characteristic reduced to zero as the result of a mutation, they immediately degenerate into a loathsome Chaos Spawn (see the full rules for Chaos Spawn above).
 
-Random Mutation Table
+Warbands that are not at least somewhat Chaotic lack the open- mindedness to tolerate the more visible mutations. Warriors from these warbands that acquire a mutation marked with a * will be immediately removed from the roster.
+
+#### Random Mutation Table
+
 Roll a D66
 
-11 Acid Spray*: The mutant can spit acid at its foes. The acid spray
-uses the mutant’s Ballistic Skill to hit, just as if the mutant were
-firing a missile weapon. The spray has a range of 8", and a Strength
-of 4. The mutant does not suffer any penalty for spraying a target at
-long range, nor does the mutant suffer any penalty for moving and
-spraying in the same turn.
+11 Acid Spray: The mutant can spit acid at its foes. The acid spray uses the mutant’s Ballistic Skill to hit, just as if the mutant were firing a missile weapon. The spray has a range of 8", and a Strength of 4. The mutant does not suffer any penalty for spraying a target at long range, nor does the mutant suffer any penalty for moving and spraying in the same turn.
 
-12 Atrophy: A part of the mutant’s body has become shrivelled and
-atrophied. Roll a D6:
-1 Head - The mutant is now subject to stupidity.
-2-4 Arm - The mutant loses the usage of one arm. The
+12 Atrophy: A part of the mutant’s body has become shrivelled and atrophied. Roll a D6:
+
++ 1 Head - The mutant is now subject to stupidity.
++ 2-4 Arm - The mutant loses the usage of one arm. The
 mutant may only use a single one-handed weapon from
 now on. If all arms are lost the mutant's maximum Weapon Skill is 
 reduced to 0.
-5-6 Leg - The mutant loses the usage of one leg. Divide the
++ 5-6 Leg - The mutant loses the usage of one leg. Divide the
 mutant's Movement in half, rounding up. If both legs are
 lost, the mutant must be retired from the warband.
 
-13 Beaked*: The mutant has a beak like that of a bird or octopus,
-though its other facial features remain unchanged. Unless the mutant
-already possesses a bite attack, the mutant may make an additional
-attack in each hand-to-hand combat phase due to its vicious bite.
+13 Beaked: The mutant has a beak like that of a bird or octopus, though its other facial features remain unchanged. Unless the mutant already possesses a bite attack, the mutant may make an additional attack in each hand-to-hand combat phase due to its vicious bite.
 
-14 Beweaponed Extremities*: The mutant’s hands are turned into
-weapons! The mutant may no longer use other weapons or
-equipment that would require the usage of hands.
-On the plus side, it no longer has to worry about being caught
-without a weapon! The mutant will gain the normal extra attack in
-hand-to-hand for using an additional hand weapon, and the weapon
-extremities follow the normal rules for weapons of their type (i.e.
-sword extremities may be used to parry).
+14 Beweaponed Extremities: The mutant’s hands are turned into weapons! The mutant may no longer use other weapons or equipment that would require the usage of hands. On the plus side, it no longer has to worry about being caught without a weapon! The mutant will gain the normal extra attack in hand-to-hand for using an additional hand weapon, and the weapon extremities follow the normal rules for weapons of their type (i.e. sword extremities may be used to parry).
+
 Roll a D6 for each arm to see what it becomes:
-1-2 sword, 3-4 mace, 5-6 axe.
-If the mutant grows two sword extremities, it may re-roll failed
-parries just as if it had a sword and a buckler.
++ 1-2 sword
++ 3-4 mace
++ 5-6 axe.
 
-15 Blackblood: If the model loses a wound in close combat, anyone
-in base contact with the model suffers a Strength 3 hit 
-from the spurting corrosive blood.
+If the mutant grows two sword extremities, it may re-roll failed parries just as if it had a sword and a buckler.
 
-16 Brightly Patterned Skin*: The mutant's skin becomes brightly
-coloured with contrasting stripes, spots, or other patterns. No effect
-on play, but a great excuse to paint an interesting new model!
+15 Blackblood: If the model loses a wound in close combat, anyone in base contact with the model suffers a Strength 3 hit  from the spurting corrosive blood.
 
-21 Burning Body*: The mutant's body is constantly burning with
-flickering tongues of hellish flame and burns with unnatural light.
-The warrior may not carry any weapons or armor unless they are
-magical, or forged from Gromril or Ithilmar. The model may
-never go into Hiding. Any model in base contact with the mutant suffers
-an automatic Strength 3 hit at the beginning of each close combat phase
-with the Flaming Attacks special rule.
+16 Brightly Patterned Skin: The mutant's skin becomes brightly coloured with contrasting stripes, spots, or other patterns. No effect on play, but a great excuse to paint an interesting new model!
 
-22 Cloud of Flies: The mutant is permanently surrounded by a great
-swirling mass of flies. Opponents in close combat with the mutant
-are at -1 on all to hit rolls, as the flies buzz into eyes, noses, and
-mouths.
+21 Burning Body: The mutant's body is constantly burning with flickering tongues of hellish flame and burns with unnatural light. The warrior may not carry any weapons or armor unless they are magical, or forged from Gromril or Ithilmar. The model may never go into Hiding. Any model in base contact with the mutant suffers an automatic Strength 3 hit at the beginning of each close combat phase with the Flaming Attacks special rule.
 
-23 Cloven Hooves*: The warrior gains +l Movement.
+22 Cloud of Flies: The mutant is permanently surrounded by a great swirling mass of flies. Opponents in close combat with the mutant are at -1 on all to hit rolls, as the flies buzz into eyes, noses, and mouths.
 
-24 Crystalline Body*: The mutant's body becomes living crystal,
-which is tough, but easily shattered. The mutant's Toughness
-becomes 6, while its Wounds become 1.
-Neither of these attributes can subsequently be altered by experience
-or mutation. If an experience advance indicates a change in one of
-these characteristics, re-roll the advance until a different
-characteristic advance is obtained. They may not ride mounts.
+23 Cloven Hooves: The warrior gains +l Movement.
 
-25 Elastic Limbs*: The mutant's arms can stretch out, allowing the
-mutant to attack from a distance. If the mutant is not in base contact
-with an enemy model at the beginning of the hand-to-hand combat
-phase, it may make one hand-to-hand attack against a single visible
-enemy within 6" of the mutant. The enemy does not get a chance to
-fight back.
+24 Crystalline Body: The mutant's body becomes living crystal, which is tough, but easily shattered. The mutant's Toughness becomes 6, while its Wounds become 1. Neither of these attributes can subsequently be altered by experience or mutation. If an experience advance indicates a change in one of these characteristics, re-roll the advance until a different characteristic advance is obtained. They may not ride mounts.
 
-26 Enormously Fat: The mutant becomes enormously fat and
-bloated. Divide its Movement in half, rounding up; add +1 to its
-Toughness; and reduce its Initiative by 1.
+25 Elastic Limbs: The mutant's arms can stretch out, allowing the mutant to attack from a distance. If the mutant is not in base contact with an enemy model at the beginning of the hand-to-hand combat phase, it may make one hand-to-hand attack against a single visible enemy within 6" of the mutant. The enemy does not get a chance to fight back.
 
-31 Extra Arm*: The mutant may use any single-handed weapon in
-the extra arm, giving him +1 attack when fighting in hand-to-hand
-combat. Alternatively, he may carry a shield or buckler in the extra
-arm. If a mutant who is unable to use weaponry (i.e. Possessed,
-Chaos Spawn, etc.) gains this mutation, they simply gain an extra
-attack; they are still not permitted to use weapons.
+26 Enormously Fat: The mutant becomes enormously fat and bloated. Divide its Movement in half, rounding up; add +1 to its Toughness; and reduce its Initiative by 1.
 
-32 Extremely Thin: The mutant becomes a matchstick figure,
-sickly thin and bony. Divide its Toughness in half, rounding up.
+31 Extra Arm: The mutant may use any single-handed weapon in the extra arm, giving him +1 attack when fighting in hand-to-hand combat. Alternatively, he may carry a shield or buckler in the extra arm. If a mutant who is unable to use weaponry (i.e. Possessed, Chaos Spawn, etc.) gains this mutation, they simply gain an extra attack; they are still not permitted to use weapons.
 
-33 Eyestalks*: The mutant has stalked eyes, similar to a crab. The
-mutant now causes fear.
+32 Extremely Thin: The mutant becomes a matchstick figure, sickly thin and bony. Divide its Toughness in half, rounding up.
 
-34 Fangs*: The mutant grows huge fangs, giving it an extra bite
-attack (unless it already has one) in each hand-to-hand combat
-phase. The bite attack uses the mutant's normal Strength.
+33 Eyestalks: The mutant has stalked eyes, similar to a crab. The mutant now causes fear.
 
-35 Furry*: The mutant grows a covering of long, dense fur. The
-mutation changes the mutant's appearance only; and has no effect on
-its profile.
+34 Fangs: The mutant grows huge fangs, giving it an extra bite attack (unless it already has one) in each hand-to-hand combat phase. The bite attack uses the mutant's normal Strength.
 
-36 Great Claw*: One of the mutant's arms ends in a great, crab-like
-claw. He may carry no weapons in this arm, but gains an extra
-attack in hand-to-hand combat with a +1 Strength bonus.
+35 Furry: The mutant grows a covering of long, dense fur. The mutation changes the mutant's appearance only; and has no effect on its profile.
 
-41 Hideous: The mutant causes fear, and is seldom invited to
-parties.
+36 Great Claw: One of the mutant's arms ends in a great, crab-like claw. He may carry no weapons in this arm, but gains an extra attack in hand-to-hand combat with a +1 Strength bonus.
 
-42 Horns*: The mutant's head grows horns, and it gains the special
-rule Impact Hits (1).
+41 Hideous: The mutant causes fear, and is seldom invited to parties.
 
-43 Iron Hard Skin*: The mutant's skin is covered in iron and steel
-scales. The mutant's armor save is improved by +1 (i.e. a 5+ save
-becomes a 4+). Note that a warrior's armor save may never
-improve to better than a 1+ save. If the mutant has no armor, their
-skin alone gives them a 6+ armor save.
+42 Horns: The mutant's head grows horns, and it gains the special rule Impact Hits (1).
 
-44 Mace Tail*: The mutant grows a flexible tail with a mace-like
-bony tip. Unless it already has a tail, the mutant gains an extra tail
-attack in each hand-to-hand combat phase at the mutant's Strength
-+1. If the mutant already has a tail, it will have to decide at the
-beginning of each hand-to-hand phase which tail it wishes to use.
+43 Iron Hard Skin: The mutant's skin is covered in iron and steel scales. The mutant's armor save is improved by +1 (i.e. a 5+ save becomes a 4+). Note that a warrior's armor save may never improve to better than a 1+ save. If the mutant has no armor, their skin alone gives them a 6+ armor save.
 
-45 Moronic: The mutant's mind shrinks. The mutant is now subject
-to stupidity.
+44 Mace Tail: The mutant grows a flexible tail with a mace-like bony tip. Unless it already has a tail, the mutant gains an extra tail attack in each hand-to-hand combat phase at the mutant's Strength +1. If the mutant already has a tail, it will have to decide at the beginning of each hand-to-hand phase which tail it wishes to use.
 
-46 Plague Bearer*: The mutant carries a hideous, Chaos-tainted
-disease. The mutant's limbs are covered in open sores, and the
-mutant is dramatically weakened by its condition.
-Reduce the mutant's Movement and Initiative by -1. Any time the
-mutant hits an enemy in hand-to-hand combat, there is a chance they
-have infected their foe with this debilitating disease: the enemy
-model must roll equal to or less than its Toughness on a D6 to avoid
-contracting the sickness. If the roll is higher than the model's
-Toughness, they suffer the -1 Toughness for the rest of the battle,
-(after which it is assumed they get immediateherbal remedies and plenty
-of rest to keep the disease from setting in permanently!). The Plague
-Bearer may not infect the same model more than once in a single battle.
-In addition, the Plague Bearer's ghastly appearance means it now causes fear.
+45 Moronic: The mutant's mind shrinks. The mutant is now subject to stupidity.
 
-51 Poisonous Bite: The mutant grows small fangs which can secrete
-a potent poison.
-Unless the warrior already has a bite attack, it gains an extra attack
-in each hand-to-hand combat phase due to its deadly bite. The
-poisonous bite is a Strength 5 attack, but is reduced to Strength 2 if
-the target of the bite is immune to poison. If the mutant already
-possesses a bite attack, it is simply upgraded to include the
-poisonous effect described above.
+46 Plague Bearer: The mutant carries a hideous, Chaos-tainted disease. The mutant's limbs are covered in open sores, and the mutant is dramatically weakened by its condition. Reduce the mutant's Movement and Initiative by -1. Any time the mutant hits an enemy in hand-to-hand combat, there is a chance they have infected their foe with this debilitating disease: the enemy model must roll equal to or less than its Toughness on a D6 to avoid contracting the sickness. If the roll is higher than the model's Toughness, they suffer the -1 Toughness for the rest of the battle, (after which it is assumed they get immediateherbal remedies and plenty of rest to keep the disease from setting in permanently!). The Plague Bearer may not infect the same model more than once in a single battle. In addition, the Plague Bearer's ghastly appearance means it now causes fear.
 
-52 Prehensile Tail*: The mutant grows a prehensile tail. Unless the
-mutant already has a tail attack, he gains an additional attack with
-this tail in each hand-to-hand combat phase. The mutant may hold
-and use any singlehanded weapon in the tail, or alternatively, he
-may carry and use a shield or buckler with it. If a mutant with other
-tail attacks does use an equipped prehensile tail in a hand-to-hand
-combat phase, he may not use any of his other tail attacks during
-that phase; a single tail must be selected for use at the beginning of
-each hand-to-hand phase. If a mutant unable to use weaponry (i.e.
-Possessed, Chaos Spawn, etc.) gains this mutation, they simply gain
-an extra attack (unless they already possess a tail attack); they
-remain unable to use weapons.
+51 Poisonous Bite: The mutant grows small fangs which can secrete a potent poison. Unless the warrior already has a bite attack, it gains an extra attack in each hand-to-hand combat phase due to its deadly bite. The poisonous bite is a Strength 5 attack, but is reduced to Strength 2 if the target of the bite is immune to poison. If the mutant already possesses a bite attack, it is simply upgraded to include the poisonous effect described above.
+
+52 Prehensile Tail: The mutant grows a prehensile tail. Unless the mutant already has a tail attack, he gains an additional attack with this tail in each hand-to-hand combat phase. The mutant may hold and use any singlehanded weapon in the tail, or alternatively, he may carry and use a shield or buckler with it. If a mutant with other tail attacks does use an equipped prehensile tail in a hand-to-hand combat phase, he may not use any of his other tail attacks during that phase; a single tail must be selected for use at the beginning of each hand-to-hand phase. If a mutant unable to use weaponry (i.e. Possessed, Chaos Spawn, etc.) gains this mutation, they simply gain an extra attack (unless they already possess a tail attack); they remain unable to use weapons.
 
 53 Regeneration: The Mutant gains the Regeneration special rule.
 
-54 Resilient: The mutant's skin thickens, or becomes scaly, or
-otherwise increases its resilience to damage. Increase the mutant's
-Toughness by +1.
+54 Resilient: The mutant's skin thickens, or becomes scaly, or otherwise increases its resilience to damage. Increase the mutant's Toughness by +1.
 
-55 Scorpion Tail*: The mutant has a long barbed tail with an
-envenomed tip, allowing him to make an extra Strength 5 attack in
-each hand-to-hand combat phase (unless the mutant already has a
-tail attack, in which case it will have to select a single one of its
-available tail attacks in each hand-to-hand phase). If the model hit
-by the tail is immune to poison, the Strength of the hit is reduced to
-2.
+55 Scorpion Tail: The mutant has a long barbed tail with an envenomed tip, allowing him to make an extra Strength 5 attack in each hand-to-hand combat phase (unless the mutant already has a tail attack, in which case it will have to select a single one of its available tail attacks in each hand-to-hand phase). If the model hit by the tail is immune to poison, the Strength of the hit is reduced to 2.
 
-56 Skull Face*: The flesh of the mutant's face dissolves, leaving a
-skull. The mutant now causes fear. They may no longer search for
-rare items between games.
+56 Skull Face: The flesh of the mutant's face dissolves, leaving a skull. The mutant now causes fear. They may no longer search for rare items between games.
 
-61 Spines*: Any model in base contact with the mutant suffers an
-automatic Strength 1 hit at the beginning of each close combat
-phase. 
+61 Spines: Any model in base contact with the mutant suffers an automatic Strength 1 hit at the beginning of each close combat phase. 
 
-62 Stunted: The mutant's body becomes hunchbacked and stiffened.
-Reduce the mutant's Movement and Initiative by -1.
+62 Stunted: The mutant's body becomes hunchbacked and stiffened. Reduce the mutant's Movement and Initiative by -1.
 
-63 Suckers*: The mutant's limbs are covered in adhesive suckers.
-The mutant automatically passes Initiative tests when climbing.
+63 Suckers: The mutant's limbs are covered in adhesive suckers. The mutant automatically passes Initiative tests when climbing.
 
-64 Tentacle*: One of the mutant's arms ends in a tentacle. He may
-grapple his opponent in close combat to reduce his attacks by -1,
-down to a minimum of 1. The mutant may decide which attack his
-opponent loses.
+64 Tentacle: One of the mutant's arms ends in a tentacle. He may grapple his opponent in close combat to reduce his attacks by -1, down to a minimum of 1. The mutant may decide which attack his opponent loses.
 
-65 Warts: The mutant is covered in repellent warts. The mutant's
-profile is unaffected.
+65 Warts: The mutant is covered in repellent warts. The mutant's profile is unaffected.
 
-66 Misshapen Wings*: The mutant gains the Fly special rule, though 
-their cumbersome size and awkward shape the frame of a Mutant never
-intended to have wings means that they may not run, and do not double
-their movement when charging.
+66 Misshapen Wings: The mutant gains the Fly special rule, though  their cumbersome size and awkward shape the frame of a Mutant never intended to have wings means that they may not run, and do not double their movement when charging.
 
-# Visiting the Apothecary
+## Visiting the Apothecary
 
 As Warriors accumulate wounds and injuries the need to treat those more complex conditions can become more acute. The basic medical knowledge of field-doctors is essential to keeping Warband members alive, but it is insufficient for treating the more complex maladies that Warriors will inevitably accrue. Most warbands will not suffer an invalid among their ranks and will quickly dismiss them (if they're lucky!), but should a warband feel charitable (or more likely, should the injured Warrior be worth preserving) then there are opportunistic, if somewhat insane, doctors who make Mordheim their home. Each warrior may only attempt to get treatment for one injury at a time, and only one attempt at treatment per Hero may be made during each post battle sequence. Doctors are well aware that their prices will vary based on the value of the person whose life they intend to save, and so will charge gold equal to double the Hero's experience, plus 20 if they are Monstrous. If a Monster requires treatment the cost is a flat 100 gold.
 
@@ -711,73 +454,59 @@ The following injuries use the Surgery table: Leg Wound, Smashed Leg, Chest Woun
 
 The following injuries use the Brain Surgery table: Madness, Nervous Condition
 
-####### Surgery table
+### Surgery table
 
 2D6 Result
 
-######## 2-3 ‘Someone fetch a priest!’
-The unfortunate patient has expired due to excessive blood
-loss. The Hero is dead and must be stricken from the
-warband record, but his equipment is retained by the
-warband.
+##### 2-3 ‘Someone fetch a priest!’
 
-######## 4 ‘This has got to come off!’
-The surgeon has felt the need to amputate, ostensibly to
-‘keep the rot out’. If a leg was being treated, the model now
-has its Movement halved (rounding up); if a hand was being
-treated, the warrior may only use a single-handed weapon
-from now on. The missing limb cannot be found for some reason.
+The unfortunate patient has expired due to excessive blood loss. The Hero is dead and must be stricken from the warband record, but his equipment is retained by the warband.
 
-######## 5-6 ‘Sorry, lad!' Done my best!’
-The surgery was unsuccessful, and the warrior must miss the
-next battle while he recovers.
+##### 4 ‘This has got to come off!’
 
-######## 7-8 ‘No luck!’
+The surgeon has felt the need to amputate, ostensibly to ‘keep the rot out’. If a leg was being treated, the model now has its Movement halved (rounding up); if a hand was being treated, the warrior may only use a single-handed weapon from now on. The missing limb cannot be found for some reason.
+
+##### 5-6 ‘Sorry, lad!' Done my best!’
+
+The surgery was unsuccessful, and the warrior must miss the next battle while he recovers.
+
+##### 7-8 ‘No luck!’
+
 The surgery was unsuccessful.
 
-######## 9-10 ‘Mind you stay off it for a bit!’
-The surgery was successful! The warrior may remove the
-injury and its adverse effects from his profile. He must,
-however, miss the next battle while he recovers.
+##### 9-10 ‘Mind you stay off it for a bit!’
 
-######## 11-12 ‘Shallaya be praised!’
-The surgery was a complete success! The warrior may
-remove the injury and its adverse effects from his profile
+The surgery was successful! The warrior may remove the injury and its adverse effects from his profile. He must, however, miss the next battle while he recovers.
 
+##### 11-12 ‘Shallaya be praised!’
 
+The surgery was a complete success! The warrior may remove the injury and its adverse effects from his profile
 
-####### Brain Surgery table
+### Brain Surgery table
+
 2D6 Result
 
+##### 2-3 ‘Someone fetch a priest!’
 
-######## 2-3 ‘Someone fetch a priest!’
-The physician has been a bit too zealous in his treatment.
-The Hero is dead and must be stricken from the warband
-record, but his equipment is retained by the warband.
+The physician has been a bit too zealous in his treatment. The Hero is dead and must be stricken from the warband record, but his equipment is retained by the warband.
 
-######## 4-5 ‘Erm... that’s not right!’
-The treatment has not only failed to help the warrior, it has
-actually worsened his condition! The warrior is now subject
-to Stupidity. If the warrior was being treated for Stupidity,
-there is no change in his condition (except perhaps, a bit
-more drooling than usual).
+##### 4-5 ‘Erm... that’s not right!’
 
-######## 6 ‘A bit unhinged, that one!’
-The treatment has failed, and the warrior emerges from the
-treatment as something of a raving lunatic. The warrior
-suffers a -1 Initiative penalty (down to a minimum of 1). He
-is now so unsettling to behold that he causes fear.
+The treatment has not only failed to help the warrior, it has actually worsened his condition! The warrior is now subject to Stupidity. If the warrior was being treated for Stupidity, there is no change in his condition (except perhaps, a bit more drooling than usual).
 
-######## 7-8 ‘Sorry lad! Done my best!’
-The treatment was unsuccessful, and the warrior must miss
-the next battle while he recovers.
+##### 6 ‘A bit unhinged, that one!’
 
-######## 9-10 ‘A bit of rest, and you’ll be fine!’
-The treatment was successful! The warrior may remove the
-injury and its adverse effects from his profile. He must,
-however, miss the next battle while he recovers.
+The treatment has failed, and the warrior emerges from the treatment as something of a raving lunatic. The warrior suffers a -1 Initiative penalty (down to a minimum of 1). He is now so unsettling to behold that he causes fear.
 
-######## 11-12 ‘Shallaya be praised!’
-The treatment was a complete success! The warrior may
-remove the injury and its adverse effects from his profile.
+##### 7-8 ‘Sorry lad! Done my best!’
+
+The treatment was unsuccessful, and the warrior must miss the next battle while he recovers.
+
+##### 9-10 ‘A bit of rest, and you’ll be fine!’
+
+The treatment was successful! The warrior may remove the injury and its adverse effects from his profile. He must, however, miss the next battle while he recovers.
+
+##### 11-12 ‘Shallaya be praised!’
+
+The treatment was a complete success! The warrior may remove the injury and its adverse effects from his profile.
 
