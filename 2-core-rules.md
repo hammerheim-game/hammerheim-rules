@@ -60,7 +60,7 @@ All dice rolls use a standard six-sided dice (usually shortened to D6). Sometime
 
 Roll the dice and add or subtract the number indicated to get the final result. You may have to roll a number of dice in one go. For example, 2D6 means roll two dice and add the scores together.
 
-If you are given the opportunity to re-roll a dice roll, you must accept the second score, even if it's worse than the original. You may also never re-roll a dice that you have already re-rolled.
+If you are given the opportunity to re-roll a dice roll, you must accept the second score, even if it's worse than the original. You may never re-roll a dice that you have already re-rolled.
 
 #### D3
 
