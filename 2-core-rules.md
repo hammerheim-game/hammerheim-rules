@@ -217,7 +217,7 @@ During the movement phase models are moved in the following order:
 
 #### Moving
 
-During their movement phase, models can move up to movement rate their in any direction. They may move (including running and charging) up and down stairs, and over low obstacles such as barrels, boxes, etc up to 1" high. In normal circumstances models don't have to move their full distance, or at all if you do not want them to. All exceptions are explained later and invariably involve either charging, climbing, or compulsory moves. 
+During their movement phase, models can move up to movement rate their in any direction. They may move (including running and charging) up and down stairs, and over low obstacles such as barrels, boxes, etc., up to 1" high. In normal circumstances models don't have to move their full distance, or at all if you do not want them to. All exceptions are explained later and invariably involve either charging, climbing, or compulsory moves. 
 
 #### Running
 
