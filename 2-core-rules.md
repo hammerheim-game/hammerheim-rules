@@ -47,12 +47,11 @@ You will also need something to play your battles on. Any firm, level surface is
 The bitter struggles of a Mordheim battle take place in labyrinthine streets, ruined buildings and on derelict walkways. There are an abundance of companies out there who make terrain ideal for Mordheim, but many gamers enjoy making their own. 
 
 As a rule, a table packed with scenery will lead to closer and more exciting games. The game is in fact balanced around the idea that the board be extremely densely packed with buildings so if that isn't possible it may be worth agreeing with your opponent on a way to reduce the strength of missile attacks.
+\page
 
 ### Counters
 
 Counters can help you keep track of things on the tabletop. You can always keep notes about who is hidden, carrying treasure, etc, but counters are a convenient memory jogger and speed the game up.  
-
-\page
 
 ### Dice
 
@@ -166,16 +165,6 @@ Tests against the Leadership characteristic are done in a slightly different way
 
 For example: Jeremy's Leadership is 7, so to pass a Leadership test he must roll 7 or less on 2D6.
 
-#### Unit Size
-
-| Unit type | Size |
-| :-: | :-: |
-| Infantry/war beasts/swarms | Small |
-| Cavalry | Medium |
-| Monstrous infantry | Large |
-| Monstrous cavalry | Huge |
-| Monsters | Gigantic |
-| Ridden monsters | Titanic |
 
 ### The Turn
 
@@ -201,9 +190,10 @@ __4. Hand-to-hand combat:__ During this phase all models in hand-to-hand combat 
 
 During the recovery phase, warriors in your warband who have been _stunned_ become _knocked down_ instead and warriors who have been _knocked down_ may stand up. For more details, see the _Injuries_ section.
 
-\page
 
 _Fleeing_ models must take a _leadership test_. If the test is passed, the model is no longer _fleeing_, but can do nothing this turn except cast spells. If the test is failed, the model will continue to _flee_ towards the closest table edge in the _compulsory move_ phase. For more details, see the rules for _fleeing_ in the _Leadership & psychology_ section.
+
+\page
 
 ### Movement
 
@@ -303,9 +293,9 @@ A model that falls takes D3 hits at a Strength equal to the height in inches tha
 
 It is assumed that all warband members are capable enough swimmers, though moving through water is of course a fatiguing exercise. Water is considered Difficult Terrain (or worse, depending on the scenario!). Aquatic models do not suffer any penalty for moving through water, and may become _Hidden_ even if the model is fully visible by ducking beneath the surface.
 
-\page
-
 Aquatic models in water, either swamp, streams or rivers can elect to be Hidden at the discretion of the player. Models cannot move upstream in fast moving rivers without floating transportation, such as a boat or canoe. 
+
+\page
 
 ### Shooting
 
@@ -365,8 +355,19 @@ It is easier to hit a target that is in the open compared to a target behind cov
 | Cover | If any part of the model is obscured by scenery or other models then it counts as being in cover. | -1 |
 | Long range | If you are shooting at a target that is more than half of your weapon's maximum range away. | -1 |
 | Moving | If your model has moved at all shooting (other than standing up, or turning to face your target) during this turn. | -1 |
-| Large Target | If either the target model has the Large Target special rule (such as an Ogre), or is a combat involving multiple enemies. | +1 |
+| Large Target | If the target is Large or greater (see below), or is a combat involving multiple enemies. | +1 |
 | Multiple Shots | If the model firing is shooting more than once (for example, with Quick Shot). | -1 |
+
+#### Unit Size
+
+| :-: | :-: |
+| Unit type | Size |
+| Infantry/war beasts/swarms | Small |
+| Cavalry | Medium |
+| Monstrous infantry | Large |
+| Monstrous cavalry | Huge |
+| Monsters | Gigantic |
+| Ridden monsters | Titanic |
 
 #### Roll to Wound
 
