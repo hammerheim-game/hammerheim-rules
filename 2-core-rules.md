@@ -34,7 +34,7 @@ As well as this book, you will need the following items to play Mordheim.
 
 ### Representative models
 
-You will need enough miniatures of the appropriate race/type to represent the warriors in your warband. It is a good idea to work out your warband on paper first and then purchase the miniatures that you require. It isn't always possible to get your miniatures being completely accurate down to the missing eyeballs, but as long as it is clear which character does what that is usually fine.
+You will need enough miniatures of the appropriate race/type to represent the warriors in your warband. It is a good idea to work out your warband on paper first and then purchase the miniatures that you require. It isn't always possible to get completely accurate miniatures, down to the eyeballs, but as long as it is clear which character is which model, that is usually fine.
 
 As you will see in the Warbands section, each warband fights in a particular way - some are expert bowmen while others are better in hand-to-hand combat. When choosing which warband you want to lead you could choose one that reflects your preferred playing style, or you could read the background section and choose one that really captures your imagination. A good way of picking a warband is simply to pick the one with the models you like the best. 
 
