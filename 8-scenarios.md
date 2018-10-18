@@ -2184,8 +2184,8 @@ Chaos Spawn are followers of chaos who have failed to pleases
 their gods. They have been mutated into a hideous mass of limbs,
 appendages and all manner of mutations. Their minds are gone,
 leaving nothing but a seething mass of bone and flesh.
-Profile M WS BS S T W I A Ld
-Chaos Spawn 2D6 3 0 4 5 3 2 D6+110
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Chaos Spawn 2D6 3 0 4 5 3 2 D6+110
 Special Rules
 Fear: Despite its size, the Chaos Spawn is still a fearsome
 opponent. It causes fear.
@@ -2216,8 +2216,8 @@ their solid form, they resemble a miniature version of a Treeman,
 with soft, damp woody flesh. They are very violent if threatened and
 will use their branch like arms with claws of sharp thorns and twigs
 to their best advantage.
-Profile M WS BS S T W I A Ld
-Dryad 5 4 0 4 4 2 6 2 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Dryad 5 4 0 4 4 2 6 2 8
 Tree-kin 5 4 0 5 5 3 3 3 8
 Shadow Dryad 5 4 0 4 4 2 4 2 8
 Shadow Tree-kin 5 3 0 4 5 3 3 3 8
@@ -2258,8 +2258,8 @@ charge. The Harpies will try and coordinate their attacks so at least
 one stays back and protects the nest. Therefore, a Harpy may
 disengage from a fallen enemy model if there is an opportunity for
 one of its companions to charge another model.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Harpy 4 4 0 4 4 1 2 2 6
 Special Rules:
 Talons: A Harpy has talons and is accustomed to fighting
@@ -2308,8 +2308,8 @@ tough as rock. They have the strange ability of sucking the very
 power of magic out of the surrounding area. River Trolls live in the
 marshlands or swamps near the banks of rivers. Their flesh exhumes
 a vile slime which chokes anyone nearby.
-Profile M WS BS S T W I A Ld
-River Troll 6 3 1 5 4 3 1 3 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |River Troll 6 3 1 5 4 3 1 3 4
 Weapons/Armor: Trolls often carry a big club.
 Special Rules
 Fear: Trolls are frightening monsters which cause fear.
@@ -2338,8 +2338,8 @@ Henchman that puts the Troll out of action gets a bonus +1
 experience.
 
 
-Profile M WS BS S T W I A Ld
-Bloodletter of Khorne 4 6 0 4 3 2 6 2+ 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Bloodletter of Khorne 4 6 0 4 3 2 6 2+ 8
 Weapons/Armor: The Bloodletters carry a Hellblade and
 wear Hell-Forged Brass Armor (4+ Armor Save).
 Special Rules
@@ -2378,8 +2378,8 @@ Pegasus with several additional horribly mutated heads, that of a
 serpent and a ram. Hunger gnaws at the stomachs of these beasts
 and they will face many times their number if they catch the scent of
 prey.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Black Pegasus 6 3 - 4 4 5 3 5 8
 Fear: A Black Pegasus with three heads will cause Fear in
 most people.
@@ -2406,8 +2406,8 @@ Treemen have the appearance of huge trees, many times the height
 of a human. They are often mistaken for trees in the forest as their
 clawed feet look like roots, and their legs look like the trunk of the
 tree.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Treeman 6 5 3 5 5 6 5 5 9
 Special Rules:
 Forest Spirits: The following rules apply to all creatures

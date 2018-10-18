@@ -195,8 +195,8 @@ exacting and precise. They epitomize the technological innovation of
 Nuln, and their aim is usually as keen as their intellect. Instead of
 dominating their warbands with fear or brute force, Engineers earn
 respect through their experience and technical knowledge.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
 Weapons/Armor: An Engineer may be equipped with
 weapons and armor chosen from the Marksman equipment
@@ -218,8 +218,8 @@ are in charge of keeping up the mighty Empire war machines such
 as the great cannons. They are well educated and extensively
 trained, but not yet too battle-hardened, so these excursions give
 them field experience, even in the smallest things.
-Profile M WS BS S T W I A Ld
-4 3 4 3 3 1 4 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 4 3 3 1 4 1 7
 Weapons/Armor: An Instructor may be equipped with
 weapons and armor chosen from the Marksman equipment
 list.
@@ -240,8 +240,8 @@ of combat and mechanics used by the Empire. The years of using
 pistols and firing cannons has given them plenty of experience with
 weaponry and this is not their first excursion into the wilds of the
 Empire. It is likely to be their last before they graduate.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
 Weapons/Armor: A Senior Student may be equipped with
 weapons and armor chosen from the Marksman equipment
 list.
@@ -255,8 +255,8 @@ only months of training and shooting. Most will see this as a chance
 to escape the stuffy halls of academia and go hunting for pleasure.
 The brighter ones will realise that this is a true test of their
 dedication and knowledge.
-Profile M WS BS S T W I A Ld
-4 3 2 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 2 3 3 1 3 1 6
 Weapons/Armor: Underclassmen may be equipped with
 weapons and armor chosen from the Marksman equipment
 list.
@@ -276,8 +276,8 @@ cannon or black powder weapon and have become an essential part
 of the school. On the excursions, sons of the guns provide a much
 needed set of arms to carry provisions and spare powder, as well as
 providing much needed additional firepower in a fight.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: A Son of the Gun may be equipped with
 weapons and armor chosen from the Guardsmen equipment
 list.
@@ -289,8 +289,8 @@ Most are simple farmhands hardened by military service, and earn a
 living protecting the engineers. While not as adept at using firearms
 as their allies, they provide much needed support in the close
 quarter fighting of Mordheim.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 3 3 1 3 1 7
 Weapons/Armor: Guardsmen may be equipped with
 weapons and armor chosen from the Guardsmen equipment
@@ -302,8 +302,8 @@ Most Empire generals are glad to employ regiments of Nuln
 Riflemen on the field of battle. These veteran troops are said to
 never let their rifles out of arm’s reach, and are much feared due to
 their legendary accuracy.
-Profile M WS BS S T W I A Ld
-4 3 4 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 4 3 3 1 3 1 7
 Weapons/Armor: A Rifleman may be equipped with
 weapons and armor chosen from the marksman equipment
 list.

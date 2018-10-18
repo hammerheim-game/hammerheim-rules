@@ -129,8 +129,8 @@ The Nightmaster of Clan Eshin has sent the Assassin to collect
 precious wyrdstone. Success means many breeders, wealth and a
 better position amongst the clan. Failure, on the other hand, is best
 not contemplated...
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 4 4 3 1 5 1 7
 Weapons/Armor: An Assassin Adept may be armed with
 weapons and armor chosen from the Skaven Hero’s
@@ -151,8 +151,8 @@ weapons).
 Black Skaven are the most powerful fighters of Clan Eshin: black-
 furred killers trained in the martial arts of their clan. In Mordheim
 they excel at ambushing and assassinating man-things.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 3 4 3 1 5 1 6
 Weapons/Armor: A Black Skaven may be armed with
 weapons and armor chosen from the Skaven Hero’s
@@ -168,8 +168,8 @@ The Sorcerers of Clan Eshin are black magicians who manufacture
 the enchanted weapons of the Assassins. Though their power is
 slight compared to the Warlocks of Clan Skryre or the mighty Grey
 Seer, their black sorcery is still potent.
-Profile M WS BS S T W I A Ld
-5 3 3 3 3 1 4 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 4 1 6
 Weapons/Armor: A Skaven Eshin Sorcerer may be armed
 with weapons and armor chosen from the Skaven Hero’s
 Equipment list.
@@ -189,8 +189,8 @@ on a new skill.
 Night Runners are the young apprentices of Clan Eshin. Recently
 initiated into the secrets of the clan, they make up for their lack of
 knowledge with their ambition and energy.
-Profile M WS BS S T W I A Ld
-6 2 3 3 3 1 4 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 2 3 3 3 1 4 1 4
 Weapons/Armor: Night Runners may be armed with
 weapons and armor chosen from the Skaven Henchmen
 Equipment list.
@@ -209,8 +209,8 @@ them are initiated into the secrets of the clans and begin their
 training to become Assassins, the most feared warriors of the
 Skaven warbands. All the Clanrats of Clan Eshin dream of rising to
 the status of an Assassin one day.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 4 1 5
 Weapons/Armor: Verminkin may be armed with weapons
 and armor chosen from the Skaven Henchmen Equipment
@@ -221,8 +221,8 @@ Giant rats
 Giant Rats are the creation of the Clan Moulder trainees. They are
 mutated monstrosities the size of dogs. They fight alongside the
 Skaven, overpowering their opponents by sheer weight of numbers.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 2 0 3 3 1 4 1 4
 Weapons/Armor: None. Giant Rats never use any armor
 or weapons.
@@ -238,8 +238,8 @@ experience.
 210 gold crowns to buy
 These horrible monsters are much in demand as bodyguards to
 important Skaven.
-Profile M WS BS S T W I A Ld
-6 3 3 5 5 3 4 3 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 3 5 5 3 4 3 4
 Weapons/Armor: Jaws, claws and brute force! Rat Ogres
 can never use weapons or armor.
 Special Rules

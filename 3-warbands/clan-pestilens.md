@@ -106,8 +106,8 @@ The Plague Priest is one of the most disgusting disciples of the
 corrupted Clan Pestilens brotherhood. As leader of a small band of
 devoted to the Clan, the contagion and the wide spreading of
 diseases are his main goals in the streets of Mordheim.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 4 4 1 5 1 7
 Weapons/Armor: The Plague Priest may be equipped as
 desired from the Clan Pestilens equipment list.
@@ -124,8 +124,8 @@ his Leadership when taking Ld tests.
 The Plague Monks are among the most fanatic and dangerous
 members of Clan Pestilens, to them is usually given the honour to
 chant the Liturgicus Infecticus in combat.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 3 3 4 1 5 1 6
 Weapons/Armor: Plague Monks may be equipped as
 desired from the Clan Pestilens equipment list.
@@ -138,8 +138,8 @@ Pestilens Special Skill list.
 20 gold crowns to hire
 The Monk Initiates are young skavens devoted to the Clan Pestilens
 discipline, waiting to be promoted as true Plague Monks.
-Profile M WS BS S T W I A Ld
-5 2 3 2 2 1 4 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 2 3 2 2 1 4 1 4
 Weapons/Armor: Monk Initiates may be equipped as
 desired from the Clan Pestilens equipment list.
 Skills: The Monk Initiates may choose from Combat,
@@ -152,8 +152,8 @@ Skill list.
 The Festering Chantor is a twisted alchemist, always looking for
 new and more terrible forms of contagion, under the vigilant
 supervision of his dreadful master, the Horned Rat.
-Profile M WS BS S T W I A Ld
-5 3 3 3 3 1 4 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 4 1 6
 Weapons/Armor: The Festering Chantor may be equipped
 as desired from the Clan Pestilens equipment list.
 Skills: The Festering Chantor may choose from Academic &
@@ -177,8 +177,8 @@ streets, coming just before the terrible Plague Monks and their
 clouds of pestilential fumes. Dream of every Plague Novice is to be
 chosen someday to be a Monk, and to be given the privilege of
 chanting the Liturgicus Infecticus.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 4 1 5
 Weapons/Armor: Plague Novices may be equipped as
 desired from the Henchmen equipment list.
@@ -188,8 +188,8 @@ Giant rats
 Giant Rats are the creation of the Clan Moulder trainees. They are
 mutated monstrosities the size of dogs. They fight alongside the
 Skaven, overpowering their opponents by sheer weight of numbers.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 2 0 3 3 1 4 1 4
 Weapons/Armor: None. Giant Rats never use any armor
 or weapons.
@@ -205,8 +205,8 @@ experience.
 210 gold crowns to hire
 These terrible monsters are often chosen as personal bodyguards by
 Skaven of higher ranks
-Profile M WS BS S T W I A Ld
-6 3 3 5 5 3 4 3 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 3 5 5 3 4 3 4
 Weapons/Armor: Claws and ferocity.
 Special Rules
 Fear: The Rat Ogre causes fear.

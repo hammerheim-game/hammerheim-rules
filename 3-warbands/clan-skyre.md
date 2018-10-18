@@ -108,8 +108,8 @@ The Chief Engineer is a ravening mad psychotic twisted from his
 over consumption of warpstone. He has been sent by Ikit Klaw to
 lead the scientific expeditions into the heart of the City, looking for
 the precious warpstone to power their mad machines.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 4 3 1 5 1 7
 Weapons/Armor: The Chief Engineer may be equipped
 with weapons and armor chosen from the Hero’s equipment
@@ -133,8 +133,8 @@ on a new skill.
 Journeymen are the marksmen and protectors of the secrets of Clan
 Skryre. These evil beings are equipped to make a difference in local
 population.
-Profile M WS BS S T W I A Ld
-5 3 4 4 3 1 5 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 4 4 3 1 5 1 6
 Weapons/Armor: A Journeyman may be equipped with
 weapons and armor chosen from the Hero’s and the
 Machinist equipment lists.
@@ -150,8 +150,8 @@ years in the use of seerstone, and have gained a fantastic command
 of magic from their exposure. They have all the makings of a leader
 but have yet to prove their worth or claw a position of power among
 the Engineers.
-Profile M WS BS S T W I A Ld
-5 3 3 3 3 1 5 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 5 1 6
 Weapons/Armor: The Warlock Engineer may be equipped
 with weapons and armor chosen from the Hero’s equipment
 list.
@@ -171,8 +171,8 @@ Spell instead on a new skill.
 The most junior members of the engineering discipline are called
 Apprentices. They are vicious and devious fighters, and enjoy a
 good hunt as often as they can.
-Profile M WS BS S T W I A Ld
-5 3 3 3 3 1 4 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 4 1 5
 Weapons/Armor: An Apprentice may be equipped with
 weapons and armor chosen from the Henchmen equipment
 list.
@@ -186,8 +186,8 @@ Thralls
 20 gold crowns to hire
 Thralls are the Clan Skryre Clanrats. They are the hewers of wood
 and drawers of water, freeing the Engineers to do their work.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 4 1 5
 Weapons/Armor: Thrall may be equipped with weapons
 and armor chosen from the Henchmen equipment list.
@@ -204,8 +204,8 @@ Thrower. The Weapon counts as being lost.
 Machinists are Verminkin with a greater knowledge of the Machines
 of clan Skryre. They act as Attendants and hope to learn the black
 ways that make Skaven powerful.
-Profile M WS BS S T W I A Ld
-5 3 4 3 3 1 4 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 4 3 3 1 4 1 5
 Weapons/Armor: Machinist may be equipped with
 weapons and armor chosen from the Henchmen and the
 Machinist equipment lists.
@@ -216,8 +216,8 @@ Giant rats
 Giant Rats are the creation of the Clan Moulder trainees. They are
 mutated monstrosities the size of dogs. They fight alongside the
 Skaven, overpowering their opponents by sheer weight of numbers.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 2 0 3 3 1 4 1 4
 Weapons/Armor: None. Giant Rats never use any armor
 or weapons.
@@ -239,8 +239,8 @@ with a mechanical exoskeleton and powered by refined wyrdstone.
 Clan Skryre has sent out the handful that it has made to further test
 them in combat. In battle it is a terrifying if somewhat unreliable
 beast.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 5 5 3 1 3 10
 Weapons/Armor: Jaws, claws, and a miniature Warpfire
 thrower on its mechanical left arm.

@@ -139,8 +139,8 @@ toughest and most barbaric member of the warband and if any of his
 Boyz think otherwise, the band may soon find itself with one less
 member!
 
-Profile M WS BS S T W I A Ld
-4 4 4 4 4 1 3 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 4 4 1 3 1 8
 Weapons/Armor: An Orc Boss may be equipped with
 weapons and armor chosen from the Orc equipment list.
 Skills: The Orc Boss may choose from Combat, Shooting,
@@ -156,8 +156,8 @@ Orc gods Gork and Mork with powers they can neither understand
 nor completely control. Many join roaming Orc warbands where
 they are no longer shunned for their abilities, but respected for
 them.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 4 1 3 1 7
 Weapons/Armor: An Orc Shaman may be armed with
 weapons chosen from the Orc equipment list. An Orc
@@ -180,8 +180,8 @@ and rise through the ranks (often atop the bodies of other
 challengers). Big ’Uns are such rising stars, and they carry out the
 orders of the Orc Boss. If the Boss ever falls, it is up to the Big ’Uns
 to decide on a new leader (usually through personal combat).
-Profile M WS BS S T W I A Ld
-4 4 3 3 4 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 4 1 3 1 7
 Weapons/Armor: Big ’Uns may be equipped with
 weapons and armor chosen from the Orc equipment list.
 Skills: The Orc Big ‘Uns may choose from Combat,
@@ -198,8 +198,8 @@ Goblins are often used as cannon fodder (as well as a food source in
 lean times!) by their larger Orc cousins. They are usually not as
 well equipped as Orc Boyz, having to make do with whatever the
 Orcs do not want or cannot use.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 3 1 5
 Weapons/Armor: Goblins may be armed with weapons
 and armor chosen from Goblin equipment list.
@@ -229,8 +229,8 @@ Gobbo from the roster).
 Goblins raise the deadly Cave Squigs. These creatures are a curious
 blend of animal and fungus, and are composed mostly of teeth,
 horns, and a nasty temperament.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 2D6 4 0 4 3 1 4 1 5
 Weapons/Armor: Big gob and brutality! Cave Squigs
 never use or need weapons or armor.
@@ -263,8 +263,8 @@ Orc Boyz are savage and tough. They fear nothing that they can get
 their bare hands on, though they are even more ignorant and
 superstitious than most other beings in the Warhammer world. They
 form the core of any Orc warband.
-Profile M WS BS S T W I A Ld
-4 3 3 3 4 1 2 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 4 1 2 1 7
 Weapons/Armor: Boyz may be equipped with weapons
 and armor chosen from the Orc equipment list.
 Special Rules
@@ -275,8 +275,8 @@ Animosity: Orc Boyz are subject to the rules for Animosity
 200 gold crowns to hire
 Trolls are not intelligent enough to recognize the value of gold, but
 large amounts of food can often instill a certain loyalty in them.
-Profile M WS BS S T W I A Ld
-6 3 1 5 4 3 1 3 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 1 5 4 3 1 3 4
 Weapons/Armor: Trolls do not require weapons to fight
 but often carry a big club. In any event, Trolls can never be
 given weapons or armor.

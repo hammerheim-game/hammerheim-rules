@@ -153,8 +153,8 @@ fought in numerous battles and proven to the gods just how truly
 powerful they can become. Taking a warband is the start of their
 ambitions as they will seek victories to meld the Boyz into larger
 and larger warbands until they have a Horde at their beck and call.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 4 4 1 3 1 8
 Weapons/Armor: A Black Orc Boss may be equipped with
 weapons and armor chosen from the Black Orc equipment
@@ -190,8 +190,8 @@ that killing is only at arm’s reach all the time and they don’t care
 what the target is. Whether it is some Imperial peasant, a herd of
 Beastmen or even the Boyz in the warband, the Black Orcs just
 don’t care as long as they get to crump something!
-Profile M WS BS S T W I A Ld
-4 4 3 4 4 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 4 4 1 3 1 7
 Weapons/Armor: A Black Orc may be equipped with
 weapons and armor chosen from the Black Orc equipment
 list.
@@ -207,8 +207,8 @@ Keen eager and, above all, green recruits to any warband, these
 lads haven’t seen anywhere near as much action as the others in the
 warband and they’re plenty keen to get in there and do some
 damage. Of course one day, they know it’ll be their warband.
-Profile M WS BS S T W I A Ld
-4 2 2 3 4 1 2 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 4 1 2 1 7
 Weapons/Armor: A Young’uns may be equipped with
 weapons and armor chosen from the Henchmen equipment
 list.
@@ -231,8 +231,8 @@ No warband would be complete without the warm bodies to makeup
 the number and thus the Boyz are essential, purely because the
 Black Orcs need someone to kick around when they can’t find
 anything else to do it too.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 4 1 2 1 7
 Weapons/Armor: The Boyz may be equipped with
 weapons and armor chosen from the Henchmen equipment
@@ -245,8 +245,8 @@ Animosity: Orc Boyz are subject to the rules for Animosity
 200 gold crowns to hire
 Trolls are not intelligent enough to recognize the value of gold, but
 large amounts of food can often instill a certain loyalty in them.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 1 5 4 3 1 3 4
 Weapons/Armor: Trolls do not require weapons to fight
 but often carry a big club. In any event, Trolls can never be
@@ -281,8 +281,8 @@ hunters, tracking prey and shooting it down from a distance; others
 recognise that sometimes you need to soften up a really tough foe
 from a distance before moving in to finish them off. This is the
 closest Orcs come to outright cowardice.
-Profile M WS BS S T W I A Ld
-4 3 3 3 4 1 2 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 4 1 2 1 7
 Weapons/Armor: Shootaz may be equipped with weapons
 and armor chosen from the Henchmen equipment list.
 Special Rules
@@ -300,8 +300,8 @@ Orcish standards, they are a complete bunch of primitives. They use
 mostly stone or bone weapons and go around half-naked, or worse.
 Many live in their own tribes and have their own ways of fighting
 that make them easily distinguishable.
-Profile M WS BS S T W I A Ld
-4 3 2 3 4 1 2 2 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 2 3 4 1 2 2 5
 Weapons/Armor: A Savage Orc may be equipped with
 weapons and armor chosen from the Henchmen equipment
 list.
@@ -477,8 +477,8 @@ Forest Goblins are usually led by the biggest, strongest, and most
 cunning Goblin in the band. This Chieftain routinely comes up with
 ways to drive off the Old World invaders, and collect gold for Mork
 and Gork
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 4 3 3 1 4 1 7
 Weapons/Armor: A Chieftain may be equipped with
 weapons and armor chosen from the Hero equipment list.
@@ -494,8 +494,8 @@ Forest Goblin Braves are just a tad more intelligent than their
 peers, and aid the Chieftain in directing them in battle. This does
 not improve their temperament, however, since they are as prone to
 infighting as their henchmen.
-Profile M WS BS S T W I A Ld
-4 2 3 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 3 1 6
 Weapons/Armor: Braves may be equipped with weapons
 and armor chosen from the Hero equipment list.
 Skills: The Braves may choose from Combat, Shooting, &
@@ -511,8 +511,8 @@ Shamans use the power of the Waaagh to direct the might of G’rrk
 and M’rrk against their foes. Usually found scrounging up
 mysterious animal parts instead of gold, most other Goblins agree
 that ‘dey is odd’.
-Profile M WS BS S T W I A Ld
-4 2 3 3 3 1 4 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 4 1 6
 Weapons/Armor: Shaman may be equipped with weapons
 and armor chosen from the Hero equipment list.
 Skills: The Shaman may choose from Academic, & Speed
@@ -533,8 +533,8 @@ Forest Goblins
 Forest Goblin warriors form the rank and file of a Goblin warband.
 They use their natural talents to harass their enemies while keeping
 out of sight in the dense foliage.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 3 1 6
 Weapons/Armor: A Forest Goblin may be equipped with
 weapons and armor chosen from the Henchmen equipment
@@ -548,8 +548,8 @@ Animosity.
 Of all the various factions that comprise the Forest Goblins, the
 infamous Red Toof tribe is the most feared. They are elite shock
 troops, valued by Chieftains for their berserk rage in battle.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 3 1 6
 Weapons/Armor: Red Toof Boyz may be equipped with
 weapons and armor chosen from the Henchmen equipment
@@ -571,8 +571,8 @@ animosity for that turn.
 Sluggas practice the art of throwing various objects until they can
 hurl several projectiles in a split second. This makes them useful for
 distracting enemies with a hail of heavy stones.
-Profile M WS BS S T W I A Ld
-4 2 3 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 3 1 6
 Weapons/Armor: Sluggas may be equipped with weapons
 and armor chosen from the Henchmen equipment list.
 Special Rules
@@ -587,8 +587,8 @@ Gigantic Spiders are best avoided when encountered in the wild,
 due to their deadly poison and huge size. When urged into fighting
 by Forest Goblin beastmasters, they become doubly dangerous and
 much harder to evade.
-Profile M WS BS S T W I A Ld
-6 3 0 5 5 3 4 2 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 0 5 5 3 4 2 4
 Weapons/Armor: A Gigantic Spider never needs or uses
 weapons or armor.
 Special Rules

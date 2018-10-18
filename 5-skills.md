@@ -1251,8 +1251,8 @@ bat. A Vampire can change form in the recovery phase regardless of
 whether the Vampire is Knocked Down or Stunned but he suffers all
 penalties for standing up for example. The Vampire may change
 back to Vampire form at the start of any subsequent recovery phase.
-Profile M WS BS S T W I A Ld
-Ratswarm Form 6 3 0 3 3 * * 4 *
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Ratswarm Form 6 3 0 3 3 * * 4 *
 While in Ratswarm form the Vampire may not use weapons and
 does not receive any protection from armor. He cannot shoot with a
 missile weapon or cast spells but can attack in close combat without
@@ -1265,8 +1265,8 @@ move through walls as most have a small holes in them.
 Bat Form: Many Vampires can transform into giant bats. A
 Vampire can change form in exactly the same manner as detailed
 above.
-Profile M WS BS S T W I A Ld
-Bat Form 8 3 0 3 2 * * 1 *
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Bat Form 8 3 0 3 2 * * 1 *
 Whilst in Bat form the Vampire may fly and ignores movement
 penalties, he cannot run as such but may move double distance and a
 charge move is also doubled. The Vampire may not use weapons
@@ -1276,8 +1276,8 @@ without a penalty for fighting without a weapon.
 Wolf Form: Many Vampires can transform into Giant Wolves. A
 Vampire can change form in exactly the same manner as described
 above.
-Profile M WS BS S T W I A Ld
-Wolf Form 9 4 0 4 3 * * 2 *
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Wolf Form 9 4 0 4 3 * * 2 *
 Whilst in Wolf form the Vampire may not use weapons and does not
 receive any protection from armor. He cannot shoot with a missile
 weapon or cast spells but can attack in close combat without a

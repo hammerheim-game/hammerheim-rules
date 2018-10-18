@@ -249,8 +249,8 @@ Miscellaneous Equipment
 The War-leader is an experienced Wood Elven hero, who been
 Proven themselves in countless combats. The War-leader has been
 appointed by the elders to lead the warband.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 5 3 3 1 6 1 8
 Weapons/Armor: A War-leader may be equipped with
 weapons and armor chosen from the Forest-Walker
@@ -273,8 +273,8 @@ the Waywatcher move through human lands to find out more about
 those who would threaten the sanctity of their Forest Realm. Their
 ability to blend into their surroundings makes them difficult to
 target.
-Profile M WS BS S T W I A Ld
-5 4 5 3 3 1 6 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 5 3 3 1 6 1 7
 Weapons/Armor: Waywatcher may be equipped with
 weapons and armor chosen from the Scout Equipment list.
 Skills: The Waywatcher may choose from Shooting, and
@@ -299,8 +299,8 @@ from the Wood Elves spirit. All their spells are fed from the earth’s
 energy. They sing their incantations softly and them the forces of
 nature react. Even in remote or desolate places they find their
 energy...
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 3 3 1 6 1 7
 Weapons/Armor: Spellsinger may be equipped with
 weapons and armor chosen from the Forest-Walker
@@ -324,8 +324,8 @@ Wardancers are perhaps the greatest and are certainly the most
 unusual of the Wood Elven warriors, possessing incredible
 acrobatic abilities and a strange fighting style designed to resemble
 a dance.
-Profile M WS BS S T W I A Ld
-5 5 4 3 3 1 6 2 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 4 3 3 1 6 2 8
 Weapons/Armor: Wardancer may be equipped with
 weapons and armor chosen from the Wardancer Equipment
 list.
@@ -362,8 +362,8 @@ impatience of youth the young elves are eager to show their skills.
 Many Younglings fight in hand-to-hand combat with swords and
 daggers while others prefer to train only with the traditional
 longbow.
-Profile M WS BS S T W I A Ld
-5 2 2 3 3 1 4 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 2 2 3 3 1 4 1 6
 Weapons/Armor: Younglings may be equipped with
 weapons and armor chosen from the Forest-Walker
 Equipment list.
@@ -387,8 +387,8 @@ Guards in his domain to deter almost all small armies of intruders.
 With their experience they try to calm the Younglings rashness, but
 they also know that the young of the wild must learn their hard
 lessons first hand, there is no respite in the wild – eat or be eaten.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 5 1 7
 Weapons/Armor: Glade Guards may be equipped with
 weapons and armor chosen from the Forest-Walker
@@ -402,8 +402,8 @@ Through the long winter mouths, the forests are at its lowest ebb,
 made dormant and Vulnerable through the cycle of the seasons.
 During this time, guardianship of the most sacred of places falls to
 the Eternal Guard; sons and daughters of noble houses.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 3 3 3 1 5 1 7
 Weapons/Armor: Eternal Guards may be equipped with
 weapons and armor chosen from the Forest-Walker
@@ -421,8 +421,8 @@ Wood Elf Archers are renowned throughout the Old World as the
 finest archers. This reputation is rightly deserved. The Longbow is
 the first weapon a Wood Elf is taught to use and the skill of archery
 is practiced every day.
-Profile M WS BS S T W I A Ld
-5 3 4 3 3 1 5 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 4 3 3 1 5 1 7
 Weapons/Armor: Archers may be equipped with weapons
 and armor chosen from the Scout Equipment list.
 Special Rules: Excellent Sight, Forest Folks, Wood Elf
@@ -436,8 +436,8 @@ Creatures of the forests, the Dryads are dangerous foes when
 angered. They fight with their Elven allies to prevent harm coming
 to their lands. Some few were moved to assist the Shadow-Hunters
 in their task.
-Profile M WS BS S T W I A Ld
-5 4 0 4 4 1 6 2 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 4 4 1 6 2 8
 Weapons/Armor: Razor Sharp Talons (Counts as being
 unarmed but with no combat penalties)
 Special Rules: Forest Spirits
@@ -445,8 +445,8 @@ Special Rules: Forest Spirits
  
 0-1 Tree-kin
 125 gold crowns to hire
-Profile M WS BS S T W I A Ld
-5 4 0 5 5 3 3 3 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 5 5 3 3 3 8
 Weapons/Armor: Swinging Boughs (Counts as being unarmed but
 with no combat penalties..
 Special Rules: Forest Spirits, Large Target

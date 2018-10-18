@@ -91,8 +91,8 @@ Dragon-Templars, an ancient knightly order based in the Empire or
 other unholy Orders. Unlike their von Carstein cousins, they have
 not much love for Magic and intrigues. They prefer using their
 combat abilities rather than using dark magic.
-Profile M WS BS S T W I A Ld
-6 4 4 4 4 2 5 2 9
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 4 4 4 4 2 5 2 9
 Weapons/Armor: Blood Dragon Knight may be equipped
 from the Blood Dragon equipment list
 Skills: The Blood Dragon Knight may choose from Combat,
@@ -126,8 +126,8 @@ inlaid with evil runes, an accursed parody of once powerful magical
 blades. Some Vampires rule over entire regiments of Wights,
 warriors who dared challenge them in life and now serve them in
 death.
-Profile M WS BS S T W I A Ld
-4 4 3 4 4 1 3 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 4 4 1 3 1 8
 Weapons/Armor: Wights may be equipped from the Blood
 Dragon equipment list
 Skills: The Wights may choose from Combat and Strength,
@@ -152,8 +152,8 @@ society because of their strange appearance. Although they are not
 really evil, they often have an unimaginable hate for human society.
 Vampires use them as servants and as they treat them very well, the
 Bondsmen are loyal to death to their undead master.
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 2 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 2 1 5
 Weapons/Armor: Bondsmen may be armed with weapons
 and armor chosen from the Undead Warrior Equipment list.
 Skills: The Bondsmen may choose from Combat, Shooting,
@@ -183,8 +183,8 @@ confronted by a ghastly apparition, for who could remain unafraid
 when faced with the remains of long-dead warriors lurching
 towards him?
 
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 2 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 2 1 5
 Weapons/Armor: Skeleton Warriors may be equipped with
 weapons and armor chosen from the Undead Warrior
 equipment list.
@@ -204,8 +204,8 @@ Skeletons never gain experience!
 
 0-5 Skeleton Bowmen
 25 gold crowns to hire
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 2 1 5
 Weapons/Armor: Skeleton Bowmen may be equipped with
 weapons and armor chosen from the Undead Warrior
@@ -231,8 +231,8 @@ him as guards. Although they look very similar to ordinary
 skeletons, they are driven by an eternal hate for all living beings
 which can be seen in the green fire which burns within their empty
 eye sockets.
-Profile M WS BS S T W I A Ld
-4 3 2 3 3 1 2 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 2 3 3 1 2 1 6
 Weapons/Armor: Grave Guard may be equipped with
 weapons and armor chosen from the Blood Dragon
 equipment list.
@@ -255,8 +255,8 @@ and can get no experience.
 25 gold crowns to hire
 Hell Hounds are monstrous undead wardogs raised to undead life
 by the powers of the Vampire.
-Profile M WS BS S T W I A Ld
-8 4 0 4 3 1 2 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |8 4 0 4 3 1 2 1 5
 Weapons/Armor: Hell Hounds are animals and cannot use
 Weapons or Armor.
 Special Rules

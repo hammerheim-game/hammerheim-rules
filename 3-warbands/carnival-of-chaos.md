@@ -145,8 +145,8 @@ outlandish entertainment into their otherwise dreary lives. It is the
 Carnival Master’s cunning and clever enchantments that help to
 keep his minions one step ahead of the patrols of the many Witch
 Hunter bands that rove the land.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 3 1 8
 Weapons/Armor: The Master may be equipped with
 weapons and armor chosen from the Carnival of Chaos
@@ -178,8 +178,8 @@ although their bodies appear outwardly strong and healthy, their
 faces are often riddled with disease and are half-decayed. In battle,
 they wield huge hammers and flails with reckless abandon, whirling
 them around their heads like children’s toys.
-Profile M WS BS S T W I A Ld
-4 4 0 4 4 1 2 2 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 0 4 4 1 2 2 7
 Weapons/Armor: Brutes may be equipped with weapons
 and armor chosen from the Brute Equipment list.
 Skills: The Brutes may choose from Combat, Strength, &
@@ -207,8 +207,8 @@ horrendous maladies. These twisted creatures are exceptionally
 dangerous opponents in combat too, for it is said that they carry the
 dreaded and incurable Nurgle’s Rot.
 
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Tainted Ones may be equipped with
 weapons and armor chosen from the Carnival of Chaos
 Equipment list.
@@ -236,8 +236,8 @@ and can only be maintained for long periods by Dark Magic and
 sacrifice. In the Carnival, the Plague Bearers revel in their showy
 roles as stage actors and players, dressing in filth encrusted but
 ostentatious doublet and hose.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 4 4 1 4 2 10
 Weapons/Armor: None. Plague Bearers have huge filth
 encrusted claws, which they use to tear and slash at their foes.
@@ -296,8 +296,8 @@ musicians but also as fools and slapstick comedians. Nurglings
 often befriend the children of each village they visit, only revealing
 their foul identity to their terrified victims at the final stage of
 ‘Nurgle’s Great Play’.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 0 3 2 1 3 1 10
 Weapons/Armor: None. Nurglings do not use weapons or
 wear armor.
@@ -342,8 +342,8 @@ chosen. Most brethren are infected with foul diseases and some have
 even started to decay. Their faces are covered in warts and boils
 and other lesser gifts of their lord. In the Carnival, the Brethren take
 on all of the minor roles: stagehands, puppeteers, etc.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Brethren may be equipped with weapons
 and armor chosen from the Carnival of Chaos Equipment
 list.
@@ -362,8 +362,8 @@ minions that are permitted entry. It is rumoured that these
 ramshackle wagons contain a pentagram daubed with dark runes of
 incredible potency that actually creates a portal to the realms of
 Chaos and the dwelling place of great Nurgle himself.
-Profile M WS BS S T W I A Ld
-Cart - - - - 6 4 - - -
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Cart - - - - 6 4 - - -
 Horse 8 - - 3 3 1 3 1 -
 Guardian - 3 - 3 3 - 3 1 -
 Weapons/Armor: None. The Plague Cart’s Guardian is equipped with

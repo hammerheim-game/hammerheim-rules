@@ -1518,8 +1518,8 @@ automatically recovered after each battle.
 Bolt or dart throwers are large crossbow that shoots a spear-sized
 missile. They are so large that they mounted on their own stand,
 often with wheels so they can be pivoted easily.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Bolt Thrower * - - - 5 3 - - -
 
 
@@ -1677,8 +1677,8 @@ and the warrior suffers no penalties for moving and shooting.
 
 ### Repeater Bolt Thrower
 
-Profile M WS BS S T W I A Ld
-Repeater Bolt Thrower * - - - 5 3 - - -
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Repeater Bolt Thrower * - - - 5 3 - - -
 
 
 __Range:__ 36"
@@ -2286,8 +2286,8 @@ a rifle must take its armor save with a -2 modifier.
 While the cannon can slow the warband down somewhat, it is
 extremely useful against the larger creatures inhabiting the City of
 the Damned.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Small Cannon * - - - 5 3 - - -
 
 
@@ -3524,8 +3524,8 @@ Normally they are peaceful creatures but when they feel threatened
 they rip into their opponents with sharp deadly claws. Their strong
 arms can wrap around a Warrior and slowly squeeze the life out of
 him.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Black Bear 5 3 - 4 4 2 4 2 4
 Grizzly Bear 5 3 - 5 5 2 3 3 4
 Special Rules
@@ -3550,8 +3550,8 @@ Birds of Prey
 Falcons and other birds of prey are much sort after by beast masters
 as they are very useful for catching game and hindering opponents
 by attacking weak spots such as the face and groin of enemy models.
-Profile M WS BS S T W I A Ld
-Eagle 12 4 - 3 3 1 4 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Eagle 12 4 - 3 3 1 4 1 6
 Falcon 16 3 - 3 2 1 5 1 7
 Hawk 12 3 - 4 3 1 4 1 6
 Kite 20 3 - 2 2 1 5 1 7
@@ -3574,8 +3574,8 @@ Part fungus and part flesh, these strange ferocious creatures are
 almost all teeth, easily able to take a man’s leg off with a single bite.
 [Greenskins Only]
 
-Profile M WS BS S T W I A Ld
-Cave Squig 2D6 4 0 4 3 1 4 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Cave Squig 2D6 4 0 4 3 1 4 1 5
 
 Special Rules
 Animal Companion: The Cave Squig may be an Animal
@@ -3615,8 +3615,8 @@ Some Warriors of Chaos control packs of snarling, vicious war
 dogs. These creatures have been cruelly mutated by their exposure
 to Chaos, and bear barbed tails, skeletal faces and sometimes extra
 heads and limbs.
-Profile M WS BS S T W I A Ld
-Chaos Hound 7 4 0 4 3 1 3 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Chaos Hound 7 4 0 4 3 1 3 1 5
 Special Rules
 Animal Companion: The Chaos Hound may be an Animal
 Companion to a warrior
@@ -3637,8 +3637,8 @@ respects reptilian. Rows of sharp teeth fill its maw, and when
 provoked, the Cold One Beast-hound is a very aggressive beast. The
 Dark Elves capture and train these creatures to fight in battles all
 over the Warhammer world.
-Profile M WS BS S T W I A Ld
-Beast-hound 6 3 0 4 4 1 1 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Beast-hound 6 3 0 4 4 1 1 1 4
 Special Rules
 Stupidity: Cold One Beast-hounds may use the basic
 Leadership of it Master if they are within 6" of him.
@@ -3682,8 +3682,8 @@ base (in fact many of the familiars that GW sells come this
 way), but if this is done the familiar must always remain
 within 6" of the Magic User, may and it may attack enemy
 models or be attacked itself, other than the effect below.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Familiar 6 4 0 4 3 1 4 1 5
 Options: The Familiar can be upgraded to one of the
 following; Combat Familiar (+35 GC), Power Familiar (+45
@@ -3713,8 +3713,8 @@ or Henchman that puts the Familiar out of action gets a bonus
 Hunting Cats
 Hunting Cats are ferocious beasts capable of tearing a man to
 pieces though they themselves are vulnerable to damage.
-Profile M WS BS S T W I A Ld
-Tiger 9 4 - 4 4 1 6 2 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Tiger 9 4 - 4 4 1 6 2 4
 Panther 9 4 - 4 3 1 6 2 3
 Leopard 9 4 - 4 4 1 6 2 3
 Lion 9 4 - 5 4 1 6 2 4
@@ -3729,8 +3729,8 @@ bonus +1 experience.
 Rat Familiar
 The Rat Familiar is a Giant Rat enchanted with the Scroll of
 the Rat Familiar.
-Profile M WS BS S T W I A Ld
-Rat Familiar 6 2 0 3 3 1 4 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Rat Familiar 6 2 0 3 3 1 4 1 4
 SPECIAL RULES
 Enchanted Animal: The Rat Familiar earns experience as a
 henchman. A result of 10 - 12 on the henchmen advancement
@@ -3745,8 +3745,8 @@ very intelligent and behave very much like extremely enthusiastic
 and uncontrollable puppies. They can fetch and carry for other
 Goblin or Orc races, and do other rather limited tasks, but they are
 little use for any real work.
-Profile M WS BS S T W I A Ld
-Snotling 4 1 1 1 1 1 1 1 3
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Snotling 4 1 1 1 1 1 1 1 3
 Weapons/Armor: Snotling may be equipped with Club,
 Blow pipe or Spear.
 Special Rules
@@ -3765,8 +3765,8 @@ The men of the Empire have always been experts at raising
 ferocious bloodhounds to guard their cattle and holdings against
 roaming Goblins and Beastmen. A highly trained War hound is a
 dangerous opponent and worth its weight in gold in Mordheim.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 War Hound 6 4 0 4 3 1 4 1 5
 Special Rules
 Animal Companion: The War Hound may be an Animal
@@ -3781,8 +3781,8 @@ Wild Hogs are useful beasts in the streets of Mordheim as they
 trample down the street squealing and knocking people out of their
 way. They also have a terrible odour that often makes it an
 unfavourable animal to have around the camp
-Profile M WS BS S T W I A Ld
-Wild Hog 6 3 - 3 4 2 3 1 3
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Wild Hog 6 3 - 3 4 2 3 1 3
 Special Rules
 Animal Companion: The Wild Hog may be an Animal
 Companion to a warrior
@@ -3799,8 +3799,8 @@ Wolves prowl the lands of the Old World, hunting other weaker
 animals for prey. Occasionally, they will become very bloodthirsty
 and attack adventurers instead, especially if they are hungry and
 are travelling in a large group.
-Profile M WS BS S T W I A Ld
-Wolf 9 4 - 3 3 1 5 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Wolf 9 4 - 3 3 1 5 1 5
 Special Rules
 Animal Companion: The wolf may be an Animal
 Companion to a warrior.
@@ -3834,8 +3834,8 @@ warhorses of the Empire. They are used by Possessed and other
 Chaos warbands.
 [Possessed & Carnival of Chaos Warbands Only]
 
-Profile M WS BS S T W I A Ld
-Chaos Steed 8 3 0 4 3 1 3 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Chaos Steed 8 3 0 4 3 1 3 1 5
 Special Rules
 May not be ridden by The Possessed. Even Chaos Steeds
 are skittish around the abhorrent Possessed and will not allow
@@ -3852,8 +3852,8 @@ Cold One
 Scaly, mean and stupid, these native creatures of the New
 World make excellent mounts upon which to fight.
 [Dark Elves, Saurus & Skinks Only]
-Profile M WS BS S T W I A Ld
-Cold One 7 3 0 4 4 1 3 1 3
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Cold One 7 3 0 4 4 1 3 1 3
 Special Rules
 Fear: Cold Ones cause fear.
 Stupid: Roll against the rider’s Leadership each turn; if the
@@ -3873,8 +3873,8 @@ even Dark Elves breed these fine beasts. Typically, High Elf
 steeds are grey and white, Wood Elf steeds are tan and white,
 and Dark Elf steeds are midnight black.
 [Elves Only]
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Elven Steed 9 3 0 3 3 1 4 1 5
 SPECIAL RULES
 Battle Schooled: The mount has been specially trained to
@@ -3890,8 +3890,8 @@ The Giant Spider is the stuff of nightmares. Typically 10 to 12
 feet long they are highly prized by Forest Goblins as mounts.
 [Goblin Only]
 
-Profile M WS BS S T W I A Ld
-Giant Spider 7 3 0 3(4) 3 1 4 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Giant Spider 7 3 0 3(4) 3 1 4 1 4
 Special Rules
 Poisoned Attack: Giant Spider attacks are poisoned – attacks
 are considered as strength 4, but this will not modify any
@@ -3918,8 +3918,8 @@ the known world. However, catching one of these nasty, fast
 moving beasts is another thing – especially if you are a
 Goblin.
 [Goblin Only]
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Giant Wolf 9 3 0 3 3 1 4 1 4
 Note: Giant Wolves cannot be used in a warband that already
 contains Giant Spiders.
@@ -3932,8 +3932,8 @@ Mule
 Their stubbornness is legendary, but even so, these beasts of
 burden are occasionally ridden by Halflings, Dwarfs and
 even overweight clerics!
-Profile M WS BS S T W I A Ld
-Mule 6 2 0 3 3 1 2 0 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Mule 6 2 0 3 3 1 2 0 4
 Special Rules
 Slow: Mules are not the fastest of mounts and only bolt
 2D6".
@@ -3958,8 +3958,8 @@ The Vampire Counts occasionally need fell steeds to carry
 them about their business. Who cares if they're dead? They
 still have legs, don't they?
 [Vampires & Necromancers Only]
-Profile M WS BS S T W I A Ld
-Nightmare 8 2 0 3 3 1 2 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Nightmare 8 2 0 3 3 1 2 1 5
 Special Rules
 May Not Run: As an undead creature, a Nightmare may not
 run, but may charge as normal.
@@ -3979,8 +3979,8 @@ Riding horses are not trained for battle and will not normally
 attack an enemy. However, they are useful for moving rapidly
 around the site of a battle.
 [Humans Only]
-Profile M WS BS S T W I A Ld
-Horse 8 1 0 3 3 1 3 0 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Horse 8 1 0 3 3 1 3 0 5
 Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the Horse out of action gets a bonus +1
@@ -3994,8 +3994,8 @@ horses, but when they died their flesh decomposed. When all that
 was left of them was their bones, evil Necromancers raised them
 from the dead.
 [Undead Only]
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Skeletal Steed 8 2 2 3 3 1 2 1 5
 Special Rules
 May Not Run: As an undead creature, a Skeletal Steed may
@@ -4017,8 +4017,8 @@ Tuskgors are a cross between a boar and a ram. Their bodies are
 covered in thick brown fur and they have a large bony crest with
 sharp horns on their forehead.
 [Beastmen Only]
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Tuskgor 7 3 - 4 4 1 2 1 4
 Special Rules
 Head-butt: If the Tuckgor charge attack hits but fails to
@@ -4039,8 +4039,8 @@ beasts while exploring the ruins of Mordheim and beyond. It isn’t
 common though, as the bigger and meaner Orcs tend to take the
 boars for themselves.
 [Orc Only]
-Profile M WS BS S T W I A Ld
-War Boar 7 3 0 3 4 1 3 1 3
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |War Boar 7 3 0 3 4 1 3 1 3
 Special Rules
 Ferocious Charge: Orc war boars attack with +2S when
 charging, due to their bulk. Note that this applies only to the
@@ -4057,8 +4057,8 @@ War horse
 Warhorses are large, well-trained horses, quite at home in
 battle. They are primarily used by human warbands.
 [Humans Only]
-Profile M WS BS S T W I A Ld
-War house 8 3 0 3 3 1 3 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |War house 8 3 0 3 3 1 3 1 5
 SPECIAL RULES
 Battle Schooled: The mount has been specially trained to
 fight on a battlefield. The rider may re-roll any failed loss of

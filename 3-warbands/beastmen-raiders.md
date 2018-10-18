@@ -197,8 +197,8 @@ Shield .........................................................................
 Beastmen chieftains have gained their position through sheer
 brutality. He leads the Beastmen to Mordheim to gather the Chaos
 Stones to his Herdstone.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: || :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 3 4 4 1 4 1 8
 Weapons/Armor: The Beastmen Chieftain may be
 equipped with weapons and armor chosen from the
@@ -216,8 +216,8 @@ Hates Humans: The Beastman has Hatred of all humans.
 45 Gold Crowns to hire
 Beastmen Shamans are prophets of the Dark Gods, and the most
 respected of all the Beastmen.
-Profile M WS BS S T W I A Ld
-5 4 3 3 4 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 3 3 4 1 3 1 6
 Weapons/Armor: Beastmen Shamans may be equipped
 with weapons chosen from the Beastmen Equipment list
 except that they never wear armor.
@@ -240,8 +240,8 @@ Beastman. Being quadruped grants them great strength and speed
 whilst their humanoid upper torsos allow them to wield weapons.
 These beast centaurs are powerful creatures but they are not
 particularly agile or dexterous.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 8 4 3 4 4 1 2 1 7
 Weapons/Armor: Centigors may be armed with weapons
 and armor chosen from Gor Equipment list.
@@ -270,8 +270,8 @@ Centigor Impact Hits (1).
 Bestigors are the largest type of Beastmen, the great horned
 warriors of the Beastmen warbands. They are massive creatures
 with an inhuman resistance of pain.
-Profile M WS BS S T W I A Ld
-5 4 3 4 4 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 3 4 4 1 3 1 7
 Weapons/Armor: Bestigors may be equipped with
 weapons chosen from the Beastmen Equipment list.
 Skills: The Bestigors may choose from Combat, & Strength
@@ -284,8 +284,8 @@ Ungor
 25 Gold Crowns to hire
 Ungor are the most numerous of the Beastmen. They are small,
 spiteful creatures, but dangerous in large masses.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 3 1 5
 Weapons/Armor: Ungor may be armed with weapons and
 armor chosen from Ungor Equipment list.
@@ -299,8 +299,8 @@ Warhounds of Chaos
 15 Gold Crowns to hire
 Chaos Hounds are titanic, mastiff-like creatures which are insanely
 dangerous in combat.
-Profile M WS BS S T W I A Ld
-7 4 0 4 3 1 3 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |7 4 0 4 3 1 3 1 5
 Weapons/Armor: None! Apart from their fangs and nasty
 tempers the Chaos Hounds don’t have weapons and can fight
 without any penalties.
@@ -312,8 +312,8 @@ Experience.
 35 Gold Crowns to hire
 Gor are nearly as numerous as Ungor but are larger and more
 brutish...
-Profile M WS BS S T W I A Ld
-5 4 3 3 4 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 3 3 4 1 3 1 6
 Weapons/Armor: Gor may be armed with weapons and
 armor chosen from Beastmen Equipment list.
  
@@ -322,8 +322,8 @@ armor chosen from Beastmen Equipment list.
 Minotaurs are gigantic, bull-headed Beastmen. Fearsome and
 powerful, any Beastmen Chief will try to recruit a Minotaur into his
 warband if possible.
-Profile M WS BS S T W I A Ld
-6 4 3 4 4 3 4 3 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 4 3 4 4 3 4 3 8
 Weapons/Armor: Minotaurs may be armed with weapons
 and armor chosen from the Beastmen Equipment list.
 Special Rules

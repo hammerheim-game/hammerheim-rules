@@ -113,8 +113,8 @@ terror. They have attained their position of leadership by
 eliminating rival nobles who stand in their way and through their
 remarkable cunning, they are dangerous foes who embody the
 merciless traits of the Druchii race.
-Profile M WS BS S T W I A Ld
-5 5 4 3 3 1 6 1 9
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 4 3 3 1 6 1 9
 Weapons/Armor: A High Born may be armed with
 weapons and armor chosen from the Dark Elf Equipment
 list.
@@ -135,8 +135,8 @@ particular weapon and fighting style. Killing is a way of life for
 these warriors. Enemies can expect no mercy from them. Fellblades
 accompany raiding parties to Lustria as paid guards or to further
 hone their killing skills.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 4 3 3 1 6 1 8
 Weapons/Armor: Fellblades may be armed with weapons
 and armor chosen from the Dark Elf Equipment list.
@@ -156,8 +156,8 @@ infamous Beastmasters, Dark Elves of particularly cruel renown
 who breed many vicious beasts and lead them into contact. Unlike
 the High Elves who treat their beasts as companions, the Dark Elf
 Beastmasters are very spiteful masters.
-Profile M WS BS S T W I A Ld
-5 4 4 3 3 1 6 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 4 3 3 1 6 1 8
 Weapons/Armor: A Beastmaster may be armed with
 weapons and armor chosen from the Dark Elf Equipment
 list.
@@ -179,8 +179,8 @@ immediately put to death to fulfil some dark prophecy. Dark Elf
 Sorceresses are mysterious, raven haired beauties who are
 grudgingly respected even from the powerful High Born and their
 services are high in demand.
-Profile M WS BS S T W I A Ld
-5 4 4 3 3 1 6 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 4 3 3 1 6 1 8
 Weapons/Armor: The Sorceress may be armed with
 weapons and armor chosen from the Dark Elf Equipment
 list but they may not cast spells if wearing armor.
@@ -206,8 +206,8 @@ of the Corsairs – the Black Ark Raiders. They are skilled with sword
 and axe, as well as the repeater crossbow, the distinct missile
 weapon of the Dark Elves. Whenever a Black Ark explores the coast
 of Lustria the Corsairs are the first to launch raiding parties.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 3 3 1 6 1 8
 Weapons/Armor: Corsairs may be armed with weapons
 and armor chosen from the Dark Elf Equipment list, in
@@ -221,8 +221,8 @@ harass and snipe at the enemy, rather than engaging them head on
 as ambush is the preferred style of fighting. Shades are young and
 inexperienced scouts that see the expeditions to Lustria as a
 valuable training opportunity.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 5 1 8
 Weapons/Armor: Shades may be armed with weapons and
 armor chosen from the Shades Equipment list.
@@ -244,8 +244,8 @@ respects reptilian. Rows of sharp teeth fill its maw, and when
 provoked, the Cold One Beasthound is a very aggressive beast. The
 Dark Elves capture and train these creatures to fight in battles all
 over the Warhammer world.
-Profile M WS BS S T W I A Ld
-6 3 0 4 4 1 1 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 0 4 4 1 1 1 4
 Weapons/Armor: Cold One Beasthounds are animals and
 do not need any weapons save their claws and massive jaws.
 Special Rules

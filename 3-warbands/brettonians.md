@@ -161,8 +161,8 @@ who fights to uphold the traditions of honour and to serve the Lady
 of the Lake. Injustice and the persecution of the weak are his
 enemies, whilst courage and valour are his companions. It is no
 wonder then that many a Questing Knight will journey to Mordheim.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 4 3 1 4 1 8
 Weapons/Armor: A Questing Knight may be equipped
 with weapons and armor chosen from the Knights section of
@@ -187,8 +187,8 @@ feats of arms, and earn their place amongst the Knights of the
 Realm of Bretonnia. To do this they must perform valorous deed, so
 they will often accompany a Questing Knight on his spiritual
 journey in the hope of adventure and honour.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: A Knight Errant may be equipped with
 weapons and armor chosen from the Knights section of the
 Bretonnian Equipment list. A Knight Errant may not ride a
@@ -212,8 +212,8 @@ from the fittest and youngest of a Knight’s retinue, and they are
 trained and schooled by the knight himself. If a squire performs
 some great deed or service to his master he may even be raised to
 the ranks of knighthood!
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 3 3 1 3 1 6
 
 Weapons/Armor: Squires may be equipped with weapons
@@ -234,8 +234,8 @@ a retinue when he is a lord of a domain, and upon embarking on a
 quest, this retinue may join him on his journey. Men-at-arms are
 determined warriors, ready to fight for honour and justice as much
 as the Questing Knight they follow.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Men-at-arms may have weapons and
 equipment chosen from the Men-at-arms section of the
@@ -248,8 +248,8 @@ village butts so as to be ready to repel raiders from their humble
 cottages, fields and vineyards. When a Knight sets off on a quest it is
 not uncommon for a handful of bowmen to be inspired to bravery
 and join the Knight on his journey.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 6
 Weapons/Armor: Bowmen may be equipped with weapons
 chosen from the Bowmen section of the Bretonnian
 Equipment list.
