@@ -99,9 +99,9 @@ Spear ..........................................................................
 Missile Weapons
 Bow ............................................................................. 15 GC
 Short bow .................................................................... 10 GC
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -116,9 +116,9 @@ Double-handed weapon ............................................... 15 GC
 Flail ............................................................................. 15 GC
 Missile Weapons
 None
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
@@ -131,8 +131,8 @@ of the Dark gods, utterly dedicated to bringing Chaos to the world.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 3 1 8
-Weapons/Armor: The Magister may be equipped with
-weapons and armor chosen from the Possessed Equipment
+Weapons/Armour: The Magister may be equipped with
+weapons and armour chosen from the Possessed Equipment
 list.
 Skills: The Magister may choose from Combat, Academic, &
 Speed when he gains a new skill.
@@ -159,8 +159,8 @@ creatures of Mordheim, and certainly the most loathsome and
 dreadful.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 4 4 2 4 2 7
-Weapons/Armor: None. The Possessed never use weapons
-or armor.
+Weapons/Armour: None. The Possessed never use weapons
+or armour.
 Skills: The Possessed may choose from Combat, Strength, &
 Speed when he gains a new skill.
 Special Rules
@@ -176,8 +176,8 @@ physical disfigurements marking out the vileness of their soul. They
 come in many shapes and sizes, each more bizarre than the next.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Mutants may be equipped with weapons
-and armor chosen from the Possessed Equipment list.
+Weapons/Armour: Mutants may be equipped with weapons
+and armour chosen from the Possessed Equipment list.
 Skills: The Mutant may choose from Combat & Speed when
 he gains a new skill.
 Special Rules
@@ -198,13 +198,13 @@ Their insane strength makes Darksouls dangerous fighters. The
 Cultists regard them as holy men, and let them work out their
 unreasoning rage in battle. In their tortured minds the Darksouls
 believe themselves to be Daemons. They wear leering daemonic
-masks and garb themselves in armor and clothing resembling the
+masks and garb themselves in armour and clothing resembling the
 scaled skin of Daemons.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 4 3 1 3 1 6
-Weapons/Armor: Darksouls may be equipped with
-weapons and armor chosen from the Darksouls Equipment
+Weapons/Armour: Darksouls may be equipped with
+weapons and armour chosen from the Darksouls Equipment
 list.
 Special Rules
 Crazed: Darksouls have been driven insane by daemonic
@@ -218,8 +218,8 @@ gods, eager to descend into damnation. Their vile deeds and
 unspeakable acts have driven them to the brink of insanity.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: The Brethren may be equipped with
-weapons and armor chosen from the Possessed Equipment
+Weapons/Armour: The Brethren may be equipped with
+weapons and armour chosen from the Possessed Equipment
 list.
 0-3 Beastmen
 45 gold crowns to hire
@@ -230,8 +230,8 @@ ruined city to prey upon the survivors. They readily ally with the
 Magisters of the Possessed warbands.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 4 2 3 1 7
-Weapons/Armor: Beastmen may be equipped with
-weapons and armor chosen from the Darksouls Equipment
+Weapons/Armour: Beastmen may be equipped with
+weapons and armour chosen from the Darksouls Equipment
 list.
 
 

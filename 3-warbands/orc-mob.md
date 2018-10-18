@@ -109,8 +109,8 @@ Halberd ........................................................................
 Missile weapons
 Crossbow ..................................................................... 25 GC
 Bow ............................................................................. 10 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -122,7 +122,7 @@ Sword ..........................................................................
 Spear ............................................................................ 10 GC
 Missile weapons
 Short bow ...................................................................... 5 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Miscellaneous
@@ -141,8 +141,8 @@ member!
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 4 4 1 3 1 8
-Weapons/Armor: An Orc Boss may be equipped with
-weapons and armor chosen from the Orc equipment list.
+Weapons/Armour: An Orc Boss may be equipped with
+weapons and armour chosen from the Orc equipment list.
 Skills: The Orc Boss may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
 Orc Boss may choose from the Orc Special Skill list.
@@ -159,9 +159,9 @@ them.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 4 1 3 1 7
-Weapons/Armor: An Orc Shaman may be armed with
+Weapons/Armour: An Orc Shaman may be armed with
 weapons chosen from the Orc equipment list. An Orc
-Shaman may never wear armor.
+Shaman may never wear armour.
 Skills: The Orc Shaman may choose from Strength when he
 gains a new skill. In addition, the Orc Shaman may choose
 from the Orc Special Skill list.
@@ -182,8 +182,8 @@ orders of the Orc Boss. If the Boss ever falls, it is up to the Big ’Uns
 to decide on a new leader (usually through personal combat).
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 4 1 3 1 7
-Weapons/Armor: Big ’Uns may be equipped with
-weapons and armor chosen from the Orc equipment list.
+Weapons/Armour: Big ’Uns may be equipped with
+weapons and armour chosen from the Orc equipment list.
 Skills: The Orc Big ‘Uns may choose from Combat,
 Shooting & Strength when he gains a new skill. In addition,
 the Orc Big ‘Uns may choose from the Orc Special Skill list.
@@ -201,8 +201,8 @@ Orcs do not want or cannot use.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 3 1 5
-Weapons/Armor: Goblins may be armed with weapons
-and armor chosen from Goblin equipment list.
+Weapons/Armour: Goblins may be armed with weapons
+and armour chosen from Goblin equipment list.
 Special Rules
 Animosity: Goblin Warriors are subject to the rules for
 Animosity (see Special Rules for details). Note: A Goblin
@@ -232,8 +232,8 @@ horns, and a nasty temperament.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 2D6 4 0 4 3 1 4 1 5
-Weapons/Armor: Big gob and brutality! Cave Squigs
-never use or need weapons or armor.
+Weapons/Armour: Big gob and brutality! Cave Squigs
+never use or need weapons or armour.
 Special Rules
 Movement: Cave Squigs do not have a set Movement
 characteristic but move with an ungainly bouncing stride. To
@@ -265,8 +265,8 @@ superstitious than most other beings in the Warhammer world. They
 form the core of any Orc warband.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 4 1 2 1 7
-Weapons/Armor: Boyz may be equipped with weapons
-and armor chosen from the Orc equipment list.
+Weapons/Armour: Boyz may be equipped with weapons
+and armour chosen from the Orc equipment list.
 Special Rules
 Animosity: Orc Boyz are subject to the rules for Animosity
 (see Special Rules for details).
@@ -277,9 +277,9 @@ Trolls are not intelligent enough to recognize the value of gold, but
 large amounts of food can often instill a certain loyalty in them.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 1 5 4 3 1 3 4
-Weapons/Armor: Trolls do not require weapons to fight
+Weapons/Armour: Trolls do not require weapons to fight
 but often carry a big club. In any event, Trolls can never be
-given weapons or armor.
+given weapons or armour.
 Special Rules
 Fear: Trolls are frightening monsters which cause fear.
 Stupidity: A Troll is subject to the rules for stupidity.
@@ -305,4 +305,4 @@ Vomit Attack: Instead of his normal attacks, a Troll can
 regurgitate its highly corrosive digestive juices on an
 unfortunate hand-to-hand combat opponent. This is a single
 attack that automatically hits with a Strength of 5 and ignores
-armor saves.
+armour saves.

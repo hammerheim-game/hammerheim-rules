@@ -264,7 +264,7 @@ When wielding Flails and Morning Stars, the Hero may
 use the Strength Bonuses every Hand-to-Hand phase of the game, not just the first round of a Hand-to-Hand engagement.
 
 #### Strong Legs
-The Hero may use Heavy Armor and a Shield without suffering Movement penalties.
+The Hero may use Heavy Armour and a Shield without suffering Movement penalties.
 
 #### Beastmaster
 If the model confronts an animal (not a mount!) in hand-to-hand combat, then before combat is fought they may attempt to assert control over the animal. The Beastmaster and the animal must each roll a D6 and add their respective Leadership values. If the Beastmaster wins then the animal then comes under control of the Beastmaster's warband. Control of the animal is immediately lost if the Beastmaster either moves more than 8" away or is _incapacitated_.
@@ -383,7 +383,7 @@ Those that worship at the fetid altar of the Lord of Decay suffer from terrible 
 
 #### Stream of Corruption
 The Tainted One can spew forth a grotesque stream of maggots, entrails and filth. This attack uses the
-flame template and is resolved at Strength 2 with no saves for armor.
+flame template and is resolved at Strength 2 with no saves for armour.
 
 Cost: 50 Gold Crowns
 
@@ -420,7 +420,7 @@ The vampire is one of the ever-living and is extraordinarily difficult to kill. 
 
 #### Strength of the Dragon
 The vampire is extremely strong. He gains a +1 Strength bonus and suffers no movement penalties for wearing
-heavy armor and shield.
+heavy armour and shield.
 
 
 ### Bretonnian Knights Special Skills
@@ -597,7 +597,7 @@ If the Hero is ever struck by lightning (such as by a Random Happening, or more 
 ### Dark Elf Special Skills
 
 #### Draich Master
-The hero has chosen the aspect of the Executioner as their primary focus. The hero can wield a double-handed sword without the usual penalty of striking last, and is allowed to wear Heavy or Ithilmar armor (note that he may not wear Gromril armor; what kind of Elf would wear Dwarf-made armor, anyways?).
+The hero has chosen the aspect of the Executioner as their primary focus. The hero can wield a double-handed sword without the usual penalty of striking last, and is allowed to wear Heavy or Ithilmar armour (note that he may not wear Gromril armour; what kind of Elf would wear Dwarf-made armour, anyways?).
 
 #### Fey Quickness
 Few can ever hope to match an Elf ’s inhuman
@@ -843,7 +843,7 @@ Orcs often charge even the most fearsome opponents. The model may ignore Fear an
 Only the Boss may have this skill. The warband may re-roll any failed Rout tests as long as the Boss not _Incapacitated_.
 
 #### Well ’Ard (Greenskin warband only)
-The Orc has a thick, dark-green skin, possibly indicating Black Orc blood. Such is the toughness of the Orc that he may add +1 to any armor saves.
+The Orc has a thick, dark-green skin, possibly indicating Black Orc blood. Such is the toughness of the Orc that he may add +1 to any armour saves.
 
 #### Proven Warrior (Black Orc Warband only)
 This young warrior has proven himself worthy of his Black Orc heritage. This skill may only be taken by a Young’un with the Black Orc blood ability and 20 experience. Once he gains this skill, the model is now considered a full Black Orc Warrior (yet still retains the title of Young’un). He follows all the rules for Black Orcs and uses their equipment list and has access to the same skill lists as a Black Orc.
@@ -982,7 +982,7 @@ The leap may also be used to leap over gaps, but in this case you must commit th
 The Vampire is able to hypnotize a victim using their glowing red eyes, the victim will remain passive and wait for the Vampire to close. In each of the Vampire's turns in their combat phase the gaze may be used on any living model in base contact that is not Immune to Psychology. The victim must pass a Leadership test or be transfixed. A transfixed model may not attack in close combat and is treated as being Knocked Down for purpose of being attacked and injured until their Recovery Phase. 
 
 #### Mist Form
-A Vampire's human form is only one of many and a some can transform into a thin mist in the recovery phase. While in this state the Vampire has a move of 2D6" per turn and may travel through models, even enemy ones. They may not charge, attack in close combat, shoot with a missile weapon or cas't spells and gain no protection from armor. All 'to hit rolls against the Vampire need a natural '6' to hit and all 'to wound' rolls from non-magical attacks need a natural '6' to wound. Note that this may not be modified by any bonuses as it represents the protection of a non-physical form. In this form the Vampire may freely walk out of combat.
+A Vampire's human form is only one of many and a some can transform into a thin mist in the recovery phase. While in this state the Vampire has a move of 2D6" per turn and may travel through models, even enemy ones. They may not charge, attack in close combat, shoot with a missile weapon or cas't spells and gain no protection from armour. All 'to hit rolls against the Vampire need a natural '6' to hit and all 'to wound' rolls from non-magical attacks need a natural '6' to wound. Note that this may not be modified by any bonuses as it represents the protection of a non-physical form. In this form the Vampire may freely walk out of combat.
 
 If the Vampire is Knocked Down they immediately revert to their physical form. The Vampire may change back to Vampire form in any subsequent recovery phase by choice.
 
@@ -996,7 +996,7 @@ can transform into animals such as a wolf, a swarm of rats or a giant bat. A Vam
 _Fields with a * remain the same as pre-transformation._
 
 
-While in Ratswarm form the Vampire may not use weapons and does not receive any protection from armor. They cannot shoot with a missile weapon or cast spells but can attack in close combat without a penalty for fighting without a weapon. The Vampire should be represented by a Ratswarm base in this form, but due to their tiny induvidual size they are capable of freely moving through walls (though still require Initiative tests to climb or jump).
+While in Ratswarm form the Vampire may not use weapons and does not receive any protection from armour. They cannot shoot with a missile weapon or cast spells but can attack in close combat without a penalty for fighting without a weapon. The Vampire should be represented by a Ratswarm base in this form, but due to their tiny induvidual size they are capable of freely moving through walls (though still require Initiative tests to climb or jump).
 
 #### Bat Form
 The small and innocuous bat is a famous and iconic choice for Von Carstein vampires. A Vampire can change form in exactly the same manner as detailed above.

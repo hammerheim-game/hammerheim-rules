@@ -98,9 +98,9 @@ Missile Weapons
 Crossbow ..................................................................... 25 GC
 Pistol .................................................. 15 GC (30 for a brace)
 Crossbow pistol ........................................................... 35 GC
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
@@ -112,7 +112,7 @@ Morning star ................................................................ 15
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 None
-Armor
+Armour
 None
 
 Zealot Equipment List
@@ -127,8 +127,8 @@ Spear ..........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Short bow ...................................................................... 5 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
@@ -143,8 +143,8 @@ worshippers... in fact all who dare to oppose them.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
-Weapons/Armor: A Witch Hunter Captain may be
-equipped with weapons and armor chosen from the Witch
+Weapons/Armour: A Witch Hunter Captain may be
+equipped with weapons and armour chosen from the Witch
 Hunter Equipment list.
 Skills: The Witch Hunter Captain may choose from Combat,
 Shooting, Academic, Strength, & Speed when he gains a new
@@ -164,8 +164,8 @@ of Sigmar, but the situation in Mordheim requires them to band
 together.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Witch Hunters may be equipped with
-weapons and armor chosen from the Witch Hunter
+Weapons/Armour: Witch Hunters may be equipped with
+weapons and armour chosen from the Witch Hunter
 Equipment list.
 Skills: The Witch Hunters may choose from Combat,
 Shooting, Academic, & Speed when he gains a new skill.
@@ -187,8 +187,8 @@ Sigmar, the praise of the patron god of the Empire.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 8
 
-Weapons/Armor: A Warrior-Priest may be equipped with
-weapons and armor chosen from the Witch Hunter
+Weapons/Armour: A Warrior-Priest may be equipped with
+weapons and armour chosen from the Witch Hunter
 Equipment list.
 Skills: The Warrior-priest may choose from Combat,
 Academic, & Strength when he gains a new skill.
@@ -216,8 +216,8 @@ their ranks, and many a band of Zealots is led by Witch Hunters.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 3 3 1 3 1 7
-Weapons/Armor: Zealots may be equipped with weapons
-and armor chosen from the Zealot Equipment list.
+Weapons/Armour: Zealots may be equipped with weapons
+and armour chosen from the Zealot Equipment list.
 0-5 War hounds
 15 gold crowns to buy
 Witch Hunters often keep packs of ferocious hunting dogs. With
@@ -226,8 +226,8 @@ their huge jaws and powerful bite, they are perfect for hunting down
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 0 4 3 1 4 1 5
-Weapons/Armor: Jaws and brutality! War hounds never
-use or need weapons and armor.
+Weapons/Armour: Jaws and brutality! War hounds never
+use or need weapons and armour.
 Special Rules
 Animals: War hounds are animals and thus do not gain
 experience.
@@ -246,8 +246,8 @@ they have the strength of madmen, and their bodies have become
 inured to pain because of self-mutilation.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 4 4 1 3 1 10
-Weapons/Armor: Flagellants may be equipped with
-weapons and armor chosen from the Flagellant Equipment
+Weapons/Armour: Flagellants may be equipped with
+weapons and armour chosen from the Flagellant Equipment
 list. Flagellants never use missile weapons, even if they gain
 an Advance roll which would otherwise allow them to do so.
 Special Rules

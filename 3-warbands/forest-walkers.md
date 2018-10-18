@@ -122,9 +122,9 @@ of poison (so no Assassins) or Black power weapons. Also
 Forest-Walker Warband will not hire any Dwarven Hired
 Swords.
 Wood Elf Archery: When using normal Longbows, an extra
-6" range and an additional -1 Armor save. Therefore a
-standard Longbow has a 36" range and-1 armor saves vs.
-normal armor.
+6" range and an additional -1 Armour save. Therefore a
+standard Longbow has a 36" range and-1 armour saves vs.
+normal armour.
 Forest Spirits: The following rules apply to all creatures
 with the Forest Spirit special rule:
 * All Forest Spirits are Immune to Psychology.
@@ -191,13 +191,13 @@ Long Bow .................................................................... 15
 Sling .............................................................................. 2 GC
 Throwing knife ............................................................ 15 GC
 Javelins ........................................................................ 10 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
 Tanned Hide (Toughened leathers) ............................... 5 GC
-Light armor** ............................................................ 20 GC
+Light armour** ............................................................ 20 GC
 Shield ............................................................................ 5 GC
-Cold Metal Armor* ................................................... 50 GC
-Ithilmar Armor* ........................................................ 70 GC
+Cold Metal Armour* ................................................... 50 GC
+Ithilmar Armour* ........................................................ 70 GC
 Miscellaneous Equipment
 Forest Cloak ................................................................ 50 GC
 Healing Herbs .............................................................. 25 GC
@@ -216,11 +216,11 @@ Missile Weapons
 Bow ............................................................................. 10 GC
 Long bow .................................................................... 15 GC
 Throwing knife* .......................................................... 15 GC
-Armor
+Armour
 Tanned Hide (Toughened leathers) ............................... 5 GC
-Light armor* .............................................................. 20 GC
-Cold Metal Armor* ................................................... 50 GC
-Ithilmar Armor* ........................................................ 70 GC
+Light armour* .............................................................. 20 GC
+Cold Metal Armour* ................................................... 50 GC
+Ithilmar Armour* ........................................................ 70 GC
 Miscellaneous Equipment
 Elven Cloak ................................................................. 50 GC
 Healing Herbs .............................................................. 35 GC
@@ -235,7 +235,7 @@ Cold Metal Weapon ................................................. 2x price
 Ithilmar Weapon ....................................................... 3x price
 Missile Weapons
 Throwing knife ............................................................ 15 GC
-Armor
+Armour
 None
 Miscellaneous Equipment
  
@@ -252,8 +252,8 @@ appointed by the elders to lead the warband.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 5 3 3 1 6 1 8
-Weapons/Armor: A War-leader may be equipped with
-weapons and armor chosen from the Forest-Walker
+Weapons/Armour: A War-leader may be equipped with
+weapons and armour chosen from the Forest-Walker
 Equipment list.
 Skills: The War-leader may choose from Combat, Shooting,
 Academic, and Speed, when he gains a new skill. In
@@ -275,8 +275,8 @@ ability to blend into their surroundings makes them difficult to
 target.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 5 3 3 1 6 1 7
-Weapons/Armor: Waywatcher may be equipped with
-weapons and armor chosen from the Scout Equipment list.
+Weapons/Armour: Waywatcher may be equipped with
+weapons and armour chosen from the Scout Equipment list.
 Skills: The Waywatcher may choose from Shooting, and
 Speed, when he gains a new skill. In addition, the
 Waywatcher may choose from the Wood Elf Special Skill
@@ -302,8 +302,8 @@ energy...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 3 3 1 6 1 7
-Weapons/Armor: Spellsinger may be equipped with
-weapons and armor chosen from the Forest-Walker
+Weapons/Armour: Spellsinger may be equipped with
+weapons and armour chosen from the Forest-Walker
 Equipment list.
 Skills: The Spellsinger may choose from Shooting,
 Academic, and Speed, when he gains a new skill. In addition,
@@ -326,8 +326,8 @@ acrobatic abilities and a strange fighting style designed to resemble
 a dance.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 4 3 3 1 6 2 8
-Weapons/Armor: Wardancer may be equipped with
-weapons and armor chosen from the Wardancer Equipment
+Weapons/Armour: Wardancer may be equipped with
+weapons and armour chosen from the Wardancer Equipment
 list.
 Skills: The Wardancer may choose from Combat and Speed when he gains a new skill. In addition, the
 Wardancer may choose from the Wood Elf Special Skill list
@@ -364,8 +364,8 @@ daggers while others prefer to train only with the traditional
 longbow.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 2 2 3 3 1 4 1 6
-Weapons/Armor: Younglings may be equipped with
-weapons and armor chosen from the Forest-Walker
+Weapons/Armour: Younglings may be equipped with
+weapons and armour chosen from the Forest-Walker
 Equipment list.
 Skills: Younglings may choose from Combat, Shooting, and
 Speed, when he gains a new skill. In addition, the Younglings
@@ -390,8 +390,8 @@ lessons first hand, there is no respite in the wild – eat or be eaten.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 5 1 7
-Weapons/Armor: Glade Guards may be equipped with
-weapons and armor chosen from the Forest-Walker
+Weapons/Armour: Glade Guards may be equipped with
+weapons and armour chosen from the Forest-Walker
 Equipment list.
 Special Rules: Excellent Sight, Forest Folks, Wood Elf
 Archery
@@ -405,15 +405,15 @@ the Eternal Guard; sons and daughters of noble houses.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 3 3 3 1 5 1 7
-Weapons/Armor: Eternal Guards may be equipped with
-weapons and armor chosen from the Forest-Walker
+Weapons/Armour: Eternal Guards may be equipped with
+weapons and armour chosen from the Forest-Walker
 Equipment list.
 Special Rules: Excellent Sight, Forest Folks, Wood Elf
 Archery, Eternal Style
 Eternal Style: The Eternal Guards has a fighting style unto
 them self. On the first round of combat the Eternal Guards
 may re-roll any to hit dice, and always count as having a +1
-to Armor Save.
+to Armour Save.
 
 0-5 Archers
 45 gold crowns to hire
@@ -423,8 +423,8 @@ the first weapon a Wood Elf is taught to use and the skill of archery
 is practiced every day.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 4 3 3 1 5 1 7
-Weapons/Armor: Archers may be equipped with weapons
-and armor chosen from the Scout Equipment list.
+Weapons/Armour: Archers may be equipped with weapons
+and armour chosen from the Scout Equipment list.
 Special Rules: Excellent Sight, Forest Folks, Wood Elf
 Archery, Crossfire
 Crossfire: If more the one Archer shoots at the same target,
@@ -438,7 +438,7 @@ to their lands. Some few were moved to assist the Shadow-Hunters
 in their task.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 4 4 1 6 2 8
-Weapons/Armor: Razor Sharp Talons (Counts as being
+Weapons/Armour: Razor Sharp Talons (Counts as being
 unarmed but with no combat penalties)
 Special Rules: Forest Spirits
 
@@ -447,7 +447,7 @@ Special Rules: Forest Spirits
 125 gold crowns to hire
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 5 5 3 3 3 8
-Weapons/Armor: Swinging Boughs (Counts as being unarmed but
+Weapons/Armour: Swinging Boughs (Counts as being unarmed but
 with no combat penalties..
 Special Rules: Forest Spirits, Large Target
 Large Target: The Tree-kin are large and so count as a large

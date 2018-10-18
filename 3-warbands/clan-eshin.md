@@ -104,8 +104,8 @@ Sling ..........................................................................
 Throwing stars ............................................................. 15 GC
 Blowpipe ..................................................................... 25 GC
 Warplock pistol ................................. 35 GC (70 for a brace)
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -117,8 +117,8 @@ Sword ..........................................................................
 Spear ............................................................................ 10 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
@@ -132,8 +132,8 @@ not contemplated...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 4 4 3 1 5 1 7
-Weapons/Armor: An Assassin Adept may be armed with
-weapons and armor chosen from the Skaven Hero’s
+Weapons/Armour: An Assassin Adept may be armed with
+weapons and armour chosen from the Skaven Hero’s
 Equipment list.
 Skills: The Assassin Adept may choose from Combat,
 Shooting, Academic, Strength & Speed when he gains a new
@@ -143,7 +143,7 @@ Special Rules
 Leader: Any warrior within 6" of the Assassin Adept may
 use his Leadership instead of his own.
 Perfect Killer: An Assassin Adept always has an extra -1
-modifier to any armor save the enemy has to take against
+modifier to any armour save the enemy has to take against
 wounds they inflicted (both with shooting and close combat
 weapons).
 0-2 Black Skaven
@@ -154,8 +154,8 @@ they excel at ambushing and assassinating man-things.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 3 4 3 1 5 1 6
-Weapons/Armor: A Black Skaven may be armed with
-weapons and armor chosen from the Skaven Hero’s
+Weapons/Armour: A Black Skaven may be armed with
+weapons and armour chosen from the Skaven Hero’s
 Equipment list.
 Skills: The Black Skaven may choose from Combat,
 Shooting, Strength, & Speed when he gains a new skill. In
@@ -170,8 +170,8 @@ slight compared to the Warlocks of Clan Skryre or the mighty Grey
 Seer, their black sorcery is still potent.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 4 1 6
-Weapons/Armor: A Skaven Eshin Sorcerer may be armed
-with weapons and armor chosen from the Skaven Hero’s
+Weapons/Armour: A Skaven Eshin Sorcerer may be armed
+with weapons and armour chosen from the Skaven Hero’s
 Equipment list.
 Skills: The Eshin Sorcerer may choose from Academic &
 Speed when he gains a new skill. In addition, the Eshin
@@ -191,8 +191,8 @@ initiated into the secrets of the clan, they make up for their lack of
 knowledge with their ambition and energy.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 2 3 3 3 1 4 1 4
-Weapons/Armor: Night Runners may be armed with
-weapons and armor chosen from the Skaven Henchmen
+Weapons/Armour: Night Runners may be armed with
+weapons and armour chosen from the Skaven Henchmen
 Equipment list.
 Skills: The Night Runners may choose from Combat &
 Shooting when he gains a new skill. In addition, the Night
@@ -212,8 +212,8 @@ the status of an Assassin one day.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 4 1 5
-Weapons/Armor: Verminkin may be armed with weapons
-and armor chosen from the Skaven Henchmen Equipment
+Weapons/Armour: Verminkin may be armed with weapons
+and armour chosen from the Skaven Henchmen Equipment
 list.
 
 Giant rats
@@ -224,7 +224,7 @@ Skaven, overpowering their opponents by sheer weight of numbers.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 2 0 3 3 1 4 1 4
-Weapons/Armor: None. Giant Rats never use any armor
+Weapons/Armour: None. Giant Rats never use any armour
 or weapons.
 Pack Size: You mar recruit as many Giant Rats as you wish.
 For each Giant Rat beyond the first two, each model counts
@@ -240,8 +240,8 @@ These horrible monsters are much in demand as bodyguards to
 important Skaven.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 3 5 5 3 4 3 4
-Weapons/Armor: Jaws, claws and brute force! Rat Ogres
-can never use weapons or armor.
+Weapons/Armour: Jaws, claws and brute force! Rat Ogres
+can never use weapons or armour.
 Special Rules
 Fear: Rat Ogres are so frightening they cause fear.
 Stupidity: A Rat Ogre is subject to stupidity unless a Skaven

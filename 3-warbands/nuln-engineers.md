@@ -148,12 +148,12 @@ Small Cannon*** ...................................................... 150 GC
 Hunting Rifle ............................................................. 175 GC
 Double-Barrelled (Pistol / Duelling pistol / Rifle / Handgun /
 Hunting Rifle) ....................................................... 2x price
-Armor
+Armour
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
-Reinforced Plate Armor* ........................................... 65 GC
+Light armour ................................................................ 20 GC
+Reinforced Plate Armour* ........................................... 65 GC
 Miscellaneous
 Heavier Ammunition ...................................... 20 GC
 Modified Gun sight ..................................................... 20 GC
@@ -175,11 +175,11 @@ Pistol .................................................. 15 GC (30 for a brace)
 Duelling pistol ................................... 25 GC (50 for a brace)
 Handgun ...................................................................... 35 GC
 Small Cannon*** ...................................................... 150 GC
-Armor
+Armour
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
  
 * Engineer Only
 ** Senior Student Only
@@ -198,8 +198,8 @@ respect through their experience and technical knowledge.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
-Weapons/Armor: An Engineer may be equipped with
-weapons and armor chosen from the Marksman equipment
+Weapons/Armour: An Engineer may be equipped with
+weapons and armour chosen from the Marksman equipment
 list.
 Skills: The Engineer may choose from Combat, Shooting,
 Academic & Speed when he gains a new skill.
@@ -220,8 +220,8 @@ trained, but not yet too battle-hardened, so these excursions give
 them field experience, even in the smallest things.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 4 3 3 1 4 1 7
-Weapons/Armor: An Instructor may be equipped with
-weapons and armor chosen from the Marksman equipment
+Weapons/Armour: An Instructor may be equipped with
+weapons and armour chosen from the Marksman equipment
 list.
 Skills: The Instructor may choose from Shooting, Academic
 & Speed when he gains a new skill.
@@ -242,8 +242,8 @@ weaponry and this is not their first excursion into the wilds of the
 Empire. It is likely to be their last before they graduate.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
-Weapons/Armor: A Senior Student may be equipped with
-weapons and armor chosen from the Marksman equipment
+Weapons/Armour: A Senior Student may be equipped with
+weapons and armour chosen from the Marksman equipment
 list.
 Skills: The Senior Student may choose from Combat,
 Shooting, Strength, & Speed when he gains a new skill.
@@ -257,8 +257,8 @@ The brighter ones will realise that this is a true test of their
 dedication and knowledge.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 2 3 3 1 3 1 6
-Weapons/Armor: Underclassmen may be equipped with
-weapons and armor chosen from the Marksman equipment
+Weapons/Armour: Underclassmen may be equipped with
+weapons and armour chosen from the Marksman equipment
 list.
 Skills: The Underclassmen may choose from Combat,
 Shooting, & Speed when he gains a new skill.
@@ -278,8 +278,8 @@ needed set of arms to carry provisions and spare powder, as well as
 providing much needed additional firepower in a fight.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: A Son of the Gun may be equipped with
-weapons and armor chosen from the Guardsmen equipment
+Weapons/Armour: A Son of the Gun may be equipped with
+weapons and armour chosen from the Guardsmen equipment
 list.
 
 0-5 Guardsmen
@@ -292,8 +292,8 @@ quarter fighting of Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 3 3 1 3 1 7
-Weapons/Armor: Guardsmen may be equipped with
-weapons and armor chosen from the Guardsmen equipment
+Weapons/Armour: Guardsmen may be equipped with
+weapons and armour chosen from the Guardsmen equipment
 list.
 
 0-7 Riflemen
@@ -304,8 +304,8 @@ never let their rifles out of arm’s reach, and are much feared due to
 their legendary accuracy.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 4 3 3 1 3 1 7
-Weapons/Armor: A Rifleman may be equipped with
-weapons and armor chosen from the marksman equipment
+Weapons/Armour: A Rifleman may be equipped with
+weapons and armour chosen from the marksman equipment
 list.
 Special Rules
 Rifle Training: Soldiers of Nuln are instructed in firearms

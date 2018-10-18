@@ -26,10 +26,10 @@ ranked members carry heavier weapons and even warplock
 pistols. The knives are long and serrated and are often rusty
 or smeared in rotten corpses to ensure that the any non-lethal
 wound becomes infected. The Clan members do not need to
-wear armor since their bodies are hardened by the diseases
+wear armour since their bodies are hardened by the diseases
 they carry they feel little pain, they rely on their thick fur to
 protect them. The robes themselves offer protection equal to
-soft leather and will be considered as light armor when
+soft leather and will be considered as light armour when
 combined with the scattered pieces of chain mail or plate that
 some plague monks do wear underneath their putrid robes.
 
@@ -78,8 +78,8 @@ Censer .........................................................................
 Plague Sword .............................................................. 40 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
@@ -92,8 +92,8 @@ Flail ..........................................................................
 Spear ............................................................................ 10 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -109,7 +109,7 @@ diseases are his main goals in the streets of Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 4 4 1 5 1 7
-Weapons/Armor: The Plague Priest may be equipped as
+Weapons/Armour: The Plague Priest may be equipped as
 desired from the Clan Pestilens equipment list.
 Skills: The Plague Priest may choose from Combat,
 Shooting, Academic, Strength & Speed when he gains a new
@@ -127,7 +127,7 @@ chant the Liturgicus Infecticus in combat.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 3 3 4 1 5 1 6
-Weapons/Armor: Plague Monks may be equipped as
+Weapons/Armour: Plague Monks may be equipped as
 desired from the Clan Pestilens equipment list.
 Skills: The Plague Monks may choose from Combat,
 Shooting, Strength & Speed when he gains a new skill. In
@@ -140,7 +140,7 @@ The Monk Initiates are young skavens devoted to the Clan Pestilens
 discipline, waiting to be promoted as true Plague Monks.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 2 3 2 2 1 4 1 4
-Weapons/Armor: Monk Initiates may be equipped as
+Weapons/Armour: Monk Initiates may be equipped as
 desired from the Clan Pestilens equipment list.
 Skills: The Monk Initiates may choose from Combat,
 Shooting & Speed when he gains a new skill. In addition, the
@@ -154,7 +154,7 @@ new and more terrible forms of contagion, under the vigilant
 supervision of his dreadful master, the Horned Rat.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 4 1 6
-Weapons/Armor: The Festering Chantor may be equipped
+Weapons/Armour: The Festering Chantor may be equipped
 as desired from the Clan Pestilens equipment list.
 Skills: The Festering Chantor may choose from Academic &
 Speed when he gains a new skill. In addition, the Festering
@@ -180,7 +180,7 @@ chanting the Liturgicus Infecticus.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 4 1 5
-Weapons/Armor: Plague Novices may be equipped as
+Weapons/Armour: Plague Novices may be equipped as
 desired from the Henchmen equipment list.
 
 Giant rats
@@ -191,7 +191,7 @@ Skaven, overpowering their opponents by sheer weight of numbers.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 2 0 3 3 1 4 1 4
-Weapons/Armor: None. Giant Rats never use any armor
+Weapons/Armour: None. Giant Rats never use any armour
 or weapons.
 
 Pack Size: You mar recruit as many Giant Rats as you wish.
@@ -207,7 +207,7 @@ These terrible monsters are often chosen as personal bodyguards by
 Skaven of higher ranks
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 3 5 5 3 4 3 4
-Weapons/Armor: Claws and ferocity.
+Weapons/Armour: Claws and ferocity.
 Special Rules
 Fear: The Rat Ogre causes fear.
 Stupidity: The Rat Ogre is subject to the Stupidity rules,

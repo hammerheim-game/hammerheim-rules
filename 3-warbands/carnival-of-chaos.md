@@ -120,9 +120,9 @@ Missile Weapons
 Bow ............................................................................. 15 GC
 Short Bow .................................................................... 10 GC
 Pistol .................................................. 15 GC (30 for a brace)
-Armor
-Light Armor .............................................................. 20 GC
-Heavy Armor ............................................................. 50 GC
+Armour
+Light Armour .............................................................. 20 GC
+Heavy Armour ............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -148,8 +148,8 @@ Hunter bands that rove the land.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 3 1 8
-Weapons/Armor: The Master may be equipped with
-weapons and armor chosen from the Carnival of Chaos
+Weapons/Armour: The Master may be equipped with
+weapons and armour chosen from the Carnival of Chaos
 Equipment list.
 Skills: The Carnival Master may choose from Combat,
 Shooting, Academic, Strength, & Speed when he gains a new
@@ -180,8 +180,8 @@ they wield huge hammers and flails with reckless abandon, whirling
 them around their heads like children’s toys.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 0 4 4 1 2 2 7
-Weapons/Armor: Brutes may be equipped with weapons
-and armor chosen from the Brute Equipment list.
+Weapons/Armour: Brutes may be equipped with weapons
+and armour chosen from the Brute Equipment list.
 Skills: The Brutes may choose from Combat, Strength, &
 Speed when he gains a new skill.
 Special Rules
@@ -209,8 +209,8 @@ dreaded and incurable Nurgle’s Rot.
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Tainted Ones may be equipped with
-weapons and armor chosen from the Carnival of Chaos
+Weapons/Armour: Tainted Ones may be equipped with
+weapons and armour chosen from the Carnival of Chaos
 Equipment list.
 Skills: The Tainted Ones may choose from Combat & Speed
 when he gains a new skill.
@@ -239,10 +239,10 @@ ostentatious doublet and hose.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 4 4 1 4 2 10
-Weapons/Armor: None. Plague Bearers have huge filth
+Weapons/Armour: None. Plague Bearers have huge filth
 encrusted claws, which they use to tear and slash at their foes.
 They therefore neither need nor use weapons and cannot wear
-armor.
+armour.
 Special Rules
 Cloud of Flies: Plague Bearers are surrounded by a cloud of
 flies, which buzz around them and their combat opponent.
@@ -254,7 +254,7 @@ attacks.
 Stream of Corruption: Plague Bearers can spew forth a
 grotesque stream of maggots, entrails and filth. This is
 counted as a shooting attack with a range of 6" and is
-resolved at Strength 3 with no saves for armor.
+resolved at Strength 3 with no saves for armour.
 Demonic: Plague Bearers are Daemons of the lord of disease,
 Nurgle, and are not made of living flesh but the eternal and
 unchanging forces of Chaos. Therefore they never gain
@@ -268,7 +268,7 @@ Leadership-based test they are required to take.
 Cause Fear: Plague Bearers are horrifying supernatural
 creatures and therefore cause fear.
 Daemonic Aura: Due to the magical, intangible nature of
-Daemons they have a special Armor save of 5+. This is
+Daemons they have a special Armour save of 5+. This is
 modified by the Strength of the attack as normal and is
 completely negated by magic weapons and spells. Plague
 Bearers’ attacks are considered as magical also.
@@ -299,8 +299,8 @@ their foul identity to their terrified victims at the final stage of
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 0 3 2 1 3 1 10
-Weapons/Armor: None. Nurglings do not use weapons or
-wear armor.
+Weapons/Armour: None. Nurglings do not use weapons or
+wear armour.
 Special Rules
 Cloud of Flies: Nurglings are surrounded by a cloud of flies,
 which buzz around them and their combat opponent. They do
@@ -321,7 +321,7 @@ Immune to Psychology: Nurglings are Daemons and do not
 know the concept of fear. They automatically pass any
 Leadership-based test they are required to take.
 Daemonic Aura: Due to the magical, intangible nature of
-Daemons they have a special Armor save of 5+. This is
+Daemons they have a special Armour save of 5+. This is
 modified by the Strength of the attack as normal and is
 completely negated by magic weapons and spells. Nurglings’
 attacks are also considered as magical.
@@ -344,8 +344,8 @@ and other lesser gifts of their lord. In the Carnival, the Brethren take
 on all of the minor roles: stagehands, puppeteers, etc.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Brethren may be equipped with weapons
-and armor chosen from the Carnival of Chaos Equipment
+Weapons/Armour: Brethren may be equipped with weapons
+and armour chosen from the Carnival of Chaos Equipment
 list.
  
 0–1 Plague Cart
@@ -366,7 +366,7 @@ Chaos and the dwelling place of great Nurgle himself.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Cart - - - - 6 4 - - -
 Horse 8 - - 3 3 1 3 1 -
 Guardian - 3 - 3 3 - 3 1 -
-Weapons/Armor: None. The Plague Cart’s Guardian is equipped with
+Weapons/Armour: None. The Plague Cart’s Guardian is equipped with
 a scythe, though it may not equip anything else. The Cart
 is pulled by 2 horses and has a 5+ Armour Save.
 Special Rules

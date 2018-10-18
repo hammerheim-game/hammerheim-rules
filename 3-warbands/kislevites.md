@@ -109,13 +109,13 @@ Bow ............................................................................
 Crossbow ..................................................................... 25 GC
 Pistol .................................................. 15 GC (30 for a brace)
 Duelling Pistol ................................... 25 GC (50 for a brace)
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
+Light Armour .............................................................. 20 GC
 
-Heavy Armor ............................................................. 50 GC
+Heavy Armour ............................................................. 50 GC
 Streltsi Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -132,17 +132,17 @@ Crossbow ..................................................................... 2
 Pistol .................................................. 15 GC (30 for a brace)
 Duelling Pistol ................................... 25 GC (50 for a brace)
 Handgun ...................................................................... 35 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
+Light Armour .............................................................. 20 GC
 ##### Heroes
 
 1 Druzhina Captain
 80 gold crowns to hire
 Druzhina are the minor nobles of Kislev. During times of war these
 nobles form their own regiments in a Kislevite army, and they look
-most impressive with their ancient armor and weapons, as most of
+most impressive with their ancient armour and weapons, as most of
 these prized artefacts are handed down from father to son. Druzhina
 are rich enough to afford their own horse and battlegear, and they
 must be ready to fight for the Tzar when called upon. In return for
@@ -150,8 +150,8 @@ this they are allowed to own land and are given a break on their
 annual taxes.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 3 3 1 3 1 8
-Weapons/Armor: A Druzhina Captain may be equipped
-with weapons and armor chosen from the Kislevite Warrior
+Weapons/Armour: A Druzhina Captain may be equipped
+with weapons and armour chosen from the Kislevite Warrior
 equipment list.
 Skills: The Druzhina Captain may choose from Combat,
 Shooting, Academic, Strength & Speed when he gains a new
@@ -189,7 +189,7 @@ amongst the ranks of their professional soldiery who has been
 affectionately labelled ‘Esaul’ by his men.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
-Weapons/Armor: An Esaul may be equipped with
+Weapons/Armour: An Esaul may be equipped with
 weapons chosen from the Kislevite Warrior Equipment list.
 Skills: The Esaul may choose from Combat, Shooting, &
 Speed when he gains a new skill.
@@ -208,7 +208,7 @@ where they enjoy a special status among the soldiery.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 4 3 1 3 1 7
-Weapons/Armor: A Bear Tamer may be armed with
+Weapons/Armour: A Bear Tamer may be armed with
 weapons chosen from Kislevite Warrior equipment list.
 Skills: The Bear Tamer may choose from Combat, Strength
 & Speed when he gains a new skill.
@@ -225,7 +225,7 @@ Strong, strapping lads from the countryside often join a band of
 daring adventurers to make their fortune.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
-Weapons/Armor: Youths may be equipped with weapons
+Weapons/Armour: Youths may be equipped with weapons
 chosen from the Kislevite Warrior Equipment list.
 Skills: The Youth may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill.
@@ -244,8 +244,8 @@ most powerful of the legendary Ice Mages of Kislev are all female!
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Warriors may be equipped with weapons
-and armor chosen from the Kislevite Warrior equipment list.
+Weapons/Armour: Warriors may be equipped with weapons
+and armour chosen from the Kislevite Warrior equipment list.
 
 Cossacks
 30 gold crowns to hire
@@ -257,8 +257,8 @@ favoured weapons are the scimitar (sword) and spear.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: Cossacks may be armed with weapons
-and armor chosen from the Kislevite Warrior equipment list.
+Weapons/Armour: Cossacks may be armed with weapons
+and armour chosen from the Kislevite Warrior equipment list.
 Special Rules
 Hate Chaos: Years of bitter struggle against the forces of
 Chaos have left their mark on the Cossack people. Cossacks
@@ -286,8 +286,8 @@ handguns, increasing their accuracy and making for a deadly
 weapon combination.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Streltsi may be armed with weapons and
-armor chosen from the Streltsi equipment list. Note that
+Weapons/Armour: Streltsi may be armed with weapons and
+armour chosen from the Streltsi equipment list. Note that
 Streltsi are the only Kislevite Warriors trained in the use of
 handguns.
 Special Rules
@@ -310,7 +310,7 @@ bad.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 0 5 5 3 2 2 6
-Weapons/Armor: None, other than their claws and teeth!
+Weapons/Armour: None, other than their claws and teeth!
 Special Rules
 Trained: A bear doesn’t care about the warband’s mission or
 enmity for other warbands – it’s just following the orders of
@@ -338,7 +338,7 @@ resolving the attacks normally. If this option is chosen, each
 player must roll a D6 and add his model’s Strength to the
 roll. If the Bear’s total is higher or the totals are equal, the
 opposing warrior takes a single automatic wound with no
-armor save allowed. If the enemy warrior’s total is higher,
+armour save allowed. If the enemy warrior’s total is higher,
 the warrior has broken the Bear’s hold and suffers no damage
 from the attack.
 Fiercely Loyal: Such dedication is built into the relationship

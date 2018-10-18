@@ -7,9 +7,9 @@ _(Bows, crossbows, blackpowder weapons, throwing knives etc.)_
 
 | Roll | Type | Description |
 | :-: | :-: | :-: |
-| 1-2 | Hits a Weak Spot | The missile penetrates its target's armor. Ignore all armor saves. |
+| 1-2 | Hits a Weak Spot | The missile penetrates its target's armour. Ignore all armour saves. |
 | 3-4 | Ricochet | If there are any other models within 6", the closest enemy model is also hit. Roll to wound and take any saves as normal for both targets. |
-| 5-6 | Master Shot | The missile hits an eye, the throat, or some other vulnerable part. The target suffers 2 wounds instead of 1. There is no armor save. |
+| 5-6 | Master Shot | The missile hits an eye, the throat, or some other vulnerable part. The target suffers 2 wounds instead of 1. There is no armour save. |
 
 #### Bludgeoning weapons
 _(Clubs, maces, hammers, flails, double-handed hammers etc.)_
@@ -17,18 +17,18 @@ _(Clubs, maces, hammers, flails, double-handed hammers etc.)_
 | Roll | Type | Description |
 | :-: | :-: | :-: |
 | 1-2 | Hammered | The target is knocked off balance. Your opponent may not fight this turn if he hasn't already fought. |
-| 3-4 | Clubbed | The hit ignores armor saves and saves from helmets.
-| 5 | Wild Sweep | Your opponent's weapon is knocked from their hand. If they are carrying two weapons, roll to see which one they lose. They must fight with whatever back-up weapon they have in their equipment for the rest of this combat (or fight unarmed if he has no other weapons). Roll to wound and take armor saves as normal. |
-| 6 | Bludgeoned | The victim automatically goes out of action if they fail their armor save. Even if they have several wounds remaining, they will be taken out of action by this attack. Only effects models that are equal to or smaller than their attacker. Larger models suffer the 'Hammered' result instead. |
+| 3-4 | Clubbed | The hit ignores armour saves and saves from helmets.
+| 5 | Wild Sweep | Your opponent's weapon is knocked from their hand. If they are carrying two weapons, roll to see which one they lose. They must fight with whatever back-up weapon they have in their equipment for the rest of this combat (or fight unarmed if he has no other weapons). Roll to wound and take armour saves as normal. |
+| 6 | Bludgeoned | The victim automatically goes out of action if they fail their armour save. Even if they have several wounds remaining, they will be taken out of action by this attack. Only effects models that are equal to or smaller than their attacker. Larger models suffer the 'Hammered' result instead. |
 
 #### Bladed weapons
 _(Swords, axes, double-handed swords etc.)_
 
 | Roll | Type | Description |
 | :-: | :-: | :-: |
-| 1-2 | Flesh Wound | This attack hits an unprotected area, so there is no armor save. |
-| 3-4 | Bladestorm | The warrior unleashes a virtual hail of blows. The attack causes 2 wounds instead of 1. Take armor saves separately for each wound. |
-| 5-6 | Sliced! | The strike ignores armor saves, causes 2 wounds, and your warrior gains +2 to any Injury rolls. |
+| 1-2 | Flesh Wound | This attack hits an unprotected area, so there is no armour save. |
+| 3-4 | Bladestorm | The warrior unleashes a virtual hail of blows. The attack causes 2 wounds instead of 1. Take armour saves separately for each wound. |
+| 5-6 | Sliced! | The strike ignores armour saves, causes 2 wounds, and your warrior gains +2 to any Injury rolls. |
 ```
 ```
 #### Unarmed combat
@@ -38,7 +38,7 @@ _(War dogs, warhorses, Zombies, Possessed, animals etc.)_
 | :-: | :-: | :-: |
 | 1-2 | Body Blow | Your opponent staggers, allowing you to seize the initiative and make an additional attack. Immediately roll to hit and to wound. Any saves are taken as normal. |
 | 3-4 | Crushing Blow | The blow lands with tremendous force. You gain +1 to the Injury roll. |
-| 5-6 | Mighty Blow | With a mighty punch or flying kick you send your opponent sprawling to the ground! The attack ignores armor saves and you gain +2 to any Injury rolls. |
+| 5-6 | Mighty Blow | With a mighty punch or flying kick you send your opponent sprawling to the ground! The attack ignores armour saves and you gain +2 to any Injury rolls. |
 
 #### Thrusting weapons
 _(Spears, halberds, lances etc.)_
@@ -47,7 +47,7 @@ _(Spears, halberds, lances etc.)_
 | :-: | :-: | :-: |
 | 1-2 | Stab | With a quick strike you penetrate your opponent's defences. You gain +1 to the Injury roll. |
 | 3-4 | Thrust | The thrust lands with great force! Victims equal to or smaller in size are automatically _knocked down_ even if they pass their armour save. Larger victims suffer an additional wound if they fail their save. |
-| 5-6 | Kebab! | The thrust knocks the target back with titanic force, ripping apart armor and puncturing flesh. The attack ignores armor saves and you gain +2 to any Injury rolls. The victim is knocked backwards D6" and the attacker follows, staying in base contact. Any other models involved in the combat are separated and only the model which struck the blow and his target are still considered to be in combat. If the target collides with another model, the other model is hit once at S3. Victims larger than the attacker are only knocked back D3". |
+| 5-6 | Kebab! | The thrust knocks the target back with titanic force, ripping apart armour and puncturing flesh. The attack ignores armour saves and you gain +2 to any Injury rolls. The victim is knocked backwards D6" and the attacker follows, staying in base contact. Any other models involved in the combat are separated and only the model which struck the blow and his target are still considered to be in combat. If the target collides with another model, the other model is hit once at S3. Victims larger than the attacker are only knocked back D3". |
 
 ## Unit Size
 

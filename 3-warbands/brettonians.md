@@ -103,9 +103,9 @@ Morning Star ............................................................... 15 
 Lance ........................................................................... 20 GC
 Missile Weapons
 None
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Warhorse ..................................................................... 80 GC
@@ -119,8 +119,8 @@ Axe ............................................................................
 Spear ............................................................................ 10 GC
 Halberd ........................................................................ 10 GC
 Double-handed weapon ............................................... 15 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -134,8 +134,8 @@ Spear ..........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Longbow ..................................................................... 15 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Buckler .......................................................................... 5 GC
@@ -149,8 +149,8 @@ Axe ............................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Longbow ..................................................................... 15 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
 
@@ -164,8 +164,8 @@ wonder then that many a Questing Knight will journey to Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 4 3 1 4 1 8
-Weapons/Armor: A Questing Knight may be equipped
-with weapons and armor chosen from the Knights section of
+Weapons/Armour: A Questing Knight may be equipped
+with weapons and armour chosen from the Knights section of
 the Bretonnian Equipment list.
 Skills: The Questing Knight may choose from Combat,
 Strength & Speed when he gains a new skill. In addition, the
@@ -184,13 +184,13 @@ test for being all alone.
 50 gold crowns to hire
 Knight Errant are the sons of nobles, eager to prove their mettle by
 feats of arms, and earn their place amongst the Knights of the
-Realm of Bretonnia. To do this they must perform valorous deed, so
+Realm of Bretonnia. To do this they must perform valourous deed, so
 they will often accompany a Questing Knight on his spiritual
 journey in the hope of adventure and honour.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: A Knight Errant may be equipped with
-weapons and armor chosen from the Knights section of the
+Weapons/Armour: A Knight Errant may be equipped with
+weapons and armour chosen from the Knights section of the
 Bretonnian Equipment list. A Knight Errant may not ride a
 warhorse unless the Questing Knight also rides one.
 Skills: The Knights Errant may choose from Combat &
@@ -216,8 +216,8 @@ the ranks of knighthood!
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 3 3 1 3 1 6
 
-Weapons/Armor: Squires may be equipped with weapons
-and armor chosen from the Squires section of the
+Weapons/Armour: Squires may be equipped with weapons
+and armour chosen from the Squires section of the
 Bretonnian Equipment list. A Squire may not ride a horse
 unless the Questing Knight and any Knight Errant in the
 warband are riding warhorses.
@@ -237,7 +237,7 @@ as the Questing Knight they follow.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: Men-at-arms may have weapons and
+Weapons/Armour: Men-at-arms may have weapons and
 equipment chosen from the Men-at-arms section of the
 Bretonnian Equipment list.
 
@@ -250,7 +250,7 @@ not uncommon for a handful of bowmen to be inspired to bravery
 and join the Knight on his journey.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 6
-Weapons/Armor: Bowmen may be equipped with weapons
+Weapons/Armour: Bowmen may be equipped with weapons
 chosen from the Bowmen section of the Bretonnian
 Equipment list.
 

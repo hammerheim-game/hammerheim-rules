@@ -80,8 +80,8 @@ Great Axe ........................................... 25 GC
 Missile Weapons
 Throwing Axes ....................................... 15 GC
 
-Armor
-Light armor ......................................... 20 GC
+Armour
+Light armour ......................................... 20 GC
 Helmet .............................................. 10 GC
 Shield .............................................. 5 GC
 
@@ -98,7 +98,7 @@ Flail ............................................... 15 GC
 Missile Weapons
 Throwing Axes ....................................... 15 GC
 
-Light armor .......................................... 20 GC
+Light armour .......................................... 20 GC
 Helmet .............................................. 10 GC
 Shield .............................................. 5 GC
 
@@ -119,7 +119,7 @@ The Chieftain is the brutish head of the warband. They leads their tribe in thei
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4 | 5 | 3 | 4 | 4 | 1 | 5 | 1 | 8 |
 
-Weapons/Armor: A Marauder Chieftain may be equipped with weapons and armour chosen from the Hero Equipment list.
+Weapons/Armour: A Marauder Chieftain may be equipped with weapons and armour chosen from the Hero Equipment list.
 
 Skills: The Chieftain may learn Combat, Strength, and Speed skills when they gain a new skill.
 
@@ -137,7 +137,7 @@ A Seer is the Chieftain’s advisor as their god tells them his will through the
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 1 | 8 |
 
-Weapons/Armor: A Seer may be equipped with weapons and armour chosen from the Hero Equipment list.
+Weapons/Armour: A Seer may be equipped with weapons and armour chosen from the Hero Equipment list.
 
 Skills: The Seer may choose from Combat & Academic when they gain a new skill.
 
@@ -196,7 +196,7 @@ Marauders are wild uncivilized barbarians who seek battles and bloodshed. They f
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 1 | 7 |
 
-Weapons/Armor: Marauders may be equipped with weapons and armour chosen from the Henchmen Equipment list.
+Weapons/Armour: Marauders may be equipped with weapons and armour chosen from the Henchmen Equipment list.
 
 0-5 Warhounds of Chaos
 15 gold crowns to hire

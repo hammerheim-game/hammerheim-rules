@@ -53,9 +53,9 @@ Pistol .............................................. 15 GC (30 for a brace)
 Duelling pistol ..................................... 25 GC (50 for a brace)
 Crossbow ............................................ 25 GC
 Bow ................................................. 10 GC
-Armor
-Light armor ......................................... 20 GC
-Heavy armor ......................................... 50 GC
+Armour
+Light armour ......................................... 20 GC
+Heavy armour ......................................... 50 GC
 Shield .............................................. 5 GC
 
 Marksman Equipment List
@@ -72,8 +72,8 @@ Longbow .............................................. 15 GC
 Handgun .............................................. 35 GC
 Blunderbuss .......................................... 30 GC
 Hunting rifle ........................................ 175 GC
-Armor
-Light armor .......................................... 20 GC
+Armour
+Light armour .......................................... 20 GC
 Buckler .............................................. 5 GC
 Helmet ............................................... 10 GC
 Scout Equipment List
@@ -85,8 +85,8 @@ Sword ................................................. 5 GC
 Missile Weapons
 Bow ................................................... 10 GC
 Longbow (Bergjaeger only) ............................. 15 GC
-Armor
-Light armor ........................................... 20 GC
+Armour
+Light armour ........................................... 20 GC
 Buckler ............................................... 5 GC
 Helmet ................................................ 10 GC
 Miscellaneous
@@ -99,7 +99,7 @@ The Captain of a mercenary warband is typically a middle-aged veteran soldier of
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 4 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
-Weapons/Armor: A Captain may be equipped with weapons and armor chosen from the Mountainguard Equipment list.
+Weapons/Armour: A Captain may be equipped with weapons and armour chosen from the Mountainguard Equipment list.
 Skills: The Averlander Captain may choose from Combat, Shooting, Academic, Strength, & Speed, when he gains a
 new skill.
 Special Rules
@@ -111,7 +111,7 @@ Some captains are merchants or nobles that are looking for a chance at making so
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
-Weapons/Armor: A Sergeant may be equipped with weapons and armor chosen from the Mountainguard
+Weapons/Armour: A Sergeant may be equipped with weapons and armour chosen from the Mountainguard
 Equipment list.
 Skills: The Averlander Sergeant may choose from Combat, Strength, & Speed, when he gains a new skill.
 
@@ -122,7 +122,7 @@ The Bergjaeger are trappers and rangers from the mountains that surround the Bla
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 4 | 2 | 4 | 3 | 3 | 1 | 3 | 1 | 7 |
-Weapons/Armor: Bergjaeger may be equipped with weapons and armor chosen from the Scout Equipment list.
+Weapons/Armour: Bergjaeger may be equipped with weapons and armour chosen from the Scout Equipment list.
 Skills: The Bergjaegers may choose from Shooting, & Speed, when he gains a new skill.
 Special Rules
 Set Traps: Bergjaeger are expert trappers and hunters and these skills can be put to great use in the ruins of Mordheim. A Bergjaeger may set a trap if he spends a turn doing nothing else (he may not set traps if he’s just recovered from being Knocked Down). Place a marker in base contact with the Bergjaeger. When a model, friend or foe, moves within 2" of the marker he risks setting off the trap – roll a D6. On a score
@@ -134,7 +134,7 @@ Although Empire armies are comprised of mature men there are plenty of jobs for 
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 4 | 2 | 2 | 3 | 3 | 1 | 3 | 1 | 6 |
-Weapons/Armor: A Youngblood may be equipped with weapons and armor chosen from the Mountainguard Equipment list.
+Weapons/Armour: A Youngblood may be equipped with weapons and armour chosen from the Mountainguard Equipment list.
 Skills: The Averlander Youngblood may choose from Combat, Shooting, & Speed, when he gains a new skill.
 ##### Henchman
 
@@ -145,7 +145,7 @@ The Mountainguard is the famous garrison of the Black Fire Pass that has repelle
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
-Weapons/Armor: Mountainguards may be equipped with weapons and armor chosen from the Mountainguard
+Weapons/Armour: Mountainguards may be equipped with weapons and armour chosen from the Mountainguard
 Equipment list.
 
 Marksmen
@@ -154,7 +154,7 @@ Being a Marksmen is not as simple as picking up a bow and try to hit your enemie
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
-Weapons/Armor: Marksmen may be equipped with weapons and armor chosen from the Marksman Equipment
+Weapons/Armour: Marksmen may be equipped with weapons and armour chosen from the Marksman Equipment
 list.
 
 
@@ -164,7 +164,7 @@ Averland is neighbour to the Moot, the Halfling province. In 1707 the Orc Warlor
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 4 | 2 | 4 | 2 | 2 | 1 | 4 | 1 | 8 |
-Weapons/Armor: Halfling Scouts may be equipped with weapons and armor chosen from the Scout Equipment list.
+Weapons/Armour: Halfling Scouts may be equipped with weapons and armour chosen from the Scout Equipment list.
 Special Rules
 Promotion: A Halfling that is promoted to hero through the “The lad’s got talent” advance may not choose Strength skills as one of his two skill lists. Halflings are not known for their great strength!
 

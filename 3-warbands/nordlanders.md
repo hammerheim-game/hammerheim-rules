@@ -176,7 +176,7 @@ Special Skills: Resilient (see Strength Skills section)
 45 gold crowns to hire 
 | Profile | M | WS | BS | S | T | W | I | A | Ld | 
 4 3 3 3 3 1 3 1 6
-Weapons/Armor: Clerics may be equipped with weapons and armour chosen from the Marine Equipment list. 
+Weapons/Armour: Clerics may be equipped with weapons and armour chosen from the Marine Equipment list. 
 Skills: Clerics may take Combat, Strength, & Academic when they gain a new skill. 
 Special Rules Prayer User: Clerics are prayer users who dedicate themselves to a single deity. Upon recruitment you must decide which deity to dedicate your Cleric to - this will determine which prayers they are able to use. You may choose from: Prayers of Ulric or Prayers of Taal.
 

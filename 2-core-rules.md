@@ -6,7 +6,7 @@ In Mordheim, the opposing factions - warbands - are represented by models, assem
 
 The aim of the game is to outfight your opponent, which requires a mixture of skill and luck. You'll soon learn how to arm and equip your warband effectively, and how to exploit the ruins and other terrain to your best advantage. 
 
-You'll probably want to expand your basic warband as you and they gain experience. This is easy as there are lots of models available for the warbands and new miniatures will be coming out all the time. With these you can expand your warband, equip your warriors with different weapons and armor, and hire mercenaries to join them. 
+You'll probably want to expand your basic warband as you and they gain experience. This is easy as there are lots of models available for the warbands and new miniatures will be coming out all the time. With these you can expand your warband, equip your warriors with different weapons and armour, and hire mercenaries to join them. 
 
 ## Building a warband
 
@@ -287,7 +287,7 @@ If a warrior is _incapacitated_ within 1" of the edge of a roof or building, the
 
 #### Falling
 
-A model that falls takes D3 hits at a Strength equal to the height in inches that it fell (e.g., if the model fell 4", it would take D3 hits at Strength 4). No armor saves apply. Falling will not cause critical hits (see the Hand-to-Hand Combat section for the Critical Hits rules). A model that falls may not move any further or hide during that turn, even if it is not hurt.
+A model that falls takes D3 hits at a Strength equal to the height in inches that it fell (e.g., if the model fell 4", it would take D3 hits at Strength 4). No armour saves apply. Falling will not cause critical hits (see the Hand-to-Hand Combat section for the Critical Hits rules). A model that falls may not move any further or hide during that turn, even if it is not hurt.
 
 #### Swimming
 
@@ -372,7 +372,7 @@ It is easier to hit a target that is in the open compared to a target behind cov
 
 #### Roll to Wound
 
-Once you have hit a target test to see if a wound is inflicted. A shot may fail to cause a wound because it hits part of the target's equipment, just scratches the skin or causes some very minor injury which the warrior bravely (or stupidly) ignores. If you fail to cause a wound, the target is unharmed. To determine whether your shot has caused a wound, compare the Strength of the weapon with the Toughness of the target. You will find a complete description of the various weapons together with their Strength values and special rules in the Weapons & Armor section.
+Once you have hit a target test to see if a wound is inflicted. A shot may fail to cause a wound because it hits part of the target's equipment, just scratches the skin or causes some very minor injury which the warrior bravely (or stupidly) ignores. If you fail to cause a wound, the target is unharmed. To determine whether your shot has caused a wound, compare the Strength of the weapon with the Toughness of the target. You will find a complete description of the various weapons together with their Strength values and special rules in the Weapons & Armour section.
 
 Wounding a target requires a D6 roll of a 4+. For each point your Strength exceeds their Toughness, you may add +1 to your roll. Similarly for each point their Toughness exceeds your Strength, you must subtract -1 from your roll. A roll of a 1 will always fail to wound no matter how strong you are, and a roll of a 6 will always succeed in wounding no matter how tough your opponent is. 
 _Example: Useless Jeremy is using a Strength 3 bow and successfully hits an Orc with Toughness 4. Normally he would need a 4+ to wound, but because the Orc's Toughness exceeds his Strength by 1 he now needs to roll a 5+ to wound._ 
@@ -381,7 +381,7 @@ Deploying your archers in the upper floors of buildings is almost always good id
 
 #### Critical Hits
 
-If you roll a 6 when rolling to wound you will cause a critical hit. Roll a D6 and consult the Critical Hit chart below to determine the damage caused by the critical hit. You should also roll to see whether the target makes its armor save or suffers damage as normal. 
+If you roll a 6 when rolling to wound you will cause a critical hit. Roll a D6 and consult the Critical Hit chart below to determine the damage caused by the critical hit. You should also roll to see whether the target makes its armour save or suffers damage as normal. 
 
 In addition, if the attacker normally needs 6s to wound his target, they cannot cause a critical hit. Their opponent is simply too tough to suffer a serious injury at the hands of such a puny creature! 
 
@@ -395,9 +395,9 @@ _(Bows, crossbows, blackpowder weapons, throwing knives etc.)_
 
 | Roll | Type | Description |
 | :-: | : - : | : - : | 
-| 1-2 | Hits a Weak Spot | The missile penetrates its target's armor. Ignore all armor saves. |
+| 1-2 | Hits a Weak Spot | The missile penetrates its target's armour. Ignore all armour saves. |
 | 3-4 | Ricochet | If there are any other models within 6", the closest enemy model is also hit. Roll to wound and take any saves as normal for both targets. |
-| 5-6 | Master Shot | The missile hits an eye, the throat, or some other vulnerable part. The target suffers 2 wounds instead of 1. There is no armor save. |
+| 5-6 | Master Shot | The missile hits an eye, the throat, or some other vulnerable part. The target suffers 2 wounds instead of 1. There is no armour save. |
 
 ##### Bludgeoning weapons
 
@@ -406,9 +406,9 @@ _(Clubs, maces, hammers, flails, double-handed hammers etc.)_
 | Roll | Type | Description |
 | :-: | :-: | :-: |
 | 1-2 | Hammered | The target is knocked off balance. Your opponent may not fight this turn if he hasn't already fought. |
-| 3-4 | Clubbed | The hit ignores armor saves and saves from helmets.
-| 5 | Wild Sweep | Your opponent's weapon is knocked from their hand. If they are carrying two weapons, roll to see which one they lose. They must fight with whatever back-up weapon they have in their equipment for the rest of this combat (or fight unarmed if he has no other weapons). Roll to wound and take armor saves as normal. |
-| 6 | Bludgeoned | The victim automatically goes out of action if they fail their armor save. Even if they have several wounds remaining, they will be taken out of action by this attack. Only effects models that are equal to or smaller than their attacker. Larger models suffer the 'Hammered' result instead. |
+| 3-4 | Clubbed | The hit ignores armour saves and saves from helmets.
+| 5 | Wild Sweep | Your opponent's weapon is knocked from their hand. If they are carrying two weapons, roll to see which one they lose. They must fight with whatever back-up weapon they have in their equipment for the rest of this combat (or fight unarmed if he has no other weapons). Roll to wound and take armour saves as normal. |
+| 6 | Bludgeoned | The victim automatically goes out of action if they fail their armour save. Even if they have several wounds remaining, they will be taken out of action by this attack. Only effects models that are equal to or smaller than their attacker. Larger models suffer the 'Hammered' result instead. |
 
 ##### Bladed weapons
 
@@ -416,9 +416,9 @@ _(Swords, axes, double-handed swords etc.)_
 
 | Roll | Type | Description |
 | :-: | :-: | :-: |
-| 1-2 | Flesh Wound | This attack hits an unprotected area, so there is no armor save. |
-| 3-4 | Bladestorm | The warrior unleashes a virtual hail of blows. The attack causes 2 wounds instead of 1. Take armor saves separately for each wound. |
-| 5-6 | Sliced! | The strike ignores armor saves, causes 2 wounds, and your warrior gains +2 to any Injury rolls. |
+| 1-2 | Flesh Wound | This attack hits an unprotected area, so there is no armour save. |
+| 3-4 | Bladestorm | The warrior unleashes a virtual hail of blows. The attack causes 2 wounds instead of 1. Take armour saves separately for each wound. |
+| 5-6 | Sliced! | The strike ignores armour saves, causes 2 wounds, and your warrior gains +2 to any Injury rolls. |
 
 \page
 
@@ -430,7 +430,7 @@ _(War dogs, warhorses, Zombies, Possessed, animals etc.)_
 | :-: | :-: | :-: |
 | 1-2 | Body Blow | Your opponent staggers, allowing you to seize the initiative and make an additional attack. Immediately roll to hit and to wound. Any saves are taken as normal. |
 | 3-4 | Crushing Blow | The blow lands with tremendous force. You gain +1 to the Injury roll. |
-| 5-6 | Mighty Blow | With a mighty punch or flying kick you send your opponent sprawling to the ground! The attack ignores armor saves and you gain +2 to any Injury rolls. |
+| 5-6 | Mighty Blow | With a mighty punch or flying kick you send your opponent sprawling to the ground! The attack ignores armour saves and you gain +2 to any Injury rolls. |
 
 ##### Thrusting weapons
 
@@ -440,7 +440,7 @@ _(Spears, halberds, lances etc.)_
 | :-: | :-: | :-: |
 | 1-2 | Stab | With a quick strike you penetrate your opponent's defences. You gain +1 to the Injury roll. |
 | 3-4 | Thrust | The thrust lands with great force! Victims equal to or smaller in size are automatically _knocked down_ even if they pass their armour save. Larger victims suffer an additional wound if they fail their save. |
-| 5-6 | Kebab! | The thrust knocks the target back with titanic force, ripping apart armor and puncturing flesh. The attack ignores armor saves and you gain +2 to any Injury rolls. The victim is knocked backwards D6" and the attacker follows, staying in base contact. Any other models involved in the combat are separated and only the model which struck the blow and his target are still considered to be in combat. If the target collides with another model, the other model is hit once at S3. Victims larger than the attacker are only knocked back D3". |
+| 5-6 | Kebab! | The thrust knocks the target back with titanic force, ripping apart armour and puncturing flesh. The attack ignores armour saves and you gain +2 to any Injury rolls. The victim is knocked backwards D6" and the attacker follows, staying in base contact. Any other models involved in the combat are separated and only the model which struck the blow and his target are still considered to be in combat. If the target collides with another model, the other model is hit once at S3. Victims larger than the attacker are only knocked back D3". |
 
 #### Armour
 
@@ -448,7 +448,7 @@ Steel breastplates, chainmail, leather tunics, shields... all these and more are
 
 If a warrior wearing armour suffers a wound roll a D6. If the dice roll is sufficiently high the wounding hit has bounced off the armour and has not hurt the wearer at all. The dice score required varies according to the type of armour. 
 
-The table below summarises the most common armour types and the D6 rolls required to make a save. Note that carrying a shield increases the save by +1. For example, a warrior in light armor with a shield will save on a roll of a 5 or 6. A warrior who has a shield but no armor will save on a roll of a 6. 
+The table below summarises the most common armour types and the D6 rolls required to make a save. Note that carrying a shield increases the save by +1. For example, a warrior in light armour with a shield will save on a roll of a 5 or 6. A warrior who has a shield but no armour will save on a roll of a 6. 
  
 D6 score Armour required to save:
 
@@ -456,7 +456,7 @@ D6 score Armour required to save:
 | :-: | :-: |
 | Light armour | 6+ |
 | Heavy armour | 5+ |
-| Gromril armor | 4+ |
+| Gromril armour | 4+ |
 
 Shield adds +1 to the armour save
 
@@ -514,7 +514,7 @@ Models whose bases are touching are engaged in hand-to-hand combat. This can onl
 
 All close quarter fighting is worked out in the hand-to-hand combat phase. Regardless of whose turn it is, all models in hand-to-hand combat will fight. A warrior can fight against enemies to their side, front, or rear. In reality the fighters are constantly moving, dodging, and weaving as they struggle to kill their adversaries. 
 
-Models fighting in hand-to-hand combat do not shoot in the shooting phase. They are far too busy fighting for their lives. Any very close range shots they are able to make using pistols are treated like close combat weapon attacks (see the Weapons & Armor section). 
+Models fighting in hand-to-hand combat do not shoot in the shooting phase. They are far too busy fighting for their lives. Any very close range shots they are able to make using pistols are treated like close combat weapon attacks (see the Weapons & Armour section). 
 
 #### Incapacitated
 
@@ -554,21 +554,21 @@ Some warriors arrive to battle prepared for every situation, weighing themselves
 
 #### Weapon modifiers
 
-Unlike hits from shooting, the Strength of the attacker is used to determine wounds, rather than that of the weapon itself. However, some weapons confer a bonus on the attacker's Strength (see the Weapons & Armor section for full details). 
+Unlike hits from shooting, the Strength of the attacker is used to determine wounds, rather than that of the weapon itself. However, some weapons confer a bonus on the attacker's Strength (see the Weapons & Armour section for full details). 
 
 #### Roll to wound
 
 Once your model has hit a target you must test to see whether a wound is inflicted. Sometimes a strike may fail to wound simply because it causes an insignificant injury or glances off the enemy's equipment. 
 
-To determine whether the blow has caused a wound compare the Strength of the weapon with the Toughness of the target. You will find a complete description of the various weapons together with their Strength values and special rules in the Weapons & Armor section. 
+To determine whether the blow has caused a wound compare the Strength of the weapon with the Toughness of the target. You will find a complete description of the various weapons together with their Strength values and special rules in the Weapons & Armour section. 
 
 Follow the same procedure for wounding and causing critical hits as in the Shooting section. 
 
 #### Armour
 
-Combatants that are wounded have the chance to avoid damage if they are wearing armor or carrying shields. This is exactly the same as described for shooting, and the same rules apply.
+Combatants that are wounded have the chance to avoid damage if they are wearing armour or carrying shields. This is exactly the same as described for shooting, and the same rules apply.
 
-For each wound suffered the player rolls a D6. If he rolls greater than or equal to the armor save of his fighter then that wound has been absorbed or deflected by the armor.
+For each wound suffered the player rolls a D6. If he rolls greater than or equal to the armour save of his fighter then that wound has been absorbed or deflected by the armour.
 
 #### Armour save modifiers
 
@@ -586,7 +586,7 @@ The higher a creature's Strength the more easily it can pierce armour. The follo
 | 8 | -5 |
 | 9+ | -6 |
 
-Some weapons also confer a bonus to the user's Strength, making it more likely that any hits will pierce the opponent's armour. These bonuses are given in the Weapons & Armor section.
+Some weapons also confer a bonus to the user's Strength, making it more likely that any hits will pierce the opponent's armour. These bonuses are given in the Weapons & Armour section.
 
 #### Parry
 

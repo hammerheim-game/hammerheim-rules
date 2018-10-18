@@ -109,12 +109,12 @@ Missile Weapons
 Slings ............................................................................. 2 GC
 Short Bow ..................................................................... 5 GC
 Bow ............................................................................. 10 GC
-Armor
+Armour
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Toughened leathers ....................................................... 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
+Light Armour .............................................................. 20 GC
 ##### Heroes
 
 1 Ilkhan
@@ -124,8 +124,8 @@ rules with an iron fist and none will (openly) dispute his power.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
-Weapons/Armor: The Ilkhan may be equipped with
-weapons and armor chosen from the Hobgoblin equipment
+Weapons/Armour: The Ilkhan may be equipped with
+weapons and armour chosen from the Hobgoblin equipment
 list.
 Skills: The Ilkhan may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
@@ -140,8 +140,8 @@ Often Hobgoblin raiding forces include one of their Shamans, gifted
 with the ability to wield magic these are fearsome opponents
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 2 1 7
-Weapons/Armor: A Shaman may be equipped with
-weapons and armor chosen from the Hobgoblin equipment
+Weapons/Armour: A Shaman may be equipped with
+weapons and armour chosen from the Hobgoblin equipment
 list.
 Skills: The Shaman may choose from Shooting, Academic &
 Speed when he gains a new skill. In addition, the Shaman
@@ -159,8 +159,8 @@ The Biggest and Baddest of the Gitz, ‘Ard Gits run with the Ilkhan
 and are entitled to the best loot (after the Ilkhan of course).
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 6
-Weapons/Armor: An ‘Ard Gits may be equipped with
-weapons and armor chosen from the Hobgoblin equipment
+Weapons/Armour: An ‘Ard Gits may be equipped with
+weapons and armour chosen from the Hobgoblin equipment
 list.
 Skills: The ‘Ard Gits may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
@@ -175,8 +175,8 @@ Gits
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 2 1 6
-Weapons/Armor: A Hobgoblin Git may be equipped with
-weapons and armor chosen from the Hobgoblin equipment
+Weapons/Armour: A Hobgoblin Git may be equipped with
+weapons and armour chosen from the Hobgoblin equipment
 list.
 
 0-5 Shooty Gits
@@ -184,8 +184,8 @@ list.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 4 3 3 1 2 1 6
-Weapons/Armor: A Hobgoblin Shooty Gits may be
-equipped with weapons and armor chosen from the
+Weapons/Armour: A Hobgoblin Shooty Gits may be
+equipped with weapons and armour chosen from the
 Hobgoblin equipment list.
 Special Rules
 Ded shooty: The Hobgoblin Shooty Gits start with the skill
@@ -195,8 +195,8 @@ Giant Wolves
 20 gold crowns to hire
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 3 3 1 4 1 4
-Weapons/Armor: Giant Wolves do not use any kind of
-weapons or armor
+Weapons/Armour: Giant Wolves do not use any kind of
+weapons or armour
 Special Rules
 Experience: Giant wolves are animals and do not gain
 experience.

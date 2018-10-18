@@ -64,7 +64,7 @@ Handgun ...............................................35 GC
 
 Armour
 Light armour ......................................... 20 GC
-Heavy armor ......................................... 50 GC
+Heavy armour ......................................... 50 GC
 Shield .............................................. 5 GC
 Helmet ............................................ 10 GC
 
@@ -194,7 +194,7 @@ The Officer is the highest ranking member of his division, a decorated soldier d
 | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 1 | 7 |
-Weapons/Armor: An Officer may be equipped with weapons and armor chosen from the Soldier Equipment list.
+Weapons/Armour: An Officer may be equipped with weapons and armour chosen from the Soldier Equipment list.
 
 Skills: The Officer may choose from Combat, Shooting, Strength, & Speed when they gain a new skill.
 
@@ -236,7 +236,8 @@ The Battle Monks from Cathay are experts in fighting unarmed. Brothers combine o
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 |
 
-Weapons/Armour: Warrior Monks may be equipped with weapons chosen from the Monk Equipment list. Monks suffer no penalties whatsoever for fighting unarmed and they receive +1 Attack when doing so. 
+Weapons/Armour: Warrior Monks may be equipped with weapons chosen from the Monk Equipment list. Monks suffer no penalties whatsoever for fighting unarmed and they receive +1 Attack when doing so. 
+
 
 
 0-5 Raging Peasants

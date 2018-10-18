@@ -72,13 +72,13 @@ Handgun ...................................................................... 5
 Blunderbuss ................................................................. 60 GC
 Warplock Pistol ................................. 35 GC (70 for a brace)
 Poison Wind Globes .................................................... 25 GC
-Armor
+Armour
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
+Light Armour .............................................................. 20 GC
 
-Heavy Armor ............................................................. 50 GC
+Heavy Armour ............................................................. 50 GC
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
 Dagger .............................................................. 1st free/2 GC
@@ -89,10 +89,10 @@ Missile Weapons
 Sling .............................................................................. 2 GC
 Pistol (brace not available for henchmen) ................... 20 GC
 Handgun ...................................................................... 55 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
+Light Armour .............................................................. 20 GC
 Machinist Equipment List
 Special Weapons
 Poison Wind Globes .................................................... 25 GC
@@ -111,8 +111,8 @@ the precious warpstone to power their mad machines.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 4 3 1 5 1 7
-Weapons/Armor: The Chief Engineer may be equipped
-with weapons and armor chosen from the Hero’s equipment
+Weapons/Armour: The Chief Engineer may be equipped
+with weapons and armour chosen from the Hero’s equipment
 list.
 Skills: The Chief Engineer may choose from Combat,
 Shooting, Academic, Strength & Speed when he gains a new
@@ -135,8 +135,8 @@ Skryre. These evil beings are equipped to make a difference in local
 population.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 4 4 3 1 5 1 6
-Weapons/Armor: A Journeyman may be equipped with
-weapons and armor chosen from the Hero’s and the
+Weapons/Armour: A Journeyman may be equipped with
+weapons and armour chosen from the Hero’s and the
 Machinist equipment lists.
 Skills: The Journeymen may choose from Combat, Shooting,
 Academic, & Speed when he gains a new skill. In addition,
@@ -152,8 +152,8 @@ but have yet to prove their worth or claw a position of power among
 the Engineers.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 5 1 6
-Weapons/Armor: The Warlock Engineer may be equipped
-with weapons and armor chosen from the Hero’s equipment
+Weapons/Armour: The Warlock Engineer may be equipped
+with weapons and armour chosen from the Hero’s equipment
 list.
 Skills: The Warlock Engineer may choose from Academic, &
 Speed when he gains a new skill. In addition, the Warlock
@@ -173,8 +173,8 @@ Apprentices. They are vicious and devious fighters, and enjoy a
 good hunt as often as they can.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 4 1 5
-Weapons/Armor: An Apprentice may be equipped with
-weapons and armor chosen from the Henchmen equipment
+Weapons/Armour: An Apprentice may be equipped with
+weapons and armour chosen from the Henchmen equipment
 list.
 Skills: The Apprentice may choose from Combat, Shooting,
 & Speed when he gains a new skill. In addition, the
@@ -189,8 +189,8 @@ and drawers of water, freeing the Engineers to do their work.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 4 1 5
-Weapons/Armor: Thrall may be equipped with weapons
-and armor chosen from the Henchmen equipment list.
+Weapons/Armour: Thrall may be equipped with weapons
+and armour chosen from the Henchmen equipment list.
 Special Rules
 Assistant: The Thrall can be assigned to a Machinist or
 Journeymen to aid them in carrying and using the Jezzail
@@ -206,8 +206,8 @@ of clan Skryre. They act as Attendants and hope to learn the black
 ways that make Skaven powerful.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 4 3 3 1 4 1 5
-Weapons/Armor: Machinist may be equipped with
-weapons and armor chosen from the Henchmen and the
+Weapons/Armour: Machinist may be equipped with
+weapons and armour chosen from the Henchmen and the
 Machinist equipment lists.
 
 
@@ -219,7 +219,7 @@ Skaven, overpowering their opponents by sheer weight of numbers.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 2 0 3 3 1 4 1 4
-Weapons/Armor: None. Giant Rats never use any armor
+Weapons/Armour: None. Giant Rats never use any armour
 or weapons.
 Pack Size: You mar recruit as many Giant Rats as you wish.
 For each Giant Rat beyond the first two, each model counts
@@ -242,7 +242,7 @@ beast.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 5 5 3 1 3 10
-Weapons/Armor: Jaws, claws, and a miniature Warpfire
+Weapons/Armour: Jaws, claws, and a miniature Warpfire
 thrower on its mechanical left arm.
 Special Rules
 Bio Machinery: The Clan Skryre Rat Ogre is not alive as
@@ -263,7 +263,7 @@ May Not Run: The Clan Skryre Rat Ogre is a huge
 lumbering monster-machine that lacks the sheer animal speed
 of a living Rat Ogre. It may not run but may charge.
 Metallic Body: These give Clan Skryre Rat Ogre a 4+
-armor save.
+armour save.
 Unreliable: The technology of biomechanics is still pretty
 much in its infancy and as with most Clan Skryre
 experiments is neither safe nor entirely reliable! At the

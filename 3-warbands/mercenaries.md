@@ -178,9 +178,9 @@ Crossbow ..................................................................... 2
 Pistol .................................................. 15 GC (30 for a brace)
 Duelling pistol ................................... 25 GC (50 for a brace)
 Bow ............................................................................. 10 GC
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
@@ -200,8 +200,8 @@ Long bow .................................................................... 15
 Blunderbuss ................................................................. 30 GC
 Handgun ...................................................................... 35 GC
 Hunting rifle .............................................................. 175 GC
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 ##### Heroes
@@ -217,8 +217,8 @@ Captain, it is no wonder that they flock to Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
-Weapons/Armor: A Mercenary Captain may be equipped
-with weapons and armor chosen from the Mercenary
+Weapons/Armour: A Mercenary Captain may be equipped
+with weapons and armour chosen from the Mercenary
 Equipment list.
 Skills: The Mercenary Captain may choose from Combat,
 Shooting, Academic, Strength, and Speed, when he gains a
@@ -239,8 +239,8 @@ in the warband. They often answer challenges issued to the warband
 and, after the Captain, they get the pick of any equipment and loot.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
-Weapons/Armor: Champions may be equipped with
-weapons and armor chosen from the Mercenary Equipment
+Weapons/Armour: Champions may be equipped with
+weapons and armour chosen from the Mercenary Equipment
 list.
 Skills: The Reikland Champions may choose from Combat,
 Shooting, &, Strength, the Middenheim Champions may
@@ -258,7 +258,7 @@ and magpie-like Priests of Ranald, to the devout healers of Shallaya.
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Clerics may be equipped with weapons and
+Weapons/Armour: Clerics may be equipped with weapons and
 armour chosen from the Mercenary Equipment list.
 Skills: Clerics may take Combat & Academic when they gain a new
 skill. Clerics of Ulric or Taal may also choose Strength skills.
@@ -282,13 +282,13 @@ only), or Prayers of Ranald.
 Warriors
 25 gold crowns to hire
 These dogs of war are grim, seasoned fighters, fearing no man as
-long as they have their weapons and armor. They form the core of
+long as they have their weapons and armour. They form the core of
 any Mercenary warband.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: Warriors may be equipped with weapons
-and armor chosen from the Mercenary Equipment list.
+Weapons/Armour: Warriors may be equipped with weapons
+and armour chosen from the Mercenary Equipment list.
 
 0-7 Marksmen
 25 gold crowns to hire
@@ -300,8 +300,8 @@ with their arrows.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: Marksmen may be equipped with
-weapons and armor chosen from the Marksman Equipment
+Weapons/Armour: Marksmen may be equipped with
+weapons and armour chosen from the Marksman Equipment
 list.
 
 0-5 Swordsmen
@@ -312,8 +312,8 @@ warband leaders, as their skills are ideally suited for fighting in
 Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
-Weapons/Armor: Swordsmen may be equipped with
-weapons and armor chosen from the Mercenary Equipment
+Weapons/Armour: Swordsmen may be equipped with
+weapons and armour chosen from the Mercenary Equipment
 list.
 Special Rules
 Expert Swordsmen: Swordsmen are so skilled with their

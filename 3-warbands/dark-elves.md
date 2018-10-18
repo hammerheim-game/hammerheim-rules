@@ -76,12 +76,12 @@ Dark Steel Weapon* ................................................. 2x price
 Missile Weapons
 Repeater Crossbow ...................................................... 35 GC
 Crossbow Pistol ........................................................... 35 GC
-Armor
+Armour
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
-Dark Steel Armor* .................................................... 95 GC
+Light armour ................................................................ 20 GC
+Dark Steel Armour* .................................................... 95 GC
 Special Equipment
 Dark Venom* .............................................................. 15 GC
 Sea Dragon Cloak** .................................................... 50 GC
@@ -93,9 +93,9 @@ Axe ............................................................................
 Sword .......................................................................... 5 GC
 Missile Weapons
 Repeater Crossbow ...................................................... 35 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 * May be taken by Heroes only.
 ** May be taken by Heroes and Corsairs only.
 
@@ -115,8 +115,8 @@ remarkable cunning, they are dangerous foes who embody the
 merciless traits of the Druchii race.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 4 3 3 1 6 1 9
-Weapons/Armor: A High Born may be armed with
-weapons and armor chosen from the Dark Elf Equipment
+Weapons/Armour: A High Born may be armed with
+weapons and armour chosen from the Dark Elf Equipment
 list.
 Skills: The High Born may choose from Combat, Shooting,
 Academic & Speed when he gains a new skill. In addition,
@@ -138,8 +138,8 @@ hone their killing skills.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 4 3 3 1 6 1 8
-Weapons/Armor: Fellblades may be armed with weapons
-and armor chosen from the Dark Elf Equipment list.
+Weapons/Armour: Fellblades may be armed with weapons
+and armour chosen from the Dark Elf Equipment list.
 Skills: The Fellblade may choose from Combat & Speed
 when he gains a new skill. In addition, the Fellblade may
 choose from the Dark Elf Special Skill list.
@@ -158,8 +158,8 @@ the High Elves who treat their beasts as companions, the Dark Elf
 Beastmasters are very spiteful masters.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 4 3 3 1 6 1 8
-Weapons/Armor: A Beastmaster may be armed with
-weapons and armor chosen from the Dark Elf Equipment
+Weapons/Armour: A Beastmaster may be armed with
+weapons and armour chosen from the Dark Elf Equipment
 list.
 Skills: The Beastmaster may choose from Combat & Speed
 when he gains a new skill. In addition, the Beastmaster may
@@ -181,9 +181,9 @@ grudgingly respected even from the powerful High Born and their
 services are high in demand.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 4 3 3 1 6 1 8
-Weapons/Armor: The Sorceress may be armed with
-weapons and armor chosen from the Dark Elf Equipment
-list but they may not cast spells if wearing armor.
+Weapons/Armour: The Sorceress may be armed with
+weapons and armour chosen from the Dark Elf Equipment
+list but they may not cast spells if wearing armour.
 Skills: The Sorceress may choose from Academic & Speed
 when he gains a new skill. In addition, the Sorceress may
 choose from the Dark Elf Special Skill list.
@@ -209,8 +209,8 @@ of Lustria the Corsairs are the first to launch raiding parties.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 3 3 1 6 1 8
-Weapons/Armor: Corsairs may be armed with weapons
-and armor chosen from the Dark Elf Equipment list, in
+Weapons/Armour: Corsairs may be armed with weapons
+and armour chosen from the Dark Elf Equipment list, in
 addition they may wear Sea Dragon Cloaks even though they
 are not heroes.
 
@@ -224,8 +224,8 @@ valuable training opportunity.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 5 1 8
-Weapons/Armor: Shades may be armed with weapons and
-armor chosen from the Shades Equipment list.
+Weapons/Armour: Shades may be armed with weapons and
+armour chosen from the Shades Equipment list.
 Special Rules
 Natural Stealth: The first thing that Dark Elf Scouts master
 is the art of moving without being seen or heard. If a Dark Elf
@@ -246,7 +246,7 @@ Dark Elves capture and train these creatures to fight in battles all
 over the Warhammer world.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 0 4 4 1 1 1 4
-Weapons/Armor: Cold One Beasthounds are animals and
+Weapons/Armour: Cold One Beasthounds are animals and
 do not need any weapons save their claws and massive jaws.
 Special Rules
 Animals: Cold One Beasthounds are animals and all animal
@@ -262,7 +262,7 @@ They may never use the Leadership of the warband leader,
 nor may they benefit from the Beastmaster’s increased
 Leadership if he is within 6" of the leader.
 Scaly Skin: Cold One Beasthounds have tough scaly skin,
-and are considered to have a 6+ armor save. This save
+and are considered to have a 6+ armour save. This save
 cannot be modified beyond 6 due to strength modifiers but
 any result of ‘no save’ on the injury chart will negate the
 unmodified 6+ save.

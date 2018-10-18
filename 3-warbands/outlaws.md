@@ -96,8 +96,8 @@ Short bow ......................................................................
 
 Bow ............................................................................. 10 GC
 Longbow* ................................................................... 15 GC
-Armor
-Light armor* .............................................................. 20 GC
+Armour
+Light armour* .............................................................. 20 GC
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 Special Equipment
@@ -121,7 +121,7 @@ Outlaws will follow him, inspired as much by his ruthlessness as by
 his prowess.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 3 3 1 4 1 8
-Weapons/Armor: The Bandit Leader may be equipped
+Weapons/Armour: The Bandit Leader may be equipped
 with weapons chosen from the Outlaws equipment list.
 Skills: The Bandit Leader may choose from Combat,
 Shooting, Academic, Strength, & Speed when he gains a new
@@ -138,7 +138,7 @@ rewarded with the choicest pickings of any loot.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 4 3 3 1 3 1 7
-Weapons/Armor: Champions may be equipped with
+Weapons/Armour: Champions may be equipped with
 weapons chosen from the Outlaws equipment lists.
 Skills: The Champions may choose from Combat, Shooting,
 & Strength when he gains a new skill.
@@ -157,7 +157,7 @@ enamoured with the Outlaws and become a part of the famiy.
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Can be chosen from the Outlaws
+Weapons/Armour: Can be chosen from the Outlaws
 equipment list. 
 Skills: A Monk of Ranald may choose from Shooting, Academic, &
 Speed skills. A Monk of Shallya may choose from Academic skills.
@@ -176,7 +176,7 @@ the trees of Stirwood Forest. Although young, they are still keen
 enough to prove their worth to their fellow outlaws.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 3 1 6
-Weapons/Armor: Petty Thieves may be equipped with
+Weapons/Armour: Petty Thieves may be equipped with
 weapons chosen from the Outlaws equipment list.
 Skills: The Petty Thieves may choose from Combat,
 Shooting, & Speed when he gains a new skill.
@@ -191,8 +191,8 @@ before they get too close.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 4 3 3 1 3 1 7
-Weapons/Armor: Marksmen can be armed with weapons
-and armor chosen from the Outlaws Equipment list.
+Weapons/Armour: Marksmen can be armed with weapons
+and armour chosen from the Outlaws Equipment list.
 
 Outlaws
 25 Gold Crowns to hire
@@ -201,7 +201,7 @@ the core, any of these would be more than happy to slip a sharp
 knife between somebody’s ribs for the promise of just a few groats.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Outlaws can be armed with weapons and
-armor chosen from the Outlaws Equipment list.
+Weapons/Armour: Outlaws can be armed with weapons and
+armour chosen from the Outlaws Equipment list.
 
 

@@ -10,7 +10,7 @@
             - Leader
             - Other heroes
         - Henchmen
-    - Weapons and armor
+    - Weapons and armour
     - Warband roster
     - Ready for battle
 
@@ -22,7 +22,7 @@ Before you begin to play you must recruit a warband to take part in the battle f
 
 Use the lists that follow to recruit and equip your warband (an example warband has been included at the back of the book.) You have 500 gold crowns to spend. Each model and their equipment (if you choose to buy any) costs a set amount of money. As you make your choices, subtract the money you have “spent” from your total until you have bought all you can. Any unspent gold crowns are put into the warband’s treasury and can be used later or hoarded to buy something more expensive. 
 
-To start with you must recruit at least three warriors including a leader. The weapons, armor and mutations you choose for your warriors must be represented on the models themselves. The exceptions are knives and daggers, which you may assume are tucked in boots or concealed in clothing if not represented on the model. 
+To start with you must recruit at least three warriors including a leader. The weapons, armour and mutations you choose for your warriors must be represented on the models themselves. The exceptions are knives and daggers, which you may assume are tucked in boots or concealed in clothing if not represented on the model. 
 
 \page
 
@@ -72,13 +72,13 @@ Henchmen may never use any special equipment you acquire during their adventures
 
 All Henchmen belong to a Henchmen group, which usually consists of between one and five individuals. Henchmen groups gain experience collectively and gain advances together.
 
-#### Weapons and armor
+#### Weapons and armour
 
-Each warrior you recruit can be armed with up to two close combat weapons (or one two-handed weapon), a single missile weapon, and any armor chosen from the appropriate list. For these purposes, a brace of pistols counts as a single missile weapon. Warriors may be restricted in regard to which types of weapons they can use. The warband’s equipment lists tell you exactly what equipment is available. Note that you may buy rare weapons and armor when starting a warband, as indicated by the list in the warband’s entry, but after playing the first game the only way to get further rare weapons and armor is to roll to see if you can locate them (see the Trading section).
+Each warrior you recruit can be armed with up to two close combat weapons (or one two-handed weapon), a single missile weapon, and any armour chosen from the appropriate list. For these purposes, a brace of pistols counts as a single missile weapon. Warriors may be restricted in regard to which types of weapons they can use. The warband’s equipment lists tell you exactly what equipment is available. Note that you may buy rare weapons and armour when starting a warband, as indicated by the list in the warband’s entry, but after playing the first game the only way to get further rare weapons and armour is to roll to see if you can locate them (see the Trading section).
 
-You may buy additional equipment between battles, but your warriors can only use the weapons and armor listed in their warband entry. As they accumulate experience and gain skills, Heroes may learn to use weapons other than those initially available to them.
+You may buy additional equipment between battles, but your warriors can only use the weapons and armour listed in their warband entry. As they accumulate experience and gain skills, Heroes may learn to use weapons other than those initially available to them.
 
-Every model in each Henchman group must be armed and armored in the same way. This means that if your Henchman group has four warriors, and you want to buy them swords, you must buy four swords.
+Every model in each Henchman group must be armed and armoured in the same way. This means that if your Henchman group has four warriors, and you want to buy them swords, you must buy four swords.
 
 #### Warband roster
 
@@ -93,7 +93,7 @@ write down the details of each Hero and Henchman group in
 the appropriate places. You’ll notice that Heroes and
 Henchmen have slightly different spaces provided to reflect
 the different ways in which they gain experience and use
-weapons, armor and equipment.
+weapons, armour and equipment.
 It is a good idea to work out the warband on a piece of scrap
 paper first, as you will have to juggle the weapons and
 fighters to get as close to the maximum permitted value of the
