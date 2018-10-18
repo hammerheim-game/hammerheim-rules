@@ -155,8 +155,8 @@ Warrior Warband is known by the honourable title ‘Shadow
 Master’. These proud and strong-willed warriors often gather a
 small band of their followers and seek a life away from the hesitant
 charity and distasteful stares of Ulthuan.
-Profile M WS BS S T W I A Ld
-5 5 5 3 3 1 6 1 9
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 5 3 3 1 6 1 9
 Weapons/Armor: Shadow Master may be equipped with
 weapons and armor chosen from the Shadow Warrior
 Equipment list.
@@ -176,8 +176,8 @@ darkness, and while he does not command it, it gives him aid when
 asked. Shadow Walkers are seasoned veterans in the war against
 the Dark Elves. They are skilled trackers and hunters, and the most
 trusted lieutenants of the Warband’s captain, the Shadow Master.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 4 3 3 1 6 1 8
 Weapons/Armor: Shadow Walkers may be equipped with
 weapons and armor chosen from the Shadow Warrior
@@ -198,8 +198,8 @@ their presence and confound their enemies. In fact the title Shadow
 Weaver comes from the nature of their magic... like a talented
 tailor, the Shadow Weaver takes the threads of shadow and fashions
 them into shapes and forms of his choosing.
-Profile M WS BS S T W I A Ld
-5 4 4 3 3 1 6 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 4 3 3 1 6 1 8
 Weapons/Armor: Shadow Weavers may be equipped with
 weapons and armor chosen from the Shadow Warrior
 Equipment list, but they may not cast spells if wearing
@@ -225,8 +225,8 @@ Shadow Warriors
 Most of the warriors in the Shadow Warrior Warband are veterans
 of at least one battle, and all have lost loved ones to the depravity of
 the Dark Elves.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 3 3 1 6 1 8
 Weapons/Armor: Shadow Warriors may be equipped with
 weapons and armor chosen from the Shadow Warrior
@@ -238,8 +238,8 @@ These are untested Shadow Elves, newly inducted into the warband.
 Often these warriors are younger cousins who are setting out from
 Ulthuan for the first time. Due to their hard existence, it is often a
 quick progression from Novice to full Warrior, however.
-Profile M WS BS S T W I A Ld
-5 3 3 3 3 1 5 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 5 1 7
 Weapons/Armor: Shadow Novices may be equipped with
 weapons and armor chosen from the Shadow Warrior
 Equipment list.

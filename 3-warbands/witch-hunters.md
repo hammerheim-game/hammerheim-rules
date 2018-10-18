@@ -140,8 +140,8 @@ cleansing Mordheim and bringing the justice of Sigmar to all.
 Carrying the edict of the Grand Theogonist himself, they have the
 divine right to judge and execute warlocks, witches, Chaos
 worshippers... in fact all who dare to oppose them.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
 Weapons/Armor: A Witch Hunter Captain may be
 equipped with weapons and armor chosen from the Witch
@@ -162,8 +162,8 @@ dedicated to eradicating Chaos and all its minions. Usually they
 prowl the Old World individually trying and executing the enemies
 of Sigmar, but the situation in Mordheim requires them to band
 together.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Witch Hunters may be equipped with
 weapons and armor chosen from the Witch Hunter
 Equipment list.
@@ -183,8 +183,8 @@ The Grand Theogonist himself has granted the Warrior-Priests an
 edict to cleanse Mordheim of Chaos filth. With fire burning in their
 eyes, the Warrior-Priests stride into battle, chanting aloud the Deus
 Sigmar, the praise of the patron god of the Empire.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 8
 
 Weapons/Armor: A Warrior-Priest may be equipped with
@@ -213,8 +213,8 @@ peasants and craftsmen before, and thus may not be as dangerous in
 a fight as seasoned mercenaries, their determination and fanaticism
 should not be underestimated. Witch Hunters find ready allies in
 their ranks, and many a band of Zealots is led by Witch Hunters.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 3 3 1 3 1 7
 Weapons/Armor: Zealots may be equipped with weapons
 and armor chosen from the Zealot Equipment list.
@@ -223,8 +223,8 @@ and armor chosen from the Zealot Equipment list.
 Witch Hunters often keep packs of ferocious hunting dogs. With
 their huge jaws and powerful bite, they are perfect for hunting down
 (and tearing apart) any heretics, mutants, deviants and witches.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 0 4 3 1 4 1 5
 Weapons/Armor: Jaws and brutality! War hounds never
 use or need weapons and armor.
@@ -244,8 +244,8 @@ fight in the streets of Mordheim, where no sane man dares tread.
 Flagellants are extremely dangerous opponents in close combat, for
 they have the strength of madmen, and their bodies have become
 inured to pain because of self-mutilation.
-Profile M WS BS S T W I A Ld
-4 3 3 4 4 1 3 1 10
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 4 4 1 3 1 10
 Weapons/Armor: Flagellants may be equipped with
 weapons and armor chosen from the Flagellant Equipment
 list. Flagellants never use missile weapons, even if they gain

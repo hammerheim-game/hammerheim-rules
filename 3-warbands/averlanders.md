@@ -166,8 +166,8 @@ will follow you to hell and back, and plenty of gold crowns and
 feasting. A captain that fails in his duty to keep his men alive and
 well fed will at best find himself deserted and worst end up with a
 knife in his back.
-Profile M WS BS S T W I A Ld
-4 4 4 3 3 1 4 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 3 3 1 4 1 8
 Weapons/Armor: A Captain may be equipped with
 weapons and armor chosen from the Mountainguard
 Equipment list.
@@ -185,8 +185,8 @@ chance at making some extra money. The brighter captains hire the
 service of a veteran as his sergeant, and leave all the practical
 decision to him. A veteran can be recognised by his many battle-
 scars and the cynicism that marks a soldier of the army.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
 Weapons/Armor: A Sergeant may be equipped with
 weapons and armor chosen from the Mountainguard
 Equipment list.
@@ -202,8 +202,8 @@ through terrain and are used as scouts. In addition they make good
 use of animal traps to delay or divide a group of enemies.
 Bergjaeger are not professional soldiers and rely more on stealth
 and cunning than a strong sword-arm to survive.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 4 3 3 1 3 1 7
 Weapons/Armor: Bergjaeger may be equipped with
 weapons and armor chosen from the Scout Equipment list.
@@ -233,8 +233,8 @@ band of mercenaries or regiment in pursuit of a romantic dream of
 fame and adventure. Some are herdsmen who hoped to find an
 easier way of filling their belly than the hard and uncertain business
 of looking after animals, not to mention that its quite dull!
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
 Weapons/Armor: A Youngblood may be equipped with
 weapons and armor chosen from the Mountainguard
 Equipment list.
@@ -257,8 +257,8 @@ come. Some of these veterans advance to become sergeants or even
 captains themselves. There are a few warbands that consists solely
 of Mountainguard veterans, often from the same regiment or the
 survivors of a great battle.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 3 3 1 3 1 7
 Weapons/Armor: Mountainguards may be equipped with
 weapons and armor chosen from the Mountainguard
@@ -274,8 +274,8 @@ trained with black powder weapons instead of the traditional bow or
 crossbow. Marksmen often own their own weapons, as the cost of a
 handgun is as high as hiring the Marksman himself! Thus the
 Marksmen are not forced to do as much hard labour as the militia.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Marksmen may be equipped with
 weapons and armor chosen from the Marksman Equipment
 list.
@@ -289,8 +289,8 @@ pass and the Moot was devastated. Ever since then the Moot urge
 their gamekeepers to serve at least a few years in the garrison that
 guard the pass. If another warlord tries to invade the Moot, they will
 meet the fierce resistance of the Halflings in the mountain Pass.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 4 2 2 1 4 1 8
 Weapons/Armor: Halfling Scouts may be equipped with
 weapons and armor chosen from the Scout Equipment list.

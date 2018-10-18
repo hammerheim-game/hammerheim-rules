@@ -148,8 +148,8 @@ are rich enough to afford their own horse and battlegear, and they
 must be ready to fight for the Tzar when called upon. In return for
 this they are allowed to own land and are given a break on their
 annual taxes.
-Profile M WS BS S T W I A Ld
-4 4 4 3 3 1 3 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 3 3 1 3 1 8
 Weapons/Armor: A Druzhina Captain may be equipped
 with weapons and armor chosen from the Kislevite Warrior
 equipment list.
@@ -187,8 +187,8 @@ by Gospodar warriors as a more familiar term for an experienced
 veteran. Most Kislevite cities contain at least one grizzled veteran
 amongst the ranks of their professional soldiery who has been
 affectionately labelled ‘Esaul’ by his men.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
 Weapons/Armor: An Esaul may be equipped with
 weapons chosen from the Kislevite Warrior Equipment list.
 Skills: The Esaul may choose from Combat, Shooting, &
@@ -205,8 +205,8 @@ as Bear Tamers, and the best of them are widely renowned amongst
 the people of Kislev. Bears can be trained for martial purposes as
 well, and Bear Tamers are often recruited into the armies of Kislev,
 where they enjoy a special status among the soldiery.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 4 3 1 3 1 7
 Weapons/Armor: A Bear Tamer may be armed with
 weapons chosen from Kislevite Warrior equipment list.
@@ -223,8 +223,8 @@ of the Bear Tamer (even if the Tamer is _incapacitated_).
 15 gold crowns to hire
 Strong, strapping lads from the countryside often join a band of
 daring adventurers to make their fortune.
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
 Weapons/Armor: Youths may be equipped with weapons
 chosen from the Kislevite Warrior Equipment list.
 Skills: The Youth may choose from Combat, Shooting,
@@ -242,8 +242,8 @@ for their fair-skinned beauty. Gospodar women have the same rights
 as men, and are allowed to rise to positions of power; in fact the
 most powerful of the legendary Ice Mages of Kislev are all female!
 
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Warriors may be equipped with weapons
 and armor chosen from the Kislevite Warrior equipment list.
 
@@ -254,8 +254,8 @@ They are always the first to encounter any Chaos invaders from the
 north, and so have long fostered a bitter enmity with the servants of
 Chaos. Cossacks are renowned for their riding skills, and their
 favoured weapons are the scimitar (sword) and spear.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Cossacks may be armed with weapons
 and armor chosen from the Kislevite Warrior equipment list.
@@ -284,8 +284,8 @@ handgun are the most widely recognised symbols of the Streltsi. In
 combat Streltsi are able to use their berdiches as rests for their
 handguns, increasing their accuracy and making for a deadly
 weapon combination.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Streltsi may be armed with weapons and
 armor chosen from the Streltsi equipment list. Note that
 Streltsi are the only Kislevite Warriors trained in the use of
@@ -307,8 +307,8 @@ takes years for a human to win their trust and obedience. The effort
 to train one of these creatures is well worth it however, as one
 cannot hope for a more loyal friend or useful ally when things turn
 bad.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 0 5 5 3 2 2 6
 Weapons/Armor: None, other than their claws and teeth!
 Special Rules

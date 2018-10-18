@@ -149,7 +149,7 @@ Some creatures in Mordheim have been given a '0' for certain characteristics whi
 A model's characteristic values are written in the form of a chart called a characteristics profile (or just profile).
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | 
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: || : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | 
 | Useless Jeremy | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
 
 The example above is a typical profile for a Human warrior. As you fight in more games against other players, your warriors will get better and their characteristics may increase. All these details are recorded using the Warband roster sheets provided at the back of this book. This is explained properly later on. For now it is enough to know what each characteristic is for and how their values vary. 

@@ -126,8 +126,8 @@ many battles and is used to the bloodshed. While some Jarls choose
 to command their forces with strategy, most just run into the fray
 with the rest of the warriors. However the Jarl decides to run his
 Warband, all of the other warriors respect him and look up to him.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 4 3 1 4 2 8
 Weapons/Armor: A Jarl can be armed with weapons and
 armor chosen from the Heroes Equipment list.
@@ -145,8 +145,8 @@ Warband. They have proven their worth over countless battles and
 have learned that death is nothing to be feared. They charge into
 battle without any regard for their own safety and are really quite
 demented.
-Profile M WS BS S T W I A Ld
-4 4 3 4 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 4 3 1 3 1 7
 Weapons/Armor: Berserkers can be armed with weapons
 chosen from the Heroes Equipment list but they may never
 wear armor.
@@ -167,8 +167,8 @@ man part wolf or bear. These creatures are known and greatly
 feared as werewolves to most Old Worlders. These monstrous beasts
 tear through flesh and armor with ease with their huge claws and
 massive fangs as they rampage through the melee.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 0 4 4 1 4 2 7
 Weapons/Armor: A Wulfen is a ravening beast of teeth
 and claws and may never use weapons or armor although
@@ -188,8 +188,8 @@ become the leader of the warband.
 15 Gold Crowns to hire
 These are young fighters who are still inexperienced and they are
 ‘bonded’ to the Jarl by the oath of servitude.
-Profile M WS BS S T W I A Ld
-4 3 2 3 3 1 2 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 2 3 3 1 2 1 6
 Weapons/Armor: Bondsmen may be equipped with
 weapons and armor from the Heroes Equipment list.
 Skills: The Bondsmen may choose from Combat, Strength &
@@ -204,8 +204,8 @@ Marauders are the standard warrior to any Norse Warband. They
 have had their share of bloodshed and have been trained since they
 were children. They are referred to as Marauders as they are
 pirates and raiders.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 3 3 1 3 1 7
 Weapons/Armor: Marauders can be armed with weapons
 and armor chosen from the Henchmen Equipment list.
@@ -216,8 +216,8 @@ Hunters are the most skilled in hunting wild game in Norse society.
 They are experts the bow as well as all of the other weapons
 common to the Norse. They often follow champions on voyages to
 offer ranged attacks as well as additional hunting skills.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Hunters can be armed with weapons and
 armor chosen from the Henchman Equipment list.
@@ -229,8 +229,8 @@ beasts: massive wholly mammoths, vicious polar bears and wolves
 far larger than those encountered elsewhere in the world. Norse
 hunters make use of these beasts when trained and they are
 formidable foes.
-Profile M WS BS S T W I A Ld
-9 3 0 3 3 1 3 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 3 3 1 3 1 5
 Weapons/Armor: Wolves don’t need and cannot use
 weapons.
 Special Rules

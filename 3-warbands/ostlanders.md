@@ -147,8 +147,8 @@ In Ostland, the oldest (or more often biggest) man in the village is
 given the title ‘Elder’. His word is greatly respected and only at his
 urging would the manhood of an entire village pack up and travel to
 Mordheim to seek their fortune.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
 Weapons/Armor: An Elder may be equipped with
 weapons and armor chosen from the Ostlander Equipment
@@ -177,8 +177,8 @@ Everyone is everyone else’s uncle, cousin or brother (and sometimes
 their own!). Rather than trying to keep all of these relations straight
 the most respected men in the village (aside from the Elder) are
 referred to simply as Blood-Brothers.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
 Weapons/Armor: Blood-Brothers may be equipped with
 weapons and armor chosen from the Ostlander Equipment
 list.
@@ -198,8 +198,8 @@ the ruined city of Mordheim – for the servants of Taal keep their
 own counsel. Suffice to say that the Forest-God is clearly building a
 strong presence both in and around the darkened ruins as more and
 more animals begin to fill the surrounding forests...
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 3 1 7
 
 Weapons/Armor: A Priest of Taal may be equipped with
@@ -224,8 +224,8 @@ Most of the warriors in an Ostlander Warband are brothers and
 cousins of the Elder. Many are married men with children to
 support and the ruins of Mordheim are a lure that few poor villagers
 can resist.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Kin may be equipped with weapons and
 armor chosen from the Ostlander Equipment list.
@@ -240,8 +240,8 @@ legendary and their ability to sustain an awful lot of punishment
 during a fight make these the perfect shock troops of any Warband.
 Of course, an Ogre’s appetite is nearly as well renowned as their
 fighting abilities and so they are rather expensive to keep.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 2 4 4 3 3 2 7
 Weapons/Armor: Ogre-kin may be equipped with weapons
 and armor chosen from the Ogre-kin Equipment list.
@@ -271,8 +271,8 @@ made bow but it is every Jaeger’s dream to one day own a
 blackpowder weapon and hunting rifle, especially double-barrelled
 versions, as these are a sign of great prestige amongst the hunters of
 the deep woods.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Jaeger may be equipped with weapons
 and armor chosen from the Jaeger Equipment list.
  
@@ -288,8 +288,8 @@ harmless, a belief that many live to regret. Fuelled by vast quantities
 of booze these are very dangerous, unpredictable men indeed who
 will shove a broken bottle into your face as soon as laugh heartily
 and burst into song!
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 2 1 10
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 2 1 10
 Weapons/Armor: Ruffians may be equipped with weapons
 and armor chosen from the Ruffians Equipment list.
 Ruffians never use missile weapons, as their depth perception

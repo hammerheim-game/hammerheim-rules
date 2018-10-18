@@ -214,8 +214,8 @@ right. Mordheim offers such a man the chance to become rich
 beyond his dreams, though at great risk. But as ruthlessness and
 lack of mercy and pity are the hallmarks of a successful Mercenary
 Captain, it is no wonder that they flock to Mordheim.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
 Weapons/Armor: A Mercenary Captain may be equipped
 with weapons and armor chosen from the Mercenary
@@ -237,8 +237,8 @@ Champions (or berserkers, first swordsmen and various other
 names). Champions are amongst the toughest and the best fighters
 in the warband. They often answer challenges issued to the warband
 and, after the Captain, they get the pick of any equipment and loot.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
 Weapons/Armor: Champions may be equipped with
 weapons and armor chosen from the Mercenary Equipment
 list.
@@ -256,8 +256,8 @@ They come in all shapes and sizes depending on which god they follow,
 varying from the belligerent Warrior-Priests of Ulric to the mischevous
 and magpie-like Priests of Ranald, to the devout healers of Shallaya.
 
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Clerics may be equipped with weapons and
 armour chosen from the Mercenary Equipment list.
 Skills: Clerics may take Combat & Academic when they gain a new
@@ -284,8 +284,8 @@ Warriors
 These dogs of war are grim, seasoned fighters, fearing no man as
 long as they have their weapons and armor. They form the core of
 any Mercenary warband.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Warriors may be equipped with weapons
 and armor chosen from the Mercenary Equipment list.
@@ -297,8 +297,8 @@ and it is said that they can hit a coin from 300 paces with a long
 bow. In the savage street fights of Mordheim they snipe at the enemy
 from the windows of ruined buildings and pick out enemy leaders
 with their arrows.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Marksmen may be equipped with
 weapons and armor chosen from the Marksman Equipment
@@ -310,8 +310,8 @@ Swordsmen are professional warriors, experts at taking on and
 beating several opponents at once. They are much sought after by
 warband leaders, as their skills are ideally suited for fighting in
 Mordheim.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
 Weapons/Armor: Swordsmen may be equipped with
 weapons and armor chosen from the Mercenary Equipment
 list.

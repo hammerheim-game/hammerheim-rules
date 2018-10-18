@@ -119,8 +119,8 @@ presence along the shadowy forest tracks of Stirwood has often
 meant the untimely demise of many a passing traveller. Other
 Outlaws will follow him, inspired as much by his ruthlessness as by
 his prowess.
-Profile M WS BS S T W I A Ld
-4 4 4 3 3 1 4 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 3 3 1 4 1 8
 Weapons/Armor: The Bandit Leader may be equipped
 with weapons chosen from the Outlaws equipment list.
 Skills: The Bandit Leader may choose from Combat,
@@ -135,8 +135,8 @@ Leader may use her Leadership instead of their own.
 All groups of Outlaws will often have a few who are more
 experienced than others. Loyal to their Leader they are usually
 rewarded with the choicest pickings of any loot.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 4 3 3 1 3 1 7
 Weapons/Armor: Champions may be equipped with
 weapons chosen from the Outlaws equipment lists.
@@ -155,8 +155,8 @@ an Outlaw's time, but Monks can sometimes find themselves recipient to
 surprising charity from these warbands. These Monks often find themselves
 enamoured with the Outlaws and become a part of the famiy.
 
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Can be chosen from the Outlaws
 equipment list. 
 Skills: A Monk of Ranald may choose from Shooting, Academic, &
@@ -174,8 +174,8 @@ Many youths who are caught by the City Guards in the act of
 thieving are compelled to flee the city and take up a place among
 the trees of Stirwood Forest. Although young, they are still keen
 enough to prove their worth to their fellow outlaws.
-Profile M WS BS S T W I A Ld
-4 2 3 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 3 1 6
 Weapons/Armor: Petty Thieves may be equipped with
 weapons chosen from the Outlaws equipment list.
 Skills: The Petty Thieves may choose from Combat,
@@ -188,8 +188,8 @@ Shooting, & Speed when he gains a new skill.
 These are the best archers in the group and their skill with the bow
 is legendary. They are more than capable of picking off any enemy
 before they get too close.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 4 3 3 1 3 1 7
 Weapons/Armor: Marksmen can be armed with weapons
 and armor chosen from the Outlaws Equipment list.
@@ -199,8 +199,8 @@ Outlaws
 These warriors form the basis of any group of bandits. Ruthless to
 the core, any of these would be more than happy to slip a sharp
 knife between somebody’s ribs for the promise of just a few groats.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Outlaws can be armed with weapons and
 armor chosen from the Outlaws Equipment list.
 

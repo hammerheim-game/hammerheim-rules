@@ -129,8 +129,8 @@ A Dwarf Noble is well respected by the members of his warband.
 Often he is a member of one of the noble families of the lost Dwarf
 strongholds, dreaming of collecting enough treasure to restore the
 former glory of the Dwarf Kingdoms.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 5 4 3 4 1 2 1 9
 Weapons/Armor: A Dwarf Noble may be equipped with
 weapons and armor chosen from the Dwarf Warrior
@@ -147,8 +147,8 @@ Noble may use his Leadership instead of their own.
 Dwarf Engineers are respected members of Dwarf society. It is they
 who design and build the complex war machines and devices which
 have made the Dwarfs famous.
-Profile M WS BS S T W I A Ld
-3 4 3 3 4 1 2 1 9
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |3 4 3 3 4 1 2 1 9
 Weapons/Armor: A Dwarf Engineer may be equipped with
 weapons and armor chosen from Dwarf Thunderer
 equipment list.
@@ -177,8 +177,8 @@ Dwarf kind. Troll Slayers are insanely dangerous individuals,
 psychopathic and violent. There are however few better fighters in
 the Known World, so they are much sought after by Dwarf treasure
 hunters.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 4 3 3 4 1 2 1 9
 
 Weapons/Armor: Troll Slayers may be equipped with
@@ -200,8 +200,8 @@ Dwarf Clansmen
 40 gold crowns to hire
 These are Dwarf warriors in their prime: tough, stubborn and brave
 warriors who can be relied on to hold their own against any foe.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 4 3 3 4 1 2 1 9
 Weapons/Armor: Dwarf Warriors may be equipped with
 weapons and armor chosen from the Dwarf Warrior
@@ -212,8 +212,8 @@ equipment list.
 Dwarf Thunderers are experts at using missile weapons. Many an
 Orc or Goblin has died by the sting of a crossbow bolt or a roaring
 handgun bullet shot by a Dwarf Thunderer.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 4 3 3 4 1 2 1 9
 Weapons/Armor: Thunderers may be armed with weapons
 and armor chosen from the Dwarf Thunderer equipment list.
@@ -222,8 +222,8 @@ Beardlings
 25 gold crowns to hire
 These are young Dwarfs who have joined the retinue of an
 experienced Dwarf treasure hunter hoping to make their fortune.
-Profile M WS BS S T W I A Ld
-3 3 2 3 4 1 2 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |3 3 2 3 4 1 2 1 8
 Weapons/Armor: Beardlings may be armed with weapons
 and armor chosen from the Dwarf Warrior equipment list.
 

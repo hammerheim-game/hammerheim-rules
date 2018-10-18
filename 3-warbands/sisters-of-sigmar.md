@@ -120,8 +120,8 @@ must lead a warband of Sisters in frequent searches of the city in
 order to purge the ruins. Matriarchs are driven by a zealous
 devotion to the Cult of Sigmar and a relentless determination to
 redeem the Sisterhood in His eyes.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
 Weapons/Armor: The Sigmarite Matriarch may be
 equipped with weapons and armor chosen from the Sisters
@@ -148,8 +148,8 @@ more, second sight – a gift from their patron god. Only a very few
 are marked this way, and they are greatly revered by the Sisterhood.
 Unlike the rest of the priestesses, they shave their heads, save for a
 single long braid.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 3 3 1 3 1 7
 Weapons/Armor: The Augurs may be equipped with
 weapons chosen from the Sisters of Sigmar Equipment list.
@@ -176,8 +176,8 @@ the younger Sisters and Novices. The Sisters Superior are entrusted
 with maintaining the faith and fervour of the order. Any peril or foe
 that may lurk in the ruins of Mordheim is as nothing compared to
 the wrath of a Sister Superior.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
 Weapons/Armor: A Sister Superior may be equipped with
 weapons and armor chosen from the Sisters of Sigmar
 Equipment list.
@@ -194,8 +194,8 @@ Sigmarite Sisters know that their entire order is shamed in the eyes
 of their Lord Sigmar. Every one of them is sworn upon His altar to
 pacify the city and thereby redeem themselves. Whatever the perils
 and horrors that stand in their way, they will be overcome!
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: The Sigmarite Sisters may be equipped
 with weapons and armor chosen from the Sisters of Sigmar
@@ -211,8 +211,8 @@ sense of honour. Few though the recruits may be, they must endure
 several years as Novices during which time their devotion will be
 tested to the full. All are eager to prove themselves worthy to be the
 handmaidens of Sigmar.
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
 Weapons/Armor: The Novices may be equipped with
 weapons and armor chosen from the Sisters of Sigmar
 Equipment list.

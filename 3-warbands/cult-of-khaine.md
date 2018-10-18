@@ -82,8 +82,8 @@ Light armor ................................................................ 20 
 
 1 Witch Hag
 85 Gold Crowns to hire
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 3 3 3 1 7 1 9
 Weapons/Armor: Witch Hag may be armed with weapons
 chosen from the Witch Elves Equipment list, note that Witch
@@ -103,8 +103,8 @@ esteem. Here, they devote themselves to Khaine in his aspect of
 executioner. Chosen for their calm yet vicious demeanours, the
 deadly Executioners are sent to foray into Mordheim in the name of
 Khaine.
-Profile M WS BS S T W I A Ld
-5 5 4 3 3 1 5 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 4 3 3 1 5 1 8
 Weapons/Armor: An Executioner may be equipped with
 weapons and armor chosen from the Witch Elves equipment
 list.
@@ -120,8 +120,8 @@ faced god of murder. The Assassins chosen to venture into the
 cursed city of Mordheim are those that the leaders of the Cult felt
 could use a bit more real-world experience before serving the Witch
 King in his glorious armies.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 4 3 3 1 6 2 9
 Weapons/Armor: An Assassin may be equipped with
 weapons and armor chosen from the Shards equipment list.
@@ -147,8 +147,8 @@ Lord of Murder, in midnight rites of blood sacrifice and magic. They
 imbibe a concoction of blood and drugs which fills them with
 supernatural bloodlust and rage. The Witch Elves scour Mordheim
 looking for sacrifices for the glory of Khaine.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 3 3 3 1 6 1 8
 Weapons/Armor: Witch Elves may be armed with
 weapons chosen from the Witch Elves Equipment list, note
@@ -163,8 +163,8 @@ harass and snipe at the enemy, rather than engaging them head on
 as ambush is the preferred style of fighting. Shades are young and
 inexperienced scouts that see the expeditions to Lustria as a
 valuable training opportunity.
-Profile M WS BS S T W I A Ld
-5 3 3 3 3 1 5 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 5 1 8
 Weapons/Armor: Shades may be armed with weapons and
 armor chosen from the Shades Equipment list.
 Special Rules

@@ -74,8 +74,8 @@ Suddenly, one of the buildings (chosen at random) bursts into flames, ignited by
 
 One of the trees growing in the area has been changed into a carnivorous predator by exposure to the Chaos magic inundating the area. Randomly determine which member of the Encountering Player’s warband finds the plant. That model is attacked as a large mouth opens up in the trunk of the tree and its branches whip down to grab its unfortunate victim. Place a tree next to the victim. He is now considered to be in close combat with the tree, which has the following characteristics: 
 
-Profile M WS BS S T W I A Ld
-Tree 0 3 0 4 6 3 3 2 10
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Tree 0 3 0 4 6 3 3 2 10
 
 The tree automatically passes any Leadership tests it is required to make. Any result on the Injury table will cause the Man-Eater to stop attacking, though it is not possible to actually take it out of action or knock it down. Opponents are +1 to hit the tree, due to the fact that it is rooted to the spot! 
 
@@ -255,8 +255,8 @@ The spell "Comet of Cassandora" from the Lore of Heavens is cast at a scattered 
 
 The presence of the wyrdstone has mutated this common household pest into a monster of titanic proportions! This Gigantic Spider has the following characteristics:
 
-Profile M WS BS S T W I A Ld
-Spider 5 3 0 5 5 6 1 4 10
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Spider 5 3 0 5 5 6 1 4 10
 
 __Fearsome Beast:__ The Gigantic Spider causes fear.
 

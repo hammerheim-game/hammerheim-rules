@@ -154,8 +154,8 @@ Forest Cloak ................................................................ 50
 
 1 Captain
 80 gold crowns to hire
-Profile M WS BS S T W I A Ld
-4 4 4 3 3 1 4 2 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 3 3 1 4 2 7
 Weapons/Armour: A Captain may be equipped with weapons and armour chosen from the Marine Equipment list.
 Skills: The Captain may choose from Combat, Shooting, Strength, & Speed when they gain a new skill. 
 Special Rules
@@ -165,8 +165,8 @@ Special Skills: Resilient (see Strength Skills section)
 
 0-2 Champions
 50 gold crowns to hire
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 2 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 2 6
 Weapons/Armour: Champions may be equipped with weapons and armour chosen from the Marine Equipment list.
 Skills: Champions may choose from Combat, Strength, Shooting, & Speed when they gain a new skill.
 Special Skills: Resilient (see Strength Skills section)
@@ -174,7 +174,7 @@ Special Skills: Resilient (see Strength Skills section)
 
 0-1 Cleric
 45 gold crowns to hire 
-Profile M WS BS S T W I A Ld 
+| Profile | M | WS | BS | S | T | W | I | A | Ld | 
 4 3 3 3 3 1 3 1 6
 Weapons/Armor: Clerics may be equipped with weapons and armour chosen from the Marine Equipment list. 
 Skills: Clerics may take Combat, Strength, & Academic when they gain a new skill. 
@@ -196,15 +196,15 @@ Weapons/Armour: Elven Scouts may be equipped with weapons and armour chosen from
 
 Marines
 35 gold crowns to hire
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 6
 Weapons/Armour: Marines may be equipped with weapons and armour chosen from the Marines Equipment List.
 Special Skills: Resilient (see Strength Skills section)
 
 0-1 Ogre
 150 Gold Crowns to hire
-Profile M WS BS S T W I A Ld
-6 3 2 4 4 3 3 2 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 2 4 4 3 3 2 6
 Weapons/Armour: Ogres may be equipped with weapons and armour chosen from the Marines Equipment List.
 Special Rules
 Fear: Ogres are large, threatening creatures that cause Fear.

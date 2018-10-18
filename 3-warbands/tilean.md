@@ -162,8 +162,8 @@ A Tilean Captain is a tough professional soldier and has more often
 than not fought for years in the regular inter city-state conflicts of
 his homeland. These men are used to the carnage and suffering of
 the battlefield and seek to claim riches in the new world.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 2 8
 Weapons/Armor: The Captain can be armed with weapons
 and armor chosen from the Tilean Equipment list.
@@ -179,8 +179,8 @@ may use his Leadership instead of their own.
 Champions are often the trusted sergeants of the warband captain
 and are entrusted with ensuring the iron-hard discipline necessary
 to keep a warband together in a foreign land.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 4 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 4 1 7
 Weapons/Armor: Champions can be armed with weapons
 chosen from the Tilean Equipment list.
 Skills: The Miraglean & Trantios Champions may choose
@@ -192,8 +192,8 @@ gains a new skill.
 15 Gold Crowns to hire
 These are young fighters who are still inexperienced but eager for
 the untold riches that Lustria has to offer.
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
 Weapons/Armor: Youngbloods may be equipped with
 weapons and armor from the Tilean Equipment list.
 Skills: The Miraglean & Trantios Youngbloods may choose
@@ -209,8 +209,8 @@ Warriors
 25 Gold Crowns to hire
 These are the grim, veteran soldiers that usually make up the
 mercenary armies of the warring Dukes of the Tilean City States.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Warriors can be armed with weapons
 and armor chosen from the Tilean Equipment list.
@@ -221,8 +221,8 @@ Tileans are renowned as experts with the crossbow and these
 soldiers are the missile backbone of the warband. In a savage and
 merciless world it pays well to be able to despatch your foe from a
 distance.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 4 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 4 1 7
 Weapons/Armor: Marksmen can be armed with weapons
 and armor chosen from the Marksmen Equipment list.
 
@@ -233,8 +233,8 @@ down to even the poorest families. The notorious cloak and dagger
 duellists of the darkened alleys of Tilea find their way to the
 remotest parts of the world selling their unique killing abilities to
 the mercenary companies.
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 4 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 4 1 7
 Weapons/Armor: Duellists can be armed with weapons
 and armor chosen from the Tilean Equipment list.
 Special Rules

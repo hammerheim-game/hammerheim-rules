@@ -104,8 +104,8 @@ Lords, the immortal servants of Vlad are still some of the most
 powerful creatures who fight in Mordheim. Most of them serve the
 undying count of Sylvania, but some have found the city to their
 liking, and have become independent.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 4 4 4 2 5 2 8
 Weapons/Armor: Vampires may be armed with weapons
 and armor chosen from the Undead Equipment list.
@@ -132,8 +132,8 @@ Carstein, and follow the agents of their master to the city of the
 Damned. Others are recruited from amongst wizards and warlocks
 who have come under the suspicion of the various agents of Sigmar
 and have fled to Mordheim to avoid persecution.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Necromancers may be armed with
 weapons and armor chosen from the Undead Equipment list.
 Skills: The Necromancer may choose from Academic, &
@@ -162,8 +162,8 @@ Mordheim which would often not welcome Necromancers or where
 Vampires would fall under the suspicion of the Witch Hunters. They
 can also do the bidding of their vampiric master during daylight,
 when the Vampires must rest in their coffins.
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 7
 Weapons/Armor: Dregs may be armed with weapons and
 armor chosen from the Undead Equipment list.
 Skills: The Dreg may choose from Combat & Strength when
@@ -177,8 +177,8 @@ Zombies
 15 gold crowns to hire
 Zombies are the most common of the Undead: creatures animated
 by the will of their Necromantic masters.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 0 3 3 1 1 1 5
 Weapons/Armor: Zombies may not have any weapons or
 armor and suffer no penalties for this.
@@ -203,8 +203,8 @@ his knowledge of science and magic to bring this creature to a state
 of semi-life. This is a long and drawn out process, which involves a
 fair amount of maintenance, so the Necromancer may only maintain
 one Undead Troll at a time.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 0 5 3 3 1 2 5
 Weapons/Armor: Undead Troll does not require weapons
 to fight but often carry a big club.
@@ -244,8 +244,8 @@ and claws.
 The destruction of Mordheim attracted many Ghoul clans from the
 north, and now they have taken up permanent residence in the
 crypts and cemeteries of the ruined city.
-Profile M WS BS S T W I A Ld
-4 2 2 3 4 1 3 2 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 4 1 3 2 5
 Weapons/Armor: Ghouls never carry any equipment, apart
 from a few bones which they use as primitive weapons.
 Special Rules
@@ -260,8 +260,8 @@ can strike fear into the hearts of even the bravest warriors or most
 ruthless Dwarf mercenaries. They prowl the streets of Mordheim
 like shadows, and many men have died with the cold jaws of a Dire
 Wolf around their neck.
-Profile M WS BS S T W I A Ld
-9 3 0 4 3 1 2 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 4 3 1 2 1 4
 Weapons/Armor: None.
 Special Rules
 Charge: Dire Wolves are slavering creatures that overpower

@@ -50,8 +50,8 @@ Forest cloak ............................................................... 50 
 #### Heroes
 1 Expedition Chief
 60 gold crowns to hire
-Profile M WS BS S T W I A Ld
-4 4 4 3 3 1 3 1 8
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 4 3 3 1 3 1 8
 Weapons/Armour: An Expedition Chief may be equipped with weapons and armour chosen from the Hochland Equipment List.
 Skills: May choose from Combat, Shooting, Speed & Academic when they gain a new skill.
 Special Rules:
@@ -60,8 +60,8 @@ She's A Beaut'
 
 0-3 Researchers
 35 gold crowns to hire
-Profile M WS BS S T W I A Ld
-4 3 4 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 4 3 3 1 3 1 7
 Weapons/Armour: Researchers may be equipped with weapons and armour chosen from the Hochland Equipment List.
 Skills: May choose from Combat, Shooting, Speed & Academic when they gain a new skill.
 Special Rules:
@@ -70,8 +70,8 @@ She's A Beaut'
 
 0-1 Student Wizard
 45 gold crowns to hire
-Profile M WS BS S T W I A Ld
-4 2 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 3 1 7
 Weapons/Armour: A Student Wizard may be equipped with weapons and armour chosen from the Hochland Equipment List.
 Skills: May choose from Shooting & Academic when they gain a new skill.
 Magic User: Student Wizards are magic users who use spells from Lesser Magic. 
@@ -80,13 +80,13 @@ Magic User: Student Wizards are magic users who use spells from Lesser Magic.
 
 Mountaineers
 25 gold crowns to hire
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armour: Mountaineers may be equipped with weapons and armour chosen from the Hochland Equipment List.
 
 Youngbloods
 15 gold crowns to hire
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
 Weapons/Armour: Youngbloods may be equipped with weapons and armour chosen from the Hochland Equipment List.
 

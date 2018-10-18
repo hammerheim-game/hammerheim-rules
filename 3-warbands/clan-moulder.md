@@ -114,8 +114,8 @@ Light Armor .............................................................. 20 GC
 
 1 Master Moulder
 60 gold crowns to hire
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 4 4 3 1 5 1 7
 Weapons/Armor: The Master Moulder may be equipped
 with weapons and armor chosen from the Hero’s equipment
@@ -136,8 +136,8 @@ knocked down, stunned, or out of action.
 The Sorcerers of Clan Moulder use their magic to shape and warp
 the beasts and men of the clan’s design, creating the mutants, ogres,
 and beasts seen on the battlefield.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 3 4 3 1 5 1 6
 Weapons/Armor: The Harbinger of Mutation may be
 equipped with weapons and armor chosen from the Hero’s
@@ -156,8 +156,8 @@ learn a new Spell instead on a new skill.
 
 0-2 Pack Master
 40 gold crowns to hire
-Profile M WS BS S T W I A Ld
-6 4 3 4 3 1 5 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 4 3 4 3 1 5 1 6
 Weapons/Armor: A Pack Master may be equipped with
 weapons and armor chosen from the Hero’s equipment list.
 Skills: The Pack Master may choose from Combat, Shooting,
@@ -170,8 +170,8 @@ Skill list.
 Insane breeders, thankfully rare, turn their attention to their
 brethren, creating genetic deviants of the normal Skaven. These
 beings are fearsome in combat, and hideous to look upon.
-Profile M WS BS S T W I A Ld
-5 3 3 3 3 1 4 1 5
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 4 1 5
 Weapons/Armor: A Mutant Skaven may be equipped with
 weapons and armor chosen from the Henchmen equipment
 list.
@@ -193,8 +193,8 @@ Pack Servants are the Clanrats of Clan Moulder. The strongest
 among them are initiated into the secrets of magical breeding and
 begin their training to become Pack Masters. All the Clanrats aspire
 to those lofty positions of power within the clan.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 4 1 5
 Weapons/Armor: The Pack Servants may be equipped
 with weapons and armor chosen from the Henchmen
@@ -215,8 +215,8 @@ growth or insect like tails. Those that truly lupines are kept in
 spiked cages and fed on their own dead, so that when they are
 finally unleashed into the outside world they attack anything
 in their path in a blood rage.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 9 3 0 3 3 1 3 1 5
 Weapons/Armor: None. The Wolf Rat attacks with claws
 and fangs. The Wolf Rats never use any armor or weapons.
@@ -230,8 +230,8 @@ Giant rats
 Giant Rats are the creation of the Clan Moulder trainees. They are
 mutated monstrosities the size of dogs. They fight alongside the
 Skaven, overpowering their opponents by sheer weight of numbers.
-Profile M WS BS S T W I A Ld
-6 2 0 3 3 1 4 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 2 0 3 3 1 4 1 4
 Weapons/Armor: None. Giant Rats never use any armor
 or weapons.
 Pack Size: You mar recruit as many Giant Rats as you wish.
@@ -248,8 +248,8 @@ It is in every Moulder’s nature to improve upon something that is
 already success and occasionally they even succeed. The Cream of
 the Rat Ogre Creations in Moulder’s Possession sport extra limbs
 and heads, some even have had troll blood transfusion.
-Profile M WS BS S T W I A Ld
-6 3 3 5 5 3 4 3 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 3 5 5 3 4 3 4
 Weapons/Armor: Jaws, claws, and brute force! Clan
 Moulder Rat Ogres can never wear armor or use weapons.
 Special Rules

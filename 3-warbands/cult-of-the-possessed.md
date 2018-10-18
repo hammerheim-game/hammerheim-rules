@@ -125,8 +125,8 @@ Helmet .........................................................................
 Magisters lead the covens of the Possessed. They have been granted
 magical powers by their patron gods. They are fanatical followers
 of the Dark gods, utterly dedicated to bringing Chaos to the world.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 3 1 8
 Weapons/Armor: The Magister may be equipped with
 weapons and armor chosen from the Possessed Equipment
@@ -154,8 +154,8 @@ together, be they men or animals, into a multi-faceted horror. These
 monstrous Possessed are perhaps the most dangerous of the
 creatures of Mordheim, and certainly the most loathsome and
 dreadful.
-Profile M WS BS S T W I A Ld
-5 4 0 4 4 2 4 2 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 4 4 2 4 2 7
 Weapons/Armor: None. The Possessed never use weapons
 or armor.
 Skills: The Possessed may choose from Combat, Strength, &
@@ -171,8 +171,8 @@ mutations each. See the Mutations list for costs.
 Mutants are revered as the favoured ones of the Dark gods, their
 physical disfigurements marking out the vileness of their soul. They
 come in many shapes and sizes, each more bizarre than the next.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Mutants may be equipped with weapons
 and armor chosen from the Possessed Equipment list.
 Skills: The Mutant may choose from Combat & Speed when
@@ -197,8 +197,8 @@ unreasoning rage in battle. In their tortured minds the Darksouls
 believe themselves to be Daemons. They wear leering daemonic
 masks and garb themselves in armor and clothing resembling the
 scaled skin of Daemons.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 4 3 1 3 1 6
 Weapons/Armor: Darksouls may be equipped with
 weapons and armor chosen from the Darksouls Equipment
@@ -213,8 +213,8 @@ Brethren
 Brethren are the crazed human followers of the cults of the dark
 gods, eager to descend into damnation. Their vile deeds and
 unspeakable acts have driven them to the brink of insanity.
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: The Brethren may be equipped with
 weapons and armor chosen from the Possessed Equipment
 list.
@@ -225,8 +225,8 @@ Empire: massive horned creatures with an inhuman resistance to
 pain. The destruction of Mordheim brought many Beastmen into the
 ruined city to prey upon the survivors. They readily ally with the
 Magisters of the Possessed warbands.
-Profile M WS BS S T W I A Ld
-4 4 3 3 4 2 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 4 2 3 1 7
 Weapons/Armor: Beastmen may be equipped with
 weapons and armor chosen from the Darksouls Equipment
 list.

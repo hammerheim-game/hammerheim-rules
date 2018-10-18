@@ -121,8 +121,8 @@ Light Armor .............................................................. 20 GC
 50 gold crowns to hire
 The Ilkhan is the meanest and fiercest warrior of the warband. He
 rules with an iron fist and none will (openly) dispute his power.
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
 Weapons/Armor: The Ilkhan may be equipped with
 weapons and armor chosen from the Hobgoblin equipment
@@ -138,8 +138,8 @@ Leadership characteristic when taking Leadership tests.
 35 gold crowns to hire
 Often Hobgoblin raiding forces include one of their Shamans, gifted
 with the ability to wield magic these are fearsome opponents
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 2 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 2 1 7
 Weapons/Armor: A Shaman may be equipped with
 weapons and armor chosen from the Hobgoblin equipment
 list.
@@ -157,8 +157,8 @@ skill.
 40 gold crowns to hire
 The Biggest and Baddest of the Gitz, ‘Ard Gits run with the Ilkhan
 and are entitled to the best loot (after the Ilkhan of course).
-Profile M WS BS S T W I A Ld
-4 4 3 3 3 1 3 1 6
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 6
 Weapons/Armor: An ‘Ard Gits may be equipped with
 weapons and armor chosen from the Hobgoblin equipment
 list.
@@ -172,8 +172,8 @@ Strength & Speed when he gains a new skill. In addition, the
 (Bought in groups of 1-5)
 Gits
 20 gold crowns to hire
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 2 1 6
 Weapons/Armor: A Hobgoblin Git may be equipped with
 weapons and armor chosen from the Hobgoblin equipment
@@ -181,8 +181,8 @@ list.
 
 0-5 Shooty Gits
 35 gold crowns to hire
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 4 3 3 1 2 1 6
 Weapons/Armor: A Hobgoblin Shooty Gits may be
 equipped with weapons and armor chosen from the
@@ -193,8 +193,8 @@ Ded shooty, see the Hobgoblin Special Skill list for details.
 
 Giant Wolves
 20 gold crowns to hire
-Profile M WS BS S T W I A Ld
-9 3 0 3 3 1 4 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 3 3 1 4 1 4
 Weapons/Armor: Giant Wolves do not use any kind of
 weapons or armor
 Special Rules

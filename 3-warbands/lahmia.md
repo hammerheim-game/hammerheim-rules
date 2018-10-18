@@ -99,8 +99,8 @@ Beautiful yet deadly, these seductive mistresses of undeath stalk the
 halls of their long-lost homes, searching for who knows what?
 Perhaps some far-off recollection of their long-vanished years
 walking in the sunlight and the joy of life...
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 4 4 4 2 5 2 8
 Weapons/Armor: Lahmia Vampire may be armed with
 weapons and armor chosen from the Lahmia Equipment list.
@@ -128,8 +128,8 @@ the exploration phase.
 35 gold crowns to hire
 These peddlers of undeath are not greatly liked by the hedonistic
 Lahmians - they are ugly and morbid - but they have their uses...
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
 Weapons/Armor: Necromancers may be armed with
 weapons and armor chosen from the Lahmia Equipment list.
@@ -148,8 +148,8 @@ instead on a new skill.
 Lahmian vampires are nobility, and all nobility require servants.
 Fanatically loyal, these humans are blindly in love with their dark
 mistress...
-Profile M WS BS S T W I A Ld
-4 2 2 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 7
 Weapons/Armor: Dregs may be armed with weapons and
 armor chosen from the Lahmia Equipment list.
 Skills: The Dreg may choose from Combat, Strength &
@@ -183,8 +183,8 @@ selected by Lahmians to receive the gift of eternal youth and trained
 in the ways of the Lahmia, ready to take their mistress' place if she
 should be destroyed. These girls stand on the boundary of life and
 death. Not fully undead, but no longer wholly human...
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 4 4 1 2 1 7
 Weapons/Armor: Blood Sisters may be armed with
 weapons and armor chosen from the Lahmia Equipment list.
@@ -239,8 +239,8 @@ Skeletons
 Unsubtle, uncomplicated, unattractive. But sometimes useful, and
 prettier than zombies. Those Carsteins and Blood Dragons, no
 aesthetic sense at all...
-Profile M WS BS S T W I A Ld
-
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 3 3 1 2 1 5
 Weapons/Armor: Skeletons may be armed with weapons
 and armor chosen from the Lahmia Equipment list.
@@ -266,8 +266,8 @@ can strike fear into the hearts of even the bravest warriors or most
 ruthless Dwarf mercenaries. They prowl the streets of Mordheim
 like shadows, and many men have died with the cold jaws of a Dire
 Wolf around their neck.
-Profile M WS BS S T W I A Ld
-9 3 0 4 3 1 2 1 4
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 4 3 1 2 1 4
 Weapons/Armor: None.
 Special Rules
 Charge: Dire Wolves are slavering creatures that overpower
@@ -291,8 +291,8 @@ chart as ‘knocked down’.
 25 gold crowns to hire
 Many mortals have fallen under the spell of the Lahmia. All have
 their uses. Some are tasty...
-Profile M WS BS S T W I A Ld
-4 3 3 3 3 1 3 1 7
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armor: Skeletons may be armed with weapons
 and armor chosen from the Lahmia Equipment list.
 
