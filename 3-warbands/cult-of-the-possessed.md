@@ -58,7 +58,10 @@ bodies are so scarred and disfigured. The stigmata of
 mutation is borne by most, but the most unsettling of all are
 the Possessed themselves – melded flesh made of men,
 beasts, and metal driven by the implacable will of a Daemon.
+
 ##### Special Rules
+
+A Haven of Mutation: Whenever anybody in a Cult of The Possessed warband gains a skill up they may choose instead to gain a random mutation.
 
 Alignment: the Warband’s Alignment is always Chaotic.
 ##### Choice of warriors
