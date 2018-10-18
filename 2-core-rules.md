@@ -344,7 +344,6 @@ To determine whether a shot hits its target, roll a D6. The dice score needed wi
 | : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | : - : | 
 | D6 roll needed | 6 | 5 | 4 | 3 | 2 | 1 | 0 | -1 | -2 | - |
 
-\page
 #### Hit modifiers
 
 It is easier to hit a target that is in the open compared to a target behind cover. Usually it is also easier to hit a target if it is close compared to one further away. These situations are represented by the following modifiers:
@@ -358,10 +357,12 @@ It is easier to hit a target that is in the open compared to a target behind cov
 | Large Target | If the target is Large or greater (see below), or is a combat involving multiple enemies. | +1 |
 | Multiple Shots | If the model firing is shooting more than once (for example, with Quick Shot). | -1 |
 
+\page
+
 #### Unit Size
 
-| :-: | :-: |
 | Unit type | Size |
+| :-: | :-: |
 | Infantry/war beasts/swarms | Small |
 | Cavalry | Medium |
 | Monstrous infantry | Large |
@@ -387,8 +388,6 @@ In addition, if the attacker normally needs 6s to wound his target, they cannot 
 Depending on what weapon your warrior is using, you may roll on one of the following Critical Hit charts. For example, if your warrior is using a sword, roll on the Bladed Weapons chart. All the rules governing critical hits given in the main rules also apply to these tables.
 
 Only attacks that rolled to hit are capable of causing critical hits. Most spells, impact hits, stomps, etcetera therefore cannot crit.
-
-<br/>
 
 ##### Missile weapons
 
@@ -470,12 +469,12 @@ The higher a weapon's Strength, the more easily it can pierce armour. The chart 
 | Strength | Save modifier |
 | :-: | :-: |
 | 1- 3 | None |
-| 4 | - |
-| 5 | - |
-| 6 | - |
-| 7 | - |
-| 8 | - |
-| 9+ | - |
+| 4 | -1 |
+| 5 | -2 |
+| 6 | -3 |
+| 7 | -4 |
+| 8 | -5 |
+| 9+ | -6 |
 
 Some weapons are better at penetrating armour than their Strength value suggests (Elven bows, for example). This is covered in the entry for each particular weapon (see the Weapons & Armour section). 
 
@@ -547,6 +546,8 @@ Note that melee attacks may never hit on worse than a 5+.
 
 Some maniac warriors carry two weapons, one in each hand, so they can rain a flurry of blows on their enemies. A warrior armed with two one-handed weapons must make 1 extra Attack with the additional weapon though will suffer -1 WS to all attacks compensate for the difficulty in making precision blows while flailing wildly. If they are armed with two different weapons (sword and dagger, for example) they may choose which weapon is using this bonus attack. Roll to hit and wound for each weapon separately. 
 
+\page
+
 #### Multiple loadouts
 
 Some warriors arrive to battle prepared for every situation, weighing themselves down with a halberd, a shield, a backup axe, a backup-backup axe, and a brace of pistols etc. While this allows them versatility when picking fights it is impossible in practice to switch weapons in and out in the middle of combat, fiddling with shieldstraps while fighting for your life simply isn't practical! Once in combat a Warrior may not change what weapons they use, if they begin a combat using an axe and shield they will continue to fight with it until the combat ends. For Warriors using multiple loadouts it is worth using some sort of token so that players know what weapons they are using.
@@ -558,8 +559,6 @@ Unlike hits from shooting, the Strength of the attacker is used to determine wou
 #### Roll to wound
 
 Once your model has hit a target you must test to see whether a wound is inflicted. Sometimes a strike may fail to wound simply because it causes an insignificant injury or glances off the enemy's equipment. 
-
-\page
 
 To determine whether the blow has caused a wound compare the Strength of the weapon with the Toughness of the target. You will find a complete description of the various weapons together with their Strength values and special rules in the Weapons & Armor section. 
 
@@ -615,6 +614,8 @@ A model with multiple attacks may not stun/knock down and then automatically tak
 
 If your model is engaged in close combat with an enemy who is still standing, they cannot attack any other models that are _stunned_ or _knocked down_, since in reality they will not pose an immediate threat to them and their companions will try to protect them. 
 
+\page
+
 #### Moving from combat
 
 Once models are engaged in hand-to-hand combat they cannot move away during their movement phase. They must fight until they are either taken out of action, until they take out their enemies, or until one or the other breaks and runs. The exception to this rule is that if all a model's close combat opponents are _incapacitated_, you may move away from the combat if you wish, and even charge other enemies within range. 
@@ -627,7 +628,6 @@ When a fighter breaks from combat they simply turn and runs off. Their opponents
 
 _Note:_ Warriors cannot choose to leave a fight voluntarily.
 
-\page
 
 ### Leadership & psychology
 
@@ -723,10 +723,15 @@ In some Campaigns and Scenarios warbands may ally themselves with other warbands
 
 ##### Allying with other Warbands
 
-There are two types of alliance in Mordheim: Formal and informal. A formal alliance is a pre-arranged agreement between warbands with little to no quarrel with eachother, a meeting of minds to come together in the face of an otherwise insurmountable foe. Formal alliances are clunky, expensive, and unwieldy, but it is the price some warbands pay for security. In a formal alliance warbands are fully allied to eachother and considered the same; they will not count as the closest enemies for the purposes of shooting, will not count as enemies for the purposes of frenzied models, will not prevent eachother from running, and for the purposes of rout tests both warbands are combined. Formal alliances must be negotiated after deployment but before the roll for first turn has been made.
+There are two types of alliance in Mordheim: Formal and informal. 
+
+#### Formal Alliance
+A formal alliance is a pre-arranged agreement between warbands with little to no quarrel with eachother, a meeting of minds to come together in the face of an otherwise insurmountable foe. Formal alliances are clunky, expensive, and unwieldy, but it is the price some warbands pay for security. In a formal alliance warbands are fully allied to eachother and considered the same; they will not count as the closest enemies for the purposes of shooting, will not count as enemies for the purposes of frenzied models, will not prevent eachother from running, and for the purposes of rout tests both warbands are combined. Formal alliances must be negotiated after deployment but before the roll for first turn has been made.
 
 Once the battle has begun Formal Alliances may not be broken. Warbands require such extensive briefing to believe that these dangerous strangers are their friends that coordinating elaborate betrayals during battle is impossible. If a scenario is won on the grounds of there being one last remaining warband then allied warbands will share the victory. Warbands that share victories in this way may each roll no more than three exploration dice, as there is far more competition for resources when scouring the city post-battle. Loot however may be divided up, though this would have to have been agreed before the battle.
 
 Formal allegiances may only be negotiated between warbands with one degree of seperation in alignment (So Neutral warbands may only ally with Neutral, Lawful/Neutral, or Chaotic/Neutral for example) and may not take take place if either your warband has the 'Distrust' rule (for example, Dwarfs distrusting Elves) or your warband leader has a Hatred of the other warband's leader. 
 
+\page
+#### Informal Alliance
 Informal alliances are moments where warbands warily take a step back from one another, perhaps each sizing the other up as being a little too strong to be worth fighting - or taking a momentary reprieve to recover and prepare for their next attack. These alliances are the second-to-second judgements made by Warband leaders, and often communicated with little more than body language. These allegiances are momentary at best, and often nothing more than an attempt by one warband to get the other to expose its back. There are no restrictions on these informal alliances but also are nothing more than agreements between Leaders to temporarily focus their attentions elsewhere. For all intents and purposes the two warbands are still hostile to one another - they are still the closest enemies for shooting, will still count as hostile for the purposes of _frenzy_, and will still prevent one another from running. They also may not share a victory in a scenario where the victor is determined by routing.

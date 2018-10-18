@@ -29,7 +29,8 @@ _(Swords, axes, double-handed swords etc.)_
 | 1-2 | Flesh Wound | This attack hits an unprotected area, so there is no armor save. |
 | 3-4 | Bladestorm | The warrior unleashes a virtual hail of blows. The attack causes 2 wounds instead of 1. Take armor saves separately for each wound. |
 | 5-6 | Sliced! | The strike ignores armor saves, causes 2 wounds, and your warrior gains +2 to any Injury rolls. |
-
+```
+```
 #### Unarmed combat
 _(War dogs, warhorses, Zombies, Possessed, animals etc.)_
 
@@ -62,7 +63,19 @@ _(Spears, halberds, lances etc.)_
  \page
 
 
-## Income.
+## Income
+
+#### Gaining wyrdstone
+
+| Total rolled | Shards recieved |
+| :-: | :-: |
+|1-5 | 1 shard |
+|6-11 | 2 shards |
+|12-17 | 3 shards |
+|18-23 | 4 shards |
+|24-29 | 5 shards |
+|30-35 | 6 shards |
+|36+ | 7 shards |
 #### Selling wyrdstone
 
 | x/y | 1-3 | 4-6 | 7-9 | 10-12 | 13-15 | 16+ |
@@ -76,19 +89,9 @@ _(Spears, halberds, lances etc.)_
 | 7 | 145 | 130 | 120 | 110 | 100 | 90 |
 | 8+ | 155 | 140 | 130 | 120 | 110 | 100 |
 
-1-5 = 1 shard
+_x = Number of people in warband_
 
-6-11 = 2 shards
-
-12-17 = 3 shards
-
-18-23 = 4 shards
-
-24-29 = 5 shards
-
-30-35 = 6 shards
-
-36+ = 7 shards
+_y = Number of shards sold_
 
 ## Advances
 ##### Heroes
@@ -114,27 +117,28 @@ _(Spears, halberds, lances etc.)_
 | 10+ | Lad's Got Talent! |
 
 
-
+```
+```
 ## Heroes' Serious Injuries
 | Roll | Result |
-| :-: | :-: |
-| 11-15 | Dead. |
-| 16-21 | Multiple Injuries: D6 multiple injuries. Re-roll 11-21, 61.
-| 22 | Leg wounds: -1 Movement
-| 23 | Arm wound: Roll again. 1 = Amputation. 2-6 = Miss next game.
-| 24 | Madness. Roll again. 1-3 = Stupidity. 4-6 = Paranoid.
-| 25 | Smashed leg. Roll again. 1 = No more running. 2-6 = Miss next game.
-| 26 | Chest wound. -1 Toughness.
-| 31 | Blinded in one eye. -1 BS. If this happens again, remove from roster.
-| 32 | Old battle wound. Roll before each game, on 1 they miss game.
-| 33 | Nervous condition. -1 Initiative.
-| 34 | Hand injury: -1 WS
-| 35 | Deep wound: -D3 games
-| 36 | Robbed. Lose all equipment.
-| 41-55 | Full recovery
-| 56 | Bitter emnity. Hates 1-3 = Model that put them OOA. 4 = Model's leader. 5 = Model's whole warband. 6 = Everyone of Model's race.
-| 61 | Captured!
-| 62 - 63 | Hardened. Immune to fear.
-| 64 | Horrible scars. Causes fear.
-| 65 | Sold to The Pits. Fight Pit King w/ 2 Morningstars. If you win +50gc +2xp. If lost lose all equipment and roll again on first half of this table.
-| 66 | Survives against the odds. +1xp.
+| : - : | : -: |
+| 11...15 | Dead. |
+| 16,21 | Multiple Injuries: D3 injuries from first half of table. Re-roll _Dead_ results. |
+| 22 | Leg wounds: -1 Movement |
+| 23 | Arm wound: Roll again. 1 = Amputation. 2-6 = Miss next game. |
+| 24 | Madness. Roll again. 1-3 = Stupidity. 4-6 = Paranoid. |
+| 25 | Smashed leg. Roll again. 1 = No more running. 2-6 = Miss next game. |
+| 26 | Chest wound. -1 Toughness. |
+| 31 | Blinded in one eye. -1 BS. If this happens again, remove from roster. |
+| 32 | Old battle wound. Roll before each game, on 1 they miss game. |
+| 33 | Nervous condition. -1 Initiative. |
+| 34 | Hand injury: -1 WS. |
+| 35 | Deep wound: -D3 games. |
+| 36 | Robbed. Lose all equipment. |
+| 41..55 | Full recovery |
+| 56 | Bitter emnity. Hates 1-3 = Model that put them OOA. 4 = Model's leader. 5 = Model's whole warband. 6 = Everyone of Model's race. |
+| 61 | Captured! |
+| 62, 63 | Hardened. Immune to fear. |
+| 64 | Horrible scars. Causes fear. |
+| 65 | Sold to The Pits. Fight Pit King w/ 2 Morningstars. If you win +50gc +2xp. If lost lose all equipment and roll again on first half of this table. |
+| 66 | Survives against the odds. +1xp. |
