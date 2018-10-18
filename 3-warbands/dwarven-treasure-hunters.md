@@ -25,8 +25,8 @@ rolling on the Injury chart. Treat a roll of 1-2 as knocked
 down, 3-5 as stunned, and 6 as out of action.
 Hard Head: Dwarfs ignore the special rules for maces,
 clubs, etc. They are not easy to knock out!
-Armor: Dwarfs never suffer movement penalties for
-wearing armor.
+Armour: Dwarfs never suffer movement penalties for
+wearing armour.
 Hate Orcs and Goblins: All Dwarfs hate Orcs and Goblins.
 See the psychology section of the Mordheim rules for details
 on the effects of hatred.
@@ -85,10 +85,10 @@ Halberd ........................................................................
 Gromril weapon*.......................................... 3 times the cost
 Missile Weapons
 Pistol ............................................................................ 15 GC
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
-Gromril armor** ....................................................... 75 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
+Gromril armour** ....................................................... 75 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -102,9 +102,9 @@ Missile Weapons
 Crossbow ..................................................................... 25 GC
 Handgun ...................................................................... 35 GC
 Pistol .................................................. 15 GC (30 for a brace)
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 *Any weapon a Dwarf may normally purchase may be
@@ -114,10 +114,10 @@ Mordheim rulebook. Note that this price is only for a starting
 warband, as it represents the Dwarfs outfitting themselves at
 their own stronghold. Later purchases of Gromril weapons
 are done using the price chart in the Mordheim rules.
-**The price of a suit of Gromril armor is cheaper for a
+**The price of a suit of Gromril armour is cheaper for a
 starting warband to represent the relative ease with which
 Dwarfs can find such items in their own stronghold. Later
-purchases of Gromril armor must be done using the normal
+purchases of Gromril armour must be done using the normal
 price chart in the Mordheim rules.
 ##### Heroes
 
@@ -132,8 +132,8 @@ former glory of the Dwarf Kingdoms.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 5 4 3 4 1 2 1 9
-Weapons/Armor: A Dwarf Noble may be equipped with
-weapons and armor chosen from the Dwarf Warrior
+Weapons/Armour: A Dwarf Noble may be equipped with
+weapons and armour chosen from the Dwarf Warrior
 equipment list.
 Skills: The Noble may choose from Combat, Shooting &
 Strength when he gains a new skill. In addition, the Noble
@@ -149,8 +149,8 @@ who design and build the complex war machines and devices which
 have made the Dwarfs famous.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |3 4 3 3 4 1 2 1 9
-Weapons/Armor: A Dwarf Engineer may be equipped with
-weapons and armor chosen from Dwarf Thunderer
+Weapons/Armour: A Dwarf Engineer may be equipped with
+weapons and armour chosen from Dwarf Thunderer
 equipment list.
 Skills: The Engineer may choose from Combat & Shooting
 when he gains a new skill. In addition, the Engineer may
@@ -181,10 +181,10 @@ hunters.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 4 3 3 4 1 2 1 9
 
-Weapons/Armor: Troll Slayers may be equipped with
+Weapons/Armour: Troll Slayers may be equipped with
 weapons chosen from the Dwarf Warrior equipment list.
 Slayers may never carry or use missile weapons or any form
-of armor.
+of armour.
 Skills: The Troll Slayer may choose from Combat &
 Strength, when he gains a new skill. In addition, the Troll
 Slayer may choose from the Dwarf Special Skill list or the
@@ -203,8 +203,8 @@ warriors who can be relied on to hold their own against any foe.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 4 3 3 4 1 2 1 9
-Weapons/Armor: Dwarf Warriors may be equipped with
-weapons and armor chosen from the Dwarf Warrior
+Weapons/Armour: Dwarf Warriors may be equipped with
+weapons and armour chosen from the Dwarf Warrior
 equipment list.
 
 0-5 Dwarf Thunderers
@@ -215,8 +215,8 @@ handgun bullet shot by a Dwarf Thunderer.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 4 3 3 4 1 2 1 9
-Weapons/Armor: Thunderers may be armed with weapons
-and armor chosen from the Dwarf Thunderer equipment list.
+Weapons/Armour: Thunderers may be armed with weapons
+and armour chosen from the Dwarf Thunderer equipment list.
 
 Beardlings
 25 gold crowns to hire
@@ -224,7 +224,7 @@ These are young Dwarfs who have joined the retinue of an
 experienced Dwarf treasure hunter hoping to make their fortune.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |3 3 2 3 4 1 2 1 8
-Weapons/Armor: Beardlings may be armed with weapons
-and armor chosen from the Dwarf Warrior equipment list.
+Weapons/Armour: Beardlings may be armed with weapons
+and armour chosen from the Dwarf Warrior equipment list.
 
 

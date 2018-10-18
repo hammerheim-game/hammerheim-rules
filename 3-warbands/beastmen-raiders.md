@@ -21,7 +21,7 @@ Seven great Herdstones stand hidden in the forests surrounding the city of Mordh
 warbands come to raid the city: Warherd of Thulak, Headtakers of Gorlord Zharak, the Horned Ones of Krazak
 Gore, and many others. The shards of the meteorite are seen as holy objects, which can be sold to the powerful Beastlords and revered Shamans in exchange for new weapons and services of warriors. For the tribes of Beastmen the battles fought in Mordheim are part of a great religious war, an effort to bring down the civilisation of man which offends the Chaos gods. After the taint of Man has been wiped from the face of the earth then the Beastmen shall inherit.
 
-Beastmen wear little clothing, but often dress in the fur of their defeated rivals. They usually carry the skulls of their vanquished enemies as these are thought to bring good luck. While most Beastmen have dark brown skin and fur, black- furred or even albino Beastmen are not unknown. Beastmen wear heavy armlets and necklaces which serve as armor as well as decoration. Apart from the most primitive clubs and wooden shields, the Beastmen make few weapons. It is not the nature of Chaos to create, but to destroy.
+Beastmen wear little clothing, but often dress in the fur of their defeated rivals. They usually carry the skulls of their vanquished enemies as these are thought to bring good luck. While most Beastmen have dark brown skin and fur, black- furred or even albino Beastmen are not unknown. Beastmen wear heavy armlets and necklaces which serve as armour as well as decoration. Apart from the most primitive clubs and wooden shields, the Beastmen make few weapons. It is not the nature of Chaos to create, but to destroy.
 
 ##### Special Rules
 
@@ -63,9 +63,9 @@ Double-handed Weapon ............................... 15 GC
 Halberd ............................................ 10 GC
 Missile Weapons
 None
-Armor
-Light Armor ........................................ 20 GC
-Heavy Armor ........................................ 50 GC
+Armour
+Light Armour ........................................ 20 GC
+Heavy Armour ........................................ 50 GC
 Shield ............................................. 5 GC
 Helmet ............................................. 10 GC
 
@@ -77,7 +77,7 @@ Battle Axe........................................... 5 GC
 Spear ............................................... 10 GC
 Missile Weapons
 None
-Armor
+Armour
 Shield .............................................. 5 GC
 ##### Heroes
 
@@ -87,7 +87,7 @@ Beastmen chieftains have gained their position through sheer brutality. He leads
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 5 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 8 |
-Weapons/Armor: The Beastmen Chieftain may be equipped with weapons and armor chosen from the
+Weapons/Armour: The Beastmen Chieftain may be equipped with weapons and armour chosen from the
 Beastmen Equipment list.
 Skills: The Beastmen Chieftain may choose from Combat, Strength, & Speed when he gains a new skill. In addition, the Beastmen Chieftain may choose from the Beastmen Special Skill list
 Special Rules
@@ -100,8 +100,8 @@ Beastmen Shamans are prophets of the Dark Gods, and the most respected of all th
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 5 | 4 | 3 | 3 | 4 | 1 | 3 | 1 | 6 |
-Weapons/Armor: Beastmen Shamans may be equipped with weapons chosen from the Beastmen Equipment list
-except that they never wear armor.
+Weapons/Armour: Beastmen Shamans may be equipped with weapons chosen from the Beastmen Equipment list
+except that they never wear armour.
 Skills: The Beastmen Shaman may choose from Combat, & Speed when he gains a new skill. In addition, the Beastmen Shaman may choose from the Beastmen Special Skill list
 Special Rules
 Magic User: The Beastmen Shaman has the ability to use magic and casts spells like any other magicians, and the Beastmen Shaman starts with one spells generated at random from the Chaos Rituals. See the Magic section for details. In addition the Magister may learn a new Spell instead on a new skill.
@@ -112,7 +112,7 @@ A Centigor is a disturbing cross between a horse or oxen and Beastman. Being qua
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 8 | 4 | 3 | 4 | 4 | 1 | 2 | 1 | 7 |
-Weapons/Armor: Centigors may be armed with weapons and armor chosen from Gor Equipment list.
+Weapons/Armour: Centigors may be armed with weapons and armour chosen from Gor Equipment list.
 Skills: The Centigor may choose from Combat, & Strength when he gains a new skill. In addition, the Centigor may choose from the Beastmen Special Skill list.
 Special Rules
 Drunken: Centigor are inclined to drink vast quantities of noxious beer and looted wine and spirits before battle, working themselves up into a drunken frenzy. Roll 1D6 at the start of the battle. On a roll of 1, they gain the _Stupidity_ special rule. On a roll of 2-5 nothing happens and on the roll of a 6 they gain the _Frenzy_ special rule.
@@ -126,7 +126,7 @@ Bestigors are the largest type of Beastmen, the great horned warriors of the Bea
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 5 | 4 | 3 | 4 | 4 | 1 | 3 | 1 | 7 |
-Weapons/Armor: Bestigors may be equipped with weapons chosen from the Beastmen Equipment list.
+Weapons/Armour: Bestigors may be equipped with weapons chosen from the Beastmen Equipment list.
 Skills: The Bestigors may choose from Combat, & Strength when he gains a new skill. In addition, the Bestigors may choose from the Beastmen Special Skill list
 ##### Henchmen
 
@@ -137,7 +137,7 @@ Ungor are the most numerous of the Beastmen. They are small, spiteful creatures,
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 5 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 5 |
-Weapons/Armor: Ungor may be armed with weapons and armor chosen from Ungor Equipment list.
+Weapons/Armour: Ungor may be armed with weapons and armour chosen from Ungor Equipment list.
 Special Rules
 Lowest of the Low: Ungor are on the lowest rung of Beastmen society and regardless of how much Experience
 they accrue they will never acquire a position of authority. If an Ungor rolls ‘That lad’s got talent’ it must be re-rolled.
@@ -148,7 +148,7 @@ Chaos Hounds are titanic, mastiff-like creatures which are insanely dangerous in
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 7 | 4 | 0 | 4 | 3 | 1 | 3 | 1 | 5 |
-Weapons/Armor: None! Apart from their fangs and nasty tempers the Chaos Hounds don’t have weapons and can fightwithout any penalties.
+Weapons/Armour: None! Apart from their fangs and nasty tempers the Chaos Hounds don’t have weapons and can fightwithout any penalties.
 Special Rules
 Animals: Chaos Hounds are animals and never gain Experience.
 
@@ -158,7 +158,7 @@ Gor are nearly as numerous as Ungor but are larger and more brutish...
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 5 | 4 | 3 | 3 | 4 | 1 | 3 | 1 | 6 |
-Weapons/Armor: Gor may be armed with weapons and armor chosen from Beastmen Equipment list.
+Weapons/Armour: Gor may be armed with weapons and armour chosen from Beastmen Equipment list.
  
 0-1 Minotaur
 200 Gold Crowns to hire
@@ -166,7 +166,7 @@ Minotaurs are gigantic, bull-headed Beastmen. Fearsome and powerful, any Beastme
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 6 | 4 | 3 | 4 | 4 | 3 | 4 | 3 | 8 |
-Weapons/Armor: Minotaurs may be armed with weapons and armor chosen from the Beastmen Equipment list.
+Weapons/Armour: Minotaurs may be armed with weapons and armour chosen from the Beastmen Equipment list.
 Special Rules
 Fear: Minotaurs are huge, bellowing monsters and cause fear. See Psychology section for details.
 Bloodgreed: Once a Minotaur puts an enemy _Out of Action_ they gain the Frenzy special rule.

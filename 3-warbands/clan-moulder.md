@@ -89,11 +89,11 @@ Punisher Whip ............................................................. 15 G
 Missile Weapons
 Sling .............................................................................. 2 GC
 Short Bow ...................................................................... 5 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
-Heavy Armor ............................................................. 50 GC
+Light Armour .............................................................. 20 GC
+Heavy Armour ............................................................. 50 GC
 
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
@@ -104,10 +104,10 @@ Halberd ........................................................................
 Flail ............................................................................. 15 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
+Light Armour .............................................................. 20 GC
 
 
 ##### Heroes
@@ -117,8 +117,8 @@ Light Armor .............................................................. 20 GC
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 4 4 3 1 5 1 7
-Weapons/Armor: The Master Moulder may be equipped
-with weapons and armor chosen from the Hero’s equipment
+Weapons/Armour: The Master Moulder may be equipped
+with weapons and armour chosen from the Hero’s equipment
 list.
 Skills: The Master Moulder may choose from Combat,
 Shooting, Academic, Strength, & Speed when he gains a new
@@ -139,8 +139,8 @@ and beasts seen on the battlefield.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 3 4 3 1 5 1 6
-Weapons/Armor: The Harbinger of Mutation may be
-equipped with weapons and armor chosen from the Hero’s
+Weapons/Armour: The Harbinger of Mutation may be
+equipped with weapons and armour chosen from the Hero’s
 equipment list.
 Skills: The Harbinger of Mutation may choose from
 Academic, & Speed when he gains a new skill. In addition,
@@ -158,8 +158,8 @@ learn a new Spell instead on a new skill.
 40 gold crowns to hire
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 4 3 4 3 1 5 1 6
-Weapons/Armor: A Pack Master may be equipped with
-weapons and armor chosen from the Hero’s equipment list.
+Weapons/Armour: A Pack Master may be equipped with
+weapons and armour chosen from the Hero’s equipment list.
 Skills: The Pack Master may choose from Combat, Shooting,
 Strength, & Speed when he gains a new skill. In addition, the
 Pack Master may choose from the Clan Moulder Special
@@ -172,8 +172,8 @@ brethren, creating genetic deviants of the normal Skaven. These
 beings are fearsome in combat, and hideous to look upon.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 4 1 5
-Weapons/Armor: A Mutant Skaven may be equipped with
-weapons and armor chosen from the Henchmen equipment
+Weapons/Armour: A Mutant Skaven may be equipped with
+weapons and armour chosen from the Henchmen equipment
 list.
 Skills: The Mutant Skaven may choose from Combat,
 Shooting, & Strength when he gains a new skill. In addition,
@@ -196,8 +196,8 @@ to those lofty positions of power within the clan.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 3 3 3 3 1 4 1 5
-Weapons/Armor: The Pack Servants may be equipped
-with weapons and armor chosen from the Henchmen
+Weapons/Armour: The Pack Servants may be equipped
+with weapons and armour chosen from the Henchmen
 equipment list.
 
 0-5 Wolf Rats
@@ -218,8 +218,8 @@ in their path in a blood rage.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 9 3 0 3 3 1 3 1 5
-Weapons/Armor: None. The Wolf Rat attacks with claws
-and fangs. The Wolf Rats never use any armor or weapons.
+Weapons/Armour: None. The Wolf Rat attacks with claws
+and fangs. The Wolf Rats never use any armour or weapons.
 Special Rules
 Experience: Wolf Rats are animals and do not gain
 experience.
@@ -232,7 +232,7 @@ mutated monstrosities the size of dogs. They fight alongside the
 Skaven, overpowering their opponents by sheer weight of numbers.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 2 0 3 3 1 4 1 4
-Weapons/Armor: None. Giant Rats never use any armor
+Weapons/Armour: None. Giant Rats never use any armour
 or weapons.
 Pack Size: You mar recruit as many Giant Rats as you wish.
 For each Giant Rat beyond the first two, each model counts
@@ -250,8 +250,8 @@ the Rat Ogre Creations in Moulder’s Possession sport extra limbs
 and heads, some even have had troll blood transfusion.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 3 5 5 3 4 3 4
-Weapons/Armor: Jaws, claws, and brute force! Clan
-Moulder Rat Ogres can never wear armor or use weapons.
+Weapons/Armour: Jaws, claws, and brute force! Clan
+Moulder Rat Ogres can never wear armour or use weapons.
 Special Rules
 Fear: Clan Moulder Rat Ogres are so frightening they cause
 fear.

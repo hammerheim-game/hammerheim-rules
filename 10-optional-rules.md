@@ -34,7 +34,7 @@ An Ogre Mercenary (see the Ostlander section of the Mordheim rules for stats, eq
 
 #### 12. Swarm of Rats
 
-Something in the sewers has frightened the rats that live there. The rats are in a hurry to get away and will attack anything that stands in their way. Use a template 80mm x 120mm to represent the rats. Six monster bases (use rat swarms if you have them), placed in a rectangle with one short side representing the front, will do nicely. The rats move 2D6" each turn. They will always move forward down the centre of the street and if they come to an intersection roll randomly to determine which direction they take (example: for a normal four-way cross-intersection roll a D6: 1-2 right, 3-4 straight forward, 5-6 left). The rats cannot be engaged in close combat and if they make contact with a model they will run right over him. Any model moved over by the rats will suffer D3 Strength 2 hits, normal armor saves apply. 
+Something in the sewers has frightened the rats that live there. The rats are in a hurry to get away and will attack anything that stands in their way. Use a template 80mm x 120mm to represent the rats. Six monster bases (use rat swarms if you have them), placed in a rectangle with one short side representing the front, will do nicely. The rats move 2D6" each turn. They will always move forward down the centre of the street and if they come to an intersection roll randomly to determine which direction they take (example: for a normal four-way cross-intersection roll a D6: 1-2 right, 3-4 straight forward, 5-6 left). The rats cannot be engaged in close combat and if they make contact with a model they will run right over him. Any model moved over by the rats will suffer D3 Strength 2 hits, normal armour saves apply. 
 
 #### 13. Blast From The Past
 
@@ -97,7 +97,7 @@ The warbands have stumbled upon one of the many former inhabitants of the city t
 
 #### 31. Collapsing Building
 
-Pick one building at random. Any models inside must pass an Initiative test or suffer a S5 hit, armor saves applying as normal, as the building collapses. Remove the building from the table (replacing with ruins if possible), and place the models back on the table where it stood. Any models climbing the sides of a building or on the roof when it collapses automatically fall from whatever height they were at. 
+Pick one building at random. Any models inside must pass an Initiative test or suffer a S5 hit, armour saves applying as normal, as the building collapses. Remove the building from the table (replacing with ruins if possible), and place the models back on the table where it stood. Any models climbing the sides of a building or on the roof when it collapses automatically fall from whatever height they were at. 
 
 #### 32. Scrawling on a Wall
 
@@ -145,11 +145,11 @@ Clouds rapidly gather above the city in an unnatural, sickly yellow- green mass 
 
 D6 Result
 
-1 Warp lightning begins to strike the ground in search of a victim. It will hit the warrior with the best armor save, attracted to the large amount of metal. That warrior takes a S5 hit, with no armor save possible. If multiple warriors all have the highest armor save, randomly determine which is struck. The warp lightning will strike for D3 turns before moving on towards another part of the city.
+1 Warp lightning begins to strike the ground in search of a victim. It will hit the warrior with the best armour save, attracted to the large amount of metal. That warrior takes a S5 hit, with no armour save possible. If multiple warriors all have the highest armour save, randomly determine which is struck. The warp lightning will strike for D3 turns before moving on towards another part of the city.
 
 2 Fish suddenly fall out of the sky to pelt the area! All movement is halved for one turn (due to wet, flapping fish underfoot), but there is no other effect.
 
-3 Wyrdstone dust has mixed with the water vapour in the area and produced the strange looking clouds from which a tainted rain begins to fall. The rain burns flesh and eats into stone and metal. Each warband member in the open takes a single S2 hit (normal armor saves apply) every turn the rain lasts until he gets under cover. The rain lasts D3 turns.
+3 Wyrdstone dust has mixed with the water vapour in the area and produced the strange looking clouds from which a tainted rain begins to fall. The rain burns flesh and eats into stone and metal. Each warband member in the open takes a single S2 hit (normal armour saves apply) every turn the rain lasts until he gets under cover. The rain lasts D3 turns.
 
 4 A magical mass of lightning forms near the ground, illuminating the area with an eerie greenish glow. It begins to move about the area, drawn to magical powers from which it feeds. Place a counter as per the normal Encounter rules to represent the mass and each turn move it 2D6" towards the highest level spell user (the one with the most spells – each turn roll a D6 if two or more spell users have the highest number of spells). If there are no magic users in the game, the mass will move towards the opposite table edge, doing nothing but blocking line of sight as it moves. If the model the mass is moving towards casts a spell, immediately move the counter another D6" towards the model. If the ball of lightning touches the target model, the model is frozen in time and cannot do anything. While frozen, the model cannot be attacked or harmed in any way - the lightning mass protects its prey! After freezing a model, the lightning will no longer move but will instead remain near its victim to feed. The lightning will feed for D3 turns on the magical energy of its victim and then flies back towards the warp clouds above, freeing the magic user. If the game ends before the feeding is done, the victim is immediately released. Victims suffer no long-term ill effects from their exposure to the lightning. 
 
@@ -189,7 +189,7 @@ D6 Result
 
 #### 54. Last One Standing
 
-The horrors of Mordheim can drive even the strongest mind past the point of madness. This Sigmarite Matriarch (for stats see the Sisters of Sigmar section of the Mordheim rules) has seen her entire warband cut down around her and the experience has proven too much. She now seeks revenge and is not particular about who has to pay! She is armed two Sigmarite Warhammers and wears heavy armor and a helmet. She carries Blessed Water and a Holy Relic on her person as well. She knows the prayers The Hammer of Sigmar and Armor of Righteousness (see the Prayers of Sigmar chart in the Mordheim rules for details). Roll randomly to determine which she casts on herself each turn. She has the skills Absolute Faith, Jump Up and Step Aside. The Matriarch will move as quickly as possible towards the nearest model and engage them in close combat if able. She will not rout and must be taken out of action to make her stop. If the Matriarch is taken out of action, leave her body where it fell, any non-animal warband member may loot her body by moving into contact with it during their Movement phase. If this warrior is later taken out of action as well, place a counter where the warrior fell to represent the Matriarch’s equipment. This can then be picked up by a different model, as above. 
+The horrors of Mordheim can drive even the strongest mind past the point of madness. This Sigmarite Matriarch (for stats see the Sisters of Sigmar section of the Mordheim rules) has seen her entire warband cut down around her and the experience has proven too much. She now seeks revenge and is not particular about who has to pay! She is armed two Sigmarite Warhammers and wears heavy armour and a helmet. She carries Blessed Water and a Holy Relic on her person as well. She knows the prayers The Hammer of Sigmar and Armour of Righteousness (see the Prayers of Sigmar chart in the Mordheim rules for details). Roll randomly to determine which she casts on herself each turn. She has the skills Absolute Faith, Jump Up and Step Aside. The Matriarch will move as quickly as possible towards the nearest model and engage them in close combat if able. She will not rout and must be taken out of action to make her stop. If the Matriarch is taken out of action, leave her body where it fell, any non-animal warband member may loot her body by moving into contact with it during their Movement phase. If this warrior is later taken out of action as well, place a counter where the warrior fell to represent the Matriarch’s equipment. This can then be picked up by a different model, as above. 
 
 #### 55. The Wrong Trousers
 
@@ -245,7 +245,7 @@ Note: Only warriors who can gain experience will choose to look into the pool, a
 
 #### 64. Screaming Walls
 
-Faces appear in the walls of one randomly determined building and start to emit a piercing shriek. Any warband members within 8" of the building take a S1 hit (no armor saves allowed) and are at -1 on all to hit rolls (close combat and shooting) while the screaming lasts. Spellcasters are even more sensitive to the noise than others and so no spells may be cast from within this radius. Roll a D3 to determine how many game turns the screaming lasts. 
+Faces appear in the walls of one randomly determined building and start to emit a piercing shriek. Any warband members within 8" of the building take a S1 hit (no armour saves allowed) and are at -1 on all to hit rolls (close combat and shooting) while the screaming lasts. Spellcasters are even more sensitive to the noise than others and so no spells may be cast from within this radius. Roll a D3 to determine how many game turns the screaming lasts. 
 
 #### 65. Wyrdstone Comet
 
@@ -260,7 +260,7 @@ The presence of the wyrdstone has mutated this common household pest into a mons
 
 __Fearsome Beast:__ The Gigantic Spider causes fear.
 
-__Chitinous Hide:__ It has an armor save of 4+.
+__Chitinous Hide:__ It has an armour save of 4+.
 
 __Poisonous Bite:__ Any to wound rolls of 5 or 6 (rather than just a 6) are treated as critical hits.
 
@@ -314,7 +314,7 @@ Note that this temporary boost may take a characteristic above normal racial max
 
 11 Stone of Healing. A model who carries this stone may heal one model within 2" of him (including himself) during each recovery phase. The warrior regains one lost Wound. Note that this healing is only beneficial to models who have more than one Wound on their profile.
 
-12 Stone of Protection. A model who carries this stone has their armor save improved by one point (i.e. a 5+ save becomes a 4+ save). Note that no model may ever have a save better than 1+. If the model has no armor, the stone gives him a 6+ armor save.
+12 Stone of Protection. A model who carries this stone has their armour save improved by one point (i.e. a 5+ save becomes a 4+ save). Note that no model may ever have a save better than 1+. If the model has no armour, the stone gives him a 6+ armour save.
 
 ###### Using Stones
 
@@ -342,7 +342,7 @@ If any characteristic is reduced to 0 as a result of the weakening, the model be
 
 Chaos Spawn are the wretched remains of one who has tasted the power of Chaos and proved unable to withstand its mutating touch. Wracked with waves of mutation and change, a warrior is reduced to a monstrous beast of fangs, tentacles, eyeballs, and other horrific growths. Their mind is forever shattered, and they become a gibbering and mindless servant of Chaos. Typically, when a being meets this fate, his former comrades will put him out of his misery with a swift death... unless that seems like too dangerous a task to attempt, in which case they will simply herd the beast away down one of Mordheim’s winding alleys or into the sewers. There are, however, some who have a desire for and affinity with Chaos Spawn that allows them to keep their mutated friend among their ranks as a weapon and pet to use against their enemies.
 
-If one of your heroes becomes a Chaos Spawn he is considered to be lost to the warband, unless your warband is from the Cult of the Possessed or Skaven. Followers of Chaos have a sort of semi-reverence for these mindless beasts, and the Skaven have long been adept at training and using the products of wyrdstone-induced mutation. When the hero ‘Spawns’, any armor they were wearing is lost in the storm of violent mutation that overtakes the unfortunate warrior. Weapons and equipment are abandoned by the creature, however, and may be reclaimed by the warband. The hero is removed from your roster, and you gain a Chaos Spawn henchmen. They may never gain experience.
+If one of your heroes becomes a Chaos Spawn he is considered to be lost to the warband, unless your warband is from the Cult of the Possessed or Skaven. Followers of Chaos have a sort of semi-reverence for these mindless beasts, and the Skaven have long been adept at training and using the products of wyrdstone-induced mutation. When the hero ‘Spawns’, any armour they were wearing is lost in the storm of violent mutation that overtakes the unfortunate warrior. Weapons and equipment are abandoned by the creature, however, and may be reclaimed by the warband. The hero is removed from your roster, and you gain a Chaos Spawn henchmen. They may never gain experience.
 
 The Spawn will not gain any experience points from future battles; it is far too mindless to learn from its actions. The Spawn should be represented by an appropriate model. While this could be one of the Chaos Spawn models from the Warhammer line, it's probably more satisfying and fun to make your own. Spawn are the ultimate you-can-do-no- wrong conversion project, where you can throw together all sorts of stray bits to make a really unique model.
 
@@ -386,7 +386,7 @@ If the mutant grows two sword extremities, it may re-roll failed parries just as
 
 16 Brightly Patterned Skin: The mutant's skin becomes brightly coloured with contrasting stripes, spots, or other patterns. No effect on play, but a great excuse to paint an interesting new model!
 
-21 Burning Body: The mutant's body is constantly burning with flickering tongues of hellish flame and burns with unnatural light. The warrior may not carry any weapons or armor unless they are magical, or forged from Gromril or Ithilmar. The model may never go into Hiding. Any model in base contact with the mutant suffers an automatic Strength 3 hit at the beginning of each close combat phase with the Flaming Attacks special rule.
+21 Burning Body: The mutant's body is constantly burning with flickering tongues of hellish flame and burns with unnatural light. The warrior may not carry any weapons or armour unless they are magical, or forged from Gromril or Ithilmar. The model may never go into Hiding. Any model in base contact with the mutant suffers an automatic Strength 3 hit at the beginning of each close combat phase with the Flaming Attacks special rule.
 
 22 Cloud of Flies: The mutant is permanently surrounded by a great swirling mass of flies. Opponents in close combat with the mutant are at -1 on all to hit rolls, as the flies buzz into eyes, noses, and mouths.
 
@@ -414,7 +414,7 @@ If the mutant grows two sword extremities, it may re-roll failed parries just as
 
 42 Horns: The mutant's head grows horns, and it gains the special rule Impact Hits (1).
 
-43 Iron Hard Skin: The mutant's skin is covered in iron and steel scales. The mutant's armor save is improved by +1 (i.e. a 5+ save becomes a 4+). Note that a warrior's armor save may never improve to better than a 1+ save. If the mutant has no armor, their skin alone gives them a 6+ armor save.
+43 Iron Hard Skin: The mutant's skin is covered in iron and steel scales. The mutant's armour save is improved by +1 (i.e. a 5+ save becomes a 4+). Note that a warrior's armour save may never improve to better than a 1+ save. If the mutant has no armour, their skin alone gives them a 6+ armour save.
 
 44 Mace Tail: The mutant grows a flexible tail with a mace-like bony tip. Unless it already has a tail, the mutant gains an extra tail attack in each hand-to-hand combat phase at the mutant's Strength +1. If the mutant already has a tail, it will have to decide at the beginning of each hand-to-hand phase which tail it wishes to use.
 

@@ -121,12 +121,12 @@ Double-handed weapon ............................................... 15 GC
 Missile weapons
 Bow ............................................................................. 10 GC
 Crossbow ..................................................................... 25 GC
-Armor
+Armour
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
-Heavy Armor ............................................................. 50 GC
+Light armour ................................................................ 20 GC
+Heavy Armour ............................................................. 50 GC
 
 Henchmen
 Hand-to-hand combat weapons
@@ -140,10 +140,10 @@ Orcs only) ................................................................. 15 
 Missile weapons
 Bow ............................................................................. 10 GC
 Crossbow (Shootaz only) ............................................ 25 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 ##### Heroes
 
 1 Black Orc Boss
@@ -156,8 +156,8 @@ and larger warbands until they have a Horde at their beck and call.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 4 4 1 3 1 8
-Weapons/Armor: A Black Orc Boss may be equipped with
-weapons and armor chosen from the Black Orc equipment
+Weapons/Armour: A Black Orc Boss may be equipped with
+weapons and armour chosen from the Black Orc equipment
 list.
 Skills: The Black Orc Boss may choose from Combat,
 Shooting, Strength & Speed when he gains a new skill. In
@@ -166,7 +166,7 @@ Special Skill list.
 Special Rules
 Leader: Any warrior within 6" of the Boss may use his
 Leadership characteristic when taking Leadership tests.
-Black Orc: Model starts with a natural 6+ Armor Save.
+Black Orc: Model starts with a natural 6+ Armour Save.
 This save may be combined with other equipment to improve
 it.
 Oi Behave!: If any Henchman fails his Animosity test within
@@ -192,14 +192,14 @@ Beastmen or even the Boyz in the warband, the Black Orcs just
 don’t care as long as they get to crump something!
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 4 4 1 3 1 7
-Weapons/Armor: A Black Orc may be equipped with
-weapons and armor chosen from the Black Orc equipment
+Weapons/Armour: A Black Orc may be equipped with
+weapons and armour chosen from the Black Orc equipment
 list.
 Skills: The Black Orc may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
 Black Orc may choose from the Orc Special Skill list.
 Special Rules
-Black Orc: Model starts with a 6+ Armor Save. This may
+Black Orc: Model starts with a 6+ Armour Save. This may
 be improved upon by other equipment.
 0-2 Young’uns
 25 gold crowns to hire
@@ -209,8 +209,8 @@ warband and they’re plenty keen to get in there and do some
 damage. Of course one day, they know it’ll be their warband.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 4 1 2 1 7
-Weapons/Armor: A Young’uns may be equipped with
-weapons and armor chosen from the Henchmen equipment
+Weapons/Armour: A Young’uns may be equipped with
+weapons and armour chosen from the Henchmen equipment
 list.
 Skills: The Young’uns may choose from Combat & Shooting
 when he gains a new skill. In addition, the Young’uns may
@@ -234,8 +234,8 @@ anything else to do it too.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 4 1 2 1 7
-Weapons/Armor: The Boyz may be equipped with
-weapons and armor chosen from the Henchmen equipment
+Weapons/Armour: The Boyz may be equipped with
+weapons and armour chosen from the Henchmen equipment
 list.
 Special Rules
 Animosity: Orc Boyz are subject to the rules for Animosity
@@ -248,9 +248,9 @@ large amounts of food can often instill a certain loyalty in them.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 1 5 4 3 1 3 4
-Weapons/Armor: Trolls do not require weapons to fight
+Weapons/Armour: Trolls do not require weapons to fight
 but often carry a big club. In any event, Trolls can never be
-given weapons or armor.
+given weapons or armour.
 Special Rules
 Fear: Trolls are frightening monsters which cause fear.
 Stupidity: A Troll is subject to the rules for stupidity.
@@ -272,7 +272,7 @@ Vomit Attack: Instead of his normal attacks, a Troll can
 regurgitate its highly corrosive digestive juices on an
 unfortunate hand-to-hand combat opponent. This is a single
 attack that automatically hits with a Strength of 5 and ignores
-armor saves.
+armour saves.
 
 Orc Shootaz
 25 gold crowns to hire
@@ -283,8 +283,8 @@ from a distance before moving in to finish them off. This is the
 closest Orcs come to outright cowardice.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 4 1 2 1 7
-Weapons/Armor: Shootaz may be equipped with weapons
-and armor chosen from the Henchmen equipment list.
+Weapons/Armour: Shootaz may be equipped with weapons
+and armour chosen from the Henchmen equipment list.
 Special Rules
 Animosity: Shootaz are subject to the rules for Animosity
 (see Special Rules for details).
@@ -302,8 +302,8 @@ Many live in their own tribes and have their own ways of fighting
 that make them easily distinguishable.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 2 3 4 1 2 2 5
-Weapons/Armor: A Savage Orc may be equipped with
-weapons and armor chosen from the Henchmen equipment
+Weapons/Armour: A Savage Orc may be equipped with
+weapons and armour chosen from the Henchmen equipment
 list.
 Special Rules
 Unstable: These Orcs are not quite all there. They do not
@@ -317,7 +317,7 @@ Savage: Savage Orcs are subject to Frenzy as detailed in the
 Psychology section of the Mordheim rulebook. They must
 always run or charge towards the nearest opponent they can
 see. If no enemy is visible they are moved under the player’s
-control. They can never use any form of armor or ranged
+control. They can never use any form of armour or ranged
 weapons. Savage Orcs are also so primitive for other Boyz
 and can never have the Leader ability or use their Ld stat for
 rout tests, unless they are the only models from the warband
@@ -330,7 +330,7 @@ From the Nemesis Crown
 Forest Goblin tribes dwell deep within The Great Forest. They have completely adapted to their surroundings, learning stealth
 and camouflage to evade their neighbours.
 Gold motivates the Forest Goblins as it does any warband, albeit for different reasons. It is worthless to them as currency but
-as a metallic resource, it is valuable nonetheless. Instead of using gold to buy weapons and armor, Forest Goblins actually
+as a metallic resource, it is valuable nonetheless. Instead of using gold to buy weapons and armour, Forest Goblins actually
 coat their stone equipment with the metal. This has led unscrupulous leaders to send their henchmen into certain ambush, only
 to arrive later to collect the arrowheads and spear points from the remains of their former employees
 Forest Goblins are able to create poisons with a precision surpassing even the Dark Elves. Their natural surroundings
@@ -397,7 +397,7 @@ within charge reach of an enemy model, the warrior must
 charge into close combat during his regular movement.
 Giant Spider Mount: If you are using the optional rules for
 mounts, then your warband’s heroes may ride giant spiders.
-The rider’s armor save increased by +1, exactly as if mounted
+The rider’s armour save increased by +1, exactly as if mounted
 on an ordinary horse. The rider need not dismount to climb
 terrain (including building exteriors) and the spider’s natural
 climbing abilities allow the rider to re-roll any failed
@@ -446,9 +446,9 @@ Boss Pole ..................................................................... 
 Missile weapons
 Short bow ...................................................................... 5 GC
 Blowpipe ..................................................................... 25 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
-Light Armor .............................................................. 20 CG
+Light Armour .............................................................. 20 CG
 Miscellaneous
 Spider Poison .............................................................. 25 GC
 Red Toof Tribal Jewellery ........................................... 40 GC
@@ -465,7 +465,7 @@ Missile weapons
 Short bow ...................................................................... 5 GC
 Throwing Weapons ..................................................... 15 GC
 Blowpipe ..................................................................... 25 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Miscellaneous
 Spider Poison .............................................................. 25 GC
@@ -480,8 +480,8 @@ and Gork
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 4 3 3 1 4 1 7
-Weapons/Armor: A Chieftain may be equipped with
-weapons and armor chosen from the Hero equipment list.
+Weapons/Armour: A Chieftain may be equipped with
+weapons and armour chosen from the Hero equipment list.
 Skills: The Chieftain may choose from Combat, Shooting,
 Academic, & Speed when he gains a new skill.
 Special Rules
@@ -496,8 +496,8 @@ not improve their temperament, however, since they are as prone to
 infighting as their henchmen.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 3 1 6
-Weapons/Armor: Braves may be equipped with weapons
-and armor chosen from the Hero equipment list.
+Weapons/Armour: Braves may be equipped with weapons
+and armour chosen from the Hero equipment list.
 Skills: The Braves may choose from Combat, Shooting, &
 Speed when he gains a new skill. In addition, the Braves may
 choose to remove his Animosity instead of choosing a skill,
@@ -513,8 +513,8 @@ mysterious animal parts instead of gold, most other Goblins agree
 that ‘dey is odd’.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 4 1 6
-Weapons/Armor: Shaman may be equipped with weapons
-and armor chosen from the Hero equipment list.
+Weapons/Armour: Shaman may be equipped with weapons
+and armour chosen from the Hero equipment list.
 Skills: The Shaman may choose from Academic, & Speed
 when he gains a new skill.
 Special Rules
@@ -536,8 +536,8 @@ out of sight in the dense foliage.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 3 1 6
-Weapons/Armor: A Forest Goblin may be equipped with
-weapons and armor chosen from the Henchmen equipment
+Weapons/Armour: A Forest Goblin may be equipped with
+weapons and armour chosen from the Henchmen equipment
 list.
 Special Rules
 Animosity: Forest Goblins are subject to the rules for
@@ -551,8 +551,8 @@ troops, valued by Chieftains for their berserk rage in battle.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 3 1 6
-Weapons/Armor: Red Toof Boyz may be equipped with
-weapons and armor chosen from the Henchmen equipment
+Weapons/Armour: Red Toof Boyz may be equipped with
+weapons and armour chosen from the Henchmen equipment
 list.
 Special Rules
 Animosity: Red Toof Boyz are subject to the rules for
@@ -573,8 +573,8 @@ hurl several projectiles in a split second. This makes them useful for
 distracting enemies with a hail of heavy stones.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 3 3 3 1 3 1 6
-Weapons/Armor: Sluggas may be equipped with weapons
-and armor chosen from the Henchmen equipment list.
+Weapons/Armour: Sluggas may be equipped with weapons
+and armour chosen from the Henchmen equipment list.
 Special Rules
 Animosity: are subject to the rules for Animosity.
 Sluggas: In the shooting phase, the Sluggas may throw
@@ -589,8 +589,8 @@ by Forest Goblin beastmasters, they become doubly dangerous and
 much harder to evade.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 0 5 5 3 4 2 4
-Weapons/Armor: A Gigantic Spider never needs or uses
-weapons or armor.
+Weapons/Armour: A Gigantic Spider never needs or uses
+weapons or armour.
 Special Rules
 Fear: Gigantic Spiders cause fear as described in the
 Mordheim Rulebook.
@@ -608,7 +608,7 @@ experience, as they are animals. Note however that they may
 climb as normal.
 May Ride: The Forest Goblin Chieftain, may ride the
 Gigantic Spider, if you are using the optional rules for
-mounts. The chieftain gains +1 armor save, and shall move
+mounts. The chieftain gains +1 armour save, and shall move
 at the Gigantic Spider’s rate of 6. Shooting attacks hit the
 Chieftain on a die roll of 1-2, and the Gigantic Spider on a 3-
 6. In close combat, the opponent may choose which to hit.

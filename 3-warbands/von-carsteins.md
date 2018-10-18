@@ -85,9 +85,9 @@ Halberd ........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Short bow ...................................................................... 5 GC
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 
@@ -107,8 +107,8 @@ liking, and have become independent.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 4 4 4 2 5 2 8
-Weapons/Armor: Vampires may be armed with weapons
-and armor chosen from the Undead Equipment list.
+Weapons/Armour: Vampires may be armed with weapons
+and armour chosen from the Undead Equipment list.
 Skills: The Vampire may choose from Combat, Academic,
 Strength & Speed when he gains a new skill. In addition, the
 Vampire may choose from the Von Carstein Skill list.
@@ -134,8 +134,8 @@ who have come under the suspicion of the various agents of Sigmar
 and have fled to Mordheim to avoid persecution.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Necromancers may be armed with
-weapons and armor chosen from the Undead Equipment list.
+Weapons/Armour: Necromancers may be armed with
+weapons and armour chosen from the Undead Equipment list.
 Skills: The Necromancer may choose from Academic, &
 Speed when he gains a new skill.
 Special Rules
@@ -164,8 +164,8 @@ can also do the bidding of their vampiric master during daylight,
 when the Vampires must rest in their coffins.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 7
-Weapons/Armor: Dregs may be armed with weapons and
-armor chosen from the Undead Equipment list.
+Weapons/Armour: Dregs may be armed with weapons and
+armour chosen from the Undead Equipment list.
 Skills: The Dreg may choose from Combat & Strength when
 he gains a new skill.
 
@@ -180,8 +180,8 @@ by the will of their Necromantic masters.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 0 3 3 1 1 1 5
-Weapons/Armor: Zombies may not have any weapons or
-armor and suffer no penalties for this.
+Weapons/Armour: Zombies may not have any weapons or
+armour and suffer no penalties for this.
 Special Rules
 Cause Fear: Zombies are terrifying Undead creatures and
 therefore cause fear.
@@ -206,7 +206,7 @@ one Undead Troll at a time.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 0 5 3 3 1 2 5
-Weapons/Armor: Undead Troll does not require weapons
+Weapons/Armour: Undead Troll does not require weapons
 to fight but often carry a big club.
 Special Rules
 Bound Creature: The Undead Troll is a creation of the
@@ -246,7 +246,7 @@ north, and now they have taken up permanent residence in the
 crypts and cemeteries of the ruined city.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 4 1 3 2 5
-Weapons/Armor: Ghouls never carry any equipment, apart
+Weapons/Armour: Ghouls never carry any equipment, apart
 from a few bones which they use as primitive weapons.
 Special Rules
 Cause Fear: Ghouls are twisted and repulsive creatures and
@@ -262,7 +262,7 @@ like shadows, and many men have died with the cold jaws of a Dire
 Wolf around their neck.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 4 3 1 2 1 4
-Weapons/Armor: None.
+Weapons/Armour: None.
 Special Rules
 Charge: Dire Wolves are slavering creatures that overpower
 their opponents when they charge. Dire Wolves fight with 2

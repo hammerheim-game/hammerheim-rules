@@ -82,12 +82,12 @@ Sling ..........................................................................
 Short bow ...................................................................... 5 GC
 Bow ............................................................................. 10 GC
 
-Armor
+Armour
 Buckler .......................................................................... 5 GC
 Shield ............................................................................ 5 GC
 Toughened leathers ....................................................... 5 GC
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 * Lahmia Vampire or Blood Sister only
 
 
@@ -102,8 +102,8 @@ walking in the sunlight and the joy of life...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 4 4 4 2 5 2 8
-Weapons/Armor: Lahmia Vampire may be armed with
-weapons and armor chosen from the Lahmia Equipment list.
+Weapons/Armour: Lahmia Vampire may be armed with
+weapons and armour chosen from the Lahmia Equipment list.
 Skills: The Lahmia Vampire may choose from Combat,
 Academic, Strength & Speed when she gains a new skill. In
 addition, the Lahmia Vampire may choose from the Lahmia
@@ -131,8 +131,8 @@ Lahmians - they are ugly and morbid - but they have their uses...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: Necromancers may be armed with
-weapons and armor chosen from the Lahmia Equipment list.
+Weapons/Armour: Necromancers may be armed with
+weapons and armour chosen from the Lahmia Equipment list.
 Skills: The Necromancer may choose from Academic, &
 Speed when he gains a new skill.
 Special Rules
@@ -150,8 +150,8 @@ Fanatically loyal, these humans are blindly in love with their dark
 mistress...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 7
-Weapons/Armor: Dregs may be armed with weapons and
-armor chosen from the Lahmia Equipment list.
+Weapons/Armour: Dregs may be armed with weapons and
+armour chosen from the Lahmia Equipment list.
 Skills: The Dreg may choose from Combat, Strength &
 Speed when he gains a new skill.
 Special Rules
@@ -186,8 +186,8 @@ death. Not fully undead, but no longer wholly human...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 4 4 1 2 1 7
-Weapons/Armor: Blood Sisters may be armed with
-weapons and armor chosen from the Lahmia Equipment list.
+Weapons/Armour: Blood Sisters may be armed with
+weapons and armour chosen from the Lahmia Equipment list.
 Skills: The Blood Sisters may choose from Combat,
 Academic, Strength & Speed when she gains a new skill. In
 addition, the Blood Sisters may choose from the Lahmia
@@ -218,7 +218,7 @@ human warband other then Middenheim, Witch Hunters,
 Sisters of Sigmar, Possessed, Carnival of Chaos and any hero
 that uses prays. The Beloved will keep the same cost, profile,
 skill list, special rules and starting Experience. Weapons &
-Armor will be chosen from his Wargear list and the skill
+Armour will be chosen from his Wargear list and the skill
 leader is lost, as if hired by his normal warband.
 Special Rules:
 Devoted: the beloved is completely enraptured by the
@@ -242,8 +242,8 @@ aesthetic sense at all...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 3 3 1 2 1 5
-Weapons/Armor: Skeletons may be armed with weapons
-and armor chosen from the Lahmia Equipment list.
+Weapons/Armour: Skeletons may be armed with weapons
+and armour chosen from the Lahmia Equipment list.
 Special Rules
 Cause Fear: Skeletons are terrifying Undead creatures and
 therefore cause fear.
@@ -268,7 +268,7 @@ like shadows, and many men have died with the cold jaws of a Dire
 Wolf around their neck.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 4 3 1 2 1 4
-Weapons/Armor: None.
+Weapons/Armour: None.
 Special Rules
 Charge: Dire Wolves are slavering creatures that overpower
 their opponents when they charge. Dire Wolves fight with 2
@@ -293,8 +293,8 @@ Many mortals have fallen under the spell of the Lahmia. All have
 their uses. Some are tasty...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Skeletons may be armed with weapons
-and armor chosen from the Lahmia Equipment list.
+Weapons/Armour: Skeletons may be armed with weapons
+and armour chosen from the Lahmia Equipment list.
 
 
 

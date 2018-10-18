@@ -51,13 +51,13 @@ Sword ..........................................................................
 Double-handed weapon ............................................... 15 GC
 Halberd ........................................................................ 10 GC
 Dark Steel Weapon* ................................................. 2x price
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
-Heavy Armor* ........................................................... 50 GC
-Dark Steel Armor* .................................................... 95 GC
+Light armour ................................................................ 20 GC
+Heavy Armour* ........................................................... 50 GC
+Dark Steel Armour* .................................................... 95 GC
 Special Equipment
 Dark Venom* .............................................................. 15 GC
 Black Lotus** ............................................................... 5 GC
@@ -72,9 +72,9 @@ Missile Weapons
 Throwing Knives ......................................................... 15 GC
 Crossbow Pistol* ......................................................... 35 GC
 Repeater Crossbow ...................................................... 35 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
  
 * May be taken by Heroes only.
 ** May be taken by Witch Hag & Witch Elves only
@@ -85,9 +85,9 @@ Light armor ................................................................ 20 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 3 3 3 1 7 1 9
-Weapons/Armor: Witch Hag may be armed with weapons
+Weapons/Armour: Witch Hag may be armed with weapons
 chosen from the Witch Elves Equipment list, note that Witch
-Hag don’t uses missile weapons or wear armor.
+Hag don’t uses missile weapons or wear armour.
 Skills: The Witch Hag may choose from Combat, Academic,
 & Speed when she gains a new skill. In addition, the Witch
 Hag may choose from the Dark Elves Special Skill list.
@@ -105,8 +105,8 @@ deadly Executioners are sent to foray into Mordheim in the name of
 Khaine.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 4 3 3 1 5 1 8
-Weapons/Armor: An Executioner may be equipped with
-weapons and armor chosen from the Witch Elves equipment
+Weapons/Armour: An Executioner may be equipped with
+weapons and armour chosen from the Witch Elves equipment
 list.
 Skills: The Executioner may choose from Combat, & Speed
 when he gains a new skill. In addition, the Executioner may
@@ -123,8 +123,8 @@ King in his glorious armies.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 4 3 3 1 6 2 9
-Weapons/Armor: An Assassin may be equipped with
-weapons and armor chosen from the Shards equipment list.
+Weapons/Armour: An Assassin may be equipped with
+weapons and armour chosen from the Shards equipment list.
 
 Skills: The Assassin may choose from Combat, Shooting,
 Academic, & Speed when he gains a new skill. In addition,
@@ -132,7 +132,7 @@ the Assassin may choose from the Dark Elves Special Skill
 list or the Assassin Special Skill List.
 Special Rules
 Perfect Killer: An Assassin always has an extra -1 modifier
-to any armor save the enemy has to take against wounds
+to any armour save the enemy has to take against wounds
 they inflict, both with shooting and close combat weapons.
 Loner: Assassins are not great leaders, but are ruthless and
 highly disciplined warriors. The warband may never use the
@@ -150,9 +150,9 @@ looking for sacrifices for the glory of Khaine.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 3 3 3 1 6 1 8
-Weapons/Armor: Witch Elves may be armed with
+Weapons/Armour: Witch Elves may be armed with
 weapons chosen from the Witch Elves Equipment list, note
-that Witch Elves don’t uses missile weapons or wear armor.
+that Witch Elves don’t uses missile weapons or wear armour.
 Special Rules
 Frenzy: Witch Elves are affected by the rules for frenzy.
 
@@ -165,8 +165,8 @@ inexperienced scouts that see the expeditions to Lustria as a
 valuable training opportunity.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 5 1 8
-Weapons/Armor: Shades may be armed with weapons and
-armor chosen from the Shades Equipment list.
+Weapons/Armour: Shades may be armed with weapons and
+armour chosen from the Shades Equipment list.
 Special Rules
 Natural Stealth: The first thing that Dark Elf Scouts master
 is the art of moving without being seen or heard. If a Dark Elf

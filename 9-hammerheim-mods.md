@@ -72,7 +72,7 @@ The following modifiers apply:
 - Monsters do not gain experience, and count as Heroes when rolling for injury. 
 - Characters may only wield equipment they come with and this equipment may not be sold or transferred. Different equipment can be used only if the Weapon Master skill is taken.
 - Models that come with a "Hand Weapon" must choose between Sword, Dagger, Mace, or Axe at the time of purchase. 
-- Common items (heavy armor, Hand Weapon etc) bought from the Warhammer book may not be transferred or sold.
+- Common items (heavy armour, Hand Weapon etc) bought from the Warhammer book may not be transferred or sold.
 - All weapons behave according to their section in the Mordheim book, unless explicitly detailed in their own Army Book.
 - Models of same type (eg, Infantry) that move into base contact may be considered a unit for the purposes of spells/effects that target units (such as buffing banners, or spells). 
 - Magic Items are unique to your warband. If you purchase a magic item and it is subsequently lost, stolen, or destroyed you may not purchase it again.

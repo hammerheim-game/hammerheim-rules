@@ -98,9 +98,9 @@ Double-handed weapon ............................................... 15 GC
 Missile Weapons
 Sling .............................................................................. 2 GC
 
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 Helmet ......................................................................... 10 GC
@@ -123,8 +123,8 @@ redeem the Sisterhood in His eyes.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
-Weapons/Armor: The Sigmarite Matriarch may be
-equipped with weapons and armor chosen from the Sisters
+Weapons/Armour: The Sigmarite Matriarch may be
+equipped with weapons and armour chosen from the Sisters
 of Sigmar Equipment list.
 Skills: The Matriarch may choose from Combat, Academic,
 Strength, & Speed when he gains a new skill. In addition, the
@@ -151,9 +151,9 @@ single long braid.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 2 3 3 1 3 1 7
-Weapons/Armor: The Augurs may be equipped with
+Weapons/Armour: The Augurs may be equipped with
 weapons chosen from the Sisters of Sigmar Equipment list.
-They never wear armor.
+They never wear armour.
 
 Skills: The Augur may choose from Combat, Academic, &
 Speed when he gains a new skill. In addition, the Augur may
@@ -178,8 +178,8 @@ that may lurk in the ruins of Mordheim is as nothing compared to
 the wrath of a Sister Superior.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
-Weapons/Armor: A Sister Superior may be equipped with
-weapons and armor chosen from the Sisters of Sigmar
+Weapons/Armour: A Sister Superior may be equipped with
+weapons and armour chosen from the Sisters of Sigmar
 Equipment list.
 Skills: The Sister Superiors may choose from Combat,
 Academic, Strength, & Speed when he gains a new skill. In
@@ -197,8 +197,8 @@ and horrors that stand in their way, they will be overcome!
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: The Sigmarite Sisters may be equipped
-with weapons and armor chosen from the Sisters of Sigmar
+Weapons/Armour: The Sigmarite Sisters may be equipped
+with weapons and armour chosen from the Sisters of Sigmar
 Equipment list.
 
 0-10 Novices
@@ -213,8 +213,8 @@ tested to the full. All are eager to prove themselves worthy to be the
 handmaidens of Sigmar.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
-Weapons/Armor: The Novices may be equipped with
-weapons and armor chosen from the Sisters of Sigmar
+Weapons/Armour: The Novices may be equipped with
+weapons and armour chosen from the Sisters of Sigmar
 Equipment list.
 
 

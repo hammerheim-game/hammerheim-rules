@@ -93,9 +93,9 @@ Spear ..........................................................................
 Missile Weapons
 Bow ............................................................................. 10 GC
 Pistol .................................................. 15 GC (30 for a brace)
-Armor
-Light armor ................................................................ 20 GC
-Heavy armor .............................................................. 50 GC
+Armour
+Light armour ................................................................ 20 GC
+Heavy armour .............................................................. 50 GC
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 
@@ -108,8 +108,8 @@ Sword ..........................................................................
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 None
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 
 Jaeger Equipment List
 Hand-to-hand Combat Weapons
@@ -125,8 +125,8 @@ Blunderbuss ................................................................. 30
 Hunting rifle .............................................................. 175 GC
 Double-Barrelled (Pistol / Handgun / Hunting Rifle) ...........
 .................................................................................. 2x price
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
 Ogre-Kin Equipment List
@@ -137,8 +137,8 @@ Sword ..........................................................................
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 None
-Armor
-Light armor ................................................................ 20 GC
+Armour
+Light armour ................................................................ 20 GC
 ##### Heroes
 
 1 Elder
@@ -150,8 +150,8 @@ Mordheim to seek their fortune.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
-Weapons/Armor: An Elder may be equipped with
-weapons and armor chosen from the Ostlander Equipment
+Weapons/Armour: An Elder may be equipped with
+weapons and armour chosen from the Ostlander Equipment
 list.
 Skills: The Elder may choose from Combat, Shooting,
 Strength & Speed when he gains a new skill. In addition, the
@@ -179,8 +179,8 @@ the most respected men in the village (aside from the Elder) are
 referred to simply as Blood-Brothers.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
-Weapons/Armor: Blood-Brothers may be equipped with
-weapons and armor chosen from the Ostlander Equipment
+Weapons/Armour: Blood-Brothers may be equipped with
+weapons and armour chosen from the Ostlander Equipment
 list.
 Skills: The Blood-Brothers may choose from Combat &
 Strength, when he gains a new skill. In addition, the Blood-
@@ -202,7 +202,7 @@ more animals begin to fill the surrounding forests...
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 3 1 7
 
-Weapons/Armor: A Priest of Taal may be equipped with
+Weapons/Armour: A Priest of Taal may be equipped with
 weapons chosen from the Ostlander Equipment list.
 Skills: The Priest of Taal may choose from Combat,
 Academic, Strength, & Speed when he gains a new skill. In
@@ -214,7 +214,7 @@ use the Prayers of Taal as detailed in the Magic section and
 the Priest of Taal start with one prays generated at random.
 See the Magic section for details. In addition the Priest of
 Taal may learn a new Prayer instead on a new skill.
-Strictures: Priests of Taal may never wear armor.
+Strictures: Priests of Taal may never wear armour.
 ##### Henchmen
 
 (Brought in groups of 1-5)
@@ -227,8 +227,8 @@ can resist.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: Kin may be equipped with weapons and
-armor chosen from the Ostlander Equipment list.
+Weapons/Armour: Kin may be equipped with weapons and
+armour chosen from the Ostlander Equipment list.
 
 0-1 Ogre
 160 Gold Crowns to hire
@@ -243,8 +243,8 @@ fighting abilities and so they are rather expensive to keep.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 3 2 4 4 3 3 2 7
-Weapons/Armor: Ogre-kin may be equipped with weapons
-and armor chosen from the Ogre-kin Equipment list.
+Weapons/Armour: Ogre-kin may be equipped with weapons
+and armour chosen from the Ogre-kin Equipment list.
 Special Rules
 Fear: Ogre-kin are large, threatening creatures that cause
 Fear. See the Psychology section for details.
@@ -273,8 +273,8 @@ versions, as these are a sign of great prestige amongst the hunters of
 the deep woods.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armor: Jaeger may be equipped with weapons
-and armor chosen from the Jaeger Equipment list.
+Weapons/Armour: Jaeger may be equipped with weapons
+and armour chosen from the Jaeger Equipment list.
  
 0-5 Ruffians
 25 Gold Crowns to hire
@@ -290,8 +290,8 @@ will shove a broken bottle into your face as soon as laugh heartily
 and burst into song!
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 2 1 10
-Weapons/Armor: Ruffians may be equipped with weapons
-and armor chosen from the Ruffians Equipment list.
+Weapons/Armour: Ruffians may be equipped with weapons
+and armour chosen from the Ruffians Equipment list.
 Ruffians never use missile weapons, as their depth perception
 leaves a bit to be desired, even if they gain an Advance roll
 which would otherwise allow them to do so.

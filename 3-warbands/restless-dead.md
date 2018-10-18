@@ -97,7 +97,7 @@ A Liche is a powerful undead sorcerer. They journey north in a desperate bid to 
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4 | 2 | 2 | 2 | 2 | 4 | 4 | 1 | 8 |
 
-Weapons/Armor: Liches may not carry any non-magical weapons and do not suffer any penalties for this. They may wear any armour from the Undead Equipment list.
+Weapons/Armour: Liches may not carry any non-magical weapons and do not suffer any penalties for this. They may wear any armour from the Undead Equipment list.
 
 Skills: The Liche may only learn Academic skills and skills from above.
 
@@ -123,7 +123,7 @@ Necromancers who travel with Liches are apprentices to the dark arts of Necroman
 | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
-Weapons/Armor: Necromancers may be equipped with weapons and armour chosen from the Undead Equipment List.
+Weapons/Armour: Necromancers may be equipped with weapons and armour chosen from the Undead Equipment List.
 Skills: Necromancers may choose from Academic & Speed skills. They may also choose from the list above.
 
 Special Rules
@@ -142,7 +142,7 @@ Grave Guards were once the finest warriors, hand selected by their masters for t
 | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 4 | 3 | 2 | 3 | 3 | 1 | 2 | 1 | 6 |
-Weapons/Armor: Grave Guards may be equipped with weapons and armor chosen from the Undead Equipment list.
+Weapons/Armour: Grave Guards may be equipped with weapons and armour chosen from the Undead Equipment list.
 
 Skills: Grave Guards may choose from Combat & Strength skills when they gain a new skill.
 

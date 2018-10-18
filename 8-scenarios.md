@@ -238,7 +238,7 @@ after the game to see what the chest contains. Note that you
 roll for each item separately, apart from the gold crowns,
 which are always automatically found. For example, roll to
 see if you find any wyrdstone – you need a 5+ to find it. Then
-roll to see if you find the armor, and so on. This can make
+roll to see if you find the armour, and so on. This can make
 the chest a very valuable acquisition – however, it could also
 mean that your warband has risked death for only three gold
 crowns!
@@ -246,7 +246,7 @@ crowns!
 ITEMS D6 ROLL REQUIRED
 3D6 GC Automatic
 D3 pieces of wyrdstone 5+
-Suit of light armor 4+
+Suit of light armour 4+
 Sword 3+
 D3 gems worth 10 GC each 5+
 Starting the game
@@ -348,7 +348,7 @@ moving into base contact with the chest. As above, it takes the
 rest of an attacker's turn to open the chest. If the model who opens the
 chest later comes in contact with the prisoner, he may give
 him all of his old gear; however, the prisoner may not put on
-any armor, as a quick escape is desired (he may use a shield
+any armour, as a quick escape is desired (he may use a shield
 as normal).
 
 Warbands
@@ -580,7 +580,7 @@ weapons, but you may sell them for the normal price (half
 their retail value).
 5 A gallantly decorated military crate, locked and branded with
 the royal seal of Bretonnia. Inside you find a knight's lance,
-and on a roll of 5+, a suit of gromril armor.
+and on a roll of 5+, a suit of gromril armour.
 6 An ornately carved and decorated armoire, inside which hangs
 a randomly generated magical artifact. Roll on the magical
 artefact's table, re-rolling for any artifacts that have already
@@ -656,7 +656,7 @@ better, the item is present.
 D6 Item
 5+ 2D6gc
 3+ Jewelled dagger
-5+ Heavy armor
+5+ Heavy armour
 6+ Ithilmir sword
 3+ Gems worth 30gc
 6+ Wolf cloak
@@ -734,8 +734,8 @@ received.
 Item D6 Needed
 5D6 GC Automatic
 D3 swords 4+
-Suit of heavy armor 5+
-Suit of light armor 4+
+Suit of heavy armour 5+
+Suit of light armour 4+
 Shield 4+
 Helmet 4+
 D3 gems worth 10 GC each 5+
@@ -912,9 +912,9 @@ Item D6 Result Needed
 Magical artefact (roll on artefact table) 6+
 D3+1 pieces of wyrdstone 4+
 Gromril axe 5+
-Suit of heavy armor 5+
-Suit of light armor 4+
-Suit of light armor 4+
+Suit of heavy armour 5+
+Suit of light armour 4+
+Suit of light armour 4+
 Shield 4+
 Helmet 4+
 D3 swords 4+
@@ -1149,7 +1149,7 @@ dared to pass.
 Many warbands have disappeared when they have ventured through
 the West Gatehouse. There are rumours The Giant Tree guards not
 only the West Gatehouse but treasure. The treasure horde has been
-rumoured to include wyrdstone, jewels, armor, weapons, precious
+rumoured to include wyrdstone, jewels, armour, weapons, precious
 and rare items.
 Many warbands have decided to go after the Giant Tree together to
 split the riches but many have died by the hands of The Great Oak
@@ -1303,7 +1303,7 @@ Foot.
 or as one off to allow a reroll on the Hero Serious Injury
 Table (unless the result was pit fight or captured. Adjust to
 your gaming style.
-7 Suit of Heavy Armor.
+7 Suit of Heavy Armour.
 8 Elven Cloak.
 9 D3 shield and swords.
 10-11 Beer, worth 2D6 per crate. On a D6 roll of a 6 there is one
@@ -1321,7 +1321,7 @@ Wyrdstone Pendulum (4-6) a set of Cathayan Silks.
 of Superior Blackpowder.
 21 D3 Crossbows each with Hunting Bolts (same as hunting
 arrows) for one game.
-22 D3 Suits of light armor.
+22 D3 Suits of light armour.
 23 Hunting Rifle.
 24 One suit of Gromril Amour.
 
@@ -1555,7 +1555,7 @@ turn it is that is attacked by spirits, the only difference is
 whether or not he or his opponent chooses the affected
 model.
 An attacked warrior is automatically hit by a Strength 2
-attack (no armor modifiers) and is blown directly backwards
+attack (no armour modifiers) and is blown directly backwards
 D6". If an attacked warrior is in an elevated position such as
 a gantry or an upper floor of a building then there is a good
 chance he may be blown off and if this is the case treat the
@@ -2102,7 +2102,7 @@ D3 Morning Star 1
 D3 Spears 2
 D3 Bows 3
 D3 Crossbow 4
-1 Suit of Heavy Armor 5
+1 Suit of Heavy Armour 5
 D3 Nets 6
 Rare items can only come from the crates placed in the
 middle of the Merchant's Square. Rare items may only be
@@ -2221,7 +2221,7 @@ to their best advantage.
 Tree-kin 5 4 0 5 5 3 3 3 8
 Shadow Dryad 5 4 0 4 4 2 4 2 8
 Shadow Tree-kin 5 3 0 4 5 3 3 3 8
-Weapons/Armor: The Dryad and Shadow Dryad has Razor
+Weapons/Armour: The Dryad and Shadow Dryad has Razor
 Sharp Talons (Counts as being armed with two swords), the
 Tree-Kin and Shadow Tree-Kin has Branchlike limes (Counts
 as being armed with two clubs).
@@ -2302,7 +2302,7 @@ damp hides. Renowned for their strength and unthinking ferocity,
 Trolls can rip a man apart with their bare hands. Trolls are able to
 regenerate damaged flesh, and so are all but impossible to kill. Not
 only that, they have the ability to vomit the corrosive contents over
-their victim, melting armor, flesh and bone with ease. One
+their victim, melting armour, flesh and bone with ease. One
 particularly vicious form of Troll is the Stone Troll, whose hide is as
 tough as rock. They have the strange ability of sucking the very
 power of magic out of the surrounding area. River Trolls live in the
@@ -2310,7 +2310,7 @@ marshlands or swamps near the banks of rivers. Their flesh exhumes
 a vile slime which chokes anyone nearby.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |River Troll 6 3 1 5 4 3 1 3 4
-Weapons/Armor: Trolls often carry a big club.
+Weapons/Armour: Trolls often carry a big club.
 Special Rules
 Fear: Trolls are frightening monsters which cause fear.
 Stupidity: A Troll is subject to the rules for stupidity.
@@ -2323,7 +2323,7 @@ never roll for Injury after a battle.
 Vomit Attack: Instead of his normal attacks, a Trolls can regurgitate its highly corrosive digestive
 juices on an unfortunate hand-to-hand combat opponent. This
 is a single attack that automatically hits with a Strength of 5
-and ignores armor saves.
+and ignores armour saves.
 Slime: The River Trolls skin exhumes poisonous fumes
 which make the Warriors choke. When standing adjacent to
 the River Troll any Warrior is at -1 To Hit.
@@ -2340,8 +2340,8 @@ experience.
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Bloodletter of Khorne 4 6 0 4 3 2 6 2+ 8
-Weapons/Armor: The Bloodletters carry a Hellblade and
-wear Hell-Forged Brass Armor (4+ Armor Save).
+Weapons/Armour: The Bloodletters carry a Hellblade and
+wear Hell-Forged Brass Armour (4+ Armour Save).
 Special Rules
 Hellblade: The Bloodletter is armed with a Hellblade which
 will automatically cause a critical hit if a 4+ is rolled to hit.

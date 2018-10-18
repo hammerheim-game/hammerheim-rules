@@ -124,11 +124,11 @@ Missile Weapons
 Bow ............................................................................. 10 GC
 Longbow ..................................................................... 15 GC
 Elf Bow ....................................................................... 35 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
-Ithilmar armor* ......................................................... 60 GC
+Ithilmar armour* ......................................................... 60 GC
 
 Miscellaneous
 Standard of Nagarythe* ............................................... 75 GC
@@ -157,8 +157,8 @@ small band of their followers and seek a life away from the hesitant
 charity and distasteful stares of Ulthuan.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 5 3 3 1 6 1 9
-Weapons/Armor: Shadow Master may be equipped with
-weapons and armor chosen from the Shadow Warrior
+Weapons/Armour: Shadow Master may be equipped with
+weapons and armour chosen from the Shadow Warrior
 Equipment list.
 Skills: The Shadow Master may choose from Combat,
 Shooting, Academic, & Speed when he gains a new skill. In
@@ -179,8 +179,8 @@ trusted lieutenants of the Warband’s captain, the Shadow Master.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 5 4 3 3 1 6 1 8
-Weapons/Armor: Shadow Walkers may be equipped with
-weapons and armor chosen from the Shadow Warrior
+Weapons/Armour: Shadow Walkers may be equipped with
+weapons and armour chosen from the Shadow Warrior
 Equipment list.
 Skills: The Shadow Walker may choose from Combat,
 Shooting, & Speed when he gains a new skill. In addition, the
@@ -200,10 +200,10 @@ tailor, the Shadow Weaver takes the threads of shadow and fashions
 them into shapes and forms of his choosing.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 4 3 3 1 6 1 8
-Weapons/Armor: Shadow Weavers may be equipped with
-weapons and armor chosen from the Shadow Warrior
+Weapons/Armour: Shadow Weavers may be equipped with
+weapons and armour chosen from the Shadow Warrior
 Equipment list, but they may not cast spells if wearing
-armor.
+armour.
 Skills: The Shadow Weaver may choose from Combat,
 Academic, & Speed when he gains a new skill. In addition,
 the Shadow Weaver may choose from the Shadow Warrior
@@ -228,8 +228,8 @@ the Dark Elves.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 3 3 1 6 1 8
-Weapons/Armor: Shadow Warriors may be equipped with
-weapons and armor chosen from the Shadow Warrior
+Weapons/Armour: Shadow Warriors may be equipped with
+weapons and armour chosen from the Shadow Warrior
 Equipment list.
 
 Shadow Warrior Novices
@@ -240,8 +240,8 @@ Ulthuan for the first time. Due to their hard existence, it is often a
 quick progression from Novice to full Warrior, however.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 3 3 3 1 5 1 7
-Weapons/Armor: Shadow Novices may be equipped with
-weapons and armor chosen from the Shadow Warrior
+Weapons/Armour: Shadow Novices may be equipped with
+weapons and armour chosen from the Shadow Warrior
 Equipment list.
 
 

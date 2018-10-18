@@ -48,7 +48,7 @@ If the leader of the warband is slain, the Hero with the next highest Leadership
 
 As explained in the Trading section, warriors may purchase new equipment and armaments using the warband’s treasury. Warriors can also swap equipment between themselves. Alternatively, old equipment can be hoarded and re-used at a later date.
 
-Weapons and armor purchased, swapped or taken from storage for your warband must be of an appropriate type for the warrior, as indicated by the warband lists. Record any changes to the warrior’s equipment on the roster sheet.
+Weapons and armour purchased, swapped or taken from storage for your warband must be of an appropriate type for the warrior, as indicated by the warband lists. Record any changes to the warrior’s equipment on the roster sheet.
 
 \page
 
@@ -139,7 +139,7 @@ The warrior has suffered a serious wound and must miss the next D3 games while t
 
 ##### 36 ROBBED
 
-The warrior manages to escape, but all their weapons, armor and equipment are lost.
+The warrior manages to escape, but all their weapons, armour and equipment are lost.
 
 ##### 41-55 FULL RECOVERY
 
@@ -157,7 +157,7 @@ The warrior makes a full physical recovery, but bears a deep resentment against 
 
 ##### 61 CAPTURED
 
-The warrior regains consciousness and finds themself held captive by the warband that won the scenario. If their own warband won or if there was no winner then the warband that put them out of action captures them. If none of the above apply then re-roll this result. The capturing player may ransom the captive hero back to their owner's warband at a price of their choosing, though the owning player cannot refuse a ransom of less than 20gc. If no ransom occurs the owning player may force the next scenario to be The Rescue as they attempt to retrieve their comrade. Captives may be sold to slavers at a price of D6x5 GC. Undead may kill their captive and gain a new Zombie. The Possessed may sacrifice the prisoner. The leader of the warband will gain +D3 Experience if they do so. Captives who are exchanged or ransomed retain all their weapons, armor and equipment. If the ransom is not met and the captive is sold to slavers/sacrificed etc then the capturing player may keep their equipment. 
+The warrior regains consciousness and finds themself held captive by the warband that won the scenario. If their own warband won or if there was no winner then the warband that put them out of action captures them. If none of the above apply then re-roll this result. The capturing player may ransom the captive hero back to their owner's warband at a price of their choosing, though the owning player cannot refuse a ransom of less than 20gc. If no ransom occurs the owning player may force the next scenario to be The Rescue as they attempt to retrieve their comrade. Captives may be sold to slavers at a price of D6x5 GC. Undead may kill their captive and gain a new Zombie. The Possessed may sacrifice the prisoner. The leader of the warband will gain +D3 Experience if they do so. Captives who are exchanged or ransomed retain all their weapons, armour and equipment. If the ransom is not met and the captive is sold to slavers/sacrificed etc then the capturing player may keep their equipment. 
 
 ##### 62-63 HARDENED
 
@@ -169,7 +169,7 @@ The warrior causes _fear_ from now on.
 
 ##### 65 SOLD TO THE PITS
 
-The warrior wakes up in the infamous fighting pits of Cutthroat’s Haven and must fight against a Pit Fighter. The Pit Fighter has the statline of a Pit King from the Pit Fighter warband and is equipped with two Morningstars. Roll to see which side charges, and fight the battle as normal. If the warrior loses, roll on the first half of this table. If they survive they are ignanimously thrown out of the fighting pits without their armor and weapons and may re-join their warband. If the warrior wins they gains 50 GC, +2 Experience and is free to rejoin their warband with all their weapons and equipment.
+The warrior wakes up in the infamous fighting pits of Cutthroat’s Haven and must fight against a Pit Fighter. The Pit Fighter has the statline of a Pit King from the Pit Fighter warband and is equipped with two Morningstars. Roll to see which side charges, and fight the battle as normal. If the warrior loses, roll on the first half of this table. If they survive they are ignanimously thrown out of the fighting pits without their armour and weapons and may re-join their warband. If the warrior wins they gains 50 GC, +2 Experience and is free to rejoin their warband with all their weapons and equipment.
 
 ##### 66 SURVIVES AGAINST THE ODDS
 
@@ -324,7 +324,7 @@ D6 Result
 
 5: Sword
 
-6: Suit of light armor
+6: Suit of light armour
 
 #### (44) Straggler:
 Your warband encounters one of the survivors of Mordheim, who has lost his sanity along with all his worldly possessions. Skaven warbands can sell the straggler to agents of Clan Eshin (who will use the man for food or slavery) and gain 2D6 GC. Possessed warbands can sacrifice the unfortunate individual for the glory of the Chaos gods. The leader of the warband will gain +1 Experience. Undead warbands can kill the man and gain a Zombie for no cost.
@@ -391,7 +391,7 @@ Other warbands can escort the prisoners out of the city. For
 their trouble, they are rewarded with 2D6 GC. In addition,
 one of the prisoners decides he wishes to join the warband. If
 you can afford to equip the new recruit with weapons and
-armor, you may add a new Henchman to any of your human
+armour, you may add a new Henchman to any of your human
 Henchman groups (with the same stats as the rest of the
 group, even if they have already accumulated experience).
 
@@ -485,12 +485,12 @@ window into the attic of the house opposite.
 
 Your warband finds 3D6 GC worth of loot.
 
-#### (4444) Armorer
+#### (4444) Armourer
 A breastplate hanging from a pole drew your attention to this
 place, obviously too high up to be easily looted. The
 workshop is ruined and the forge has been smashed. Rooting
 about in the soot, you find various half-finished items of
-armor.
+armour.
 Roll a D6 to see what you find:
 
 D6 Result
@@ -499,11 +499,11 @@ D6 Result
 
 3 D3 Helmets
 
-4 D3 Suits of light armor
+4 D3 Suits of light armour
 
-5 D3 Suits of heavy armor
+5 D3 Suits of heavy armour
 
-6 Suit of Ithilmar armor
+6 Suit of Ithilmar armour
  
  \page
  
@@ -643,7 +643,7 @@ Items D6 Result Needed
 
 Holy relic 5+
 
-Suit of heavy armor 5+
+Suit of heavy armour 5+
 
 D3 Gems worth 10 GC each 4+
 
@@ -684,14 +684,14 @@ After giving the dead their final rites (Sisters of Sigmar), burning them just t
 them (anyone else!) you find the following items. Roll for
 every item separately (apart from the gold coins and daggers)
 to see if you find it. For example, on a roll of 4+ you will find
-the suits of light armor.
+the suits of light armour.
 Item D6 Result Needed
 
 3D6x5 GC Auto
 
-D3 Suits of light armor 4+
+D3 Suits of light armour 4+
 
-Suit of heavy armor 5+
+Suit of heavy armour 5+
 
 D6 Daggers Auto
 
@@ -759,7 +759,7 @@ are Stunned on a result of 1-3 (Undead are Knocked Down as
 normal) and put Out Of Action on a 4-6.
 
 #### 3 Att’la’s World-Treading Mail
-This armor was given as a present by the Dwarf Lord
+This armour was given as a present by the Dwarf Lord
 Kurgan to the warlord Att’la in the time of Sigmar
 Heldenhammer.
 
@@ -767,7 +767,7 @@ Att’la’s World-Treading Mail is a suit of Light Armour with the
 following three runes inscribed on it:
 
 Rune of Spell Eating: The Hero wearing this
-armor is immune to all spells.
+armour is immune to all spells.
 
 Rune of Passage: The Hero can move through solid
 objects, like walls (this does not however mean that they can
@@ -869,7 +869,7 @@ mission to purify Mordheim of the influence of Chaos
 requires supplies and weaponry, and these are much in
 demand. Thus the warbands of the Sisterhood compete with
 each other to gain the best weapons and equipment from the
-temple’s armory.
+temple’s armoury.
 
 To measure their success, the more wyrdstone the Sisters
 bring to be kept under lock and key in the Vault of
@@ -895,7 +895,7 @@ Carstein of Sylvania.
 
 #### Spending income
 
-You can spend any accumulated money on weapons, armor,
+You can spend any accumulated money on weapons, armour,
 hiring new warriors, buying new equipment or simply save
 the money for a bigger purchase. See the Trading section for
 details.
@@ -957,7 +957,7 @@ Experience points, or two warriors to a Henchman group with
 any excess Experience points.
 
 As with other new Henchmen, you must pay for all their
-weapons and armor. New Henchmen must be armed and
+weapons and armour. New Henchmen must be armed and
 equipped in the same way as existing members of the group.
 
 \page
@@ -1029,7 +1029,7 @@ price. In the case of rare equipment and weapons which have
 a variable price, the warband receives half of the basic cost
 only (merchants are far better at haggling than your warriors).
 
-Alternatively, weapons, armor and equipment may be
+Alternatively, weapons, armour and equipment may be
 hoarded for future use (make a note on the warband roster) or
 swapped around the warband from one fighter to another
 (though not between warbands). As a weapon’s value is low

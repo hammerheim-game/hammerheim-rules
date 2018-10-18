@@ -27,9 +27,9 @@ Pit King is the most skilled and cunning Pit Fighter of them
 all who leads his band with an iron fist.
 Appearance: Pit Fighters are grizzled veteran warriors
 covered with many scars of battle, they are armed with
-special Pit Weapons and Armor, their bodies well developed
+special Pit Weapons and Armour, their bodies well developed
 and muscular. They wear little clothing and only partial
-armor known as Pit Armor.
+armour known as Pit Armour.
 
 ##### Special Rules
 
@@ -42,11 +42,11 @@ Haven.
 The Pit Fighter Warband may decide to send in one or more
 of their own fighters to fight the captive, if the Pit Fighter
 wins he gains +2 Experience, the Warband gets all the
-Captive’s armor and weapons +50gc, if the Pit Fighter loses
+Captive’s armour and weapons +50gc, if the Pit Fighter loses
 then roll to see whether he is dead or injured as normal
 (ignore all following results: Robbed, Captured, Hardened,
 Sold to the Pits and Survives Against the Odds), he will not
-lose his armor or weapons, the Captive will get the 50 GC
+lose his armour or weapons, the Captive will get the 50 GC
 and the +2 Experience when he wins. If the Captive wins the
 audience decides whether he gains his freedom. Roll a D6 on
 a 4+ the audience raise their thumbs and he is free. A 1-3
@@ -102,10 +102,10 @@ Spear ..........................................................................
 Flail ............................................................................. 15 GC
 Fist Spike ..................................................................... 15 GC
 Gromril Weapon* ...................................................... 3x Price
-Armor
+Armour
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
-Heavy Armor ............................................................. 50 GC
+Light Armour .............................................................. 20 GC
+Heavy Armour ............................................................. 50 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
 
@@ -121,9 +121,9 @@ Missile Weapons
 Throwing Knives ......................................................... 15 GC
 Javelin ......................................................................... 10 GC
 Net ................................................................................. 5 GC
-Armor
+Armour
 Hardened Leather ........................................................ 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
@@ -143,8 +143,8 @@ held in a mixture of awe an fear by his fellows and his loyalty to his
 men is
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 4 4 1 4 2 8
-Weapons/Armor: A Pit King may be equipped with
-weapons and armor chosen from the Pit Fighter Equipment
+Weapons/Armour: A Pit King may be equipped with
+weapons and armour chosen from the Pit Fighter Equipment
 list.
 Skills: The Pit King may choose from Combat, Academic,
 Strength, & Speed when he gains a new skill. In addition, the
@@ -161,8 +161,8 @@ orders of the Pit King with ruthless efficiency. These men ensure
 that the Warband is held together with iron-hard discipline.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 4 1 7
-Weapons/Armor: A Pit Fighter Veteran may be equipped
-with weapons and armor chosen from the Pit Fighter
+Weapons/Armour: A Pit Fighter Veteran may be equipped
+with weapons and armour chosen from the Pit Fighter
 Equipment list.
 Skills: The Veterans may choose from Combat & Strength
 when he gains a new skill. In addition, the Veterans may
@@ -177,8 +177,8 @@ in the Pit, and they will have to prove themselves in the heat of the
 battle.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
-Weapons/Armor: A Pit Fighter Initiate may be equipped
-with weapons and armor chosen from the Pit Fighter
+Weapons/Armour: A Pit Fighter Initiate may be equipped
+with weapons and armour chosen from the Pit Fighter
 Equipment list.
 Skills: The Initiates may choose from Combat & Strength
 when he gains a new skill. In addition, the Initiates may
@@ -200,10 +200,10 @@ that they have found themselves a second place, to call home.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 3 4 3 3 4 1 2 1 9
-Weapons/Armor: A Troll Slayer may be equipped with
-weapons and armor chosen from the Pit Fighter Equipment
+Weapons/Armour: A Troll Slayer may be equipped with
+weapons and armour chosen from the Pit Fighter Equipment
 list. Slayers may never carry or use missile weapons or any
-form of armor.
+form of armour.
 Skills: The Troll Slayer may choose from Combat,
 Academic, Strength & Speed when he gains a new skill. In
 
@@ -234,12 +234,12 @@ never need to test if fighting alone.
 Pit Fighters
 35 gold crowns to hire
 Pit Fighters are the Close Combat specialists of the Warband,
-armed with a variety of weapons and armor.
+armed with a variety of weapons and armour.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 3 3 1 3 1 7
-Weapons/Armor: A Pit Fighter may be equipped with
-weapons and armor chosen from the Pit Fighter Equipment
+Weapons/Armour: A Pit Fighter may be equipped with
+weapons and armour chosen from the Pit Fighter Equipment
 list.
 Special Rules
 Pit Fighter: See Strength Skill section.
@@ -257,8 +257,8 @@ fight in massive stone arenas.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: A Pit Fighter Pursuer may be equipped
-with weapons and armor chosen from the Pit Fighter
+Weapons/Armour: A Pit Fighter Pursuer may be equipped
+with weapons and armour chosen from the Pit Fighter
 Pursuer Equipment list.
 Special Rules
 Pit Fighter: See Strength Skill section.
@@ -271,8 +271,8 @@ fight such fearsome beasts as captured Trolls in some of the most
 incredible bouts held at the pits.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 3 2 4 4 3 3 2 7
-Weapons/Armor: An Ogre Pit Fighter may be equipped
-with weapons and armor chosen from the Pit Fighter
+Weapons/Armour: An Ogre Pit Fighter may be equipped
+with weapons and armour chosen from the Pit Fighter
 Equipment list.
 Special Rules
 Pit Fighter: See Strength Skill section.

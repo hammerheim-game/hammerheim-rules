@@ -132,9 +132,9 @@ Pistol ..................................................... 15 GC (30 for brace
 Duelling Pistol ...................................... 25 GC (50 for brace)
 Bow ............................................................................. 10 GC
 Crossbow ..................................................................... 25 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 
 Shield ............................................................................ 5 GC
 Buckler .......................................................................... 5 GC
@@ -151,9 +151,9 @@ Long Bow .................................................................... 15
 Crossbow ..................................................................... 25 GC
 Handgun ...................................................................... 35 GC
 Hunting Rifle ............................................................. 175 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 ##### Heroes
 
 1 Captain
@@ -165,8 +165,8 @@ the battlefield and seek to claim riches in the new world.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 2 8
-Weapons/Armor: The Captain can be armed with weapons
-and armor chosen from the Tilean Equipment list.
+Weapons/Armour: The Captain can be armed with weapons
+and armour chosen from the Tilean Equipment list.
 Skills: The Tilean Captain may choose from Combat,
 Shooting, Academic, Strength, and Speed, when he gains a
 new skill.
@@ -181,7 +181,7 @@ and are entrusted with ensuring the iron-hard discipline necessary
 to keep a warband together in a foreign land.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 4 1 7
-Weapons/Armor: Champions can be armed with weapons
+Weapons/Armour: Champions can be armed with weapons
 chosen from the Tilean Equipment list.
 Skills: The Miraglean & Trantios Champions may choose
 from Combat, Shooting, &, Speed, the Remasens Champions
@@ -194,8 +194,8 @@ These are young fighters who are still inexperienced but eager for
 the untold riches that Lustria has to offer.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
-Weapons/Armor: Youngbloods may be equipped with
-weapons and armor from the Tilean Equipment list.
+Weapons/Armour: Youngbloods may be equipped with
+weapons and armour from the Tilean Equipment list.
 Skills: The Miraglean & Trantios Youngbloods may choose
 from Combat, Shooting, & Strength, The Remasens
 Youngbloods may choose from Combat, Academic &
@@ -212,8 +212,8 @@ mercenary armies of the warring Dukes of the Tilean City States.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: Warriors can be armed with weapons
-and armor chosen from the Tilean Equipment list.
+Weapons/Armour: Warriors can be armed with weapons
+and armour chosen from the Tilean Equipment list.
 
 0-7 Marksmen
 25 Gold Crowns to hire
@@ -223,8 +223,8 @@ merciless world it pays well to be able to despatch your foe from a
 distance.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 4 1 7
-Weapons/Armor: Marksmen can be armed with weapons
-and armor chosen from the Marksmen Equipment list.
+Weapons/Armour: Marksmen can be armed with weapons
+and armour chosen from the Marksmen Equipment list.
 
 0-5 Duellists
 35 Gold Crowns to hire
@@ -235,8 +235,8 @@ remotest parts of the world selling their unique killing abilities to
 the mercenary companies.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 4 1 7
-Weapons/Armor: Duellists can be armed with weapons
-and armor chosen from the Tilean Equipment list.
+Weapons/Armour: Duellists can be armed with weapons
+and armour chosen from the Tilean Equipment list.
 Special Rules
 Cloak & Dagger: Duellists are adept at fighting using their
 billowing cloaks to swirl at an enemy distracting him and

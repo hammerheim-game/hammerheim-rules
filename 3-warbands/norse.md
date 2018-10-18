@@ -83,9 +83,9 @@ Double-handed weapon ............................................... 15 GC
 Flail ............................................................................. 15 GC
 Missile Weapons
 Throwing Axes (same as knives) ................................ 15 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 Henchmen Equipment List
 Hand-to-hand Combat Weapons
@@ -97,9 +97,9 @@ Spear ..........................................................................
 Double-handed weapon ............................................... 15 GC
 Missile Weapons
 Throwing Axes (same as knives) ................................ 15 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
-Light armor ................................................................ 20 GC
+Light armour ................................................................ 20 GC
 Shield ............................................................................ 5 GC
 
 Hunters Equipment List
@@ -113,7 +113,7 @@ Double-handed weapon ............................................... 15 GC
 Missile Weapons
 Javelins .......................................................................... 5 GC
 Bow ............................................................................. 10 GC
-Armor
+Armour
 Helmet ......................................................................... 10 GC
 Shield ............................................................................ 5 GC
 ##### Heroes
@@ -129,8 +129,8 @@ Warband, all of the other warriors respect him and look up to him.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 4 3 1 4 2 8
-Weapons/Armor: A Jarl can be armed with weapons and
-armor chosen from the Heroes Equipment list.
+Weapons/Armour: A Jarl can be armed with weapons and
+armour chosen from the Heroes Equipment list.
 Skills: The Jarl may choose from Combat, Strength & Speed
 when he gains a new skill. In addition, the Jarl may choose
 from the Norse Special Skill list.
@@ -147,9 +147,9 @@ battle without any regard for their own safety and are really quite
 demented.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 4 3 1 3 1 7
-Weapons/Armor: Berserkers can be armed with weapons
+Weapons/Armour: Berserkers can be armed with weapons
 chosen from the Heroes Equipment list but they may never
-wear armor.
+wear armour.
 Skills: The Berserker may choose from Combat & Strength
 when he gains a new skill. In addition, the Berserker may
 choose from the Norse Special Skill list.
@@ -165,13 +165,13 @@ full moon, or when blood starts flowing on the battlefield, the
 mysterious and deadly Wulfen turn into blood hungry beasts, part
 man part wolf or bear. These creatures are known and greatly
 feared as werewolves to most Old Worlders. These monstrous beasts
-tear through flesh and armor with ease with their huge claws and
+tear through flesh and armour with ease with their huge claws and
 massive fangs as they rampage through the melee.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 6 4 0 4 4 1 4 2 7
-Weapons/Armor: A Wulfen is a ravening beast of teeth
-and claws and may never use weapons or armor although
+Weapons/Armour: A Wulfen is a ravening beast of teeth
+and claws and may never use weapons or armour although
 suffers no penalty for being unarmed.
 Skills: The Wulfen may choose from Combat, Strength &
 Speed when he gains a new skill. In addition, the Wulfen may
@@ -190,8 +190,8 @@ These are young fighters who are still inexperienced and they are
 ‘bonded’ to the Jarl by the oath of servitude.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 2 3 3 1 2 1 6
-Weapons/Armor: Bondsmen may be equipped with
-weapons and armor from the Heroes Equipment list.
+Weapons/Armour: Bondsmen may be equipped with
+weapons and armour from the Heroes Equipment list.
 Skills: The Bondsmen may choose from Combat, Strength &
 Speed when he gains a new skill. In addition, the Bondsmen
 may choose from the Norse Special Skill list.
@@ -207,8 +207,8 @@ pirates and raiders.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 3 3 1 3 1 7
-Weapons/Armor: Marauders can be armed with weapons
-and armor chosen from the Henchmen Equipment list.
+Weapons/Armour: Marauders can be armed with weapons
+and armour chosen from the Henchmen Equipment list.
 
 0-5 Hunters
 25 Gold Crowns to hire
@@ -219,8 +219,8 @@ offer ranged attacks as well as additional hunting skills.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 3 3 3 3 1 3 1 7
-Weapons/Armor: Hunters can be armed with weapons and
-armor chosen from the Henchman Equipment list.
+Weapons/Armour: Hunters can be armed with weapons and
+armour chosen from the Henchman Equipment list.
 
 0-5 Wolves
 15 Gold Crowns to hire
@@ -231,7 +231,7 @@ hunters make use of these beasts when trained and they are
 formidable foes.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 3 3 1 3 1 5
-Weapons/Armor: Wolves don’t need and cannot use
+Weapons/Armour: Wolves don’t need and cannot use
 weapons.
 Special Rules
 Animals: Wolves are animals and thus do not gain

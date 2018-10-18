@@ -51,11 +51,11 @@ Halberd ........................................................................
 Two-handed Weapon .................................................. 15 GC
 Morning Star ............................................................... 15 GC
 Lance ........................................................................... 20 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
-Heavy Armor ............................................................. 50 GC
+Light Armour .............................................................. 20 GC
+Heavy Armour ............................................................. 50 GC
 Barding ........................................................................ 30 GC
 Mounts
 Nightmare ..................................................................... 95 GC
@@ -73,10 +73,10 @@ Missile Weapons
 Short Bow ..................................................................... 5 CG
 Bow ............................................................................. 10 CG
 Long Bow .................................................................... 15 GC
-Armor
+Armour
 Shield ............................................................................ 5 GC
 Helmet ......................................................................... 10 GC
-Light Armor .............................................................. 20 GC
+Light Armour .............................................................. 20 GC
 
 
 ##### Heroes
@@ -93,7 +93,7 @@ not much love for Magic and intrigues. They prefer using their
 combat abilities rather than using dark magic.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |6 4 4 4 4 2 5 2 9
-Weapons/Armor: Blood Dragon Knight may be equipped
+Weapons/Armour: Blood Dragon Knight may be equipped
 from the Blood Dragon equipment list
 Skills: The Blood Dragon Knight may choose from Combat,
 Academic, Strength, and Speed, when he gains a new skill. In
@@ -120,7 +120,7 @@ magic. In ages past, the men of the Old World buried their dead
 beneath mounds of earth and stone, together with their battle gear
 and worldly wealth. Although their bodies have decayed, Wights are
 held together by evil magic so strong that it can last for many
-centuries. They wear ancient armor of bronze and black iron,
+centuries. They wear ancient armour of bronze and black iron,
 corroded by time and dusty with the years. They carry iron weapons
 inlaid with evil runes, an accursed parody of once powerful magical
 blades. Some Vampires rule over entire regiments of Wights,
@@ -128,13 +128,13 @@ warriors who dared challenge them in life and now serve them in
 death.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 4 4 1 3 1 8
-Weapons/Armor: Wights may be equipped from the Blood
+Weapons/Armour: Wights may be equipped from the Blood
 Dragon equipment list
 Skills: The Wights may choose from Combat and Strength,
 when he gains a new skill.
 Special Rules
 Killing Blow: A natural rolled 6 on the to-hit roll wounds
-automatically, the strike might not be parried, but armor and
+automatically, the strike might not be parried, but armour and
 saving throws are allowed.
 Cause Fear: Wights are terrifying Undead creatures and
 therefore cause fear.
@@ -154,8 +154,8 @@ Vampires use them as servants and as they treat them very well, the
 Bondsmen are loyal to death to their undead master.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 2 1 5
-Weapons/Armor: Bondsmen may be armed with weapons
-and armor chosen from the Undead Warrior Equipment list.
+Weapons/Armour: Bondsmen may be armed with weapons
+and armour chosen from the Undead Warrior Equipment list.
 Skills: The Bondsmen may choose from Combat, Shooting,
 and Strength, when he gains a new skill.
 Special Rules
@@ -185,8 +185,8 @@ towards him?
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 2 1 5
-Weapons/Armor: Skeleton Warriors may be equipped with
-weapons and armor chosen from the Undead Warrior
+Weapons/Armour: Skeleton Warriors may be equipped with
+weapons and armour chosen from the Undead Warrior
 equipment list.
 Special Rules
 Fear: A skeleton causes Fear in his opponents
@@ -207,8 +207,8 @@ Skeletons never gain experience!
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 2 3 3 3 1 2 1 5
-Weapons/Armor: Skeleton Bowmen may be equipped with
-weapons and armor chosen from the Undead Warrior
+Weapons/Armour: Skeleton Bowmen may be equipped with
+weapons and armour chosen from the Undead Warrior
 equipment list.
 Special Rules
 Fear: A skeleton causes Fear in his opponents
@@ -233,8 +233,8 @@ which can be seen in the green fire which burns within their empty
 eye sockets.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 2 3 3 1 2 1 6
-Weapons/Armor: Grave Guard may be equipped with
-weapons and armor chosen from the Blood Dragon
+Weapons/Armour: Grave Guard may be equipped with
+weapons and armour chosen from the Blood Dragon
 equipment list.
 Special Rules
 Fear: A Grave Guard causes Fear in his opponents
@@ -245,7 +245,7 @@ of poison
 No Pain: In combat treat “Stunned” results as “Knocked
 Down”
 Slow: Grave Guards are very slow when walking in their
-rusty armors. They may not run, although they are allowed
+rusty armours. They may not run, although they are allowed
 to charge normally.
 No Brain: Grave Guards are nothing more than a pile of
 bones and rusty metal. They never can learn from mistakes
@@ -257,8 +257,8 @@ Hell Hounds are monstrous undead wardogs raised to undead life
 by the powers of the Vampire.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |8 4 0 4 3 1 2 1 5
-Weapons/Armor: Hell Hounds are animals and cannot use
-Weapons or Armor.
+Weapons/Armour: Hell Hounds are animals and cannot use
+Weapons or Armour.
 Special Rules
 Fear: A Hell Hound causes Fear in his opponents
 Immune to Psychology: Hell Hound is immune to all forms

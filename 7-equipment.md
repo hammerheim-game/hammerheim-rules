@@ -1,4 +1,4 @@
-﻿# Weapons & Armor
+﻿# Weapons & Armour
 
 <!-- MarkdownTOC -->
 
@@ -95,22 +95,22 @@
     - Modified Gunsight
     - Silver Bullets
     - Superior Blackpowder
-- Armor & Clothing
+- Armour & Clothing
     - Barding
     - Bracers
     - Buckler
     - Cathayan Silk Clothes
-    - Cold Metal Armor
-    - Dark Steel Armor
+    - Cold Metal Armour
+    - Dark Steel Armour
     - Elven Cloak
     - Forest Cloak
-    - Gromril Armor
-    - Heavy Armor
+    - Gromril Armour
+    - Heavy Armour
     - Helmet
-    - Ithilmar Armor
-    - Light Armor
+    - Ithilmar Armour
+    - Light Armour
     - Pavise
-    - Reinforced Plate Armor
+    - Reinforced Plate Armour
     - Sea Dragon Cloak
     - Shield
     - Toughened Leathers
@@ -294,23 +294,23 @@ Heavier Ammunition ........................... 20 GC .......... Rare 8
 Modified Gunsight ........................................... 15 GC .......... Rare 9
 Silver Bullets ................................................... 15 GC ........ Rare 10
 Superior Blackpowder ..................................... 30 GC ........ Rare 11
-Armor & Clothing
+Armour & Clothing
 Item Cost Availability
 Barding ............................................................ 30 GC ........ Rare 11
 Bracers ............................................................. 20 GC .......... Rare 8
 Buckler .............................................................. 5 GC ...... Common
 Cathayan Silk Clothes ............................. 50+2D6 GC .......... Rare 9
-Cold Metal Armor ......................................... 85 GC ........ Rare 10
-Dark Steel Armor ........................................... 95 GC ........ Rare 11
+Cold Metal Armour ......................................... 85 GC ........ Rare 10
+Dark Steel Armour ........................................... 95 GC ........ Rare 11
 Elven Cloak ...................................... 100+D6x10 GC ........ Rare 12
 Forest Cloak ..................................................... 50 GC ........ Rare 10
-Gromril Armor ............................................. 150 GC ........ Rare 11
-Heavy Armor ................................................. 50 GC ...... Common
+Gromril Armour ............................................. 150 GC ........ Rare 11
+Heavy Armour ................................................. 50 GC ...... Common
 Helmet ............................................................. 10 GC ...... Common
-Ithilmar Armor ............................................... 90 GC ........ Rare 11
-Light Armor ................................................... 20 GC ...... Common
+Ithilmar Armour ............................................... 90 GC ........ Rare 11
+Light Armour ................................................... 20 GC ...... Common
 Pavise ............................................................... 25 GC .......... Rare 8
-Reinforced Plate Armor ................................. 95 GC .......... Rare 9
+Reinforced Plate Armour ................................. 95 GC .......... Rare 9
 Sea Dragon Cloak ................................... 50+2D6 GC ........ Rare 10
 Shield ................................................................. 5 GC ...... Common
 Toughened Leathers........................................... 5 GC ...... Common
@@ -418,13 +418,13 @@ Wolf ........................................................ 30+2D6 GC ........
 
 \page
 
-Life and death in Mordheim is decided by the quantity and quality of the weapons a warrior carries. This section describes the different weapons and other equipment such as armor and shields.
+Life and death in Mordheim is decided by the quantity and quality of the weapons a warrior carries. This section describes the different weapons and other equipment such as armour and shields.
 
 ## Close Combat Weapons
 
 ### Axe
 
-The axe is the traditional weapon of Empire woodsmen, and is also used as a weapon in poorer rural areas. Axes have a heavy blade and, if swung by a strong man, can cause a lot of damage. The blade of an axe can easily cut through armor, though it requires considerable strength from the wielder. Of all the warriors in the Old World, Dwarfs are the most adept at making axes. Their axes are invaluable to the warriors of the Old World and are some of the most sought after weapons. 
+The axe is the traditional weapon of Empire woodsmen, and is also used as a weapon in poorer rural areas. Axes have a heavy blade and, if swung by a strong man, can cause a lot of damage. The blade of an axe can easily cut through armour, though it requires considerable strength from the wielder. Of all the warriors in the Old World, Dwarfs are the most adept at making axes. Their axes are invaluable to the warriors of the Old World and are some of the most sought after weapons. 
 
 
 __Range:__ Close Combat
@@ -456,9 +456,9 @@ __Special Rules:__ Two Handed, Incredible Force, Cumbersome, Unwieldy, Random,
 _Two Handed:__ A model armed with a Ball and Chain may
 not use a shield, buckler or additional weapon in close
 combat. If the model is equipped with a shield he will still get
-a +1 bonus to his armor save against shooting.
+a +1 bonus to his armour save against shooting.
 
-__Incredible Force:__ Because the Ball and Chain is so heavy, normal armor does very little to protect against it. No armor saves are allowed against wounds caused by a Ball and Chain. In addition, any hit from a Ball and Chain is very likely to take off someone’s head (or at least break some ribs!). Therefore, any hit that successfully wounds will do 1D3 wounds instead of 1. 
+__Incredible Force:__ Because the Ball and Chain is so heavy, normal armour does very little to protect against it. No armour saves are allowed against wounds caused by a Ball and Chain. In addition, any hit from a Ball and Chain is very likely to take off someone’s head (or at least break some ribs!). Therefore, any hit that successfully wounds will do 1D3 wounds instead of 1. 
 
 __Cumbersome:__ Because the Ball and Chain is so heavy, a model equipped with one may carry no other weapons or equipment. In addition, only a model under the influence of Mad Cap Mushrooms has the strength to wield a ball and chain. 
 
@@ -555,7 +555,7 @@ __Strength:__ As user +
 
 __Special Rules:__ Two-handed, Fire,
 
-__Two-handed:__ As a brazier requires two hands to use, a model using a brazier may not use a shield, buckler or additional weapon in close combat. If the model has a shield, they still gets a +1 bonus to his armor save against shooting.
+__Two-handed:__ As a brazier requires two hands to use, a model using a brazier may not use a shield, buckler or additional weapon in close combat. If the model has a shield, they still gets a +1 bonus to his armour save against shooting.
 
 __Fire:__ Whenever you score a successful hit with the brazier staff roll a D6. If you roll a 5+ the victim is set on fire. If the warrior survives the attack they must score a 4+ in the Recovery phase or suffer a Strength 4 hit each turn they are on fire and will be unable to do anything other than move. Other warriors from the same warband may help to put the flames out if they wish. They must move into base-to-base contact and score a 4+in the Recovery phase.
 
@@ -583,7 +583,7 @@ becomes a difficult target to shoot at, and models targeting him with missile we
 
 ### Claw of the Old Ones
 
-This is a very ancient weapon made from a strange metal that is impervious to age and corrosion. The powers of this artefact can only be unleashed through a ritual known only to a handful of Amazons. The blade of this weapon glows white hot and can cut through armor as if it were paper. 
+This is a very ancient weapon made from a strange metal that is impervious to age and corrosion. The powers of this artefact can only be unleashed through a ritual known only to a handful of Amazons. The blade of this weapon glows white hot and can cut through armour as if it were paper. 
 
 __Range:__ Close Combat
 
@@ -591,7 +591,7 @@ __Strength:__ As User +
 
 __Special Rules:__ No Save, Parry
 
-__No Save:__ The blade of the Claw can literally cut through anything. A warrior wounded by a Claw receives no armor save whatsoever.
+__No Save:__ The blade of the Claw can literally cut through anything. A warrior wounded by a Claw receives no armour save whatsoever.
 
 __Parry:__ User may parry as per normal rules.
 
@@ -603,9 +603,9 @@ __Range:__ Close Combat
 
 __Strength:__ As user
 
-__Special Rules:__ +1 Enemy Armor Save
+__Special Rules:__ +1 Enemy Armour Save
 
-__+1 Enemy Armor Save:__ Daggers are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a dagger gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
+__+1 Enemy Armour Save:__ Daggers are not the best weapons to use for penetrating an enemy model’s armour. An enemy wounded by a dagger gains a +1 bonus to his armour save, and a 6+ armour save if he has none normally.
 
 \page
 
@@ -622,13 +622,13 @@ __Range:__ Close Combat
 
 __Strength:__ -
 
-__Special Rules:__ +1 Enemy Armor Save
+__Special Rules:__ +1 Enemy Armour Save
 
 
-+1 Enemy Armor Save: Daggers are not the best weapons
-to use for penetrating an enemy model’s armor. An enemy
-wounded by a dagger gains a +1 bonus to his armor save,
-and a 6+ armor save if he has none normally.
++1 Enemy Armour Save: Daggers are not the best weapons
+to use for penetrating an enemy model’s armour. An enemy
+wounded by a dagger gains a +1 bonus to his armour save,
+and a 6+ armour save if he has none normally.
 Infecting: a natural 6 on an hit roll means that the model hit
 has been infected with the disease and that he must take a
 Toughness test. Roll a D6. If the result is higher than the
@@ -643,7 +643,7 @@ on the hit rolls are higher.
 ### Double-Handed Weapon
 
 A blow from a double-handed axe or sword can cut a foe in half and
-break armor apart. It takes a long time to learn how to use these
+break armour apart. It takes a long time to learn how to use these
 weapons and even then only extremely strong men are able to wield
 them effectively.
 
@@ -657,7 +657,7 @@ __Special Rules:__ Two-handed, Strike Last,
 Two-handed: A model armed with a double-handed weapon
 may not use a shield, buckler or additional weapon in close
 combat. If the model is equipped with a shield he will still get
-a +1 bonus to his armor save against shooting.
+a +1 bonus to his armour save against shooting.
 Strike Last: Double-handed weapons are so heavy that the
 model using them always strikes last, even when charging.
 ### Dwarf Axe
@@ -737,11 +737,11 @@ __Range:__ Close Combat
 
 __Strength:__ As user -
 
-__Special Rules:__ +1 Enemy Armor Save
+__Special Rules:__ +1 Enemy Armour Save
 
 
-+1 Enemy Armor Save: An enemy wounded by a fist gains
-a +1 bonus to his armor save, and a 6+ armor save if he
++1 Enemy Armour Save: An enemy wounded by a fist gains
+a +1 bonus to his armour save, and a 6+ armour save if he
 normally has none.
 
 ### Flail
@@ -765,7 +765,7 @@ hand combat.
 Two-handed: As a flail requires two hands to use, a model
 using a flail may not use a shield, buckler or additional
 weapon in close combat. If the model has a shield he still gets
-a +1 bonus to his armor save against shooting.
+a +1 bonus to his armour save against shooting.
 
 ### Halberd
 
@@ -783,7 +783,7 @@ __Special Rules:__ Two-handed
 
 Two-handed: A model armed with a halberd may not use a
 shield, buckler or additional weapon in close combat. If the
-model has a shield he still gets a +1 bonus to his armor save
+model has a shield he still gets a +1 bonus to his armour save
 against shooting.
 ### Hammer, staff, mace or club
 
@@ -820,7 +820,7 @@ __Special Rules:__ Two-handed, Cavalry Charge
 Two-handed: A model armed with a horseman’s hammer
 may not use a shield, buckler, or additional weapon in close
 combat. If the model is equipped with a shield he will still get
-a +1 bonus to his Armor save against shooting.
+a +1 bonus to his Armour save against shooting.
 Cavalry Charge: A model armed with a horseman’s hammer
 may use the speed of his charge to increase the might of his
 attacks. A model on a steed with a horseman’s hammer gains
@@ -836,18 +836,18 @@ __Range:__ Close Combat
 
 __Strength:__ As user
 
-__Special Rules:__ -1 Enemy Armor Save
+__Special Rules:__ -1 Enemy Armour Save
 
 
--1 Enemy Armor Save: The Katar is a better weapon to use
-for penetrating an enemy model’s armor. An enemy
-wounded by a Katar gains a -1 bonus to his armor save.
+-1 Enemy Armour Save: The Katar is a better weapon to use
+for penetrating an enemy model’s armour. An enemy
+wounded by a Katar gains a -1 bonus to his armour save.
 
 
 ### Lance
 
 Lances are long, heavy spears used by mounted shock troops to rip
-through armor and fling their foes to the ground. They are the
+through armour and fling their foes to the ground. They are the
 chosen weapons of Knights Templar and other wealthy warriors. To
 use a lance requires great skill and strength, and only the richest
 warriors ride the heavy warhorses needed to wield these mighty
@@ -954,9 +954,9 @@ __Range:__ Close Combat
 __Strength:__ As User
 
 __Special Rules:__ Animal Scourge, Cannot Be Parried,
-Whipcrack, +1 Enemy Armor Save
+Whipcrack, +1 Enemy Armour Save
 
-__+1 Enemy Armor Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a whip gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
+__+1 Enemy Armour Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armour. An enemy wounded by a whip gains a +1 bonus to his armour save, and a 6+ armour save if he has none normally.
 Animal Scourge: The Pack Masters of Clan Moulder learn
 to use these whips for the purpose of training animals. The
 beasts of Clan Moulder learn that these whips are to be feared
@@ -995,7 +995,7 @@ __Range:__ Close combat
 
 __Strength:__ As user
 
-__Special Rules:__ Parry, Barrage, Armor Save,
+__Special Rules:__ Parry, Barrage, Armour Save,
 
 
 Parry: Like all swords, you may use a rapier to parry in hand
@@ -1010,9 +1010,9 @@ to needing a 6 to hit). You may continue attacking as long as
 you hit and it is possible to strike your opponent many times,
 particularly if your warrior has more then one attack on his
 profile.
-Armor Save: Because a rapier is a very light sword that
-lacks the thick armor breaking blade of the broadsword,
-armor saves are made at +1
+Armour Save: Because a rapier is a very light sword that
+lacks the thick armour breaking blade of the broadsword,
+armour saves are made at +1
 
 ### Saerath
 
@@ -1060,7 +1060,7 @@ normal though.
 Two-handed: A model armed with a scythe may not use a
 shield, buckler, or additional weapon in close combat. If the
 model is equipped with a shield he will still get a +1 bonus to
-his Armor save against shooting.
+his Armour save against shooting.
 
 ### Serpent Whip
 
@@ -1073,9 +1073,9 @@ __Range:__ Close Combat
 __Strength:__ As User
 
 __Special Rules:__ Cannot Be Parried, Whipcrack, +1 Enemy
-Armor Save, Poisoned, +1 Enemy Armour Save
+Armour Save, Poisoned, +1 Enemy Armour Save
 
-__+1 Enemy Armor Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a whip gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
+__+1 Enemy Armour Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armour. An enemy wounded by a whip gains a +1 bonus to his armour save, and a 6+ armour save if he has none normally.
 Cannot Be Parried: The whip is a flexible weapon and the
 warrior use it with great expertise. Attempts to parry its
 strikes are futile. A model attacked by a whip may not make
@@ -1089,8 +1089,8 @@ or more opponents they will still only receive a total of +1A.
 If the wielder is using two whips at the same time then they
 get +1A for the additional hand weapon, but only the first
 whip gets the whipcrack +1A.
-+1 Enemy Armor Save: An enemy wounded by a whip
-gains a +1 bonus to his armor save, and a 6+ armor save if
++1 Enemy Armour Save: An enemy wounded by a whip
+gains a +1 bonus to his armour save, and a 6+ armour save if
 he normally has none.
 Poisoned: The Serpent Whip is treated as being coated with
 black lotus.
@@ -1196,13 +1196,13 @@ __Range:__ Close Combat
 
 __Strength:__ As user
 
-__Special Rules:__ +1 Enemy Armor Save, Parry
+__Special Rules:__ +1 Enemy Armour Save, Parry
 
 
-+1 Enemy Armor Save: Star-blades are not the best
-weapons to use for penetrating an enemy model’s armor. An
++1 Enemy Armour Save: Star-blades are not the best
+weapons to use for penetrating an enemy model’s armour. An
 enemy wounded by a Star-blade gains a +1 bonus to his
-armor save, and a 6+ armor save if he has none normally.
+armour save, and a 6+ armour save if he has none normally.
 Parry: Star-blade offers an excellent balance of defence and
 offence. A model armed with a Star-blade may parry the first
 successful blow of any combat on a 4+. The model has
@@ -1213,7 +1213,7 @@ not parry attacks made with double or more its own Strength
 
 ### Star-Sword
 
-This is an ancient and legendary sword that can cut through armor
+This is an ancient and legendary sword that can cut through armour
 as if it were a leaf.
 
 __Range:__ Close Combat
@@ -1224,7 +1224,7 @@ __Special Rules:__ No Save, Parry
 
 
 No Save: The great power of the Star-sword ignores all
-armor saves except for ward and Dodge saves.
+armour saves except for ward and Dodge saves.
 Parry: Star-sword offers an excellent balance of defence and
 offence. A model armed with a Star-sword may parry blows.
 When his opponent rolls to hit, the model armed with a sword
@@ -1248,7 +1248,7 @@ __Strength:__ As User
 __Special Rules:__ Cannot Be Parried, Whipcrack, +1 Enemy
 Armour Save
 
-__+1 Enemy Armor Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armor. An enemy wounded by a whip gains a +1 bonus to his armor save, and a 6+ armor save if he has none normally.
+__+1 Enemy Armour Save:__ Whips are not the best weapons to use for penetrating an enemy model’s armour. An enemy wounded by a whip gains a +1 bonus to his armour save, and a 6+ armour save if he has none normally.
 Cannot Be Parried: The steel whip is a flexible weapon and
 the Priestesses use it with great expertise. Attempts to parry
 its strikes are futile. A model attacked by a steel whip may
@@ -1349,7 +1349,7 @@ parrying.
 __Range:__ Close Combat
 
 __Special Rules:__ Cannot Be Parried, Whipcrack, +1 Enemy
-Armor Save
+Armour Save
 
 
 Cannot Be Parried: The whip is a flexible weapon and the
@@ -1365,8 +1365,8 @@ or more opponents they will still only receive a total of +1A.
 If the wielder is using two whips at the same time then they
 get +1A for the additional hand weapon, but only the first
 whip gets the whipcrack +1A.
-+1 Enemy Armor Save: An enemy wounded by a whip
-gains a +1 bonus to his armor save, and a 6+ armor save if
++1 Enemy Armour Save: An enemy wounded by a whip
+gains a +1 bonus to his armour save, and a 6+ armour save if
 he normally has none.
 ## Close Combat Upgrades
 
@@ -1411,7 +1411,7 @@ serious damage on an opponent.
 The Weapons commonly made of Dark Steel are swords,
 daggers or other bladed weapons. These weapons upgraded to
 Dark Steel retain all of their abilities (i.e. swords can parry,
-daggers grant an armor save of 6) also costs three times the
+daggers grant an armour save of 6) also costs three times the
 price of a normal weapon of its kind.
 Critical Damage: Dark blades inflict serious damage on
 their opponents, when rolling on the critical hit chart a Dark
@@ -1472,10 +1472,10 @@ Poison: The needles fired by a blowpipe are coated in a
 venom very similar in its effects to the Black Lotus (if you
 roll a 6 on the To Hit roll, the victim is automatically
 wounded). A blowpipe cannot cause critical hits. This
-weapon has a positive armor save modifier, so a model that
+weapon has a positive armour save modifier, so a model that
 normally has a save of 5+ will get a save of 4+ against a
 blowpipe dart. Even models that normally do not have an
-armor save will get a 6+ save to take into account protection
+armour save will get a 6+ save to take into account protection
 offered by clothes, fur or the like.
 Stealthy: A Skaven armed with a blowpipe can fire while
 hidden without revealing his position to the enemy. The
@@ -1543,8 +1543,8 @@ move it. A single crewmember can move the Bolt Thrower at
 haft his movement, two crewmembers can move it at their
 full movement.
 Save Modifier: Bolt Thrower is even better at penetrating
-armor than their Strength 5 suggests. A warrior wounded by
-a Bolt Thrower must make his armor save with a -2
+armour than their Strength 5 suggests. A warrior wounded by
+a Bolt Thrower must make his armour save with a -2
 modifier.
 
 ### Bow
@@ -1587,7 +1587,7 @@ A crossbow consists of a short, strong bow-stave mounted on a
 wooden or steel stock. The crossbows of the Empire are made of
 steel and often include a winding mechanism to draw back the
 string. It takes a long time to prepare a crossbow, but a bolt fired
-from one has a tremendous range and can penetrate armor easily.
+from one has a tremendous range and can penetrate armour easily.
 Crossbows take much longer than other bows to make, so they are
 expensive and relatively rare weapons. Still, they are the preferred
 weapon of many in Mordheim because of their power and long
@@ -1620,7 +1620,7 @@ __Special Rules:__ -1 Save Modifier
 
 
 -1 Save Modifier: An Elf bow has a -1 save modifier on
-armor saves against it.
+armour saves against it.
 ### Javelins
 
 Javelins are short throwing spears specially weighted to travel quite
@@ -1655,7 +1655,7 @@ __Special Rules:__ None
 
 Poisoned wind globes are fragile spheres of a caustic hellish liquid
 warpstone. When the globe is thrown and the gas is released and it
-dissolves through flesh and armor with equal ease.
+dissolves through flesh and armour with equal ease.
 
 _[Skaven, Clan Skryre Only]_
 
@@ -1669,7 +1669,7 @@ Special: Place the Small Blast template within 8” and roll to
 hit using the Ballistic Skill. If a hit is rolled, then roll a D6 for
 each model under the template. On a roll of 4+, the target
 takes a single wound, immediately, with no Strength or
-Toughness roll or armor save possible. If the globe misses
+Toughness roll or armour save possible. If the globe misses
 its intended target, roll a D3 and a scatter die.
 Thrown Weapon: Poison Wind Globes are thrown weapons
 and the warrior suffers no penalties for moving and shooting.
@@ -1707,8 +1707,8 @@ crew to move it. A single crewmember can move the
 Repeater Bolt Thrower at haft his movement, two
 crewmembers can move it at their full movement.
 Save Modifier: Repeater Bolt Thrower are even better at
-penetrating armor than their Strength 5 suggests. A warrior
-wounded by a Repeater Bolt Thrower must make his armor
+penetrating armour than their Strength 5 suggests. A warrior
+wounded by a Repeater Bolt Thrower must make his armour
 save with a -2 modifier.
 
 ### Repeater Crossbow
@@ -1787,7 +1787,7 @@ Accurate: The Sunstaff does not suffer the usual -1 modifier
 to hit for long range.
 No Save: The beam from a Sunstaff can literally cut through
 anything. A warrior wounded by a Sunstaff receives no
-armor save whatsoever.
+armour save whatsoever.
 
 
 
@@ -1811,10 +1811,10 @@ Accurate: The Sun Gauntlet does not suffer the usual -1
 modifier to hit for long range.
 No Save: he beam from a Sun Gauntlet can literally cut
 through anything. A warrior wounded by a Sun Gauntlet
-receives no armor save whatsoever.
+receives no armour save whatsoever.
 Hand-to-Hand: The Sun Gauntlet can be used with another
 close combat weapon in hand to hand combat with Strength 4
-and no armor save. Because it does not require prepared
+and no armour save. Because it does not require prepared
 shot, this bonus attack may be used in each turn of combat.
 
 ### Throwing Stars/Knives
@@ -1909,7 +1909,7 @@ for Rarity as normal.
 ## Blackpowder Weapons
 
 Blackpowder weapons are only a very recent invention in the Warhammer world. They are often unreliable and
-temperamental but they do hit exceedingly hard and armor offers almost no protection, as their lead bullets can penetrate
+temperamental but they do hit exceedingly hard and armour offers almost no protection, as their lead bullets can penetrate
 even the strongest breastplate or shield.
 Most blackpowder weapons are bought from Dwarfs at great expense, though some of the forges of Nuln and Altdorf have
 started to experiment with making handguns.
@@ -1963,8 +1963,8 @@ Prepare Shot: A duelling pistol takes a complete turn to
 reload, so your model may only fire every other turn. If he
 has a brace of duelling pistols he may fire every turn.
 Save Modifier: Duelling pistols are even better at
-penetrating armor than their Strength 4 suggests. A warrior
-wounded by a duelling pistol must make his armor save
+penetrating armour than their Strength 4 suggests. A warrior
+wounded by a duelling pistol must make his armour save
 with a -2 modifier.
 Hand-to-Hand: Duelling pistols can be used in hand-to-hand
 combat as well as for shooting. A model armed with a
@@ -2008,8 +2008,8 @@ face your target or stand up from knocked down.
 Prepare Shot: The Hand-Held Mortar must be reloaded after
 firing, so may only be fired every other turn.
 Save Modifier: Hand-Held Mortar are even better at
-penetrating armor than their Strength value of 4 suggests. A
-model wounded by a Hand-Held Mortar must take its armor
+penetrating armour than their Strength value of 4 suggests. A
+model wounded by a Hand-Held Mortar must take its armour
 save with a -2 modifier.
 Scatter: If the warrior misses his roll to hit, the shot will land
 2D6” in a random direction (determined using a Warhammer
@@ -2027,7 +2027,7 @@ the firing mechanism and fire the gun. Handguns are not terribly
 reliable weapons: the gun barrel occasionally tends to explode
 violently or the powder fails to ignite. But the weapon has a great
 range and tremendous penetrating power, making a mockery of even
-the thickest armor. In Mordheim, handguns are rare and
+the thickest armour. In Mordheim, handguns are rare and
 expensive, but a warband which can boast such a weapon will
 command respect from all its rivals.
 
@@ -2044,8 +2044,8 @@ Move or Fire: You may not move and fire a handgun in the
 same turn, other than to pivot on the spot to face your target
 or stand up.
 Save Modifier: Handguns are even better at penetrating
-armor than their Strength 4 suggests. A warrior wounded by
-a handgun must take its armor save with a -2 modifier.
+armour than their Strength 4 suggests. A warrior wounded by
+a handgun must take its armour save with a -2 modifier.
 
 ### Hochland Long Hunting Rifle
 
@@ -2070,8 +2070,8 @@ to reload, so you may only fire it every other turn.
 Pick Target: A model armed with a Hochland long rifle can
 target any enemy model in sight, not just the closest one.
 Save Modifier: Hochland long rifles are even better at
-penetrating armor than their Strength 4 suggests. A warrior
-wounded by a long rifle must make his armor save with a -2
+penetrating armour than their Strength 4 suggests. A warrior
+wounded by a long rifle must make his armour save with a -2
 modifier.
 
 ### Jezzail Rifle
@@ -2103,15 +2103,15 @@ the same turn, other than to pivot on the spot to face your
 target or stand up from knocked down.
 Multiple Impacts: the Jezzail Rifle fires a warpstone pellet
 at an extremely high velocity. The pellet can penetrate
-armor and flesh with ease. So any target hit cause by the
+armour and flesh with ease. So any target hit cause by the
 Jezzail Rifle causes d3 wounds.
 Prepare Shot: A Jezzail Rifle takes a complete turn to
 reload, so you may only fire it every other turn.
 Pick Target: A model armed with a Jezzail Rifle can target
 any enemy model in sight, not just the closest one.
 Save Modifier: Jezzail Rifles are even better at penetrating
-armor than their Strength 5 suggests. A warrior wounded by
-a Jezzail Rifle must make his armor save with a -1 modifier.
+armour than their Strength 5 suggests. A warrior wounded by
+a Jezzail Rifle must make his armour save with a -1 modifier.
 (Rare 9 for any Clan Skryre Skavens)
 ### Nuln Shotgun
 
@@ -2126,11 +2126,11 @@ __Range:__ 8"
 
 __Strength:__ 4
 
-__Special Rules:__ Armor Piercing, Blast, Prepare Shot
+__Special Rules:__ Armour Piercing, Blast, Prepare Shot
 
 
-Armor Piercing: Being a black powder weapon, the Nuln
-Shotgun benefits from an additional -1 to the enemy’s armor
+Armour Piercing: Being a black powder weapon, the Nuln
+Shotgun benefits from an additional -1 to the enemy’s armour
 save.
 Blast: The large spread of shot from the barrel makes it very
 easy to hit nearby targets, but the blast quickly disperses. The
@@ -2157,9 +2157,9 @@ __Special Rules:__ Prepare Shot, Save Modifier, Hand-to-Hand
 Prepare Shot: A pistol takes a whole turn to reload, so you
 may only fire every other turn. If you have a brace of pistols
 (i.e., two) you may fire every turn.
-Save Modifier: Pistols are even better at penetrating armor
+Save Modifier: Pistols are even better at penetrating armour
 than their Strength value of 4 suggests. A model wounded by
-a pistol must take its armor save with a -2 modifier.
+a pistol must take its armour save with a -2 modifier.
 Hand-to-Hand: Pistols can be used in hand-to-hand combat
 as well as for shooting. A model armed with a pistol and
 another close combat weapon gains +1 Attack, which is
@@ -2205,8 +2205,8 @@ Move or Fire: You may not move and fire a Repeater
 Handgun in the same turn, other than to pivot on the spot to
 face your target or stand up from knocked down.
 Save Modifier: Repeater Handguns are even better at
-penetrating armor than their Strength value of 4 suggests. A
-model wounded by a Repeater Handgun must take its armor
+penetrating armour than their Strength value of 4 suggests. A
+model wounded by a Repeater Handgun must take its armour
 save with a -2 modifier.
 Slow Reload: To reload a Repeater Handgun takes a long
 time and a bit of focus. The warrior must do nothing (no
@@ -2218,7 +2218,7 @@ complete turn in order to reload the weapon.
 It wasn't long after the invention of the repeater handgun that the
 same principle was being used on pistols. Still prone to misfiring or
 other malfunction, they have found a place in gunnery bands
-armories. Stories of calm instructors gunning down hordes of foes
+armouries. Stories of calm instructors gunning down hordes of foes
 within feet of themselves are legendary and in all likelihood untrue.
 But it just could happen....
 
@@ -2258,8 +2258,8 @@ a single turn the model must spend a complete shooting phase
 without shooting and without being in combat, before firing
 multiple shots (see Fire Thrice, above) may be taken again.
 Save Modifier: Repeater Pistols are even better at
-penetrating armor than their Strength value of 4 suggests. A
-model wounded by a Repeater Pistol must take its armor
+penetrating armour than their Strength value of 4 suggests. A
+model wounded by a Repeater Pistol must take its armour
 save with a -2 modifier.
 ### Rifle
 
@@ -2275,9 +2275,9 @@ same turn, other than to pivot on the spot to face your target
 or stand up from knocked down.
 Prepare Shot: A rifle takes a whole turn to reload, so you
 may only fire every other turn.
-Save Modifier: Rifles are even better at penetrating armor
+Save Modifier: Rifles are even better at penetrating armour
 than their Strength value of 4 suggests. A model wounded by
-a rifle must take its armor save with a -2 modifier.
+a rifle must take its armour save with a -2 modifier.
 
 
 
@@ -2313,8 +2313,8 @@ move it. A single crewmember can move the Small Cannon
 at haft his movement, two crewmembers can move it at their
 full movement.
 Save Modifier: Small Cannon are even better at penetrating
-armor than their Strength 5 suggests. A warrior wounded by
-a Small Cannon must make his armor save with a -3
+armour than their Strength 5 suggests. A warrior wounded by
+a Small Cannon must make his armour save with a -3
 modifier.
 
 _[Thanks to Josh Alexander for the idea].
@@ -2357,8 +2357,8 @@ face your target or stand up from knocked down.
 Pick Target: A model armed with a Warpfire Thrower can
 target any enemy model in sight, not just the closest one.
 Save Modifier: Warpfire Thrower are even better at
-penetrating armor than their Strength 5 suggests. A warrior
-wounded by a Warpfire Thrower must make his armor save
+penetrating armour than their Strength 5 suggests. A warrior
+wounded by a Warpfire Thrower must make his armour save
 with a -2 modifier.
 Special Attack: The Warpfire Thrower dose not fire like
 other weapons been a volatile mixture of warpstone dust, oil,
@@ -2486,22 +2486,22 @@ superior blackpowder to last for one game. May not be applied
 to War Machines.
 
 
-## Armor & Clothing
+## Armour & Clothing
 
-When fighting in close combat, a good suit of armor may mean the difference between life and death. The finest armor
+When fighting in close combat, a good suit of armour may mean the difference between life and death. The finest armour
 in the known world is made in Dwarf forges, where the secrets of steel and fire are well understood. Hardened leather
 jackets are often worn by the hunters of Osterland, while city soldiers prefer mail coats and steel breastplates. The forges of
-the Empire have many skilled smiths capable of forging fine armor, for the humans learned this craft from Dwarf master
+the Empire have many skilled smiths capable of forging fine armour, for the humans learned this craft from Dwarf master
 smiths in the early days of the Empire.
-In Mordheim, only the most wealthy and powerful are able to afford the luxury of owning a suit of armor (the less well-off
+In Mordheim, only the most wealthy and powerful are able to afford the luxury of owning a suit of armour (the less well-off
 have to make do with leather tunics and occasionally helmets and wooden shields). The richest leaders of the most
-successful warbands wear suits of high quality armor and a good suit of armor is just as much a symbol of wealth and
+successful warbands wear suits of high quality armour and a good suit of armour is just as much a symbol of wealth and
 power as it is protection against weapons.
 
 ### Barding
 
-Barding is armor for a horse in the same way that light and heavy
-armor is for a human. It covers the mount’s hide and in some cases
+Barding is armour for a horse in the same way that light and heavy
+armour is for a human. It covers the mount’s hide and in some cases
 the head.
 
 _[Warhorses Only]_
@@ -2509,7 +2509,7 @@ _[Warhorses Only]_
 
 
 A model mounted on barded horse receives an additional +1
-Armor save (+2 instead of +1 for being mounted). In
+Armour save (+2 instead of +1 for being mounted). In
 addition, a mount wearing barding will only be killed on a D6
 roll of a 1 if the model is taken out of action.
 
@@ -2552,7 +2552,7 @@ may re-roll the first failed Rout test. However, after each
 battle in which the leader is taken out of action, roll a D6. On
 a roll of 1-3 the clothes are ruined and must be discarded.
 
-### Cold Metal Armor
+### Cold Metal Armour
 
 Wood Elves do not use forges; they have a special smithing style
 known by outsides as “Cold Forging”. Cold Forging is a mix of
@@ -2561,22 +2561,22 @@ Elves. The Metal which comes from this Cold Forging technique is
 call Cold Metal.
 
 
-Save: Cold Metal Armor gives the wearer a 5+ basic save,
+Save: Cold Metal Armour gives the wearer a 5+ basic save,
 and does not slow him down if he is also armed with a shield.
-The Cold Metal Armor is so light and strong that other
-armor giving the wear has more movement. Cold Metal
-Armor gives the wear a -1 to hit in Close Combat.
-### Dark Steel Armor
+The Cold Metal Armour is so light and strong that other
+armour giving the wear has more movement. Cold Metal
+Armour gives the wear a -1 to hit in Close Combat.
+### Dark Steel Armour
 
-Dark Steel armor like Dark Steel Weapons are forged in the city of
+Dark Steel armour like Dark Steel Weapons are forged in the city of
 Hag Graef, the Dark Crag. They are fashioned from Black steel, a
 rare form of steel found deep within the mountains around the city.
 
 
-Save: Dark Steel armor gives the wearer a 5+ basic save,
+Save: Dark Steel armour gives the wearer a 5+ basic save,
 and does not slow him down if he is also armed with a shield.
-The Dark Steel Armor is stronger that other armor, Dark
-Steel Armor gives the wear a -1 to wound in Close Combat.
+The Dark Steel Armour is stronger that other armour, Dark
+Steel Armour gives the wear a -1 to wound in Close Combat.
 ### Elven Cloak
 
 Made from the hair of Elven maidens and interwoven with living
@@ -2616,32 +2616,32 @@ purchase this item during the Trading and Exploration stages
 of the game, then you would have to roll for Rarity as
 normal.
 
-### Gromril Armor
+### Gromril Armour
 
 Gromril is the rarest and strongest metal known of in the Old
 World. Only a very few Dwarf smiths know the secret of forging
-Gromril, and a suit of armor made from it fetches a huge price.
+Gromril, and a suit of armour made from it fetches a huge price.
 
 
-Save: Gromril armor gives the wearer a 4+ basic save, and
+Save: Gromril armour gives the wearer a 4+ basic save, and
 does not slow him down if he is also armed with a shield.
 
-### Heavy Armor
+### Heavy Armour
 
-Typical heavy armor is made from metal links and is called chain
+Typical heavy armour is made from metal links and is called chain
 mail. Forging chain mail is a laborious and time consuming
 process, as the blacksmith must put together hundreds, sometimes
 thousands, of metal links. This makes chain mail expensive, but this
-type of armor provides excellent protection for anyone who can
+type of armour provides excellent protection for anyone who can
 afford it.
-There are other types of heavy armor as well, of which the best
+There are other types of heavy armour as well, of which the best
 known are the steel breastplates and greaves worn by the foot
 knights of the Templar orders.
 
 
-Save: A warrior that is wearing heavy armor has a basic D6
+Save: A warrior that is wearing heavy armour has a basic D6
 saving throw of 5+.
-Movement: A warrior that is armed with both heavy armor
+Movement: A warrior that is armed with both heavy armour
 and a shield suffers a -1 Movement penalty.
 
 ### Helmet
@@ -2660,25 +2660,25 @@ special 4+ save on a D6 against being stunned. If the save is
 made, treat the stunned result as knocked down instead. This
 save is not modified by the opponent’s Strength.
 
-### Ithilmar Armor
+### Ithilmar Armour
 
 Ithilmar is a silvery metal which is as light as silk and stronger than
-steel. Elves are experts at fashioning weapons and armor from
+steel. Elves are experts at fashioning weapons and armour from
 Ithilmar, and the Elven kingdom of Caledor is the only place in the
 world where this metal can be found.
 
 
-Save: Ithilmar armor gives the wearer a 5+ basic save, and
+Save: Ithilmar armour gives the wearer a 5+ basic save, and
 does not slow him down if he is also armed with a shield.
-### Light Armor
+### Light Armour
 
-Light armor encompasses a wide variety of materials from
+Light armour encompasses a wide variety of materials from
 hardened leather tunics to chain shirts forged from steel. It does not
 offer complete protection against arrows or swords, but it is better
-than having nothing at all. Light armor does not inhibit movement.
+than having nothing at all. Light armour does not inhibit movement.
 
 
-Save: A warrior who is wearing light armor has a basic D6
+Save: A warrior who is wearing light armour has a basic D6
 saving throw of 6.
 ### Pavise
 
@@ -2690,27 +2690,27 @@ protracted combat but excellent against shooting.
 
 Cover/Save: A warrior using a pavise counts as if he is in
 cover against missile attacks (-1 to hit). In close combat, the
-pavise counts as a shield (+1 armor save) but only if the
+pavise counts as a shield (+1 armour save) but only if the
 warrior was charged to his front. Because the pavise is so
 heavy and cumbersome, the bearer moves at half pace.
-### Reinforced Plate Armor
+### Reinforced Plate Armour
 
 By Josh Alexander
-Reinforced Plate is a new type of armor manufactured in the
+Reinforced Plate is a new type of armour manufactured in the
 Gunnery School of Nuln. It is based on an ordinary suit of Heavy
-Armor, but has additional plating covering the joints and chest
+Armour, but has additional plating covering the joints and chest
 plate to add resistance against firearms.
 
 
-Save: Reinforced Plate Armor gives the wearer a 5+ armor
-save. In addition, the extra plates negate Armor Piercing
+Save: Reinforced Plate Armour gives the wearer a 5+ armour
+save. In addition, the extra plates negate Armour Piercing
 ability of black powder weapons, meaning S4 black powder
-weapons will only have a –1 armor save penalty.
+weapons will only have a –1 armour save penalty.
 Cumbersome: The heavy plating restricts movement and
 reaction time, reducing the Initiative of the wearer by one.
-When Reinforced Plate Armor is combined with a shield, it
+When Reinforced Plate Armour is combined with a shield, it
 reduces the movement of the wearer by 1”, exactly like heavy
-armor.
+armour.
 ### Sea Dragon Cloak
 
 Dark Elf Corsairs use special cloaks fashioned from Sea Monsters
@@ -2723,7 +2723,7 @@ _[Dark Elves Only]_
 
 
 Scales: the model wearing a Sea Dragon Cloak will gain +2
-to his armor saves.
+to his armour saves.
 
 
 
@@ -2748,16 +2748,16 @@ ease of use. The Warrior gains an even better save of 5+.
 
 ### Toughened Leathers
 
-Expert leatherworkers are able to turn leather coats into armor
+Expert leatherworkers are able to turn leather coats into armour
 (after a fashion) and those with limited funds often favour these
-jackets and coats as armor is very expensive. Covered with crusted
+jackets and coats as armour is very expensive. Covered with crusted
 salt, alcohol and other less savoury materials, toughened leather is
 hard to penetrate and offers some protection in combat.
 
 
-Toughened leathers work exactly like light armor, giving the
-wearer a 6+ Armor save, but cannot be combined with the
-effects of any other armor except a helmet or buckler.
+Toughened leathers work exactly like light armour, giving the
+wearer a 6+ Armour save, but cannot be combined with the
+effects of any other armour except a helmet or buckler.
 Toughened leathers cannot be sold back at the Trading Posts;
 the stench alone is enough to drive away even the most
 
@@ -2781,7 +2781,7 @@ wolf and can wear its cloak as a mark of his skill and
 prowess. Note that Middenheimers may buy Wolfcloaks
 when starting their warband without making a test for
 availability. A model wearing a Wolfcloak will gain +1 to his
-armor saves against all shooting attacks.
+armour saves against all shooting attacks.
 
 ### Miscellaneous equipment
 
@@ -2808,7 +2808,7 @@ A weapon coated with the sap of the Black Lotus will wound
 its target automatically if you roll a 6 to hit. Note that you can
 still roll a dice for every wound inflicted in this way. If you
 roll a 6, you will inflict a critical hit with that roll. If you do
-not roll a 6, you will cause a normal wound. Take armor
+not roll a 6, you will cause a normal wound. Take armour
 saves as normal.
 
 
@@ -2828,7 +2828,7 @@ use, and has a thrown range of twice the thrower’s Strength
 in inches. Roll to hit using the model’s BS. No modifiers for
 range or moving apply. Blessed water causes 1 wound on
 Undead, Daemon or Possessed models automatically. There
-is no armor save. Undead or Possessed models may not use
+is no armour save. Undead or Possessed models may not use
 blessed water. There is enough Blessed Water to last for one game.
 
 ### Bugman’s Ale
@@ -3400,7 +3400,7 @@ it could be the thrower who finds himself amidst the
 explosion... The fire bomb may be thrown in the Shooting
 phase in the same way as blessed water (p53 Mordheim
 rulebook). If the bomb lands on target, the warrior hit takes
-D3 Strength 4 Flaming hits with no saves for armor and all warriors,
+D3 Strength 4 Flaming hits with no saves for armour and all warriors,
 friend or foe, within 1” of him take 1 Strength 3 hit with
 saves as normal. If the throwing warrior rolls 1 when rolling
 to hit, the bomb misfires and explodes just as if the throwing
@@ -3457,7 +3457,7 @@ must immediately take a Strength test. If the test is passed the net has no effe
 
 Truly successful warband leaders are quite willing to waste their
 money on extravagant excesses such as rare wines, jewel-encrusted
-weapons and armor and Cathayan spices. The height of such
+weapons and armour and Cathayan spices. The height of such
 indulgence is an opulent coach, which the warband leader can use
 for driving around the settlements surrounding Mordheim. There
 are few things that will impress commoners, or incur the wrath and
@@ -3538,7 +3538,7 @@ resolving the attacks normally. If this option is chosen, each
 player must roll a D6 and add his model’s Strength to the
 roll. If the Bear’s total is higher or the totals are equal, the
 opposing warrior takes a single automatic wound with no
-armor save allowed. If the enemy warrior’s total is higher,
+armour save allowed. If the enemy warrior’s total is higher,
 the warrior has broken the Bear’s hold and suffers no damage
 from the attack.
 Experience
@@ -3582,7 +3582,7 @@ Animal Companion: The Cave Squig may be an Animal
 Companion to a warrior
 May Ride: A Goblin may ride the Cave Squig, if you are
 using the optional rules for mounts. The Goblin gains +1
-armor save, and shall move at the Cave Squig’s rate of 6".
+armour save, and shall move at the Cave Squig’s rate of 6".
 Shooting attacks hit the Goblin on a die roll of 1-2, and the
 Cave Squig on a 3-6. In close combat, the opponent may
 choose which to hit. The Cave Squig no longer has to follow
@@ -3643,7 +3643,7 @@ Special Rules
 Stupidity: Cold One Beast-hounds may use the basic
 Leadership of it Master if they are within 6" of him.
 Scaly Skin: Cold One Beast-hounds have tough scaly skin,
-and are considered to have a 6+ armor save. This save
+and are considered to have a 6+ armour save. This save
 cannot be modified beyond 6 due to strength modifiers but
 any result of ‘no save’ on the injury chart will negate the
 unmodified 6+ save.
@@ -3747,7 +3747,7 @@ Goblin or Orc races, and do other rather limited tasks, but they are
 little use for any real work.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Snotling 4 1 1 1 1 1 1 1 3
-Weapons/Armor: Snotling may be equipped with Club,
+Weapons/Armour: Snotling may be equipped with Club,
 Blow pipe or Spear.
 Special Rules
 Animal Companion: A Snotling may be an Animal
@@ -3859,7 +3859,7 @@ Fear: Cold Ones cause fear.
 Stupid: Roll against the rider’s Leadership each turn; if the
 rider fails the test then usual stupidity applies, otherwise
 move as normal.
-Scaly: Cold ones give an additional +1 armor save bonus
+Scaly: Cold ones give an additional +1 armour save bonus
 (making +2 total).
 Experience
 +1 For taking the Mount out of action. The Hero or
@@ -3895,7 +3895,7 @@ feet long they are highly prized by Forest Goblins as mounts.
 Special Rules
 Poisoned Attack: Giant Spider attacks are poisoned – attacks
 are considered as strength 4, but this will not modify any
-armor saves.
+armour saves.
 Wall Walk: Giant Spiders (and their riders) may walk up and
 down walls without making Initiative tests. They may only
 jump up to 2" across or down, but this does count as a diving
@@ -4026,7 +4026,7 @@ wound, the target must make an Initiative test or be knocked
 down.
 Thick Skinned: The thick skin and matted fur of the boar
 makes him very hard to wound. Tuskgor confer an additional
-+1 bonus to the rider’s armor save (making +2 total).
++1 bonus to the rider’s armour save (making +2 total).
 Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the Tuckgor out of action gets a bonus
@@ -4047,7 +4047,7 @@ charging, due to their bulk. Note that this applies only to the
 boar, not the rider.
 Thick Skinned: The thick skin and matted fur of the boar
 makes him very hard to wound. Boars confer an additional
-+1 bonus to the rider’s armor save (making +2 total).
++1 bonus to the rider’s armour save (making +2 total).
 Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the War Boar out of action gets a bonus
