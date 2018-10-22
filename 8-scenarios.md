@@ -24,7 +24,7 @@ Experience for each enemy he puts out of action.
 
 ##### Scenario: Wyrdstone hunt
 
-Scattered in the ruins of Mordheim are innumerable tiny shards of
+Scattered in the ruins of Hammerheim are innumerable tiny shards of
 priceless wyrdstone. It often happens that two warbands come upon
 the same area and only a battle can determine who will pick the
 spoils.
@@ -116,7 +116,7 @@ then the whole group gains +1 Experience.
 ##### Scenario: Street fight
 
 Often two warbands will come face to face with each other in the
-narrow streets of Mordheim. Sometimes they pass each other
+narrow streets of Hammerheim. Sometimes they pass each other
 without incident but more often the meeting ends in bloodshed.
 Terrain
 Set up all the buildings into a single street, with no gaps
@@ -268,7 +268,7 @@ he earns +2 Experience.
 
 ##### Scenario: Occupy
 
-This scenario takes place in a part of Mordheim where the buildings
+This scenario takes place in a part of Hammerheim where the buildings
 are bursting with shards of wyrdstone and other wealth. Taking and
 holding these buildings means that your warband gains rich
 pickings. Unfortunately, your opponent has the same idea.
@@ -324,7 +324,7 @@ as a Rescue Mission; this cannot be superseded by anything, nor
 can the warband who captured the Hero deny the Rescue Mission. 
 Terrain
 This scenario takes place in the Defending player's base. This can be
-their headquarters within Mordheim or simply the few ruined buildings
+their headquarters within Hammerheim or simply the few ruined buildings
 that they have chosen to sleep in for the night. In any case the 
 Defending player is the one who captured the warband member in
 question. They may set up the map as they please, with a central 
@@ -379,7 +379,7 @@ an individual model's detection range (the range used to
 detect Hidden models; usually their Initiative value), is the
 distance at which a model can try to spot the enemy. They
 must be within the front 90° arc of the model. This represents
-that the swirling fog and lingering smoke that fills Mordheim
+that the swirling fog and lingering smoke that fills Hammerheim
 is somewhat distracting when an enemy does not clearly
 present itself; as well, it shows that the attacker is attempting
 to move more stealthily than normal.
@@ -452,7 +452,7 @@ worth of exploration (assuming any of his Heroes survived).
 ##### Scenario: Race to the Stash
 
 By Jace Proctor
-In the aftermath of the comet's fall, Mordheim has become a
+In the aftermath of the comet's fall, Hammerheim has become a
 labyrinth of ruined buildings, decaying streets, abandoned
 catacombs, and treacherous alleyways. Some even say that the city
 itself is alive, and has the power to reorder its chaotic innards in
@@ -464,7 +464,7 @@ It is for this reason that warbands will often assail a place of worth
 as quickly as possible, to ensure that they can plunder its riches
 before it is never seen again. Sometimes two or more warbands will
 hear of the same location at the same time, and in these situations a
-deadly race can ensue through the streets of Mordheim, with the
+deadly race can ensue through the streets of Hammerheim, with the
 victor claiming lordship over the area and defending it from any
 attackers.
 Through your network of informants and spies, you have learned of
@@ -477,7 +477,7 @@ is trafficked often by the warbands seeking wyrdstone and riches.
 Immediately gathering your warriors and gear, you quickly embark
 towards the location of the rumoured find. As you quietly make your
 way across the remaining bridge and through the streets of
-Mordheim, you catch sight of an opposing warband who is
+Hammerheim, you catch sight of an opposing warband who is
 travelling in the same direction as you. A row of ruined, but still
 standing buildings separate you from your rivals, who have also
 spotted you. The both of you quicken your pace, and suddenly you
@@ -591,7 +591,7 @@ been discovered during this campaign.
 ##### Scenario: Happy Harpy Hunting Grounds
 
 By Chris
-The ruined buildings of Mordheim are home to many strange and
+The ruined buildings of Hammerheim are home to many strange and
 fantastical creatures, a number of which are the subjects of rumours
 about hidden riches. Occasionally warbands will attempt to
 discover whether these rumours are true. Most of the time these
@@ -675,14 +675,14 @@ next (see pg 217).
 
 By Michael Havener
 Travelling entertainers often tell tales of the ruined city and because
-of this, sons of the privileged classes often see the city of Mordheim
+of this, sons of the privileged classes often see the city of Hammerheim
 as one big romantic adventure. Sometimes one will run away from
 home to join a mercenary warband and make a name for himself.
 Often these individuals are killed before they even get to the city but
 once in a while one will get lucky and actually make it that far.
 Sometimes their families are happy to see the young fool go but once
 in a while, a rich merchant or noble will actually pay to have his
-son saved from his inevitable fate in Mordheim.
+son saved from his inevitable fate in Hammerheim.
 The warbands have heard rumours that a powerful man’s son has
 wandered into the ruins and a handsome reward will be paid for his
 return.
@@ -704,7 +704,7 @@ taken out of action, flees or routs, the merchant’s son will
 attach himself to the next warband member to contact him.
 Should someone wish to attack the merchant’s son, he has the
 same stats as a Youngblood (see the Mercenary warband in
-the Mordheim rulebook) and is armed with a sword and
+the Hammerheim rulebook) and is armed with a sword and
 dagger. If he is killed, no reward will be issued to the
 winning warband, of course.
 Warbands
@@ -876,7 +876,7 @@ model entering its lair. It will charge all models entering its
 lair if possible. Its ‘turn’ is performed before whichever
 player won the dice roll to go first, though it will do nothing
 until someone comes near its lair. For the monster’s stats, see
-‘Great beasts in Mordheim’ over the page.
+‘Great beasts in Hammerheim’ over the page.
 Starting the game
 Each player rolls a D6. The player rolling the highest has the
 first turn, and order of play proceeds clockwise around the
@@ -920,7 +920,7 @@ Helmet 4+
 D3 swords 4+
 D3 gems worth 10 GC each 5+
 Jewellery worth 10-60 GC 5+
-Great beasts in Mordheim
+Great beasts in Hammerheim
 If fewer than 10 games have been played in the campaign then there are D3 monsters +1 for each warband beyond the second. The monster type present is selected at random from the following:
 1: Tree Kin
 2: Chaos Spawns
@@ -968,7 +968,7 @@ surrounding Tyler Street, skills or abilities which allow
 special deployment may not be used.
 SPECIAL RULES
 The map on the alley wall was written by a madman, and the
-warriors in Mordheim will have a tough time puzzling it out
+warriors in Hammerheim will have a tough time puzzling it out
 in the middle of a fight! In order to understand the map, a
 hero must be moved into the middle of the alley, and must
 spend two full turns doing nothing but studying the writing.
@@ -1025,7 +1025,7 @@ By Thrasher Kitch
 that chaos beast down!" shouted Captain Alkazar to his men, as
 they chased the twisted Chaos Spawn through the ruined streets
 of what was once a productive farming village. In the time after
-the comet fell, the streets of Mordheim were tainted by the touch
+the comet fell, the streets of Hammerheim were tainted by the touch
 of the foul gods, and the effects visible in many areas. Men and
 women bore twisted visages of their former selves, and much,
 much worse was to be found. The touch of Chaos was laid
@@ -1061,7 +1061,7 @@ spawn you need.
 Terrain
 This scenario can take place in any locale. This could easily
 be happening in the country side for Empire in Flames, or in
-the ruined streets of Mordheim.
+the ruined streets of Hammerheim.
 Starting the Game
 The Spawn gets the first turn, and immediately make a move,
 away from the band pursuing them. Then the hunting band
@@ -1101,7 +1101,7 @@ Ending the Game
 The game ends only after the Spawn have been taken OOA
 and only a single band is remaining on the table. Warbands
 may voluntarily rout, following the normal instructions for
-such in the Mordheim rulebook.
+such in the Hammerheim rulebook.
 Experience
 +1 Survival: Any Hero or Henchman group which survives
 the battle gains +1 experience.
@@ -1120,13 +1120,13 @@ experience in this way.)
 By Andy Tabor
 There are many a vile warband that resides at Cut Throat's Den.
 Cut Throat's Den is known to house unscrupulous warbands who
-are some of the foulest scum to visit Mordheim. Warbands such as
+are some of the foulest scum to visit Hammerheim. Warbands such as
 the Righteous Sisters, Witch Hunters and other do-gooders would
 shun such a decadent area.
 The main path from Cut Throat's Den to The City of the Damned is
 by the West Gatehouse. Normally, most would think nothing of
-going to Mordheim via the West Gatehouse but danger lurks at
-every corner of Mordheim and this area is not different. The West
+going to Hammerheim via the West Gatehouse but danger lurks at
+every corner of Hammerheim and this area is not different. The West
 Gatehouse remains guarded by a dark and sinister tree beast, and to
 enter the city from this direction adventurer must first brave passing
 by this monstrosity. Skeletons hang from its branches and who
@@ -1217,13 +1217,13 @@ Henchman that puts the Giant Oak out of action gets a bonus
 ##### Scenario: The Raven Barracks
 
 By Andy Tabor
-The Raven Barracks, located North West side of Mordheim, housed
+The Raven Barracks, located North West side of Hammerheim, housed
 the military arm of Count Steinhardht. The Empire was deeply
 embroiled in a bitter civil war. During this turmoil, Count
 Steinhardt refused to commit his forces to any of the three warring
 factions. The Count had the finest uniforms made for his soldiers. As
 the Empire went to war, expending valuable resources on arms and
-soldiers Mordheim grew rich in selling arms and supplies at
+soldiers Hammerheim grew rich in selling arms and supplies at
 extortionate prices to any side. The weapons were for top quality
 and craftsmanship.
 After the great disaster the barracks are empty of soldiers. The
@@ -1362,7 +1362,7 @@ D6 Item Found
 4 Lucky Charm
 5 Holy (Unholy) Relic
 6 Cathayan Silk Cloak
-All of the above are described in the Mordheim rules except
+All of the above are described in the Hammerheim rules except
 for the Wooden Man. For rules on the Wooden Man, see new
 items opposite.
 Starting the game
@@ -1502,11 +1502,11 @@ put the Warden out of action they gain +2 Experience.
 ##### Scenario: Executioner’s Square
 
 By Nick Kyme and Andy Hall
-One of the oldest places in Mordheim, Executioner’s Square was
+One of the oldest places in Hammerheim, Executioner’s Square was
 named for obvious reasons, the daily executions were a crowd
 puller making the area busy and surrounding businesses successful.
 Now the gallows and chopping block stand deserted amongst the
-rubble. Since Mordheim’s downfall the many victims of
+rubble. Since Hammerheim’s downfall the many victims of
 Executioner’s square – the guilty and innocent alike - have returned
 as restless spirits eager to scream their anger at all who pass or
 linger.
@@ -1583,11 +1583,11 @@ at the centre of the square for one complete turn then he gains
 ##### Scenario: The Great Library
 
 By Andy Tabor
-The North-East Quarter of Mordheim was renowned for trade and
-learning. When Mordheim was a living city, the crowded labyrinth
+The North-East Quarter of Hammerheim was renowned for trade and
+learning. When Hammerheim was a living city, the crowded labyrinth
 of streets and market plazas were called the Merchant's Quarter,
 more commonly known as the District of the Flying Horse.
-Mordheim became known as the finest market of the city in the
+Hammerheim became known as the finest market of the city in the
 Empire, rivalling even the busiest ports as Marienburg. There were
 many traders who would claim that for the right price they could
 locate any object for you so desired in a day.
@@ -1598,7 +1598,7 @@ building in the entire city. The Count was particularly fond of
 collecting mystical and religious tomes. Of course, unwittingly, The
 Great Library managed to collect on of the largest deposits of
 Daemonic and Necromantic lore in the Empire.
-Now after the disaster struck Mordheim Library was engulfed by
+Now after the disaster struck Hammerheim Library was engulfed by
 flames from the comet. Only the bravest ever consider going
 anywhere near the ruins but the lure of ancient tomes is enough to
 persuade mages from across the Empire to hire warbands to
@@ -1690,7 +1690,7 @@ D6 Events
 By Andy Tabor
 The Middle Bridge is the main crossing point for the City of the
 Damned. Whoever holds the bridge controls all aspects of movement
-in Mordheim. The bridge is rumoured to have piles of Wyrdstone or
+in Hammerheim. The bridge is rumoured to have piles of Wyrdstone or
 Treasure around it but are said to be guarded by massive Trolls,
 who have a strange affinity for bridges.
 Terrain
@@ -1751,7 +1751,7 @@ the next scenario they play by hearing rumours from
 travellers passing through.
 Optional Rules
 If you are playing a structured map based campaign this is an
-excellent scenario to gain control over parts of Mordheim.
+excellent scenario to gain control over parts of Hammerheim.
 There are many more additions you can make to this
 scenario. You can tie it into the Encampment Rules. Another
 option could a continued revenue generator throughout the
@@ -1990,12 +1990,12 @@ Special Rules: Thrown Weapon
 
 ##### Scenario: The Statue of St. Voller
 
-The story of Saint Voller is all but lost to history, the documentation of her works largely kept within the great libraries of Mordheim. Folklore and myth is all that survives by way of her legacy, but whatever the truth may have been she is revered by the Cult of Morr as one of their matron saints. Her statue was a place of pilgrimage to many who prayed that the dead keep their rest, and due to the wild and wonton magical experimentation present in Mordheim before the meteor strike her blessings were desperately sought after lest a lost loved one be forced to live an eternity of servitude at the hands of some vile necromancer some day. When the statue miraculously survived the meteor strike many survivors deemed it a blessing of Morr itself, and survivors brought their dead by the cartload to the statue in the hopes that their deaths be consecrated and their souls kept safe. Bodies piled the pavements, and with no safe way out of the city to bury them the surrounding buildings became macabre warehouses stacked to the rafters with corpses simply to keep the roads clear.
+The story of Saint Voller is all but lost to history, the documentation of her works largely kept within the great libraries of Hammerheim. Folklore and myth is all that survives by way of her legacy, but whatever the truth may have been she is revered by the Cult of Morr as one of their matron saints. Her statue was a place of pilgrimage to many who prayed that the dead keep their rest, and due to the wild and wonton magical experimentation present in Hammerheim before the meteor strike her blessings were desperately sought after lest a lost loved one be forced to live an eternity of servitude at the hands of some vile necromancer some day. When the statue miraculously survived the meteor strike many survivors deemed it a blessing of Morr itself, and survivors brought their dead by the cartload to the statue in the hopes that their deaths be consecrated and their souls kept safe. Bodies piled the pavements, and with no safe way out of the city to bury them the surrounding buildings became macabre warehouses stacked to the rafters with corpses simply to keep the roads clear.
 
 So many dead and dying in one place was never going to end well. The sheer concentration of corpses and the opportunity to desecrate a shrine to a hated nemesis drew the attention of necromancers even beyond the city walls, and for a few mortifying months the plaza surrounding the statue became a Mecca for necromancers looking to practice their arts and refresh their supply of corpses. The district is lost to the undead now, for whatever riches it may hold simply aren't worth the inevitable wall of attrition that the thousands of reanimated corpses can provide, save for the statue itself. The Statue of Saint Voller maintains the properties of her patron god Morr, an anathema to all things undead. Undead who approach find their souls drained from their bodies, eventually disintegrating into nothingness without their sustenance. Harnessing the power of this statue or corrupting it to your own ends will prove a valuable asset within the City of The Damned, but warbands will need to move quickly. Noise awakens the unquiet dead within these sardine-packed buildings.
 
 Terrain
-The city is set up as per regular Mordheim. In the centre of the battlefield should be a
+The city is set up as per regular Hammerheim. In the centre of the battlefield should be a
 large statue – the shrine representing Saint Voller.
 
 Starting the game
@@ -2006,7 +2006,7 @@ The Unquiet Dead: At the end of each round turn every building's occupants will 
 
 Shhhhh!: The Unquiet Dead ironically prefer peace and quiet, being drawn to attack sources of noise nearby. If a Blackpowder Weapon is fired the nearest two buildings to the character who fired will immediately spawn zombies as if they had just rolled a 1 or 2 in the Unquiet Dead turn. 
 
-The Statue of Saint Voller: Though Mordheim is lost and a wholly depraved place, the spirit of Saint Voller still exerts some guardianship. Unquiet Dead will never voluntarily move within 4" of the statue, and any Undead model that ends its movement phase within this zone must take a leadership test (they may use their warband leader's leadership). For every point they fail by they suffer a wound with no armour saves allowed. The statue itself holds an inky black pendant swimming with grey and purple shadows, a Talisman of Saint Voller. This talisman may be retrieved as if it was a shard of wyrdstone, with all the same rules as wyrdstone from the Wyrdstone Hunt.
+The Statue of Saint Voller: Though Hammerheim is lost and a wholly depraved place, the spirit of Saint Voller still exerts some guardianship. Unquiet Dead will never voluntarily move within 4" of the statue, and any Undead model that ends its movement phase within this zone must take a leadership test (they may use their warband leader's leadership). For every point they fail by they suffer a wound with no armour saves allowed. The statue itself holds an inky black pendant swimming with grey and purple shadows, a Talisman of Saint Voller. This talisman may be retrieved as if it was a shard of wyrdstone, with all the same rules as wyrdstone from the Wyrdstone Hunt.
 
 Ending the game
 The game ends when either all warbands but one have failed their rout tests, or if a character escapes the board with the Talisman of Saint Voller.
@@ -2122,10 +2122,10 @@ D3 Healing Herbs 3
 
 #### Scenario: Getting Personal
 
-This scenario is designed for campaign games with any number of players present. A personal dispute has erupted between several famous/infamous characters in Mordheim, and eager to profit from the spoils of this sort of carnage the warbands have rushed in to pick at the remains. Unfortunately they appear to have been rather swept up in it all, and with famous names aligning themselves with warbands unexpectedly they find themselves in the midst of a sudden brawl!
+This scenario is designed for campaign games with any number of players present. A personal dispute has erupted between several famous/infamous characters in Hammerheim, and eager to profit from the spoils of this sort of carnage the warbands have rushed in to pick at the remains. Unfortunately they appear to have been rather swept up in it all, and with famous names aligning themselves with warbands unexpectedly they find themselves in the midst of a sudden brawl!
 
 Terrain
-The board is set up as per normal Mordheim.
+The board is set up as per normal Hammerheim.
 
 Set-up
 Warbands deploy in their usual locations
@@ -2148,7 +2148,7 @@ Setup: This map takes place using four tiles. Leave an 8" gap between them runni
 
 Deployment: The warbands deploy up to 12" towards the canal from the corners and 8" towards the opposite table edge. Scout, Infiltrate, and Hunch may not be used in this scenario.
 
-Special Rules: The syrupy swamp-thick muck of Mordheim's polluted canal is home to monsters disgustingly mutated and horrific enough to chill a vampire's marrow. At the start of each round turn (before the first player's go) roll a dice for each warband member in the canal. If any of these results is a 1, then the Abomination has arrived. Randomize which end of the canal it emerges from and it will then move as quickly as possible towards the opposite table edge engaging in combat with nearest model where possible. It is unaffected by the difficult terrain, and if its movement takes it to the table edge it will stop and then turn around. It will repeat this patrolling action until the game is over or it is taken out of action.
+Special Rules: The syrupy swamp-thick muck of Hammerheim's polluted canal is home to monsters disgustingly mutated and horrific enough to chill a vampire's marrow. At the start of each round turn (before the first player's go) roll a dice for each warband member in the canal. If any of these results is a 1, then the Abomination has arrived. Randomize which end of the canal it emerges from and it will then move as quickly as possible towards the opposite table edge engaging in combat with nearest model where possible. It is unaffected by the difficult terrain, and if its movement takes it to the table edge it will stop and then turn around. It will repeat this patrolling action until the game is over or it is taken out of action.
 
 Before the comet struck the canals were infamous for their vile pollution, the canal's waters so contaminated with sewage and alchemical reagents' run-off that even droughted beggars wouldn't consider drinking it. The latent wyrdstone energies brought about by the cataclysmic meteor have hardly improved things, transforming the waters into a toxic slurry that coats the flagstones around it like bile. Attempting to leave the canal will require a climbing check as warband members struggle to find purchase on the smooth treacherous stone. This means it requires an initiative test, and mounted units will be unable to exit at all as they become bogged down in the goop. Alternatively a friendly model of the same or larger unit type can move into contact with them and take a strength test to pull them free (good luck pulling an ogre out of a swamp, Brian.) Additionally the waters are so blighted and foul that all Nurgle-aligned models suffer from Stupidity while inside it as they wantonly revel in the filth.
 
@@ -2176,7 +2176,7 @@ Immune to Psychology
 
 
 
-#### Monsters of Mordheim
+#### Monsters of Hammerheim
 
 
 Chaos Spawn

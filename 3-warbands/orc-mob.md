@@ -1,13 +1,13 @@
 ﻿#### Orc Mob
 
 Orcs enjoy fighting and looting more than anything else. Because of this, an Orc’s life is spent in constant battle – either
-with his fellow Orcs or some other enemy. With its wealth of opponents and loot ready for the taking, Mordheim offers
+with his fellow Orcs or some other enemy. With its wealth of opponents and loot ready for the taking, Hammerheim offers
 the perfect opportunity for an aspiring Orc Warboss to prove himself. What follows are complete rules, written by
 Mark Havener, for Orc & Goblin warbands.
 Among the races of the Warhammer world, none enjoy the
 prospect of a good looting more than Orcs and Goblins. For
 this reason many Orc warbands have been drawn to the city
-of Mordheim and the wyrdstone that lies hidden there. Of
+of Hammerheim and the wyrdstone that lies hidden there. Of
 course, Orcs would much rather ambush other warbands and
 take their wyrdstone than collect it themselves, but their goals
 are the same as any other warband – collect as much treasure

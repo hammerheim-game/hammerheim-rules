@@ -1,6 +1,6 @@
 ﻿#### Beastmen Raiders
 
-The Beastmen are brutish, wild and unnatural creatures that live in the deep forests. Anyone travelling through this untamed wilderness risks being attacked by these unpredictable raiders. Many of those who dwell within the forests around the outskirts of Mordheim claim that these vile creatures of Chaos outnumber mankind, though such statements are impossible to prove, for the Beastmen build no cities and do not create any structured form of society as such. Order and organisation are alien and hated by them, and they roam where they will, pillaging and killing for whatever they have need or want for. They willingly turn on each
+The Beastmen are brutish, wild and unnatural creatures that live in the deep forests. Anyone travelling through this untamed wilderness risks being attacked by these unpredictable raiders. Many of those who dwell within the forests around the outskirts of Hammerheim claim that these vile creatures of Chaos outnumber mankind, though such statements are impossible to prove, for the Beastmen build no cities and do not create any structured form of society as such. Order and organisation are alien and hated by them, and they roam where they will, pillaging and killing for whatever they have need or want for. They willingly turn on each
 other, picking on the weakest amongst them for food and fun.
 
 The Beastmen naturally form into roaming warbands, though whether they do so consciously or merely instinctively is unknown. A small warband is able to move swiftly through the wilderness unnoticed, and can cover hundreds of miles each season as they travel where they will. They are led by the strongest and most ferocious of their kind, and if ever one within the warband senses a weakness in their leader, they will turn on him in a brutish leadership challenge that can only result in one of the two being killed and consumed by
@@ -17,9 +17,9 @@ area. These encampments are often positioned nearby roads and settlements, for s
 
 Beastmen are brutish creatures, the Children of Chaos and Old Night. They roam the great forests of the Old World, and are amongst the most bitter enemies of Mankind. The raging power of Chaos has given them a ferocious vitality which makes them shrug off ghastly wounds and carry on fighting regardless of the consequences. Even the Orcs are comparatively vulnerable to damage compared to the awesome vitality of the Beastmen. Beastmen are a crossbreed between men and animals, usually resulting in the horned head of a goat, though many other variations are also known to exist. The Beastmen are divided into to two distinct breeds: Ungors, who are more numerous, twisted creatures that combine the worst qualities of man and beast, and Bestigors, a giant breed of Beastmen, a mix between some powerful animal and man. The Ungor are smaller Beastmen, who cannot compete with Bestigors in strength and power. They may have one horn or many, but these won’t be recognised as those of goat. Bray Shaman are very special Beastmen and are revered by all Beastmen, for they are the prophets and servants of Chaos Powers. Each warband of Beastmen includes a mix of some Bestigor, Gor warriors and Ungor who are the mainstay of the tribes.
 
-Seven great Herdstones stand hidden in the forests surrounding the city of Mordheim. From there the Beastmen
+Seven great Herdstones stand hidden in the forests surrounding the city of Hammerheim. From there the Beastmen
 warbands come to raid the city: Warherd of Thulak, Headtakers of Gorlord Zharak, the Horned Ones of Krazak
-Gore, and many others. The shards of the meteorite are seen as holy objects, which can be sold to the powerful Beastlords and revered Shamans in exchange for new weapons and services of warriors. For the tribes of Beastmen the battles fought in Mordheim are part of a great religious war, an effort to bring down the civilisation of man which offends the Chaos gods. After the taint of Man has been wiped from the face of the earth then the Beastmen shall inherit.
+Gore, and many others. The shards of the meteorite are seen as holy objects, which can be sold to the powerful Beastlords and revered Shamans in exchange for new weapons and services of warriors. For the tribes of Beastmen the battles fought in Hammerheim are part of a great religious war, an effort to bring down the civilisation of man which offends the Chaos gods. After the taint of Man has been wiped from the face of the earth then the Beastmen shall inherit.
 
 Beastmen wear little clothing, but often dress in the fur of their defeated rivals. They usually carry the skulls of their vanquished enemies as these are thought to bring good luck. While most Beastmen have dark brown skin and fur, black- furred or even albino Beastmen are not unknown. Beastmen wear heavy armlets and necklaces which serve as armour as well as decoration. Apart from the most primitive clubs and wooden shields, the Beastmen make few weapons. It is not the nature of Chaos to create, but to destroy.
 
@@ -83,7 +83,7 @@ Shield .............................................. 5 GC
 
 1 Beastmen Chieftain
 65 Gold Crowns to hire
-Beastmen chieftains have gained their position through sheer brutality. He leads the Beastmen to Mordheim to gather the Chaos Stones to his Herdstone.
+Beastmen chieftains have gained their position through sheer brutality. He leads the Beastmen to Hammerheim to gather the Chaos Stones to his Herdstone.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | M | WS | BS | S | T | W | I | A | Ld |
 | 5 | 4 | 3 | 4 | 4 | 1 | 4 | 1 | 8 |

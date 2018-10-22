@@ -20,7 +20,7 @@ The common skills are generic abilities that are available to every Hero, irresp
 A Hero or Warrior with this skill may buy an attack animal. The attack animal must be set up with the owning model within 3" but is free to move around once the battle begins. Attack animals behave like any other animal henchman, except that they may use the Hero's Leadership if they are within 6" as if they had the _Leader_ ability. If the Hero is ever _Incapacitated_ or taken _Out of Action_ the animal gains Frenzy.
 
 #### Mark of Chaos
-Few who travel to Mordheim do so with good intentions,
+Few who travel to Hammerheim do so with good intentions,
 indeed many see the calamitous destruction of Sigmar's followers as a 
 sign that the site is clearly of great interest to the Chaos Gods.
 Eager to prove themselves to their new masters they may
@@ -202,7 +202,7 @@ This skill may only be taken by Magic Users. A warrior with this skill gains +1 
 this skill.
 
 #### Common Sense
-A surprisingly rare commodity in Mordheim, _Common Sense_ allows a warrior to re-roll all failed _Dangerous Terrain_ tests.
+A surprisingly rare commodity in Hammerheim, _Common Sense_ allows a warrior to re-roll all failed _Dangerous Terrain_ tests.
 
 #### Haggle
 The warrior knows all the tricks of bargaining and
@@ -334,7 +334,7 @@ The assassin is an expert in all things poisonous, and knows how to maximise the
 
 #### Master of Disguise
 
-Paranoia is rewarded in Mordheim, and warriors quickly
+Paranoia is rewarded in Hammerheim, and warriors quickly
 learn to watch the shadows and remember to look up. In the chaos of a skirmish however innovative thinking can turn even a direct assault into a surprise! 
 
 Before the start of a game the Assassin's owner may choose to have the Assassin replace a henchman in either their own or a Formal Ally's warbands. Secretly make a note of which henchman has been replaced. The disguised assassin gains the equipment and stats of that henchman until they are revealed. An assassin is automatically revealed if they are charged, or they be revealed at the start of their owning player's turn. Once an assassin is revealed they immediately recover their own gear and behave as normal. Assassins may not disguise themselves as Monstrous Infantry, no amount of low-brimmed hats and hunching will make an Elf look like a convincing Ogre.
@@ -746,7 +746,7 @@ An unengaged musician may choose to make a deafening racket in each of their sho
 
 ### Mutations
 
-Those who dwell in Mordheim soon develop horrible mutations, and the Cult of the Possessed seem to be especially susceptible. In addition, Mordheim attracts mutants from all over the Empire, who are always quick to join the Chaos covens. Most mutations are simply inconvenient or hideous, but some make their bearers
+Those who dwell in Hammerheim soon develop horrible mutations, and the Cult of the Possessed seem to be especially susceptible. In addition, Hammerheim attracts mutants from all over the Empire, who are always quick to join the Chaos covens. Most mutations are simply inconvenient or hideous, but some make their bearers
 extremely dangerous in combat. Mutations may be bought for a Mutant or a Possessed warrior only when they are recruited; you may not buy new mutations for a model after recruitment. Any Mutant or Possessed may have one or more mutations. The first mutation is bought at the price indicated, but second and subsequent mutations bought for the same model cost double.
 
 #### Daemon soul

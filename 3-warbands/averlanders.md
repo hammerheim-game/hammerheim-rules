@@ -125,7 +125,7 @@ The Bergjaeger are trappers and rangers from the mountains that surround the Bla
 Weapons/Armour: Bergjaeger may be equipped with weapons and armour chosen from the Scout Equipment list.
 Skills: The Bergjaegers may choose from Shooting, & Speed, when he gains a new skill.
 Special Rules
-Set Traps: Bergjaeger are expert trappers and hunters and these skills can be put to great use in the ruins of Mordheim. A Bergjaeger may set a trap if he spends a turn doing nothing else (he may not set traps if he’s just recovered from being Knocked Down). Place a marker in base contact with the Bergjaeger. When a model, friend or foe, moves within 2" of the marker he risks setting off the trap – roll a D6. On a score
+Set Traps: Bergjaeger are expert trappers and hunters and these skills can be put to great use in the ruins of Hammerheim. A Bergjaeger may set a trap if he spends a turn doing nothing else (he may not set traps if he’s just recovered from being Knocked Down). Place a marker in base contact with the Bergjaeger. When a model, friend or foe, moves within 2" of the marker he risks setting off the trap – roll a D6. On a score
 of 3+ he has triggered the trap and suffers a S4 hit (note that the Bergjaeger won’t trigger his own traps). If the trap did not wound the model or it didn’t trigger, the ‘victim’ may finish his move otherwise he is placed knocked Down or Stunned 2" from the marker. Regardless whether the trap was triggered or not, the marker is removed.
 
 0-1 Youngblood

@@ -314,7 +314,7 @@ they have to take. A side effect of this is that their primitive
 minds and they may never learn Academic Skills should they
 become a Hero on an Advance Roll.
 Savage: Savage Orcs are subject to Frenzy as detailed in the
-Psychology section of the Mordheim rulebook. They must
+Psychology section of the Hammerheim rulebook. They must
 always run or charge towards the nearest opponent they can
 see. If no enemy is visible they are moved under the player’s
 control. They can never use any form of armour or ranged
@@ -562,7 +562,7 @@ themselves to be bitten by all sorts of poisonous wildlife
 before entering battle. The mingling venom drives them into
 frothing convulsions, making them extremely ferocious. Red
 Toof Boyz are affected by the rules for Frenzy as described in
-the Mordheim rulebook. In addition, if they begin their turn
+the Hammerheim rulebook. In addition, if they begin their turn
 within charge range of an enemy, they are immune to
 animosity for that turn.
 
@@ -593,7 +593,7 @@ Weapons/Armour: A Gigantic Spider never needs or uses
 weapons or armour.
 Special Rules
 Fear: Gigantic Spiders cause fear as described in the
-Mordheim Rulebook.
+Hammerheim Rulebook.
 Large Monster: Gigantic Spiders are large targets, and may
 always be shot at regardless if they are closest or not.
 Poisonous: The Gigantic Spider’s maw drips with vile
@@ -603,7 +603,7 @@ of Action.
 Native: Negotiating woodlands is no trouble for spiders.
 They move through any wooded terrain without penalty.
 Non-sentient: Spiders are affected by the stupidity rules in
-the Mordheim rulebook. In addition, they never gain
+the Hammerheim rulebook. In addition, they never gain
 experience, as they are animals. Note however that they may
 climb as normal.
 May Ride: The Forest Goblin Chieftain, may ride the

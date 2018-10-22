@@ -18,7 +18,7 @@
 
 ### Starting a Warband
 
-Before you begin to play you must recruit a warband to take part in the battle for Mordheim. In this section of the book we take a detailed look at each of the warbands and provide the information you need to recruit a warband of that type.
+Before you begin to play you must recruit a warband to take part in the battle for Hammerheim. In this section of the book we take a detailed look at each of the warbands and provide the information you need to recruit a warband of that type.
 
 Use the lists that follow to recruit and equip your warband (an example warband has been included at the back of the book.) You have 500 gold crowns to spend. Each model and their equipment (if you choose to buy any) costs a set amount of money. As you make your choices, subtract the money you have “spent” from your total until you have bought all you can. Any unspent gold crowns are put into the warband’s treasury and can be used later or hoarded to buy something more expensive. 
 
@@ -48,7 +48,7 @@ pick up during the campaign.
 
 Every warband must have a leader. He represents you, the
 player. He makes the decisions and leads your warriors
-through the dark streets of Mordheim.
+through the dark streets of Hammerheim.
 
 ###### Other heroes
 

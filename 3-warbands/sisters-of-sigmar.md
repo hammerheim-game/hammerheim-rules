@@ -2,7 +2,7 @@
 
 For centuries the nobility of the Empire has sent its wayward
 or troublesome daughters to the Holy Convent of the Order of
-Merciful Sisters of Sigmar in Mordheim to be initiated into
+Merciful Sisters of Sigmar in Hammerheim to be initiated into
 the only order of priestesses dedicated to the Empire’s patron
 god. The Sisters of Sigmar, as they are commonly called,
 have traditionally travelled the Empire administering to the
@@ -25,8 +25,8 @@ denying the throne to Magritta of Marienburg who was
 brought up by the Sisters and said to be sympathetic to their
 cause. These days the Sisters of Sigmar have retreated to their
 convent situated high on the craggy island of Sigmar’s Rock
-in the river Stir in Mordheim.
-Of all the inhabitants of Mordheim only the Sisters of Sigmar
+in the river Stir in Hammerheim.
+Of all the inhabitants of Hammerheim only the Sisters of Sigmar
 were prepared for its destruction. Seeress Cassandora foretold
 of the disaster and at their nightly vigil the Maidens of
 Sigmar heard the voice of Sigmar speaking in their dreaming
@@ -34,7 +34,7 @@ minds. Thus they knew that they would be safe in their
 fortress high above the city, raised as it is above the polluted
 vapours, if only they were prepared to survive the fire of
 Sigmar’s Fury.
-While the rest of Mordheim fell under a spell of madness the
+While the rest of Hammerheim fell under a spell of madness the
 Sisters of Sigmar offered prayer after prayer, scourging
 themselves to drive out all thoughts of sin, fervently
 accepting a punishing penitential regime to harden their
@@ -53,7 +53,7 @@ by a great depth of solid granite and guarded by the eternal
 prayers of the sisterhood, it will cause no harm to Sigmar’s
 people. It is a nigh hopeless task, for there are few Sisters and
 countless shards of stone. Worse still, there are many who
-want the stone for themselves, to take it from Mordheim and
+want the stone for themselves, to take it from Hammerheim and
 spread its contagion amongst the cities of the Empire.
 The warbands of the sisterhood are led by tough Matriarchs,
 each accompanied by a body of warrior sisters. The training
@@ -174,7 +174,7 @@ Each of the Sisters Superior is a long-serving priestess of the Cult of
 Sigmar, well versed in the rituals of the temple and an example to
 the younger Sisters and Novices. The Sisters Superior are entrusted
 with maintaining the faith and fervour of the order. Any peril or foe
-that may lurk in the ruins of Mordheim is as nothing compared to
+that may lurk in the ruins of Hammerheim is as nothing compared to
 the wrath of a Sister Superior.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
