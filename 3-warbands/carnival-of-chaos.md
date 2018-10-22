@@ -186,7 +186,7 @@ Skills: The Brutes may choose from Combat, Strength, &
 Speed when he gains a new skill.
 Special Rules
 Unnatural Strength: Brutes start the game with the
-Strongman skill from the Strength skill list in the Mordheim
+Strongman skill from the Strength skill list in the Hammerheim
 rulebook.
 
 

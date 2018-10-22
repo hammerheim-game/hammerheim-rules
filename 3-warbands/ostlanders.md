@@ -146,7 +146,7 @@ Light armour ................................................................ 20
 In Ostland, the oldest (or more often biggest) man in the village is
 given the title ‘Elder’. His word is greatly respected and only at his
 urging would the manhood of an entire village pack up and travel to
-Mordheim to seek their fortune.
+Hammerheim to seek their fortune.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
@@ -194,7 +194,7 @@ the moon. Those who are accepted into the service of Taal are
 loners by nature and spend their time wandering the untamed
 forests of the Northern Empire. It is unclear why the priests of the
 forest have begun to join bands of Ostlanders in their delvings into
-the ruined city of Mordheim – for the servants of Taal keep their
+the ruined city of Hammerheim – for the servants of Taal keep their
 own counsel. Suffice to say that the Forest-God is clearly building a
 strong presence both in and around the darkened ruins as more and
 more animals begin to fill the surrounding forests...
@@ -222,7 +222,7 @@ Kin
 25 Gold Crowns to hire
 Most of the warriors in an Ostlander Warband are brothers and
 cousins of the Elder. Many are married men with children to
-support and the ruins of Mordheim are a lure that few poor villagers
+support and the ruins of Hammerheim are a lure that few poor villagers
 can resist.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -280,7 +280,7 @@ and armour chosen from the Jaeger Equipment list.
 25 Gold Crowns to hire
 Although every Ostlander loves his ale, a few men in every village
 take this love to extremes. Never sober and rarely conscious these
-buffoons stagger their way through the streets of Mordheim yelling
+buffoons stagger their way through the streets of Hammerheim yelling
 slurred insults at whomever they meet, committing petty acts of
 vandalism and generally making a mess of things. This comic
 behaviour is often misconstrued into a false belief that they are

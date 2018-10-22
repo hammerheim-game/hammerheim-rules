@@ -91,7 +91,7 @@ Throwing stars ................................ 15 GC
 
 ### Special Equipment
 
-As you may have noticed many of the items available to the Battle Monks warband have never been seen in Mordheim before. These items are so bizarre and require such a lifetime of practice that even should they fall into enemy hands, not even a Hero with Weapons Training will be able to wield them. Any weapon below that says "Battle Monks" only may only ever be wielded by a Dragon Monk or Warrior Monk.
+As you may have noticed many of the items available to the Battle Monks warband have never been seen in Hammerheim before. These items are so bizarre and require such a lifetime of practice that even should they fall into enemy hands, not even a Hero with Weapons Training will be able to wield them. Any weapon below that says "Battle Monks" only may only ever be wielded by a Dragon Monk or Warrior Monk.
 
 
 #### Quarterstaff

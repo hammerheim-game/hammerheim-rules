@@ -1,4 +1,4 @@
-# Warhammer Fantasy Units
+# Hammerheim Mods
 
 <!-- MarkdownTOC -->
 
@@ -28,9 +28,9 @@
 
 ## Starting a warband
 
-Equipment bought with your initial 500 gold may not be sold, and any unspent gold is lost when creating your warband. After playing your first match you may buy units from a Warhammer army book of your choice, fluff depending. Models are bought as induviduals and function in the same way as in Mordheim.
+Equipment bought with your initial 500 gold may not be sold, and any unspent gold is lost when creating your warband. After playing your first match you may buy units from a Warhammer army book of your choice, fluff depending. Models are bought as induviduals and function in the same way as in Hammerheim.
 
-All Mordheim character starting experience is halved (rounding up).
+All Hammerheim character starting experience is halved (rounding up).
 
 ## Purchasing units
 
@@ -73,13 +73,13 @@ The following modifiers apply:
 - Characters may only wield equipment they come with and this equipment may not be sold or transferred. Different equipment can be used only if the Weapon Master skill is taken.
 - Models that come with a "Hand Weapon" must choose between Sword, Dagger, Mace, or Axe at the time of purchase. 
 - Common items (heavy armour, Hand Weapon etc) bought from the Warhammer book may not be transferred or sold.
-- All weapons behave according to their section in the Mordheim book, unless explicitly detailed in their own Army Book.
+- All weapons behave according to their section in the Hammerheim book, unless explicitly detailed in their own Army Book.
 - Models of same type (eg, Infantry) that move into base contact may be considered a unit for the purposes of spells/effects that target units (such as buffing banners, or spells). 
 - Magic Items are unique to your warband. If you purchase a magic item and it is subsequently lost, stolen, or destroyed you may not purchase it again.
 
 ## Warhammer Magic
 
-Warhammer Wizards function in the same way as Mordheim Wizards except:
+Warhammer Wizards function in the same way as Hammerheim Wizards except:
 - During a player turn Wizards can channel dice equal to their wizard level, succeeding on a 6. These dice remain attached to the wizard and may be spent in order to either attempt to dispell an enemy spell (requires 4+) or to add to their casting roll.
 - Channeling dice may only be used by the wizard that generated them, and any dice that are unused by the start of the owning player's following turn are wasted.
 - Miscasts are included, and cannot be re-rolled for any reason.
@@ -96,7 +96,7 @@ Warhammer Wizards function in the same way as Mordheim Wizards except:
 - Infantry Characters may ride in chariots if they learn the Ride Chariot skill, even if they cannot normally do so.
 - Siege Weapons (not magic vortexes or grenades) that score a direct hit on a building may attempt to wound the building on T10. If a successful wound is caused everybody in the building must roll as if suffering the 'Collapsing Building' random happening. The building will not be removed from play however.
 - New Common Skill: Magic Item. Character may equip up to 25pts of Magic Items. May be stacked up to 4 times.
-- New Common Skill: Ride. A character may take this skill to allow it to purchase+use a mount from its relevent book. The character must be the right species and unit type for the mount (eg, a mount normally only available to Goblin Heroes may not be ridden by an Orc or Troll, or a mount only available to wizards may only be ridden by a wizard), and taking a mount in this way will immediately reclassify the character to a Warhammer Hero for the purposes of increase in cost and requiring a certain amount of Core to support it and its mount (This does not apply to mounts from the Mordheim book). This skill must be taken twice in order to ride Monstrous Mounts, and must be taken three times in order to ride Monsters.
+- New Common Skill: Ride. A character may take this skill to allow it to purchase+use a mount from its relevent book. The character must be the right species and unit type for the mount (eg, a mount normally only available to Goblin Heroes may not be ridden by an Orc or Troll, or a mount only available to wizards may only be ridden by a wizard), and taking a mount in this way will immediately reclassify the character to a Warhammer Hero for the purposes of increase in cost and requiring a certain amount of Core to support it and its mount (This does not apply to mounts from the Hammerheim book). This skill must be taken twice in order to ride Monstrous Mounts, and must be taken three times in order to ride Monsters.
 - Melee attacks cannot hit on worse than a 5+.
 
 ## Warhammer Special Rules Edits:
@@ -123,11 +123,11 @@ Players may not summon more than three times the number of models that have been
 
 The Mortis Engine is prohibited.
 
-Mordheim vampires and necromancers count as vampires/necromancers for the purposes of crumbling/marching etc.
+Hammerheim vampires and necromancers count as vampires/necromancers for the purposes of crumbling/marching etc.
 
 ### Tomb Kings
 
-Mordheim liches may be the warband's heirophant
+Hammerheim liches may be the warband's heirophant
 
 ### Ogres
 
@@ -143,7 +143,7 @@ Chosen Warriors are Rare rather than Special.
 
 ### Beastmen
 
-The Infighting Mordheim rule applies to Gors and Ungors from the Warhammer Army Book as well as the Mordheim henchmen. 
+The Infighting Hammerheim rule applies to Gors and Ungors from the Warhammer Army Book as well as the Hammerheim henchmen. 
 
 Henchmen that move into base-to-base due to failing Infighting tests will fight a round of hand-to-hand combat in the combat phase. 
 

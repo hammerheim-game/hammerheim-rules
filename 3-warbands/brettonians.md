@@ -9,14 +9,14 @@ gold. Where corruption flows like effluent down the River
 Reik and conspiracy is rife throughout the land. By contrast,
 happy is the land of Bretonnia where chivalry reigns, honour
 is upheld and the Lady of the Lake still bestows her favour on
-those deemed worthy. To the knights of Bretonnia Mordheim
+those deemed worthy. To the knights of Bretonnia Hammerheim
 is a vile place where virtue and order have been discarded.
 Where a proud city once stood nightmarish creatures now
 wander the streets and mix with men in dens of corruption
 and squalor. It is therefore considered extremely virtuous for
-a knight to embark on a spiritual quest to Mordheim, seeking
+a knight to embark on a spiritual quest to Hammerheim, seeking
 to achieve honour in battle and perhaps earn the favour of the
-Lady of the Lake herself. In Mordheim a knight’s courage
+Lady of the Lake herself. In Hammerheim a knight’s courage
 and valour will be thoroughly tested, but so much the better,
 because with hardship come honour.
 A Questing Knight will relinquish his castle and domain to
@@ -48,7 +48,7 @@ incalculable hardships.
 
 Before heading into battle Bretonnian Knights kneel and pray
 to the Lady of the Lake, avowing to fight to the death for
-honour and justice. Before playing a game of Mordheim
+honour and justice. Before playing a game of Hammerheim
 make a Leadership test against the Leadership characteristic
 of the warbands leader. If the test is successful the Lady of
 the Lake has bestowed her blessing on the warband. The
@@ -160,7 +160,7 @@ A Questing Knight is an extremely tough and virtuous individual,
 who fights to uphold the traditions of honour and to serve the Lady
 of the Lake. Injustice and the persecution of the weak are his
 enemies, whilst courage and valour are his companions. It is no
-wonder then that many a Questing Knight will journey to Mordheim.
+wonder then that many a Questing Knight will journey to Hammerheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 4 3 1 4 1 8

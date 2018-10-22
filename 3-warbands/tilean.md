@@ -11,7 +11,7 @@ shores of far distant lands in search of gold and precious
 artefacts that can often bring a hefty price in any market of
 the world.
 Tilean warbands are often hired to explore the steamy
-jungles, hot deserts or even the ruined city like Mordheim
+jungles, hot deserts or even the ruined city like Hammerheim
 either by their patron city-state or by wealthy merchants or
 guilds. There are many city-states in Tilea to base a
 warband’s history on although only the most prominent three
@@ -93,7 +93,7 @@ following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 Your warband must include a minimum of 3 models to a
 maximum of 15 models. You have 500 points to assemble
 your warband with. The maximum characteristics for each
-type will be the same as any Mordheim mercenary warband.
+type will be the same as any Hammerheim mercenary warband.
 Captain: Each Tilean Warband must have one Captain to
 lead it – no more, no less.
 Champion: Your Warband may include up to two

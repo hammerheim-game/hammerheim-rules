@@ -101,7 +101,7 @@ Frenzy: Witch hag is affected by the rules for frenzy.
 The city of Har Ganeth holds the Cult of Khaine in the highest
 esteem. Here, they devote themselves to Khaine in his aspect of
 executioner. Chosen for their calm yet vicious demeanours, the
-deadly Executioners are sent to foray into Mordheim in the name of
+deadly Executioners are sent to foray into Hammerheim in the name of
 Khaine.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 4 3 3 1 5 1 8
@@ -117,7 +117,7 @@ choose from the Dark Elves Special Skill list.
 70 Gold Crowns to hire
 All Assassins follow one of the aspects of Khaine, the thousand-
 faced god of murder. The Assassins chosen to venture into the
-cursed city of Mordheim are those that the leaders of the Cult felt
+cursed city of Hammerheim are those that the leaders of the Cult felt
 could use a bit more real-world experience before serving the Witch
 King in his glorious armies.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
@@ -145,7 +145,7 @@ Witch Elves
 Witch Elves are the maiden-elves who are wedded to Khaine, the
 Lord of Murder, in midnight rites of blood sacrifice and magic. They
 imbibe a concoction of blood and drugs which fills them with
-supernatural bloodlust and rage. The Witch Elves scour Mordheim
+supernatural bloodlust and rage. The Witch Elves scour Hammerheim
 looking for sacrifices for the glory of Khaine.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

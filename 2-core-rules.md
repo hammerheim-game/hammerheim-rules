@@ -2,7 +2,7 @@
 
 ## Tabletop conflict
 
-In Mordheim, the opposing factions - warbands - are represented by models, assembled and painted by you, each representing a single warrior. Your tabletop becomes part of the City of the Damned: the scene of the action, with ruined buildings, overhangs and walkways where the battles take place. 
+In Hammerheim, the opposing factions - warbands - are represented by models, assembled and painted by you, each representing a single warrior. Your tabletop becomes part of the City of the Damned: the scene of the action, with ruined buildings, overhangs and walkways where the battles take place. 
 
 The aim of the game is to outfight your opponent, which requires a mixture of skill and luck. You'll soon learn how to arm and equip your warband effectively, and how to exploit the ruins and other terrain to your best advantage. 
 
@@ -14,7 +14,7 @@ At first you will probably want to play individual games (see the Warbands secti
 
 If you are playing in a campaign, you will have the chance to expand and improve your warband after each game. By winning battles your warband will gain riches and wyrdstone, discover magical artefacts and may also have the opportunity to recruit mercenaries. 
 
-In a campaign, every time your warband fights, its warriors gain in skill and experience. Raw recruits quickly progress to become fully fledged warriors, and your Heroes will learn new skills which will make them even better in combat. Each warband has its own objective and motivation for fighting in Mordheim: be it riches or political influence. Through countless battles and street skirmishes you can try to achieve your ambition and emerge victorious from the city! 
+In a campaign, every time your warband fights, its warriors gain in skill and experience. Raw recruits quickly progress to become fully fledged warriors, and your Heroes will learn new skills which will make them even better in combat. Each warband has its own objective and motivation for fighting in Hammerheim: be it riches or political influence. Through countless battles and street skirmishes you can try to achieve your ambition and emerge victorious from the city! 
 
 ## New players
 
@@ -24,13 +24,13 @@ There may be a Games Workshop store near to you where you can buy models, paint 
 
 ## Warhammer players
 
-If you already play Warhammer, the basic rules of Mordheim will be familiar to you. Remember though, Warhammer is designed for fighting battles between entire armies, whilst Mordheim represents individual action between a dozen or so warriors. 
+If you already play Warhammer, the basic rules of Hammerheim will be familiar to you. Remember though, Warhammer is designed for fighting battles between entire armies, whilst Hammerheim represents individual action between a dozen or so warriors. 
 
-As a result, some of the rules developed for mass combat in Warhammer do not apply to Mordheim, such as unit Break tests and rank bonuses. On the other hand, there are new rules for wounded warriors, climbing, parrying and other aspects of individual combat. 
+As a result, some of the rules developed for mass combat in Warhammer do not apply to Hammerheim, such as unit Break tests and rank bonuses. On the other hand, there are new rules for wounded warriors, climbing, parrying and other aspects of individual combat. 
 
 ## What you will need
 
-As well as this book, you will need the following items to play Mordheim.
+As well as this book, you will need the following items to play Hammerheim.
 
 ### Representative models
 
@@ -44,7 +44,7 @@ You will also need something to play your battles on. Any firm, level surface is
 
 ### Terrain
 
-The bitter struggles of a Mordheim battle take place in labyrinthine streets, ruined buildings and on derelict walkways. There are an abundance of companies out there who make terrain ideal for Mordheim, but many gamers enjoy making their own. 
+The bitter struggles of a Hammerheim battle take place in labyrinthine streets, ruined buildings and on derelict walkways. There are an abundance of companies out there who make terrain ideal for Hammerheim, but many gamers enjoy making their own. 
 
 As a rule, a table packed with scenery will lead to closer and more exciting games. The game is in fact balanced around the idea that the board be extremely densely packed with buildings so if that isn't possible it may be worth agreeing with your opponent on a way to reduce the strength of missile attacks.
 \page
@@ -97,7 +97,7 @@ You will also need pens and paper to record details of your warriors' weapons an
 
 ## Characteristics
 
-In Mordheim the warriors each have different abilities, some being better at certain actions, for example, fighting, shooting or climbing, than they are at others. This variety in each warrior is represented in the form of characteristics and skills. Right now don't worry about skills - these come later with practice and battle experience. For now we just need to consider a warrior's characteristics. 
+In Hammerheim the warriors each have different abilities, some being better at certain actions, for example, fighting, shooting or climbing, than they are at others. This variety in each warrior is represented in the form of characteristics and skills. Right now don't worry about skills - these come later with practice and battle experience. For now we just need to consider a warrior's characteristics. 
 
 Each model is defined by a set of characteristics: Movement, Weapon Skill, Ballistic Skill, Strength, Toughness, Wounds, Initiative, Attacks and Leadership. Each characteristic is assigned a value of (usually) between 1 and 10. The higher the value your model has for any characteristic the better - for example, a model with a Strength of 6 is stronger than a model that has a Strength of 2. 
 
@@ -129,7 +129,7 @@ A model's Wounds value shows how many times the model can be wounded before it c
 
 #### Initiative (I)
 
-The Initiative value indicates how fast and nimble the warrior is. It determines the attacking order in hand-to-hand combat, and is particularly important when the model is climbing and moving amidst the ruins of Mordheim. 
+The Initiative value indicates how fast and nimble the warrior is. It determines the attacking order in hand-to-hand combat, and is particularly important when the model is climbing and moving amidst the ruins of Hammerheim. 
 
 #### Attacks (A)
 
@@ -141,7 +141,7 @@ Leadership represents raw courage, self control and charisma. The higher the mod
 
 #### Zero level characteristics
 
-Some creatures in Mordheim have been given a '0' for certain characteristics which means that they have no ability in that field whatsoever. This usually applies to creatures unable to use missile weapons (who would have a BS of 0) but it might equally apply to other characteristics as well. If a model has a WS of 0 then it cannot defend itself in hand- to-hand combat, and any blows struck against it will automatically hit. 
+Some creatures in Hammerheim have been given a '0' for certain characteristics which means that they have no ability in that field whatsoever. This usually applies to creatures unable to use missile weapons (who would have a BS of 0) but it might equally apply to other characteristics as well. If a model has a WS of 0 then it cannot defend itself in hand- to-hand combat, and any blows struck against it will automatically hit. 
 
 #### Characteristic profiles
 
@@ -168,7 +168,7 @@ For example: Jeremy's Leadership is 7, so to pass a Leadership test he must roll
 
 ### The Turn
 
-In Mordheim you are in a charge of a warband and your opponent is in charge of another.
+In Hammerheim you are in a charge of a warband and your opponent is in charge of another.
 
 The warriors and scenery in the game are set up on the tabletop in a way that is appropriate for the encounter you are fighting. Do not worry about this for now as these things will be explained in full in the Scenarios section. 
 
@@ -251,7 +251,7 @@ If you wish to either shoot at, cast spells at, or charge a _Hidden_ model your 
 
 #### Terrain
 
-The ruined city of Mordheim is a dark and dangerous place, where tumbled down towers and blasted houses form a vast maze of streets and alleyways.
+The ruined city of Hammerheim is a dark and dangerous place, where tumbled down towers and blasted houses form a vast maze of streets and alleyways.
 
 OPEN GROUND: The tabletop surface, floors of buildings, connecting overhangs, and horizontal gaps of less than 3". are all considered to be open ground and will not affect movement even if the model is charging. It can also go through doors and hatches without slowing down.
 
@@ -261,7 +261,7 @@ WALLS AND BARRIERS: Walls, hedges and other low obstacles form barriers that you
 
 #### Climbing
 
-Often the ruined buildings of Mordheim do not have stairs or ladders, so your warriors will have to climb to reach the upper floors of buildings.
+Often the ruined buildings of Hammerheim do not have stairs or ladders, so your warriors will have to climb to reach the upper floors of buildings.
 
 Any model (except mounted warriors) can climb up or down fences, walls, etc. They must be touching what they want to climb at the start of their movement phase. They may climb up to his total Movement in a single movement phase (but cannot run while climbing). Any remaining movement can be used as normal. If the height is more than the model's normal move, they cannot climb the wall.
 
@@ -299,7 +299,7 @@ Aquatic models in water, either swamp, streams or rivers can elect to be Hidden 
 
 ### Shooting
 
-Warriors that fight in the ruins of Mordheim are usually armed to the teeth! Individual warriors often have several different weapons such as swords, knives, bows and even blackpowder weapons. 
+Warriors that fight in the ruins of Hammerheim are usually armed to the teeth! Individual warriors often have several different weapons such as swords, knives, bows and even blackpowder weapons. 
 
 During your warband's shooting phase each of your warriors may shoot once with one of their weapons. This means that they can fire a bow, shoot with a crossbow, or hurl a throwing knife, for example. 
 
@@ -321,7 +321,7 @@ You may not shoot at models that are engaged in hand-to-hand combat, as the risk
 
 #### Cover
 
-The many walls, ruined buildings and other masonry in Mordheim offer plenty of cover. If any portion of the target is hidden by a piece of scenery or another model, the shooting model will suffer a penalty as explained below. 
+The many walls, ruined buildings and other masonry in Hammerheim offer plenty of cover. If any portion of the target is hidden by a piece of scenery or another model, the shooting model will suffer a penalty as explained below. 
 
 Sometimes it will be obvious whether a target can be seen; at other times it will be more difficult, as buildings and other scenery are in the way. If the shooter can see only part of the target's body, the target is in cover and the shooter suffers a - 1 penalty on his To Hit roll. 
 
@@ -444,7 +444,7 @@ _(Spears, halberds, lances etc.)_
 
 #### Armour
 
-Steel breastplates, chainmail, leather tunics, shields... all these and more are readily available in the forges of the villages surrounding Mordheim. That is if you are prepared to pay the price, since armour is very expensive. 
+Steel breastplates, chainmail, leather tunics, shields... all these and more are readily available in the forges of the villages surrounding Hammerheim. That is if you are prepared to pay the price, since armour is very expensive. 
 
 If a warrior wearing armour suffers a wound roll a D6. If the dice roll is sufficiently high the wounding hit has bounced off the armour and has not hurt the wearer at all. The dice score required varies according to the type of armour. 
 
@@ -695,7 +695,7 @@ Hatred is a very powerful emotion, and during this era of strife and war bitter 
 
 #### Stupidity
 
-Many large and powerful creatures, as well as some of the more unhinged individuals in Mordheim, are unfortunately rather stupid. 
+Many large and powerful creatures, as well as some of the more unhinged individuals in Hammerheim, are unfortunately rather stupid. 
 
 Models with the Stupidity rule are incapable of taking any voluntary action unless a model without Stupidity (who is not _Incapacitated_) is within 6" of them at the start of their turn. 
 
@@ -719,13 +719,14 @@ Alignment is the system that roughly indicates your warband's attitudes towards 
 
 #### Multi-player Games
 
-In some Campaigns and Scenarios warbands may ally themselves with other warbands. While this is easy to do as friends around a table it is much more difficult for the superstitious and often terrified warriors in Mordheim. We therefore use the following system to replicate the difficulties in co-operating on the battlefield.
+In some Campaigns and Scenarios warbands may ally themselves with other warbands. While this is easy to do as friends around a table it is much more difficult for the superstitious and often terrified warriors in Hammerheim. We therefore use the following system to replicate the difficulties in co-operating on the battlefield.
 
 ##### Allying with other Warbands
 
-There are two types of alliance in Mordheim: Formal and informal. 
+There are two types of alliance in Hammerheim: Formal and informal. 
 
-#### Formal Alliance
+#### Formal Alliances
+
 A formal alliance is a pre-arranged agreement between warbands with little to no quarrel with eachother, a meeting of minds to come together in the face of an otherwise insurmountable foe. Formal alliances are clunky, expensive, and unwieldy, but it is the price some warbands pay for security. In a formal alliance warbands are fully allied to eachother and considered the same; they will not count as the closest enemies for the purposes of shooting, will not count as enemies for the purposes of frenzied models, will not prevent eachother from running, and for the purposes of rout tests both warbands are combined. Formal alliances must be negotiated after deployment but before the roll for first turn has been made.
 
 Once the battle has begun Formal Alliances may not be broken. Warbands require such extensive briefing to believe that these dangerous strangers are their friends that coordinating elaborate betrayals during battle is impossible. If a scenario is won on the grounds of there being one last remaining warband then allied warbands will share the victory. Warbands that share victories in this way may each roll no more than three exploration dice, as there is far more competition for resources when scouring the city post-battle. Loot however may be divided up, though this would have to have been agreed before the battle.
@@ -733,5 +734,7 @@ Once the battle has begun Formal Alliances may not be broken. Warbands require s
 Formal allegiances may only be negotiated between warbands with one degree of seperation in alignment (So Neutral warbands may only ally with Neutral, Lawful/Neutral, or Chaotic/Neutral for example) and may not take take place if either your warband has the 'Distrust' rule (for example, Dwarfs distrusting Elves) or your warband leader has a Hatred of the other warband's leader. 
 
 \page
-#### Informal Alliance
+
+#### Informal Alliances
+
 Informal alliances are moments where warbands warily take a step back from one another, perhaps each sizing the other up as being a little too strong to be worth fighting - or taking a momentary reprieve to recover and prepare for their next attack. These alliances are the second-to-second judgements made by Warband leaders, and often communicated with little more than body language. These allegiances are momentary at best, and often nothing more than an attempt by one warband to get the other to expose its back. There are no restrictions on these informal alliances but also are nothing more than agreements between Leaders to temporarily focus their attentions elsewhere. For all intents and purposes the two warbands are still hostile to one another - they are still the closest enemies for shooting, will still count as hostile for the purposes of _frenzy_, and will still prevent one another from running. They also may not share a victory in a scenario where the victor is determined by routing.

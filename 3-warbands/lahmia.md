@@ -263,7 +263,7 @@ learn from their mistakes. What did you expect?
 Dire Wolves are slavering Undead hounds, the animated remains of
 the giant wolves of the Worlds Edge Mountains. Their chilling howls
 can strike fear into the hearts of even the bravest warriors or most
-ruthless Dwarf mercenaries. They prowl the streets of Mordheim
+ruthless Dwarf mercenaries. They prowl the streets of Hammerheim
 like shadows, and many men have died with the cold jaws of a Dire
 Wolf around their neck.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |

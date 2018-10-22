@@ -155,7 +155,7 @@ when he gains a new skill. In addition, the Berserker may
 choose from the Norse Special Skill list.
 Special Rules
 Berserkers: Berserkers are subject to Frenzy as detailed in
-the Psychology section of the Mordheim rulebook.
+the Psychology section of the Hammerheim rulebook.
 
 
 0-1 Wulfen
