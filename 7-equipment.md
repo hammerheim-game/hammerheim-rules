@@ -193,228 +193,285 @@ The following chart indicates the cost of items available for sale at trading po
 be bought unless they are available, as already described. In some cases the price is variable, and includes a basic cost plus a variable
 extra amount, for example 20+3D6 gold crowns. For these items the extra variable cost reflects the rarity of the item – the premium
 which must be paid to buy it.
-Close Combat Weapons
-Item Cost Availability
-Axe .................................................................... 5 GC ...... Common
-Ball and Chain ................................................. 15 GC ...... Common
-Barbed Spear ................................................... 15 GC .......... Rare 5
-Beastlash ................................................... 10+D6 GC .......... Rare 8
-Boss Pole ......................................................... 20 GC ...... Common
-Brazier Iron ...................................................... 35 GC .......... Rare 7
-Censer .............................................................. 40 GC .......... Rare 9
-Claw of the Old Ones ...................................... 30 GC ........ Rare 12
-Dagger .................................................. 1st free/2 GC ...... Common
-Disease Dagger ................................................ 15 GC .......... Rare 8
-Double-Handed Weapon.................................. 15 GC ...... Common
-Dwarf Axe ....................................................... 15 GC .......... Rare 8
-Fighting Claws ......................................5 GC per pair .......... Rare 7
-Flail .................................................................. 15 GC ...... Common
-Halberd ............................................................ 10 GC ...... Common
-Hammer, staff, mace, club ................................. 3 GC ...... Common
-Horseman’s Hammer ....................................... 12 GC ........ Rare 10
-Katar ................................................................ 15 GC .......... Rare 7
-Lance ............................................................... 40 GC .......... Rare 8
-Morning Star .................................................... 15 GC ...... Common
-Pike .................................................................. 12 GC .......... Rare 7
-Plague Sword ................................................... 40 GC ........ Rare 11
-Punisher Whip ................................................. 15 GC .......... Rare 8
-Rapier .............................................................. 15 GC .......... Rare 5
-Saerath ............................................................. 20 GC .......... Rare 8
-Scythe .............................................................. 35 GC ...... Common
-Serpent Whip ................................................... 25 GC .......... Rare 8
-Sigmarite Warhammer ..................................... 15 GC ...... Common
-Spear ................................................................ 10 GC ...... Common
-Spiked Gauntlet ............................................... 15 GC .......... Rare 7
-Squig Prodder .................................................. 15 GC ...... Common
-Star-blade ......................................................... 35 GC ........ Rare 10
-Star-sword ........................................................ 50 GC ........ Rare 12
-Steel Whip ....................................................... 10 GC ...... Common
-Sword ............................................................... 5 GC ...... Common
-Sword Breaker ................................................. 30 GC .......... Rare 8
-Weeping Blades .................................. 50 GC per pair .......... Rare 9
-Whip ................................................................ 15 GC .......... Rare 5
-Close Combat Upgrades
-Item Cost Availability
-Fog-enhancing Warpstone Shards .... 100+D6x10 GC .......... Rare 9
-Special Weapon Types
-Item Cost Availability
-Cold Metal Weapons .................................... 3x Price ........ Rare 10
-Dark Steel Weapons ..................................... 3x Price ........ Rare 10
-Gromril Weapons ......................................... 4x Price ........ Rare 11
-Ithilmar Weapons ......................................... 3x Price .......... Rare 9
-Missile Weapons
-Item Cost Availability
-Blowpipe.......................................................... 25 GC .......... Rare 7
-Bolas .................................................................. 5 GC ...... Common
-Bolt Thrower ................................................. 115 GC .......... Rare 9
-Bow ................................................................. 10 GC ...... Common
-Crossbow Pistol ............................................... 35 GC .......... Rare 9
-Crossbow ......................................................... 25 GC ...... Common
-Elf Bow ................................................... 35+3D6 GC ........ Rare 12
-Javelins .............................................................. 5 GC ...... Common
-Long Bow ........................................................ 15 GC ...... Common
-Poison Wind Globes ........................................ 25 GC ........ Rare 11
-Repeater Bolt Thrower .................................. 150 GC ........ Rare 11
 
-Repeater Crossbow .......................................... 40 GC .......... Rare 8
-Short Bow .......................................................... 5 GC ...... Common
-Sling................................................................... 2 GC ...... Common
-Sunstaff ............................................................ 50 GC ........ Rare 12
-Sun Gauntlet .................................................... 40 GC ........ Rare 12
-Throwing Stars/Knives .................................... 15 GC .......... Rare 5
-Tufenk ............................................................. 30 GC ........ Rare 11
-Missile Weapon Upgrades
-Item Cost Availability
-Black Arrow ........................................... 25+2D6 GC .......... Rare 9
-Composite / Compound ................................ 2x Price .......... Rare 6
-Fire Arrows ............................................... 30+D6 GC .......... Rare 9
-Hunting Arrows ........................................ 25+D6 GC .......... Rare 8
-Blackpowder Weapons
-Item Cost Availability
-Blunderbuss ..................................................... 30 GC .......... Rare 9
-Duelling Pistol ................................................. 30 GC ........ Rare 10
-Hand-held Mortar ................................... 80+2D6 GC ........ Rare 12
-Handgun .......................................................... 35 GC .......... Rare 8
-Hochland Long Hunting Rifle ....................... 175 GC ........ Rare 11
-Jezzail Rifle ................................................... 165 GC ........ Rare 11
-Nuln Shotgun ................................................... 40 GC .......... Rare 9
-Pistol ................................................................ 15 GC .......... Rare 8
-Repeater Handgun .................................. 60+2D6 GC ........ Rare 11
-Repeater Pistol ........................................ 30+2D6 GC .......... Rare 9
-Rifle ................................................................. 75 GC .......... Rare 9
-Small Cannon ................................................ 150 GC ........ Rare 11
-Warpfire Thrower .......................................... 300 GC ........ Rare 10
-Warplock Pistol ............................................... 35 GC ........ Rare 11
-Blackpowder Weapons Upgrades
-Item Cost Availability
-Bayonet ............................................................ 10 GC .......... Rare 7
-Brace of Pistol .............................................. 2x Price
-Double-barrelled ........................................... 2x Price ........ Rare 11
-Heavier Ammunition ........................... 20 GC .......... Rare 8
-Modified Gunsight ........................................... 15 GC .......... Rare 9
-Silver Bullets ................................................... 15 GC ........ Rare 10
-Superior Blackpowder ..................................... 30 GC ........ Rare 11
-Armour & Clothing
-Item Cost Availability
-Barding ............................................................ 30 GC ........ Rare 11
-Bracers ............................................................. 20 GC .......... Rare 8
-Buckler .............................................................. 5 GC ...... Common
-Cathayan Silk Clothes ............................. 50+2D6 GC .......... Rare 9
-Cold Metal Armour ......................................... 85 GC ........ Rare 10
-Dark Steel Armour ........................................... 95 GC ........ Rare 11
-Elven Cloak ...................................... 100+D6x10 GC ........ Rare 12
-Forest Cloak ..................................................... 50 GC ........ Rare 10
-Gromril Armour ............................................. 150 GC ........ Rare 11
-Heavy Armour ................................................. 50 GC ...... Common
-Helmet ............................................................. 10 GC ...... Common
-Ithilmar Armour ............................................... 90 GC ........ Rare 11
-Light Armour ................................................... 20 GC ...... Common
-Pavise ............................................................... 25 GC .......... Rare 8
-Reinforced Plate Armour ................................. 95 GC .......... Rare 9
-Sea Dragon Cloak ................................... 50+2D6 GC ........ Rare 10
-Shield ................................................................. 5 GC ...... Common
-Toughened Leathers........................................... 5 GC ...... Common
-Wolfcloak ........................................................ 10 GC ......... Special
+##### Close Combat Weapons
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Axe | 5 GC | Common |
+| Ball and Chain | 15 GC | Common |
+| Barbed Spear | 15 GC | Rare 5 |
+| Beastlash | 10+D6 GC | Rare 8 |
+| Boss Pole | 20 GC | Common |
+| Brazier Iron | 35 GC | Rare 7 |
+| Censer | 40 GC | Rare 9 |
+| Claw of the Old Ones | 30 GC | Rare 12 |
+| Dagger |. 1st free/2 GC | Common |
+| Disease Dagger | 15 GC | Rare 8 |
+| Double-Handed Weapon| 15 GC | Common |
+| Dwarf Axe | 15 GC | Rare 8 |
+| Fighting Claws | 5 GC per pair | Rare 7 |
+| Flail | 15 GC | Common |
+| Halberd | 10 GC | Common |
+| Hammer, staff, mace, club | 3 GC | Common |
+| Horseman’s Hammer | 12 GC | Rare 10 |
+| Katar | 15 GC | Rare 7 |
+| Lance | 40 GC | Rare 8 |
+| Morning Star | 15 GC | Common |
+| Pike | 12 GC | Rare 7 |
+| Plague Sword | 40 GC | Rare 11 |
+| Punisher Whip | 15 GC | Rare 8 |
+| Rapier | 15 GC | Rare 5 |
+| Saerath | 20 GC | Rare 8 |
+| Scythe | 35 GC | Common |
+| Serpent Whip | 25 GC | Rare 8 |
+| Sigmarite Warhammer | 15 GC | Common |
+| Spear | 10 GC | Common |
+| Spiked Gauntlet | 15 GC | Rare 7 |
+| Squig Prodder | 15 GC | Common |
+| Star-blade | 35 GC | Rare 10 |
+| Star-sword | 50 GC | Rare 12 |
+| Steel Whip | 10 GC | Common |
+| Sword | 5 GC | Common |
+| Sword Breaker  | 30 GC | Rare 8 |
+| Weeping Blades | 50 GC per pair | Rare 9 |
+| Whip | 15 GC | Rare 5 |
+
+##### Close Combat Upgrades
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Fog-enhancing Warpstone Shards | 100+D6x10 GC | Rare 9 |
+
+##### Special Weapon Types
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Cold Metal Weapons | 3x Price | Rare 10 |
+| Dark Steel Weapons | 3x Price | Rare 10 |
+| Gromril Weapons | 4x Price | Rare 11 |
+| Ithilmar Weapons | 3x Price | Rare 9 |
+
+##### Missile Weapons
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Blowpipe | 25 GC | Rare 7 |
+| Bolas | 5 GC | Common |
+| Bolt Thrower | 115 GC | Rare 9 |
+| Bow | 10 GC | Common |
+| Crossbow Pistol | 35 GC | Rare 9 |
+| Crossbow | 25 GC | Common |
+| Elf Bow | 35+3D6 GC | Rare 12 |
+| Javelins  | 5 GC | Common |
+| Long Bow | 15 GC | Common |
+| Poison Wind Globes | 25 GC | Rare 11 |
+| Repeater Bolt Thrower | 150 GC | Rare 11 |
+| Repeater Crossbow | 40 GC | Rare 8 |
+| Short Bow | 5 GC | Common |
+| Sling| 2 GC | Common |
+| Sunstaff | 50 GC | Rare 12 |
+| Sun Gauntlet | 40 GC | Rare 12 |
+| Throwing Stars/Knives | 15 GC | Rare 5 |
+| Tufenk | 30 GC | Rare 11 |
+
+##### Missile Weapon Upgrades
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Black Arrow | 25+2D6 GC | Rare 9 |
+| Composite / Compound | 2x Price | Rare 6 |
+| Fire Arrows | 30+D6 GC | Rare 9 |
+| Hunting Arrows | 25+D6 GC | Rare 8 |
+
+##### Blackpowder Weapons
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Blunderbuss | 30 GC | Rare 9 |
+| Duelling Pistol | 30 GC | Rare 10 |
+| Hand-held Mortar | 80+2D6 GC | Rare 12 |
+| Handgun | 35 GC | Rare 8 |
+| Hochland Long Hunting Rifle | 175 GC | Rare 11 |
+| Jezzail Rifle | 165 GC | Rare 11 |
+| Nuln Shotgun | 40 GC | Rare 9 |
+| Pistol | 15 GC | Rare 8 |
+| Repeater Handgun | 60+2D6 GC | Rare 11 |
+| Repeater Pistol | 30+2D6 GC | Rare 9 |
+| Rifle | 75 GC | Rare 9 |
+| Small Cannon | 150 GC | Rare 11 |
+| Warpfire Thrower | 300 GC | Rare 10 |
+| Warplock Pistol | 35 GC | Rare 11 |
+
+##### Blackpowder Weapons Upgrades
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Bayonet | 10 GC | Rare 7 |
+| Brace of Pistol | 2x Price |
+| Double-barrelled | 2x Price | Rare 11 |
+| Heavier Ammunition | 20 GC | Rare 8 |
+| Modified Gunsight | 15 GC | Rare 9 |
+| Silver Bullets | 15 GC | Rare 10 |
+| Superior Blackpowder | 30 GC | Rare 11 |
+
+##### Armour & Clothing
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Barding | 30 GC | Rare 11 |
+| Bracers | 20 GC | Rare 8 |
+| Buckler | 5 GC | Common |
+| Cathayan Silk Clothes | 50+2D6 GC | Rare 9 |
+| Cold Metal Armour | 85 GC | Rare 10 |
+| Dark Steel Armour | 95 GC | Rare 11 |
+| Elven Cloak | 100+D6x10 GC | Rare 12 |
+| Forest Cloak | 50 GC | Rare 10 |
+| Gromril Armour | 150 GC | Rare 11 |
+| Heavy Armour | 50 GC | Common |
+| Helmet | 10 GC | Common |
+| Ithilmar Armour | 90 GC | Rare 11 |
+| Light Armour | 20 GC | Common |
+| Pavise | 25 GC | Rare 8 |
+| Reinforced Plate Armour | 95 GC | Rare 9 |
+| Sea Dragon Cloak | 50+2D6 GC | Rare 10 |
+| Shield | 5 GC | Common |
+| Toughened Leathers| 5 GC | Common |
+| Wolfcloak | 10 GC | Special |
 
 
-Miscellaneous equipment
-Alcohol, Drugs, Poisons & Potions Cost Availability
-Black Lotus ............................................... 10+D6 GC .......... Rare 9
-Blessed Water ......................................... 10+3D6 GC .......... Rare 6
-Bugman’s Ale ......................................... 50+3D6 GC .......... Rare 9
-Crimson Shade .......................................... 35+D6 GC .......... Rare 8
-Dark Venom ........................................... 30+2D6 GC .......... Rare 8
-Elven Wine ............................................. 50+3D6 GC ........ Rare 10
-Garlic ................................................................. 1 GC ...... Common
-Healing Herbs ......................................... 20+2D6 GC .......... Rare 8
-Healing Potion .......................................... 30+D6 GC .......... Rare 5
-Liquor Flask .............................................. 30+D6 GC .......... Rare 7
-Mad Cap Mushrooms ............................. 30+3D6 GC .......... Rare 9
-Mandrake Root ......................................... 25+D6 GC .......... Rare 8
-Potion of Strength ..................................... 30+D6 GC .......... Rare 6
-Speed Potion ............................................. 40+D6 GC ........ Rare 10
-Spider’s Poison ....................................... 25+2D6 GC .......... Rare 8
-Tears of Shallaya .................................... 10+2D6 GC .......... Rare 7
-Vial of Pestilens ...................................... 25+2D6 GC .......... Rare 9
-Vodka ..................................................... 35+2D6 GC .......... Rare 8
-Banners Cost Availability
-Banner ............................................................. 10 GC .......... Rare 5
-Clan Pestilens Banner ...................................... 10 GC .......... Rare 5
-Standard of Nagarythe ............................ 75+3D6 GC .......... Rare 9
-Charms & Amulets Cost Availability
-Bear-Claw Necklace ............................... 75+3D6 GC .......... Rare 9
-Lucky Charm ................................................... 10 GC .......... Rare 6
-Rabbit's Foot .................................................... 10 GC .......... Rare 5
-Red Toof Tribal Jewellery ............................... 40 GC .......... Rare 9
-Tarot Cards ...................................................... 50 GC .......... Rare 7
-Warpstone Amulet ........................................... 10 GC .......... Rare 5
-Wyrdstone Pendulum .............................. 25+3D6 GC .......... Rare 9
-Magic, Books & Scrolls Cost Availability
-Book of the Dead .............................. 200+D6x25 GC ........ Rare 12
-Dispel Scroll ........................................... 25+2D6 GC ........ Rare 10
-Elven Runestones ................................... 50+2D6 GC ........ Rare 11
-Halfling Cookbook ................................. 30+3D6 GC .......... Rare 7
-Hammer of Witches ....................................... 100 GC ........ Rare 10
-Holy (Unholy) Relic ............................... 15+3D6 GC .......... Rare 8
-Holy Tome ........................................ 100+D6x10 GC .......... Rare 8
-Liber Bubonicus ............................... 200+D6x25 GC ........ Rare 12
-Liturgicus Infecticus ............................... 30+2D6 GC .......... Rare 8
-Magic Gugginz ................................................ 50 GC .......... Rare 9
-Mordheim Map ....................................... 20+4D6 GC .......... Rare 9
-Scroll of the Rat Familiar........................ 25+1D6 GC .......... Rare 8
-Tome of Magic ................................. 200+D6x25 GC ........ Rare 12
-Musical Instruments Cost Availability
-Drum ................................................................ 10 GC ...... Common
-Flute ................................................................... 5 GC .......... Rare 5
-Horn ................................................................. 10 GC .......... Rare 9
-Lyre ................................................................... 5 GC .......... Rare 9
-War Horn ................................................ 30+2D6 GC .......... Rare 8
-War Horn of Nagarythe .......................... 25+1D6 GC .......... Rare 6
-Explosive Item Cost Availability
-Fire Bomb ............................................... 35+2D6 GC .......... Rare 9
-Flash Powder .......................................... 25+2D6 GC .......... Rare 8
-Smoke Bombs ................................................... 25 GC .......... Rare 5
-Other Item Cost Availability
-Caltrops .................................................. 15+2D6 GC .......... Rare 6
-Lantern ............................................................. 10 GC ...... Common
-Lock Picks ....................................................... 15 GC .......... Rare 8
-Net ..................................................................... 25 GC ...... Common
-Opulent Coach (without draft animals) ............. 250 GC ........ Rare 10
-Rope & Hook ..................................................... 5 GC ...... Common
-Telescope ................................................ 75+3D6 GC ........ Rare 10
-Torch ................................................................. 2 GC ...... Common
-Wagon / Stage Coach (without draft animals) ... 100 GC .......... Rare 7
-Beasts Cost Availability
-Bear ...................................................... 125+2D6 GC .......... Rare 8
-Cave Squig .............................................. 15+2D6 GC .......... Rare 7
-Chaos Hound .......................................... 25+2D6 GC ...... Common
-Chaos Steed ..................................................... 90 GC ........ Rare 11
-Cold One ........................................................ 100 GC ........ Rare 11
-Cold One Beast-hound ............................ 30+2D6 GC .......... Rare 9
-Eagle ....................................................... 30+2D6 GC ........ Rare 10
-Elven Steed ...................................................... 90 GC ........ Rare 10
-Falcon ..................................................... 30+2D6 GC .......... Rare 9
-Familiar .................................................. 20+1D6 GC .......... Rare 8
-Giant Spider ................................................... 100 GC ........ Rare 11
-Giant Wolf ....................................................... 85 GC ........ Rare 10
-Hawk ...................................................... 30+2D6 GC .......... Rare 9
-Horse (Riding) ................................................. 40 GC .......... Rare 8
-Kite ......................................................... 30+2D6 GC .......... Rare 9
-Leopard ................................................... 85+2D6 GC .......... Rare 9
-Lion ...................................................... 115+2D6 GC .......... Rare 9
-Mule................................................................. 30 GC .......... Rare 7
-Nightmare ........................................................ 95 GC ........ Rare 11
-Owl ......................................................... 50+2D6 GC ........ Rare 10
-Panther .................................................... 80+2D6 GC .......... Rare 9
-Skeletal Steed .................................................. 65 GC .......... Rare 8
-Snotling ...................................................... 8+D6 GC ...... Common
-Tiger ....................................................... 75+2D6 GC .......... Rare 9
-Tuckgor ........................................................... 85 GC .......... Rare 8
-War Boar ......................................................... 90 GC ........ Rare 11
-War Horse ........................................................ 80 GC ........ Rare 11
-War Hound ............................................. 25+2D6 GC ........ Rare 10
-Wild Hog ................................................ 30+2D6 GC .......... Rare 6
-Wolf ........................................................ 30+2D6 GC .......... Rare 7
+#### Miscellaneous equipment
+
+##### Alcohol, Drugs, Poisons & Potions
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Black Lotus | 10+D6 GC | Rare 9 |
+| Blessed Water | 10+3D6 GC | Rare 6 |
+| Bugman’s Ale | 50+3D6 GC | Rare 9 |
+| Crimson Shade | 35+D6 GC | Rare 8 |
+| Dark Venom | 30+2D6 GC | Rare 8 |
+| Elven Wine | 50+3D6 GC | Rare 10 |
+| Garlic | 1 GC | Common |
+| Healing Herbs | 20+2D6 GC | Rare 8 |
+| Healing Potion | 30+D6 GC | Rare 5 |
+| Liquor Flask | 30+D6 GC | Rare 7 |
+| Mad Cap Mushrooms | 30+3D6 GC | Rare 9 |
+| Mandrake Root | 25+D6 GC | Rare 8 |
+| Potion of Strength | 30+D6 GC | Rare 6 |
+| Speed Potion | 40+D6 GC | Rare 10 |
+| Spider’s Poison | 25+2D6 GC | Rare 8 |
+| Tears of Shallaya | 10+2D6 GC | Rare 7 |
+| Vial of Pestilens | 25+2D6 GC | Rare 9 |
+| Vodka | 35+2D6 GC | Rare 8 |
+
+##### Banners
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Banner | 10 GC | Rare 5 |
+| Clan Pestilens Banner | 10 GC | Rare 5 |
+| Standard of Nagarythe .| 75+3D6 GC | Rare 9 |
+
+
+
+##### Charms & Amulets
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Bear-Claw Necklace | 75+3D6 GC | Rare 9 |
+| Lucky Charm | 10 GC | Rare 6 |
+| Rabbit's Foot | 10 GC | Rare 5 |
+| Red Toof Tribal Jewellery | 40 GC | Rare 9 |
+| Tarot Cards | 50 GC | Rare 7 |
+| Warpstone Amulet | 10 GC | Rare 5 |
+| Wyrdstone Pendulum | 25+3D6 GC | Rare 9 |
+
+##### Magic, Books & Scrolls
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Book of the Dead | 200+D6x25 GC | Rare 12 |
+| Dispel Scroll | 25+2D6 GC | Rare 10 |
+| Elven Runestones | 50+2D6 GC | Rare 11 |
+| Halfling Cookbook | 30+3D6 GC | Rare 7 |
+| Hammer of Witches | 100 GC | Rare 10 |
+| Holy (Unholy) Relic | 15+3D6 GC | Rare 8 |
+| Holy Tome | 100+D6x10 GC | Rare 8 |
+| Liber Bubonicus | 200+D6x25 GC | Rare 12 |
+| Liturgicus Infecticus | 30+2D6 GC | Rare 8 |
+| Magic Gugginz | 50 GC | Rare 9 |
+| Mordheim Map | 20+4D6 GC | Rare 9 |
+| Scroll of the Rat Familiar| 25+1D6 GC | Rare 8 |
+| Tome of Magic | 200+D6x25 GC | Rare 12 |
+
+##### Musical Instruments 
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Drum | 10 GC | Common |
+| Flute | 5 GC | Rare 5 |
+| Horn | 10 GC | Rare 9 |
+| Lyre | 5 GC | Rare 9 |
+| War Horn | 30+2D6 GC | Rare 8 |
+| War Horn of Nagarythe | 25+1D6 GC | Rare 6 |
+
+##### Explosive 
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Fire Bomb | 35+2D6 GC | Rare 9 |
+| Flash Powder | 25+2D6 GC | Rare 8 |
+| Smoke Bombs | 25 GC | Rare 5 |
+
+##### Other 
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Caltrops | 15+2D6 GC | Rare 6 |
+| Lantern | 10 GC | Common |
+| Lock Picks | 15 GC | Rare 8 |
+| Net | 25 GC | Common |
+| Opulent Coach (without draft animals) | 250 GC | Rare 10 |
+| Rope & Hook | 5 GC | Common |
+| Telescope | 75+3D6 GC | Rare 10 |
+| Torch | 2 GC | Common |
+| Wagon / Stage Coach (without draft animals) | 100 GC | Rare 7 |
+
+##### Beasts
+
+| Item | Cost | Availability |
+| :-: | :-: | :-: |
+| Bear | 125+2D6 GC | Rare 8 |
+| Cave Squig | 15+2D6 GC | Rare 7 |
+| Chaos Hound | 25+2D6 GC | Common |
+| Chaos Steed | 90 GC | Rare 11 |
+| Cold One | 100 GC | Rare 11 |
+| Cold One Beast-hound | 30+2D6 GC | Rare 9 |
+| Eagle | 30+2D6 GC | Rare 10 |
+| Elven Steed | 90 GC | Rare 10 |
+| Falcon | 30+2D6 GC | Rare 9 |
+| Familiar | 20+1D6 GC | Rare 8 |
+| Giant Spider | 100 GC | Rare 11 |
+| Giant Wolf | 85 GC | Rare 10 |
+| Hawk | 30+2D6 GC | Rare 9 |
+| Horse (Riding) | 40 GC | Rare 8 |
+| Kite | 30+2D6 GC | Rare 9 |
+| Leopard | 85+2D6 GC | Rare 9 |
+| Lion | 115+2D6 GC | Rare 9 |
+| Mule| 30 GC | Rare 7 |
+| Nightmare | 95 GC | Rare 11 |
+| Owl | 50+2D6 GC | Rare 10 |
+| Panther | 80+2D6 GC | Rare 9 |
+| Skeletal Steed | 65 GC | Rare 8 |
+| Snotling | 8+D6 GC | Common |
+| Tiger | 75+2D6 GC | Rare 9 |
+| Tuckgor | 85 GC | Rare 8 |
+| War Boar | 90 GC | Rare 11 |
+| War Horse | 80 GC | Rare 11 |
+| War Hound | 25+2D6 GC | Rare 10 |
+| Wild Hog | 30+2D6 GC | Rare 6 |
+| Wolf | 30+2D6 GC | Rare 7 |
 
 \page
 
@@ -3518,16 +3575,18 @@ put out of action they have exactly the same chance of recovering as
 Henchmen (i.e., 1-2: Dead; 3-6: Alive). Attack Animal count
 towards the maximum number of warriors allowed in your warband.
 
-Bear
+##### Bear
 Bears are large animals often found in the forests of the Old World.
 Normally they are peaceful creatures but when they feel threatened
 they rip into their opponents with sharp deadly claws. Their strong
 arms can wrap around a Warrior and slowly squeeze the life out of
 him.
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-Black Bear 5 3 - 4 4 2 4 2 4
-Grizzly Bear 5 3 - 5 5 2 3 3 4
+| Black Bear | 5 | 3 | - | 4 | 4 | 2 | 4 | 2 | 4 |
+| Grizzly Bear | 5 | 3 | - | 5 | 5 | 2 | 3 | 3 | 4 |
+
 Special Rules
 Animal Companion: The Black Bear may be an Animal
 Companion to a warrior
@@ -3541,21 +3600,23 @@ opposing warrior takes a single automatic wound with no
 armour save allowed. If the enemy warrior’s total is higher,
 the warrior has broken the Bear’s hold and suffers no damage
 from the attack.
-Experience
-+1 For taking the Attack Animal out of action. The Hero
-or Henchman that puts the Bear out of action gets a bonus +1
-experience.
 
-Birds of Prey
+__Experience__ +1 For taking the Attack Animal out of action. The Hero or Henchman that puts the Bear out of action gets a bonus +1 experience.
+
+##### Birds of Prey
+
 Falcons and other birds of prey are much sort after by beast masters
 as they are very useful for catching game and hindering opponents
 by attacking weak spots such as the face and groin of enemy models.
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Eagle 12 4 - 3 3 1 4 1 6
-Falcon 16 3 - 3 2 1 5 1 7
-Hawk 12 3 - 4 3 1 4 1 6
-Kite 20 3 - 2 2 1 5 1 7
-Owl 12 5 - 4 3 1 5 1 6
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Eagle | 12 | 4 | - | 3 | 3 | 1 | 4 | 1 | 6 |
+| Falcon | 16 | 3 | - | 3 | 2 | 1 | 5 | 1 | 7 |
+| Hawk | 12 | 3 | - | 4 | 3 | 1 | 4 | 1 | 6 |
+| Kite | 20 | 3 | - | 2 | 2 | 1 | 5 | 1 | 7 |
+| Owl | 12 | 5 | - | 4 | 3 | 1 | 5 | 1 | 6 |
+
 Special Rules
 Animal Companion: All Birds of Prey may be an Animal
 Companion to a warrior
@@ -3917,10 +3978,12 @@ The giant wolf is common in most of the mountain ranges of
 the known world. However, catching one of these nasty, fast
 moving beasts is another thing – especially if you are a
 Goblin.
-[Goblin Only]
+__[Goblin Only]__
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-Giant Wolf 9 3 0 3 3 1 4 1 4
+| Giant Wolf | 9 | 3 | 0 | 3 | 3 | 1 | 4 | 1 | 4 |
+
 Note: Giant Wolves cannot be used in a warband that already
 contains Giant Spiders.
 Experience
@@ -3932,8 +3995,11 @@ Mule
 Their stubbornness is legendary, but even so, these beasts of
 burden are occasionally ridden by Halflings, Dwarfs and
 even overweight clerics!
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Mule 6 2 0 3 3 1 2 0 4
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Mule | 6 | 2 | 0 | 3 | 3 | 1 | 2 | 0 | 4 |
+
 Special Rules
 Slow: Mules are not the fastest of mounts and only bolt
 2D6".
@@ -3958,8 +4024,11 @@ The Vampire Counts occasionally need fell steeds to carry
 them about their business. Who cares if they're dead? They
 still have legs, don't they?
 [Vampires & Necromancers Only]
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Nightmare 8 2 0 3 3 1 2 1 5
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Nightmare | 8 | 2 | 0 | 3 | 3 | 1 | 2 | 1 | 5 |
+
 Special Rules
 May Not Run: As an undead creature, a Nightmare may not
 run, but may charge as normal.
@@ -3979,8 +4048,11 @@ Riding horses are not trained for battle and will not normally
 attack an enemy. However, they are useful for moving rapidly
 around the site of a battle.
 [Humans Only]
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |Horse 8 1 0 3 3 1 3 0 5
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Horse | 8 | 1 | 0 | 3 | 3 | 1 | 3 | 0 | 5 |
+
 Experience
 +1 For taking the Mount out of action. The Hero or
 Henchman that puts the Horse out of action gets a bonus +1
@@ -3994,9 +4066,11 @@ horses, but when they died their flesh decomposed. When all that
 was left of them was their bones, evil Necromancers raised them
 from the dead.
 [Undead Only]
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-Skeletal Steed 8 2 2 3 3 1 2 1 5
+| Skeletal Steed | 8 | 2 | 2 | 3 | 3 | 1 | 2 | 1 | 5 |
+
 Special Rules
 May Not Run: As an undead creature, a Skeletal Steed may
 not run, but may charge as normal.
@@ -4017,9 +4091,11 @@ Tuskgors are a cross between a boar and a ram. Their bodies are
 covered in thick brown fur and they have a large bony crest with
 sharp horns on their forehead.
 [Beastmen Only]
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-Tuskgor 7 3 - 4 4 1 2 1 4
+| Tuskgor | 7 | 3 | - | 4 | 4 | 1 | 2 | 1 | 4 |
+
 Special Rules
 Head-butt: If the Tuckgor charge attack hits but fails to
 wound, the target must make an Initiative test or be knocked
@@ -4039,8 +4115,11 @@ beasts while exploring the ruins of Mordheim and beyond. It isn’t
 common though, as the bigger and meaner Orcs tend to take the
 boars for themselves.
 [Orc Only]
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |War Boar 7 3 0 3 4 1 3 1 3
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| War Boar | 7 | 3 | 0 | 3 | 4 | 1 | 3 | 1 | 3 |
+
 Special Rules
 Ferocious Charge: Orc war boars attack with +2S when
 charging, due to their bulk. Note that this applies only to the
@@ -4057,8 +4136,11 @@ War horse
 Warhorses are large, well-trained horses, quite at home in
 battle. They are primarily used by human warbands.
 [Humans Only]
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |War house 8 3 0 3 3 1 3 1 5
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| War horse 8 | 3 | 0 | 3 | 3 | 1 | 3 | 1 | 5 |
+ |
 SPECIAL RULES
 Battle Schooled: The mount has been specially trained to
 fight on a battlefield. The rider may re-roll any failed loss of
