@@ -1,7 +1,7 @@
 ﻿#### Clan Pestilens
 
 Jarod glanced down the street... All seemed clear. He could not immediately tell why, but he was sure someone, or something was there.
-Maybe it was just that strange odour hanging around the ruins here. He shivered, although Hammerheim seemed to have its own special smell,
+Maybe it was just that strange odour hanging around the ruins here. He shivered, although Mordheim seemed to have its own special smell,
 this made him think of death.
 A sudden noise made him jump up and bring his crossbow to bear on the still empty street. A strange mist started to creep in and soft
 squeaks could be made out. As Jarod sounded the alarm, two figures rushed towards him. Dressed in tattered cloaks, they wielded what
@@ -105,7 +105,7 @@ Helmet .........................................................................
 The Plague Priest is one of the most disgusting disciples of the
 corrupted Clan Pestilens brotherhood. As leader of a small band of
 devoted to the Clan, the contagion and the wide spreading of
-diseases are his main goals in the streets of Hammerheim.
+diseases are his main goals in the streets of Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 5 4 4 4 4 1 5 1 7
@@ -172,7 +172,7 @@ Spell instead on a new skill.
 (Brought in groups of 1-5)
 Plague Novices
 20 gold crowns to hire
-They are the lower rank of Clan Pestilens. They infest the Hammerheim
+They are the lower rank of Clan Pestilens. They infest the Mordheim
 streets, coming just before the terrible Plague Monks and their
 clouds of pestilential fumes. Dream of every Plague Novice is to be
 chosen someday to be a Monk, and to be given the privilege of

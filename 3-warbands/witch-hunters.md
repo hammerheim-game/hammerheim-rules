@@ -21,7 +21,7 @@ Chaos gods. These depraved individuals practise Daemon
 worship and (it is claimed) even offer human sacrifices in the
 name of their vile masters. Of all the enemies of Sigmar they
 are the most abhorrent!
-The destruction of Hammerheim has fired the Witch Hunters
+The destruction of Mordheim has fired the Witch Hunters
 with a new and irresistible sense of purpose. In the light of
 events the Grand Theogonist has proclaimed Sigmar’s
 punishment on the City of the Damned. The Witch Hunters
@@ -53,7 +53,7 @@ curious. Some wear chains about their throats to remind them
 of fallen comrades and old rivalries and also, so it is said, so
 that the iron might serve as protection against witchcraft.
 The followers of the Witch Hunters, the rabble that
-accompany them to Hammerheim, are a far more dire sight
+accompany them to Mordheim, are a far more dire sight
 indeed – crazed and self-mutilated men who have lost or
 surrendered all their worldly goods and, most likely, their
 reason as well.
@@ -136,7 +136,7 @@ Helmet .........................................................................
 1 Witch Hunter Captain
 60 gold crowns to hire
 Driven by fanaticism, Witch Hunter Captains are obsessed with
-cleansing Hammerheim and bringing the justice of Sigmar to all.
+cleansing Mordheim and bringing the justice of Sigmar to all.
 Carrying the edict of the Grand Theogonist himself, they have the
 divine right to judge and execute warlocks, witches, Chaos
 worshippers... in fact all who dare to oppose them.
@@ -160,7 +160,7 @@ who can cast spells. He also hates all Sisters of Sigmar.
 Witch Hunters are members of the grim Order of Witch Hunters,
 dedicated to eradicating Chaos and all its minions. Usually they
 prowl the Old World individually trying and executing the enemies
-of Sigmar, but the situation in Hammerheim requires them to band
+of Sigmar, but the situation in Mordheim requires them to band
 together.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
@@ -180,7 +180,7 @@ Many powerful fighting men have come from the ranks of the
 faithful. The Priests of Sigmar are no exception, and the military
 wing of the cult is feared and respected throughout the Empire.
 The Grand Theogonist himself has granted the Warrior-Priests an
-edict to cleanse Hammerheim of Chaos filth. With fire burning in their
+edict to cleanse Mordheim of Chaos filth. With fire burning in their
 eyes, the Warrior-Priests stride into battle, chanting aloud the Deus
 Sigmar, the praise of the patron god of the Empire.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
@@ -240,7 +240,7 @@ ravages of nature, and have also lost their minds. With insane
 persistence, they travel the length and breadth of the Empire,
 preaching their view of the end of the world. With their rousing
 speeches, Witch Hunters can muster these dangerous lunatics to
-fight in the streets of Hammerheim, where no sane man dares tread.
+fight in the streets of Mordheim, where no sane man dares tread.
 Flagellants are extremely dangerous opponents in close combat, for
 they have the strength of madmen, and their bodies have become
 inured to pain because of self-mutilation.

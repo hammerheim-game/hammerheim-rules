@@ -28,7 +28,7 @@ years of studies will send them home where they will go on to fight
 as an army’s pistoleers or outriders, the others do attain their
 pinnacle and get to watch their former trainees charge across the
 battlefield, often to their deaths.
-Hammerheim presents an irresistible opportunity to the aged
+Mordheim presents an irresistible opportunity to the aged
 scholars of Nuln, as the mysterious wyrdstone is said to have
 many useful properties. The few shards that have found their
 way to Nuln have successfully been used in the creation of
@@ -288,7 +288,7 @@ Guardsmen are the hired soldiers that form the police force of Nuln.
 Most are simple farmhands hardened by military service, and earn a
 living protecting the engineers. While not as adept at using firearms
 as their allies, they provide much needed support in the close
-quarter fighting of Hammerheim.
+quarter fighting of Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 3 3 3 1 3 1 7

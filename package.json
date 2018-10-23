@@ -1,7 +1,7 @@
 {
   "name": "hammerheim-rules",
   "version": "1.0.1",
-  "description": "Hammerheim rules project",
+  "description": "Mordheim rules project",
   "main": "index.js",
   "scripts": {
     "format": "mcclowes-scripts format",

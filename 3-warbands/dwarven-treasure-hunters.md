@@ -1,8 +1,8 @@
 ﻿#### Dwarf Treasure Hunters
 
 Dwarfs are a grim and exceptionally proud people. They respect three things above all else: age, wealth and skill. It is no
-surprise then that these grim warriors can be found in Hammerheim searching for fame and fortune. Mark Havener gives full
-rules for including Dwarf warbands in Hammerheim.
+surprise then that these grim warriors can be found in Mordheim searching for fame and fortune. Mark Havener gives full
+rules for including Dwarf warbands in Mordheim.
 Occasionally, a Dwarf noble will find himself in desperate
 times. His family hold may have been overrun by Goblins or
 Skaven, or he may have somehow disgraced himself and
@@ -14,7 +14,7 @@ group of his closest friends and kin and go treasure hunting,
 hoping to accumulate a large enough hoard to establish his
 own holding. At this time, the largest source of wealth in the
 Known World is rumoured to be a city in the Empire. The
-city is known as Hammerheim...
+city is known as Mordheim...
 
 ##### Special Rules
 
@@ -28,7 +28,7 @@ clubs, etc. They are not easy to knock out!
 Armour: Dwarfs never suffer movement penalties for
 wearing armour.
 Hate Orcs and Goblins: All Dwarfs hate Orcs and Goblins.
-See the psychology section of the Hammerheim rules for details
+See the psychology section of the Mordheim rules for details
 on the effects of hatred.
 Grudgebearers: Dwarfs hold an ancient grudge against
 Elves from the days when the two races fought for supremacy
@@ -37,7 +37,7 @@ kind of Elven Hired Sword or Dramatis Personae.
 Incomparable Miners: Dwarfs spend much of their lives
 underground searching for precious minerals, and they are the
 best in the world at this kind of work. In the city of
-Hammerheim they apply similar skills to the search for
+Mordheim they apply similar skills to the search for
 wyrdstone. When checking for wyrdstone at the end of a
 game, add +1 to the number of pieces found for a Dwarf
 warband.
@@ -110,15 +110,15 @@ Helmet .........................................................................
 *Any weapon a Dwarf may normally purchase may be
 bought as a Gromril weapon instead. This multiplies the cost
 of the weapon by 3. For rules on Gromril weapons see the
-Hammerheim rulebook. Note that this price is only for a starting
+Mordheim rulebook. Note that this price is only for a starting
 warband, as it represents the Dwarfs outfitting themselves at
 their own stronghold. Later purchases of Gromril weapons
-are done using the price chart in the Hammerheim rules.
+are done using the price chart in the Mordheim rules.
 **The price of a suit of Gromril armour is cheaper for a
 starting warband to represent the relative ease with which
 Dwarfs can find such items in their own stronghold. Later
 purchases of Gromril armour must be done using the normal
-price chart in the Hammerheim rules.
+price chart in the Mordheim rules.
 ##### Heroes
 
 1 Dwarf Noble

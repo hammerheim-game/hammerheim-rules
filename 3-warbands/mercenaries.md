@@ -3,7 +3,7 @@
 This is a time of unremitting war, civil strife, violence and
 famine. A time of orphan children and wanton slaughter. For
 warriors these are good times! Since the discovery of
-wyrdstone Hammerheim has become a magnet for fighting men
+wyrdstone Mordheim has become a magnet for fighting men
 from all over the Empire. Nobles, merchants, and the Temple
 of Sigmar itself offer rich rewards for shards of the
 mysterious stone. Foremost amongst the patrons of
@@ -107,7 +107,7 @@ Electors were persuaded to support the Lady Magritta’s
 claim. It was only the Grand Theogonist’s refusal to crown
 her that denied Marienburg the throne driving a wedge
 between the City of Gold and the Temple of Sigmar.
-Warbands sent to Hammerheim are sumptuously dressed and
+Warbands sent to Mordheim are sumptuously dressed and
 armed. Though Marienburgers are often ridiculed as foppish
 and effete, their skill at arms and complete ruthlessness has
 earned them grudging respect. Their chief skills lie in
@@ -210,10 +210,10 @@ Helmet .........................................................................
 60 gold crowns to hire
 A Mercenary Captain is a tough professional warrior, a man who
 will fight for anyone or against anything so long as the price is
-right. Hammerheim offers such a man the chance to become rich
+right. Mordheim offers such a man the chance to become rich
 beyond his dreams, though at great risk. But as ruthlessness and
 lack of mercy and pity are the hallmarks of a successful Mercenary
-Captain, it is no wonder that they flock to Hammerheim.
+Captain, it is no wonder that they flock to Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 4 4 4 3 3 1 4 1 8
@@ -294,7 +294,7 @@ and armour chosen from the Mercenary Equipment list.
 25 gold crowns to hire
 The archers and hunters of the Old World are famed for their skill,
 and it is said that they can hit a coin from 300 paces with a long
-bow. In the savage street fights of Hammerheim they snipe at the enemy
+bow. In the savage street fights of Mordheim they snipe at the enemy
 from the windows of ruined buildings and pick out enemy leaders
 with their arrows.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
@@ -309,7 +309,7 @@ list.
 Swordsmen are professional warriors, experts at taking on and
 beating several opponents at once. They are much sought after by
 warband leaders, as their skills are ideally suited for fighting in
-Hammerheim.
+Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 3 1 7
 Weapons/Armour: Swordsmen may be equipped with

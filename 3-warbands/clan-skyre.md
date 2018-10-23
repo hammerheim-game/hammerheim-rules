@@ -2,9 +2,9 @@
 
 This warband was based from the Skaven Warbands by Michael Hulsander and the Skryre Warband by Chris Haak
 After the Eshin Clan had their coffers bolstered by the
-warpstone collected from Hammerheim clan Skryre became
+warpstone collected from Mordheim clan Skryre became
 suspicious. Ikit Klaw sent out his spies and found that
-Hammerheim offered a source of warpstone far easier to acquire
+Mordheim offered a source of warpstone far easier to acquire
 than mining. It would also be a great testing ground for their
 new weapons of destruction.
 The warped genius of the Skaven engineers is concentrated in
@@ -16,7 +16,7 @@ Jezzail rifles, poisoned wind globes, and Warpfire throwers
 are all the creations of Clan Skryre, the engineers. These
 skaven are more intelligent than most, and design the war
 machines used by skaven in massed warfare. When turned
-upon the streets of Hammerheim, the effects of these weapons
+upon the streets of Mordheim, the effects of these weapons
 can be devastating.
 Clan Skryre Warbands have great technological knowledge
 and prefer Magic and Technology to combat.

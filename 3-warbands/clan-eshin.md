@@ -16,7 +16,7 @@ their tunnels and wage open war upon mankind. For centuries
 they have been content to feed upon his ruins, to seed plague
 in his cities, and spread contagion amongst his lands. At least
 they were content to wait and watch, for now everything has
-suddenly changed. Now the destruction of Hammerheim has
+suddenly changed. Now the destruction of Mordheim has
 created new opportunities in the secret war against mankind.
 Since ancient times the Skaven have searched the world for
 the stones of power that men in their ignorance call
@@ -35,11 +35,11 @@ time for such a thing to happen, for, just as the Empire is
 divided, so the Skaven race is divided amongst itself. Clan
 fights clan the world over, each struggling for domination of
 the Council of Thirteen whose masters rule the Skaven race.
-Hammerheim’s secret is not yet revealed to all the clans, or else
+Mordheim’s secret is not yet revealed to all the clans, or else
 the City of the Damned would already be overrun with
 ratmen. The Nightmaster of Clan Eshin is keen to guard this
 secret, and for this reason has not sent his multitudinous
-armies into Hammerheim. Instead, he has sent small warbands of
+armies into Mordheim. Instead, he has sent small warbands of
 Skaven skittering through secret tunnels into the city to
 
 gather up the shining stones and bring them back to the clan
@@ -51,8 +51,8 @@ thousand secrets of the assassin. Since birth Skaven warriors
 practise martial crafts in the ruinous temples of the Horned
 Rat, their ever hungering and hideous god. There are none
 better amongst their verminous kind to gather up the treasure
-of Hammerheim, but they must be silent, swift and efficient.
-Were rival Skaven clans to discover the secret of Hammerheim
+of Mordheim, but they must be silent, swift and efficient.
+Were rival Skaven clans to discover the secret of Mordheim
 there would come not hundreds, not thousands, but millions
 upon millions to contend for the wyrdstone in the City of the
 Damned.
@@ -149,7 +149,7 @@ weapons).
 0-2 Black Skaven
 40 gold crowns to hire
 Black Skaven are the most powerful fighters of Clan Eshin: black-
-furred killers trained in the martial arts of their clan. In Hammerheim
+furred killers trained in the martial arts of their clan. In Mordheim
 they excel at ambushing and assassinating man-things.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
