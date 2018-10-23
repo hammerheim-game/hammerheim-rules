@@ -221,7 +221,7 @@ which must be paid to buy it.
 | Liber Bubonicus | 200+D6x25 GC | Rare 12 |
 | Liturgicus Infecticus | 30+2D6 GC | Rare 8 |
 | Magic Gugginz | 50 GC | Rare 9 |
-| Hammerheim Map | 20+4D6 GC | Rare 9 |
+| Mordheim Map | 20+4D6 GC | Rare 9 |
 | Scroll of the Rat Familiar| 25+1D6 GC | Rare 8 |
 | Tome of Magic | 200+D6x25 GC | Rare 12 |
 
@@ -297,7 +297,7 @@ which must be paid to buy it.
 
 \page
 
-Life and death in Hammerheim is decided by the quantity and quality of the weapons a warrior carries. This section describes the different weapons and other equipment such as armour and shields.
+Life and death in Mordheim is decided by the quantity and quality of the weapons a warrior carries. This section describes the different weapons and other equipment such as armour and shields.
 
 ## Close Combat Weapons
 
@@ -382,7 +382,7 @@ __Strength:__ As User
 
 __Special Rules:__ Beastbane, Cannot Be Parried, Whipcrack
 
-__Beastbane:__ The Beastmaster wielding a Beastlash causes Fear in animals, any animal charged or wishing to charge a Beastmaster with one of these weapons must first take a Fear test as mentioned in the psychology section of the Hammerheim
+__Beastbane:__ The Beastmaster wielding a Beastlash causes Fear in animals, any animal charged or wishing to charge a Beastmaster with one of these weapons must first take a Fear test as mentioned in the psychology section of the Mordheim
 rules.
 
 \page
@@ -476,7 +476,7 @@ __Parry:__ User may parry as per normal rules.
 
 #### Dagger
 
-Daggers and knives are extremely common, and men are allowed to carry them in enclaves where weapons are otherwise forbidden. Many a warrior in Hammerheim has died with a dagger in his back.
+Daggers and knives are extremely common, and men are allowed to carry them in enclaves where weapons are otherwise forbidden. Many a warrior in Mordheim has died with a dagger in his back.
 
 __Range:__ Close Combat
 
@@ -1149,7 +1149,7 @@ steel, double-edged and razor-sharp.
 Swords are much more effective weapons than crude clubs and axes,
 though learning to use a sword is a long and difficult process. It
 takes years to truly master this weapon – most warriors in
-Hammerheim die long before they get this far!
+Mordheim die long before they get this far!
 
 __Range:__ Close Combat
 
@@ -1468,7 +1468,7 @@ string. It takes a long time to prepare a crossbow, but a bolt fired
 from one has a tremendous range and can penetrate armour easily.
 Crossbows take much longer than other bows to make, so they are
 expensive and relatively rare weapons. Still, they are the preferred
-weapon of many in Hammerheim because of their power and long
+weapon of many in Mordheim because of their power and long
 range.
 
 __Range:__ 30"
@@ -1700,7 +1700,7 @@ shot, this bonus attack may be used in each turn of combat.
 Throwing stars are used mainly by the assassins of the sinister
 House of Shadows, or by street thugs who specialize in ambushing
 the unwary. A perfectly balanced knife thrown from behind has
-ended the life of many a noble and merchant in Hammerheim.
+ended the life of many a noble and merchant in Mordheim.
 Throwing knives are not suitable for close combat, as their balance
 makes them unwieldy in close quarters.
 
@@ -1822,7 +1822,7 @@ noble has died at dawn in a duel over some grievance.
 Duelling pistols are prohibitively expensive weapons and common
 warriors rarely have them. Even if they do manage to steal or buy
 one, the ammunition is prohibitively expensive.
-Some of the wealthiest warriors in Hammerheim carry duelling pistols
+Some of the wealthiest warriors in Mordheim carry duelling pistols
 as status symbols, commanding great respect, admiration and envy.
 
 __Range:__ 10"
@@ -1905,7 +1905,7 @@ the firing mechanism and fire the gun. Handguns are not terribly
 reliable weapons: the gun barrel occasionally tends to explode
 violently or the powder fails to ignite. But the weapon has a great
 range and tremendous penetrating power, making a mockery of even
-the thickest armour. In Hammerheim, handguns are rare and
+the thickest armour. In Mordheim, handguns are rare and
 expensive, but a warband which can boast such a weapon will
 command respect from all its rivals.
 
@@ -2068,7 +2068,7 @@ Save Modifier, Slow Reload,
 
 
 Experimental: The Repeater Handgun is always subject to
-the optional Blackpowder Weapons rules from the Hammerheim
+the optional Blackpowder Weapons rules from the Mordheim
 rulebook, even if they are not normally used in your
 campaign. On any result other than “BOOM!” the weapon
 has jammed or run out of loaded barrels and must be
@@ -2078,7 +2078,7 @@ shots; if more than one shot is made the to hit roll is at -1.
 Resolve each shot individually, you may choose to shot later
 shots at a different target, but they must be within 3" of the
 previous target. Ordinary targeting restrictions apply to shots
-as per Hammerheim rulebook.
+as per Mordheim rulebook.
 Move or Fire: You may not move and fire a Repeater
 Handgun in the same turn, other than to pivot on the spot to
 face your target or stand up from knocked down.
@@ -2109,7 +2109,7 @@ Not a Club, Quick Reload, Save Modifier,
 
 
 Experimental: The Repeater Pistol is always subject to the
-optional Blackpowder Weapons rules from the Hammerheim
+optional Blackpowder Weapons rules from the Mordheim
 rulebook, even if they are not normally used in your
 campaign. On any result other than “BOOM!” the weapon
 has jammed or run out of loaded barrels and must be
@@ -2119,7 +2119,7 @@ if more than one shot is made the to hit roll is at - 1. Resolve
 each shot individually, you may choose to shot later shots at a
 different target, but they must be within 3" of the previous
 target. Ordinary targeting restrictions apply to shots as per
-Hammerheim rulebook.
+Mordheim rulebook.
 Move or Fire: You may not move and fire a Repeater Pistol
 in the same turn, other than to pivot on the spot to face your
 target or stand up from knocked down.
@@ -2307,7 +2307,7 @@ from Hochland decided to weld two barrels together on a pistol and
 sell it for twice the price. The Warband was so impressed with their
 new weapon that they asked him to do the same to their hunting
 rifle. Since then the Weaponsmith has been flooded with orders from
-some of the most powerful Warbands in Hammerheim.
+some of the most powerful Warbands in Mordheim.
 
 
 A double-barrelled weapon is a tricky piece of engineering,
@@ -2371,7 +2371,7 @@ in the known world is made in Dwarf forges, where the secrets of steel and fire 
 jackets are often worn by the hunters of Osterland, while city soldiers prefer mail coats and steel breastplates. The forges of
 the Empire have many skilled smiths capable of forging fine armour, for the humans learned this craft from Dwarf master
 smiths in the early days of the Empire.
-In Hammerheim, only the most wealthy and powerful are able to afford the luxury of owning a suit of armour (the less well-off
+In Mordheim, only the most wealthy and powerful are able to afford the luxury of owning a suit of armour (the less well-off
 have to make do with leather tunics and occasionally helmets and wooden shields). The richest leaders of the most
 successful warbands wear suits of high quality armour and a good suit of armour is just as much a symbol of wealth and
 power as it is protection against weapons.
@@ -2607,7 +2607,7 @@ to his armour saves.
 
 #### Shield
 
-There are two types of shield common to the warriors of Hammerheim:
+There are two types of shield common to the warriors of Mordheim:
 the first is made of wood, occasionally reinforced with metal plates.
 This basic type of shield, although strong, does tend to splinter, but
 this can sometimes save the user’s life as his enemy’s weapon can
@@ -2663,11 +2663,11 @@ armour saves against all shooting attacks.
 
 #### Miscellaneous equipment
 
-This section covers all the strange and unusual equipment your warriors can find in the ruins or buy from the merchants and pedlars in the settlements and villages around Hammerheim. If an item has the "_(One Use Per Battle)_" special rule then the item may only be used once per battle and their effects last only for one turn. The Warrior will then freely replenish their stock after the battle, as the cost of purchasing the item is essentially training the Warrior in how to acquire it for themselves.
+This section covers all the strange and unusual equipment your warriors can find in the ruins or buy from the merchants and pedlars in the settlements and villages around Mordheim. If an item has the "_(One Use Per Battle)_" special rule then the item may only be used once per battle and their effects last only for one turn. The Warrior will then freely replenish their stock after the battle, as the cost of purchasing the item is essentially training the Warrior in how to acquire it for themselves.
 
 ## Alcohol, Drugs, Poisons & Potions
 
-The use of poison is almost universally abhorred, but in the ruthless and brutal battles fought in Hammerheim, desperate warbands often resort to the use of envenomed blades. Poison may not be used with blackpowder weapons. A Weapon may not have more than one type of poison on it at once, though Warriors may carry multiple vials of poison to last them longer. 
+The use of poison is almost universally abhorred, but in the ruthless and brutal battles fought in Mordheim, desperate warbands often resort to the use of envenomed blades. Poison may not be used with blackpowder weapons. A Weapon may not have more than one type of poison on it at once, though Warriors may carry multiple vials of poison to last them longer. 
 
 #### Black Lotus
 _(One Use Per Battle)_
@@ -2837,7 +2837,7 @@ _(One Use Per Battle)_
 
 #### Speed Potion
 _(One Use Per Battle)_
-Clear blue flasks of Quicksilver Elixir are a unique sale in Hammerheim and have become favourite items of thieves, rogues, assassins, or paranoid nobles for whom a quick getaway is paramount. These potions allow a user to push their body past its normal limits, though at the cost of great exhaustion.
+Clear blue flasks of Quicksilver Elixir are a unique sale in Mordheim and have become favourite items of thieves, rogues, assassins, or paranoid nobles for whom a quick getaway is paramount. These potions allow a user to push their body past its normal limits, though at the cost of great exhaustion.
 ● Effect: The Potion grants +2 Movement, +2 Initiative, but -1 Toughness.
 
 
@@ -3072,7 +3072,7 @@ works normally.
 (Halflings Only)
 All Halfling chefs have their own secret recipes, and these are
 recorded in tomes handwritten in Mootland, the home country of the
-Halflings. So famous are some of these books that adventurous Halflings will venture even into places as dangerous as Hammerheim to sample these recipes. A warband with a Halfling Cookbook pays 1 gold less when hiring new Halflings, and may own any number of Halfling Cookbooks (though the cost of new Halflings may never go negative. Even Halflings aren't crazy enough to pay people to get them killed)
+Halflings. So famous are some of these books that adventurous Halflings will venture even into places as dangerous as Mordheim to sample these recipes. A warband with a Halfling Cookbook pays 1 gold less when hiring new Halflings, and may own any number of Halfling Cookbooks (though the cost of new Halflings may never go negative. Even Halflings aren't crazy enough to pay people to get them killed)
 
 #### Hammer of Witches
 
@@ -3151,10 +3151,10 @@ may re-roll a failed magic test on a D6 roll of 4+.
 ● Rare: Greenskins may consider Magic Gugginz as a Rare
 9.
 
-#### Hammerheim Map
+#### Mordheim Map
 
 Some survivors of the cataclysm still remain in the many settlements
-around Hammerheim, and make a living by preparing maps of the city
+around Mordheim, and make a living by preparing maps of the city
 from memory. Many of these maps are faked, and even real ones are
 often crude and inaccurate.
 A map can help a warband find their way through the
@@ -3175,7 +3175,7 @@ detailed. You may re-roll up to three dice during the
 next exploration phase if you wish. You must accept
 the result of the second roll.
 6 Master Map: This is one of the twelve master maps
-of Hammerheim made for Count von Steinhardt of
+of Mordheim made for Count von Steinhardt of
 Ostermark. From now on you may always re-roll one
 dice when rolling on the Exploration chart as long as
 the Hero who possesses this map was not taken out of
@@ -3208,9 +3208,9 @@ Familiar).
 _[Not available to Witch Hunters or Sisters of Sigmar]_
 
 Sometimes books of forbidden lore are offered for sale in the
-markets and dark alleys of the settlements around Hammerheim.
+markets and dark alleys of the settlements around Mordheim.
 A tome of magic may be consumed by a wizard in order to add +1 to their wizard level
-and in the case of Hammerheim wizards unlocks access to one lore of magic
+and in the case of Mordheim wizards unlocks access to one lore of magic
 appropriate to their closest Warhammer counterpart. A wizard may consume multiple
 tomes but may not increase their wizard level above 4.
 
@@ -3261,7 +3261,7 @@ warband is about to take a Rout test.
 _[Shadow Warriors Only]_
 
 Similar to the Standard of Nagarythe, units of Shadow
-Warriors sent into Hammerheim often bring with them a war
+Warriors sent into Mordheim often bring with them a war
 horn to rally around. The rules for the War Horn of
 Nagarythe are the same as for a normal War Horn.
 ## Explosives
@@ -3276,7 +3276,7 @@ before the gunpowder ignites and explodes. This can often
 prove to be dangerous, as if the fire bomb is fused incorrectly
 it could be the thrower who finds himself amidst the
 explosion... The fire bomb may be thrown in the Shooting
-phase in the same way as blessed water (p53 Hammerheim
+phase in the same way as blessed water (p53 Mordheim
 rulebook). If the bomb lands on target, the warrior hit takes
 D3 Strength 4 Flaming hits with no saves for armour and all warriors,
 friend or foe, within 1” of him take 1 Strength 3 hit with
@@ -3288,7 +3288,7 @@ warrior had been hit by his own fire bomb.
 _(One Use Per Battle)_
 An ancient Dwarf creation, flash powder is used in mines to
 illuminate darkened fissures in the search for gold and other
-precious minerals. In Hammerheim, small bags of this substance
+precious minerals. In Mordheim, small bags of this substance
 can be used to blind enemies, throwing them into disarray as a panicked last resort.
 If the holder of Flash Powder is neither _incapacitated_ nor engaged in combat then they may 
 throw the Powder at a model that charges them as an interrupt. From where the charger began its charge the model with Powder may attempt to throw it as if they were shooting at the charger with a Thrown Weapon. If the charger was out of range or not in sight then the Powder may not be used, as the user simply wasn't expecting to be charged so abruptly! Should the user successfully hit the target the charge will fail, as if they had failed a leadership test to charge a Fear-causing opponent.
@@ -3337,7 +3337,7 @@ Truly successful warband leaders are quite willing to waste their
 money on extravagant excesses such as rare wines, jewel-encrusted
 weapons and armour and Cathayan spices. The height of such
 indulgence is an opulent coach, which the warband leader can use
-for driving around the settlements surrounding Hammerheim. There
+for driving around the settlements surrounding Mordheim. There
 are few things that will impress commoners, or incur the wrath and
 envy of other, less successful leaders, as much as an opulent coach - though quite what 'opulence' means will vary wildly from Warband to Warband. To a Goblin it may simply mean it is festooned with an extraordinarily large amount of random junk.
 
@@ -3351,7 +3351,7 @@ A coach also functions as a Chariot with a potential crew size of 1, and may be 
 #### Rope & Hook
 
 A warrior using a rope & hook will find it much easier to move
-amongst the ruins of Hammerheim.
+amongst the ruins of Mordheim.
 A warrior equipped with a rope & hook may re-roll failed
 Initiative tests when climbing up and down.
 
@@ -3674,7 +3674,7 @@ _[Not available to Skaven]_
 The men of the Empire have always been experts at raising
 ferocious bloodhounds to guard their cattle and holdings against
 roaming Goblins and Beastmen. A highly trained War hound is a
-dangerous opponent and worth its weight in gold in Hammerheim.
+dangerous opponent and worth its weight in gold in Mordheim.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 War Hound 6 4 0 4 3 1 4 1 5
@@ -3689,7 +3689,7 @@ or Henchman that puts the War Hound out of action gets a
 bonus +1 experience.
 
 Wild Hog
-Wild Hogs are useful beasts in the streets of Hammerheim as they
+Wild Hogs are useful beasts in the streets of Mordheim as they
 trample down the street squealing and knocking people out of their
 way. They also have a terrible odour that often makes it an
 unfavourable animal to have around the camp
@@ -4002,7 +4002,7 @@ Henchman that puts the Tuckgor out of action gets a bonus
 War Boar
 Large, ferocious and bad-tempered – a perfect mount for an Orc
 Warlord. Orc warbands occasionally make use of these noisome
-beasts while exploring the ruins of Hammerheim and beyond. It isn’t
+beasts while exploring the ruins of Mordheim and beyond. It isn’t
 common though, as the bigger and meaner Orcs tend to take the
 boars for themselves.
 

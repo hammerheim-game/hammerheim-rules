@@ -3,7 +3,7 @@
 All across the world you can find gladiatorial pit fights, here
 you can find hardy fighters taking up arms against each other.
 From the vicious pits of Cutthroat’s Haven to the Black Pits
-surrounding Hammerheim there can be heard the clash of steel.
+surrounding Mordheim there can be heard the clash of steel.
 In most places local law itself bans these fights, but the
 culture itself remains a haven for ex-mercenaries, escaped
 convicts and itinerant conmen and bribes to local officials
@@ -18,7 +18,7 @@ sport (and of course often die for it also!) because they know
 of little else.
 The men in this Warband consist solely of professional Pit
 Fighters who were either able to buy their freedom or have
-escaped. Now they roam the streets of Hammerheim in search
+escaped. Now they roam the streets of Mordheim in search
 for the Wyrdstone that would bring them wealth faster than
 anyone can imagine.
 The Pit Fighters are used to fighting in streets and small
@@ -218,7 +218,7 @@ down, 3-5 as stunned, and 6 as out of action.
 Hard Head: Dwarfs ignores the special rules for maces,
 clubs, etc. They are not easy to knock out!
 Hate Orcs and Goblins: All Dwarfs hate Orcs and Goblins.
-See the psychology section of the Hammerheim rules for details
+See the psychology section of the Mordheim rules for details
 on the effects of hatred.
 Grudgebearers: Dwarfs hold an ancient grudge against
 Elves from the days when the two races fought for the

@@ -6,7 +6,7 @@ the scope of their birthright, or whose sorcerous skills or
 physical deformities place them in constant danger of
 persecution. What do such men have to lose if they pledge
 their souls to the dark gods of Chaos! In the aftermath of the
-destruction of Hammerheim all manner of mutants have
+destruction of Mordheim all manner of mutants have
 appeared whilst many hitherto unblemished folk feel the
 stirring of strange powers, the first awakenings of magical
 gifts destined to bring them to a fiery death at the hands of
@@ -21,20 +21,20 @@ his bidding.
 As all students of the dark arts know, it is by the power of
 magic that creatures such as Daemons and spirits are able to
 stalk the mortal world. The wyrdstone that proliferates in
-Hammerheim grants unnatural life to many vile things that by all
+Mordheim grants unnatural life to many vile things that by all
 natural rights should never exist. The Possessed were once
 men but by surrendering themselves wholly to the dark gods
 they have allowed Daemons to possess their bodies. Their
 appearance is horrific – corrupted from within, their flesh is
 twisted into a new and monstrous form.
 With the power of the Possessed behind them the followers
-of the Shadowlord have grown powerful in Hammerheim. In the
+of the Shadowlord have grown powerful in Mordheim. In the
 Massacre of Silver Street the Cult of the Possessed ambushed
 and destroyed a large force sent in to hunt them down. Now
-the streets of Hammerheim belong to the Shadowlord and his
+the streets of Mordheim belong to the Shadowlord and his
 servants. The contaminated air does not affect them at all or,
 more likely, it nourishes their inner corruption. Men who
-venture into Hammerheim alone are hunted down and sacrificed
+venture into Mordheim alone are hunted down and sacrificed
 to the dark gods. All warbands of the Possessed gather
 wyrdstone for the Shadowlord who remains hidden in the Pit
 where he is said to be guarded by titanic Possessed the size of
@@ -155,7 +155,7 @@ of the Realm of Chaos.
 The powerful spirit of a Daemon can meld several creatures
 together, be they men or animals, into a multi-faceted horror. These
 monstrous Possessed are perhaps the most dangerous of the
-creatures of Hammerheim, and certainly the most loathsome and
+creatures of Mordheim, and certainly the most loathsome and
 dreadful.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 4 4 2 4 2 7
@@ -192,7 +192,7 @@ mutations each. See the Mutations list for the cost.
 35 gold crowns to hire
 Darksouls are men who have been driven insane by the daemonic
 possession which became all too common after the destruction of
-Hammerheim. The Daemons have left the bodies of these men, but their
+Mordheim. The Daemons have left the bodies of these men, but their
 minds have been scarred by the horror of the experience.
 Their insane strength makes Darksouls dangerous fighters. The
 Cultists regard them as holy men, and let them work out their
@@ -225,7 +225,7 @@ list.
 45 gold crowns to hire
 Beastmen are mutated monstrosities that infest the forests of the
 Empire: massive horned creatures with an inhuman resistance to
-pain. The destruction of Hammerheim brought many Beastmen into the
+pain. The destruction of Mordheim brought many Beastmen into the
 ruined city to prey upon the survivors. They readily ally with the
 Magisters of the Possessed warbands.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |

@@ -1,10 +1,10 @@
-# Hammerheim
+# Mordheim
 
 ## Introduction
 
-Welcome to Hammerheim, City of the Damned! Hammerheim is a game of combat that takes place during the short but intense period when scores of warbands fought hundreds of bitter skirmishes throughout the city. 
+Welcome to Mordheim, City of the Damned! Mordheim is a game of combat that takes place during the short but intense period when scores of warbands fought hundreds of bitter skirmishes throughout the city. 
 
-This book contains all the information you will need in order to play Hammerheim, as well as background information, advice on starting a warband, running a campaign, collecting and painting your own warband, etc. 
+This book contains all the information you will need in order to play Mordheim, as well as background information, advice on starting a warband, running a campaign, collecting and painting your own warband, etc. 
 
 ## Contents
 
@@ -16,6 +16,6 @@ This book contains all the information you will need in order to play Hammerheim
 6. Magic
 7. Equipment
 8. Scenarios
-9. Hammerheim Mods
+9. Mordheim Mods
 10. Optional Rules
 11. Reference Sheets

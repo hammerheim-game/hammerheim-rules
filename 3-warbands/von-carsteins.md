@@ -19,7 +19,7 @@ For many long years Vlad has gathered his strength and
 mustered his Undead legions in secrecy. One day soon he will
 march from the forests of Sylvania at the head of an army of
 restless dead. The pieces of magic stone that lie scattered
-among the ruins of Hammerheim can give the Count the power to
+among the ruins of Mordheim can give the Count the power to
 challenge the nobles of the Empire and enslave the men of the
 Old World.
 Wyrdstone holds enough captured magical energy to unleash a
@@ -30,11 +30,11 @@ war against the divided rulers of the Empire. His plans laid
 out, Vlad sends his thralls, the immortal Vampires, to do his
 bidding.
 During dark, moonless nights, black coaches arrive at the
-gates of Hammerheim carrying coffins. Ghouls scuttle from their
+gates of Mordheim carrying coffins. Ghouls scuttle from their
 hiding places to greet them, and corpses are stirred by a
 command which the living cannot hear. Following the
 commands of the Vampire, they hunt for shards of wyrdstone.
-The night belongs to the Undead, and in Hammerheim it is
+The night belongs to the Undead, and in Mordheim it is
 always night.
 
 ##### Special Rules
@@ -101,7 +101,7 @@ Vampires lead the Undead in their search for the magical stones
 that will give their master the power to conquer the Empire.
 Although but pale shadows when compared to the dread Vampire
 Lords, the immortal servants of Vlad are still some of the most
-powerful creatures who fight in Hammerheim. Most of them serve the
+powerful creatures who fight in Mordheim. Most of them serve the
 undying count of Sylvania, but some have found the city to their
 liking, and have become independent.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
@@ -131,7 +131,7 @@ Necromancy. Many of them are acolytes and servants of Vlad von
 Carstein, and follow the agents of their master to the city of the
 Damned. Others are recruited from amongst wizards and warlocks
 who have come under the suspicion of the various agents of Sigmar
-and have fled to Hammerheim to avoid persecution.
+and have fled to Mordheim to avoid persecution.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
 Weapons/Armour: Necromancers may be armed with
@@ -149,7 +149,7 @@ on a new skill.
 0-3 Dregs
 20 gold crowns to hire
 Dregs are the most miserable human survivors of the demise of
-Hammerheim. They are deformed and rejected individuals, shunned
+Mordheim. They are deformed and rejected individuals, shunned
 even by the other men and women who still live in the ruins and
 catacombs of the city.
 Vampires often recruit Dregs as their servants and treat them with
@@ -158,7 +158,7 @@ their Undead overlords and will do anything to protect and serve
 them.
 Dregs are very useful to their masters as they can be sent to buy
 equipment, weapons and supplies from the settlements around
-Hammerheim which would often not welcome Necromancers or where
+Mordheim which would often not welcome Necromancers or where
 Vampires would fall under the suspicion of the Witch Hunters. They
 can also do the bidding of their vampiric master during daylight,
 when the Vampires must rest in their coffins.
@@ -241,7 +241,7 @@ men, these creatures have given up their human life and dwell near
 graveyards, crypts and tombs, digging up the rotting corpses of the
 recently buried and consuming the cold flesh with their bare teeth
 and claws.
-The destruction of Hammerheim attracted many Ghoul clans from the
+The destruction of Mordheim attracted many Ghoul clans from the
 north, and now they have taken up permanent residence in the
 crypts and cemeteries of the ruined city.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
@@ -257,7 +257,7 @@ therefore cause fear.
 Dire Wolves are slavering Undead hounds, the animated remains of
 the giant wolves of the Worlds Edge Mountains. Their chilling howls
 can strike fear into the hearts of even the bravest warriors or most
-ruthless Dwarf mercenaries. They prowl the streets of Hammerheim
+ruthless Dwarf mercenaries. They prowl the streets of Mordheim
 like shadows, and many men have died with the cold jaws of a Dire
 Wolf around their neck.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |

@@ -40,7 +40,7 @@ attended to their spiritual needs, and, when the occasion
 arose, also attended to their wounds.
 
 In the years that followed the sighting of the twin-tailed star
-in the sky, it was inevitable that tales of Hammerheim would
+in the sky, it was inevitable that tales of Mordheim would
 have travelled down the waters of the River Stir. Tales of
 strange sights and great riches would easily have reached the
 inhabitants of Stirwood Forest. Temptations of this enormous

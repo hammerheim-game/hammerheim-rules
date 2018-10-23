@@ -1,6 +1,6 @@
 # hammerheim-rules
 
-3rd edition rules for the Hammerheim tabletop game
+3rd edition rules for the Mordheim tabletop game
 
 Work in progress, contributions welcome
 

@@ -1,6 +1,6 @@
 #### Ostermark
 
-Ostermark is the Easternmost city of the Empire and home to Hammerheim,
+Ostermark is the Easternmost city of the Empire and home to Mordheim,
 the city that was once its capitol. Of all the countries of the Empire
 the Ostermarks were perhaps the best psychologically equipped to deal
 with its calamatous loss, for death plays a large part in Ostermark

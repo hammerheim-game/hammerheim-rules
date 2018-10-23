@@ -54,7 +54,7 @@ roving the lands of the Old World to exploring the steamy
 jungles of Lustria.
 Due to their wandering nature, it’s not uncommon to see
 Shadow Warriors travelling the lands of the Empire, so they
-should fit right in your normal games of Hammerheim.
+should fit right in your normal games of Mordheim.
 However, the Empire is not the only land these tireless
 
 warriors travel to in their quest to rid the world of Dark
@@ -139,7 +139,7 @@ Elven Runestones* ...................................................... 50 GC
  
 * – Heroes only. These special prices represent the lower
 rarity of these items in Ulthuan; when attempting to purchase
-these items in Hammerheim (or Lustria), Shadow Warriors pay
+these items in Mordheim (or Lustria), Shadow Warriors pay
 the same prices as other Warbands, and must roll to find them
 as normal. No roll is necessary to find these items when first
 starting a Shadow Warrior Warband.

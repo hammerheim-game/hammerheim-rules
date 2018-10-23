@@ -13,7 +13,7 @@ deep into any territory where their swift swords and sure
 arrows could bring them wealth, and Hogada Khan and his
 Keregit raiders are no different. When human captives
 revealed to Hogada the rumors of the untold riches available
-in Hammerheim, the opportunistic leader immediately
+in Mordheim, the opportunistic leader immediately
 abandoned his orders from the Ka-Khan and steered his wolf
 riders towards the City of the Dammed.
 The Keregit raiders keep their camp on a constant move, and
@@ -23,11 +23,11 @@ Khan that mobility and secrecy are his two greatest allies.
 Certainly more reliable than most of his treacherous warriors.
 Only a swift sword delivering death to those who oppose his
 rule has kept this group together. Although the wealth the
-hobgoblins are earning in Hammerheim helps with loyalty, as it
+hobgoblins are earning in Mordheim helps with loyalty, as it
 far exceeds what they’re used to finding on the warpath.
 Soon after arriving Hogada began raiding the city with large
 groups of wolf riders, but the clever git quickly realized two
-things. First, Hammerheim is not the steppe, and large parties
+things. First, Mordheim is not the steppe, and large parties
 cannot move through the ruins with the stealth and agility a
 hobgoblin must have to survive. Secondly, the Khan
 discovered that wolves were not the best form of

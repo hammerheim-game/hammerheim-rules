@@ -1,7 +1,7 @@
 ﻿
 ### Campaigns
 
-Warbands travel to the City of the Damned from all over the Old World. They come from many races and for many reasons but ultimately they must all face the dangers of the dim alleys and twisting, winding streets of Hammerheim. Although it is great fun to fight individual battles, part of the challenge of Hammerheim is to build your warband into a force to be reckoned with. A campaign gives your warband the chance to gain experience and new skills, as well as the opportunity to hire extra warriors as its fame and fortune increases.
+Warbands travel to the City of the Damned from all over the Old World. They come from many races and for many reasons but ultimately they must all face the dangers of the dim alleys and twisting, winding streets of Mordheim. Although it is great fun to fight individual battles, part of the challenge of Mordheim is to build your warband into a force to be reckoned with. A campaign gives your warband the chance to gain experience and new skills, as well as the opportunity to hire extra warriors as its fame and fortune increases.
 
 #### Starting a campaign
 
@@ -77,7 +77,7 @@ Some events, such as losing in the Pits to a Pit Fighter or being victim to _Kil
 
 ##### 11-15 DEAD
 
-The warrior is dead and their body is abandoned in the dark alleys of Hammerheim, never to be found again. All the weapons and equipment he carried are lost. Remove them from the warband’s roster.
+The warrior is dead and their body is abandoned in the dark alleys of Mordheim, never to be found again. All the weapons and equipment he carried are lost. Remove them from the warband’s roster.
 
 ##### 16-21 MULTIPLE INJURIES
 
@@ -161,7 +161,7 @@ The warrior regains consciousness and finds themself held captive by the warband
 
 ##### 62-63 HARDENED
 
-The warrior survives and becomes numb to the horrors of Hammerheim. From now on they are _immune to fear_.
+The warrior survives and becomes numb to the horrors of Mordheim. From now on they are _immune to fear_.
 
 ##### 64 HORRIBLE SCARS
 
@@ -271,10 +271,10 @@ or equipment. Note, however, that you must pick a maximum of
 six dice out of all the dice you roll, even if you are allowed to
 roll seven dice or more.
 2. Some things, such as skills and equipment, (like the
-Hammerheim Map) may allow you to re-roll dice. If your warband
+Mordheim Map) may allow you to re-roll dice. If your warband
 includes an Elf Ranger, you may modify one dice by +1 or -1.
 3. If you rolled any doubles, triples, etc, you have found an
-unusual location in Hammerheim. Consult the Exploration chart on
+unusual location in Mordheim. Consult the Exploration chart on
 the next page to see what you find. Refer to the appropriate entry
 on the following pages and follow the instructions given there.
 4. Add the results together and consult the chart on the next page
@@ -306,7 +306,7 @@ Dice Result Shards Found
 ### Doubles
 
 #### (11) Well: 
-The public wells, of which there were several in Hammerheim, were covered by rooves raised up on pillars and adorned with carvings and fountains. The city was proud of its water system. Unfortunately, like all the other wells, this one is in a parlous state and undoubtedly polluted with wyrdstone. Choose one of your Heroes and roll a D6. If the result is equal to or lower than their Toughness, they find one shard of wyrdstone at the bottom of the well. If they fail, the Hero swallows tainted water and must miss the next game through sickness.
+The public wells, of which there were several in Mordheim, were covered by rooves raised up on pillars and adorned with carvings and fountains. The city was proud of its water system. Unfortunately, like all the other wells, this one is in a parlous state and undoubtedly polluted with wyrdstone. Choose one of your Heroes and roll a D6. If the result is equal to or lower than their Toughness, they find one shard of wyrdstone at the bottom of the well. If they fail, the Hero swallows tainted water and must miss the next game through sickness.
 
 #### (22) Shop: 
 The Merchants Guild shop has been thoroughly ransacked.Even so, there are still items scattered around the single, long room, mingled in with the rubble. Some are useful, such as cast iron pots and pans and rolls of fine cloth. All manner of smaller items are lying about – the sort of frippery which no longer has a use in a devastated city with few inhabitants. After a thorough search you find loot worth D6 GC. If you roll a 1 you will also find a Lucky Charm.
@@ -327,7 +327,7 @@ D6 Result
 6: Suit of light armour
 
 #### (44) Straggler:
-Your warband encounters one of the survivors of Hammerheim, who has lost his sanity along with all his worldly possessions. Skaven warbands can sell the straggler to agents of Clan Eshin (who will use the man for food or slavery) and gain 2D6 GC. Possessed warbands can sacrifice the unfortunate individual for the glory of the Chaos gods. The leader of the warband will gain +1 Experience. Undead warbands can kill the man and gain a Zombie for no cost.
+Your warband encounters one of the survivors of Mordheim, who has lost his sanity along with all his worldly possessions. Skaven warbands can sell the straggler to agents of Clan Eshin (who will use the man for food or slavery) and gain 2D6 GC. Possessed warbands can sacrifice the unfortunate individual for the glory of the Chaos gods. The leader of the warband will gain +1 Experience. Undead warbands can kill the man and gain a Zombie for no cost.
 
 Any other warband can interrogate the man and gain insight into the city. Next time you roll on the Exploration chart, roll one dice more than is usually allowed, and discard any one dice. (For example, if you have three Heroes, roll four dice and pick any three).
  ```
@@ -338,7 +338,7 @@ Roll a D6 to see what you find:
 
 D6 Result
 
-1-2 Hammerheim Map (see Miscellaneous Equipment)
+1-2 Mordheim Map (see Miscellaneous Equipment)
 
 3-4 A purse with 2D6 GC
 
@@ -528,7 +528,7 @@ points distributed amongst the Heroes of the warband.
  
 #### (6666) Catacombs
 You find an entrance to the catacombs and tunnels below
-Hammerheim.
+Mordheim.
 
 You can use the new tunnels you found in the next battle you
 play. Position up to four Small warriors anywhere on the table during your deployment phase. They cannot placed within 8" of any enemy models.
@@ -608,12 +608,12 @@ Leadership value. If passed they immediately gain the Beast Companion skill and 
  
 #### (66666) Entrance to the Catacombs
 You find a well-hidden entrance to the dark catacombs which
-extend for miles beneath the city of Hammerheim. Although the
+extend for miles beneath the city of Mordheim. Although the
 entrance looks foreboding the tunnels will take hours off your
 searches of the city.
 
-You can use these tunnels to explore Hammerheim more
-efficiently. From now on, you may always add an extra exploration dice to your pool. Finding further entrances will stack this effect, as your warband becomes even more proficient at mapping out the maze-like caverns beneath Hammerheim.
+You can use these tunnels to explore Mordheim more
+efficiently. From now on, you may always add an extra exploration dice to your pool. Finding further entrances will stack this effect, as your warband becomes even more proficient at mapping out the maze-like caverns beneath Mordheim.
 
 \page
 ### Six of a kind
@@ -628,7 +628,7 @@ If the Hero passes both tests they return with arms full of the brightest, green
 Heroes with Stupidity or Frenzy automatically fail if sent into The Pit.
 
 #### (222222) Hidden Treasure
-In the depths of Hammerheim, you come across a hidden chest,
+In the depths of Mordheim, you come across a hidden chest,
 bearing the coat-of-arms of one of the noble families of the
 town.
 
@@ -695,7 +695,7 @@ Suit of heavy armour 5+
 
 D6 Daggers Auto
 
-Hammerheim Map 4+
+Mordheim Map 4+
 
 D3 Halberds 5+
 
@@ -708,7 +708,7 @@ D3 Bows 4+
 D3 Helmets 2+
  
 #### (555555) Fighting Arena
-During better times, Hammerheim was famous for its duellists
+During better times, Mordheim was famous for its duellists
 and pit fighters. You have found one of the areas used to
 train these warriors. The place is filled with training
 equipment and practice weapons.
@@ -737,7 +737,7 @@ found a magical artefact. In a campaign none of these items can appear more than
 
 #### 1 The Boots and Rope of Pieter
 Pieter, the master thief of the Guild of Shadows, was the most
-famous of all the cat burglars of Hammerheim. He earned the
+famous of all the cat burglars of Mordheim. He earned the
 nickname ‘Spider’ for his daring robberies. The secret of his
 success was a pair of enchanted boots and a magical rope
 which he had acquired from far-off Araby.
@@ -863,7 +863,7 @@ In the table below the x-axis represents the size of your warband, and the y-axe
 #### Sisters of Sigmar and income
 
 Worldly possessions mean little to the Sisters, but their holy
-mission to purify Hammerheim of the influence of Chaos
+mission to purify Mordheim of the influence of Chaos
 requires supplies and weaponry, and these are much in
 demand. Thus the warbands of the Sisterhood compete with
 each other to gain the best weapons and equipment from the
@@ -903,7 +903,7 @@ details.
 ```
 ### Trading
 
-Every Settlement around the city of Hammerheim has at least
+Every Settlement around the city of Mordheim has at least
 one trading post, shop or merchant’s guildhouse where the
 local traders sell their wares and buy wyrdstone and other
 items that have been scavenged from the ruins. In a large
@@ -915,7 +915,7 @@ another. The most unscrupulous merchants actively trade
 with the Possessed Cultists, and creatures such as the Skaven
 have their own network of contacts, while Vampires can send
 the Dregs that serve them into the less salubrious settlements
-around Hammerheim, such as Cutthroats’ Haven.
+around Mordheim, such as Cutthroats’ Haven.
 
 #### Spending cash
 
@@ -963,7 +963,7 @@ equipped in the same way as existing members of the group.
 #### Weapons
 
 If a player wants to buy new weapons or other equipment for
-existing warriors, refer to the Price chart at the end of the Equipment chapter. The chart lists all the equipment available in Hammerheim, not just the common weapons included in the Recruitment charts.
+existing warriors, refer to the Price chart at the end of the Equipment chapter. The chart lists all the equipment available in Mordheim, not just the common weapons included in the Recruitment charts.
 Rare items and weapons are not always available and vary in
 price. Remember that your warriors lack the skill to use any
 weapons other than the ones listed in the Recruitment charts.
@@ -984,7 +984,7 @@ out what they will buy later.
 Trade items are divided into two sections: common and rare
 items. Common items can be bought quite readily in any of
 the numerous trading posts and settlements around
-Hammerheim. Players may purchase as many of these items as
+Mordheim. Players may purchase as many of these items as
 they want. The price of common items is fixed, so players
 always pay the same rate for them.
 

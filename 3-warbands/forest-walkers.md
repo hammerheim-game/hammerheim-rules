@@ -7,7 +7,7 @@ in most of the large forests of the Empire. On the rare occasions that the Wood 
 races while in search of extremely rare herbs or to check the integrity of magical seals designed to keep intruders from finding
 secrets best kept from the prying eyes of the lesser races. But, ever since the appearance event known among men as the
 Hammer of Sigmar, (the twin-tailed comet) there have been an increasing number of disturbing rumours that there is a group of
-Shadow Dryads in the blasphemous city of Hammerheim. Are they the work of Cyanathair, do they belong to the fallen kin of
+Shadow Dryads in the blasphemous city of Mordheim. Are they the work of Cyanathair, do they belong to the fallen kin of
 Coethil or is there a more sinister truth behind these rumours?
 
 ##### Forest of Athel Loren
@@ -35,13 +35,13 @@ the Empire and search out the evil that is Malal and destroy
 it.
 Special rules
 Recruitment: Wood Elves are fewer in number than most of
-the other groups staking their claims in Hammerheim. To
+the other groups staking their claims in Mordheim. To
 represent this, it is harder for them to recruit replacements
 than other warbands. When a Wood Elven warband wishes to
 employ new members, the gold coin cost is paid for all
 reinforcements is paid, but the warriors don’t show up
 immediately; the new recruits must make the journey from
-Athel Loren to Hammerheim. Therefore the entire group of
+Athel Loren to Mordheim. Therefore the entire group of
 reinforcements will arrive after 1d3 games have passed.
 Rare items: The Forest-Walker warbands from forest of
 Athel Loren receive a bonus of +6 when finding rare items.
@@ -50,9 +50,9 @@ following: Lawful, Lawful / Neutral, Neutral.
 
 ##### Forest of Shadows
 
-Before the twin-tailed comet devastated Hammerheim the Forest
+Before the twin-tailed comet devastated Mordheim the Forest
 of Shadows was the home of a magnificent elven settlement
-but with the fall of Hammerheim horrible beasts and horrors
+but with the fall of Mordheim horrible beasts and horrors
 began to pour out of the city and infiltrate the forest
 corrupting the sacred glades. The rumor of the magical
 abilities of the Starstone (or wyrdstone as men named it)
@@ -60,7 +60,7 @@ spread and the wood elf mages believed that with this power
 they could once more restore the balance of the forest and
 save the sacred glades that had been corrupted. Thus it was
 decided by the elders to send small bands of warriors to
-Hammerheim to retrieve shards of Starstone.
+Mordheim to retrieve shards of Starstone.
 Special rules
 Beast-Hunters: All the Forest-Walker warbands from the
 Forest of Shadows Hate Beastmen.
@@ -77,7 +77,7 @@ Empire, high amount the trees you might find the hidden
 village of Wood Elves, they have been hiding ever sines the
 War of The Beard. It is also said that some are from an
 ancient city which was destroyed by the Dwarves. From the
-ruins of this city, the now City of Hammerheim stands. It is not
+ruins of this city, the now City of Mordheim stands. It is not
 known why, but the Wood Elves of the Great Forest are on
 the move. Maybe there is an ancient treasure hidden in the
 old Elven Ruins or maybe something even Darker hidden
