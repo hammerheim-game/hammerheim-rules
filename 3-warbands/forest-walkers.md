@@ -1,456 +1,312 @@
-﻿#### Forest-Walker Warbands
+﻿<div class='wide'>
+# Forest Walker Warbands
+</div>
 
-Once elves were a common sight in the Old World. After the War of The Beard they decided to leave the Old World and travel
-back to Ulthuan but some elves stayed back and settled in the big forests of Bretonnia. Most famous is the wood elf kingdom
-of Athel Loren ruled by Orion and Ariel. But the wood elves do not only live in Athel Loren and there are small communities
-in most of the large forests of the Empire. On the rare occasions that the Wood Elves willingly enter into discourse with other
-races while in search of extremely rare herbs or to check the integrity of magical seals designed to keep intruders from finding
-secrets best kept from the prying eyes of the lesser races. But, ever since the appearance event known among men as the
-Hammer of Sigmar, (the twin-tailed comet) there have been an increasing number of disturbing rumours that there is a group of
-Shadow Dryads in the blasphemous city of Mordheim. Are they the work of Cyanathair, do they belong to the fallen kin of
-Coethil or is there a more sinister truth behind these rumours?
+The Wood Elves, or Asrai as they are refer to themselves, are but one of the three Elven races. Like the others they too emerged from the cradle of the island paradise of Ulthuan, but unlike the other two the Asrai did so before the great schism that tore the race apart. For this reason, the Asrai hold themselves to be the only true Elves left in the world, for only they embrace the whole of their nature. The folk of Athel Loren are unburdened by ritual sanctimony and therefore capable of great extremes of thought and deed. They are at once capricious and generous, malicious and caring, servants of both the dark and the light.
 
-##### Forest of Athel Loren
+Elves are subtle creatures at heart, and live in the details of thought and deed that lesser creatures seldom notice. They live for intrigue and find joy in a clever tongue wielded by an accomplished mind. The speech of an Asrai is particularly incomprehensible to an outsider. This is not because the words themselves make little sense, but because there are always at least two possible interpretations of the intended meaning. In this way, a promise of assistance can sound disturbingly like a threat, and a death sentence like an offer of clemency. In this way does the speech of the Asrai reflect their complicated relationship with the world. Until backed up with deeds, words are just empty prophecies that speak to possible outcome; sometimes, even the Asrai do not know what they intend until the moment of action.
 
-The forest of Athel Loren is typically isolationists, they are
-ruled by the demi-gods Orion and Ariel, the King and Queen
-of the Woods. Ariel has great sorcerous power and wisdom
-beyond mortal ken. With the falling of the comet known
-among men as the Hammer of Sigmar, she felt the approach
-of a great and evil power; a fallen Chaos lord cast out of the
-dark Realms by the other Gods whom it had tried and failed
-to destroy. Known to man as Malal, this evil power was now
-incarnate on the physical plane and not subject to the
-instability that keeps other powers of Chaos somewhat in
-check. Ariel saw in her wisdom that the coming of the Lord
-of Shadows to the Old World would be a harbinger of dark
-times and the beginning of a blight upon the land. It was clear
-to her that Malal must be destroyed early or he would grow in
-power and spread his poison across the lands. By the time the
-Shadowlord turned his eye to Athel Loren he would be too
-powerful to stop. Therefore a call went out and the bravest
-Wood Elves of the glades of Athel Loren volunteered to
-make the dangerous journey across the lands of the men of
-the Empire and search out the evil that is Malal and destroy
-it.
-Special rules
-Recruitment: Wood Elves are fewer in number than most of
-the other groups staking their claims in Mordheim. To
-represent this, it is harder for them to recruit replacements
-than other warbands. When a Wood Elven warband wishes to
-employ new members, the gold coin cost is paid for all
-reinforcements is paid, but the warriors don’t show up
-immediately; the new recruits must make the journey from
-Athel Loren to Mordheim. Therefore the entire group of
-reinforcements will arrive after 1d3 games have passed.
-Rare items: The Forest-Walker warbands from forest of
-Athel Loren receive a bonus of +6 when finding rare items.
-Alignment: the Warband’s Alignment may be one of the
-following: Lawful, Lawful / Neutral, Neutral.
-
-##### Forest of Shadows
-
-Before the twin-tailed comet devastated Mordheim the Forest
-of Shadows was the home of a magnificent elven settlement
-but with the fall of Mordheim horrible beasts and horrors
-began to pour out of the city and infiltrate the forest
-corrupting the sacred glades. The rumor of the magical
-abilities of the Starstone (or wyrdstone as men named it)
-spread and the wood elf mages believed that with this power
-they could once more restore the balance of the forest and
-save the sacred glades that had been corrupted. Thus it was
-decided by the elders to send small bands of warriors to
-Mordheim to retrieve shards of Starstone.
-Special rules
-Beast-Hunters: All the Forest-Walker warbands from the
-Forest of Shadows Hate Beastmen.
-Wardancers: Forest of Shadows warbands may not purchase
-Waywatchers, but may instead take two Wardancers.
-Rare items: The Forest-Walker warbands from the Forest of
-Shadows receive a bonus of +1 when finding rare items.
-Alignment: the Warband’s Alignment may be one of the
-following: Lawful / Neutral, Neutral, Chaotic / Neutral
-##### The Great Forest
-
-It is Said that hidden deep inside the Great Forest of the
-Empire, high amount the trees you might find the hidden
-village of Wood Elves, they have been hiding ever sines the
-War of The Beard. It is also said that some are from an
-ancient city which was destroyed by the Dwarves. From the
-ruins of this city, the now City of Mordheim stands. It is not
-known why, but the Wood Elves of the Great Forest are on
-the move. Maybe there is an ancient treasure hidden in the
-old Elven Ruins or maybe something even Darker hidden
-away down there!
-Special rules
-Waywatchers: Forest-Walker warbands from the Great
-Forest may have an addition Waywatcher, but would lose the
-Wardancer.
-Rare items: The Forest-Walker warbands from the Great
-Forest receive a bonus of +1 when finding rare items.
-Alignment: the Warband’s Alignment may be one of the
-following: Lawful, Lawful / Neutral, Neutral.
+Taken together, an Elf's suppleness of mind and body ranks them amonst the deadliest of opponents. Though they may not be so hardy or so strong as the barbarians of the world, they know a finesse and precision that no such creature will ever grasp. An Elf sees every chink in their opponent's armour, every weakness of their guard. Moreover, they have the speed and skill to exploit these opportunities to land a killing strike before the foe has a chance to react. For an Asrai this is never truer than when they are armed with one of Athel Loren's famed longbows - they can place a shot through the visor of a charging knight from almost unbelievable distances.
 
 
-##### Wood Elves Special Rules
 
-Dark Enemies: Forest-Walker warbands may never ally with
-Neutral / Chaotic or Chaotic warbands (see the ‘Multiplayer
-Rules for more details on warband alliances). If ally with any
-Dwarven warbands (not Hired swords) then both parties will
-count as having distrusted alliance even if both Parties have
-the same alliance type.
-Forest Folks: The Wood Elves spend their entire lives in the
-confines of their forest, to represent this all Wood Elves have
-the following:
-* Wood Elves gain a +1 to Leadership bonus, while in
-woodland terrain. (This bonus will not take the
-Leadership characteristic above 10)
-* Wood Elves can move through woodland terrain without
-penalty
-* Wood Elves that deploy behind a tree or shrub (or similar
-cover) may declare to be hidden from the start of the
-battle.
-Tolerant: Due to their outsider status with their own people,
-the Wood Elves have learned to stifle their distaste for ‘lesser
-races’, and have even been known to work alongside them
-from time to time. A Forest-Walker Warband may hire any
-Hired Sword that is not of a Chaotic or evil bent (so no
-Skaven, Possessed, Beastmen, Dark Elves, Undead, etc.).
-They also shun the company of anyone specialising in the use
-of poison (so no Assassins) or Black power weapons. Also
-Forest-Walker Warband will not hire any Dwarven Hired
-Swords.
-Wood Elf Archery: When using normal Longbows, an extra
-6" range and an additional -1 Armour save. Therefore a
-standard Longbow has a 36" range and-1 armour saves vs.
-normal armour.
-Forest Spirits: The following rules apply to all creatures
-with the Forest Spirit special rule:
-* All Forest Spirits are Immune to Psychology.
-* All Forest Spirits are Immune to Poison.
-* All Forest Spirits Cause Fear.
-* All Forest Spirits do not gain experience.
-* All Forest Spirits treat all stunned as knock down.
-* All Forest Spirits have a special save against all attacks,
-(3+ for a Great Oak, 4+ for a Tree-kin, & 5+ for Dryads).
-* All Forest Spirits are Flammable and will take an addition
-S5 hit if they are hit with a flammable weapon.
+### Forest Walker Special Rules
+**Background:** When drawing up your roster for your Forest Walker warband you may pick from one of the three following factions. This represents the origins of your Forest Walker warband, and will confer various bonuses accordingly in addition to the ones listed in this section.	
+**Forest Walkers:** Elves are nowhere more at home than among trees. They never suffer movement penalties, or need to take Dangerous Terrain Tests if mounted, for being in a forest. Additionally, Elves in forests gain the _Stubborn_ rule.
+**Distrusts Elves:** Wood Elves have little issue with allying with factions that many others would deem unseemly, wholly confident in their ability to manipulate the lesser races and ultimately achieve their own aims. They are significantly more wary around their racial cousins however, and therefore may never form Formal Alliances with them.
+```
+```
+## Forests of Athel Loren
 
-##### Choice of warriors
+Athel Loren is a place where few mortals have set foot. To even get to Athel Loren requires a journey through treacherous Deepwoods steeped in magic that alters the passage of time itself. It is a realm of forest spirits, of curses, of wonder, of life and death. The Elves that dwell here are the most isolationist of their kind, for dwelling within it can convince a mind that no universe exists outside its own. As a consequence their culture is also incredibly distinct, for no other faction of Asrai has attained as close a relationship with the forest spirits as they. 
 
-A Forest-Walker warband must include a minimum of three
-models. You have 500 gold crowns available to spend. The
-maximum number of warriors in the warband may never
-exceed 15.
-War-leader: Each Forest-Walker warband must have one
-War-leader, no more, no less!
-Spellsinger: Your warband may include up to one
-Spellsinger, but he can only be taken instead of a Youngling.
-Waywatcher: Your warband may include up to one
-Waywatcher, but he can only be taken instead of a
-Youngling.
-Wardancer: Your warband may include up to one
-Wardancer, but he can only be taken instead of a Youngling.
-Younglings: Your warband may include up to four
-Younglings.
-Archers: Your warband may include no more than five
-Archers.
-Eternal Guards: Your warband may include no more than
-three Eternal Guards.
-Glade Guards: Your warband may include any number of
-Glade Guards.
-Dryads: Your warband may include no more than three
-Dryads.
-Tree-Kin: Your warband may include no more than three
-Tree-Kin.
-##### Starting experience
+They are the masters of craft, their cities woven into the trunks of trees and spanning out among the canopies in harmonious archetecture that grows along with the bark. Their robes are amongst the most distinctive, and they have develloped a technique known as Cold Metal forging, where metal is bent along and around durable lightweight roots to form an incredibly lightweight layer as practical for armour as it is for weaponry.
 
-The War-leader starts with 20 experience.
-The Waywatcher start with 16 experience
-The Spellsinger & the Wardancer start with 12 experience.
-Younglings & Henchmen start with 0 experience.
+It takes a great deal to convince these Elves to emerge from their isolation. Beneath The Tree of Life, their most sacred place, vast roots known as The Worldroots spread out all across The Old World. It is a source of constant nourishment to the Skaven in particular, but with one of these roots sitting just below Mordheim the seeping corruption that eminates from the city has begun to be felt even in places as remote as Athel Loren.
+
+##### Special Rules
+**Forest Spirits:** No warbands are more attuned to the needs of the forests than those of Athel Loren. Consequentially the revenant-like spirits of spite and bark are more willing to co-operate with them. They may have any number of Dryads in their warband rather than the usual limit of 3.	
+**Spiritual:** Athel Loren warbands employ great use of magic to enhance their expeditions and serve to keep them constantly connected to the forests even far from home. They may have up to two Spellsingers in the warband, rather than the usual limit of one.	
+**Alignment:** The Warband’s Alignment is Lawful, or Lawful/Neutral.
+___
 
 
-##### Forest-Walker equipment lists
+<img 
+  src='https://vignette.wikia.nocookie.net/warhammerfb/images/2/26/Warhammer_Wood_Elves_Kindred.jpg/revision/latest?cb=20161001021827.jpg' 
+  style='width:320px' />
+\page
 
-The following lists are used by Mercenary warbands to pick their weapons:
-Hand-to-hand Combat Weapons
-Dagger .............................................................. 1st free/2 GC
-Club/Staff ...................................................................... 5 GC
-Axe ................................................................................ 5 GC
-Sword .......................................................................... 5 GC
-Spear ............................................................................ 10 GC
-Double-handed weapon* ............................................. 15 GC
-Saerath*** ................................................................... 20 GC
-Cold Metal Weapon* ............................................... 2x price
-Ithilmar Weapon* ..................................................... 3x price
-Missile Weapons
-Bow ............................................................................. 10 GC
-Long Bow .................................................................... 15 GC
-Sling .............................................................................. 2 GC
-Throwing knife ............................................................ 15 GC
-Javelins ........................................................................ 10 GC
-Armour
-Helmet ......................................................................... 10 GC
-Tanned Hide (Toughened leathers) ............................... 5 GC
-Light armour** ............................................................ 20 GC
-Shield ............................................................................ 5 GC
-Cold Metal Armour* ................................................... 50 GC
-Ithilmar Armour* ........................................................ 70 GC
-Miscellaneous Equipment
-Forest Cloak ................................................................ 50 GC
-Healing Herbs .............................................................. 25 GC
-Hunting Arrows* ......................................................... 30 GC
-SCOUT EQUIPMENT LIST
-This list is for Waywatcher and Archers only
-Hand-to-hand Combat Weapons
-Dagger .............................................................. 1st free/2 GC
-Club/Staff ...................................................................... 5 GC
-Axe ................................................................................ 5 GC
 
-Sword .......................................................................... 5 GC
-Cold Metal Weapon* ............................................... 2x price
-Ithilmar Weapon* ..................................................... 3x price
-Missile Weapons
-Bow ............................................................................. 10 GC
-Long bow .................................................................... 15 GC
-Throwing knife* .......................................................... 15 GC
-Armour
-Tanned Hide (Toughened leathers) ............................... 5 GC
-Light armour* .............................................................. 20 GC
-Cold Metal Armour* ................................................... 50 GC
-Ithilmar Armour* ........................................................ 70 GC
-Miscellaneous Equipment
-Elven Cloak ................................................................. 50 GC
-Healing Herbs .............................................................. 35 GC
-Hunting Arrows* ......................................................... 30 GC
-WARDANCER EQUIPMENT LIST
-This list is for Wardancer only
-Hand-to-hand Combat Weapons
-Dagger .............................................................. 1st free/2 GC
-Sword .......................................................................... 5 GC
-Double-handed weapon ............................................... 15 GC
-Cold Metal Weapon ................................................. 2x price
-Ithilmar Weapon ....................................................... 3x price
-Missile Weapons
-Throwing knife ............................................................ 15 GC
-Armour
-None
-Miscellaneous Equipment
- 
-* Heroes Only
-** Heroes & Eternal Guards Only
-*** War-leader & Eternal Guards Only
-##### Heroes
 
-1 War-leader
-90 gold crowns to hire
-The War-leader is an experienced Wood Elven hero, who been
-Proven themselves in countless combats. The War-leader has been
-appointed by the elders to lead the warband.
+
+## Forest of Shadows
+
+The Forest of Shadows is one of the five largest forests located within the Empire's northern borders, mostly covering the territory of Ostland. Just like the neighboring forest of Drakwald, the Forest of Shadows is amongst the most dangerous places for Mankind's civilizations, for this region lies directly in the path of marauding armies of raiders heading south from the lands of the Far North. Due to its close proximity to the north this region of forest is heavily corrupted, and the Beastmen population is larger here than anywhere else in the Empire. The Ostlanders have suffered greatly as a result of these forests, the perpetual raiding by Beastmen and the forest's own often carniverous flora render much of the province unsuitable for agriculture. They are as a result the poorest of all Empire territories.
+
+In spite of this hardship there are still Asrai dwelling there, for no race is better suited to coping with dangerous forests than they. The Forest of Shadows Elves have learned to treat the Beastmen invaders as a part of forest life, though one that they resent bitterly. Living in eternal stealth high up in the treetops, the Forest of Shadows Elves have learned to express their desire for artwork through their Wardancers - silent performers who spend their long lifetimes mastering a perfect balance between death and grace.
+
+With Mordheim's corruption spreading throughout the southern bordering territory of Ostermark, many Asrai have become concerned at the increasing numbers of warbands migrating to visit it. They have observed from their vigils the Marauder, Cultist, and Beastmen warbands rampaging their way to the Cursed City in hopes of acquiring further blessings from their gods, and so the Forest of Shadows Elves venture out too in hopes of learning the cause of, and putting a stop to, the corruption.
+___
+<img 
+  src='https://i.imgur.com/02TFFyL.jpg.jpg' 
+  style='width:300px' />
+
+
+##### Special Rules
+**Beast-Hunters:** All Elves from the Forest of Shadows _hate_ all Beastmen.	
+**Wardancers:** Forest of Shadows warbands may not purchase Waywatchers, but may now take up to three Wardancers.	
+**Alignment:** the Warband’s Alignment is Lawful / Neutral, Neutral, Chaotic / Neutral.
+
+
+## The Great Forest
+
+The Great Forest, as its name suggests, is the largest forest in the Old World, and there is no Empire territory it does not touch. It is a truly continental place, and as a result its recesses can vary from vast spider lairs to human settlements untouched by the emergence of the Empire, still living small tribal subsistence lifestyles. It is perhaps remarkable then that on the whole The Great Forest is largely an uncorrupted place - be that due to its abundance of resources granting it far more attention from Empire loggers, or simply that a place of that scale could never be corrupted beyond repair by anything less than The End Times.
+
+In either case its inhabitants strive to keep it clear of the dangerous influences of Beastmen, Forest Goblins, and monsters, driving them deeper into the dense blackness of the unbroken trees in the hope that they prey on eachother. These are places that humans do not dare to tread, for so thick are the trees and so dark is it made at all times by the solidly-packed canopy that it is very possible to bump into a mutant before you can even see them.
+___
+<img 
+  src='https://i.imgur.com/8HgFsMQ.jpg.jpg' 
+  style='width:200px' />
+
+
+
+
+The Asrai of The Great Forest thrive in this darkness, and so well-hidden are they that their existence is largely considered a myth. They are the apex predators of the Forest, able to see in the most impossible of conditions - and more impressively still to track their arrows between the branches to cripple their quarry. They are enigmatic and mysterious in agenda, at once relentlessly tracking fleeing outlaws for miles in seeming delight at the terror they instil, at others guiding them back to safety at a whim.
+
+
+##### Special Rules
+**Predators:** Elves from The Great Forest may attempt Initiative tests to detect enemies from three times their Initiative value in inches, rather than the usual two.	
+**Waywatchers:** The Great Forest warbands may not purchase Wardancers, but may now take up to three Waywatchers.	
+**Alignment:** the Warband’s Alignment is Lawful, Lawful / Neutral, Neutral, Chaotic / Neutral, or Chaotic.
+
+\page
+
+
+
+### Choice of Warriors
+
+A Forest Walker warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 12. Your warband may not begin the campaign with more than five heroes.	
+**Glade Captain:** Each Forest Walker warband must have one Glade Captain: no more no less!	
+**Waywatcher:** Your warband may include up to one Waywatcher..	
+**Wardancer:** Your warband may include up to one Wardancer.	
+**Spellsinger:** Your warband may include up to one Spellsinger.	
+**Glade Guard:** Your warband may include any number of Glade Guard.	
+**Eternal Guard:** Your warband may include up to three Eternal Guard.	
+**Dryads:** Your warband may include up to three Dryads.
+
+
+### Starting Experience
+
+**Glade Captain** starts with 20 experience.	
+**Waywatchers** start with 16 experience.	
+**Wardancers** and the **Spellsinger** start with 12 experience.	
+**Henchmen** start with 0 experience.
+
+
+### Forest Walker equipment lists
+
+The following lists are used by Forest Walker warbands to pick their equipment:
+
+#### Warrior Equipment List
+| Hand-to-hand Weapons |
+| :- | -: |
+| Dagger | 1st free/2 GC |	 
+| Sword | 5 GC ||
+| Staff (club) | 5 GC |
+| Spear | 10 GC |
+| Warglaive | 25 GC |
+| Cold Metal Weapon | 2x Price |
+
+| Missile Weapons |
+| :- | -: |
+| Throwing Knives | 15 GC |
+| Elf Bow | 35 GC |
+
+| Armour |
+| :- | -: |
+| Shield |  5 GC |
+| Helmet | 10 GC |
+| Light Armour |  20 GC |
+| Cold Metal Armour | 50 GC |
+
+
+
+
+```
+```
+
+#### Ranger Equipment List
+| Hand-to-hand Weapons |
+| :- | -: |
+| Dagger | 1st free/2 GC |	 
+| Sword | 5 GC |
+| Club | 5 GC |
+
+
+| Missile Weapons |
+| :- | -: |
+| Longbow | 15 GC |
+| Throwing Knives | 15 GC |
+| Elf Bow | 35 GC |
+
+| Armour |
+| :- | -: |
+| Helmet | 10 GC |
+| Light Armour |  20 GC |
+
+| Miscellaneous Items |
+| :- | -: |
+| Black Lotus | 10 GC |
+| Hunting Arrows | 30 GC |
+| Forest Cloak | 50 GC |
+
+
+> ### Warglaive
+> **Range:** Hand-to-hand; ** Strength:** As User	
+**Special Rules:** Requires two hands. +2 Attacks.
+
+
+<div style='margin-top:30px'></div>
+
+> ### Cold Metal Weapon
+Cold Metal Weapons grant the user +1 to hit with any attacks made with that weapon.
+
+<div style='margin-top:30px'></div>
+
+> ### Cold Metal Armour
+Cold Metal Armour grants the wearer a 5+ Armour Save. Additionally, enemies are at -1 to hit the wearer in melee.
+
+
+
+\page
+
+
+
+### Heroes
+
+#### **1 Glade Captain**
+90 gold crowns to hire.	
+_Young nobles are typically entrusted with warbands to give them practice of command and leadership before they are deemed ready for larger duties. "Young" is strictly a relative term however, as by any other standard these Captains are ancient and supernaturally skilled induviduals._
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-5 5 5 3 3 1 6 1 8
-Weapons/Armour: A War-leader may be equipped with
-weapons and armour chosen from the Forest-Walker
-Equipment list.
-Skills: The War-leader may choose from Combat, Shooting,
-Academic, and Speed, when he gains a new skill. In
-addition, the War-leader may choose from the Wood Elf
-Special Skill list.
-Special Rules Excellent Sight, Forest Folks, Wood Elf
-Archery,
-Leader: Any warrior within 6" of the War-leader may use his
-Leadership characteristic when taking Leadership tests.
+| | 5 | 5 | 5 | 3 | 3 | 1 | 5 | 1 | 9 |
+___
+**Weapons/Armour:** Glade Captains may choose equipment from the Warrior Equipment List.	
+**Skills:** Glade Captains may choose from Combat, Shooting, Academic, Speed, and Wood Elf Special Skills.
+___
+##### Special Rules	
+**Leader:** Any warrior within 6" of the Glade Captain may use their Leadership characteristic when taking Leadership tests.
 
-0-1 Waywatcher
-85 gold crowns to hire
-The Waywatcher is an experienced Elven warrior of great skill and
-acumen. Incredibly stealthy and with senses honed to a razors
-sharpness he provides a formidable presence to any Wood Elf band,
-the Waywatcher move through human lands to find out more about
-those who would threaten the sanctity of their Forest Realm. Their
-ability to blend into their surroundings makes them difficult to
-target.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 5 3 3 1 6 1 7
-Weapons/Armour: Waywatcher may be equipped with
-weapons and armour chosen from the Scout Equipment list.
-Skills: The Waywatcher may choose from Shooting, and
-Speed, when he gains a new skill. In addition, the
-Waywatcher may choose from the Wood Elf Special Skill
-list.
-Special Rules Excellent Sight, Forest Folks, Wood Elf
-Archery, Infiltration, Loner
-Infiltration: The Waywatcher starts with the skill Infiltration
-from the Wood Elf Special Skill.
-Loner: The Waywatcher is Immune to All Alone tests.
+#### **0-1 Waywatcher**
+85 gold crowns to hire	
+_Waywatchers are silent sentinels, the guardians of the paths leading to the forests' secrets. They are masters of concealment, and can lie unmoving and unnoticed for days on end before springing an ambush on a startled and unfortunate prey._
 
-
-0-1 Spellsinger
-60 gold crowns to hire
-Wood Elven Spellsinger are specialist wizards in the ways of the
-powers of nature and the unchecked force of the Wild Hunt. They
-specialize in what humans call Jade and Amber magic. Jade being
-protective and drawn from the earth whilst Amber is more offensive
-and destructive being drawn from the very air and power resonating
-from the Wood Elves spirit. All their spells are fed from the earth’s
-energy. They sing their incantations softly and them the forces of
-nature react. Even in remote or desolate places they find their
-energy...
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-5 4 4 3 3 1 6 1 7
-Weapons/Armour: Spellsinger may be equipped with
-weapons and armour chosen from the Forest-Walker
-Equipment list.
-Skills: The Spellsinger may choose from Shooting,
-Academic, and Speed, when he gains a new skill. In addition,
-the Spellsinger may choose from the Wood Elf Special Skill
-list.
-Special Rules Excellent Sight, Forest Folks, Wood Elf
-Archery,
-Magic User: The Spellsinger has the ability to use magic and
-casts spells like any other magicians, and the Spellsinger
-starts with one spells generated at random from the Fey
-Magic list as well as tree-sing. See the Magic section for
-details. In addition the Spellsinger may learn a new Spell
-instead on a new skill.
-
-0-1 Wardancer
-105 gold crowns to hire
-Wardancers are perhaps the greatest and are certainly the most
-unusual of the Wood Elven warriors, possessing incredible
-acrobatic abilities and a strange fighting style designed to resemble
-a dance.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 5 4 3 3 1 6 2 8
-Weapons/Armour: Wardancer may be equipped with
-weapons and armour chosen from the Wardancer Equipment
-list.
-Skills: The Wardancer may choose from Combat and Speed when he gains a new skill. In addition, the
-Wardancer may choose from the Wood Elf Special Skill list
-and the Wardancer skill list.
-Special Rules Excellent Sight, Forest Folks, Wood Elf
-Archery, Leap, Immune to Psychology
-Wardancing: As the name suggests Wardancers use a truly unique style of 
-combat only practiced by Wood Elves, combining flawless grace with deadly 
-rhythm for a fighting style as beautiful as it is lethal. Wardancers 
-may only use one Dance at a time and they only last for their own 
-combat phase. The same Dance may not be used more than once in a row.
-There are four of these Dance Attacks used by the Wardancers as listed below:
-Shadow Coil: The Wardancer forgoes all of his attacks to nullify
-the attacks of a single opponent in base to base contact for that hand
-to hand phase.
-Storm of Blades: The Wardancer may reroll any failed roll to
-wound in that hand to hand phase.
-Whirling Death: the Wardancer gains a +1 A & +1 I, but has a -1
-to hit in hand to hand combat.
-Woven Mist: the enemies must past a leadership test or may only
-make 1 attack.
-Leap: The Wardancer start with the Skill Leap from the
-Speed Skills
-Talismanic Tattoos: 6+ Ward save and Magic Resistance 1
- 
-0-4 Younglings
-25 gold crowns to hire
-All Younglings form small war-parties at an early age to patrol the
-forest and to defend their home from invaders, the elder warriors
-teach the youngest the nuances of stealth and ambushes. With the
-impatience of youth the young elves are eager to show their skills.
-Many Younglings fight in hand-to-hand combat with swords and
-daggers while others prefer to train only with the traditional
-longbow.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 2 2 3 3 1 4 1 6
-Weapons/Armour: Younglings may be equipped with
-weapons and armour chosen from the Forest-Walker
-Equipment list.
-Skills: Younglings may choose from Combat, Shooting, and
-Speed, when he gains a new skill. In addition, the Younglings
-may choose from the Wood Elf Special Skill list.
-Special Rules Excellent Sight, Forest Folks, Wood Elf
-Archery,
+| | 5 | 4 | 5 | 3 | 3 | 1 | 5 | 1 | 9 |
+___
+**Weapons/Armour:** Waywatchers may choose from the Scout Equipment List.	
+**Skills:** Waywatchers may choose from Combat, Shooting, Speed, and Wood Elf Special Skills.
 
 
-##### Henchmen
+##### Special Rules
+**Infiltration:** The Waywatcher starts with the Infiltration skill.	
+**Loner:** Waywatchers have no interest in leadership. They may never become your warband leader, and their leadership may never be used for Rout Tests.
 
-(Bought in groups of 1-5)
-Glade Guards
-30 gold crowns to hire
-The Glade Guards are all seasoned warriors and regularly take part
-in the Forest-Walkers to fulfil their vows to defend their home land,
-they otherwise follow other occupations such as artisans. They are
-no strangers to warfare and a Highborn can rely on the Glade
-Guards in his domain to deter almost all small armies of intruders.
-With their experience they try to calm the Younglings rashness, but
-they also know that the young of the wild must learn their hard
-lessons first hand, there is no respite in the wild – eat or be eaten.
+
+#### **0-1 Spellsinger**
+60 gold crowns to hire	
+_While all Asrai are intrinsically magical beings, in truly gifted Elves this is shaped into a tool of great power. Spellsingers take great lengths to protect themselves from the corrupting forces of their magic, for even minor usage over the duration of their long, long lives can be fiercely detrimental._
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-5 3 3 3 3 1 5 1 7
-Weapons/Armour: Glade Guards may be equipped with
-weapons and armour chosen from the Forest-Walker
-Equipment list.
-Special Rules: Excellent Sight, Forest Folks, Wood Elf
-Archery
+| | 5 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 |
+___
+**Weapons/Armour:** Spellsingers may choose from the Warrior Equipment List.	
+**Skills:** Spellsingers may choose from Academic, Speed, and Wood Elf Special Skills.
+##### Special Rules
+**Magic User:** The Spellsinger uses spells from Fey Magic.
 
-0-3 Eternal Guards
-45 gold crowns to hire
-Through the long winter mouths, the forests are at its lowest ebb,
-made dormant and Vulnerable through the cycle of the seasons.
-During this time, guardianship of the most sacred of places falls to
-the Eternal Guard; sons and daughters of noble houses.
+### 0-1 Wardancer
+105 gold crowns to hire	
+_Wardancers are perhaps the greatest and are certainly the most unusual of the Wood Elven warriors, possessing incredible acrobatic abilities and a strange fighting style designed to resemble a dance._	
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-5 4 3 3 3 1 5 1 7
-Weapons/Armour: Eternal Guards may be equipped with
-weapons and armour chosen from the Forest-Walker
-Equipment list.
-Special Rules: Excellent Sight, Forest Folks, Wood Elf
-Archery, Eternal Style
-Eternal Style: The Eternal Guards has a fighting style unto
-them self. On the first round of combat the Eternal Guards
-may re-roll any to hit dice, and always count as having a +1
-to Armour Save.
+| | 5 | 5 | 4 | 3 | 3 | 1 | 6 | 2 | 8 |
+___
+**Weapons/Armour:** Wardancers may choose equipment from the Warrior Equipment List.	
+**Skills:** Wardancers may choose from Combat, Shooting, Speed, and Wardancer Special Skills.
+___
+##### Special Rules	
+**Leap:** Wardangers start with the Leap skill.	
+**Immune to Psychology:** Wardancers are _Immune to Psychology_.	
+**Talismanic Tattoos:** Wardancers gain a 5+ Ward Save against Magic Missiles and Direct Damage spells.	
+**Wardancing:** As the name suggests Wardancers use a truly unique style of combat only practiced by the Asrai, combining flawless grace with deadly rhythm for a fighting style as beautiful as it is lethal. At the start of each of your Combat Phases you may declare that your Wardancer is performing one of the dances listed below. The effects last until the end of your Combat Phase.
 
-0-5 Archers
-45 gold crowns to hire
-Wood Elf Archers are renowned throughout the Old World as the
-finest archers. This reputation is rightly deserved. The Longbow is
-the first weapon a Wood Elf is taught to use and the skill of archery
-is practiced every day.
+> **Storm of Blades:** The Wardancer may re-roll all failed 'To Hit' rolls.	
+**Whirling Death:** The Wardancer may re-roll all failed 'To Wound' rolls.	
+**Shadow's Coil:** The Wardancer gains a 3+ Ward Save.	
+**Woven Mist:** The enemy must pass a Leadership Test or be reduced to Weapon Skill 0.
+
+___
+<img 
+  src='https://imgur.com/lnxrtEx.jpg' 
+  style='width:325px' />
+
+
+
+
+\page
+### Henchmen
+
+#### Glade Guard
+35 Gold Crowns	
+_The Glade Guard are the Asrai equivalent of a militia levy - though rather than unhappy and uninvested peasants being drafted they are keen and eager warriors. They are potters and artists, husbands and wives - and they are all deadly._
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 3 4 3 3 1 5 1 7
-Weapons/Armour: Archers may be equipped with weapons
-and armour chosen from the Scout Equipment list.
-Special Rules: Excellent Sight, Forest Folks, Wood Elf
-Archery, Crossfire
-Crossfire: If more the one Archer shoots at the same target,
-they get +1 on the injury roll.
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | 5 | 3 | 4 | 3 | 3 | 1 | 5 | 1 | 7 |
+___
+**Weapons/Armour:** Glade Guard may choose equipment from the Scouts Equipment List.
+
+
+### 0-3 Eternal Guard
+35 gold crowns to hire	
+_The protection of the forests is the sole objective of the Eternal Guard, and to that end they are sworn to the service of their Nobles._
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | 5 | 4 | 3 | 3 | 3 | 1 | 5 | 1 | 8 |
+___
+**Weapons/Armour:** Eternal Guard choose equipment from the Warrior Equipment List.	
+___
+<img 
+  src='https://imgur.com/u2qce2z.jpg' 
+  style='width:580px' />
+```
+```
+### Dryads
+45 gold crowns to hire	
+_The manifestation of the forests' vengeance, Dryads are furious spirits born of bark. While the darkest parts of mortal minds are what bring Daemons into this world, it is suggested that the Dryads are the darkest parts of the forests' conscience._
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | 5 | 4 | 0 | 3 | 4 | 1 | 5 | 2 | 8 |
+___
+**Weapons/Armour:** Dryads attack with razor-sharp claws fashioned from their limbs. They may never equip weapons or armour, but suffer no penalty for doing so.
+
+##### Special Rules
+**Forest Spirit:** Dryads are not entirely living creatures, and blows that would slay a mortal of similar constitution occasionally just cause splinters but nothing more. Dryads have a 6+ Ward Save. They also never gain experience.
+**Flammable:** Being made of lightweight wood has its disadvantages. Dryads are _Flammable_.	
+**Fear:** Characterised by a shrill, hollow, inhuman screams the Dryads are twisted beings that cause _fear_.
+
+
+
+
+
+
+
+
  
-0-3 Dryads
-55 gold crowns to hire
-Creatures of the forests, the Dryads are dangerous foes when
-angered. They fight with their Elven allies to prevent harm coming
-to their lands. Some few were moved to assist the Shadow-Hunters
-in their task.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 4 4 1 6 2 8
-Weapons/Armour: Razor Sharp Talons (Counts as being
-unarmed but with no combat penalties)
-Special Rules: Forest Spirits
-
- 
-0-1 Tree-kin
-125 gold crowns to hire
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |5 4 0 5 5 3 3 3 8
-Weapons/Armour: Swinging Boughs (Counts as being unarmed but
-with no combat penalties..
-Special Rules: Forest Spirits, Large Target
-Large Target: The Tree-kin are large and so count as a large
-target.
-
-

@@ -21,7 +21,7 @@ Spell Lists
         - D6 Result
     - Norse Runes
         - D6 Result
-    - Shadow Warrior Magic
+    - Shadow Warrior Magic (REDUNDANT)
         - D6 Result
     - Fey Magic
         - D6 Result
@@ -45,9 +45,9 @@ Spell Lists
         - D6 Result
     - Waaagh! Magic
         - D6 Result
-    - Forest Goblin Spells
+    - Nasty Magicks!
         - D6 Result
-    - Magic of the Steppes
+    - Magic of the Steppes(REDUNDANT)
         - D6 Result
 
 
@@ -220,7 +220,7 @@ Norscan Shamans are an ecclectic bunch. With so many Norscan tribes shifting mor
 
 <div class='wide'>
 
-##### Shadow Warrior Magic
+##### Shadow Warrior Magic <<REDUNDANT>>
 
 Shadow Weavers use a strange blend of magic that differs in many ways to the traditional High Magic of their cousins of the Tower of Hoeth.
 
@@ -458,7 +458,7 @@ Waaagh! spells are used by Orc Shamans. They are rituals of a sort, howling pray
 | 1 | Led’z go | 9 | Augment. | The Shaman’s howling invigorates the ladz to fight even harder for Gork and Mork. Any Orc or Goblin within 4" of the Shaman will automatically strike first in hand-to-hand combat regardless of other circumstances. The spell only lasts until the caster is knocked down, stunned or taken out of action.
 | 2 | Oi! Gerroff! | 7 | Direct Damage. | A huge, green ectoplasmic hand pushes an enemy away. Range 8". Moves any enemy model within range D6" directly away from the Shaman. If the target collides with another model or a building, both suffer a S3 hit. Note: Very handy for dropping people from high buildings with. 
 | 3 | Zzap! | 9 | Magic Missile. | A crackling green bolt of WAAAGH! energy erupts from the Shaman’s forehead to strike the skull of the closest foe. This energy easily overloads the brain of a weak-willed opponent. Range 12". Causes D3 S4 hits on the closest enemy target, with no armour saves allowed.
-| 4 | Fooled Ya! | 6 | Augment. | The Shaman disappears in a green mist, confusing his enemies. No enemy may charge the Shaman during their next turn. If the Shaman is engaged in hand-to-hand combat he may immediately move 4" away.
+| 4 | WAAAAAAGH! | 9 | Direct Damage | The Shaman lets out a great bellowing roar that seems to scream with more than a single voice. WAAAAAAGH inflicts a single Strength 1 hit against a single enemy within 8". Increase the Strength by 1 for each Orc within 8" of the caster, including himself, who is in combat. |
 | 5 | Clubba | 7 | Augment. | The Shaman's current weapons are transmuted into a giant green club. The ectoplasmic club counts as a normal club with +2 Strength bonus and gives the Shaman +1 attack as well. This spell lasts until the Shaman suffers a wound.
 | 6 | Fire of Gork | 8 | Magic Missile. | Twin bolts of green flame shoot from the Shaman’s nose to strike the nearest enemy model. Range 12". Each of the two bolts causes D3 S3 hits; the bolts can either be fired both at the closest enemy target or split between the two closest enemy targets. |
 
@@ -468,17 +468,17 @@ Waaagh! spells are used by Orc Shamans. They are rituals of a sort, howling pray
 
 <div class='wide'>
 
-##### Forest Goblin Spells
+##### Nasty Magicks!
 
 
 | D6 | Result | Difficulty | Type | Effect |
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | Wind of Gork | 6 | Magic Missile. | A blast of foul flatulence signals Gork’s wrath. Range:12" The first model in its path must roll under its Toughness or take a S2 hit and be knocked down automatically. |
 | 2 | Gaze of Mork | 6 | Magic Missile. | The Shaman invokes the presence of the God Mork to smite his foes with lightning. Range 12", D3 S3 hits. |
-| 3 | ‘Eadbanger | 8 | Magic Missile. | The Shaman channels pure Waaagh! energy through his body and vomits it toward the enemy. Range 6". Fire bolts equal to the number of the Shaman’s Attacks. Resolve with Strength equal to the Shaman’sToughness at the first model in their path. After the bolts effects are resolved, roll a die. On a 1 the Shaman has drawn upon too much power! The Shaman collapses and goes out of action. |
-| 4 | Leap of Waaagh! | 7 | Augment. | The Shaman summons a giant green hand to lift any Goblin and carry him into the fray. The Shaman or any other Goblin within 3" may be moved up to 12". If this move brings them into close combat, they count as charging in the close combat phase. |
+| 3 | ‘Eadbanger | 8 | Magic Missile. | The Shaman channels pure Waaagh! energy through his body and vomits it toward the enemy. Range 6". Fire bolts equal to the number of the Shaman’s Attacks. Resolve with Strength equal to the Shaman’s Toughness at the first model in their path. After the bolts effects are resolved, roll a die. On a 1 the Shaman has drawn upon too much power! The Shaman collapses and goes out of action. |
+| 4 | Leap of Waaagh! | 7 | Augment. | The Shaman gathers Waaaagh energy within him, building up within his diminutive frame and causing his stomach to distend horribly. In an eruption of rancid green smoke the Shaman then blasts himself to anywhere within 8". If this brings him into base contact with an enemy he counts as having performed a successful Diving Charge. |
 | 5 | Idol of Gork | 8 | Augment. | Swirling energy crackles around the Shaman, giving him the appearance of a huge orc hero. The Shaman gains +1 WS, +1 S, and +1 A. This enhancement lasts until the Shaman takes a wound. |
-| 6 | ‘Ere we go! | 8 | Augment. | The Shaman and nearby Goblins become filled with the essence of the Waaagh! All friendly models within 6" of the Shaman treat stunned results on the injury table as knocked down instead. The effects last until the Shaman takes a wound. |
+| 6 | Sneaky Stabbing | 8 | Augment. | The Shaman incites within their target the profound desire to "go for da hurty bitz!". A single goblin within 8", or the caster himself, may re-roll all failed 'to hit' and 'to wound' rolls in hand-to-hand combat until the end of that casting phase. |
 
 </div>
 
@@ -486,7 +486,7 @@ Waaagh! spells are used by Orc Shamans. They are rituals of a sort, howling pray
 
 <div class='wide'>
 
-##### Magic of the Steppes
+##### Magic of the Steppes(REDUNDANT)
 
 
 | D6 | Result | Difficulty | Type | Effect |
@@ -500,3 +500,35 @@ Waaagh! spells are used by Orc Shamans. They are rituals of a sort, howling pray
 
 </div>
 
+\page
+
+<div class='wide'>
+
+##### Shornaal Rituals
+
+| D6 | Result | Difficulty | Type | Effect |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | Delicious Suffering | 7 | Direct Damage. | All models (friend and foe, except for the Seer) within 4"  must pass a Leadership test or are _knocked down_. Has no effect against models that are _Immune to Psychology_. |
+| 2 | Dance of the Serpent | 8 | Augment. | Enemy models that are not _Immune to Psychology_ suffer -1 to hit with all attacks at the Seer and any ally within 4" of them. Lasts until the start of the caster's next magic phase. |
+| 3 | Endless Torment | 9 | Direct Damage. | Choose one enemy model within 8”. From now on the model takes a wound in each of its recovery phases on a 4+. For the duration of the Torment the Seer can do nothing else but end the spell at the beginning of their subsequent casting phases, and if the caster is hit the spell will immediately end.  | 
+| 4 | Mystify | 7 | Hex.| Target enemy model within 8" will have their Initiative value reduced to 1 and will always strike last in close combat, even if they charge an opponent or are armed with a spear or pike and are charged themselves. This spell lasts until the target passes a Leadership test during their recovery phase.  |
+| 5 | Thousand Voices | 8 | Hex | Choose one enemy model within 12”. For the duration of the spell the model reduces it’s Leadership by D3+1 (to a minimum of 2). This spell has no effect on models that are _Immune to Psychology_. At the start of each of their recovery phases the target may attempt a Leadership test. If passed the Hex is removed. Thousand Voices can only be active on one model at a time. |
+| 6 | Shornaal's Temptation | 7 | Hex | Choose one enemy model within 8” that is not immune to psychology. The model must then take a Leadership test. If the model fails, then the Seer gains control over the model. The player may attempt to regain control during their Recovery phase by taking another Leadership test. Shornaal's Temptation can only enchant one model at a time. If the Seer is hit whether by a missile or in close combat they must take an immediate Leadership test. If failed, the Hex ends.  |
+
+
+</div>
+
+\page
+
+<div class='wide'>
+
+##### Rituals of Tchar
+
+| D6 | Result | Difficulty | Type | Effect |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | Thief's speed | 7 | Augment. | Until the start of the caster's next magic phase their Movement value is increased by 3. |
+| 2 | Fool's Gold | 7 | Hex. | With a brief mutter a pile of gold appears on the pavements, luring the unresisting to it. Nominate a spot within 12" of the caster. All unengaged enemy warband members within 6" of the target area must take a Leadership test. If failed then in their movement phase they will walk D6" towards the target, ending their movement (though they may still shoot as normal). This has no effect on Warriors who are Immune to Psychology, or on animals. |
+| 3 | Lucky Guess | 7 | Hex. | The Priest calls out a potentially scathing made-up insult at any enemy whose detection range (usually twice their initiative value) the Priest would be within. The target will gain the Frenzy special rule and Hates the Priest until the end of the battle. | 
+| 4 | Whoops! | 4 | Hex.| Whoops! targets a single enemy warrior within 24". Until the start of the caster's next magic phase the target treats all terrain as Dangerous Terrain. What horrible luck that they should happen to step on that one loose ladder rung, put their foot through that one rotted plank, or that a falling roofslate would happen to land exactly on their head. |
+| 5 | What Fortune! | 11 | Augment. | Ranald smiles on fools and gamblers, Priests that ask for direct wealth rarely meet with fortune. Or perhaps knowing that makes this all the riskier? If successfully cast the Priest immediately comes into posession of a Wyrdstone Shard. |
+| 6 | Black Cat | 6 | Direct Damage. | The caster may cast Black Cat on every enemy in base contact. As if from nowhere a small feral cat the caster just happened to have befriended earlier leaps from behind the Priest and directly onto the face of their assailants in a flurry of angry claws and fur, inflicting D6 S3 automatic hits on each enemy. Once resolved, the caster may disengage freely from combat D6" in any direction. If the spell fails to cast the cat does still appear, but simply watches in disinterest. |

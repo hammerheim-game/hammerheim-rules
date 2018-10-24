@@ -1,246 +1,261 @@
-﻿#### Tilean Warband
+﻿<div class='wide'>
+# Tilea
+</div>
 
-The land of Tilea is home to some of the most wealthy and
-aloof people in the Old World. A land that is divided by its
-own competition of trade and separated by personal feuds and
-warring city-states. It is civic pride and a desire for financial
-status that drives each and every Tilean. To this end, the
-Tileans have become proficient sailors and explorers. They
-set sail for all ports in the Old World and drop anchor off the
-shores of far distant lands in search of gold and precious
-artefacts that can often bring a hefty price in any market of
-the world.
-Tilean warbands are often hired to explore the steamy
-jungles, hot deserts or even the ruined city like Mordheim
-either by their patron city-state or by wealthy merchants or
-guilds. There are many city-states in Tilea to base a
-warband’s history on although only the most prominent three
-will be dealt with here. You can create a pirate warband
-hailing from Sartosa or a warband of acolytes of the patron
-god Lucan from Luccini if you so desire. Whatever warband
-suites your fancy you’ll find that the land of Tilea is rich with
-history to base it upon. You’ll also find a Tilean warband to
-be structured much like the mercenary warbands but there are
-subtle differences that reflect the rich Tilean history.
 
-##### Miragleans
+The land of Tilea is home to some of the most wealthy and aloof people in the Old World. A land that is divided by its own competition of trade and separated by personal feuds and warring city-states. It is civic pride and a desire for financial status that drives each and every Tilean. To this end, the Tileans have become proficient sailors and explorers. They set sail for all ports in the Old World and drop anchor off the shores of far distant lands in search of gold and precious artefacts that can often bring a hefty price in any market of the world.
 
-The Miragleans are deadly accurate with the city’s official
-weapon, the crossbow. All warriors recruited from this section
-gain +1 to hit when using crossbows. All humans in a Miraglean
-warband also gain the Hatred (Skaven) special rule. This dates
-back to the red pox outbreak of 1812 when three quarters of 
-the population of the city perished, leaving them a city in 
-decline. Many Tileans still deny the existence of Skaven, leaving 
+Tilean warbands are often hired to explore the steamy jungles, hot deserts or even the ruined city like Mordheim either by their patron city-state or by wealthy merchants or guilds. There are many city-states in Tilea to base a warband’s history on although only the most prominent three will be dealt with here. There are also a pirate warbands hailing from buccaneer's city of Sartosa or a warband of acolytes of the patron god Lucan from Luccini if you so desire.
+
+Whatever warband suites your fancy you’ll find that the land of Tilea is rich with history to base it upon. You’ll also find a Tilean warband to be structured much like the mercenary warbands but there are subtle differences that reflect the rich Tilean history.
+
+___
+<img 
+  src='https://imgur.com/qjHYKue.jpg' 
+  style='width:325px' />
+
+```
+```
+
+### Tilean Special Rules
+**Background:** When drawing up your roster for your Mercenaries warband you may pick from one of the three following factions. This represents the origins of your Mercenary warband, and will confer various bonuses accordingly in addition to the ones listed in this section.	
+
+
+
+
+
+
+
+## Miragliano
+
+The Mighty Principality of Miragliano is one of the most powerful city-state within Tilea, a bastion of defiance against the Skaven hordes of the Great Under-Empire. Because of its position near the Blighted Marshes, which are fetid and ridden with disease, Miragliano has often been victim to outbreaks of plague over the centuries.
+
+The Red Pox of 1812 was the worst pestilence, wiping out three quarters of the population of the city. An infestation of large rats was blamed, and since then the city has employed professional rat-catchers among its mercenary troops. As well as exterminating rats, the rat-catchers fight running battles against Skaven Gutter Runners. Many Tileans however still deny the existence of Skaven, leaving 
 Miragliano's sudden decline a source of intense speculation.
-Alignment: the Warband’s Alignment may be one of the
-following: Lawful / Neutral, Neutral, Neutral / Chaotic.
 
-##### Remasens
+No one knows exactly where the Skaven come from, except that there are many of them in and around the fringes of the Blighted Marshes. A high price is placed on their heads, dead or alive. Since the Red Pox, large parts of the old, squalid city have been rebuilt by the Princes of Miragliano, but the impact of the outbreak is still keenly felt by its people.
 
-The city-state republic of Remas is tolerated rather than liked
-by the other Tilean states. Their central location and easy ability
-to extort vast fortunes from tarrifs on goods crossing from one
-part of Tilea to the other enabled Remas to accrue a vast and 
-well-trained Mercenary army, becoming for a time the Jewel of
-Tilea. This lasted until 1487 when a Dark Elf navy, lured by
-the prospect of wealth and slaves, infiltrated the city under the
-cover of unseasonal mist and put it to the slaughter. The corsair raid
-was ultimately repelled by the Remasen Pikemen, whose rank and file
-wall of spikes atop their great bridge proved unbreakable to the 
-corsair's lightly armoured but rapid-striking forces. This event
-elevated the Remas Pikemen to a state of reverence by its surviving
-people who have adopted the pike as their national icon, but the
-memories of the horrific acts perpetrated by the corsairs during
-their stay remain a blight upon their public conscience.
+Miragleans are known to host some of the finest crossbow regiments in Tilea. Relatively cheap to maintain in comparison to black powder weapons, it has worked to their advantage so far - the superior accuracy of the crossbow has proven an excellent aid in finding their marks on the jittery and evasive Skaven.
 
-Remasen basic "Warrior" henchmen may be equipped with Pikes for
-only 5g. They also gain the Fear (Dark Elves) Special Rule.
+##### Special Rules
+**Superior Arbalests:** Miralgeans get +1 To Hit when firing Crossbows.	
+**Red Pox:** Ever fearful of the spread of another outbreak, Miralgeans are often frantic and feverish when up close with Skaven, eager to finish the battle and retreat to safety as quickly as possible. As a result they _hate_ Skaven.	
+**Alignment:** the Warband’s Alignment is Lawful/Neutral, Neutral, or Neutral/Chaotic.
 
-Alignment: the Warband’s Alignment may be one of the
-following: Lawful / Neutral, Neutral, Neutral / Chaotic.
-
-##### Trantio
-
-Trantio was the first city to overthrow its Prince and become
-a republic, starting the trend that would eventually see Tilea
-become a nation of vast, independent city-states. It was never
-one of the more prosperous nations however, and as its rivals
-accumulated wealth and power Trantio became an easy target for
-invasion, only managing to survive through masterful diplomacy
-and subterfuge to play off their rivals against one another.
-That all changed however when a Trantian merchant named Marco
-Colombo ventured on a mad voyage to Lustria, and returned with
-enormous wealth. Overthrowing his previous patron he took
-control of the city and by establishing close trade relations
-with the Dwarfs to the north while continuing his expeditions
-to raid for Lustrian gold he transformed Trantio into without
-doubt the wealthiest city in Tilea. As a result Tilean warbands
-start with 600g rather than the usual 500g.
-
-The fantastical tales of Marco Colombo inspired a whole generation
-of mercenaries eager to make a name for themselves too, adopting
-a flair for the dramatic and a style of combat heavily influenced
-by the duellists of Marienburg. Trantio warbands no longer
-have the 0-5 restriction on Duellists, and Duellists may
-re-roll all Diving Charge attempts.
+\page
 
 
-Alignment: the Warband’s Alignment may be one of the
-following: Lawful / Neutral, Neutral, Neutral / Chaotic.
-##### Choice of Warriors
+## Remas
+The city-state republic of Remas is tolerated rather than liked by the other Tilean states, and is not so affectionately known as The Rebellious Republic of Remas by their rivals. Their central location and easy ability to extort vast fortunes from tarrifs on goods crossing from one part of Tilea to the other enabled Remas to accrue a vast and well-trained Mercenary army, becoming for a time the Jewel of Tilea.
 
-Your warband must include a minimum of 3 models to a
-maximum of 15 models. You have 500 points to assemble
-your warband with. The maximum characteristics for each
-type will be the same as any Mordheim mercenary warband.
-Captain: Each Tilean Warband must have one Captain to
-lead it – no more, no less.
-Champion: Your Warband may include up to two
-Champions.
-Youngbloods: Your Warband may include up to two
-Youngbloods.
-Warriors: Your Warband may include any number of
-Warriors.
-Duellists: Your Warband may include up to five Duellists.
-Marksmen: Your Warband may include up to seven
-Marksmen.
-##### Starting Experience
+This lasted until 1487, some two hundred years ago, when a dreaded Black Ark, lured by the prospect of wealth and slaves, infiltrated the city under the cover of a vast conjured fog and put it to the slaughter.
 
-A Captain starts with 20 experience.
-Champions start with 8 experience.
-Youngbloods start with 0 experience.
-Henchmen start with 0 experience.
+The Corsair raid was ultimately repelled by the Remasen Pikemen, whose rank and file wall of spikes atop their great bridge proved unbreakable to the Corsair's lightly armoured but rapid-striking forces. This event elevated the Remas Pikemen to a state of reverence by its surviving people who have adopted the pike as their national icon, but the memories of the horrific acts perpetrated by the corsairs during their stay remain a blight upon their public conscience.
+
+##### Special Rules
+**Remasen Pikemen:** Basic "Warrior" henchmen from Remasen warbands may be equipped with Pikes for only 5g, though once equipped in this way they may not trade their Pikes to other warriors.	
+**Alignment:** the Warband’s Alignment is Lawful/Neutral, Neutral, or Neutral/Chaotic.
+
+___
+<img 
+  src='https://imgur.com/0K93wv3.jpg' 
+  style='width:325px' />
 
 
-##### Tilean equipment lists
+## Trantio
 
-The following lists are used by Tilean warbands to pick their weapons:
-Hand-to-hand Combat Weapons
-Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 5 GC
-Axe ................................................................................ 5 GC
-Sword .......................................................................... 5 GC
-Spear ............................................................................ 10 GC
-Halberd ........................................................................ 10 GC
-Pike .............................................................................. 12 GC
-Double-handed weapon ............................................... 15 GC
-Morning Star ............................................................... 15 GC
-Rapier .......................................................................... 15 GC
-Missile Weapons
-Pistol ..................................................... 15 GC (30 for brace)
-Duelling Pistol ...................................... 25 GC (50 for brace)
-Bow ............................................................................. 10 GC
-Crossbow ..................................................................... 25 GC
-Armour
-Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
+Trantio was the first city to overthrow its Prince and become a republic, starting the trend that would eventually see Tilea become a nation of vast, independent city-states. It was never one of the more prosperous nations however due to its lack of proximity to the sea, the trade routes to the Empire being at the time inhospitable and Greenskin-infested mountain passes or trade roads plagued by pirates and extortionate tolls.
 
-Shield ............................................................................ 5 GC
-Buckler .......................................................................... 5 GC
-Marksmen Equipment List
-Hand-to-hand Combat Weapons
-Dagger .............................................................. 1st free/2 GC
-Club, Mace, Hammer .................................................... 5 GC
-Axe ................................................................................ 5 GC
-Sword .......................................................................... 5 GC
-Missile Weapons
-Pistol ..................................................... 15 GC (30 for brace)
-Duelling Pistol ...................................... 25 GC (50 for brace)
-Long Bow .................................................................... 15 GC
-Crossbow ..................................................................... 25 GC
-Handgun ...................................................................... 35 GC
-Hunting Rifle ............................................................. 175 GC
-Armour
-Helmet ......................................................................... 10 GC
-Light armour ................................................................ 20 GC
-##### Heroes
+As its rivals accumulated wealth and power Trantio became an easy target for invasion, particularly from its neighbour of Remas. Only through masterful diplomacy and subterfuge did Trantio manage to survive, forging tactical alliances and building complex relationships through strategic marriages in order to play off their rivals against one another.
 
-1 Captain
-60 Gold Crowns to hire
-A Tilean Captain is a tough professional soldier and has more often
-than not fought for years in the regular inter city-state conflicts of
-his homeland. These men are used to the carnage and suffering of
-the battlefield and seek to claim riches in the new world.
+That all changed however when a Trantian merchant named Marco Colombo ventured on a mad voyage to Lustria, and returned with wealth the likes of which had never been seen. Overthrowing his previous patron he took control of the city and assisted the local Dwarfs in the retaking of their mountain passes - thereby opening trade routes to the Empire. By also establishing these trade routes Trantio was opened up to the cultures of the world, and when combined with further expeditions to Lustria earning them increasingly vast fortunes they quickly became without doubt the wealthiest of the Tilean city states.
+
+Trantio is closely allied with Marienburg, whom they rightly see as their only peers. The duelling culture of Marienburg has become enormously fashionable in Trantio as a result, though few Trantians are aware of the skullduggery that occurs behind the scenes there. The idea of a duellist has become a romanticized ideal of flair and drama, of poetic one-liners and immaculate moustaches, and of passionate love affairs.
+
+Meanwhile in Marienburg their duellists frequently wonder why they both have diarrhoea and their guns don't work.
+
+##### Special Rules
+**Lustrian Fortunes:** Trantio warbands start with 600 gold crowns to spend, rather than the usual 500.	
+**Duellists:** Trantio warbands no longer have the 0-5 restriction on Duellists, and Duellists may re-roll all Diving Charge attempts.	
+**Alignment:** Trantio warbands are Lawful, or Lawful/Neutral.
+___
+<img 
+  src='https://imgur.com/mdDPK83.jpg' 
+  style='width:280px' />
+
+\page
+
+
+### Choice of Warriors
+
+A Tilean warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 15. Your warband may not begin the campaign with more than five heroes.	
+**Captain:** Each Tilean warband must have one Captain: no more, no less!	
+**Champions:** Your warband may include up to four Champions.	
+**Warriors:** Your warband may include any number of Warriors.	
+**Marksmen:** Your warband may include no more than seven Marksmen.	
+**Duellists:** Your warband may include no more than five Duellists.
+
+
+### Starting Experience
+
+**The Captain** starts with 20 experience.	
+**Champions** start with 8 experience.	
+**Henchmen** start with 0 experience.
+
+
+### Tilean equipment lists
+
+The following lists are used by Tilean warbands to pick their equipment:
+
+#### Warrior Equipment List
+| Hand-to-hand Weapons |
+| :- | -: |
+| Dagger | 1st free/2 GC |	 
+| Sword | 5 GC |
+| Rapier | 15 GC |
+| Pike | 15 GC |
+| Halberd | 15 GC |
+| Double-handed Weapon | 15 GC |
+
+| Missile Weapons |
+| :- | -: |
+| Pistol | 15 GC (30 for brace) |
+| Duelling Pistol | 25 GC (30 for brace) |
+| Crossbow | 25 GC |
+| Handgun | 35 GC |
+
+| Armour |
+| :- | -: |
+| Shield |  5 GC |
+| Buckler | 5 GC |
+| Helmet | 10 GC |
+| Light Armour |  20 GC |
+| Heavy Armour | 50 GC |
+
+```
+```
+
+#### Marksman Equipment List
+| Hand-to-hand Weapons |
+| :- | -: |
+| Dagger | 1st free/2 GC |	 
+| Sword | 5 GC |
+| Axe | 5 GC |
+| Club | 5 GC |
+
+| Missile Weapons |
+| :- | -: |
+| Bow | 10 GC |
+| Pistol | 15 GC (30 for brace) |
+| Crossbow | 25 GC |
+| Blunderbuss | 30 GC |
+| Handgun | 35 GC |
+
+
+| Armour |
+| :- | -: |
+| Shield |  5 GC |
+| Helmet | 10 GC |
+| Light Armour |  20 GC |
+
+> ### Pike
+**Range:** Hand-to-hand; **Strength:** As User
+##### Special Rules
+**Superior Reach:** Pikes are vast weapons almost three times a human's body length. As a result, a Warrior with a Pike may attack opponents in Hand-to-Hand combat up to 3" away (though may not attack through solid walls, and the target must be in line of sight). You may never gain Diving Charge bonuses while using a Pike.	
+**Requires two hands:** Simply holding a Pike horizontal is an incredible feat of strength!
+
+<div style='margin-top:30px'></div>
+
+> ### Rapier
+**Range:** Hand-to-hand; **Strength:** As User
+##### Special Rules
+**Sword:** Rapiers are swords. They may Parry, and gain any benefits from sword-related skills.	
+**Flurry:** Any natural roll of a 6 to hit allows the wielder to attempt an additional attack. These additional attacks may trigger additional attacks.
+
+
+\page
+
+### Heroes
+
+#### **1 Captain**
+60 gold crowns to hire.	
+_A Tilean Captain is a tough professional soldier and has more often than not fought for years in the regular inter city-state conflicts of their homeland. _
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-4 4 4 3 3 1 4 2 8
-Weapons/Armour: The Captain can be armed with weapons
-and armour chosen from the Tilean Equipment list.
-Skills: The Tilean Captain may choose from Combat,
-Shooting, Academic, Strength, and Speed, when he gains a
-new skill.
-Special Rules
-Leader: Any models in the Warband within 6" of the Captain
-may use his Leadership instead of their own.
-
-0-2 Champions
-35 Gold Crowns to hire
-Champions are often the trusted sergeants of the warband captain
-and are entrusted with ensuring the iron-hard discipline necessary
-to keep a warband together in a foreign land.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 4 1 7
-Weapons/Armour: Champions can be armed with weapons
-chosen from the Tilean Equipment list.
-Skills: The Miraglean & Trantios Champions may choose
-from Combat, Shooting, &, Speed, the Remasens Champions
-may choose from Combat, Academic & Strength when he
-gains a new skill.
- 
-0-2 Youngbloods
-15 Gold Crowns to hire
-These are young fighters who are still inexperienced but eager for
-the untold riches that Lustria has to offer.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 6
-Weapons/Armour: Youngbloods may be equipped with
-weapons and armour from the Tilean Equipment list.
-Skills: The Miraglean & Trantios Youngbloods may choose
-from Combat, Shooting, & Strength, The Remasens
-Youngbloods may choose from Combat, Academic &
-Strength when he gains a new skill.
+| | 4 | 4 | 4 | 3 | 3 | 1 | 4 | 1 | 8 |
+___
+**Weapons/Armour:** The Captain may choose equipment from the Warrior Equipment List.	
+**Skills:** The Captain may choose from Combat, Academic, Strength, Shooting, and Speed skills.
+___
+##### Special Rules	
+**Leader:** Any warrior within 6" of the Captain may use their Leadership characteristic when taking Leadership tests.
 
 
-##### Henchmen
 
-(Bought in groups of 1-5)
-Warriors
-25 Gold Crowns to hire
-These are the grim, veteran soldiers that usually make up the
-mercenary armies of the warring Dukes of the Tilean City States.
+#### **0-4 Champions**
+35 gold crowns to hire	
+_Champions are often the trusted sergeants of the warband captain and are entrusted with ensuring the iron-hard discipline necessary to keep a warband together in a foreign land._
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-4 3 3 3 3 1 3 1 7
-Weapons/Armour: Warriors can be armed with weapons
-and armour chosen from the Tilean Equipment list.
+| | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+___
+**Weapons/Armour:** Champions may choose from the Warrior Equipment List.	
+**Skills:** Champions may choose from Combat, Strength, Shooting, and Speed skills.
 
-0-7 Marksmen
-25 Gold Crowns to hire
-Tileans are renowned as experts with the crossbow and these
+
+
+### Henchmen
+#### Warriors	
+25 gold crowns to hire	
+_These are the grim, veteran soldiers that usually make up the mercenary armies of the warring Dukes of the Tilean City States._
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |	
+___
+**Weapons/Armour:** Warriors may choose from the Warrior Equipment List.
+
+#### Marksmen	
+25 gold crowns to hire	
+_Tileans are renowned as experts with the crossbow and these
 soldiers are the missile backbone of the warband. In a savage and
 merciless world it pays well to be able to despatch your foe from a
-distance.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 4 1 7
-Weapons/Armour: Marksmen can be armed with weapons
-and armour chosen from the Marksmen Equipment list.
+distance. _
 
-0-5 Duellists
-35 Gold Crowns to hire
-Tilea is famous for its many vendettas from the rich noble houses
-down to even the poorest families. The notorious cloak and dagger
-duellists of the darkened alleys of Tilea find their way to the
-remotest parts of the world selling their unique killing abilities to
-the mercenary companies.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 4 3 3 3 1 4 1 7
-Weapons/Armour: Duellists can be armed with weapons
-and armour chosen from the Tilean Equipment list.
-Special Rules
-Cloak & Dagger: Duellists are adept at fighting using their
-billowing cloaks to swirl at an enemy distracting him and
-warding off blows. The Duellist counts as using a shield in
-close combat.
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |	
+___
+**Weapons/Armour:** Marksmen may choose from the Marksmen Equipment List.
+
+```
+```
+#### Duellists	
+35 gold crowns to hire	
+_Tilea is famous for its many vendettas from the rich noble houses down to even the poorest families. The notorious cloak and dagger duellists of the darkened alleys of Tilea find their way to the remotest parts of the world selling their unique killing abilities to the mercenary companies._
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 1 | 7 |	
+___
+**Weapons/Armour:** Duellists may choose from the Warrior Equipment List.
+
+##### Special Rules
+**Cloak & Dagger:** Duellists are adept at fighting using their billowing cloaks to swirl at an enemy distracting them and warding off blows. As long as they are not using Armour of any sort, the cloak functions as a Shield in combat.
+
+___
+<img 
+  src='https://imgur.com/BMTGjob.jpg' 
+  style='width:370px' />
+
+
+
+
+
+
+
+
 
 
