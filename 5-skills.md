@@ -1,6 +1,6 @@
-﻿
-
-## Skills & Abilities Lists
+﻿<div class='wide'>
+# Skills & Abilities Lists
+</div>
 
 The Skill lists are used to pick skills earned as advances. Your warrior is restricted to specific Skill lists depending upon his
 warband type and what kind of warrior he is. Each warband entry includes a list of skills available to the Heroes of that
@@ -32,23 +32,23 @@ Skaven and undead) may immediately choose one Mark of Chaos. Due to the brashnes
 ##### Mark of Chaos Undivided
 For each different type of Mark of Chaos in the warband, a warrior with a Mark of Chaos Undivided gains +1 Leadership. This may take them above 10, so keep track of its Leadership bonus seperately.
 
-###### Mark of Khorne 
+##### Mark of Khorne 
 Heroes bearing the Mark of Khorne gain Frenzy, and a 5+ ward save against the effects of spells. A Warband containing one or more
 of this mark may never form Formal Alliances.
-
-###### Mark of Nurgle
+```
+```
+##### Mark of Nurgle
 The Model gains +1 Toughness, +1 Wound, but loses
 1 point of Movement and 1 point of Initiative. They are now 
 immune to the after-battle effects of Plague Victims. These bonuses also apply to any mount the rider may have, though it will lose 2 points of movement rather than 1 as it has to contend with its own decrepitude as well as the increased weight of its rider.
-```
-```
-###### Mark of Slaanesh
+
+##### Mark of Slaanesh
 Enemy models that wish to charge a character with the
 Mark of Slaanesh must first pass a successful Leadership test or 
 the charge is failed. Enemies are additionally at -1 to hit in melee.
 The character gains Stupidity.
 
-###### Mark of Tzeentch
+##### Mark of Tzeentch
 The hero immediately learns all spells from Chaos Rituals and may cast spells in armour. Any roll of a double will miscast.
 
 #### Medical Knowledge 
@@ -66,6 +66,7 @@ If a model with this skill is within 3” of at least three other models from th
 #### Money Maker
 The model with this skill utilizes their talents and wares to try and make extra money after each adventure. If the model is not taken out of action, they may roll an additional die during the exploration phase. There may not be more than one character with the Money Maker skill in your warband. There's just not enough money to go round!
 
+\page
 #### Ride
 This skill is vital if a rider wishes to ride an animal into combat. Warband members who have mounts in their equipment lists are assumed to already have the _Ride_ skill.
 
@@ -86,7 +87,7 @@ to detect this model while he is Hidden.
 
 #### Drive Chariot
 Taking this skill will allow a Hero ride a Chariot.
-\page
+
 
 #### Magic Item
 Warriors taking the _Magic Item_ skill are capable of equipping up to 25 points worth of magic items from their Warhammer Army Book. This skill may be taken up to four times for a total of 100 points of magic items.
@@ -110,6 +111,8 @@ A warrior with this skill is adept at using many different weapons. They may use
 Few can match the ability of this warrior. They fight
 with great skill and flair, weaving a web of steel around them. The model gains +2 to all their rolls on Critical Hit tables in hand-to-hand combat.
 
+
+
 #### Expert Swordsman
 This warrior has been expertly trained in the
 art of swordsmanship. Whenever a model with Expert Swordsman is charged they, for the duration of that combat phase, may re-roll all failed parry and to-hit rolls.
@@ -126,8 +129,7 @@ Any axe the warrior uses gains the Parry special rule, and their attacks ignore 
 
 #### Master Axeman
 The warrior may re-roll all failed _To Hit_ rolls with single-handed axes in the combat phase of the turn they charge.
-```
-```
+
 #### Finishing Move
 The warrior may opt to forgo their usual number of
 attacks and make a single attack at an additional +2 Strength to their normal strength. This can be used in conjunction with Mighty Blow, Weapon Bonuses, and any other Strength enhancing abilities. The blow is resolved last AFTER 2 Handed Weapons. Useful for taking
@@ -151,6 +153,8 @@ against all the models in base to base contact with them instead of making their
 The hero has mastered the brown hat, and may re-roll
 all failed to-hit rolls and to-wound rolls with Whipcrack. 
 
+\page
+
 ### Shooting Skills
 
 #### Quick Shot
@@ -163,7 +167,6 @@ The warrior is an expert at using all kinds of pistols, so comfortable with them
 The warrior’s sight is exceptionally keen. They add +6"
 to the range of any missile weapon he is using.
 
-\page
 #### Ranged Weapons Expert
 The warrior has been trained to use some of the
 more unusual weapons of the known world. They may use any missile weapon they come across, not just the weapons available from their warband’s list.
@@ -196,7 +199,8 @@ This skill may only be chosen by a leader. The
 warrior has drilled their warband to follow short barked commands.
 This increases the range of their Leader ability by 6". Note that
 Undead leaders may not use this skill.
-
+```
+```
 #### Sorcery
 This skill may only be taken by Magic Users. A warrior with this skill gains +1 to their rolls to see whether they can cast spells successfully or not. Note that Pray Users may not use
 this skill.
@@ -207,8 +211,8 @@ A surprisingly rare commodity in Mordheim, _Common Sense_ allows a warrior to re
 #### Haggle
 The warrior knows all the tricks of bargaining and
 haggling. They may deduct 2D6 gold crowns from the price of any single item (to a minimum cost of 1gc) once per post battle sequence.
-```
-```
+
+
 #### Warrior Wizard
 This skill may only be taken by Magic Users. 
 The mental powers of the wizard allow them to wear armour and cast spells.
@@ -228,6 +232,7 @@ warrior has a great tactical mind and can often find the best positions for thei
 This skill may only be taken by the warband leader. The
 warrior has an uncanny knack of placing their troops in the right place at the right time, as if they sense danger through instinct alone. The warband leader may position up to 3 of their Warriors Small or smaller in any building on the board. The building must not be within 12" of an opposing board edge or enemy model. _Hunch_ also may not be used to position warriors into objective buildings, such as the monster lair in a Monster Hunt or the stash in Race to The Stash.
 
+\page
 #### Magical Aptitude
 This skill may only be taken by a Magic User. It
 may not be used by prayer-users. The warrior has a keen aptitude for magic and can push themself beyond normal limits to produce a storm of spells, allowing them to cast twice per turn. After attempting the first spell, they may take a toughness test. If they pass they may attempt a second spell that turn or even cast the same spell twice. If they fail they must roll on the injury table immediately with no saves of any kind allowed, treating Out Of Action results as Stunned instead.
@@ -235,7 +240,6 @@ may not be used by prayer-users. The warrior has a keen aptitude for magic and c
 #### Nerd Rage
 This skill may only be taken by a Magic User. If this skill is taken the Hero will no longer be able to cast spells of any type, but gains +1 Strength and +1 Attack.
 
-\page
 
 ### Strength Skills
 
@@ -265,11 +269,11 @@ use the Strength Bonuses every Hand-to-Hand phase of the game, not just the firs
 
 #### Strong Legs
 The Hero may use Heavy Armour and a Shield without suffering Movement penalties.
-
+```
+```
 #### Beastmaster
 If the model confronts an animal (not a mount!) in hand-to-hand combat, then before combat is fought they may attempt to assert control over the animal. The Beastmaster and the animal must each roll a D6 and add their respective Leadership values. If the Beastmaster wins then the animal then comes under control of the Beastmaster's warband. Control of the animal is immediately lost if the Beastmaster either moves more than 8" away or is _incapacitated_.
-```
-```
+
 ### Speed Skills
 Speed skills represent a warrior's own personal agility, and therefore they may not use any of these skills while they are mounted.
 
@@ -297,6 +301,8 @@ The Warrior must pass a Leadership test in order to perform this manouvre, but i
 The warrior can regain their footing in an instant,
 springing to their feet immediately if they is Knocked Down. The warrior may ignore Knocked Down results when rolling for injuries, unless they are Knocked Down because of a successful save from wearing a helmet or because they have the No Pain special rule.
 
+\page
+
 #### Dodge
 A warrior with this skill is nimble and as fast as quicksilver. They gain a 5+ Ward Save against all missiles and Magic Missiles.
 
@@ -304,14 +310,11 @@ A warrior with this skill is nimble and as fast as quicksilver. They gain a 5+ W
 A warrior with this skill can scale even the
 highest wall or fence with ease. They no longer require Initiative tests for climbing. (Jumping down still requires them).
 
-\page
-
 #### Dodge Roll
 The warrior is well accustomed to facing large creatures and has learned to adopt an evasive style of combat. Warriors with Dodge Roll may never be wounded by Impact Hits, Stomps, or Thunderstomps.
 
 #### Fleet Footed
 The warrior gains +1 to their base Movement.
-
 
 
 ### Assassin Special Skills
@@ -338,8 +341,8 @@ Paranoia is rewarded in Mordheim, and warriors quickly
 learn to watch the shadows and remember to look up. In the chaos of a skirmish however innovative thinking can turn even a direct assault into a surprise! 
 
 Before the start of a game the Assassin's owner may choose to have the Assassin replace a henchman in either their own or a Formal Ally's warbands. Secretly make a note of which henchman has been replaced. The disguised assassin gains the equipment and stats of that henchman until they are revealed. An assassin is automatically revealed if they are charged, or they be revealed at the start of their owning player's turn. Once an assassin is revealed they immediately recover their own gear and behave as normal. Assassins may not disguise themselves as Monstrous Infantry, no amount of low-brimmed hats and hunching will make an Elf look like a convincing Ogre.
-```
-```
+
+
 #### Hitman
 The Assassin is a master of acting natural and hiding in plain sight, allowing them to go into Hiding even if in the open and in line of sight of an enemy. This ability ceases to work for the rest of the battle if the assassin ever attacks an enemy or attempts to pick up loot.
 

@@ -22,6 +22,8 @@ If you're new to Games Workshop games you'll be reassured to know that finding o
 
 There may be a Games Workshop store near to you where you can buy models, paint and games supplements. However Games Workshop stores are not just shops, they are hobby centres, where the staff will happily help you to learn the rules, show you how to paint, and suggest ways to develop your warband. 
 
+```
+```
 ## Warhammer players
 
 If you already play Warhammer, the basic rules of Mordheim will be familiar to you. Remember though, Warhammer is designed for fighting battles between entire armies, whilst Mordheim represents individual action between a dozen or so warriors. 
@@ -41,13 +43,13 @@ As you will see in the Warbands section, each warband fights in a particular way
 ### Playing surface
 
 You will also need something to play your battles on. Any firm, level surface is best, such as a tabletop or an area of floor - most kitchen tables will do. It's a good idea to use an old sheet or blanket to protect the table from scratches. Some players make a special gaming board from chipboard or other similar material (divided into two or more pieces for ease of storage) which they can use on top of a table to extend the playing area. Whatever you use, you will find that a square area approximately 4 x 4' is about right for most battles, and a 4 x 6' for games with more than four players.
-
+\page
 ### Terrain
 
 The bitter struggles of a Mordheim battle take place in labyrinthine streets, ruined buildings and on derelict walkways. There are an abundance of companies out there who make terrain ideal for Mordheim, but many gamers enjoy making their own. 
 
 As a rule, a table packed with scenery will lead to closer and more exciting games. The game is in fact balanced around the idea that the board be extremely densely packed with buildings so if that isn't possible it may be worth agreeing with your opponent on a way to reduce the strength of missile attacks.
-\page
+
 
 ### Counters
 
@@ -74,10 +76,11 @@ You may come across the term D3. As there is no such thing as a three-sided dice
 #### Artillery Dice
 
 The Artillery Dice is one of the more specialised dice used in Games Workshop Games. The dice is a standard six-sided dice but featuring the numbers 2, 4, 6, 8, and 10, with the final side is marked with misfire. A standard six-sided dice can be used in place of an Artillery Dice, just double the face value of the dice, and a Six would count as the Misfire. 
-
+```
+```
 #### Scatter Dice
 
-This is another more Specialise dice used in Games Workshop Games; this is a standard six-sided dice that has no numbers but has Arrows and a hit marker. A standard six-sided dice can be used in places of a Scatter Dice:
+This is another more specialised dice used in Games Workshop Games; this is a standard six-sided dice that has no numbers but has Arrows and a hit marker. A standard six-sided dice can be used in places of a Scatter Dice:
 
 | Roll | Direction |
 | : - : | : - : | 
@@ -94,7 +97,7 @@ For measuring ranges you will need a tape measure marked in inches, or a couple 
 ### Other equipment
 
 You will also need pens and paper to record details of your warriors' weapons and other details. You can use roster sheets for this, and blank ones are included at the back of this book. We recommend you photocopy them rather than use the originals. 
-
+\page
 ## Characteristics
 
 In Mordheim the warriors each have different abilities, some being better at certain actions, for example, fighting, shooting or climbing, than they are at others. This variety in each warrior is represented in the form of characteristics and skills. Right now don't worry about skills - these come later with practice and battle experience. For now we just need to consider a warrior's characteristics. 
@@ -125,7 +128,7 @@ This is a measure of how easily an individual can withstand a hit from a weapon 
 
 A model's Wounds value shows how many times the model can be wounded before it collapses, is killed or incapacitated. Most individuals have only 1 Wound but veteran warriors or large creatures such as Ogres might have more. 
 
-\page
+
 
 #### Initiative (I)
 
@@ -165,8 +168,9 @@ Tests against the Leadership characteristic are done in a slightly different way
 
 For example: Jeremy's Leadership is 7, so to pass a Leadership test he must roll 7 or less on 2D6.
 
+\page
 
-### The Turn
+## The Turn
 
 In Mordheim you are in a charge of a warband and your opponent is in charge of another.
 
@@ -193,9 +197,10 @@ During the recovery phase, warriors in your warband who have been _stunned_ beco
 
 _Fleeing_ models must take a _leadership test_. If the test is passed, the model is no longer _fleeing_, but can do nothing this turn except cast spells. If the test is failed, the model will continue to _flee_ towards the closest table edge in the _compulsory move_ phase. For more details, see the rules for _fleeing_ in the _Leadership & psychology_ section.
 
-\page
+```
+```
 
-### Movement
+## Movement
 
 During the movement phase models are moved in the following order:
 
@@ -205,11 +210,11 @@ During the movement phase models are moved in the following order:
 
 3. Remaining Moves: Once you have moved your chargers and made any compulsory moves, you may move the rest of your warriors as you see fit.
 
-#### Moving
+### Moving
 
 During their movement phase, models can move up to movement rate their in any direction. They may move (including running and charging) up and down stairs, and over low obstacles such as barrels, boxes, etc., up to 1" high. In normal circumstances models don't have to move their full distance, or at all if you do not want them to. All exceptions are explained later and invariably involve either charging, climbing, or compulsory moves. 
 
-#### Running
+### Running
 
 The normal Movement value of models represents a warrior moving at a fairly rapid rate, but allows time for them to aim and shoot a weapon and generally observe what is going on around them. If you wish, a model may move much quicker than this - they can run! A running warrior can move at double speed (for example, 8" rather than 4"). Note that running is not the same as charging as it does not allow your model to engage the enemy in hand-to-hand combat. 
 
@@ -217,7 +222,8 @@ A model can only run if there are no enemy models within 8" of it at the start o
 
 Any model that runs loses its chance to shoot during that turn. They are concentrating on running and is not prepared to fight, having sheathed or shouldered their weapons. You should declare that models are running as they move, as this will remind both players that the model is unable to shoot that turn. Running models can cast spells as normal. 
 
-#### Charge!
+\page
+### Charge!
 
 If you want a model to engage the enemy in hand-to-hand combat then you must make a special move called a charge. Declare to your opponent that your model is charging and indicate which enemy model they are going to attack. You can charge any opposing model if your warrior has the movement to reach them and has them in sight. If your warrior wants to charge an enemy model that they can't see (e.g., because it is behind a corner or it is in _Hiding_), they must pass an Initiative test to detect it. If they fail the roll your model may not charge this turn as they tentatively roam forwards in search of their opponent. They move up to 4" towards the target, stopping no closer than 1" away from them. 
 
@@ -229,15 +235,16 @@ Sometimes a charging warrior may not reach the enemy, usually due to an item use
 
 Models cannot be moved into hand-to-hand combat except by charging - any move that brings a warrior into hand-to-hand combat is a charge by definition. A model that charges will 'strike first' in the first round of the ensuing combat.
 
-#### Charging more than one opponent
+### Charging more than one opponent
 
 If you can move your warrior into base contact with more than one enemy model with its charge move, it can charge them both. This might be inadvisable as it'll then be fighting two enemies at once!
-
-#### Hiding
+```
+```
+### Hiding
 
 The _Hiding_ rule represents warriors concealing themselves in a way that our unmoving and dramatically posed models cannot. A _Hiding_ warrior conceals themself as best they can by stiffening alongside a column, crouching behind a small wall, or hiding inside a barrel. A model can hide if they end their move behind a low wall, a column or in a similar position where they could reasonably conceal themself. The player must declare that the warrior is hiding for it to count as being _Hidden_. It may be worth placing a counter next to it so that other players are aware of it. 
 
-\page
+
 
 A model that is _Hidden_ is disregarded by the enemy warband's mandatory decisions. For example, a _Hidden_ model will not prevent an enemy warband from running, will not count as the closest model for the purpose of shooting, and _Frenzied_ models will not have to charge it. It is also considered wholly out of line of sight if an opponent wishes to charge them.
 
@@ -249,17 +256,18 @@ While hiding, a model cannot shoot or cast spells without giving away its positi
 
 If you wish to either shoot at, cast spells at, or charge a _Hidden_ model your warriors may attempt to detect them. A model's detection range is twice their Initiative value in inches: An inattentive Orc with an Initiative value of 2 would therefore only attempt to detect enemies within 4". An eagle-eyed Elf with an Initiative of 5 however may attempt to detect enemies within 10"! Detecting an enemy requires an Initiative test, and each warrior may only attempt to detect once per turn. An model that is detected immediately loses its _Hidden_ status.
 
-#### Terrain
+\page
+### Terrain
 
 The ruined city of Mordheim is a dark and dangerous place, where tumbled down towers and blasted houses form a vast maze of streets and alleyways.
 
-OPEN GROUND: The tabletop surface, floors of buildings, connecting overhangs, and horizontal gaps of less than 3". are all considered to be open ground and will not affect movement even if the model is charging. It can also go through doors and hatches without slowing down.
+_Open Ground_: The tabletop surface, floors of buildings, connecting overhangs, and horizontal gaps of less than 3". are all considered to be open ground and will not affect movement even if the model is charging. It can also go through doors and hatches without slowing down.
 
-DIFFICULT GROUND: Difficult ground includes steep or treacherous slopes, dense woodland or waist-deep water.
+_Difficult Ground_: Difficult ground includes steep or treacherous slopes, dense woodland or waist-deep water.
 
-WALLS AND BARRIERS: Walls, hedges and other low obstacles form barriers that you can either go around or leap over. A model can leap over a barrier that is less than 1" high. This does not affect its movement in any way.
+_Walls and Barriers_: Walls, hedges and other low obstacles form barriers that you can either go around or leap over. A model can leap over a barrier that is less than 1" high. This does not affect its movement in any way.
 
-#### Climbing
+### Climbing
 
 Often the ruined buildings of Mordheim do not have stairs or ladders, so your warriors will have to climb to reach the upper floors of buildings.
 
@@ -267,7 +275,7 @@ Any model (except mounted warriors) can climb up or down fences, walls, etc. The
 
 To climb, a model must take an Initiative test. If they fails it whilst climbing up, they cannot move that turn. If they fail it while climbing down, he falls from where he started his descent (see the Falling section). Ladders do not require Initiative tests to climb.
 
-#### Jumping down
+#### Jumping
 
 Your warrior may jump down from high places such as walkways and balconies at any time during their movement phase. 
 
@@ -276,7 +284,8 @@ Take an Initiative test for every full 2" they jump down. If they fails any of t
 #### Diving charge
 
 You may charge any enemy troops that are below a balcony or overhang, etc, that your model is on. If an enemy model is within 2" of the place where your warrior lands, they may make a diving charge against it. Take an Initiative test for each full 2" of height your model jumped down from, like a normal jump. If they fail any of them your model has fallen and suffers damage, may not move any more during the movement phase and cannot charge the enemy. If they succeed, the model gains a +1 Strength bonus and +1 to hit bonus but only during the following hand-to- hand combat phase. 
-
+```
+```
 #### Jumping over gaps
 
 Models may traverse gaps of up to 3" wide without penalty. Jumps may only be horizontal or downwards (with falls of more than 1" requiring an initiative test upon landing) - even if the object they would land on is less than 1" higher than their starting point. A model may jump over a gap and still fire a missile weapon if it is not running. It may also jump as part of its charge or running move.
@@ -297,7 +306,9 @@ Aquatic models in water, either swamp, streams or rivers can elect to be Hidden 
 
 \page
 
-### Shooting
+<div class='wide'>
+# Shooting
+</div>
 
 Warriors that fight in the ruins of Mordheim are usually armed to the teeth! Individual warriors often have several different weapons such as swords, knives, bows and even blackpowder weapons. 
 
@@ -326,7 +337,8 @@ The many walls, ruined buildings and other masonry in Mordheim offer plenty of c
 Sometimes it will be obvious whether a target can be seen; at other times it will be more difficult, as buildings and other scenery are in the way. If the shooter can see only part of the target's body, the target is in cover and the shooter suffers a - 1 penalty on his To Hit roll. 
 
 If a shot misses its target by 1, and that target claimed the - modifier for cover, then the shot strikes the cover instead. Normally this doesn't matter, but in the case where a model is concealed behind another warrior, or when the cover is a powder keg, it might be extremely important! 
-
+```
+```
 #### Shooting from an elevated position
 
 A model situated in an elevated position (i.e., anything that is more than 2" above the table surface, such as an upper floor of a building), may freely pick any target they can see and shoot at it including _incapacitated_ warriors. The exception to this rule is that if there are enemies in the same building on the same floor, or connected by a walkway on the same floor to a neighbouring building. If in line of sight these enemies must be shot at, as they represent the most immediate threat just as if they were on street level. 
@@ -357,6 +369,12 @@ It is easier to hit a target that is in the open compared to a target behind cov
 | Large Target | If the target is Large or greater (see below), or is a combat involving multiple enemies. | +1 |
 | Multiple Shots | If the model firing is shooting more than once (for example, with Quick Shot). | -1 |
 
+
+### Sniper
+
+Models with the _Sniper_ special rule have trained themselves to pick out high priority targets even in the most stressful situations. They may not shoot into combats involving their own allies, but otherwise may ignore the usual Closest Target rules detailed to the left.
+
+
 \page
 
 #### Unit Size
@@ -379,7 +397,7 @@ _Example: Useless Jeremy is using a Strength 3 bow and successfully hits an Orc 
 
 Deploying your archers in the upper floors of buildings is almost always good idea. They will be in cover and can freely pick their targets.
 
-#### Critical Hits
+### Critical Hits
 
 If you roll a 6 when rolling to wound you will cause a critical hit. Roll a D6 and consult the Critical Hit chart below to determine the damage caused by the critical hit. You should also roll to see whether the target makes its armour save or suffers damage as normal. 
 
@@ -388,7 +406,8 @@ In addition, if the attacker normally needs 6s to wound his target, they cannot 
 Depending on what weapon your warrior is using, you may roll on one of the following Critical Hit charts. For example, if your warrior is using a sword, roll on the Bladed Weapons chart. All the rules governing critical hits given in the main rules also apply to these tables.
 
 Only attacks that rolled to hit are capable of causing critical hits. Most spells, impact hits, stomps, etcetera therefore cannot crit.
-
+```
+```
 ##### Missile weapons
 
 _(Bows, crossbows, blackpowder weapons, throwing knives etc.)_
@@ -442,7 +461,7 @@ _(Spears, halberds, lances etc.)_
 | 3-4 | Thrust | The thrust lands with great force! Victims equal to or smaller in size are automatically _knocked down_ even if they pass their armour save. Larger victims suffer an additional wound if they fail their save. |
 | 5-6 | Kebab! | The thrust knocks the target back with titanic force, ripping apart armour and puncturing flesh. The attack ignores armour saves and you gain +2 to any Injury rolls. The victim is knocked backwards D6" and the attacker follows, staying in base contact. Any other models involved in the combat are separated and only the model which struck the blow and his target are still considered to be in combat. If the target collides with another model, the other model is hit once at S3. Victims larger than the attacker are only knocked back D3". |
 
-#### Armour
+### Armour
 
 Steel breastplates, chainmail, leather tunics, shields... all these and more are readily available in the forges of the villages surrounding Mordheim. That is if you are prepared to pay the price, since armour is very expensive. 
 
@@ -480,7 +499,7 @@ Some weapons are better at penetrating armour than their Strength value suggests
 
 _Example: Jeremy wears heavy armour and carries a shield. His armour save is 4+. He is hit by a crossbow (Strength 4) and therefore he will save on a D6 roll of 5+ (i.e., 4+ 1 = 5+)._
 
-#### Injuries
+### Injuries
 
 Most warriors have a Wounds characteristic of 1, but some have a value of 2 or more. If the target has more than 1 wound then deduct 1 from his total each time they suffers a wound. For warbands with multiple heroes with multiple wounds it is strongly suggested to put dice next to wounded characters to show how many wounds they have remaining. So long as the model has at least 1 wound remaining they may continue to fight without penalty. As soon as a fighter's Wounds are reduced to zero, roll to determine the extent of their injuries. The player who inflicted the wound rolls a D6 for the wound that reduced the model to zero wounds and for every wound the model receives after that. If a model suffers several wounds in one turn, roll once for each of them and apply the highest result. 
 
@@ -506,7 +525,10 @@ When a warrior is stunned, they are either badly injured or temporarily knocked 
 
 A warrior who is out of action is also out of the game. Remove the model from the tabletop. It's impossible to tell at this point whether the warrior is alive or dead, but for game purposes it makes no difference at this stage. After the battle you can test to see whether he survives and if he sustains any serious lasting injuries as a result of his wounds. 
 
-### Close Combat
+\page
+<div class='wide'>
+# Close Combat
+</div>
 
 #### Who can fight
 
@@ -541,12 +563,12 @@ To determine whether hits are scored, roll a D6 for each model fighting. If a mo
 The dice roll needed to score a hit on your enemy depends upon the Weapon Skills of the attacker and the foe. If the opponent's Weapon Skill is equal to your own then you will hit on a 4+. If theirs is higher you will hit on a 5+. If yours is higher you will hit on a 3+. Even small differences in Weapon Skill can therefore mean a great deal of difference! 
 
 Note that melee attacks may never hit on worse than a 5+.
-
+```
+```
 ##### Fighting with two weapons
 
 Some maniac warriors carry two weapons, one in each hand, so they can rain a flurry of blows on their enemies. A warrior armed with two one-handed weapons must make 1 extra Attack with the additional weapon though will suffer -1 WS to all attacks compensate for the difficulty in making precision blows while flailing wildly. If they are armed with two different weapons (sword and dagger, for example) they may choose which weapon is using this bonus attack. Roll to hit and wound for each weapon separately. 
 
-\page
 
 #### Multiple loadouts
 
@@ -564,6 +586,7 @@ To determine whether the blow has caused a wound compare the Strength of the wea
 
 Follow the same procedure for wounding and causing critical hits as in the Shooting section. 
 
+\page
 #### Armour
 
 Combatants that are wounded have the chance to avoid damage if they are wearing armour or carrying shields. This is exactly the same as described for shooting, and the same rules apply.
@@ -587,6 +610,12 @@ The higher a creature's Strength the more easily it can pierce armour. The follo
 | 9+ | -6 |
 
 Some weapons also confer a bonus to the user's Strength, making it more likely that any hits will pierce the opponent's armour. These bonuses are given in the Weapons & Armour section.
+
+### Ward Saves	
+Ward Saves are the general term used for effects that grant the wearer a special degree of protection. This may be a Step Aside skill allowing them to avoid an attack alltogether, or a magical talisman shielding them from the blow.
+
+Ward Saves are taken in addition to Armour Saves, best resolved after any Armour Saves have been attempted. They are not effected by the Strength of the attacker, and are therefore highly valuable!
+
 
 #### Parry
 
@@ -614,7 +643,7 @@ A model with multiple attacks may not stun/knock down and then automatically tak
 
 If your model is engaged in close combat with an enemy who is still standing, they cannot attack any other models that are _stunned_ or _knocked down_, since in reality they will not pose an immediate threat to them and their companions will try to protect them. 
 
-\page
+
 
 #### Moving from combat
 
@@ -628,8 +657,100 @@ When a fighter breaks from combat they simply turn and runs off. Their opponents
 
 _Note:_ Warriors cannot choose to leave a fight voluntarily.
 
+\page
 
-### Leadership & psychology
+<div class='wide'>
+# Special Rules
+</div>
+### Size Matters!
+
+Fighting against the more monstrous creatures of Mordheim is often more dangerous than merely avoiding the intentionally swung blows. The backswings of a Rat Ogre are like hammerblows, and being trampled accidentally under the feet of a Troll is a real possibility.
+
+_Large_ and _Huge_ models may, at the end of each Close Combat phase after all other attacks have been made (even after Double-handed Weapons), may make a _Stomp_ attack. Stomp may only target _Small_ enemies, and is a single automatic hit at the model's base strength (without weapon modifiers), and follows all the usual rules for picking targets. (So you may not Stomp _incapacitated_ foes if there are standing ones in the same combat).	
+
+_Gigantic_ and _Titanic_ monsters may allocate D6+1 Stomps (also known as a Thunderstomp) in the same way.
+
+### Impact Hits	
+
+Some models don't even bother swing their weapons as they charge into combat, instead relying on their sheer weight and bulk to slam into the foe. Examples of this include Beastmen with enormous horns goring their foe, or most famously the better-made Chariots will have so much momentum that they will inflict a number of _Impact Hits_.
+
+The number of _Impact Hits_ caused varies from creature to creature, but it is shown in brackets under their special rules - such as Impact Hits (D6+1) or Impact Hits (1).
+
+Impact hits are only made on the turn the model charges into combat. If the model with Impact Hits is itself charged, or is fighting in a second or subsequent round of combat, then this rule gives no benefit. Note that if the model does not complete the charge (for example, because it failed a psychology test) then no Impact Hits are inflicted.
+
+Impact Hits are resolved at the very beginning of a combat, before attacks of any other kind are made. You may allocate these hits freely among enemies you have charged into combat with, though as always you may not target _Incapacitated_ foes if there are standing foes in the same combat.
+
+_Impact Hits_ hit automatically, and roll to wound using the Strength of the model making the _Impact Hits_, after modifiers for Augments or Hexes but before applying strength bonuses from weapons.
+
+### Poisoned Attacks
+
+While many of the poisons described later in this book will have specific names and effects (for example: Dark Venom grants +1 Strength for a turn), some weapons or Augments will grant the general term "Poisoned Attacks". 
+
+Models with Poisoned Attacks will automatically wound on any 'To Hit' roll of 6. Models that are _Immune to Poison_ will need to be rolled to wound against as normal.
+
+If the Poisoned Attacks rule is not specific to a held weapon (for example, the Serpent Whip's _Poisoned Attacks_ will only effect attacks made with that weapon) then it will apply to all melee and shooting attacks made by that warrior. 
+
+Attacks that would only hit on a 6 anyway (such as shooting at extreme penalties) may not inflict automatic wounds with _Poisoned Attacks_, nor do attacks that automatically hit.
+
+
+### Killing Blow
+_Killing Blow_ is an extremely rare ability, and represents only the most deadly warriors. Most warriors are happy to leave their foes to bleed out after placing them Out of Action, turning their attention elsewhere - but not these ones. Warriors with _Killing Blow_ are hellbent on inflicting permanent damage to hostile warbands, and strive to ensure the injuries they inflict are as life-threatening as possible.
+
+If a warrior with _Killing Blow_ puts an enemy hero _Out of Action_ with a Critical Hit then they must roll on the first half of the table when doing their Serious Injuries in the post-battle phase. Henchmen put _Out of Action_ in this way are automatically removed from the roster.
+
+_Killing Blow_ will only effect _Small_ foes.	
+
+### Heroic Killing Blow	
+_Heroic Killing Blow_ is almost unheard of in Mordheim, and only exceptionally rare spells or magic items may bestow this effect. It represents only the most cataclysmically devestating attacks, such as those made by The Abomination in The Canals. _Heroic Killing Blow_ behaves exactly the same way as _Killing Blow_, but works on all foes (even _Titanic_ ones!) 
+
+### Breath Attack	
+Typically the prevail of dragons, there are still some creatures at this scale capable of performing these attacks. Examples include the Pestilent Breath castable by the Clan Pestilens wizards.
+
+Breath Attacks function like shooting attacks made with the _Sniper_ special rule, but are performed using the teardrop-shaped template. The narrow end is placed against the attacker's base and pointed in a direction of their choosing - all models under it are hit at the strength of the Breath Attack, which will be detailed in its description.
+
+Breath Attacks are an exception to the usual rules preventing warriors from shooting while in Close Combat - these warriors are often more than eager to unleash these powerful effects on their foes!	
+
+### Flammable	
+_Flammable_ models are, as the name suggests, flammable. Whenever a _Flammable_ model is hit by a weapon with the _Flaming Attacks_ special rule they take an additional automatic Strength 5 hit.
+\page
+
+### Flaming Attacks
+
+While Flaming Attacks do not give bonuses against most troops (we assume the weapon blow to be far deadlier than the flames that wreath it), they can often ward away the wild beasts of the world.
+
+Warriors equipped with a weapon with the _Flaming Attacks_ special rule cause _Fear_ in all animals.
+
+### Ethereal	
+Ethereal models have all but passed completely from the material plane, existing as spirits or ghosts. Normally these creatures are terrifying prospects to fight, for swords and arrows pass harmlessly through their incorporeal form - an especially worrying situation when these Ethereal foes are often capable of striking back. 
+
+In Mordheim however, the sheer quantities of Wyrdstone dust in the air clings to every surface, and even the most mundane of weapons consequentially have just the faintest sliver of magic coating them. This normally makes no difference whatsoever, but (likely unknown to the wielder) this is just enough to allow them to harm these spirits - as well as preventing them from freely moving through walls as they are often accustomed. It is the closest to mortality that these creatures will likely ever come.
+
+Non-magical attacks against Ethereal foes suffer a -1 'To Hit' and -1 'To Wound' penalty.
+
+### Magic Resistance	
+While uncommon, Magic Resistance is often applied through talismans or trinkets that inure the wearer against harmful magic, and the strength of this effect is shown in brackets next to the special rule, for example: Magic Resistance (2).
+
+Magic Resistance improves the Ward Save of models with this special rule by an amount shown in brackets. A model with Magic Resistance (2) and a 4+ Ward Save would therefore have a 2+ Ward Save.
+
+The benefits of Magic Resistance only apply against Direct Damage spells and Magic Missiles. It has no effect upon enemies whose regular attacks have the _Magical Attacks_ special rule.
+```
+```
+
+### Mounts, Chariots, and Terrain
+
+Many warriors choose to ride to battle on some form of mount. This may be a steed, a giant spider, or even a mighty Chariot! These mounts often offer significant benefits such as improving the armour save of the rider and improving their mobility. It also grants the rider access to the illustrious  **Cavalry Special Skills**
+
+A warrior that rides a normal horse or wolf-sized mount increases their size to _Medium_, and though the mount may attack and their movement value is used for moving the model they otherwise function as a piece of equipment. Mounts do not gain experience and do not need to roll for injury rolls - the only way to lose one is through effects that make you lose your equipment, such as being robbed.
+
+While the benefits of a mount are many, they are ill suited to the sprawling and derelict terrain of Mordheim, and only a true daredevil would consider riding their horse through a collapsed building. Such action is possible, but fraught with peril - a horse will gladly gallop under a low beam with little thought to its rider, or the subsequent humiliating death.	
+
+If a mounted warrior moves through or ends a move any terrain other than _Open Ground_ they must take a Dangerous Terrain test. Roll a D6. On a result of a 1 the warrior suffers an immediate wound with no armour saves allowed.
+
+Chariots are especially susceptible to damage in this way, and accidents atop them are often spectacular. Chariots that fail their Dangerous Terrain tests suffer D6 wounds rather than 1.
+\page
+<div class='wide'>
+# Leadership and Psychology
+</div>
 
 #### The rout test
 
@@ -661,6 +782,8 @@ If they fail, they will flee _2D6"_ towards the nearest table edge in the _compu
 
 If a warrior is charged while they are _fleeing_, the charger is moved into base contact as normal, but the _fleeing_ warrior will then move an additional _2D6"_ towards the table edge immediately.
 
+```
+```
 #### All alone
 
 Being outnumbered and alone is a nerve-racking situation for any warrior. If your warrior is fighting alone against two or more opponents of the same or larger size (refer to the model size chart), and there are no friendly models (_incapacitated_ models do not count) within _6"_, they must make a _leadership test_ at the end of their combat phase.
@@ -679,7 +802,6 @@ _Fear_ is a natural reaction to huge or unnerving creatures. A model, unless the
 
 Terror-causing models are even more frightening than fear causing ones and represent the mind-shattering and traumatising sort of creatures of which legends are told. Monsters that cause Terror will inflict the fear status even on units that cause fear themselves or are immune to fear (such as with Hardened). Immunity to Psychology will negate Terror as normal.
 
-\page	
 
 #### Frenzy
 
@@ -688,6 +810,8 @@ Some warriors can work themselves into a berserk state of fury, a whirlwind of d
 These warriors are described as being frenzied. Frenzied models must always charge if there are any enemy models within charge range. The player has no choice in this matter - the warrior will automatically declare a charge. 
 
 Frenzy grants the warrior +1A to their profile and are Immune to Psychology. If a frenzied model is _incapacitated_, they no longer count as frenzied for the rest of this battle as they get the sense knocked into them. 
+
+\page
 
 #### Hatred
 
@@ -732,6 +856,6 @@ Once the battle has begun Formal Alliances may not be broken. Warbands require s
 
 Formal allegiances may only be negotiated between warbands with one degree of seperation in alignment (So Neutral warbands may only ally with Neutral, Lawful/Neutral, or Chaotic/Neutral for example) and may not take take place if either your warband has the 'Distrust' rule (for example, Dwarfs distrusting Elves) or your warband leader has a Hatred of the other warband's leader. 
 
-\page
+
 #### Informal Alliance
 Informal alliances are moments where warbands warily take a step back from one another, perhaps each sizing the other up as being a little too strong to be worth fighting - or taking a momentary reprieve to recover and prepare for their next attack. These alliances are the second-to-second judgements made by Warband leaders, and often communicated with little more than body language. These allegiances are momentary at best, and often nothing more than an attempt by one warband to get the other to expose its back. There are no restrictions on these informal alliances but also are nothing more than agreements between Leaders to temporarily focus their attentions elsewhere. For all intents and purposes the two warbands are still hostile to one another - they are still the closest enemies for shooting, will still count as hostile for the purposes of _frenzy_, and will still prevent one another from running. They also may not share a victory in a scenario where the victor is determined by routing.
