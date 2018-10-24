@@ -1,195 +1,187 @@
-﻿#### Scenarios
+﻿<div class='wide'>
+# Defend the Hoard
+</div>
 
-##### Scenario: Defend the Hoard
+### Scenario: Defend the Hoard
 
-In this scenario the defending warband has prepared to send an accumulation of Wyrdstone back to their masters. Whether it be for sale in the case of Mercenaries, some bribe to win further favours for Skaven, for returning to the chapel for cleansing in the case of the Sisters of Sigmar~ Warbands will have any number of reasons to need to send resources out of the city to further their goals. The defending warband has spent a great deal of time pooling its resources and gathering wyrdstone to send away for sale, but this movement has attracted unwanted attention. Attacking warbands see an unmissable opportunity here, and must attempt to steal as much wealth as possible before the caravan (and more importantly its reinforcements) arrive.
-Terrain
+_In this scenario the defending warband has prepared to send an accumulation of Wyrdstone back to their masters._
+
+_Whether it be for sale in the case of Mercenaries, some bribe to win further favours for Skaven, or for returning to the chapel for cleansing in the case of the Sisters of Sigmar, Warbands will have any number of reasons to need to send resources out of the city to further their goals. The defending warband has spent a great deal of time pooling its resources and gathering wyrdstone to send away for sale, but this movement has attracted unwanted attention. Attacking warbands see an unmissable opportunity here, and must attempt to steal as much wealth as possible before the caravan (and more importantly its reinforcements) arrive._
+##### Terrain
 The defending player sets up a Hoard of their own design: They may choose four buildings and up to four walkways with which to build a defensible combination of structures in the middle of the table (or at least as much so is possible). In the middle of this superstructure is the Horde, a vast mountain of wyrdstone ready to be shipped as cargo. The Horde contains D3+1 shards of wyrdstone for each player participating in the scenario, and attacking players may collect a shard of wyrdstone from the Horde in the same way they would gather a normal shard of wyrdstone - collecting one per turn. As usual, animals may not gather wyrdstone. Defenders may not steal their own wyrdstone.
-Warbands
+
+##### Set-up
 The defending player sets up first, then attackers roll a D6 to determine who gets to deploy first, and deploy within 6" of their deployment zone. The defending warband may not form any formal alliances for this battle, and no special deployment rules may be used by any warband.
-Starting the game
+```
+```
+##### Starting the game
+
 Attacking warbands roll a D6 and play then proceeds clockwise. The defending player always goes last (and therefore always gets the last play of the game)
-Ending the game
-The game lasts for 8 turns. If the defending player still has at least one warrior within the Hoard at the end of the 8th turn they then win and claim all the Wyrdstone remaining. If the defending player has no warriors remaining at the end of the game then the attackers win. Attackers may only keep the Wyrdstone they had in their possession at the end of the game - unclaimed Wyrdstone left in the Horde or on the ground will be taken by the caravan the defenders were attempting to sell to (though they will of course recieve no credit, as it was no longer theirs to sell!). If there is only one attacker left before the eighth turn they may continue to play alone until the turn limit is reached to steal as much Wyrdstone as their warband can manage!
-Experience
-+1 Survives. If a Hero or Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 extra Experience.
-+1 Brilliant Defence. If the defending warband won their leader may gain an additional +1 extra Experience as the caravan owners marvel at their fantastic defiance of the odds.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
+
+##### Ending the game
+
+The game lasts for 8 turns. If the defending player still has at least one warrior within the Hoard at the end of the 8th turn they then win and claim all the Wyrdstone remaining. If the defending player has no warriors remaining at the end of the game then the attackers win. 
+
+Attackers may only keep the Wyrdstone they had in their possession at the end of the game if they did not rout, or carried off of the board. Unclaimed Wyrdstone left in the Horde or on the ground will be taken by the caravan the defenders were attempting to sell to (though they will of course recieve no credit, as it was no longer theirs to sell!). If there is only one attacker left before the eighth turn they may continue to play alone until the turn limit is reached to steal as much Wyrdstone as their warband can manage!
+
+##### Experience
+**+1 per Wyrdstone Counter:** Heroes or  Henchmen carrying at least 1 shard of Wyrdstone by the end of the game get +1 Experience. Warbands that rout before the turn limit have dropped their wyrdstone, and do not gain this benefit.	
+**+1 Brilliant Defence:** If the defending warband won their leader may gain an additional +1 extra Experience as the caravan owners marvel at their fantastic defiance of the odds.	
 
 
 
-##### Scenario: Wyrdstone hunt
+\page
 
-Scattered in the ruins of Mordheim are innumerable tiny shards of
+<div class='wide'>
+# Wyrdstone Hunt
+</div>
+
+_Scattered in the ruins of Mordheim are innumerable tiny shards of
 priceless wyrdstone. It often happens that two warbands come upon
 the same area and only a battle can determine who will pick the
 spoils.
 In this scenario, warbands encounter each other while
 scavenging in the same ruined warehouse, vault, temple or
-other such potentially rich building.
-Terrain
-Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 4'.
-Special rules
+other such potentially rich building._
+
+##### Terrain
+The city is set up as normal with no special additional criteria.
+
+##### Special rules
 Once you have placed the terrain, put some Wyrdstone
 counters on the tabletop to represent where the shards are.
 There will be D3+1 counters in total.
 Each player takes it in turn to place a counter. Roll a D6 to
 see which player goes first. The counters must be placed
 more than 10" from the edge of the table and at least 6" away
-from each other. Note that counters are placed before
+from each other.
+
+Note that counters are placed before
 deciding which edge the warbands will play from, so it is a
 good idea to put counters towards the middle of the table.
 Warriors can pick up the counters simply by moving into
-contact with them. A warrior can carry any amount of
+contact with them, though this will end their turn. They may not perform any further movement or shooting this turn.. A warrior can carry any amount of
 wyrdstone without any penalty. Warriors cannot transfer their
 wyrdstone to another warrior. If the warrior who is carrying a
 counter is taken out of action, place the counter on the table
-where he fell.
-Warbands
+where they fell.
+```
+```
+##### Set-Up
 Both players roll a D6 to see who deploys first. Whoever
-rolls highest sets up first, within 8" of the table edge of his
-choice. His opponent then sets up within 8" of the opposite
+rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite
 edge.
-Starting the game
+
+
+##### Starting the game
 Both players roll a D6. The highest scoring player takes the
-first turn.
-Ending the game
-He game ends when one warband fails its Rout test. The
+first turn. Play then proceeds clockwise.
+
+
+
+##### Ending the game
+The game ends when one warband fails its Rout test. The
 routers automatically lose.
-Experience
-+1 Survives. If a Hero or a Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 per Wyrdstone Counter. If a Hero or Henchman is
-carrying a Wyrdstone counter at the end of the battle he
-receives +1 Experience.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
-Wyrdstone
-Your warriors earn one shard of wyrdstone for each counter
-still in their possession at the end of the battle.
+##### Experience
+**+1 per Wyrdstone Counter:** Any Hero or Henchman that carries any number of Wyrdstone off of the board gain +1 Experience.	
 
-##### Scenario: Breakthrough
 
-When news of a huge deposit of wyrdstone starts circulating,
+
+\page
+
+<div class='wide'>
+# Breakthrough
+</div>
+
+_When news of a huge deposit of wyrdstone starts circulating,
 warbands will mount expeditions to unearth the wealth. However,
 their rivals often try to block them, eager to claim all the wyrdstone
 for themselves.
 Terrain
 Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 4'.
-Warbands
-Each player rolls a dice. Whoever scores higher decides
-which table edge the attacker sets up on.
-The attacker sets up first, within 8" of his table edge. The
-defender sets up anywhere on the table as long as all his
-warriors are at least 14" away from any attacker.
-Starting the game
-The attacker has the first turn.
-Ending the game
-If one of the warbands fails a Rout test, the game ends
-immediately and the routing warband loses.
-If the attacker manages to move two or more standing
-warriors to within 2" of the defender’s table edge, they have
-broken through and he wins the game.
-Experience
-+1 Survives. If a Hero or a Henchman group survives the
-battle, they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
-+1 Breaking Through. Any warrior earns +1 Experience for
-breaking through enemy lines. If the warrior is a Henchman,
-then the whole group gains +1 Experience.
+ruined building, tower, or other similar item._
 
+##### Terrain
+The city is set up as normal with no special additional criteria. It is recommended that this scenario is best played with three players, unless the Defender is deemed to be significantly stronger than the other participating warbands.
 
+##### Set-Up
+The Defender may choose a single table corner to be their deployment area. They may deploy their entire force within that zone in a 12" by 12" box. It is worth marking these deployment areas as they will be important to know for the Attackers' Breaking Through objective.
 
-##### Scenario: Street fight
+Attackers roll a D6 each. Highest roll deploys first on a table edge of their choosing.
+```
+```
 
-Often two warbands will come face to face with each other in the
+##### Starting the game
+The Defender goes last. Roll a D6 to determine which attacker goes first.
+##### Ending the game
+If the Defending player routs or if all of the Attacking players rout, then the game immediately ends.	
+Each Attacking warband must calculate its rout threshold (for example, a warband of 12 has a threshold of 3.). In order for the Attacker to win the scenario they must move this number of Warriors off of either of the table edges in the 12" x 12" zone that the Defender deployed in.
+##### Experience
+**+1 Breaking Through:** Warriors earn +1 Experience for breaking through enemy lines. If the warrior is a Henchman, then the whole group gains +1 Experience.
+
+\page
+
+<div class='wide'>
+# Street Fight
+</div>
+
+_Often warbands will come face to face with each other in the
 narrow streets of Mordheim. Sometimes they pass each other
-without incident but more often the meeting ends in bloodshed.
-Terrain
-Set up all the buildings into a single street, with no gaps
-along the sides. Behind the buildings are impassable ruins,
-although the buildings themselves are still accessible. The
-only way out is along the street. The street may be as winding
-as you like and should not be too narrow to fight in, but can
-have narrow bottlenecks at some points. We suggest that the
-terrain is set up within an area roughly 4' x 4'.
-Set-up
-Both players roll a D6 to see who sets up first. Whoever rolls
-highest chooses whether to deploy first or second. The
-warbands are deployed within 6" of opposite ends of the
+without incident but more often the meeting ends in bloodshed._
+##### Terrain
+This scenario works best in groups of no more than 4 players. While certainly possible to play with more it is advised to re-roll the scenario if your games group has more than 4 players.
+
+Set up a narrow street (approx 5" wide is best) with buildings on either side. In games with more than two players you will need to set up a junction in the middle of the board, allowing routes for each warband - a Street Fight with four players would therefore need to be a crossroad. As best you can, try to set this junction up in such a way that each warband will have about the same distance to travel if they intend on reaching the opposite board edge.
+
+Any area that is not part of any of the buildings and is not in the street is considered _Impassable Terrain_. It will be important to establish with the other players what is or isn't _Impassable Terrain_ before rolling for deployment.
+
+
+##### Set-up
+Players roll a D6 each, the highest roller deploys first. Warbands are deployed within 6" of opposite ends of the
 street.
-Special rules
+
+```
+```
+##### Special rules
 Neither warband can backtrack down the street to leave the
 battlefield via their own edge.
-Starting the game
-Roll a D6 to see who has the first turn.
-Ending the game
-When one of the warbands manages to move all its remaining
-warriors out of the street via the opposing edge, the game
-ends and that player is victorious.
-Alternatively a warband which fails a Rout test loses the
-game.
-Experience
-+1 Survives. If a Hero or a Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
-+1 Escaping. The first Hero from either side (not both!) who
-exits via the opposing table edge gains +1 Experience.
+##### Starting the game
+Roll a D6 to see who has the first turn. Play then proceeds clockwise.
+##### Ending the game
+Each warband must calculate its rout threshold (for example, a warband of 12 has a threshold of 3.). In order to win the scenario a warband must move this number of Warriors off of either of the opposite table edge from the exit they deployed in. In three player games players may choose. 
 
-##### Scenario: Chance encounter
+This makes Formal Alliances with your adjacent neighbour particularly valuable.
+##### Experience
+**+1 Escaping:** Any Hero that escapes off of an opposing board edge gains +1 Experience.
 
-Both warbands have completed their daily search of the ruins and
+\page
+
+<div class='wide'>
+# Chance Encounter
+</div>
+
+_Both warbands have completed their daily search of the ruins and
 are on their way back to their encampment when they run into each
 other. Neither side was expecting a fight, and the warband that
-reacts the quickest has the advantage.
-Terrain
-Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 4'.
-Set-up
-1. Each player rolls a D6. The player with the higher score
-can choose to deploy first or second.
-2. The first player to deploy sets up his entire warband in one
-quarter of the table. The quarter of the table which the first
-warband deploy in is nominated as deployment zone A.
-3. The second warband can then be set up in the opposite
-quarter of the table. The quarter of the table which the second
-warband deploy in is nominated as deployment zone B, but
-no model may be set up within 14" of any enemy model.
-    Starting the game
-Each player rolls a D6 and adds the normal Initiative of their
-leader. The player with the higher score goes first.
-    Special rules
-Each warband is carrying D3 shards of wyrdstone at the
-beginning of the battle. Mark down the number each warband
-has.
-    Ending the game
-The battle ends when one warband fails a Rout test. The
-routing warband loses.
-    Experience
-+1 Survives. If a Hero or a Henchman group survives the
-battle then they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
-    Wyrdstone
+reacts the quickest has the advantage._
+##### Terrain
+The city is set up as normal with no special additional criteria. 
+##### Special rules
+Each warband is carrying D3 shards of wyrdstone at the beginning of the battle, plus 1 for each additional warband beyond the second. Mark down the number each warband has.
+##### Set-Up
+Both players roll a D6 to see who deploys first. Whoever rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite edge.
+
+
+##### Starting the game
+Each player rolls a D6 and adds the normal Initiative of their leader. The player with the higher score goes first. Play then proceeds clockwise.
+```
+```
+##### Ending the game
+The battle ends when only one warband is left in the game.
+##### Experience
+There are no additional Experience bonuses for this scenario.
+
+### Wyrdstone
 Both warbands gain all the wyrdstone they were carrying at
 the beginning of the battle, minus the number of their own
 Heroes that were taken out of action during the game, down
@@ -198,728 +190,457 @@ of wyrdstone for each enemy Hero they take out of action, up
 to the maximum number of shards the opposing warband was
 carrying at the beginning of the battle.
 
+\page
 
-##### Scenario: Hidden treasure
+<div class='wide'>
+# Hidden Treasure
+</div>
 
-There is a rumour that one of the ruined buildings has a concealed
+_There is a rumour that one of the ruined buildings has a concealed
 cellar with a treasure chest hidden in it. Two rival warbands have
 heard about the cellar and are now searching the area. Who knows
-what they will find?
-Terrain
-Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 4'.
-Set-up
-Both players roll a D6 and whoever rolls highest chooses
-which warband sets up first. This warband is deployed within
-8" of any table edge the player chooses. His opponent sets up
-within 8" of the opposite side. Special deployment may not be used for this scenario.
-Special rules
+what they will find?_
+##### Terrain
+The city is set up as normal with no special additional criteria. 
+
+##### Special rules
 All the warriors (not animals!) in each warband know
 roughly what they are looking for and must inspect the
-buildings to find the treasure. Each time a warrior enters a
+buildings to find the Treasure Chest. 
+
+Each time a warrior enters a
 building which has not been previously searched by either
-side roll 2D6. On a score of 12, he has found the treasure.
+side roll 2D6. On a score of 12, they have found the treasure!
 Buildings in the deployment zones are not searched (since
 they have already been thoroughly ransacked) and each
 building may only be searched once.
 If you have not scored 12 with any roll when there is only
-one building left to search, the treasure will automatically be
-found there. After finding the treasure chest, the warrior must
-then take it to safety via his own table edge. Carrying the
-treasure chest will slow the warrior carrying it to half speed.
-Two or more models may carry the chest without any
-penalty. You may use the treasure chest model to represent
-the chest. If the carrier is put out of action, place the treasure
-chest at the spot where he fell. Any man-sized model may
-pick it up by moving into base contact with it.
-Whoever recovers the chest may roll on the following chart
+one building left to search, the Treasure Chest will automatically be
+found there.
+
+
+Whoever recovers the Treasure Chest may roll on the following chart
 after the game to see what the chest contains. Note that you
 roll for each item separately, apart from the gold crowns,
 which are always automatically found. For example, roll to
 see if you find any wyrdstone – you need a 5+ to find it. Then
 roll to see if you find the armour, and so on. This can make
 the chest a very valuable acquisition – however, it could also
-mean that your warband has risked death for only three gold
+mean that your warband has risked death for only five gold
 crowns!
 
-ITEMS D6 ROLL REQUIRED
-3D6 GC Automatic
-D3 pieces of wyrdstone 5+
-Suit of light armour 4+
-Sword 3+
-D3 gems worth 10 GC each 5+
-Starting the game
+
+| Item | Roll Required |
+| :- | :-: |
+| 5D6 GC | Automatic |
+| Magical Artefact | 5+ |
+| D3 pieces of wyrdstone | 5+ |
+| Suit of heavy armour | 4+ |
+| Sword | 3+ |
+| D3 gems worth 10 GC each |  5+ |
+
+```
+```
+##### Set-up
+Both players roll a D6 and whoever rolls highest chooses
+which warband sets up first. This warband is deployed within
+8" of any table edge the player chooses. Their opponent sets up
+within 8" of the opposite side. Special deployment may not be used for this scenario.
+
+##### Starting the game
 Roll a D6. The player rolling highest has the first turn.
-Ending the game
+##### Ending the game
 When one warband gets the treasure to safety, or a warband
 fails a Rout test, the game ends. The victorious warband then
 gains the treasure chest.
-Experience
-+1 Survives. If a Hero or a Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
-+2 For Finding the Chest. If a Hero finds the treasure chest
-he earns +2 Experience.
+##### Experience
+	
+**+2 For Finding the Chest:** If a Hero finds the treasure chest
+they earn +2 Experience.
 
+\page
 
-##### Scenario: Occupy
+<div class='wide'>
+# Occupy
+</div>
 
-This scenario takes place in a part of Mordheim where the buildings
+_This scenario takes place in a part of Mordheim where the buildings
 are bursting with shards of wyrdstone and other wealth. Taking and
 holding these buildings means that your warband gains rich
-pickings. Unfortunately, your opponent has the same idea.
-Terrain
-Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 4'.
-Warbands
-Each player rolls a D6. The player with the highest score
-decides which warband sets up first. The first player chooses
-the table edge he wants to set up on, and places all his
-warriors within 8" of it. His opponent then sets up within 8"
-of the opposite edge.
-Starting the game
-Both players roll a D6. The player with the higher score takes
-the first turn.
-Special rules
+pickings. Unfortunately, your opponent has the same idea._
+
+##### Terrain
+The city is set up as normal with no special additional criteria. 
+##### Special rules
 The objective is to capture D3+2 of the buildings on the
 tabletop. Mark these buildings, starting with the one closest
 to the centre of the table, working your way outwards to the
 next nearest building. A building is occupied if at least one of
 your standing models is inside and no enemy models are
 inside the building.
-Ending the game
-There is no need to take any Rout tests – as the game lasts for
-a maximum of eight turns. If one warband voluntarily routs,
-the game ends and the winning warband is considered to
-occupy all of the buildings on the table.
-Experience
-+1 Survives. If a Hero or a Henchman group survives they
-gain +1 Experience.
-+1 Winning Leader. The leader of the warband who controls
-the highest number of buildings at the end of the battle gains
-+1 Experience.
-If both sides occupy the same number of buildings, then the
-battle is considered to be a draw and neither leader gains this
-bonus.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
+##### Set-up
+Both players roll a D6 and whoever rolls highest chooses
+which warband sets up first. This warband is deployed within
+8" of any table edge the player chooses. Their opponent sets up
+within 8" of the opposite side. 
+```
+```
+##### Starting the game
+Both players roll a D6. The player with the higher score takes
+the first turn. Play then proceeds clockwise.
 
+##### Ending the game
+There is no need to take any Rout tests – as the game lasts for a maximum of eight turns. If a warband voluntarily routs they lose all occupation of buildings. If all warbands but one rout before the eight turn time limit the remaining warband is considered to have occupied all buildings.
+##### Experience
+**+1 Occupation:** Warbands may allocate +1 Experience to their warband leader for each building they Occupy at the end of the game. 
 
+\page
 
-##### Scenario: The Rescue
+<div class='wide'>
+# The Rescue
+</div>
 
-There are times when your most experienced Heroes are slain, and
-you mourn them greatly; however, it is often worse for them to be
-captured by the enemy, as not only will it be likely that you cannot
-get them back, but your enemy will also greatly profit from it. This is
-the scenario that warbands will play if they fail to organize the
-return of a Captured warband member. If such a situation arises, 
-the warband that had a Hero captured may opt to play the next scenario 
-as a Rescue Mission; this cannot be superseded by anything, nor
-can the warband who captured the Hero deny the Rescue Mission. 
-Terrain
+There are times when your most experienced Heroes are slain, and you mourn them greatly; however, it is often worse for them to be captured by the enemy, as not only will it be likely that you cannot
+get them back, but your enemy will also greatly profit from it. 
+
+This is the scenario that warbands will play if they fail to organize the return of a Captured warband member. If such a situation arises, the warband that had a Hero captured may opt to play the next scenario as a Rescue Mission; this cannot be superseded by anything, nor can the warband who captured the Hero deny the Rescue Mission. 
+
+##### Terrain
 This scenario takes place in the Defending player's base. This can be
 their headquarters within Mordheim or simply the few ruined buildings
 that they have chosen to sleep in for the night. In any case the 
 Defending player is the one who captured the warband member in
-question. They may set up the map as they please, with a central 
-building (or building superplex) in the middle of the board.
-Set-up
-The prisoner and his gear are set up in the central building as
-described above. The prisoner may not act until he is freed.
-The defender is not allowed to attack or “execute” his
-prisoner, but must attempt to drive off the rescuers. Once the
-captive is freed, however, he is fair game.
-A prisoner is free to move and fight once cut free by a
-friendly fighter. The friend moves into base contact with him
-and spends the rest of the turn cutting him free; he may not
-shoot, cast spells, and fight in hand-to-hand or anything else
-at all. Once freed, the prisoner may move and attack
-normally. Note that the captive has no weapons or other
-equipment until he reclaims his own (or if the friendly fighter
-gives him something).
-The attacking warband can reclaim the captive's gear by
-moving into base contact with the chest. As above, it takes the
-rest of an attacker's turn to open the chest. If the model who opens the
-chest later comes in contact with the prisoner, he may give
-him all of his old gear; however, the prisoner may not put on
-any armour, as a quick escape is desired (he may use a shield
-as normal).
+question. 
 
-Warbands
+They may set up the map as they please, with a central 
+building (or building superplex) in the middle of the board.
+
+### The Prisoner
+The prisoner and their gear are set up in the central building as
+described above. The prisoner may not act until they are freed.
+
+The defender is not allowed to attack or “execute” their prisoner, but must attempt to drive off the rescuers. Once the
+captive is freed, however, they are fair game.
+
+A prisoner is free to move and fight once cut free by a friendly fighter. The friend moves into base contact with them and spends the rest of the turn cutting them free; the rescuer may not shoot, cast spells, and fight in hand-to-hand or anything else at all.
+
+Once freed, the prisoner may move and attack normally. Note that the captive has no weapons or other equipment until they reclaims their own (or if the friendly fighter gives them something). The attacking warband can reclaim the captive's gear by moving into base contact with the chest. As above, it takes the
+rest of an attacker's turn to open the chest.
+
+If the model who opens the
+chest later comes in contact with the prisoner, they may give
+the prisoner all of their old gear and re-mount if they had one.
+
+##### Set-Up
 The warband that captured the Hero is automatically the
-defender, and sets up his warband anywhere on the table, though
+defender, and sets up their warband anywhere on the table, though
 no warrior may be within 12" of a table edge and no warrior may
 be within 6" of another warrior. This must be done before 
 rolling for table edges.
-Starting the game
-The attacker always gets the first turn.
-Special rules
-Sentries: Until the alarm is sounded (see below), the
+##### Starting the game
+The Rescuer always gets the first turn. Play then proceeds clockwise with the Defender going last.
+```
+```
+### The Captors
+**Sentries:** Until the alarm is sounded (see below), the
 defender's models are moving about in a somewhat random
 pattern, keeping a look out. Each sentry moves d6-3 inches
-per turn; roll separately for each model. If the distance is
-negative, then the attacking player is allowed to move that
-model. After moving each sentry, roll the Scatter dice and
-turn the model to face the direction indicated. Models with
-Stupidity move like this until the alarm is sounded
-(effectively ignoring their Stupidity for now).
-Sounding the alarm: Until the alarm is sounded, sentries
-move as described above. In addition, their Weapon Skill is
-halved (rounding fractions up), and they may not shoot or
+per turn; roll separately for each model. 
+
+If the result is negative the sentry does not move. After moving each sentry, roll the Scatter dice and turn the model to face the direction indicated. Models with Stupidity move like this until the alarm is sounded (effectively ignoring their Stupidity for now).	
+**Sounding the alarm:** Until the alarm is sounded, sentries
+move as described above. Sentries that have not been alerted are at Weapon Skill 0 and they may not shoot or
 cast spells. After the alarm is sounded, the sentries may move
-and attack freely. The alarm can be sounded in a number of ways:
-Spotting: Roll 2d6 at the end of the defender's turn; this, plus
-an individual model's detection range (the range used to
-detect Hidden models; usually their Initiative value), is the
-distance at which a model can try to spot the enemy. They
-must be within the front 90° arc of the model. This represents
-that the swirling fog and lingering smoke that fills Mordheim
-is somewhat distracting when an enemy does not clearly
-present itself; as well, it shows that the attacker is attempting
-to move more stealthily than normal.
-Attackers in the open will be spotted on a d6 roll of 2+.
-Attackers in cover will be spotted on a d6 roll of 4+.
+and attack freely. The alarm can be sounded in a number of ways:	
+**Spotting:** Roll 2d6 at the end of each of the defender's turns. This, plus
+an individual model's detection range, is the distance at which a model can try to spot the enemy. They must be within the front 90° arc of the model. This represents that the swirling fog and lingering smoke that fills Mordheim is somewhat distracting when an enemy does not clearly present itself; as well, it shows that the attacker is attempting to move more stealthily than normal.	
+_Attackers in the open will be spotted on a d6 roll of 2+._	
+_Attackers in cover will be spotted on a d6 roll of 4+._	
+_Attackers out of sight of a sentry or not in their frontal arc, but within the detection range of the sentry will be “spotted” (more like heard) on a roll of 6._	
+_Attackers are immediately spotted if they move into Open Ground within sight of a Sentry_.
 
-Attackers out of sight of a sentry and not in their frontal arc,
-but within the detection range of the sentry will be “spotted”
-(more like heard) on a roll of 6.
-Sentries will spot any attacker within their detection range
-and their front arc on a 4+, whether the attacker is visible or
-not; if such an attacker is visible at all (including if in cover),
-this chance increases to a 2+.
-Raiders are also spotted if they move within sight of a sentry
-during their own turn. The spotting range is as rolled in the
-defender's turn, and the same dice rolls are required.
-Remember, sentries can only see within their frontal arc until
-the alarm is sounded.
-If a sentry spots a raider, he sounds the alarm. However, he
-can only give the alarm if he survives the attacker's turn. If he
-is taken Out of Action, then he cannot sound the alarm.
-Shooting: If an attacker shoots a black powder weapon, roll
-d6 and add the weapon's Strength to the score. If the result is
-over 8, the alarm is sounded. Note that firing a black powder
-weapon can sound the alarm even if there are no sentries left.
-Fighting: A sentry who is attacked in hand-to-hand combat
-will sound the alarm if he survives the turn (even if Knocked
-Down or Stunned). Remember that the sentry's Weapon skill
-is halved until the alarm is sounded. If the raider shoots a
-black powder weapon in hand-to-hand, then you must roll as
-described above to see whether the shots sound the alarm
-even if the enemy is killed.
-
-Ending the game
-The game ends if the captive is freed and makes their escape
-by moving off any table edge. The game also ends if all the
-attackers are taken Out of Action. Due to the high tension and
-stress of the situation, neither warband is forced to take Rout
-Tests until they have lost half of their warband (instead of the
-usual 25%). In a multiplayer game other participating warbands
-may attempt to steal the loot, but cannot claim the captive
-for themselves. If the captive is cut free and then their warband
-routs before they can flee the table then they must roll for
-serious injury on the first half of the table. This reflects the
-odds of a lone and unarmed warrior exhausted by captivity having
-an extremely low chance of getting back home safely by themselves.
-Experience
-+1 Survives. If a Hero or a Henchmen group survives the
-battle they gain +1 Experience.
-+1 per enemy Out of Action. A hero earns +1 Experience
-for each enemy they put Out of Action.
-+2 Escapes. The captured model gains +2 Experience if they
-successfully exit the board.
-+1 Winning Leader (Attacker). The leader of the attacking
-warband gains +1 Experience if victorious.
-+2 Winning Leader (Defender). The leader of the defending
-warband gains +2 Experience if victorious.
-Finial Notes
-Note that even if a Rescue Mission is failed, the attacker can
-still attempt to negotiate for the release of his Hero. However,
-given the fact that he just attacked the rival warband and can
-no longer attempt another Rescue mission, this will
-undoubtedly drive up the price! Of course, it is quite possible
-that the attacker could have Captured one of the defender's
-models, making a trade viable; also, the attacker will likely
-have a bit more money to offer, as he gets a second game
-worth of exploration (assuming any of his Heroes survived).
+If a sentry spots a raider, they sound the alarm. However, they can only give the alarm if they survive the attacker's turn. If they are taken Out of Action, then they cannot sound the alarm.	
+**Black Powder Weapons:** Perhaps unsurprisingly, if a Black Powder weapon is fired the alarm is immediately raised.	
 
 
-##### Scenario: Race to the Stash
+##### Ending the game
+The game ends if the captive is freed and makes their escape by moving off any table edge. The game also ends if all the
+attackers are taken Out of Action. Due to the high tension and stress of the situation the Rescuer does not need to take rout tests (other participating attacking warbands still do however).
 
-By Jace Proctor
-In the aftermath of the comet's fall, Mordheim has become a
-labyrinth of ruined buildings, decaying streets, abandoned
-catacombs, and treacherous alleyways. Some even say that the city
-itself is alive, and has the power to reorder its chaotic innards in
-order to confuse or destroy the imposing warbands who plunder the
-city for precious wyrdstone. It is not uncommon for a warband to
-find a safe haven or a stash of treasure only to find it completely
-vanished the next day, replaced by a completely different structure.
-It is for this reason that warbands will often assail a place of worth
-as quickly as possible, to ensure that they can plunder its riches
-before it is never seen again. Sometimes two or more warbands will
-hear of the same location at the same time, and in these situations a
-deadly race can ensue through the streets of Mordheim, with the
-victor claiming lordship over the area and defending it from any
-attackers.
-Through your network of informants and spies, you have learned of
-a large stash of treasure deep within the city's rich quarter, which
-once housed the affluent and often corrupt upper class of citizens.
-According to your informant, this find has only just been discovered,
-and the riches are ripe for the taking! Finds like this are rare, but a
-find in the rich quarter is almost unheard of, as this area of the city
-is trafficked often by the warbands seeking wyrdstone and riches.
-Immediately gathering your warriors and gear, you quickly embark
-towards the location of the rumoured find. As you quietly make your
-way across the remaining bridge and through the streets of
-Mordheim, you catch sight of an opposing warband who is
-travelling in the same direction as you. A row of ruined, but still
-standing buildings separate you from your rivals, who have also
-spotted you. The both of you quicken your pace, and suddenly you
-hear the crack of a crossbow bolt whizzing through the air and
-striking a wall behind you. Your warband returns fire in kind, still
-racing through the mottled, uneven streets of the former rich
-quarter. Through the gaps in the buildings you exchange shots,
-speeding through the twists and turns of the city, approaching the
-stash of treasure at breakneck speed. Whoever is to reach the horde
-first will have a marked advantage, as they will be able to take
-covered positions and defend the find against the attackers.
-This Scenario can be used for both Two Player and
-Multiplayer Games.
-Terrain
-Set up the terrain so that there are two lanes or streets, one for
-each warband, with both lanes eventually leading to a
-building or other structure that represents the treasure horde.
-The lanes should be segregated by a row of buildings or other
-such terrain that is impassable on foot, but can be shot
-through. These lanes should be as similar as possible with
-respect to length and distance from the goal, but do not have
-to be perfectly straight or symmetrical. A slightly longer table
-or playing area than normal is recommended for this
-scenario; something roughly 5' x 2' or larger would do nicely.
-Set-up
-Roll a D6 for each player. The player with the highest score
-can choose which lane he or she wants to set up in. The
-opposing player must set up in the other lane. All models
-must be deployed within 6” of the closest table edge and
-inside the lanes. Because the warbands are racing toward the
-goal as fast as possible, no models may be deployed on high
-ground at the start of the game. Special deployment may not be used for this scenario.
+If the captive is cut free and then their warband routs before they can flee the table then they must roll for serious injury on the first half of the table. This reflects the odds of a lone and unarmed warrior exhausted by captivity having an extremely low chance of getting back home safely by themselves.
 
-Starting the game
-Each player rolls a D6 and adds the normal Initiative value of
-their leader. The player with the highest total result goes first.
-Special rules
-Breakneck Speed: The warbands in this scenario are
-navigating their way through the city as fast as possible, and
-will not stop until they can see the horde of treasure they are
-searching for. All models in this scenario must run the
-maximum distance allowed every turn until they are within
-line of sight of the goal, at which point they will slow down.
-However the warbands are aware of their competition, and
-will occasionally shoot toward each other in a desperate
-attempt to slow the other band down. Because of this, models
-armed with a shooting weapon may shoot while running, with
-a -1 “to hit” penalty conferred for doing so. This penalty is
-added to any other penalties as normal, such as over half
-distance or being behind cover. This penalty will also replace
-any “move or shoot” rules that a weapon would normally be
-subject to: for example, a model armed with a handgun may
-shoot his handgun while moving during this scenario, but will
-suffer a -1 to hit for doing so. Reloading rules apply as
-normal.
-If a model moving at breakneck speed is brought into base-to
--base contact with another model, the model will not count as
-charging for purposes of striking first, or gain +1 attack; the
-combat will be played out normally using initiative value.
-This is to represent the model's reckless speed, which is not
-the same as a well-planned charge into combat, which would
-allow them to strike first and gain +1 attack.
-Models are considered to be moving at breakneck speed only
-while they are approaching the goal. Once they have line of
-sight to the goal they will not be compelled to move as
-quickly or fire as recklessly, and as such the rules for
-movement, shooting, etc. will return to normal on their next
-turn.
-Ending the game
-The battle ends when one warband fails a Rout test.
-Experience
-+1 Survives. If a Hero or Henchmen group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
-+1 Race Winners. All heroes in the warband that reaches the
-stash of treasure first gain +1 Experience
+##### Experience
+
+**+2 Escapes:** The captured model gains +2 Experience if they successfully exit the board.	
+**+2 Winning Leader (Defender):** The leader of the defending
+warband gains +2 Experience if victorious rather than the usual 1.
 
 
-Rewards
-The winning warband may plunder the treasure horde after
-the battle, keeping anything it finds. Roll a D6 for each item
-on the following table, with the exception of the gold crowns,
-which the warband always finds.
-D6 Result
-1 4D6 + 10 gold crowns.
-2 A plain brown chest containing D3 helmets.
-3 A small, unmarked, black chest containing D3 vials of poison.
-You may choose whichever poison you wish, and may choose
-more than one type of poison. Each vial is enough for one
-application.
-4 A worn, well-traveled wooden shipping crate filled with
-weapons from far off lands. Roll a D3. On a roll of 1, you
-have found a dwarf axe. On a roll of 2, you have found a
-Hochland long rifle. On a roll of 3, you have found an elf bow.
-Note that you may need the weapons training skill to use these
-weapons, but you may sell them for the normal price (half
-their retail value).
-5 A gallantly decorated military crate, locked and branded with
-the royal seal of Bretonnia. Inside you find a knight's lance,
-and on a roll of 5+, a suit of gromril armour.
-6 An ornately carved and decorated armoire, inside which hangs
-a randomly generated magical artifact. Roll on the magical
-artefact's table, re-rolling for any artifacts that have already
-been discovered during this campaign.
+\page
 
+<div class='wide'>
+# Harpy Hunting Grounds
+</div>
 
-
-##### Scenario: Happy Harpy Hunting Grounds
-
-By Chris
-The ruined buildings of Mordheim are home to many strange and
+_The ruined buildings of Mordheim are home to many strange and
 fantastical creatures, a number of which are the subjects of rumours
 about hidden riches. Occasionally warbands will attempt to
 discover whether these rumours are true. Most of the time these
 adventurers are never seen again, but often enough they return
 laden with treasures; often enough, that is, to convince the rest that
-it’s worth a try...
-A group of three Harpies have nested in one of the tall buildings in
+it’s worth a try..._
+
+_A group of three Harpies have nested in one of the tall buildings in
 the edge of the ruined city, and their scavenging and attacks on
 unfortunate warbands has ensured a sizeable stash of valuables. In
 fact, the Harpies have been nesting on some rather sizeable shards
 of wyrdstone closely resembling eggs of a sort. Partially due to their
 maternal instinct and probably due to the corrupting influence of the
 wyrdstone the Harpies have grown extremely protective of their nest
-and will guard it to the death if need be.
-Terrain
-Start by set one of the taller building (6" or taller) in the
+and will guard it to the death if need be._
+
+##### Terrain
+Start by setting up one of the taller building (8" or taller) in the
 centre of the playing area (The top of this is where the
-Harpies have built their nest), then each player takes it in turn
-to place a piece of terrain, either a ruined building, tower, or
-other similar item. We suggest that the terrain is set up within
-an area roughly 4' x 4'. Ladders may be placed in nearby
-buildings, but none in the building occupied by the Harpies.
-Set-up
-The scenario is for two warbands and a third player whom
-would control the three Harpies.
-Special rules
-Will not rout: The Harpies have mistaken the wyrdstone in
-their nest for Harpy eggs and will fight to the death to protect
-them.
-Warbands
-Each player rolls a dice. Whoever rolls highest chooses who
-sets up first. The first player then chooses which table edge to
-set up on, placing all his warriors within 8" of that edge. His
-opponent then sets up within 8" of the opposite edge. If more
-warbands are used then uses the Players use the normal
-warband setup rules (see ‘Setting up the warbands’) also the
-amount of harpies will increase by D3 per warband.
-Starting the game
-The Harpies go first before any of the warbands.
-Ending the game
-A warband wins if all three Harpies have been taken out of
-action and the other warband has routed, or the Harpies win if
-both of the warbands rout before the Harpies have all been
+Harpies have built their nest), the rest of the map is set up as normal.
+
+##### Special rules
+The nest is absolutely full of items hoarded by the kleptomaniac Harpies - not least a trove of Wyrdstone that the poor creatured had mistaken for eggs!
+
+The winning warband may roll on the chart provided to determine what is
+contained in the nest:
+
+| D6 | Item |
+| :- | :-: |
+|5+ | D3 Shards of Wyrdstone |
+|3+ | D3 Shards of Wyrdstone |
+|5+ | Heavy armour |
+|6+ | D3 Shards of Wyrdstone |
+|4+ | Gems worth 30gc |
+|6+ | Magical Artefact |
+|5+ | Horse |
+|3+ | Lucky charm |
+|4+ | D3 shields |
+|5+ | D3 helmets |
+|2+ | D3 swords |
+
+```
+```
+##### Set-Up
+Each player rolls a dice. Whoever rolls highest sets up first. The first player then chooses which table edge to
+set up on, placing all their warriors within 8" of that edge. Their opponent then sets up within 8" of the opposite edge. There are D3 Harpies in the nest per warband.
+
+##### Starting the game
+Both players roll a D6. The player with the higher score takes
+the first turn. Play then proceeds clockwise.
+
+
+##### Ending the game
+A warband wins if all the Harpies have been taken out of action and the other warbands have routed.
+
+The Harpies win if all of the warbands rout before the Harpies have all been
 taken out of action.
 
-Experience
-+1 Survives. If a Hero or Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband(s)
-gains +1 Experience.
-+1 Per Enemy Out of Action. Any Hero earns +1
-Experience for each enemy he puts out of action.
-Wyrdstone
-Roll a D3 to determine how many wyrdstone shards are
-included. The nest is also full of various items. The winning
-warband may roll on the chart provided to determine what is
-contained in the nest.
-Harpy Nest Contents
-Besides the wyrdstone the following items may be in the
-Harpy nest. Roll 1D6 per line. On the number shown, or
-better, the item is present.
-D6 Item
-5+ 2D6gc
-3+ Jewelled dagger
-5+ Heavy armour
-6+ Ithilmir sword
-3+ Gems worth 30gc
-6+ Wolf cloak
-5+ Straggler*
-3+ Lucky charm
-4+ D3 shields
-5+ D3 helmets
-6+ D3 swords
-* Somehow this unfortunate sod was whisked away to the
-Harpy nest. What they had planned for him is unknown, but
-he may aid you in your Exploration phase either this game or
-next (see pg 217).
+If one warband remains but there are still harpies, they may continue playing to attempt to clear out the nest.
+
+##### Experience
+There are no additional experience bonuses for this scenario.
 
 
-##### Scenario: The Lost Prince
 
-By Michael Havener
-Travelling entertainers often tell tales of the ruined city and because
+\page
+
+<div class='wide'>
+# The Lost Prince
+</div>
+
+_Travelling entertainers often tell tales of the ruined city and because
 of this, sons of the privileged classes often see the city of Mordheim
 as one big romantic adventure. Sometimes one will run away from
-home to join a mercenary warband and make a name for himself.
-Often these individuals are killed before they even get to the city but
+home to join a mercenary warband and make a name for himself._
+
+_Often these individuals are killed before they even get to the city but
 once in a while one will get lucky and actually make it that far.
 Sometimes their families are happy to see the young fool go but once
 in a while, a rich merchant or noble will actually pay to have his
-son saved from his inevitable fate in Mordheim.
-The warbands have heard rumours that a powerful man’s son has
+son saved from his inevitable fate in Mordheim._
+
+_The warbands have heard rumours that a powerful man’s son has
 wandered into the ruins and a handsome reward will be paid for his
-return.
-Terrain
-Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 6'.
-Special rules
+return._
+
+##### Terrain
+The city is set up as normal with no special additional criteria. 
+##### Special rules
 The merchant’s son is initially placed in the centre of the
 board. He will wander D6" in a random direction at the start
 of each of the first player’s turns, until someone ‘rescues’
-him. If a warband member comes into contact with the
-merchant’s son (through normal movement, NOT through
-charging – this is an exception to the normal rules and
-represents that the merchant’s son is not the enemy and
-should not be engaged in combat), the boy will attach himself
-to that member and follow him around. If the ‘rescuer’ is
-taken out of action, flees or routs, the merchant’s son will
-attach himself to the next warband member to contact him.
-Should someone wish to attack the merchant’s son, he has the
-same stats as a Youngblood (see the Mercenary warband in
-the Mordheim rulebook) and is armed with a sword and
-dagger. If he is killed, no reward will be issued to the
-winning warband, of course.
-Warbands
-Players use the normal warband set-up rules (see ‘Setting up
-the warbands’).
-Starting the game
-Each player rolls a D6. The player rolling highest has the first
-turn, and order of play proceeds clockwise around the table
-(based on where players placed their warbands).
-Ending the game
-The game ends when one warband manages to get the
-merchant’s son off the table. That warband (and any allied
-warband) is the winner.
+him. If a warband member comes into contact with the merchant’s son (through normal movement, NOT through charging – this is an exception to the normal rules and represents that the merchant’s son is not the enemy and should not be engaged in combat), the boy will attach himself to that member and follow him around. Warriors that cannot gain experience may not attempt to speak to the merchant's son.
 
-Experience
-+1 Survives. If a Hero or Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy out of action. Any Hero earns +1 Experience
-for each enemy he puts out of action.
-The Reward
-The grateful father awards the winning warband with the
-following treasure. Note that you roll for each item
-separately, apart from gold crowns, which are always
-received.
-Item D6 Needed
-5D6 GC Automatic
-D3 swords 4+
-Suit of heavy armour 5+
-Suit of light armour 4+
-Shield 4+
-Helmet 4+
-D3 gems worth 10 GC each 5+
+If the ‘rescuer’ is taken out of action, flees or routs, the merchant’s son will attach himself to the next warband member to contact him.
 
+Should someone wish to attack the merchant’s son, he has the following statline and is equipped with a Dagger:
 
-##### Scenario: The Pool
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   | 4 | 1 | 3 | 3 | 3 | 1 | 4 | 1 | 6 |	
+If he is killed, no reward will be issued to the winning warband, of course.
+```
+```
 
-By Michael Havener
-Rumours abound about a pool in the city whose waters have
+##### Set-Up
+Both players roll a D6 to see who deploys first. Whoever rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite edge.
+##### Starting the game
+Both players roll a D6. The highest scoring player takes the first turn. Play then proceeds clockwise.
+##### Ending the game
+The game ends when one warband manages to get the merchant’s son off of the table edge they deployed on. That warband (and any allied warband) is the winner. Alternatively the game is won if all other warbands have routed. Killing the Prince will not end the scenario.
+
+##### Experience
+**Escort Service:** A Hero that escorts the Young Prince off of the table gets +1 experience.
+
+### The Reward
+
+| D6 | Item |
+| :- | :-: |
+|2+ | D3 Shards of Wyrdstone |
+|5+ | Heavy armour |
+|4+ | Gems worth 30gc |
+|3+ | Purse worth 5D6 gc |
+|2+ | D3 swords |
+
+Alternatively the Young Prince may be sacrificed, Sold to The Pits, sold to slavers, eaten, or whatever other particularly evil things a warband can do to a Captured human hero that has failed to be rescued.
+
+\page
+
+<div class='wide'>
+# The Pool
+</div>
+
+_Rumours abound about a pool in the city whose waters have
 magical powers of healing. The warband’s patrons believe the
 magical properties of the water are due to a large deposit of
 wyrdstone within the pool. The warbands have been sent to collect
-as much wyrdstone from the pool as they can.
-Terrain
-Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 6'. The first
-piece of terrain should be a pool of water roughly 6" in
-diameter. The objective of the scenario is to gather all the
-wyrdstone from the pool. Special deployment may not be used for this scenario - the pool is too spooky to scout out without backup!
-Special Rules
+as much wyrdstone from the pool as they can._
+
+##### Terrain
+Start by setting up a body of water in the middle of the map A handy dandy canal segment would do fine, or simply outline a space of roughly 6" x 6" in the middle of the board. Special deployment may not be used for this scenario - the pool is too spooky to scout out without backup!
+
+
+##### Special Rules
 Roll a D3+3 to find out how many pieces of wyrdstone are in
-the pool. The pool is shallow and may be entered. Any Hero
-spending an entire turn within 1" of the pool doing nothing
-else but searching for wyrdstone may roll at the end of his
-turn to see if he finds some. On a D6 roll of 1-2, that player
-has found one of the pieces in the pool. No Hero may search
-within 1" of another model (friendly or enemy), as models
-that are too close together disturb the waters for each other,
-so that neither may see the bottom. Only as many pieces of
-wyrdstone may be found as were rolled at the beginning of
-the game, any searching after that is useless. A Hero can
-carry any amount of wyrdstone without any penalty. Heroes
-cannot transfer their wyrdstone to another warrior. If the
-Hero who is carrying a counter is taken out of action, place
-the counter on the table again where he fell. Another warrior
-can then pick up these counters simply by moving into
-contact with them.
-Warbands
-Players use the normal warband set-up rules (see ‘Setting up
-the warbands’, above).
-Starting the game
-Each player rolls a D6. The player rolling highest has the first
-turn, and order of play proceeds clockwise around the table
-(based on where players placed their warbands) from there.
-Ending the game
-The game ends when all warbands but one have failed their
-Rout test. The routers automatically lose. If one of more
-warbands have allied, they may choose to share the victory
-and end the game.
-Experience
-+1 Survives. If a Hero or Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy out of action. Any Hero earns +1 experience
-for each enemy he puts out of action.
-+1 Per Wyrdstone Counter. If a Hero or Henchman is
-carrying a Wyrdstone counter at the end of the battle he
-receives +1 Experience.
+the pool. The pool functions like any other water feature. 
 
-##### Scenario: Ambush!
+Any Hero
+spending an entire turn touching the pool doing nothing else but searching for wyrdstone may roll at the end of their
+turn to see if they finds some. On a D6 roll of 5-6, that player
+has found one of the pieces in the pool!
 
-By Michael Havener
-The defending warband has recently discovered a rich deposit of
+No Hero may search within 1" of another model (friendly or enemy), as models that are too close together disturb the waters for each other, so that neither may see the bottom. Only as many pieces of wyrdstone may be found as were rolled at the beginning of the game, any searching after that is useless. 
+```
+```
+##### Set-Up
+Both players roll a D6 to see who deploys first. Whoever rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite edge.
+##### Starting the game
+Both players roll a D6. The highest scoring player takes the first turn. Play then proceeds clockwise.
+##### Ending the game
+The game ends when all warbands but one have failed their Rout test. The routers automatically lose. Alternatively the game ends once all Wyrdstone shards have been taken off of the table, in which case the warband with the most shards is the victor.
+
+##### Experience
+**+1 Per Wyrdstone Counter:** Any Hero or Henchman that carried any number of wyrdstone off of the board gains +1 Experience.
+
+\page
+
+<div class='wide'>
+# Ambush!
+</div>
+
+_The defending warband has recently discovered a rich deposit of
 wyrdstone. Unfortunately, word has leaked out about their find and
 warbands throughout the city are hunting them, determined to take
-the treasure for themselves.
-Terrain
-Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 6'.
-Special rules
-One player is the defender, determined as normal (see
-‘Attackers and defenders’ at the beginning of the article).
-Each of the defending warband’s Heroes carries D3 pieces of
-wyrdstone. If a Hero carrying wyrdstone is taken out of
-action, place a number of counters, equal to the amount of
-wyrdstone he was carrying, on the ground where he fell. Any
-Hero moving into contact with them may pick up these
-wyrdstone shards.
-Warbands
+the treasure for themselves._
+##### Terrain
+The city is set up as normal with no special additional criteria. 
+##### Special rules
+Each of the defending warband’s Heroes carries D3 pieces of wyrdstone at the start of the game.
+
+
+##### Set-Up
 All the models in the defending warband must be set up
 within 6" of the centre of the board. The attacking warbands
 are then set up as normal.
-Starting the game
-Each player rolls a D6. The player rolling highest has the first
-turn, and order of play proceeds clockwise around the table
-(based on where players placed their warbands) from there.
-Ending the game
-Do not roll for Rout tests during this game. Instead, the game
+The attacking players roll a D6 to see who deploys first. Whoever rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite edge.
+```
+```
+##### Starting the game
+The attacking players each roll a D6. The highest scoring player takes the first turn. Play then proceeds clockwise, with the Defender going last.
+
+##### Ending the game
+The Defender does not need to roll for rout tests this game, their warband is already in flight! Instead, the game
 will last 8 turns or until all the wyrdstone shards have been
-carried off the board, whichever comes first. The warband
-that gets the most wyrdstone shards off the table (or held by
-one of its Heroes when the game ends) is considered the
-winner. The defending warband may only exit the board via an attacker's deployment zone.
-Experience
-+1 Survives. If a Hero or Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy out of action. Any Hero earns +1 experience
-for each enemy he puts out of action.
-+1 Per Wyrdstone Counter. If a Hero is carrying a
-Wyrdstone counter at the end of the battle he receives +1
-Experience.
+carried off the board, whichever comes first. If all the attackers rout any models in the Defender's warband holding wyrdstone is considered to have escaped from the board with it for the purposes of experience gian.
 
+The warband that gets the most wyrdstone shards off the table (or held by its warriors if the game ends by turn limit) is considered the winner. The defending warband may only exit the board via an attacker's deployment zone.
 
-##### Scenario: Monster Hunt
+##### Experience
+**+1 per Wyrdstone Counter:** Heroes or Henchmen that carry at least one shard of Wyrdstone off of the table get +1 Experience. 
 
-The warbands have heard rumours that a terrible monster has come
+\page
+
+<div class='wide'>
+# Monster Hunt
+</div>
+
+_The warbands have heard rumours that a terrible monster has come
 up out of its lair beneath the city following the recent devastation
 and established a new home in the ruins. You have heard stories of
 such creatures and the treasure they accumulate is the stuff of
 legends. You have decided to see for yourself if the rumours are
-true.
-Terrain
-Each player takes it in turn to place a piece of terrain, either a
-ruined building, tower, or other similar item. We suggest that
-the terrain is set up within an area roughly 4' x 6'. The first
-building should be rather large (at least 6" x 6") and open
-topped, preferably ruins. This building should be placed in
-the centre of the table, and this is where the monster’s new
-lair is located.
-Warbands
-Players use the normal warband set-up rules (see ‘Setting up
-the warbands’).
-Special rules
-The monster’s lair is located in the central building and this is
-where the beast will be. The monster is young for one of its
-kind and its profile reflects this. In addition, a lifetime of
-living in caverns beneath the city has kept the creature from
-learning to use its wings. Therefore, unlike most monsters,
-this beast cannot fly. The monster will not leave its lair for
-any reason, though it will use its breath weapon against any
-model in range that it can see and will, of course, attack any
-model entering its lair. It will charge all models entering its
-lair if possible. Its ‘turn’ is performed before whichever
-player won the dice roll to go first, though it will do nothing
-until someone comes near its lair. For the monster’s stats, see
-‘Great beasts in Mordheim’ over the page.
-Starting the game
-Each player rolls a D6. The player rolling the highest has the
-first turn, and order of play proceeds clockwise around the
-table (based on where players placed their warbands).
-Ending the game
-When one warband (or more than one, if the players have
-agreed to share the monster’s hoard) is the only one to have
-any models within 6" of the monster’s lair, and the monster
-has been put out of action, that warband is victorious and gets
-the monster’s hoard. If two or more players have decided to
-share the hoard, they must decide how to split it up. If they
-cannot determine this peacefully, their warbands will have to
-decide it un-peacefully!
-Experience
-+1 Survives. If a Hero or Henchman group survives the
-battle they gain +1 Experience.
-+1 Winning Leader. The leader of the winning warband
-gains +1 Experience.
-+1 Per Enemy out of action. Any Hero earns +1 Experience
-for each enemy he puts out of action.
+true._
+##### Terrain
+Start by setting up a suitable monster lair in the centre of the playing area. It may be worth determining what actually lives there beforehand, the rest of the map is set up as normal.
 
-Treasure hoard
-The young monster has moved its treasure hoard with it to its
-new lair. Because of its age, the young monster has not
-collected as much treasure as an older creature of its type.
-Still, it has amassed a respectable amount. Whichever
-warband has control of the monster’s lair at the end of the
-game may search it to see what it contains. Note that you roll
-for each item separately, apart from gold crowns, which are
-always found.
-Item D6 Result Needed
-5D6 GC Automatic
-Magical artefact (roll on artefact table) 6+
-D3+1 pieces of wyrdstone 4+
-Gromril axe 5+
-Suit of heavy armour 5+
-Suit of light armour 4+
-Suit of light armour 4+
-Shield 4+
-Helmet 4+
-D3 swords 4+
-D3 gems worth 10 GC each 5+
-Jewellery worth 10-60 GC 5+
+
+##### Set-Up
+Both players roll a D6 to see who deploys first. Whoever rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite edge.
+
+##### Special rules
+The monster’s lair is located in the central building and this is where the beast (or beasts!) will be. 
+
+At the start of the game the monsters are considered non-hostile. They will become hostile if a warrior enters their lair or if they are hit with a missile, or the target of a successfully cast spell. Once hostile they will charge any foes within range or, if there are none in range, will move as quickly as possible towards the model that first turned it hostile. If that warrior is already dead they will move towards the next closest warrior.
+
+
+##### Starting the game
+Both players roll a D6. The highest scoring player takes the first turn. Play then proceeds clockwise.
+
+##### Ending the game
+When one warband is the only one to have
+any models within the monsters' lair, and the monsters have been put out of action, that warband is victorious and gets
+the monster’s hoard.
+
+If the monsters are still alive when the other warbands rout, the remaining player may continue playing to finish them off.
+
+
+##### Experience
+There are no additional Experience bonuses for this scenario.
+```
+```
+#### Treasure hoard
+
+| Item | D6 |
+| :- | :-: |
+| 5D6 GC | Automatic |
+|Magical | artefact 6+ |
+|D3+1 pieces of wyrdstone | 4+ |
+|Gromril axe | 5+ |
+|Suit of heavy armour | 5+ |
+|Suit of light armour | 4+ |
+|Suit of light armour | 4+ |
+|Shield | 4+ |
+|Helmet | 4+ |
+|D3 swords  | 4+ |
+|D3 gems worth 10 GC each | 5+ |
+|Jewellery worth 10-60 GC | 5+ |
+
 Great beasts in Mordheim
 If fewer than 10 games have been played in the campaign then there are D3 monsters +1 for each warband beyond the second. The monster type present is selected at random from the following:
 1: Tree Kin
@@ -937,9 +658,11 @@ If more than 10 games have been played in the campaign then one of the following
 5: Troll King (regular River Troll, but with D3 added to each stat).
 6: Verminlord (will attempt to cast Warp Lightning three times every turn. Will automatically miscast on its thirteenth attempt.)
 
+\page
 
-
-##### Scenario: The Writing on the Wall
+<div class='wide'>
+# Writing on The Wall
+</div>
 
 By James Burkhouse
 The warbands have each heard rumours of a map drawn on an alley
@@ -1017,8 +740,11 @@ Experience.
 +1 for Ruining the Writing. Any Hero who ruins the
 writing (after it has been deciphered!) earns +1 Experience.
 
+\page
 
-##### Scenario: Spawn Hunting
+<div class='wide'>
+# Spawn Hunting
+</div>
 
 By Thrasher Kitch
 "Over there men! After it! 50 Crowns to the man who brings
@@ -1114,8 +840,11 @@ additional +1 experience for each wound they do to one of
 the Spawn. (A henchman group may not gain more than +1
 experience in this way.)
 
+\page
 
-##### Scenario: The West Gatehouse
+<div class='wide'>
+# West Gatehouse
+</div>
 
 By Andy Tabor
 There are many a vile warband that resides at Cut Throat's Den.
@@ -1213,8 +942,11 @@ Oak.
 Henchman that puts the Giant Oak out of action gets a bonus
 +2 experience.
 
+\page
 
-##### Scenario: The Raven Barracks
+<div class='wide'>
+# The Raven Barracks
+</div>
 
 By Andy Tabor
 The Raven Barracks, located North West side of Mordheim, housed
@@ -1325,8 +1057,11 @@ arrows) for one game.
 23 Hunting Rifle.
 24 One suit of Gromril Amour.
 
+\page
 
-##### Scenario: The Wizard’s Mansion
+<div class='wide'>
+# Wizard's Mansion
+</div>
 
 By Michael Havener
 Not all of the ruined buildings in the city are ordinary houses. Some
@@ -1412,8 +1147,11 @@ For the first attack in a game, it will count as a normal
 dagger. However, for the rest of the game it will count as a
 fist attack. The Athame is worth 10 gold crowns if traded.
 
+\page
 
-##### Scenario: The Gaol
+<div class='wide'>
+# The Gaol
+</div>
 
 The battle in the Gaol grounds is a Skirmish. Both Warbands have
 happened upon the area at the same time and are fighting it out for
@@ -1497,9 +1235,12 @@ Inmates).
 +2 Slaying the Warden. Should a Hero or Henchman group
 put the Warden out of action they gain +2 Experience.
 
+\page
 
 
-##### Scenario: Executioner’s Square
+<div class='wide'>
+# Executioners' Square
+</div>
 
 By Nick Kyme and Andy Hall
 One of the oldest places in Mordheim, Executioner’s Square was
@@ -1579,8 +1320,11 @@ the gallows (or the piece of terrain representing the gallows)
 at the centre of the square for one complete turn then he gains
 +1 Experience.
 
+\page
 
-##### Scenario: The Great Library
+<div class='wide'>
+# The Great Library
+</div>
 
 By Andy Tabor
 The North-East Quarter of Mordheim was renowned for trade and
@@ -1683,9 +1427,11 @@ D6 Events
 6. The Hero who opens the scroll will gain D3
     experience.
 
+\page
 
-
-##### Scenario: The Middle Bridge
+<div class='wide'>
+# The Middle Bridge
+</div>
 
 By Andy Tabor
 The Middle Bridge is the main crossing point for the City of the
@@ -1767,7 +1513,11 @@ towards that warband to engage in HTH with that warband.
 You can be creative in this endeavour and punish those
 warbands who have no backbone.
 
-#### Scenario: Last Orders!
+\page
+
+<div class='wide'>
+# Last Orders!
+</div>
 
 It can be found on the ambiguous borders of the
 Chaos Wastes. Managed by coolheaded landlord
@@ -1987,8 +1737,11 @@ is thrown as a missile using the following features.
 Range: 6”; Strength: As user;
 Special Rules: Thrown Weapon 
 
+\page
 
-##### Scenario: The Statue of St. Voller
+##### <div class='wide'>
+# Statue of St. Voller
+</div>
 
 The story of Saint Voller is all but lost to history, the documentation of her works largely kept within the great libraries of Mordheim. Folklore and myth is all that survives by way of her legacy, but whatever the truth may have been she is revered by the Cult of Morr as one of their matron saints. Her statue was a place of pilgrimage to many who prayed that the dead keep their rest, and due to the wild and wonton magical experimentation present in Mordheim before the meteor strike her blessings were desperately sought after lest a lost loved one be forced to live an eternity of servitude at the hands of some vile necromancer some day. When the statue miraculously survived the meteor strike many survivors deemed it a blessing of Morr itself, and survivors brought their dead by the cartload to the statue in the hopes that their deaths be consecrated and their souls kept safe. Bodies piled the pavements, and with no safe way out of the city to bury them the surrounding buildings became macabre warehouses stacked to the rafters with corpses simply to keep the roads clear.
 
@@ -2020,7 +1773,11 @@ for each enemy (excluding Unquiet Dead) he puts out of action.
 
 The Talisman of Saint Voller when worn by a non-Undead character causes Terror in Undead models, even though they would usually be immune to psychology. When worn by an Undead warband leader their warband will never crumble due to the loss of a Necromancer or Heirophant, even if the leader is taken Out of Action - their studying of Morr and corruption of Voller's Talisman has made their soul-binding more potent than ever before!
 
-##### Scenario: The Merchant Square
+\page
+
+<div class='wide'>
+# Merchant Square
+</div>
 
 By Andy Tabor
 The once thriving Market Square, more commonly known as the
@@ -2120,7 +1877,11 @@ D3 Healing Herbs 3
 1 Dose Bugman's Ale 5
 1 Eleven Cloak 6
 
-#### Scenario: Getting Personal
+\page
+
+#### <div class='wide'>
+# Getting Personal
+</div>
 
 This scenario is designed for campaign games with any number of players present. A personal dispute has erupted between several famous/infamous characters in Mordheim, and eager to profit from the spoils of this sort of carnage the warbands have rushed in to pick at the remains. Unfortunately they appear to have been rather swept up in it all, and with famous names aligning themselves with warbands unexpectedly they find themselves in the midst of a sudden brawl!
 
@@ -2141,8 +1902,12 @@ The game ends if either one warband remains and all other MVPs have been taken o
 
 If a warband wins the scenario AND their MVP is still alive then they recieve a bonus 3xp to be distributed as they see fit among their heroes as the MVP thanks them after the battle and tells them some stories!
 
+\page
 
-#### Scenario: The Canal (Even number of players only)
+<div class='wide'>
+# The Canals
+</div>
+
 
 Setup: This map takes place using four tiles. Leave an 8" gap between them running down the middle of the board, this represents the canal. The middle of the board will feature four buildings with two long walkways offering crossings over the canal. These are the only two crossing points, and are what the warbands are seeking to control. The rest of the board should feature dense terrain.
 
@@ -2174,9 +1939,11 @@ No Pain: The Abomination ignores all Knocked Down and Stunned results, instead r
 Immune to Poison
 Immune to Psychology
 
-
-
-#### Monsters of Mordheim
+\page
+<div class='wide'>
+# Monsters of Mordheim
+</div>
+Monsters of Mordheim
 
 
 Chaos Spawn
