@@ -1,283 +1,220 @@
-﻿#### Von Carstein Warband
+﻿<div class='wide'>
+# Von Carsteins
+</div>
 
-Count Vlad von Carstein and his wife Isabella have ruled the
-province of Sylvania for as long as anyone can remember –
-peasants whisper of some dark secret, Witch Hunters revile
-them, and the Priests of Sigmar shun their court. Indeed,
-Sylvania has the most dire reputation of all the provinces of
-the Empire. Few men sent to spy on the rulers of Sylvania
-have ever returned from those dark Sylvanian forests, and then
-rarely with their sanity intact.
-In the dimly-lit chamber of the Drakenhof castle, on a throne
-of black obsidian, sits Vlad von Carstein, the ruler of Sylvania.
-He waits in shadows, having set himself apart from the politics
-and bickering of the Empire. For he holds a terrible secret: he,
-and all the ruling aristocracy of his province are Vampires,
-undying monsters from beyond the grave. Here he patiently
-waits, drinking the blood of maidens from gold goblets.
-For many long years Vlad has gathered his strength and
-mustered his Undead legions in secrecy. One day soon he will
-march from the forests of Sylvania at the head of an army of
-restless dead. The pieces of magic stone that lie scattered
-among the ruins of Mordheim can give the Count the power to
-challenge the nobles of the Empire and enslave the men of the
-Old World.
-Wyrdstone holds enough captured magical energy to unleash a
-great spell of doom to rival that of Nagash the Black. If the
-Count is successful, he will raise all the dead between the
-Worlds Edge Mountains and the borders of Stirland, and go to
-war against the divided rulers of the Empire. His plans laid
-out, Vlad sends his thralls, the immortal Vampires, to do his
-bidding.
-During dark, moonless nights, black coaches arrive at the
-gates of Mordheim carrying coffins. Ghouls scuttle from their
-hiding places to greet them, and corpses are stirred by a
-command which the living cannot hear. Following the
-commands of the Vampire, they hunt for shards of wyrdstone.
-The night belongs to the Undead, and in Mordheim it is
-always night.
+Count Vlad von Carstein and his wife Isabella have ruled the province of Sylvania for as long as anyone can remember – peasants whisper of some dark secret, Witch Hunters revile them, and the Priests of Sigmar shun their court. Indeed, Sylvania has the most dire reputation of all the provinces of the Empire.
 
-##### Special Rules
+Few men sent to spy on the rulers of Sylvania have ever returned from those dark Sylvanian forests, and then rarely with their sanity intact. In the dimly-lit chamber of the Drakenhof castle, on a throne of black obsidian, sits Vlad von Carstein, the ruler of Sylvania. He waits in shadows, having set himself apart from the politics and bickering of the Empire. For he holds a terrible secret: he, and all the ruling aristocracy of his province are Vampires,
+undying monsters from beyond the grave.
 
-Habituation: Vampires' human servants rapidly have to
-become accustomed to the uncanny nature of their Master (or
-Mistresses) and their undead minions. The human members of
-a Von Carstein warband are immune to fear caused by types of
-undead in their own warband, ie: skeletons, wights, vampires,
-etc. Other types of undead cause fear as normal.
-Alignment: the Warband’s Alignment may be one of the
-following: Neutral / Chaotic or Chaotic.
-##### Choice of warriors
+Here he patiently waits, drinking the blood of maidens from gold goblets. For many long years Vlad has gathered his strength and mustered his Undead legions in secrecy. One day soon he will march from the forests of Sylvania at the head of an army of restless dead. The pieces of magic stone that lie scattered among the ruins of Mordheim can give the Count the power to challenge the nobles of the Empire and enslave the men of the Old World. Wyrdstone holds enough captured magical energy to unleash a great spell of doom to rival that of Nagash the Black.
 
-An Undead warband must include a minimum of three models.
-You have 500 gold crowns to recruit your warband. The
-maximum number of warriors in the warband may never
-exceed 15.
-Vampire: Each Undead warband must have one Vampire: no
-more, no less!
-Necromancer: Your warband may include a single
-Necromancer if you wish.
-Dregs: Your warband may include up to three Dregs.
-Zombies: Your warband may include any number of
-Zombies.
-Ghouls: Your warband may include any number of Ghouls.
-Dire Wolves: Your warband may include up to five Dire
-Wolves.
-Undead Troll: Your warband may include up to one Undead
-Troll provided it includes a Necromancer in it.
-##### Starting experience
+___
+<img 
+  src='https://imgur.com/goEpjyj.jpg' 
+  style='width:325px' />
 
-A Vampire starts with 20 experience.
-A Necromancer starts with 8 experience.
-Dregs start with 0 experience.
-All Henchmen start with 0 experience.
-##### Undead equipment lists
+If the Count is successful, he will raise all the dead between the Worlds Edge Mountains and the borders of Stirland, and go to war against the divided rulers of the Empire. His plans laid out, Vlad sends his thralls, the immortal Vampires, to do his bidding. During dark moonless nights, black coaches arrive at the gates of Mordheim carrying coffins. 
 
-The following lists are used by Undead warbands to pick their equipment.
-Hand-to-hand Combat Weapons
-Dagger .............................................................. 1st free/2 GC
-Mace, Hammer .............................................................. 5 GC
-Axe ................................................................................ 5 GC
-Sword .......................................................................... 5 GC
-Double-handed weapon ............................................... 15 GC
-Spear ............................................................................ 10 GC
-Halberd ........................................................................ 10 GC
-Missile Weapons
-Bow ............................................................................. 10 GC
-Short bow ...................................................................... 5 GC
-Armour
-Light armour ................................................................ 20 GC
-Heavy armour .............................................................. 50 GC
-Shield ............................................................................ 5 GC
-Helmet ......................................................................... 10 GC
+Yet these coaches are not borne by skeletal steeds, or guarded beneath the watchful eyes of grizzly ghouls. It is in fact the free people of Sylvania who guard these dark and gothic coaches, fully aware of the undead nature of their Master. The previous Count of Sylvana was Otto The Mad, and under his rule the citizens of Sylvana had suffered greatly - allowing entire villages to fall to the predations of Greenskins, Skaven, and Necromancers.
 
+Under the leadership of the Von Carsteins however the people of Sylvania have seen a marked improval in their quality of life: Their vampiric overlords demand far less of them by way of taxation, no longer do peasants have to endure haughty and overweight nobles requisitioning their property in order to fashion his personal Halberdiers some new hats. Indeed many see the Von Carsteins as their rightful overlords for they are razor-witted, eternally beautiful and youthful, superhumanly strong, masters of beasts, and their command over the undead ensures that the good law abiding folk need never fear the night.
+
+Even the predation of Vampires upon the populous has seen a marked decline since the reign of Vlad and Isabella began - no longer do ghoulish and feral Strigoi Vampires prey upon the hapless villagers, indeed with so many seeking the gifts of eternal life there is no shortage of willing donors.
+
+### Special Rules
+**Habituation:** Vampires' human servants rapidly have to become accustomed to the uncanny nature of their Masters, though are not so exposed yet to undeath that they are not horrified by the likes of Zombies. Humans in a Von Carstein warband are immune to Fear effects caused by Vampires.	
+**Freshly Blooded:** The more powerful Von Carsteins do not trouble themselves with the collection of trinkets, and leave these responsibilities as a testing ground for the newer Counts to experiment with their newfound powers. These Von Carsteins are extremely vigorous and keen as a result of their Vampiric infancy, and so may re-roll any 'Dead' results they get on Serious Injury. If the second result is also 'Dead' then the Vampire is well and truly dead. The warband may continue to play, but must recruit a new Von Carstein as soon as possible.	 
+**Alignment:** the Warband’s Alignment is Neutral or Neutral/Chaotic.
+
+\page
+
+### Choice of Warriors
+
+A Von Carstein warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 15, and you may not begin a campaign with more than five Heroes.	
+**Von Carstein Vampire:** A Von Carstein warband must have one Von Carstein Vampire – no more, no less!		
+**Champions:** Your warband may include up to four Champions.	
+**Warriors:** Your warband may include any number of Warriors.	
+**Marksmen:** Your warband may include up to seven Marksmen.	
+**Feral Wolves:** Your warband may include up to five Feral Wolves.	
+**Fell Bats:** Your warband may include up to five Fell Bats.
+
+### Starting Experience
+
+**Von Carstein Vampires** start with 20 experience.		
+**Champions** start with 8 experience. 	
+**Henchmen** start with 0 experience.	
+
+### Von Carstein equipment lists
+
+The following lists are used by Lahmian warbands to pick their equipment:
+
+#### Warrior Equipment List
+| Hand-to-hand Weapons |
+| :- | -: |
+| Dagger | 1st free/2 GC |	 
+| Sword | 5 GC |
+| Axe | 5 GC |
+| Club | 5 GC |
+| Spear | 10 GC |
+| Halberd | 15 GC |
+| Double-handed Weapon | 15 GC |
+
+| Armour |
+| :- | -: |
+| Shield |  5 GC |
+| Buckler | 5 GC |
+| Helmet | 10 GC |
+| Light Armour |  20 GC |
+| Heavy Armour | 50 GC |
+
+| Mounts |
+| :- | -: |
+| Nightmare* | 95 GC |
+| Skeleton Steed* | 65 GC |
+_* = Vampires only._
+
+```
+```
+
+#### Marksman Equipment List
+| Hand-to-hand Weapons |
+| :- | -: |
+| Dagger | 1st free/2 GC |	 
+| Sword | 5 GC |
+| Axe | 5 GC |
+| Club | 5 GC |
+
+| Missile Weapons |
+| :- | -: |
+| Bow | 10 GC ||
+| Crossbow | 25 GC |
+| Blunderbuss | 30 GC |
+| Handgun | 35 GC |
 
 
-##### Heroes
+| Armour |
+| :- | -: |
+| Shield |  5 GC |
+| Helmet | 10 GC |
+| Light Armour |  20 GC |
 
-1 Vampire
-110 gold crowns to hire
-Vampires lead the Undead in their search for the magical stones
-that will give their master the power to conquer the Empire.
-Although but pale shadows when compared to the dread Vampire
-Lords, the immortal servants of Vlad are still some of the most
-powerful creatures who fight in Mordheim. Most of them serve the
-undying count of Sylvania, but some have found the city to their
-liking, and have become independent.
+___
+<img 
+  src='https://imgur.com/INO55qv.jpg' 
+  style='width:
+  500px' />
+
+
+\page
+### Heroes
+
+#### **1 Von Carstein Vampire**
+110 gold crowns to hire.	
+_Charming and charismatic, the Von Carsteins are the natural masters of all around them. Wills buckle and bend beneath their purred-out words, and to gaze into one's eyes overlong can render one insensate. Though calm and fluid in motion they are among the most dangerous creatutres in Mordheim, not only possessed of the strength and speed of all Vampires but also an array of shapeshifting spells with which to beguile and trick their foes._	
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-6 4 4 4 4 2 5 2 8
-Weapons/Armour: Vampires may be armed with weapons
-and armour chosen from the Undead Equipment list.
-Skills: The Vampire may choose from Combat, Academic,
-Strength & Speed when he gains a new skill. In addition, the
-Vampire may choose from the Von Carstein Skill list.
-Special Rules
-Leader: Any models in the warband within 6" of the
-Vampire may use his Leadership instead of their own.
-Cause Fear: Vampires are terrifying Undead creatures and
-therefore cause fear.
-Immune to Psychology: Vampires are not affected by
-psychology (such as fear) and never leave combat.
-Immune to Poison: Vampires are not affected by any
-poison.
-No Pain: Vampires treat a ‘stunned’ result on the Injury chart
-as ‘knocked down’.
+| | 6 | 4 | 4 | 4 | 4 | 2 | 5 | 2 | 8 |
+___
+**Weapons/Armour:** The Von Carstein Vampire may choose equipment from the Warrior and Marksman equipment Lists.	
+**Skills:** Von Carstein Vampires may choose from Combat, Academic, Shooting, Strength, Speed, and Von Carstein Special Skills.
+___
+##### Special Rules	
+**Leader:** Any warrior within 6" of the Von Carstein Vampire may use their Leadership characteristic when taking Leadership tests.	
+**Fear:** Vampires are terrifying Undead creatures and therefore cause fear.	
+**Immune to Psychology:** Von Carstein Vampires have the _Immune to Psychology_ special rule.	
+**Immune to Poison:** Von Carstein Vampires are not affected by any poison.	
+**No Pain:** Von Carstein Vampires treat a  'stunned’ result on the Injury chart as ‘knocked down’.
 
-0-1 Necromancer
-35 gold crowns to hire
-Necromancers are evil wizards, studying the corrupt art of
-Necromancy. Many of them are acolytes and servants of Vlad von
-Carstein, and follow the agents of their master to the city of the
-Damned. Others are recruited from amongst wizards and warlocks
-who have come under the suspicion of the various agents of Sigmar
-and have fled to Mordheim to avoid persecution.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 3 3 3 3 1 3 1 7
-Weapons/Armour: Necromancers may be armed with
-weapons and armour chosen from the Undead Equipment list.
-Skills: The Necromancer may choose from Academic, &
-Speed when he gains a new skill.
-Special Rules
-Magic User: The Necromancer has the ability to use magic
-and casts spells like any other magicians, and the
-Necromancer starts with one spells generated at random from
-the Necromantic Magic list. See the Magic section for details.
-In addition the Necromancer may learn a new Spell instead
-on a new skill.
- 
-0-3 Dregs
-20 gold crowns to hire
-Dregs are the most miserable human survivors of the demise of
-Mordheim. They are deformed and rejected individuals, shunned
-even by the other men and women who still live in the ruins and
-catacombs of the city.
-Vampires often recruit Dregs as their servants and treat them with
-surprising kindness. As a result, Dregs are often fanatically loyal to
-their Undead overlords and will do anything to protect and serve
-them.
-Dregs are very useful to their masters as they can be sent to buy
-equipment, weapons and supplies from the settlements around
-Mordheim which would often not welcome Necromancers or where
-Vampires would fall under the suspicion of the Witch Hunters. They
-can also do the bidding of their vampiric master during daylight,
-when the Vampires must rest in their coffins.
-| Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 3 1 3 1 7
-Weapons/Armour: Dregs may be armed with weapons and
-armour chosen from the Undead Equipment list.
-Skills: The Dreg may choose from Combat & Strength when
-he gains a new skill.
+<img 
+  src='https://imgur.com/LKc6jPJ.png' 
+  style='position:absolute; top:600px; right:60px; width:700px' />
+```
+```
 
+#### **0-4 Champions**
+35 gold crowns to hire	
+_Champions of Sylvanian warbands have grown particularly accustomed to the eccentricities of their masters, and earn their station through dour secrecy and a firm knowledge of when to be silent. The extent to which their will is their own will vary wildly from Champion to Champion however, for the Von Carsteins do not tolerate dissent._
 
-##### Henchmen
-
-(Bought in groups of 1-5)
-Zombies
-15 gold crowns to hire
-Zombies are the most common of the Undead: creatures animated
-by the will of their Necromantic masters.
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-4 2 0 3 3 1 1 1 5
-Weapons/Armour: Zombies may not have any weapons or
-armour and suffer no penalties for this.
-Special Rules
-Cause Fear: Zombies are terrifying Undead creatures and
-therefore cause fear.
-May not run: Zombies are slow Undead creatures and may
-not run (but may charge normally).
-Immune to Psychology: Zombies are not affected by
-psychology and never leave combat.
-Immune to Poison: Zombies are not affected by any poison.
-No Pain: Zombies treat a stunned result on the Injury chart as
-knocked down.
-No Brain: Zombies never gain experience. They do not learn
-from their mistakes. What did you expect?
+| | 4 | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
+___
+**Weapons/Armour:** Champions may choose from the Warrior or Marksman Equipment List.	
+**Skills:** Champions may choose from Combat, Strength, Shooting, and Speed skills.
 
-0-1 Undead Troll
-150 gold crowns to hire
-The Undead Troll is a construct created by a necromancer using
-both Dark magic and arcane science. The Necromancer then applies
-his knowledge of science and magic to bring this creature to a state
-of semi-life. This is a long and drawn out process, which involves a
-fair amount of maintenance, so the Necromancer may only maintain
-one Undead Troll at a time.
+\page
+
+### Henchmen
+
+#### Warriors	
+25 gold crowns to hire	
+_These dogs of war are grim, seasoned fighters, as beholden to their lord as any other Empire soldier in spite of the Von Carstein's undead nature._
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-6 3 0 5 3 3 1 2 5
-Weapons/Armour: Undead Troll does not require weapons
-to fight but often carry a big club.
-Special Rules
-Bound Creature: The Undead Troll is a creation of the
-necromancer and is completely bound to his will. The
-Undead Troll never uses the leadership of the Vampire, but
-instead recognizes the Necromancer as his master, and may
-use the necromancer’s leadership if he is within 6".
-Cause Fear: Undead Troll is terrifying Undead creatures and
-therefore cause fear.
-Immune to Psychology: Undead Troll is not affected by
-psychology and never leave combat.
-Immune to Poison: Undead Troll is not affected by any
-poison.
-May not run: Undead Troll is slow undead creatures and
-may not run (but may charge normally).
-No Pain: Undead Troll treat a stunned result on the Injury
-chart as knocked down.
-No Brain: Undead Troll never gains experiences. They do
-not learn from their mistakes. What did you expect?
-Upkeep: The Undead Troll is always in need of repair after
-battle and so the Undead Troll has an upkeep of 15 GC, or
-the Undead Troll simply fall to pieces.
+|   | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |	
+___
+**Weapons/Armour:** Warriors may choose from the Warrior Equipment List.
 
-Ghouls
-40 gold crowns to hire
-Ghouls are the descendants of evil and insane men who ate the flesh
-of the dead. When the lean and hungry times of famine come upon
-the Old World, the most depraved and destitute took to feasting on
-corpses to survive.
-Driven by their unspeakable craving for the meat of their fellow
-men, these creatures have given up their human life and dwell near
-graveyards, crypts and tombs, digging up the rotting corpses of the
-recently buried and consuming the cold flesh with their bare teeth
-and claws.
-The destruction of Mordheim attracted many Ghoul clans from the
-north, and now they have taken up permanent residence in the
-crypts and cemeteries of the ruined city.
+#### 0-7 Marksmen	
+25 gold crowns to hire	
+_Few are the Empire regiments that go to battle without the comfort of ranged firepower behind them. While the Von Carstein themselves may have no need of such mundane tasks as covering/surpressing fire, it improves the morale of his servants to no end to allow them to assist from a distance. _
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |4 2 2 3 4 1 3 2 5
-Weapons/Armour: Ghouls never carry any equipment, apart
-from a few bones which they use as primitive weapons.
-Special Rules
-Cause Fear: Ghouls are twisted and repulsive creatures and
-therefore cause fear.
- 
-0-5 Dire wolves
-50 gold crowns to hire
-Dire Wolves are slavering Undead hounds, the animated remains of
-the giant wolves of the Worlds Edge Mountains. Their chilling howls
-can strike fear into the hearts of even the bravest warriors or most
-ruthless Dwarf mercenaries. They prowl the streets of Mordheim
-like shadows, and many men have died with the cold jaws of a Dire
-Wolf around their neck.
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |	
+___
+**Weapons/Armour:** Marksmen may choose from the Marksmen Equipment List.
+___
+<img 
+  src='https://imgur.com/C8oQkDz.jpg' 
+  style='width:370px' />
+
+
+```
+```
+
+
+#### 0-5 Feral Wolves
+20 gold crowns to hire	
+_Once the slavering terrors of lone travellers and livestock, the matt-furred wolves of Sylvania are yet another reason its people have come to embrace the Von Carsteins. With but a glance a whole pack is brought under the sway of the Vampire's will, and serve them unswervingly._
+
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |9 3 0 4 3 1 2 1 4
-Weapons/Armour: None.
-Special Rules
-Charge: Dire Wolves are slavering creatures that overpower
-their opponents when they charge. Dire Wolves fight with 2
-attacks instead of 1 during the turn they charge.
-May not Run: Dire Wolves are slow to react and may not
-run (but may charge normally).
-Cause Fear: Dire Wolves are terrifying Undead creatures
-and therefore cause fear.
-Immune to Psychology: Dire Wolves are not affected by
-psychology and never leave combat.
-Immune to Poison: Dire Wolves are not affected by any
-poison.
-Unliving: Dire Wolves do not gain experience. You can’t
-teach an old dog new tricks!
-No Pain: Dire Wolves treat a ‘stunned’ result on the Injury
-chart as ‘knocked down’.
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | 9 | 3 | 0 | 3 | 3 | 1 | 3 | 1 | 5 |
+___
+**Weapons/Armour:** Feral Wolves do not use weapons, though suffer no penalties for doing so.
+##### Special Rules	
+
+**Animals:** Feral Wolves are animals, and therefore do not gain experience.	
+**Dominated:** The control that the Vampire exerts over these beasts is far stronger than the natural bond between warbeast and master - one that may not be broken by conventional means. Abilities that effect animals, such as the Beastmaster skill or any effect that causes _Fear_ in animals has no effect on Feral Wolves.
+
+
+#### 0-3 Fell Bats
+50 gold coins	
+_Vampires view Fell Bats much as a Bretonnian Lord might his prized hunting falcons, feeding them sweetmeats and treating them with surprising affection. They are however vast beasts the size of a large dog even before wingspan, and use their dagger-like fangs to attack with a terrifying savagery._
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | 1 | 3 | 0 | 3 | 3 | 2 | 3 | 2 | 5 |
+
+##### Special Rules	
+**Flying:** Fell Bats are great winged beasts capable of flight. They may freely move up to 10" over any terrain or models, or may run/charge up to 20". If flight is prohibited for any reason then they must move as normal.	
+**Animals:** Fell Bats are animals, and therefore do not gain experience.	
+**Fear:** The piercing screeches and furious biting of this rabid monstrosity is a horrifying thing to be victim to. Fell Bats cause _fear_.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
