@@ -97,8 +97,7 @@ The following lists are used by Clan Moulder warbands to pick their equipment:
 ##### Special Rules
 **Beast Scourge:** Allied animals within 6" of a warrior with a Punisher Whip may re-roll Leadership tests.
 
-```
-```
+
 ### Heroes
 
 #### **1 Master Moulder**
@@ -187,8 +186,7 @@ ___
 ##### Special Rules	
 **Animals**: Warhounds do not gain experience.	
 **Frenzy**: Wolf Rats have the _Frenzy_ special rule.
-```
-```
+
 #### 0-1 Clan Moulder Rat Ogre
 175 Gold Crowns
 _It is in every Moulder’s nature to improve upon something that is already success and occasionally they even succeed. The Cream of the Rat Ogre Creations in Moulder’s Possession sport extra limbs and heads, some even have had troll blood transfusion._

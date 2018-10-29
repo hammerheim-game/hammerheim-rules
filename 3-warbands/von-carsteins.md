@@ -74,8 +74,7 @@ The following lists are used by Lahmian warbands to pick their equipment:
 | Skeleton Steed* | 65 GC |
 _* = Vampires only._
 
-```
-```
+
 
 #### Marksman Equipment List
 | Hand-to-hand Weapons |
@@ -130,8 +129,7 @@ ___
 <img 
   src='https://imgur.com/LKc6jPJ.png' 
   style='position:absolute; top:600px; right:60px; width:700px' />
-```
-```
+
 
 #### **0-4 Champions**
 35 gold crowns to hire	
@@ -173,8 +171,7 @@ ___
   style='width:370px' />
 
 
-```
-```
+
 
 
 #### 0-5 Feral Wolves

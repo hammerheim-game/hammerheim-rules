@@ -14,8 +14,7 @@ ___
   src='https://imgur.com/qjHYKue.jpg' 
   style='width:325px' />
 
-```
-```
+
 
 ### Tilean Special Rules
 **Background:** When drawing up your roster for your Mercenaries warband you may pick from one of the three following factions. This represents the origins of your Mercenary warband, and will confer various bonuses accordingly in addition to the ones listed in this section.	
@@ -132,8 +131,7 @@ The following lists are used by Tilean warbands to pick their equipment:
 | Light Armour |  20 GC |
 | Heavy Armour | 50 GC |
 
-```
-```
+
 
 #### Marksman Equipment List
 | Hand-to-hand Weapons |
@@ -230,8 +228,7 @@ distance. _
 ___
 **Weapons/Armour:** Marksmen may choose from the Marksmen Equipment List.
 
-```
-```
+
 #### Duellists	
 35 gold crowns to hire	
 _Tilea is famous for its many vendettas from the rich noble houses down to even the poorest families. The notorious cloak and dagger duellists of the darkened alleys of Tilea find their way to the remotest parts of the world selling their unique killing abilities to the mercenary companies._

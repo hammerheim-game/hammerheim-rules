@@ -62,8 +62,7 @@ ___
   src='https://imgur.com/aGjNBbp.jpg' 
   style='width:325px' />
 
-```
-```
+
 
 
 
@@ -131,8 +130,7 @@ A Dwarf warband must include a minimum of three models. You have 500 gold crowns
 **Leftenants** start with 8 experience.	
 **Henchmen** start with 0 experience.	
 
-```
-```
+
 
 
 
@@ -206,8 +204,7 @@ ___
 <img 
   src='https://imgur.com/OGwamBO.jpg' 
   style='width:325px' />
-```
-```
+
 
 
 ### Henchmen

@@ -35,8 +35,7 @@ For each different type of Mark of Chaos in the warband, a warrior with a Mark o
 ##### Mark of Khorne 
 Heroes bearing the Mark of Khorne gain Frenzy, and a 5+ ward save against the effects of spells. A Warband containing one or more
 of this mark may never form Formal Alliances.
-```
-```
+
 ##### Mark of Nurgle
 The Model gains +1 Toughness, +1 Wound, but loses
 1 point of Movement and 1 point of Initiative. They are now 
@@ -199,8 +198,7 @@ This skill may only be chosen by a leader. The
 warrior has drilled their warband to follow short barked commands.
 This increases the range of their Leader ability by 6". Note that
 Undead leaders may not use this skill.
-```
-```
+
 #### Sorcery
 This skill may only be taken by Magic Users. A warrior with this skill gains +1 to their rolls to see whether they can cast spells successfully or not. Note that Pray Users may not use
 this skill.
@@ -269,8 +267,7 @@ use the Strength Bonuses every Hand-to-Hand phase of the game, not just the firs
 
 #### Strong Legs
 The Hero may use Heavy Armour and a Shield without suffering Movement penalties.
-```
-```
+
 #### Beastmaster
 If the model confronts an animal (not a mount!) in hand-to-hand combat, then before combat is fought they may attempt to assert control over the animal. The Beastmaster and the animal must each roll a D6 and add their respective Leadership values. If the Beastmaster wins then the animal then comes under control of the Beastmaster's warband. Control of the animal is immediately lost if the Beastmaster either moves more than 8" away or is _incapacitated_.
 
@@ -413,8 +410,7 @@ Cost: 50 Gold Crowns
 #### Red Fury
 The vampire falls in a horrible blood-rage, unstoppable
 for his enemies. He gains one additional Attack to his profile.
-```
-```
+
 #### Challenger
 While the vampire has little interest in fighting the chaff, worthy challengers ignite The Thirst within them. Against any foe of Leadership 8 or higher the Blood Dragon gains the _Killing Blow_ special rule.
 
@@ -571,8 +567,7 @@ A Clan Pestilens member with this skill has grown accustomed to poisons, disease
 
 #### Unholy Chant
 As long as the Hero is not _incapacitated_ their warband may re-roll all failed rout tests.
-```
-```
+
 ### Clan Skryre Special Skills
 
 #### Black Hunger
@@ -644,8 +639,7 @@ of a game, the Hero may modify one dice roll by +1/-1.
 #### True Grit
 Dwarfs are hardy individuals and this Hero is hardy
 even for a Dwarf! When rolling on the Injury table for this Hero, a roll of 1-2 is treated as Knocked Down, 3-5 as Stunned, and 6 as Out Of Action.
-```
-```
+
 #### Thick Skull
 The Hero has a thick skull, even for a Dwarf. They have a 3+ save on a D6 to avoid being Stunned. If the save is made, treat a Stunned result as Knocked Down instead. If the Dwarf also wears a helmet, this save is 2+ instead of 3+ (this takes the place of the normal Helmet special rule).
 
@@ -716,8 +710,7 @@ The Vampire's unnaturally sharp reflexes allow it to make split-second decisions
 The vampire's ability to appear virginal and innocent temporarily disarms its opponent. The vampire always
 attacks first in close combat. If an enemy model also has the ability to attack first, then decide in order of initiative. In case of equal initiative, the highest score on 1d6 goes first. This skill is ineffective
 against models immune to psychology.
-```
-```
+
 #### Seduction
 At the start of each of your combat phases the Hero may attempt to seduce an enemy in base contact. The Hero and their target must both roll a D6 and add their Leadership values. If the Hero wins the target falls under their thralldom, and is now controlled by the Lahmian player.
 
@@ -800,8 +793,7 @@ The mutant gains an extra arm in which they may carry any single-handed equipmen
 
 Cost: 40 gold crowns
 
-```
-```
+
 ### Norse Special Skill
 
 #### Shield Master
@@ -853,8 +845,7 @@ This young warrior has proven himself worthy of his Black Orc heritage. This ski
 
 #### ’Eadbasher
 Orcs have massive physical strength and some of them even learn to aim their blows at the heads of their opponents, with obvious results. Any Knocked Down results which the Orc causes in hand-to-hand count as Stunned results instead.
-```
-```
+
 
 ### Ostlanders Special Skills
 
@@ -923,8 +914,7 @@ towards any evil that pollutes the soil of the holy Empire with its presence. Th
 #### Absolute Faith
 The Sister puts her faith in Sigmar, and faces
 dangers unflinchingly. She becomes _Immune to Psychology_.
-```
-```
+
 ### Shadow Warrior Special Skills
 
 #### Infiltration
@@ -1040,8 +1030,7 @@ The Wardancer has mastered the technique known as the Masquerade of Fools, where
 
 A Wardancer with this skill may freely leave combats when using their Leap skill.
 
-```
-```
+
 ### Wood Elf Special Skills
 
 #### Luck. 

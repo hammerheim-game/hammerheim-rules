@@ -95,8 +95,7 @@ The following lists are used by Beastmen warbands to pick their equipment:
 | Light armour |  20 GC |
 | Heavy armour |  50 GC |
 
-```
-```
+
 
 ### Heroes
 
@@ -171,8 +170,7 @@ ___
 **Weapons/Armour:** Bestigors may choose equipment from the Gors Equipment List.	
 **Skills:** Bestigors may choose from Combat, Strength, and Beastmen Special Skills.
 
-```
-```
+
 ### Henchmen
 
 

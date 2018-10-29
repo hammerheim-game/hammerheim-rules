@@ -14,8 +14,7 @@ ___
 The bow was never a long enough ranged weapon for the mountains, and Beastmen will typically take several arrows to the torso before they fall. The Hochland Long Rifle solved both of these problems, being accurate enough at extreme ranges that an unseen Hochlander could safely pick off a scouting Beastman without the risk of it alerting their friends combined with the power of gunpowder. These rifles became a national symbol, and long evenings spent tinkering with one's handgun has become an almost universal passtime among men and women as they strive to create the next personal revolution in firearms.
 
 Whether it be due to the enlightened culture or the fact that simply seeing another human is a welcome relief from isolation the Hochlanders are reknown for their warmth and hospitality. While eccentric and protective of their guns they are a calm yet jovial people, and it is without a doubt the only place in the Empire where one could turn up at a stranger's door and be invited in for a stew. Hochland warbands are extremely rare, and are universally more interested in the study of wyrdstone and the researching of its effects rather than the pursuit of fortune and glory. 
-```
-```
+
 
 ### Special Rules
 
@@ -98,8 +97,7 @@ ___
 ##### Special Rules	
 **Leader:** Any warrior within 6" of the Expedition Chief may use their Leadership characteristic when taking Leadership tests.	
 **She's a Beaut':** Has the _She's a Beaut'_ special rule.
-```
-```
+
 
 #### **0-1 Student Wizard**
 35 gold crowns to hire	

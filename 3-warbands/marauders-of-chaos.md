@@ -81,8 +81,7 @@ The following lists are used by Beastmen warbands to pick their equipment:
 | Shield |  5 GC |
 | Helmet | 10 GC |
 | Light armour |  20 GC |
-```
-```
+
 #### Henchmen Equipment List
 
 | Hand-to-hand Weapons |
@@ -157,8 +156,7 @@ ___
 
 
 
-```
-```
+
 
 
 
@@ -221,8 +219,7 @@ ___
   style='width:325px' />
   ___
   
-```
-```
+
 ___
 
 <img 
@@ -279,8 +276,7 @@ _Tchar the Great Eagle is the Changer of the Ways. He is the Master of the ever-
 **Leader:** The Hero is capable of casting spells and immediately learns one random spell from the Tchar Rituals. However, they suffer –1 on all rolls to cast unless they were a wizard before.
 
 **Seer:** A Seer of Tchar has command of powerful sorcery. The sorcerer starts with two spells from the Tchar Rituals. The first can be chosen freely, the second is randomly determined. 
-```
-```
+
 ### Mark of the Hound
 
 _Arkhar the Hound is the God of War. He is worshipped on the battlefield by his warriors who shed blood in his name, charging their enemies with the battle-cry “Blood for the Blood God!”_

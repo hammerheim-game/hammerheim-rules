@@ -22,8 +22,7 @@ If you're new to Games Workshop games you'll be reassured to know that finding o
 
 There may be a Games Workshop store near to you where you can buy models, paint and games supplements. However Games Workshop stores are not just shops, they are hobby centres, where the staff will happily help you to learn the rules, show you how to paint, and suggest ways to develop your warband. 
 
-```
-```
+
 ## Warhammer players
 
 If you already play Warhammer, the basic rules of Mordheim will be familiar to you. Remember though, Warhammer is designed for fighting battles between entire armies, whilst Mordheim represents individual action between a dozen or so warriors. 
@@ -76,8 +75,7 @@ You may come across the term D3. As there is no such thing as a three-sided dice
 #### Artillery Dice
 
 The Artillery Dice is one of the more specialised dice used in Games Workshop Games. The dice is a standard six-sided dice but featuring the numbers 2, 4, 6, 8, and 10, with the final side is marked with misfire. A standard six-sided dice can be used in place of an Artillery Dice, just double the face value of the dice, and a Six would count as the Misfire. 
-```
-```
+
 #### Scatter Dice
 
 This is another more specialised dice used in Games Workshop Games; this is a standard six-sided dice that has no numbers but has Arrows and a hit marker. A standard six-sided dice can be used in places of a Scatter Dice:
@@ -197,8 +195,7 @@ During the recovery phase, warriors in your warband who have been _stunned_ beco
 
 _Fleeing_ models must take a _leadership test_. If the test is passed, the model is no longer _fleeing_, but can do nothing this turn except cast spells. If the test is failed, the model will continue to _flee_ towards the closest table edge in the _compulsory move_ phase. For more details, see the rules for _fleeing_ in the _Leadership & psychology_ section.
 
-```
-```
+
 
 ## Movement
 
@@ -238,8 +235,7 @@ Models cannot be moved into hand-to-hand combat except by charging - any move th
 ### Charging more than one opponent
 
 If you can move your warrior into base contact with more than one enemy model with its charge move, it can charge them both. This might be inadvisable as it'll then be fighting two enemies at once!
-```
-```
+
 ### Hiding
 
 The _Hiding_ rule represents warriors concealing themselves in a way that our unmoving and dramatically posed models cannot. A _Hiding_ warrior conceals themself as best they can by stiffening alongside a column, crouching behind a small wall, or hiding inside a barrel. A model can hide if they end their move behind a low wall, a column or in a similar position where they could reasonably conceal themself. The player must declare that the warrior is hiding for it to count as being _Hidden_. It may be worth placing a counter next to it so that other players are aware of it. 
@@ -284,8 +280,7 @@ Take an Initiative test for every full 2" they jump down. If they fails any of t
 #### Diving charge
 
 You may charge any enemy troops that are below a balcony or overhang, etc, that your model is on. If an enemy model is within 2" of the place where your warrior lands, they may make a diving charge against it. Take an Initiative test for each full 2" of height your model jumped down from, like a normal jump. If they fail any of them your model has fallen and suffers damage, may not move any more during the movement phase and cannot charge the enemy. If they succeed, the model gains a +1 Strength bonus and +1 to hit bonus but only during the following hand-to- hand combat phase. 
-```
-```
+
 #### Jumping over gaps
 
 Models may traverse gaps of up to 3" wide without penalty. Jumps may only be horizontal or downwards (with falls of more than 1" requiring an initiative test upon landing) - even if the object they would land on is less than 1" higher than their starting point. A model may jump over a gap and still fire a missile weapon if it is not running. It may also jump as part of its charge or running move.
@@ -337,8 +332,7 @@ The many walls, ruined buildings and other masonry in Mordheim offer plenty of c
 Sometimes it will be obvious whether a target can be seen; at other times it will be more difficult, as buildings and other scenery are in the way. If the shooter can see only part of the target's body, the target is in cover and the shooter suffers a - 1 penalty on his To Hit roll. 
 
 If a shot misses its target by 1, and that target claimed the - modifier for cover, then the shot strikes the cover instead. Normally this doesn't matter, but in the case where a model is concealed behind another warrior, or when the cover is a powder keg, it might be extremely important! 
-```
-```
+
 #### Shooting from an elevated position
 
 A model situated in an elevated position (i.e., anything that is more than 2" above the table surface, such as an upper floor of a building), may freely pick any target they can see and shoot at it including _incapacitated_ warriors. The exception to this rule is that if there are enemies in the same building on the same floor, or connected by a walkway on the same floor to a neighbouring building. If in line of sight these enemies must be shot at, as they represent the most immediate threat just as if they were on street level. 
@@ -406,8 +400,7 @@ In addition, if the attacker normally needs 6s to wound his target, they cannot 
 Depending on what weapon your warrior is using, you may roll on one of the following Critical Hit charts. For example, if your warrior is using a sword, roll on the Bladed Weapons chart. All the rules governing critical hits given in the main rules also apply to these tables.
 
 Only attacks that rolled to hit are capable of causing critical hits. Most spells, impact hits, stomps, etcetera therefore cannot crit.
-```
-```
+
 ##### Missile weapons
 
 _(Bows, crossbows, blackpowder weapons, throwing knives etc.)_
@@ -563,8 +556,7 @@ To determine whether hits are scored, roll a D6 for each model fighting. If a mo
 The dice roll needed to score a hit on your enemy depends upon the Weapon Skills of the attacker and the foe. If the opponent's Weapon Skill is equal to your own then you will hit on a 4+. If theirs is higher you will hit on a 5+. If yours is higher you will hit on a 3+. Even small differences in Weapon Skill can therefore mean a great deal of difference! 
 
 Note that melee attacks may never hit on worse than a 5+.
-```
-```
+
 ##### Fighting with two weapons
 
 Some maniac warriors carry two weapons, one in each hand, so they can rain a flurry of blows on their enemies. A warrior armed with two one-handed weapons must make 1 extra Attack with the additional weapon though will suffer -1 WS to all attacks compensate for the difficulty in making precision blows while flailing wildly. If they are armed with two different weapons (sword and dagger, for example) they may choose which weapon is using this bonus attack. Roll to hit and wound for each weapon separately. 
@@ -733,8 +725,7 @@ While uncommon, Magic Resistance is often applied through talismans or trinkets 
 Magic Resistance improves the Ward Save of models with this special rule by an amount shown in brackets. A model with Magic Resistance (2) and a 4+ Ward Save would therefore have a 2+ Ward Save.
 
 The benefits of Magic Resistance only apply against Direct Damage spells and Magic Missiles. It has no effect upon enemies whose regular attacks have the _Magical Attacks_ special rule.
-```
-```
+
 
 ### Mounts, Chariots, and Terrain
 
@@ -782,8 +773,7 @@ If they fail, they will flee _2D6"_ towards the nearest table edge in the _compu
 
 If a warrior is charged while they are _fleeing_, the charger is moved into base contact as normal, but the _fleeing_ warrior will then move an additional _2D6"_ towards the table edge immediately.
 
-```
-```
+
 #### All alone
 
 Being outnumbered and alone is a nerve-racking situation for any warrior. If your warrior is fighting alone against two or more opponents of the same or larger size (refer to the model size chart), and there are no friendly models (_incapacitated_ models do not count) within _6"_, they must make a _leadership test_ at the end of their combat phase.

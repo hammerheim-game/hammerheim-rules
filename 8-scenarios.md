@@ -12,8 +12,7 @@ The defending player sets up a Hoard of their own design: They may choose four b
 
 ##### Set-up
 The defending player sets up first, then attackers roll a D6 to determine who gets to deploy first, and deploy within 6" of their deployment zone. The defending warband may not form any formal alliances for this battle, and no special deployment rules may be used by any warband.
-```
-```
+
 ##### Starting the game
 
 Attacking warbands roll a D6 and play then proceeds clockwise. The defending player always goes last (and therefore always gets the last play of the game)
@@ -65,8 +64,7 @@ wyrdstone without any penalty. Warriors cannot transfer their
 wyrdstone to another warrior. If the warrior who is carrying a
 counter is taken out of action, place the counter on the table
 where they fell.
-```
-```
+
 ##### Set-Up
 Both players roll a D6 to see who deploys first. Whoever
 rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite
@@ -108,8 +106,7 @@ The city is set up as normal with no special additional criteria. It is recommen
 The Defender may choose a single table corner to be their deployment area. They may deploy their entire force within that zone in a 12" by 12" box. It is worth marking these deployment areas as they will be important to know for the Attackers' Breaking Through objective.
 
 Attackers roll a D6 each. Highest roll deploys first on a table edge of their choosing.
-```
-```
+
 
 ##### Starting the game
 The Defender goes last. Roll a D6 to determine which attacker goes first.
@@ -140,8 +137,7 @@ Any area that is not part of any of the buildings and is not in the street is co
 Players roll a D6 each, the highest roller deploys first. Warbands are deployed within 6" of opposite ends of the
 street.
 
-```
-```
+
 ##### Special rules
 Neither warband can backtrack down the street to leave the
 battlefield via their own edge.
@@ -174,8 +170,7 @@ Both players roll a D6 to see who deploys first. Whoever rolls highest sets up f
 
 ##### Starting the game
 Each player rolls a D6 and adds the normal Initiative of their leader. The player with the higher score goes first. Play then proceeds clockwise.
-```
-```
+
 ##### Ending the game
 The battle ends when only one warband is left in the game.
 ##### Experience
@@ -239,8 +234,7 @@ crowns!
 | Sword | 3+ |
 | D3 gems worth 10 GC each |  5+ |
 
-```
-```
+
 ##### Set-up
 Both players roll a D6 and whoever rolls highest chooses
 which warband sets up first. This warband is deployed within
@@ -283,8 +277,7 @@ Both players roll a D6 and whoever rolls highest chooses
 which warband sets up first. This warband is deployed within
 8" of any table edge the player chooses. Their opponent sets up
 within 8" of the opposite side. 
-```
-```
+
 ##### Starting the game
 Both players roll a D6. The player with the higher score takes
 the first turn. Play then proceeds clockwise.
@@ -339,8 +332,7 @@ be within 6" of another warrior. This must be done before
 rolling for table edges.
 ##### Starting the game
 The Rescuer always gets the first turn. Play then proceeds clockwise with the Defender going last.
-```
-```
+
 ### The Captors
 **Sentries:** Until the alarm is sounded (see below), the
 defender's models are moving about in a somewhat random
@@ -424,8 +416,7 @@ contained in the nest:
 |5+ | D3 helmets |
 |2+ | D3 swords |
 
-```
-```
+
 ##### Set-Up
 Each player rolls a dice. Whoever rolls highest sets up first. The first player then chooses which table edge to
 set up on, placing all their warriors within 8" of that edge. Their opponent then sets up within 8" of the opposite edge. There are D3 Harpies in the nest per warband.
@@ -485,8 +476,7 @@ Should someone wish to attack the merchant’s son, he has the following statlin
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |   | 4 | 1 | 3 | 3 | 3 | 1 | 4 | 1 | 6 |	
 If he is killed, no reward will be issued to the winning warband, of course.
-```
-```
+
 
 ##### Set-Up
 Both players roll a D6 to see who deploys first. Whoever rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite edge.
@@ -536,8 +526,7 @@ turn to see if they finds some. On a D6 roll of 5-6, that player
 has found one of the pieces in the pool!
 
 No Hero may search within 1" of another model (friendly or enemy), as models that are too close together disturb the waters for each other, so that neither may see the bottom. Only as many pieces of wyrdstone may be found as were rolled at the beginning of the game, any searching after that is useless. 
-```
-```
+
 ##### Set-Up
 Both players roll a D6 to see who deploys first. Whoever rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite edge.
 ##### Starting the game
@@ -569,8 +558,7 @@ All the models in the defending warband must be set up
 within 6" of the centre of the board. The attacking warbands
 are then set up as normal.
 The attacking players roll a D6 to see who deploys first. Whoever rolls highest sets up first, within 8" of the table edge of their choice. Their opponent then sets up within 8" of the opposite edge.
-```
-```
+
 ##### Starting the game
 The attacking players each roll a D6. The highest scoring player takes the first turn. Play then proceeds clockwise, with the Defender going last.
 
@@ -622,8 +610,7 @@ If the monsters are still alive when the other warbands rout, the remaining play
 
 ##### Experience
 There are no additional Experience bonuses for this scenario. Greater beasts give +2 Experience on kill rather than the usual +1.
-```
-```
+
 #### Treasure hoard
 
 | Item | D6 |
@@ -704,8 +691,7 @@ Anyone attacking the wall must be in the alley
 (they cannot ruin the map from the other side of the wall or with a ranged attack).
 
 The map doesn't lead to a specific treasure; rather it marks out good routes through the Poor Quarter. The extent to which this will be useful information at all is up for debate however! To interpret how useful these scrawlings are you acquire three Mordheim Maps that you must immediately read after the game - they may not be sold.
-```
-```
+
 
 
 ##### STARTING THE GAME
@@ -774,8 +760,7 @@ Turn 1: Spawn
 Turn 2: Pursuing Band (Defender)
 Turn 3-?: Clockwise order.
 
-```
-```
+
 ##### Special Rules
 **Wyrdstone Necklace:** Make note of which warrior(s) deliver
 the killing blow to each of the spawn on the table. After the
@@ -839,8 +824,7 @@ placed within 8" of the Great Oak. The Great Oak and Shadow Dryads will always b
 
 The profiles of the Giant Oak and Dark Dryad can be found
 in the Monsters of Mordheim section at the end of this chapter.
-```
-```
+
 
 ##### Starting the game
 Each player rolls a D6, with the highest roller going first. Play then proceeds clockwise. The Giant Oak and evil arbours will be considered the last warband in order of play.
@@ -901,8 +885,7 @@ The game ends if only one warband remains, or if all Treasure Chests leave the b
 
 The winning warband is the one that acquired the most Treasure Chest at the end of the battle. It is therefore theoretically possible to rout and yet still win.
 
-```
-```
+
 
 
 ##### Experience
@@ -984,8 +967,7 @@ table (based on where players placed their warbands).
 The game ends when all warbands but one have failed their
 Rout test. The last warband standing is the winner!
 
-```
-```
+
 
 ##### Experience
 There are no special bonuses to experience for this scenario.
@@ -1116,8 +1098,7 @@ his warriors within 8" of it. Their opponent then sets up within
 ##### Starting the game
 Both players roll a D6. The player with highest score takes the first turn. Play then proceeds clockwise.
 
-```
-```
+
 ##### Special rules
 **Anger of the Damned:** The restless spirits of Executioner’s
 Square vent their eternal anger at any who roam in or close to
@@ -1223,8 +1204,7 @@ warband that touches a Tome will roll on the Random
 Happenings chart even though it will already be in the middle
 of their turn.
 
-```
-```
+
 ##### Set-Up
 Players use the normal warband set-up rules. Special deployment may not be used for this scenario, as whatever they think they have scouted probably will probably have changed by the time their comrades arrive.
 
@@ -1295,8 +1275,7 @@ shooting distance are halved, though you may charge as normal.
 **They're growing..!:** The longer the Trolls are left alone the more Wyrdstone they are exposed to. Mutations grow, and the poor beasts grow into vast, slavering hulks. If more than 10 games have occured in the campaign, they get +1 to all their stats.	
 **River Trolls:** Enemies are at -1 To Hit against River Trolls.
 
-```
-```
+
 
 #### Starting the game
 Players each roll a D6 to determine who goes first. Play
@@ -1367,8 +1346,7 @@ Warriors may not be placed in hand-to-hand combat.
 ##### Starting the Game
 Each player rolls a D6. The highest scoring player takes the first turn. 
 
-```
-```
+
 ##### Special Rules
 **Diving Charges:** Warriors may always attempt a Diving Charge from the tables and bar, irrespective of the
 height of the furniture. Stairs may also be used.	
@@ -1436,8 +1414,7 @@ large statue – the shrine representing Saint Voller.
 
 ##### Starting the game
 Roll a D6, the highest roll goes first. Play then proceeds clockwise. Special deployment rules may not be used for this scenario, no scout would be mad enough to camp out in a warehouse so zombie-infested that there's no room to stand.
-```
-```
+
 ##### Special rules
 **The Unquiet Dead:** At the end of each round turn every building's occupants will begin to stir. Gnarled and withered hands pull at boarded-up windows, and mindless groans dryly echo through the decreasingly deserted streets. For every building on the map roll a D6. On a result of a 1 or 2 D3+1 Zombies will emerge, touching the building and placed between it and the nearest Warband member. This counts as their movement action. If a Warband Member is in the building and is not Hidden then the Unquiet Dead subtract 2 from the roll to see if they emerge. If the nearest Warband member is inside the building then all emerging zombies from that building will immediately go into combat with them, counting as charging, and dividing up between all warband members inside. These Zombies are the same as the Henchmen from the Undead warband, though they do not grant any Experience for taking Out of Action.	
 **Shhhhh!:** The Unquiet Dead ironically prefer peace and quiet, being drawn to attack sources of noise nearby. If a Blackpowder Weapon is fired the nearest two buildings to the character who fired will immediately spawn zombies as if they had just rolled a 1 or 2 in the Unquiet Dead turn. 	
@@ -1496,8 +1473,7 @@ Merchant's Square will represent the Merchant's Homes and Shoppe's.
 ##### Set-Up
 Players set up as normal.	
 
-```
-```
+
 
 ##### Special rules
 Warbands will begin searching the buildings for common
@@ -1595,8 +1571,7 @@ Attempting to leave the canal will require a climbing check as warband members s
 
 Additionally the waters are so blighted and foul that all Nurgle-aligned models suffer from Stupidity while inside it as they wantonly revel in the filth.
 
-```
-```
+
 
 ##### Starting the Game
 Players roll off as normal, then play proceeds clockwise.
@@ -1800,8 +1775,7 @@ of Khorne.
 Henchman that puts the Bloodletter of Khorne out of action
 gets a bonus +1 experience.
 
-```
-```
+
 ### Black Pegasus
 _It is said that a few of the Pegasi escaped the destruction and their
 cages and have made their lairs around this area. Some have

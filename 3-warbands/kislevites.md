@@ -11,8 +11,7 @@ ___
 <img 
   src='https://i.imgur.com/ppF3l38.jpg.jpg' 
   style='width:325px' />
-```
-```
+
 Some say that their relative happiness derives from their love of strong drink. Whether this is true or not, Kislevites certainly do enjoy their spirits, and in fact many of their people attribute almost magical qualities to that most famous of Kislevite drinks – vodka. A Kislevite warband represents a group of individuals from this unique northern realm. Kislevites tend to be quiet in the face of strangers, but they hold much joy in their hearts. In fact they are loud and boisterous when amongst their own people. Kislevites are known to be extremely brave warriors, and they hold a loathing for Chaos that is much stronger than most of the peoples of the Old World. 
 
 While many citizens of  the Empire may remain ignorant to the initial signs of a Chaos cult, Kislevite citizens will immediately seek out any signs of depravity and cleanse the infected individuals with sword and flame. Keep these things in mind when you play a Kislev warband. Most citizens of Kislev have lost homes or loved ones to the warriors of Chaos, and they realise that anything less than constant vigilance could lead to their downfall. They are therefore unrelenting in their resolve against their ancient enemies. Give the forces of Chaos no quarter, and expect none in return.  
@@ -94,8 +93,7 @@ The following lists are used by Kislevite warbands to pick their equipment:
 | Shield |  5 GC |
 | Helmet | 10 GC |
 | Light armour |  20 GC |
-```
-```
+
 
 > ### Bear Claw Necklace
 _Bears are widely regarded as sacred in Kislev, and a necklace made of their claws (or sometimes their teeth) is considered magical and reputed to have magical powers._
@@ -164,8 +162,7 @@ ___
 ##### Special Rules
 **Bear Handler:** The Bear Tamer is required in order to keep the Trained Bear in the warband. If the Tamer has to miss a game, so does the bear. If the Bear Tamer is killed another must be immediately bought, or the Bear will leave the warband. 
 
-```
-```
+
 
 ### Henchmen
 

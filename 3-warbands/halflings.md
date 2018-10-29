@@ -93,8 +93,7 @@ The following lists are used by Halfling warbands to pick their equipment:
 | Helmet | 10 GC |
 | Light Armour |  20 GC |
 
-```
-```
+
 
 #### Ogre Equipment List
 | Hand-to-hand Weapons |
@@ -171,8 +170,7 @@ _Racketeers are the Halflings in the alleyways, the ones who make the deals. Cun
 ___
 **Weapons/Armour:** Racketeers may be equipped from the Heroes equipment list.		
 **Skills:** The Racketeers may choose from Shooting, Academic, Speed, and Halfling Special Skills.
-```
-```
+
 
 
 #### 0-1 Chef
@@ -222,8 +220,7 @@ ___
   style='width:300px' />
 
 
-```
-```
+
 
 #### Scouts
 

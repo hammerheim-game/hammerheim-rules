@@ -71,8 +71,7 @@ The following lists are used by Norse warbands to pick their equipment:
 | Helmet | 10 GC |
 | Light armour |  20 GC |
 
-```
-```
+
 
 #### Hunter Equipment List
 
@@ -147,8 +146,7 @@ ___
 **Weapons/Armour:** Huskarl may choose from the Bondsman and Hunter Equipment Lists.	
 **Skills:** Huskarl may choose from Combat, Strength, Speed, and Norse Special Skills.
 
-```
-```
+
 #### **0-2 Berserkers**
 55 gold crowns to hire	
 _Berserkers are some of the most ferocious warriors in any Norse Warband. They have proven their worth over countless battles and have learned that death is nothing to be feared. They charge into battle without any regard for their own safety, often clad in nothing more than tattoos._

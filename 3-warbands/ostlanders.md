@@ -76,8 +76,7 @@ The following lists are used by Ostland warbands to pick their equipment:
 
 _* = Heroes only._
 
-```
-```
+
 
 
 ### Heroes
@@ -151,8 +150,7 @@ ___
 <img 
   src='https://imgur.com/wRQfxP5.jpg' 
   style='width:325px' />
-```
-```
+
 
 #### 0-5 Kith
 25 gold crowns to hire	

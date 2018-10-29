@@ -73,8 +73,7 @@ The following lists are used by Nuln Engineer warbands to pick their equipment:
 | Light Armour |  20 GC |
 | Heavy Armour | 50 GC |
 
-```
-```
+
 
 #### Specialist Equipment List
 | Hand-to-hand Weapons |
@@ -169,8 +168,7 @@ ___
 **Weapons/Armour:** Underclassmen may choose equipment from the Specialist Equipment List.		
 **Skills:** Underclassmen may choose from Combat, Shooting, and Speed skills. 
 
-```
-```
+
 
 ### Henchmen
 

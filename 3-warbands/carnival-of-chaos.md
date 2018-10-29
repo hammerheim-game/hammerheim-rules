@@ -133,8 +133,7 @@ ___
   src='https://imgur.com/5X7TnvV.jpg' 
   style='width:325px' />
 
-```
-```
+
 ### Henchmen
 
 

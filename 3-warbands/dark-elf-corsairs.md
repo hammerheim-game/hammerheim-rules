@@ -100,8 +100,7 @@ The following lists are used by Dark Elf Corsair warbands to pick their equipmen
 | Helmet | 10 GC |
 | Light Armour |  20 GC |
 
-```
-```
+
 
 > ### Repeater Handbow	
 > **Range:** 12"; ** Strength:** 3	
@@ -172,8 +171,7 @@ ___
 **Weapons/Armour:** Corsairs may choose equipment from the Corsair Equipment List.		
 **Skills:** Corsairs may choose from Combat, Shooting, Speed, and Dark Elf Special Skills.
 
-```
-```
+
 
 ### Henchmen
 

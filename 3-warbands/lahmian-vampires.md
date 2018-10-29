@@ -152,8 +152,7 @@ _Beloved are the hopelessly lovelorn, often through no error of their own. By co
 ##### Special Rules
 **Recruitment & Stats:** The Beloved may be chosen from any hero in a human warband other then Middenheim, Witch Hunters, Sisters of Sigmar, Possessed, Carnival of Chaos and any hero that is either _Immune to Psychology_ or uses prayers. The Beloved will keep the same cost, profile, skill list, special rules and starting Experience. Weapons & Armour will be chosen from their Wargear list. If the Beloved had the _Leader_ skill they lose it.	
 **Beloved:** If the Lahmian Vampire is _incapacitated_ or put Out of Action the Beloved will gain the _Frenzy_ special rule.
-```
-```
+
 
 
 

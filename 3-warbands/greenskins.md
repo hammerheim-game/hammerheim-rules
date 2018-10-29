@@ -20,8 +20,7 @@ ___
 Though such a disunion would often spell the doom of their race, such are the Greenskins' adept ability to both survive and thrive in the most harshest of environments, that the Greenskins can never truly be exterminated from the face of this earth. Without the proper knowledge or unity to progress past even the most basic foundations for a civilization, the Greenskins cannot amount to anything better than primitive savages living within scattered tribal societies.
 
 
-```
-```
+
 ### Greenskin Special Rules
 **Background:** When drawing up your roster for your Greenskins warband you may pick from one of the three following factions. This represents the origins of your Greenskin warband, and will confer various bonuses accordingly in addition to the ones listed in this section.	
 **Animosity:** Orcs and Goblins enjoy nothing more than a
@@ -69,8 +68,7 @@ In the 'Biggest is Baddest' culture of Greenskins it is exceptionally difficult 
 **Little Waaagh:** Goblin Pillager Warbands may never include Orcs.	
 **Numerous:** Your warband may include 2 Goblin Shamans rather than the usual 1, and may include 2 Trolls rather than the usual 1.	
 **Alignment:** the Warband’s Alignment is Neutral/Chaotic or Chaotic.
-```
-```
+
 
 ## Black Orc Warband
 
@@ -144,8 +142,7 @@ The following lists are used by Dwarf warbands to pick their equipment:
 | Mounts |
 | :- | -: |
 | War  Boar (Heroes Only) | 90 GC |
-```
-```
+
 
 #### Goblin Equipment List
 | Hand-to-hand Weapons |
@@ -245,8 +242,7 @@ ___
 <img 
   src='https://imgur.com/D4DzM5R.jpg' 
   style='width:330px' />
-```
-```
+
 
 ### Henchmen
 

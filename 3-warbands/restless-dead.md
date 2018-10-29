@@ -73,8 +73,7 @@ Special magics and rituals can cause a Zombie to explode when they are near the 
 
 #### Deathspeaker
 At the start of the battle, the undead player may deploy D3 Zombies for free. These zombies do not count towards the maximum number of models in the warband, but increase the warband’s rating as normal. Zombies created in this way may not be used as Corpse Bombs. These Zombies only last for the duration of the battle.
-```
-```
+
 #### Wraith Touch
 The hero may make a Wraith Touch attack instead of their normal attacks in close combat. The hero making a Wraith Touch makes a single unarmed attack, if it hits, it wounds automatically, all rules that apply to unarmed attacks apply to the Wraith Touch. If a Liche uses this skill and wounds, then he may regain one lost wound. This may not take the hero beyond his starting total. Necromancers do not regain wounds with this skill. This skill has no effect on the Possessed or Undead. 
 
@@ -115,8 +114,7 @@ ___
 **Advancement:** If a Liche gets an advance roll of +1 Wound, they may instead pick a new skill from their
 available lists. 
 
-```
-```
+
 
 #### **0-1 Necromancer**
 40 gold crowns to hire	
@@ -175,8 +173,7 @@ ___
 **No Pain:** Zombies treat a ‘stunned’ result on the Injury chart as ‘knocked down’.	
 **Slow:** Rattling and tireless, these undead constructs lack the agility of life. They may never run, though they may charge normally.	
 **No Brain:** Zombies are mindless automatons incapable of earning experience.
-```
-```
+
 
 #### 0-3 Grave Guard
 25 gold crowns to hire	

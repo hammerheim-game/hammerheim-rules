@@ -91,8 +91,7 @@ _Items marked with a * may only be used by Heroes._
 
 
 
-```
-```
+
 
 <img 
   src='https://imgur.com/yQyf35c.jpg' 
@@ -154,8 +153,7 @@ ___
 **Weapons/Armour:** Night Runners may choose equipment from the Clan Eshin Equipment List.	
 **Skills:** Night Runners may choose from Combat, Shooting, Speed, and Clan Eshin Special Skills.
 
-```
-```
+
 ### Henchmen
 
 

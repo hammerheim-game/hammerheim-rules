@@ -18,8 +18,7 @@ ___
 **Habituation:** Vampires' human servants rapidly have to become accustomed to the uncanny nature of their Masters and their undead minions. The human members of an Blood Dragon Knight warband are immune to fear caused by types of undead in their own warband, i.e.: skeletons, wights, vampires, etc. Other types of undead cause fear as normal.	
 **Alignment:** the Warband’s Alignment is Neutral/Chaotic
 
-```
-```
+
 ### Choice of Warriors
 
 A Blood Dragon Knight’s warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 12.	
@@ -114,8 +113,7 @@ ___
 **Immune to Poison:** Blood Dragon Knights are not affected by any poison.	
 **No Pain:** Blood Dragon Knights treat a  'stunned’ result on the Injury chart as ‘knocked down’.
 
-```
-```
+
 #### **0-2 Wights**
 70 gold crowns to hire
 _Wights are long dead heroes who are tied to the land of the living by magic. In ages past, the men of the Old World buried their dead beneath mounds of earth and stone, together with their battle gear and worldly wealth. Although their bodies have decayed, Wights are held together by evil magic so strong that it can last for many centuries. They wear ancient armour of bronze and black iron, corroded by time and dusty with the years. They carry iron weapons inlaid with evil runes, an accursed parody of once powerful magical blades. Some Vampires rule over entire regiments of Wights, warriors who dared challenge them in life and now serve them in death._ 
@@ -197,8 +195,7 @@ ___
 **Immune to Poison:** Hellhounds are not affected by any poison.	
 **No Pain:** Hellhounds treat a ‘stunned’ result on the Injury chart as ‘knocked down’.	
 **No Brain:** You can't teach a dead dog new tricks. Hellhounds never gain experience.
-```
-```
+
 
 #### 0-3 Grave Guard
 35 gold crowns to hire	

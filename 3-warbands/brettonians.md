@@ -18,8 +18,7 @@ ___
 
 Before rolling for first turn the leader of a Bretonnian Crusade must take a Leadership test. If passed this blessing takes the form of a powerful curse upon the enemies of chivalry, in particular those who make use of cowardly weapons. Any warrior that attempts to shoot a Bretonnian Knight must roll a dice. On a 1-3 the shot is lost and they may take no further action.	
 **Alignment:** the Warband’s Alignment is Lawful.
-```
-```
+
 ### Choice of Warriors
 
 A Brettonian warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 12.	
@@ -120,8 +119,7 @@ ___
 **Leader:** Any warrior within 6" of the Blood Dragon may use his Leadership characteristic when taking Leadership tests.	
 **Immune to Fear:** It takes a great deal to unnerve a Questing Knight - indeed they actively seek out the scary foes!
 
-```
-```
+
 #### **0-2 Knights Errant**
 50 gold crowns to hire
 _Knight Errant are the sons of nobles, eager to prove their mettle by feats of arms, and earn their place amongst the Knights of the Realm of Bretonnia. To do this they must perform valourous deed, so they will often accompany a Questing Knight on his spiritual journey in the hope of adventure and honour._ 
@@ -158,8 +156,7 @@ ___
   style='width:300px' />
 
 
-```
-```
+
 ### Henchmen
 
 #### Men-at-Arms

@@ -18,8 +18,7 @@ So it is that they are united in battle against the enemies of the throne. Offic
 **Outsiders:** Foreigners are generally considered unwelcome by the border guards of Cathay. The Battle Monks warband is Distrustful of all non-Cathayan warbands.	
 **Alignment:** the Warband’s Alignment may be one of the following: Lawful, Lawful/Neutral, Neutral.
 
-```
-```
+
 ### Choice of Warriors
 
 A Battle Monks warband must include a minimum of three models. You have 500 gold crowns available to spend. The maximum number of warriors in the warband may never exceed 15.	
@@ -115,8 +114,7 @@ ___
 
 <div style='margin-top:30px'></div>
 
-```
-```
+
 
 >#### Dragon Sword
 **_Range_:** Close Combat; **Strength:** As user +1	
@@ -175,8 +173,7 @@ While battling inside an enclosed area (such as a building, ruin, or The Pits) t
 #### Dragon Rage
 Mustering up a lifetime's accumulated knowledge of The Blind Monk's teachings, the Monk unleashes a devestating spinning kick with the force of a speeding chariot. Instead of their usual contingent of attacks the Monk may make a single unarmed Dragon Rage attack at +1 Strength. If this attack hits, whether or not it successfully wounds, the target is knocked back D6" away from the Monk through any windows, handrails, or other models behind them. Every model behind the target, friend or foe, is wounded on whatever the target's armour save was (having a warrior with Heavy Armour be kicked into you would therefore wound you on a 3+). Large targets are moved D3" away. Gargantuan targets do not move.
 ___
-```
-```
+
 
 ### Heroes
 
@@ -237,8 +234,7 @@ ___
   src='https://i.imgur.com/SKsHnNL.jpg.jpg' 
   style='width:300px' />
 
-```
-```
+
 
 ### Henchmen
 

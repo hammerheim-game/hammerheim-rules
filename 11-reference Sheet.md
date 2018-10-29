@@ -29,8 +29,7 @@ _(Swords, axes, double-handed swords etc.)_
 | 1-2 | Flesh Wound | This attack hits an unprotected area, so there is no armour save. |
 | 3-4 | Bladestorm | The warrior unleashes a virtual hail of blows. The attack causes 2 wounds instead of 1. Take armour saves separately for each wound. |
 | 5-6 | Sliced! | The strike ignores armour saves, causes 2 wounds, and your warrior gains +2 to any Injury rolls. |
-```
-```
+
 #### Unarmed combat
 _(War dogs, warhorses, Zombies, Possessed, animals etc.)_
 
@@ -117,8 +116,7 @@ _y = Number of shards sold_
 | 10+ | Lad's Got Talent! |
 
 
-```
-```
+
 ## Heroes' Serious Injuries
 | Roll | Result |
 | : - : | : -: |

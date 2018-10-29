@@ -61,8 +61,7 @@ A Pit Fighter warband must include a minimum of three models. You have 500 gold 
 **Pursuers:** Your warband may include up to four Pursuers.	
 **Pit Ogre:** Your warband may include up to one Pit Ogre.
 
-```
-```
+
 
 ### Starting Experience
 
@@ -159,8 +158,7 @@ ___
 <img 
   src='https://imgur.com/Tao3yQH.jpg' 
   style='width:325px' />
-```
-```
+
 
 #### **0-4 A-Listers**
 40 gold crowns to hire.	

@@ -97,8 +97,7 @@ The following lists are used by Nordland warbands to pick their equipment:
 | :- | -: |
 | Rope & Hook | 5 GC |
 | Forest Cloak | 50 GC |
-```
-```
+
 
 #### Wood Elf Equipment List
 
@@ -184,8 +183,7 @@ ___
 **Weapons/Armour:** Elven Adventurers may choose equipment from the Elven Equipment List.	
 **Skills:** Elven Adventurers may choose from Combat, Shooting, Strength, Speed, and Wood Elf Special Skills.
 
-```
-```
+
 
 ### Henchmen
 

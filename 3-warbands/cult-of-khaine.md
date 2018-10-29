@@ -94,8 +94,7 @@ _Items marked with * are only available to Executioners._
 | :- | -: |
 | Helmet | 10 GC |
 | Light Armour |  20 GC |
-```
-```
+
 ### Heroes
 
 #### **1 Witch Hag**
@@ -156,8 +155,7 @@ ___
   src='https://i.imgur.com/Dcj2T9X.png' 
   style='width:325px' />
   
-```
-```
+
 
 ### Henchmen
 

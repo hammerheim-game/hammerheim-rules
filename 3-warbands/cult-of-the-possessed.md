@@ -92,8 +92,7 @@ The following lists are used by Cult of The Possessed warbands to pick their equ
 | Helmet | 10 GC |
 | Light Armour |  20 GC |
 
-```
-```
+
 ### Heroes
 
 #### **1 Magister**
@@ -169,8 +168,7 @@ _Brethren are the crazed human followers of the cults of the dark gods, eager to
 | | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
 ___
 **Weapons/Armour:** Brethren may choose equipment from the Cultist Equipment List.
-```
-```
+
 #### 0-1 Chaos Spawn
 180 gold crowns to hire	
 _Some cultists grow so fanatical in their pursut of mutation that these boons grow beyond their control, accellerating in rapid and violent growth that twists and contorts their bodies. Many deem these cultists as having achieved a form of ascension, for there is no creature as representative of the horrific power and inspiration of Chaos as the Spawn._

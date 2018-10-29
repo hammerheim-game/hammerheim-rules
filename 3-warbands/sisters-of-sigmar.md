@@ -76,8 +76,7 @@ The following lists are used by Sisters of Sigmar warbands to pick their equipme
 | Holy Tome | 100 GC |
 
 _* = Only usable by Heroines_
-```
-```
+
 
 #### Acolyte Equipment List
 
@@ -165,8 +164,7 @@ ___
 **Weapons/Armour:** Sister Superiors may choose from the Sigmarite Equipment Lists.	
 **Skills:** Sister Superiors may choose from Combat, Strength, Speed, and Sisters of Sigmar Special Skills.
 
-```
-```
+
 ### Henchmen
 
 

@@ -174,8 +174,7 @@ The warrior wakes up in the infamous fighting pits of Cutthroat’s Haven and mu
 ##### 66 SURVIVES AGAINST THE ODDS
 
 The warrior survives and rejoins their warband, learning from their ordeal. They gain +1 Experience!
-```
-```
+
 ## Experience
 
 As warriors take part in battles those who survive become more experienced and improve their battle skills. This is represented in campaigns by Experience points. Warriors earn Experience points when they take part in a battle and by completing certain actions, such as defeating foes. Once a warrior has enough points they gain an advance. This takes the form of an increased characteristic or a new skill. Warriors who survive long enough may progress to become great Heroes, with many skills that they have picked up during their long and glorious fighting career. When warriors are recruited, some of them already have some experience. The warband lists detail how many Experience points different warriors begin with. Record these on your warband roster sheet by ticking the right number of boxes. No extra advances are gained for this experience. It simply represents the experience the warriors have accumulated before the warband is formed.
@@ -244,8 +243,7 @@ All warriors in the group gain the same advance.
 
 There are several types of skill and each has a separate list. You may not choose the same skill twice for the same warrior. The skills a Hero may have are restricted by the warband they belong to and what type of Hero they are. To select a new skill for a Hero, pick the type of skill you want from those available, then choose which skill has been learned.
 
-```
-```
+
 
 ## Income
 
@@ -432,8 +430,7 @@ As you are returning to your encampment you meet a familiar face. Be it a long-l
 
 You gain the services of a single character from your Warhammer book worth up to 75pts, including named characters. They will join your warband for the next game only before leaving. They will not contribute to your exploration dice, but do not require upkeep either - they are completely free.
 
-```
-```
+
 ### Four of a kind
 
 #### (1111) Gunsmith
@@ -561,8 +558,7 @@ are charts and astrological symbols painted onto the walls.
 
 There is a wealth of information here, and the warband spreads out to learn what they can - or ascertain just what has any sale value. For every Hero in the warband capable of earning Academic skills you gain 10 GC.
 
-```
-```
+
 
 #### (33333) Jewelsmith
 The houses in the jewellers' quarter have all been well and
@@ -671,8 +667,7 @@ D6 Result
 5 D3 Handguns with Heavy Ammunition.
 
 6 Gromril armour
-```
-```
+
 
 #### (444444) Slaughtered Warband
 You find the remains of an entire warband. Broken bodies lay
@@ -781,8 +776,7 @@ Rambeaux was a Brettonian Questing Knight famed for being one of the few Knights
 
 Rambeaux's Banner functions like a normal banner but as long as the wielder is in combat all allied units within 4", including the wielder, gain +1 Strength and +1 Attack.
 
-```
-```
+
 #### 5 Executioner’s Hood
 Recovered from a shipwrecked Dark Elf vessel, this hood
 carries evil glowing runes which fill the wearer with
@@ -899,8 +893,7 @@ hiring new warriors, buying new equipment or simply save
 the money for a bigger purchase. See the Trading section for
 details.
 
-```
-```
+
 ### Trading
 
 Every Settlement around the city of Mordheim has at least
@@ -1012,8 +1005,7 @@ example, if your warband has four Heroes, you may make
 four rolls to locate rare items. Warriors taken out of action
 during the last battle may not look for rare items.
 
-```
-```
+
 #### Selling
 
 A player may trade in weapons and equipment at the same

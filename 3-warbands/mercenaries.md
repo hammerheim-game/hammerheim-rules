@@ -67,8 +67,7 @@ ___
 <img 
   src='https://imgur.com/8mfDe2B.jpg' 
   style='width:325px' />
-```
-```
+
 
 ## Marienburg
 
@@ -143,8 +142,7 @@ The following lists are used by Mercenary warbands to pick their equipment:
 | Light Armour |  20 GC |
 | Heavy Armour | 50 GC |
 
-```
-```
+
 
 #### Marksman Equipment List
 | Hand-to-hand Weapons |
@@ -233,8 +231,7 @@ ___
 
 ##### Special Rules
 **Prayer User:** Clerics are Prayer Users who must be dedicated to a single god upon purchase. This will determine which Prayers they have access to.
-```
-```
+
 ### Henchmen
 #### Warriors	
 25 gold crowns to hire	

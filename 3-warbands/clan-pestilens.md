@@ -67,8 +67,7 @@ The following lists are used by Clan Pestilens warbands to pick their equipment:
 | Helmet | 10 GC |
 | Light Armour |  20 GC |
 
-```
-```
+
 
 >#### Disease Dagger
 **Range:** Close Combat; **Strength:** As User	
@@ -132,8 +131,7 @@ ___
   style='width:300px' />
 
 
-```
-```
+
 ___
 <img 
   src='https://imgur.com/xVNjN5D.jpg' 
@@ -200,8 +198,7 @@ ___
 **Animals**: Warhounds do not gain experience.	
 **Low Upkeep**: Giant Rats largely look after themselves, even capable of sustaining themselves on chewed-up rotted wood, and are largely overlooked by their warband. For the purposes of warband size (such as selling Wyrdstone and Rout Tests) Giant Rats only count as half a model.
 
-```
-```
+
 #### 0-1 Rat Ogre
 175 Gold Crowns	
 _While Plague Monks thrive in the unfeeling melee there are occasionally foes with armour too heavy for the wild strikes of their crude, blunt swords to penetrate. Rat Ogres purchased by Pestilens warbands rarely live long before succumbing to disease, so they are made vigorous use of. _

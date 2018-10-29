@@ -14,8 +14,7 @@ Taken together, an Elf's suppleness of mind and body ranks them amonst the deadl
 **Background:** When drawing up your roster for your Forest Walker warband you may pick from one of the three following factions. This represents the origins of your Forest Walker warband, and will confer various bonuses accordingly in addition to the ones listed in this section.	
 **Forest Walkers:** Elves are nowhere more at home than among trees. They never suffer movement penalties, or need to take Dangerous Terrain Tests if mounted, for being in a forest. Additionally, Elves in forests gain the _Stubborn_ rule.
 **Distrusts Elves:** Wood Elves have little issue with allying with factions that many others would deem unseemly, wholly confident in their ability to manipulate the lesser races and ultimately achieve their own aims. They are significantly more wary around their racial cousins however, and therefore may never form Formal Alliances with them.
-```
-```
+
 ## Forests of Athel Loren
 
 Athel Loren is a place where few mortals have set foot. To even get to Athel Loren requires a journey through treacherous Deepwoods steeped in magic that alters the passage of time itself. It is a realm of forest spirits, of curses, of wonder, of life and death. The Elves that dwell here are the most isolationist of their kind, for dwelling within it can convince a mind that no universe exists outside its own. As a consequence their culture is also incredibly distinct, for no other faction of Asrai has attained as close a relationship with the forest spirits as they. 
@@ -132,8 +131,7 @@ The following lists are used by Forest Walker warbands to pick their equipment:
 
 
 
-```
-```
+
 
 #### Ranger Equipment List
 | Hand-to-hand Weapons |
@@ -285,8 +283,7 @@ ___
 <img 
   src='https://imgur.com/u2qce2z.jpg' 
   style='width:580px' />
-```
-```
+
 ### Dryads
 45 gold crowns to hire	
 _The manifestation of the forests' vengeance, Dryads are furious spirits born of bark. While the darkest parts of mortal minds are what bring Daemons into this world, it is suggested that the Dryads are the darkest parts of the forests' conscience._

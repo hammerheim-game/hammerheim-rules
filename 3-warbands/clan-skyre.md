@@ -12,8 +12,7 @@ ___
   src='https://imgur.com/bS4Ma5R.jpg' 
   style='width:325px' />
 ___
-```
-```
+
 ___
 In those few moments where the Warpstone functions properly however, those weapons are known to be the deadliest in the Old World. Poisoned Wind Globes unleash noxious and suffocating fumes as they are shattered around formations pinned in place by expendable slaves, and Warpfire Throwers discharge superheated liquid jets to reduce armour to molten slag.
 
@@ -96,8 +95,7 @@ The following lists are used by Clan Skryre warbands to pick their equipment:
 | Shield |  5 GC |
 | Helmet | 10 GC |
 | Light Armour |  20 GC |
-```
-```
+
 
 >#### Poisoned Wind Globes
 **Range:** 8"; **Strength:** n/a	
@@ -171,8 +169,7 @@ ___
 **Weapons/Armour:** Black Skaven may choose equipment from the Engineer Equipment List.		
 **Skills:** Black Skaven may choose from Combat, Strength, Speed, and Clan Skryre Special Skills.
 
-```
-```
+
 
 #### 0-2 Apprentices
 30 gold crowns to hire	
@@ -214,8 +211,7 @@ ___
   src='https://imgur.com/x8HPtix.jpg' 
   style='width:325px' />
 
-```
-```
+
 
 #### 0-1 Clan Skryre Rat Ogre
 275 Gold Crowns	

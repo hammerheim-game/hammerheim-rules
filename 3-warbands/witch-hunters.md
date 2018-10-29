@@ -88,8 +88,7 @@ The following lists are used by Nordland warbands to pick their equipment:
 | Hammer of Witches | 100 GC |
 _* = Witch Hunters only._
 
-```
-```
+
 
 #### Zealot Equipment List
 
@@ -146,8 +145,7 @@ ___
 **Burn the Witch!:** The Witch Hunter _hates_ all Magic Users and Sisters of Sigmar.
 
 
-```
-```
+
 
 #### **0-1 Warrior-Priest**
 45 gold crowns to hire.	
@@ -218,8 +216,7 @@ _Witch Hunters often keep packs of ferocious hunting houndss, most commonly vast
 Animals: War hounds are animals and thus do not gain experience.
 
 
-```
-```
+
 #### Zealots
 15 gold crowns to hire	
 _When a man loses his family, home and all he cared for, religion is
