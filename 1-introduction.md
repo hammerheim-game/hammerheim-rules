@@ -1,9 +1,3 @@
-<style>
-  .phb{
-    width : 210mm;
-    height : 296.8mm;
-  }
-</style>
 # Introduction
 Welcome to Mordheim, City of the Damned! Set in the Warhammer Fantasy Battles universe, this game covers the brief period in history a few hundred years before the events that lead up to the aptly named End Times. 
 
