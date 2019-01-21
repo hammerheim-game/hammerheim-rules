@@ -1,5 +1,6 @@
-﻿
-### Campaigns
+﻿# Campaigns
+
+<div class='pageNumber auto'></div>
 
 Warbands travel to the City of the Damned from all over the Old World. They come from many races and for many reasons but ultimately they must all face the dangers of the dim alleys and twisting, winding streets of Mordheim. Although it is great fun to fight individual battles, part of the challenge of Mordheim is to build your warband into a force to be reckoned with. A campaign gives your warband the chance to gain experience and new skills, as well as the opportunity to hire extra warriors as its fame and fortune increases.
 
@@ -26,7 +27,7 @@ After the battle is over, both players work their way through the following sequ
 
 4. Sell Wyrdstone. This can only be done once per post battle sequence.
 
-5. Check available veterans. Roll to see how much Experience worth of veterans is available for hire. You don’t have to commit to hiring any at this point.
+5. Check henchmen availability. Roll 2D6 to see how much Experience worth of henchmen is available for hire. You don’t have to commit to hiring any at this point.
 
 6. Make rarity rolls and buy rare items. Make rolls for any rare items you intend to buy and pay for them. These items go into the warband’s stash.
 
@@ -41,7 +42,7 @@ When a warrior is killed (Hero or Henchman) all their weapons and equipment are 
 
 #### Death of a Leader
 
-If the leader of the warband is slain, the Hero with the next highest Leadership value takes command. They then gains the Leader ability (although they must continue to use their original Skill list). If there is more than one Hero eligible to assume command, the warrior with the most Experience points becomes the leader. If that is also even the player may choose. In the case of Undead warbands, the death of the Vampire means that the warband’s Necromancer must take over. If the warband doesn’t include one it must purchase one in the immediate post-game phase else the spells that hold the restless dead together unravel, and the warband collapses into a pile of bones. You can buy a Vampire after the next game, at which point the Necromancer will step down (whether they want to or not) and lose the Leader skill.
+If the leader of the warband is slain, the Hero with the next highest Leadership value takes command. They then gain the Leader ability (although they must continue to use their original Skill list). If there is more than one Hero eligible to assume command, the warrior with the most Experience points becomes the leader. If that is also even the player may choose. In the case of Undead warbands, the death of the Vampire means that the warband’s Necromancer must take over. If the warband doesn’t include one it must purchase one in the immediate post-game phase else the spells that hold the restless dead together unravel, and the warband collapses into a pile of bones. You can buy a Vampire after the next game, at which point the Necromancer will step down (whether they want to or not) and lose the Leader skill.
 
 
 #### Buying new equipment between games
@@ -52,13 +53,15 @@ Weapons and armour purchased, swapped or taken from storage for your warband mus
 
 \page
 
+<div class='pageNumber auto'></div>
+
 #### Serious injuries
 
-During a game some warriors will be taken out of action and removed from play. At that time it doesn’t matter whether the warrior is dead, unconscious, injured or just playing dead – in game terms they are no longer capable of fighting in the battle which is all that matters.
+During a game some warriors will be taken out of action and removed from play. At that time it doesn’t matter whether the warrior is dead, unconscious, injured or just playing dead – in game terms they are no longer capable of fighting in the battle.
 
-When you are playing a campaign it matters a great deal what happens to warriors who are taken out of action! They might recover completely and be ready to fight in the next battle, or they might have sustained injuries. Worst of all they might die, or be so badly injured that they have to retire.
+When you are playing a campaign however it matters a great deal what happens to warriors who are taken out of action! They might recover completely and be ready to fight in the next battle, or they might have sustained injuries. Worst of all they might die, or be so badly injured that they have to retire.
 
-When a Henchman receives a serious injury this is treated differently than if a Hero received one (this is to represent the greater effect that losing a Hero would have on your warband). Working out the extent of a Henchman’s injuries is very simple. You will need to roll on the chart opposite to determine what has happened to your Hero. The chart covers a whole range of injuries and random things that might befall your warrior as they struggle to return to camp. Bear in mind that only Heroes who are taken out of action are obliged to roll on this chart.
+When a Henchman receives a serious injury this is treated differently than if a Hero received one (this is to represent the greater effect that losing a Hero would have on your warband). Working out the extent of a Henchman’s injuries is very simple, but you will need to roll on the chart below to determine what has happened to your Hero. The chart covers a whole range of injuries or random events that might befall your warrior as they struggle to return to camp. Bear in mind that only Heroes who are taken out of action are obliged to roll on this chart.
 
 ##### Henchman with Serious Injuries
 
@@ -68,7 +71,7 @@ Henchmen who are out of action at the end of the battle are removed permanently 
 
 After a battle some of your Heroes may be taken out of action. You will need to determine the extent of their injuries before the next game.
 
-To use the Heroes’ Serious Injuries chart opposite, roll two D6. The first dice roll represents ‘tens’ and the second ‘units’, so that a roll of 1 and 5 is 15, a roll of 3 and 6 is 36, etc. This type of dice roll is referred to as a ‘D66 roll’.
+To use the Heroes’ Serious Injuries chart below, roll two D6. The first dice roll represents ‘tens’ and the second ‘units’, so that a roll of 1 and 5 is 15, a roll of 3 and 6 is 36, etc. This type of dice roll is referred to as a ‘D66 roll’.
 
 Some events, such as losing in the Pits to a Pit Fighter or being victim to _Killing Blow_ will ask you to roll on the first half of this table. In that case the first dice roll is a D3 rather than a D6, meaning your results will be between 11 and 36.
 
@@ -103,7 +106,7 @@ Roll again:
 
 1-3 = The warrior gains the _Stupidity_ special rule.
 
-4-6 = The warrior becomes Paranoid. Paranoid behaves exactly like Animosity from the Forest Goblins Warband section, except that on the result of a 1 on the Animosity table the character will attack the nearest ally regardless of whether they are a Hero or Henchman, and regardless of whether they also have Animosity/Paranoia. This effect stacks with Animosity.
+4-6 = The warrior becomes Paranoid. Paranoid acts exactly like Animosity from the Forest Goblins Warband section, except that on the result of a 1 on the Animosity table the character will attack the nearest ally regardless of whether they are a Hero or Henchman, and regardless of whether they also have Animosity/Paranoia. This effect stacks with Animosity.
 
 ##### 25 SMASHED LEG
 
@@ -147,17 +150,19 @@ The warrior has been knocked unconscious, or suffers a light wound from which th
 
 \page
 
+<div class='pageNumber auto'></div>
+
 ##### 56 BITTER ENMITY
 
 The warrior makes a full physical recovery, but bears a deep resentment against those they deem responsible. From now on the warrior hates the following: (roll a D6):
 + 1-3 The individual who caused the injury. If it was a Henchman, they hate the enemy leader instead.
 + 4 The leader of the warband that caused the injury.
 + 5 The entire warband of the warrior responsible for the injury.
-+ 6 Everyone of the same race as the warrior responsible for the injury (eg, Trolls / Vampires / Humans / Orks).
++ 6 Everyone of the same race as the warrior responsible for the injury (eg, Trolls / Vampires / Humans / Orcs).
 
 ##### 61 CAPTURED
 
-The warrior regains consciousness and finds themself held captive by the warband that won the scenario. If their own warband won or if there was no winner then the warband that put them out of action captures them. If none of the above apply then re-roll this result. The capturing player may ransom the captive hero back to their owner's warband at a price of their choosing, though the owning player cannot refuse a ransom of less than 20gc. If no ransom occurs the owning player may force the next scenario to be The Rescue as they attempt to retrieve their comrade. Captives may be sold to slavers at a price of D6x5 GC. Undead may kill their captive and gain a new Zombie. The Possessed may sacrifice the prisoner. The leader of the warband will gain +D3 Experience if they do so. Captives who are exchanged or ransomed retain all their weapons, armour and equipment. If the ransom is not met and the captive is sold to slavers/sacrificed etc then the capturing player may keep their equipment. 
+The warrior regains consciousness and finds themself held captive by the warband that won the scenario. If their own warband won or if there was no winner then the warband that put them out of action captures them. If none of the above apply then re-roll this result. The capturing player may ransom the captive hero back to their owner's warband at a price of their choosing, though the owning player cannot refuse a ransom price of less than 20gc. If no ransom occurs the owning player may force the next scenario to be The Rescue as they attempt to retrieve their comrade. Captives may be sold to slavers at a price of D6x5 GC. Undead may kill their captive and gain a new Zombie. The Possessed may sacrifice the prisoner. The leader of the warband will gain +D3 Experience if they do so. Captives who are exchanged or ransomed retain all their weapons, armour and equipment. If the ransom is not met and the captive is sold to slavers/sacrificed etc then the capturing player may keep their equipment. 
 
 ##### 62-63 HARDENED
 
@@ -169,7 +174,7 @@ The warrior causes _fear_ from now on.
 
 ##### 65 SOLD TO THE PITS
 
-The warrior wakes up in the infamous fighting pits of Cutthroat’s Haven and must fight against a Pit Fighter. The Pit Fighter has the statline of a Pit King from the Pit Fighter warband and is equipped with two Morningstars. Roll to see which side charges, and fight the battle as normal. If the warrior loses, roll on the first half of this table. If they survive they are ignanimously thrown out of the fighting pits without their armour and weapons and may re-join their warband. If the warrior wins they gains 50 GC, +2 Experience and is free to rejoin their warband with all their weapons and equipment.
+The warrior wakes up in the infamous fighting pits of Cutthroat’s Haven and must fight against a Pit Fighter. The Pit Fighter has the characteristics and special abilities of a Pit King from the Pit Fighter warband and is equipped with two Morningstars. Roll to see which side charges, and fight the battle as normal. If the warrior loses, roll on the first half of this table. If they survive they are ignonimously thrown out of the fighting pits without their armour and weapons and may re-join their warband. If the warrior wins they gain 50 GC, +2 Experience and are free to rejoin their warband with all their weapons and equipment.
 
 ##### 66 SURVIVES AGAINST THE ODDS
 
@@ -199,47 +204,37 @@ If a warband is deemed to be significantly weaker than the other participating w
 
 \page
 
+<div class='pageNumber auto'></div>
+
 #### Advance rolls
 
-Make Advance rolls straight after the battle so both players
+Make Advance rolls straight after the battle so both or all players
 can witness the result. Roll 2D6 and consult the appropriate
 tables below. In the case of increases to Characteristics the effects are cumulative and permanent.
 
 ##### Heroes
 
-2D6 Result
-
-2 - 5: New Skill. Select one of the Skill tables available to the Hero and pick a skill. If they are a wizard they may choose to randomly generate a new spell instead of a skill. See the Magic section.
-
-6: Roll again: 1-3 = +1 Strength; 4-6 = +1 Attack.
-
-7: You may choose between +1 WS or +1 BS.
-
-8: Roll again: 1-3 = +1 Initiative; 4-6 = +1 Leadership.
-
-9: Roll again: 1-3 = +1 Wound; 4-6 = +1 Toughness.
-
-10 - 12 New Skill. Select one of the Skill tables available to the
-Hero and pick a skill. If they are a wizard they may choose to
-randomly generate a new spell instead of a skill.
+| 2D6 | Result |
+|:-:|:-:|
+|2~5| New Skill. Select one of the Skill tables available to the Hero and pick a skill of your choosing. If they are a wizard they may choose to randomly generate a new spell instead of a skill. See the Magic section.|
+|6| Roll again: 1-3 = +1 Strength; 4-6 = +1 Attack.|
+|7| You may choose between +1 WS or +1 BS.|
+|8| Roll again: 1-3 = +1 Initiative; 4-6 = +1 Leadership.|
+|9| Roll again: 1-3 = +1 Wound; 4-6 = +1 Toughness.|
+|10~12| New Skill. Select one of the Skill tables available to the Hero and pick a skill if your choosing. If they are a wizard they may choose to randomly generate a new spell instead of a skill.|
 
 ##### Henchmen
 
 All warriors in the group gain the same advance.
 
-2D6 Result
-
-2 - 4: The group gains +1 Initiative.
-
-5: The group gains +1 Strength.
-
-6 - 7: Choose either +1 BS or +1 WS.
-
-8: The group gains +1 Attack.
-
-9: The group gains +1 Leadership.
-
-10 - 12 Lad's Got Talent!: One model in the group becomes a Hero. If you already have the maximum number of Heroes, roll again. The new Hero remains the same Henchman type (e.g., a Ghoul stays as a Ghoul) and starts with the same experience the Henchman had, with all their characteristic increases intact. You may choose two skill lists available to Heroes in your warband. These are the skill types your new Hero can choose from when they gain new skills. The new Hero can immediately make one roll on the Heroes Advance table. The remaining members of the Henchmen group, if any, roll again for the advance that they have earned. If there are no Hero slots available in your warband for the new one you may choose to evict an existing Hero to make room, or to return the upstart Henchman to their group.
+|2D6| Result|
+|:-:|:-:|
+|2~4| The group gains +1 Initiative.|
+|5| The group gains +1 Strength.|
+|6~7| Choose either +1 BS or +1 WS.|
+|8| The group gains +1 Attack.|
+|9|The group gains +1 Leadership.|
+|10~12| Lad's Got Talent!: One model in the group becomes a Hero. If you already have the maximum number of Heroes, roll again. The new Hero remains the same Henchman type (e.g., a Ghoul stays as a Ghoul) and starts with the same experience the Henchman had, with all their characteristic increases intact. You may choose two skill lists available to Heroes in your warband. These are the skill types your new Hero can choose from when they gain new skills. The new Hero can immediately make one roll on the Heroes Advance table. The remaining members of the Henchmen group, if any, roll again for the advance that they have earned. If there are no Hero slots available in your warband for the new one you may choose to evict an existing Hero to make room, or to return the upstart Henchman to their group.|
 #### New skills
 
 There are several types of skill and each has a separate list. You may not choose the same skill twice for the same warrior. The skills a Hero may have are restricted by the warband they belong to and what type of Hero they are. To select a new skill for a Hero, pick the type of skill you want from those available, then choose which skill has been learned.
@@ -283,6 +278,8 @@ down the amount of wyrdstone on your warband’s roster sheet.
 
 \page
 
+<div class='pageNumber auto'></div>
+
 #### Number of Wyrdstone shards found
 
 Dice Result Shards Found
@@ -305,44 +302,40 @@ Dice Result Shards Found
 
 ### Doubles
 
-#### (11) Well: 
-The public wells, of which there were several in Mordheim, were covered by rooves raised up on pillars and adorned with carvings and fountains. The city was proud of its water system. Unfortunately, like all the other wells, this one is in a parlous state and undoubtedly polluted with wyrdstone. Choose one of your Heroes and roll a D6. If the result is equal to or lower than their Toughness, they find one shard of wyrdstone at the bottom of the well. If they fail, the Hero swallows tainted water and must miss the next game through sickness.
+#### (11) Well
+The public wells, of which there were several in Mordheim, were covered by roofs raised up on pillars and adorned with carvings and fountains. The city was proud of its water system. Unfortunately, like all the other wells, this one is in a parlous state and undoubtedly polluted with wyrdstone. Choose one of your Heroes and roll a D6. If the result is equal to or lower than their Toughness, they find one shard of wyrdstone at the bottom of the well. If they fail, the Hero swallows tainted water and must miss the next game through sickness.
 
-#### (22) Shop: 
-The Merchants Guild shop has been thoroughly ransacked.Even so, there are still items scattered around the single, long room, mingled in with the rubble. Some are useful, such as cast iron pots and pans and rolls of fine cloth. All manner of smaller items are lying about – the sort of frippery which no longer has a use in a devastated city with few inhabitants. After a thorough search you find loot worth D6 GC. If you roll a 1 you will also find a Lucky Charm.
+#### (22) Shop
+The Merchants Guild shop has been thoroughly ransacked. Even so, there are still items scattered around the single, long room, mingled in with the rubble. Some are useful, such as cast iron pots and pans and rolls of fine cloth. All manner of smaller items are lying about – the sort of frippery which no longer has a use in a devastated city with few inhabitants. After a thorough search you find loot worth D6 GC. If you roll a 1 you will also find a Lucky Charm.
 
-#### 33) Corpse:
+#### 33) Corpse
 You find a still-warm corpse. A chipped dagger sticks out of his back. Surprisingly, his possessions have not been looted. To see what you find when you search the corpse, roll a D6:
 
-D6 Result
+| D6 | Result |
+| :-: | :-: |
+|1~2|  D6 GC|
+|3| Dagger|
+|4 |Axe|
+|5| Sword|
+|6 |Suit of light armour|
 
-1-2:  D6 GC
+#### (44) Straggler
+Your warband encounters one of the survivors of Mordheim, who has lost his sanity along with all his worldly possessions. Skaven or other slaver warbands can sell the straggler to their agents (who will use the man for food or slavery) and gain 2D6 GC. Chaos-worshipping warbands can sacrifice the unfortunate individual for the glory of the Chaos gods. The leader of the warband will gain +1 Experience. Undead warbands can kill the man and gain a Zombie for no cost.
 
-3: Dagger
+Any other warband can interrogate the man and gain insight into the city. Next time you roll on the Exploration chart, roll one dice more than is usually allowed.
 
-4: Axe
+```
+```
 
-5: Sword
-
-6: Suit of light armour
-
-#### (44) Straggler:
-Your warband encounters one of the survivors of Mordheim, who has lost his sanity along with all his worldly possessions. Skaven warbands can sell the straggler to agents of Clan Eshin (who will use the man for food or slavery) and gain 2D6 GC. Possessed warbands can sacrifice the unfortunate individual for the glory of the Chaos gods. The leader of the warband will gain +1 Experience. Undead warbands can kill the man and gain a Zombie for no cost.
-
-Any other warband can interrogate the man and gain insight into the city. Next time you roll on the Exploration chart, roll one dice more than is usually allowed, and discard any one dice. (For example, if you have three Heroes, roll four dice and pick any three).
- ```
- ```
 #### (55) Overturned Cart
-Stuck in a ruined gateway is an overturned wagon – the covered type that nobles travel in from the city to their estates in the country. Since anyone important fled a long time ago, what is it doing here? The horses have broken their traces, or did someone cut them free?
+Stuck in a ruined gateway is an overturned wagon – the covered type that nobles travel in from the city to their estates in the country. Since anyone important fled a long time ago, what is it doing here? Have the horses broken their traces, or did someone cut them free?
 Roll a D6 to see what you find:
 
-D6 Result
-
-1-2 Mordheim Map (see Miscellaneous Equipment)
-
-3-4 A purse with 2D6 GC
-
-5-6 Jewelled Swords: These are surprisingly fine weapons, clearly belonging to a wealthy noble. They may be used or sold for a combined total of 15GC.
+|D6 |Result|
+| :-: | :-: |
+|1~2| Mordheim Map (see Miscellaneous Equipment)|
+|3~4 |A purse with 2D6 GC|
+|5~6| Jewelled Swords: These are surprisingly fine weapons, clearly belonging to a wealthy noble. They may be used or sold for a combined total of 15GC.|
 
 #### (66) Ruined Hovels
 The street consists of ruined hovels, which are leaning over at alarming angles. Not much worth looting here. You find loot worth D6 GC amidst the ruins.
@@ -361,27 +354,23 @@ The furnace and toppled anvil make it obvious what work was done here. Most of t
 
 Roll a D6 to determine what you find inside:
 
-D6 Result
+|D6| Result|
+| :-: | :-: |
+|1 |Sword|
+|2 |Double-handed weapon|
+|3 |Flail|
+|4 |D3 Halberds|
+|5 |Lance|
+|6| 2D6 GC worth of metal (add the value to your treasury).|
 
-1 Sword
-
-2 Double-handed weapon
-
-3 Flail
-
-4 D3 Halberds
-
-5 Lance
-
-6 2D6 GC worth of metal (add the value to your
-treasury).
+<div class='pageNumber auto'></div>
 
 \page
 
 #### (333) Prisoners
 A muffled sound comes from one of the buildings. Inside you find a group of finely dressed people who have been locked in a cellar. Perhaps they are prisoners taken by cultists, ready to be sacrificed during Geheimnisnacht.
 
-Possessed warbands can sacrifice the victims (undoubtedly finishing the job of the captors). They gain D3 Experience which is distributed amongst the Heroes of the warband. 
+Chaos-worshipping warbands can sacrifice the victims, finishing the job of the captors. They gain D3 Experience which is distributed amongst the Heroes of the warband. 
 
 Undead warbands can callously kill the prisoners and gain D3 Zombies at no cost. 
 
@@ -402,17 +391,13 @@ willow rods everywhere.
 
 Roll a D6 to see what you find:
 
-D6 Result
-
-1-2 D3 Short bows
-
-3 D3 Bows
-
-4 D3 Long bows
-
-5 Quiver of hunting arrows
-
-6 D3 Crossbows
+|D6 |Result|
+| :-: | :-: |
+|1~2 |D3 Short bows|
+|3 |D3 Bows|
+|4 |D3 Long bows|
+|5 |Quiver of hunting arrows|
+|6 |D3 Crossbows|
  
 #### (555) Market Hall
 
@@ -430,7 +415,7 @@ You find several items worth 2D6 GC in total.
 As you are returning to your encampment you meet a familiar face. Be it a long-lost ally returning a favour or an enigmatic stranger promising to aid you for reasons of their own, in either case your warband finds itself benefitting from their presence for a short time.
 
 
-You gain the services of a single character from your Warhammer book worth up to 75pts, including named characters. They will join your warband for the next game only before leaving. They will not contribute to your exploration dice, but do not require upkeep either - they are completely free.
+If you are using the Hammerheim expansion set you gain the services of a single character from your Warhammer book worth up to 75pts, including named characters. They will join your warband for the next game only before leaving. They will not contribute to your exploration dice, but do not require upkeep either - they are completely free. Alternatively you may hire a Mordheim character worth up to 200 GC.
 
 ```
 ```
@@ -443,19 +428,14 @@ been broken down and the rooms raided, but some of the iron
 strongboxes have survived intact.
 Roll a D6 to see what you find:
 
-D6 Result
-
-1 Blunderbuss
-
-2 Brace of pistols
-
-3 Brace of duelling pistols
-
-4 D3 Handguns
-
-5 D3 Flasks of superior blackpowder
-
-6 Hochland long rifle
+|D6 |Result|
+| :-: | :-: |
+|1 |Blunderbuss|
+|2 |Brace of pistols|
+|3 |Brace of duelling pistols|
+|4 |D3 Handguns|
+|5 |D3 Flasks of superior blackpowder|
+|6| Hochland long rifle|
 
 #### (2222) Shrine
 Your warband stumbles across a ruined shrine, which is so
@@ -493,17 +473,15 @@ about in the soot, you find various half-finished items of
 armour.
 Roll a D6 to see what you find:
 
-D6 Result
-
-1-2 D3 Shields or bucklers (choose which)
-
-3 D3 Helmets
-
-4 D3 Suits of light armour
-
-5 D3 Suits of heavy armour
-
-6 Suit of Ithilmar armour
+|D6 |Result|
+| :-: | :-: |
+|1~2| D3 Shields or bucklers (choose which) |
+|3 |D3 Helmets |
+|4| D3 Suits of light armour |
+|5| D3 Suits of heavy armour |
+|6 |Suit of Ithilmar armour |
+ 
+ <div class='pageNumber auto'></div>
  
  \page
  
@@ -531,7 +509,7 @@ You find an entrance to the catacombs and tunnels below
 Mordheim.
 
 You can use the new tunnels you found in the next battle you
-play. Position up to four Small warriors anywhere on the table during your deployment phase. They cannot placed within 8" of any enemy models.
+play. Position up to four _Small_ (i.e. human sized) warriors anywhere on the table during your deployment phase. They cannot placed within 8" of any enemy models.
 
 This represents the warriors making their way through the
 tunnels, infiltrating enemy lines and emerging suddenly from
@@ -571,15 +549,12 @@ many times for fragments of gold and gems. But still, some
 small but valuable items may have been overlooked.
 Roll a D6 to see what you find:
 
-D6 Result
-
-1-2 Quartz stones worth D6x5 GC
-
-3-4 Amethyst worth 20 GC
-
-5 Necklace worth 50 GC
-
-6 A ruby worth D6x15 GC
+|D6 | Result|
+| :-: | :-: |
+|1~2| Quartz stones worth D6x5 GC|
+|3~4| Amethyst worth 20 GC|
+|5 |Glimmering ruby necklace worth 50 GC|
+|6 |A beautifully carved diamond worth D6x15 GC|
 
 If your warband does not sell the gems, one of your Heroes
 may keep them and displays them proudly. They gain +1 Leadership while wearing the jewels and may discard them once to ignore a Robbed result on serious injury.
@@ -590,7 +565,7 @@ vaulted stone undercroft which is still stacked with barrels
 and bales of cloth. The foodstuffs have been looted or eaten
 long ago and huge rats infest the rotting bales. Up the stairs
 are the dwelling quarters, solidly built of timber, although
-badly damaged you think you can still get up to them but
+badly damaged.  You think you can still get up to them but
 you’ll need to tread with care!
 
 Inside you find several valuable objects which can be sold for
@@ -618,8 +593,10 @@ efficiently. From now on, you may always add an extra exploration dice to your p
 \page
 ### Six of a kind
 
+<div class='pageNumber auto'></div>
+
 #### (111111) The Pit
-The Pit is the impact site of the meteor when it first struck the city, a vast yawning crevasse that radiates an air of malice. Its depths still smolder after the past few years with the burning green glow of Wyrdstone fire as veins of stone pulsate upwards through the earth. This is the domain of the Shadow Lord, Daemon Prince known as Be'Lakor , and no-one is welcome here - not even his own servants.
+The Pit is the impact site of the meteor when it first struck the city, a vast yawning crevasse that radiates an air of malice. Its depths still smolder after the past few years with the burning green glow of Wyrdstone fire as veins of stone pulsate upwards through the earth. This is the domain of the Shadow Lord, a Daemon Prince known as Be'Lakor , and no-one is welcome here - not even his own servants.
 
 If you wish you may send a single Hero into The Pit to attempt to steal as much Wyrdstone as possible. The Hero must take a Terror test and then an Initiative test. If either of these are failed the Hero never returns from their expedition and is removed from your roster.
 
@@ -632,45 +609,34 @@ In the depths of Mordheim, you come across a hidden chest,
 bearing the coat-of-arms of one of the noble families of the
 town.
 
-When you open the chest you find the following items. Roll
+When you open the chest may find the following items. Roll
 for every item on the list separately (apart from the gold
 crowns) to see whether you have found it. For example, on a
 roll of a 4+ you find the magical artefact.
 
-Items D6 Result Needed
-
-5D6x5 GC Auto
-
-Holy relic 5+
-
-Suit of heavy armour 5+
-
-D3 Gems worth 10 GC each 4+
-
-Elven cloak 5+
-
-Holy tome 5+
-
-Magical artefact 4+
+| Items | D6 Result Needed
+| :- | :-: |
+|5D6x5 GC|Auto
+|Holy relic |5+|
+|Suit of heavy armour| 5+|
+|D3 Gems worth 10 GC each| 4+|
+|Elven cloak |5+|
+|Holy tome| 5+|
+|Magical artefact |4+|
 
 #### (333333) Dwarf Smithy
 You find a solidly built stone workshop. A runic inscription
 indicates that this may have been a Dwarf smithy.
 Roll a D6 to see what you find:
 
-D6 Result
-
-1 D3 Double-handed Gromril Axes
-
-2 D3 Suits of heavy armour
-
-3 D3 Gromril Dwarf axes
-
-4 D3 Gromril Hammers
-
-5 D3 Handguns with Heavy Ammunition.
-
-6 Gromril armour
+|D6| Result|
+|:-: |
+|1| D3 Double-handed Gromril Axes|
+|2 |D3 Suits of heavy armour|
+|3 |D3 Gromril Dwarf axes|
+|4| D3 Gromril Hammers|
+|5 |D3 Handguns with Heavy Ammunition.|
+|6| A suit of Gromril armour|
 ```
 ```
 
@@ -685,27 +651,19 @@ them (anyone else!) you find the following items. Roll for
 every item separately (apart from the gold coins and daggers)
 to see if you find it. For example, on a roll of 4+ you will find
 the suits of light armour.
-Item D6 Result Needed
 
-3D6x5 GC Auto
-
-D3 Suits of light armour 4+
-
-Suit of heavy armour 5+
-
-D6 Daggers Auto
-
-Mordheim Map 4+
-
-D3 Halberds 5+
-
-D3 Swords 3+
-
-D3 Shields 2+
-
-D3 Bows 4+
-
-D3 Helmets 2+
+|Item |D6 Result Needed|
+| :- | :-: |
+|3D6x5 GC |Auto|
+|D3 Suits of light armour |4+|
+|Suit of heavy armour| 5+|
+|D6 Daggers |Auto|
+|Mordheim Map |4+|
+|D3 Halberds |5+|
+|D3 Swords |3+|
+|D3 Shields |2+|
+|D3 Bows |4+|
+|D3 Helmets |2+|
  
 #### (555555) Fighting Arena
 During better times, Mordheim was famous for its duellists
@@ -730,10 +688,12 @@ or behind a secret door. Roll on the Magical Artefacts table.
 
 \page
 
+<div class='pageNumber auto'></div>
+
 ### Magical artefacts table
 
 Roll a D6 and use this table to determine which item you find when a result in the Exploration chart indicates that you have
-found a magical artefact. In a campaign none of these items can appear more than once, so if you find a magic item which is already in someone else’s possession roll again – even if the warrior carrying it has been killed. You do not need to take the Weapon Master skill to wield artefact weapons.
+found a magical artefact. In a campaign none of these items can appear more than once, so if you find a magic item which is already in someone else’s possession roll again – even if the warrior carrying it has been killed. You do not need to take the Weapon Master skill to wield these magical artefact weapons.
 
 #### 1 The Boots and Rope of Pieter
 Pieter, the master thief of the Guild of Shadows, was the most
@@ -754,8 +714,7 @@ pirate known as the ‘Black Corsair’. It is claimed that he
 found it in ancient Elven ruins and legend also has it that the
 dagger’s blade cannot be damaged in any way.
 
-The dagger is treated as a sword. Opponents wounded by it
-are Stunned on a result of 1-3 (Undead are Knocked Down as
+The dagger is treated as a sword. When rolling for injury rolls enemies are Stunned on a result of 1-3 (Undead are Knocked Down as
 normal) and put Out Of Action on a 4-6.
 
 #### 3 Att’la’s World-Treading Mail
@@ -766,18 +725,18 @@ Heldenhammer.
 Att’la’s World-Treading Mail is a suit of Light Armour with the
 following three runes inscribed on it:
 
-Rune of Spell Eating: The Hero wearing this
+**Rune of Spell Eating:** The Hero wearing this
 armour is immune to all spells.
 
-Rune of Passage: The Hero can move through solid
+**Rune of Passage:** The Hero can move through solid
 objects, like walls (this does not however mean that they can
 see through them!).
 
-Rune of Fortitude: The Hero has an extra wound.
+**Rune of Fortitude:** The Hero has an extra wound.
 
 
 #### 4 Rambeaux's Banner
-Rambeaux was a Brettonian Questing Knight famed for being one of the few Knights to ever turn down their ascension to becoming a Grail Knight. He was an utterly fearless fighter, and uniquely preferred to fight on foot than on horseback with a small group of heroes beyond reproach. Rather than have a squire do it, Rambeaux always carried his own banner in battle - a bold and bloodthirsty red drape enchanted to bring even the slightest spark of heroism into a raging inferno within any who fight under it.
+Rambeaux was a Brettonian Questing Knight famed for being one of the few Knights to ever turn down their ascension to becoming a Grail Knight. He was an utterly fearless fighter, and uniquely preferred to fight on foot than on horseback with a small group of heroes beyond reproach. Rather than have a squire do it, Rambeaux always carried his own banner in battle - a bold and bloodthirsty red drape enchanted to turn even the slightest spark of courage into a raging inferno of heroism within any who fight under it.
 
 Rambeaux's Banner functions like a normal banner but as long as the wielder is in combat all allied units within 4", including the wielder, gain +1 Strength and +1 Attack.
 
@@ -789,7 +748,7 @@ carries evil glowing runes which fill the wearer with
 unreasoning and unfathomable bloodlust.
 
 A warrior wearing this becomes subject to and always will be
-frenzied even if knocked down or stunned and adds +2 to their strength. 
+frenzied even if knocked down or stunned, and adds +2 to their strength. 
 
 The wearer never leaves combat under any circumstances, and will always attack opponents in base contact until they are taken out of action. If the wearer is in contact with multiple enemies they may direct attacks at _incapacitated_ enemies even if there are also standing foes present.
 
@@ -843,11 +802,16 @@ the following chart is the profit in gold crowns earned after
 deducting the warband’s maintenance costs. The profit is
 added to warband’s treasury.
 
+
+
+
 \page
 
 #### Selling wyrdstone
 
-In the table below the x-axis represents the size of your warband, and the y-axes represents how many shards you wish to sell. As you can see, the larger the warband size the less gold you will make per shard sold as explained above. A warband of 8 warriors attempting to sell 4 shards would therefore gain 70 gold for the sale, whereas a massive warband of 16 warriors would only gain 55 for the same amount.
+<div class='pageNumber auto'></div>
+
+In the table below the x-axis represents the size of your warband, and the y-axis represents how many shards you wish to sell. As you can see, the larger the warband size the less gold you will make per shard sold as explained above. A warband of 8 warriors attempting to sell 4 shards would therefore gain 70 gold for the sale, whereas a massive warband of 16 warriors would only gain 55 for the same amount.
 
 | x/y | 1-3 | 4-6 | 7-9 | 10-12 | 13-15 | 16+ |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -859,7 +823,6 @@ In the table below the x-axis represents the size of your warband, and the y-axe
 | 6 | 120 | 110 | 100 | 90 | 80 | 70 |
 | 7 | 145 | 130 | 120 | 110 | 100 | 90 |
 | 8+ | 155 | 140 | 130 | 120 | 110 | 100 |
-
 #### Sisters of Sigmar and income
 
 Worldly possessions mean little to the Sisters, but their holy
@@ -879,7 +842,6 @@ warband represent the resources that the High Matriarch will
 put at their disposal. It does not represent money in a literal
 sense, so you may like to think of it as faith, piety,
 dedication, etc.
-
 #### Skaven and Undead
 
 Neither of these warbands puts much value on gold, but they
@@ -962,6 +924,9 @@ equipped in the same way as existing members of the group.
 \page
 #### Weapons
 
+<div class='pageNumber auto'></div>
+
+
 If a player wants to buy new weapons or other equipment for
 existing warriors, refer to the Price chart at the end of the Equipment chapter. The chart lists all the equipment available in Mordheim, not just the common weapons included in the Recruitment charts.
 Rare items and weapons are not always available and vary in
@@ -971,7 +936,7 @@ You may still want to buy rare items offered to you, as your
 warriors may be able to use them as they gain in experience.
 Players should preferably complete any recruiting and trading
 after the battle is over, making the appropriate dice rolls
-whilst both players are present.
+while both players are present.
 
 However, some players may prefer to wait until the heat of
 battle has cooled and they are able to consider purchases
@@ -1035,3 +1000,5 @@ swapped around the warband from one fighter to another
 compared to the cost of equipping any new recruits you may
 get, a warband can usually find a use for its cast-off
 armaments.
+
+\page

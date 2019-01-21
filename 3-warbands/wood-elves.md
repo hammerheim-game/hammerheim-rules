@@ -1,6 +1,8 @@
 ﻿<div class='wide'>
-# Forest Walker Warbands
+# Wood Elf Warbands
 </div>
+
+<div class='pageNumber auto'></div>
 
 The Wood Elves, or Asrai as they are refer to themselves, are but one of the three Elven races. Like the others they too emerged from the cradle of the island paradise of Ulthuan, but unlike the other two the Asrai did so before the great schism that tore the race apart. For this reason, the Asrai hold themselves to be the only true Elves left in the world, for only they embrace the whole of their nature. The folk of Athel Loren are unburdened by ritual sanctimony and therefore capable of great extremes of thought and deed. They are at once capricious and generous, malicious and caring, servants of both the dark and the light.
 
@@ -11,8 +13,8 @@ Taken together, an Elf's suppleness of mind and body ranks them amonst the deadl
 
 
 ### Forest Walker Special Rules
-**Background:** When drawing up your roster for your Forest Walker warband you may pick from one of the three following factions. This represents the origins of your Forest Walker warband, and will confer various bonuses accordingly in addition to the ones listed in this section.	
-**Forest Walkers:** Elves are nowhere more at home than among trees. They never suffer movement penalties, or need to take Dangerous Terrain Tests if mounted, for being in a forest. Additionally, Elves in forests gain the _Stubborn_ rule.
+**Background:** When drawing up your roster for your Forest Walker warband you may pick from one of the three following factions. This represents the origins of your Forest Walker warband, and will confer various bonuses accordingly in addition to the ones listed in this section.    
+**Forest Walkers:** Elves are nowhere more at home than among trees. They never suffer movement penalties, or need to take Dangerous Terrain Tests if mounted, for being in a forest. Additionally, Elves in forests gain the _Stubborn_ rule.  
 **Distrusts Elves:** Wood Elves have little issue with allying with factions that many others would deem unseemly, wholly confident in their ability to manipulate the lesser races and ultimately achieve their own aims. They are significantly more wary around their racial cousins however, and therefore may never form Formal Alliances with them.
 ```
 ```
@@ -25,8 +27,8 @@ They are the masters of craft, their cities woven into the trunks of trees and s
 It takes a great deal to convince these Elves to emerge from their isolation. Beneath The Tree of Life, their most sacred place, vast roots known as The Worldroots spread out all across The Old World. It is a source of constant nourishment to the Skaven in particular, but with one of these roots sitting just below Mordheim the seeping corruption that eminates from the city has begun to be felt even in places as remote as Athel Loren.
 
 ##### Special Rules
-**Forest Spirits:** No warbands are more attuned to the needs of the forests than those of Athel Loren. Consequentially the revenant-like spirits of spite and bark are more willing to co-operate with them. They may have any number of Dryads in their warband rather than the usual limit of 3.	
-**Spiritual:** Athel Loren warbands employ great use of magic to enhance their expeditions and serve to keep them constantly connected to the forests even far from home. They may have up to two Spellsingers in the warband, rather than the usual limit of one.	
+**Forest Spirits:** No warbands are more attuned to the needs of the forests than those of Athel Loren. Consequentially the revenant-like spirits of spite and bark are more willing to co-operate with them. They may have any number of Dryads in their warband rather than the usual limit of 3. 
+**Spiritual:** Athel Loren warbands employ great use of magic to enhance their expeditions and serve to keep them constantly connected to the forests even far from home. They may have up to two Spellsingers in the warband, rather than the usual limit of one.  
 **Alignment:** The Warband’s Alignment is Lawful, or Lawful/Neutral.
 ___
 
@@ -36,7 +38,7 @@ ___
   style='width:320px' />
 \page
 
-
+<div class='pageNumber auto'></div>
 
 
 ## Forest of Shadows
@@ -53,8 +55,8 @@ ___
 
 
 ##### Special Rules
-**Beast-Hunters:** All Elves from the Forest of Shadows _hate_ all Beastmen.	
-**Wardancers:** Forest of Shadows warbands may not purchase Waywatchers, but may now take up to three Wardancers.	
+**Beast-Hunters:** All Elves from the Forest of Shadows _hate_ all Beastmen.    
+**Wardancers:** Forest of Shadows warbands may not purchase Waywatchers, but may now take up to three Wardancers.   
 **Alignment:** the Warband’s Alignment is Lawful / Neutral, Neutral, Chaotic / Neutral.
 
 
@@ -75,31 +77,31 @@ The Asrai of The Great Forest thrive in this darkness, and so well-hidden are th
 
 
 ##### Special Rules
-**Predators:** Elves from The Great Forest may attempt Initiative tests to detect enemies from three times their Initiative value in inches, rather than the usual two.	
-**Waywatchers:** The Great Forest warbands may not purchase Wardancers, but may now take up to three Waywatchers.	
+**Predators:** Elves from The Great Forest may attempt Initiative tests to detect enemies from three times their Initiative value in inches, rather than the usual two. 
+**Waywatchers:** The Great Forest warbands may not purchase Wardancers, but may now take up to three Waywatchers.   
 **Alignment:** the Warband’s Alignment is Lawful, Lawful / Neutral, Neutral, Chaotic / Neutral, or Chaotic.
 
 \page
 
-
+<div class='pageNumber auto'></div>
 
 ### Choice of Warriors
 
-A Forest Walker warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 12. Your warband may not begin the campaign with more than five heroes.	
-**Glade Captain:** Each Forest Walker warband must have one Glade Captain: no more no less!	
-**Waywatcher:** Your warband may include up to one Waywatcher..	
-**Wardancer:** Your warband may include up to one Wardancer.	
-**Spellsinger:** Your warband may include up to one Spellsinger.	
-**Glade Guard:** Your warband may include any number of Glade Guard.	
-**Eternal Guard:** Your warband may include up to three Eternal Guard.	
+A Forest Walker warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 12. Your warband may not begin the campaign with more than five heroes.    
+**Glade Captain:** Each Forest Walker warband must have one Glade Captain: no more no less! 
+**Waywatcher:** Your warband may include up to one Waywatcher.. 
+**Wardancer:** Your warband may include up to one Wardancer.    
+**Spellsinger:** Your warband may include up to one Spellsinger.    
+**Glade Guard:** Your warband may include any number of Glade Guard.    
+**Eternal Guard:** Your warband may include up to three Eternal Guard.  
 **Dryads:** Your warband may include up to three Dryads.
 
 
 ### Starting Experience
 
-**Glade Captain** starts with 20 experience.	
-**Waywatchers** start with 16 experience.	
-**Wardancers** and the **Spellsinger** start with 12 experience.	
+**Glade Captain** starts with 20 experience.    
+**Waywatchers** start with 16 experience.   
+**Wardancers** and the **Spellsinger** start with 12 experience.    
 **Henchmen** start with 0 experience.
 
 
@@ -110,7 +112,7 @@ The following lists are used by Forest Walker warbands to pick their equipment:
 #### Warrior Equipment List
 | Hand-to-hand Weapons |
 | :- | -: |
-| Dagger | 1st free/2 GC |	 
+| Dagger | 1st free/2 GC |   
 | Sword | 5 GC ||
 | Staff (club) | 5 GC |
 | Spear | 10 GC |
@@ -119,7 +121,8 @@ The following lists are used by Forest Walker warbands to pick their equipment:
 
 | Missile Weapons |
 | :- | -: |
-| Throwing Knives | 15 GC |
+| Throwing Knives | 10 GC |
+| Longbow | 15 GC |
 | Elf Bow | 35 GC |
 
 | Armour |
@@ -138,7 +141,7 @@ The following lists are used by Forest Walker warbands to pick their equipment:
 #### Ranger Equipment List
 | Hand-to-hand Weapons |
 | :- | -: |
-| Dagger | 1st free/2 GC |	 
+| Dagger | 1st free/2 GC |   
 | Sword | 5 GC |
 | Club | 5 GC |
 
@@ -146,7 +149,7 @@ The following lists are used by Forest Walker warbands to pick their equipment:
 | Missile Weapons |
 | :- | -: |
 | Longbow | 15 GC |
-| Throwing Knives | 15 GC |
+| Throwing Knives | 10 GC |
 | Elf Bow | 35 GC |
 
 | Armour |
@@ -162,7 +165,7 @@ The following lists are used by Forest Walker warbands to pick their equipment:
 
 
 > ### Warglaive
-> **Range:** Hand-to-hand; ** Strength:** As User	
+> **Range:** Hand-to-hand; ** Strength:** As User   
 **Special Rules:** Requires two hands. +2 Attacks.
 
 
@@ -182,73 +185,78 @@ Cold Metal Armour grants the wearer a 5+ Armour Save. Additionally, enemies are 
 
 
 
+<div class='pageNumber auto'></div>
+
 ### Heroes
 
 #### **1 Glade Captain**
-90 gold crowns to hire.	
+75 gold crowns to hire. 
 _Young nobles are typically entrusted with warbands to give them practice of command and leadership before they are deemed ready for larger duties. "Young" is strictly a relative term however, as by any other standard these Captains are ancient and supernaturally skilled induviduals._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| | 5 | 5 | 5 | 3 | 3 | 1 | 5 | 1 | 9 |
+| | 5 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 9 |
 ___
-**Weapons/Armour:** Glade Captains may choose equipment from the Warrior Equipment List.	
+**Weapons/Armour:** Glade Captains may choose equipment from the Warrior and Scout Equipment List.  
 **Skills:** Glade Captains may choose from Combat, Shooting, Academic, Speed, and Wood Elf Special Skills.
 ___
-##### Special Rules	
-**Leader:** Any warrior within 6" of the Glade Captain may use their Leadership characteristic when taking Leadership tests.
+##### Special Rules 
+**Leader:** Any allied warrior within 6" of the Glade Captain may use their Leadership characteristic when taking Leadership tests.
 
 #### **0-1 Waywatcher**
-85 gold crowns to hire	
+85 gold crowns to hire  
 _Waywatchers are silent sentinels, the guardians of the paths leading to the forests' secrets. They are masters of concealment, and can lie unmoving and unnoticed for days on end before springing an ambush on a startled and unfortunate prey._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 5 | 4 | 5 | 3 | 3 | 1 | 5 | 1 | 9 |
 ___
-**Weapons/Armour:** Waywatchers may choose from the Scout Equipment List.	
+**Weapons/Armour:** Waywatchers may choose from the Scout Equipment List.   
 **Skills:** Waywatchers may choose from Combat, Shooting, Speed, and Wood Elf Special Skills.
 
 
 ##### Special Rules
-**Infiltration:** The Waywatcher starts with the Infiltration skill.	
+**Infiltration:** The Waywatcher starts with the Infiltration skill.    
 **Loner:** Waywatchers have no interest in leadership. They may never become your warband leader, and their leadership may never be used for Rout Tests.
 
 
 #### **0-1 Spellsinger**
-60 gold crowns to hire	
-_While all Asrai are intrinsically magical beings, in truly gifted Elves this is shaped into a tool of great power. Spellsingers take great lengths to protect themselves from the corrupting forces of their magic, for even minor usage over the duration of their long, long lives can be fiercely detrimental._
+60 gold crowns to hire  
+_While all Asrai are intrinsically magical beings, in truly gifted Elves this is shaped into a tool of great power. Spellsingers take great lengths to protect themselves from the corrupting forces of their magic, for even minor usage over the duration of their long lives can drive an Elf to madness, a lesson harshly learnt by the ruler Ariel._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 5 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 |
 ___
-**Weapons/Armour:** Spellsingers may choose from the Warrior Equipment List.	
+**Weapons/Armour:** Spellsingers may choose from the Warrior Equipment List.    
 **Skills:** Spellsingers may choose from Academic, Speed, and Wood Elf Special Skills.
 ##### Special Rules
 **Magic User:** The Spellsinger uses spells from Fey Magic.
 
+```
+```
+
 ### 0-1 Wardancer
-105 gold crowns to hire	
-_Wardancers are perhaps the greatest and are certainly the most unusual of the Wood Elven warriors, possessing incredible acrobatic abilities and a strange fighting style designed to resemble a dance._	
+105 gold crowns to hire 
+_Wardancers are perhaps the greatest and are certainly the most unusual of the Wood Elven warriors, possessing incredible acrobatic abilities and a truly unique fighting style designed to resemble a dance._  
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 5 | 5 | 4 | 3 | 3 | 1 | 6 | 2 | 8 |
 ___
-**Weapons/Armour:** Wardancers may choose equipment from the Warrior Equipment List.	
+**Weapons/Armour:** Wardancers may choose equipment from the Warrior Equipment List.    
 **Skills:** Wardancers may choose from Combat, Shooting, Speed, and Wardancer Special Skills.
 ___
-##### Special Rules	
-**Leap:** Wardangers start with the Leap skill.	
-**Immune to Psychology:** Wardancers are _Immune to Psychology_.	
-**Talismanic Tattoos:** Wardancers gain a 5+ Ward Save against Magic Missiles and Direct Damage spells.	
-**Wardancing:** As the name suggests Wardancers use a truly unique style of combat only practiced by the Asrai, combining flawless grace with deadly rhythm for a fighting style as beautiful as it is lethal. At the start of each of your Combat Phases you may declare that your Wardancer is performing one of the dances listed below. The effects last until the end of your Combat Phase.
+##### Special Rules 
+**Leap:** Wardancers start with the Leap skill. 
+**Immune to Psychology:** Wardancers are _Immune to Psychology_.    
+**Talismanic Tattoos:** Wardancers have Magic Resistance (2).       
+**Wardancing:** As the name suggests Wardancers use a truly unique style of combat only practiced by the Asrai, combining flawless grace with deadly rhythm in a fighting style as beautiful as it is lethal. At the start of each of your Combat Phases you may declare that your Wardancer is performing one of the dances listed below. The effects last until the end of your Combat Phase. You may therefore not dance during an enemy's turn. Wardancers may not dance while _incapacitated_.
 
-> **Storm of Blades:** The Wardancer may re-roll all failed 'To Hit' rolls.	
-**Whirling Death:** The Wardancer may re-roll all failed 'To Wound' rolls.	
-**Shadow's Coil:** The Wardancer gains a 3+ Ward Save.	
-**Woven Mist:** The enemy must pass a Leadership Test or be reduced to Weapon Skill 0.
+> **Storm of Blades:** The Wardancer may re-roll all failed 'To Hit' rolls. 
+**Whirling Death:** The Wardancer may re-roll all failed 'To Wound' rolls.  
+**Shadow's Coil:** The Wardancer gains a 3+ Ward Save.  
+**Woven Mist:** The enemy must pass a Leadership Test or be reduced to Weapon Skill 0. Has no effect on _Gigantic_ or _Titanic_ enemies.
 
 ___
 <img 
@@ -259,11 +267,13 @@ ___
 
 
 \page
+
+<div class='pageNumber auto'></div>
 ### Henchmen
 
 #### Glade Guard
-35 Gold Crowns	
-_The Glade Guard are the Asrai equivalent of a militia levy - though rather than unhappy and uninvested peasants being drafted they are keen and eager warriors. They are potters and artists, husbands and wives - and they are all deadly._
+35 Gold Crowns  
+_The Glade Guard are the Asrai equivalent of a militia levy - though rather than unhappy and uninvested peasants serving under compulsion they are keen and eager warriors. They are potters and artists, husbands and wives - and they are all deadly with a bow._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -273,40 +283,49 @@ ___
 
 
 ### 0-3 Eternal Guard
-35 gold crowns to hire	
+40 gold crowns to hire  
 _The protection of the forests is the sole objective of the Eternal Guard, and to that end they are sworn to the service of their Nobles._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 5 | 4 | 3 | 3 | 3 | 1 | 5 | 1 | 8 |
 ___
-**Weapons/Armour:** Eternal Guard choose equipment from the Warrior Equipment List.	
+**Weapons/Armour:** Eternal Guard choose equipment from the Warrior Equipment List. 
 ___
+##### Special Rules
+**Eldrazor's Wardens:** Eternal Guard gain +1 Strength when using a Warglaive.  
+
+___
+
 <img 
   src='https://imgur.com/u2qce2z.jpg' 
   style='width:580px' />
 ```
 ```
-### Dryads
-45 gold crowns to hire	
+### 0-3 Dryads
+45 gold crowns to hire  
 _The manifestation of the forests' vengeance, Dryads are furious spirits born of bark. While the darkest parts of mortal minds are what bring Daemons into this world, it is suggested that the Dryads are the darkest parts of the forests' conscience._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| | 5 | 4 | 0 | 3 | 4 | 1 | 5 | 2 | 8 |
+| | 5 | 4 | 0 | 3 | 4 | 1 | 4 | 2 | 8 |
 ___
-**Weapons/Armour:** Dryads attack with razor-sharp claws fashioned from their limbs. They may never equip weapons or armour, but suffer no penalty for doing so.
+**Weapons/Armour:** Dryads attack with razor-sharp claws fashioned from their limbs. They may never bear weapons or armour, but suffer no penalty for doing so.
 
 ##### Special Rules
 **Forest Spirit:** Dryads are not entirely living creatures, and blows that would slay a mortal of similar constitution occasionally just cause splinters but nothing more. Dryads have a 6+ Ward Save. They also never gain experience.
-**Flammable:** Being made of lightweight wood has its disadvantages. Dryads are _Flammable_.	
+**Flammable:** Being made of lightweight wood has its disadvantages. Dryads are _Flammable_.    
 **Fear:** Characterised by a shrill, hollow, inhuman screams the Dryads are twisted beings that cause _fear_.
 
+\page
 
 
 
+<div class='wide'><img 
+  src='https://i.imgur.com/rDui7Tt.jpg' 
+  style='width:700px' />
+
+</div>
 
 
-
-
- 
+\page

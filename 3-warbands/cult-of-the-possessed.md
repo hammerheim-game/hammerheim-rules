@@ -16,33 +16,37 @@ As all students of the dark arts know, it is by the power of magic that creature
 
 
 
-With the power of the Possessed behind them the followers of the Shadowlord have grown powerful in Mordheim. The wild madness and rampant corruption that at times bends the vary fabric of reality only serves to strengthen the dark magicks that their sorcerers are capable of wielding, and the contaminated air does not affect them at all or, more likely, it only nourishes their potential. Those who venture into Mordheim alone are destined to be hunted down and sacrificed to the dark gods.
+With the power of the Possessed behind them the followers of the Shadowlord have grown powerful in Mordheim. The wild madness and rampant corruption that at times bends the vary fabric of reality only serves to strengthen the dark magick that their sorcerers are capable of wielding, and the contaminated air does not affect them at all or, more likely, it only nourishes their potential. Those who venture into Mordheim alone are destined to be hunted down and sacrificed to the dark gods.
 
-All warbands of the Possessed gather wyrdstone for the Shadowlord whose lair can be found at the very center of Mordheim at the impact site of the meteor, known as The Pit. His lair is a deep black cavern illuminated by smoldering green wyrdstone, and while his blessings are eagerly sought the Possessed cults know far better than to venture inside - instead leaving their gifts and offerings at the threshold.
+All warbands of the Possessed gather wyrdstone for the Shadowlord whose lair can be found at the very center of Mordheim at the impact site of the meteor, known as The Pit. His lair is a deep black cavern illuminated by smoldering green wyrdstone, and while his blessings are eagerly sought the Possessed cults know far better than to venture inside, instead leaving their gifts and offerings at the threshold.
 
-While all Cults of The Possessed share a common goal their appearances and structures vary wildly - even between patrons of the same god. Rallied around powerful wizards called Magisters, the warbands are often reflections of the charm and character of their leaders, and their goals are inexorably tied to those of their masters. In some cases these Cults are even hired as mercenaries from shadowy induviduals within the Empire, often themselves covertly cultists, so the potential for variety is vast.
+While all Cults of The Possessed share a common goal their appearances and structures vary wildly, even between patrons of the same god. Rallied around powerful wizards called Magisters, the warbands are often reflections of the charm and character of their leaders, and their goals are inexorably tied to those of their masters. In some cases these Cults are even hired as mercenaries from shadowy induviduals within the Empire, often themselves covertly cultists, so the potential for variety is vast.
 
+<div class='pageNumber auto'></div>
 
 ### Special Rules
-**Willful Mutation:** Whenever a member of the warband gains a skill advance, they may instead choose to gain a Random Mutation.	
+**Willful Mutation:** Whenever a member of the warband gains a skill advance, they may instead choose to gain a Random Mutation.    
 **Alignment:** the Warband’s Alignment is Chaotic.
 
 ### Choice of Warriors
 
-A Cult of The Possessed warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 15. Your warband may not begin the campaign with more than five heroes.	
-**Magister:** Each Cult of The Possessed warband must have one Magister: no more no less!	
-**Possessed:** Your warband may include up to two Possessed.	
-**Mutants:** Your warband may include up to three Mutants.	
-**Darksouls:** Your warband may include up to five Darksouls.	
-**Brethren:** Your warband may include any number of Brethren.	
+A Cult of The Possessed warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 15. Your warband may not begin the campaign with more than five heroes.    
+**Magister:** Each Cult of The Possessed warband must have one Magister: no more no less!   
+**Possessed:** Your warband may include up to two Possessed.    
+**Mutants:** Your warband may include up to three Mutants.  
+**Darksouls:** Your warband may include up to five Darksouls.   
+**Brethren:** Your warband may include any number of Brethren.  
 **Chaos Spawn** Your warband may include up to one Chaos Spawn.
 \page
+
+<div class='pageNumber auto'></div>
+
 ### Starting Experience
 
-**Magisters** start with 20 experience.	
-**Possessed** start with 12 experience.	
+**Magisters** start with 20 experience. 
+**Possessed** start with 12 experience. 
 **Mutants** and
-**Henchmen** start with 0 experience.	
+**Henchmen** start with 0 experience.   
 
 
 
@@ -56,7 +60,7 @@ The following lists are used by Cult of The Possessed warbands to pick their equ
 #### Cultist Equipment List
 | Hand-to-hand Weapons |
 | :- | -: |
-| Dagger | 1st free/2 GC |	 
+| Dagger | 1st free/2 GC |   
 | Sword | 5 GC |
 | Axe | 5 GC |
 | Club | 5 GC |
@@ -66,12 +70,12 @@ The following lists are used by Cult of The Possessed warbands to pick their equ
 | :- | -: |
 | Shortbow | 5 GC |
 | Bow | 10 GC |
-| Throwing Knives | 15 GC |
+| Throwing Knives | 10 GC |
 
 | Armour |
 | :- | -: |
 | Helmet | 10 GC |
-| Light Armour |  20 GC |
+| Light Armour |  10 GC |
 
 
 #### Darksouls Equipment List
@@ -90,54 +94,57 @@ The following lists are used by Cult of The Possessed warbands to pick their equ
 | :- | -: |
 | Shield | 5 GC |
 | Helmet | 10 GC |
-| Light Armour |  20 GC |
+| Light Armour |  10 GC |
 
 ```
 ```
 ### Heroes
 
 #### **1 Magister**
-70 gold crowns to hire.	
+75 gold crowns to hire. 
 _Magisters lead the covens of the Possessed. They have been granted
 magical powers by their patron gods. They are fanatical followers
-of the Dark gods, utterly dedicated to bringing Chaos to the world. _	
+of the Dark gods, utterly dedicated to bringing Chaos to the world._    
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 4 | 4 | 4 | 3 | 3 | 1 | 3 | 1 | 8 |
 ___
-**Weapons/Armour:** The Magister may choose equipment from the Cultist Equipment List.	
+**Weapons/Armour:** The Magister may choose equipment from the Cultist Equipment List.  
 **Skills:** The Magister may choose from Combat, Academic, and Speed Skills.
 ___
-##### Special Rules	
-**Leader:** Any warrior within 6" of the Magister may use their Leadership characteristic when taking Leadership tests.
+##### Special Rules 
+**Leader:** Any warrior within 6" of the Magister may use their Leadership characteristic when taking Leadership tests. 
 **Magic User:** Magisters use spells from Chaos Rituals.
 
 
 #### **0-2 Possessed**
-90 gold crowns to hire	
+90 gold crowns to hire  
 _The Possessed have committed the greatest of heresies: they have given their bodies to Daemons. As a result, they are nightmarish creatures, a melding of flesh, metal and black magic. Inside them lives a supernatural thing of evil, a Daemon from the dark reaches of the Realm of Chaos. The powerful spirit of a Daemon can meld several creatures together, be they men or animals, into a multi-faceted horror. These monstrous Possessed are perhaps the most dangerous of the creatures of Mordheim, and certainly the most loathsome and dreadful._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 5 | 4 | 0 | 4 | 4 | 2 | 4 | 2 | 7 |
 ___
-**Weapons/Armour:** Possessed may never use weapons or armour, but suffer no penalty for doing so.	
+**Weapons/Armour:** Possessed may never use weapons or armour, but suffer no penalty for doing so.  
 **Skills:** Possessed may choose from Combat, Strength, and Speed skills.
 ##### Special Rules
 **Fear:** The Possessed are terrifying, twisted creatures and
-therefore cause _fear_.	
+therefore cause _fear_. 
 **Mutations:** The Possessed may be bought mutations when they are first hired. See Mutations in the skills section.
 \page
+
+<div class='pageNumber auto'></div>
+
 #### **0-3 Mutants**
-25 gold crowns to hire	
-_Mutants are revered as the favoured ones of the Dark gods, their physical disfigurements marking out the vileness of their soul. They come in many shapes and sizes, each more bizarre than the next._ 
+25 gold crowns to hire  
+_Mutation among the Empire is commonplace - extra toes, eyes, or discoloured skin being typical disformities. For many these traits are able to be hidden from view, but for those with far more significant abnosmalities a life of exile and danger awaits. These mutants are revered as the favoured of the Dark gods, their physical disfigurements marking out the vileness of their soul. They come in many shapes and sizes, each more bizarre than the next, but many find comfort and acceptance within these cults that they were never afforded by law abiding folk._ 
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | 4 | 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 |
 ___
-**Weapons/Armour:** Mutantss may choose equipment from the Cultist Equipment List.		
+**Weapons/Armour:** Mutants may choose equipment from the Cultist Equipment List.       
 **Skills:** Mutants may choose from Combat, Strength, and Speed skills.
 
 ##### Special Rules
@@ -148,8 +155,8 @@ ___
 
 
 #### 0-5 Darksouls
-35 gold crowns to hire	
-_Darksouls those who have been driven insane by the daemonic possession which became all too common after the destruction of Mordheim. The Daemons have left the bodies of these people, but their minds have been scarred by the horror of the experience. Their insane strength makes Darksouls dangerous fighters. The Cultists regard them as holy, and let them work out their unreasoning rage in battle. In their tortured minds the Darksouls believe themselves to be Daemons. They wear leering daemonic masks and garb themselves in armour and clothing resembling the scaled skin of Daemons._
+35 gold crowns to hire  
+_Darksouls are those who have been driven insane by the Daemonic possession which became all too common after the destruction of Mordheim. The Daemons have left the bodies of these people, but their minds have been scarred by the horror of the experience. During their possession however they will have found their bodies reshapen, musculature growing around them to reshape them in the image of their hosts' patron gods. In their tortured minds however they believe themselves to be Daemons, and fight with an unholy and entirely unnatural strength._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -161,8 +168,8 @@ ___
 **Crazed:** Darksouls are _Immune to Psychology_.
 
 #### Brethren
-25 Gold Crowns	
-_Brethren are the crazed human followers of the cults of the dark gods, eager to descend into damnation. Their vile deeds and unspeakable acts have driven them to the brink of insanity._
+25 Gold Crowns  
+_Brethren are the crazed human followers of the cults of the Dark Gods, eager to descend into damnation. Their vile deeds and unspeakable acts have driven them to the brink of insanity._
 
 | Profile | M | WS | BS | S | T | W | I | A | Ld |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -172,7 +179,7 @@ ___
 ```
 ```
 #### 0-1 Chaos Spawn
-180 gold crowns to hire	
+180 gold crowns to hire 
 _Some cultists grow so fanatical in their pursut of mutation that these boons grow beyond their control, accellerating in rapid and violent growth that twists and contorts their bodies. Many deem these cultists as having achieved a form of ascension, for there is no creature as representative of the horrific power and inspiration of Chaos as the Spawn._
 
 | M | WS | BS | S | T | W | I | A | Ld |
@@ -182,22 +189,15 @@ ___
 **Weapons/Armour:** None! Spawns of Chaos fight with claws, tentacles and other extremities. 
 
 ##### Special Rules
-**Special Attacks:** Roll at the beginning of each Close Combat phase to determine the spawn’s number of Attacks for that phase.	
-**Fear:** Spawn are disgusting and revolting blasphemies against nature and cause _fear_.	
-**Special Movement:** The Spawn moves 2D6" per turn in the Compulsory Movement phase. It does not double its movement for charging, instead if its movement takes it into contact with a model it counts as charging and engages that model in close combat.	
-**Unrelenting:** Chaos Spawns are impossible to deter, relentlessly attacking until they have reduced their targets to pulp or they themselves stop twitching. It is not unheard of for severed parts of a Chaos Spawn to wriggle about violently on the ground in an effort to attack everything around it for some time after the Spawn has died. The Chaos Spawn is _Unbreakable_ and is also _Immune to Psychology_.	
-**No Brain:** Spawns of Chaos are crazed unthinking masses of chaotically writhing flesh and therefore gain no experience.	
+**Special Attacks:** Roll at the beginning of each Close Combat phase to determine the spawn’s number of Attacks for that phase.    
+**Fear:** Spawn are disgusting and revolting blasphemies against nature and cause _fear_.   
+**Special Movement:** The Spawn moves 2D6" per turn in the Compulsory Movement phase. It does not double its movement for charging, instead if its movement takes it into contact with a model it counts as charging and it engages that model in close combat. 
+**Unrelenting:** Chaos Spawns are impossible to deter, relentlessly attacking until they have reduced their targets to pulp or they themselves stop twitching. It is not unheard of for severed parts of a Chaos Spawn to wriggle about violently on the ground in an effort to attack everything around it for some time after the Spawn has died. The Chaos Spawn is _Unbreakable_ and _Immune to Psychology_.    
+**No Brain:** Spawns of Chaos are crazed unthinking masses of chaotically writhing flesh and therefore gain no experience.  
 **Large:** Spawns of Chaos are _Large_ sized. 
 ___
 <img 
   src='https://imgur.com/qOtGhk1.jpg' 
   style='width:250px' />
 
-
-
-
-
-
-
-
-
+\page
